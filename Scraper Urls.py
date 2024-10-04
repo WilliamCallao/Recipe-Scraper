@@ -18,7 +18,7 @@ chrome_options.add_argument("--no-sandbox")
 service = Service()
 driver = webdriver.Chrome(service=service, options=chrome_options)
 
-driver.get("https://diabetesfoodhub.org/recipes/quick-easy")
+driver.get("https://diabetesfoodhub.org/recipes/kid-friendly")
 
 with open('recetas_unicas.csv', 'w', newline='', encoding='utf-8') as csvfile:
     fieldnames = ['Titulo', 'Enlace', 'Imagen']
