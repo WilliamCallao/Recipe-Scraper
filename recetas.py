@@ -81,7 +81,7 @@ def extract_recipe_data(url):
         # Extraer pasos de la receta (instrucciones)
         steps = soup.find('ol', class_='recipe-steps')
         if steps:
-            recipe_info['instructions'] = [step.get_text().strip() for step in steps.find_all('li')]
+            recipe_info['instructions'] = [step.get_text().replace('\n', ' ').strip() for step in steps.find_all('li')]
         else:
             recipe_info['instructions'] = []
 
