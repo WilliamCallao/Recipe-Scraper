@@ -1,0 +1,85 @@
+{
+    "title": "Sirloin Hoagies",
+    "keywords": "Lunch,Dinner,Main Dish,Quick & Easy,Sandwiches",
+    "prep_time": "PT12M",
+    "cook_time": "PT16M",
+    "categories": [
+        "Lunch",
+        "Dinner",
+        "Main Dish",
+        "Quick & Easy",
+        "Sandwiches"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_837_Sirloin%20Hoagies_4IngredientCookbook_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "salt ((divided use))",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "boneless sirloin steak (trimmed of fat)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "large onion (thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "French bread (whole-wheat or white)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "prepared mustard",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350°F.",
+        "Sprinkle 1/16 teaspoon salt and the pepper evenly over both sides of the steak. Place a large nonstick skillet over medium-high heat until hot. Coat with nonstick cooking spray, add the steak, and cook 5 minutes.",
+        "Turn and cook another 4 minutes or until the beef is done as desired. Place the beef on a cutting board and set aside.",
+        "Coat the pan drippings with nonstick cooking spray, reduce the heat to medium, and add the onions. Coat the onions with nonstick cooking spray and cook 6–7 minutes or until they are richly browned, stirring frequently.",
+        "Add water to the onions and cook 1 minute or until most of the moisture has evaporated, stirring constantly. Remove from heat.",
+        "Wrap the bread in foil, place in the oven, and bake 5 minutes or until hot. Meanwhile, thinly slice the beef diagonally.",
+        "Using a serrated knife, cut the bread in half lengthwise and spread a thin layer of mustard on each side. Top with beef, then onions and any juices. Sprinkle with the remaining salt, top with the other bread half, and cut in fourths crosswise."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Dialysis",
+        "Comfort Food",
+        "Lunch",
+        "Dinner",
+        "Main Dish",
+        "Quick & Easy",
+        "Sandwiches"
+    ],
+    "nutrition": {
+        "calories": "290",
+        "total_fat": "5g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0.1g",
+        "cholesterol": "40mg",
+        "sodium": "400mg",
+        "total_carbohydrate": "32g",
+        "fiber": "3g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "28g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sirloin-hoagies"
+}

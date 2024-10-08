@@ -1,0 +1,85 @@
+{
+    "title": "Roasted Pepper Pizza",
+    "keywords": "Quick & Easy,Main Dish,Lunch,Dinner,Vegetarian",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/jul13_pepp_pizza_istock14859461_279x200.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "onion powder",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "frozen bread dough (thawed)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "medium bell peppers (sliced into 1-inch strips, (red, green, and yellow or any combination))",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "light spaghetti sauce",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "mozzarella cheese (4-ounces, shredded, reduced-fat)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 450 degrees F. Coat a 12-inch pizza pan with nonstick cooking spray. Using your fingertips or the heel of your hand, spread the dough so that it covers the bottom of the pan.",
+        "In a small bowl, combine the oil, garlic powder, onion powder, and black pepper. Add the bell peppers and toss to coat, then place in a 9’x13’ baking dish. Bake for 20 to 25 minutes, or until the peppers are fork-tender.",
+        "Spread the sauce over the dough and sprinkle with the mozzarella cheese.",
+        "Place the roasted peppers over the cheese and bake for 13 to 15 minutes, or until the crust is crisp and brown. Cut and serve."
+    ],
+    "tags": [
+        "Italian",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "8g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "8mg",
+        "sodium": "532mg",
+        "total_carbohydrate": "33g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-pepper-pizza"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Grape Tomato Succotash",
+    "keywords": "Lunch,Quick & Easy,Salads,Vegan,Vegetarian",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Quick & Easy",
+        "Salads",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_715_Grape%20Tomato%20Succotash_WithOrWithout_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "medium red onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "thawed frozen lima beans (or 2 cups shelled fresh lima beans)",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "sweet corn (fresh (from 2 medium ears) or thawed frozen yellow)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "small jalapeño pepper, with seeds (thinly sliced crosswise)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "sunflower milk beverage or almond milk (plain unsweetened)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "grape tomatoes (quartered lengthwise)",
+            "us_amount": "1 pints",
+            "metric_amount": "480 ml"
+        },
+        {
+            "name": "Apple Cider Vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cilantro (finely chopped fresh)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        }
+    ],
+    "instructions": [
+        "Heat the oil in a large skillet over medium-high heat. Add the onion, lima beans, corn, and jalapeño, and sauté until the vegetables are heated through, about 3 minutes. Add the sunflower milk beverage and salt, and sauté until the vegetables are tender and liquid is fully reduced, about 6 minutes. Add the tomatoes and vinegar, and sauté until the tomatoes are heated through, about 1 minute. Stir in the cilantro. Adjust seasoning.",
+        "Transfer to a serving bowl or individual bowls, garnish with additional cilantro, if desired, and serve."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lunch",
+        "Quick & Easy",
+        "Salads",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "6g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "360mg",
+        "total_carbohydrate": "28g",
+        "fiber": "6g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grape-tomato-succotash"
+}

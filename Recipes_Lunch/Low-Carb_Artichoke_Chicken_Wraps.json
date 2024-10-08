@@ -1,0 +1,96 @@
+{
+    "title": "Low-Carb Artichoke Chicken Wraps",
+    "keywords": "Sandwiches,Foodie,Dinner,Lunch,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Sandwiches",
+        "Foodie",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/342-Low-Carb-Artichoke-Chicken-Wraps_485862877_04112018%20.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "egg whites",
+            "us_amount": "4 whole",
+            "metric_amount": "4 whole"
+        },
+        {
+            "name": "skim milk",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "coconut flour (sifted)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "chicken breasts (cooked, shredded)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "artichoke hearts (chopped, drained and rinsed)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "red onion (minced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "baby spinach (chopped)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Italian salad dressing (fat-free)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Whisk the egg, egg white, and milk until well combined and slightly frothy. Sift the coconut flour into the mixture and whisk again until well combined. Let the batter rest at room temperature for 15 minutes.",
+        "While the wrap batter is resting, toss together the chicken, artichoke hearts, red onion, baby spinach, and Italian dressing. Keep the filling refrigerated until needed.",
+        "Add the cooking spray to a 10-inch nonstick sauté pan over medium heat. Let the pan heat until a drop of water sizzles in the bottom of the pan.",
+        "Re-whisk the wrap batter and then pour 1/4 cup of the wrap batter to thinly coat the bottom of the pan (add a little more if needed to coat the bottom of the pan). Let the wrap cook until the edges begin to brown. Using a spatula, flip the wrap and continue to cook for another minute. Slide the wrap on to a plate and continue this process to make 6 “wraps” or crepes. Let the wraps cool.",
+        "Divide the chicken mixture evenly among each wrap (about 1/2 cup of filling per wrap) and roll."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Sandwiches",
+        "Foodie",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "4.5g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "80mg",
+        "sodium": "400mg",
+        "total_carbohydrate": "8g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/low-carb-artichoke-chicken-wraps"
+}

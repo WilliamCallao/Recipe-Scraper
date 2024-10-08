@@ -1,0 +1,85 @@
+{
+    "title": "Crunchy Mediterranean Tuna Salad Wrap",
+    "keywords": "Lunch,Quick & Easy,Sandwiches",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Quick & Easy",
+        "Sandwiches"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_211_Crunchy_Mediterranean_Tuna_Salad_Wrap_PNCImages_02272018.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "tuna in water (12-ounce)",
+            "us_amount": "1 packet",
+            "metric_amount": "1 packet"
+        },
+        {
+            "name": "light mayonnaise",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "plain yogurt (non-fat)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "onion(s) (finely diced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "celery (finely diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "red bell pepper (finely diced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "Kalamata olives (chopped)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "large butter lettuce leaves",
+            "us_amount": "6",
+            "metric_amount": "6"
+        }
+    ],
+    "instructions": [
+        "In a small bowl, mix together the tuna, mayonnaise, yogurt, onion, celery, red pepper, olives, and black pepper.",
+        "Divide the tuna mixture among the lettuce leaves (about 1/2 cup tuna salad per lettuce leaf). Fold to form a wrap."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Lunch",
+        "Quick & Easy",
+        "Sandwiches"
+    ],
+    "nutrition": {
+        "calories": "105",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "360mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crunchy-mediterranean-tuna-salad-wrap"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Cold Pasta Salad",
+    "keywords": "Vegetarian,Quick & Easy,Lunch,Salads,Sides",
+    "prep_time": "PT20M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Vegetarian",
+        "Quick & Easy",
+        "Lunch",
+        "Salads",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Cold%20Pasta%20Salad%20.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "cucumber(s) (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "green bell pepper (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "grape or cherry tomatoes (halved)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "black olives (sliced, 4.25 oz, drained)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "McCormick Perfect Pinch Salad Supreme Seasoning",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "light Italian salad dressing",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "light French salad dressing",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "dry whole wheat spaghetti",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "Cook pasta according to directions on the box.",
+        "While pasta is cooking, chop up all of the vegetables.",
+        "Drain pasta and mix with the chopped vegetables.",
+        "Add both dressings and salad supreme seasoning, and mix until combined.",
+        "Chill and serve."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Comfort Food",
+        "Vegetarian",
+        "Quick & Easy",
+        "Lunch",
+        "Salads",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "510mg",
+        "total_carbohydrate": "40g",
+        "fiber": "5g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cold-pasta-salad"
+}

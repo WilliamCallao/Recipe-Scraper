@@ -1,0 +1,132 @@
+{
+    "title": "Coastal Sancocho",
+    "keywords": "Soup,One Pot,Main Dish,Lunch,Dinner,Budget Friendly",
+    "prep_time": "PT20M",
+    "cook_time": "PT50M",
+    "categories": [
+        "Soup",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1739-espanol-diabetic-sancocho-costa_Cocinando_20620.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "finely chopped cabbage",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fresh or frozen peas",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "lime juice",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "fillet of sole (cut into bite-sized pieces)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "firm-fleshed white fish (such as halibut, sea, bass, or cod) (cut into bite-sized pieces)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "ripe plantain (cut into 1-inch pieces)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "carrots (cubed)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "potatoes (peeled and cut into chunks)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "skim milk",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cassava (yuca) (peeled and cut into 4 pieces)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "clam juice",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "chopped fresh cilantro (divided use)",
+            "us_amount": "1 tbsp plus 1/2 cup",
+            "metric_amount": "1 tbsp plus 1/2 cup"
+        },
+        {
+            "name": "finely chopped sweet or hot red pepper",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "onion (peeled and finely chopped, divided use)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Combine the other half of the onion and 1/2 cup cilantro in small bowl. Garnish each soup serving with 1 Tbsp mixture.",
+        "Add potatoes, carrots, plantain, fish, and lime juice and simmer for 15 minutes. Add peas and cabbage and simmer 5 minutes.",
+        "Add cassava and milk, cover, and simmer for 20 minutes.",
+        "Heat oil in large stockpot and sauté 1/2 of the onion, garlic, pepper, and 1 Tbsp cilantro for 3–4 minutes. Add clam juice and water and bring to a boil."
+    ],
+    "tags": [
+        "Latin American",
+        "Soup",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "205",
+        "total_fat": "3g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "31g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/coastal-sancocho"
+}

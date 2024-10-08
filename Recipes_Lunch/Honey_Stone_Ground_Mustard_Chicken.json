@@ -1,0 +1,69 @@
+{
+    "title": "Honey Stone Ground Mustard Chicken",
+    "keywords": "Dinner,Lunch",
+    "prep_time": "PT30M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/318-Honey-Stone-Ground-Mustard-Chicken_475971448_04112018%20.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Dijon-style mustard",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "coarse Dijon mustard",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "honey",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chicken breasts (boneless, skinless, trimmed well)",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        }
+    ],
+    "instructions": [
+        "Combine all of the marinade ingredients in a medium bowl and put into a large, tightly sealed plastic bag. Marinate chicken breasts at least 30 minutes or overnight in the refrigerator for best results.",
+        "Preheat grill to medium high and place chicken on grill grate. Cook under direct heat (close the grill cover) for 8-10 minutes per side."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Kid Friendly",
+        "Grilling",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "215",
+        "total_fat": "6g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "90mg",
+        "sodium": "270mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "32g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/honey-stone-ground-mustard-chicken"
+}

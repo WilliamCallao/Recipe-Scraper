@@ -1,0 +1,95 @@
+{
+    "title": "Grilled Shrimp Skewers",
+    "keywords": "Foodie,Dinner,Lunch,Holidays & Entertaining,Appetizers",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Foodie",
+        "Dinner",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/289-diabetic-shrimp-skewers_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "9 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "medium lemon (zested and juiced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "green onion (scallion) ((white and green parts), minced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "raw medium shrimp (peeled and deveined)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "bamboo skewers (soaked in warm water)",
+            "us_amount": "9",
+            "metric_amount": "9"
+        }
+    ],
+    "instructions": [
+        "Prepare an indoor or outdoor grill.",
+        "In a medium bowl, whisk together olive oil, garlic, lemon zest, lemon juice, crushed red pepper flakes, salt (optional), pepper and scallions.",
+        "Add shrimp to bowl and toss to coat evenly. Cover and refrigerate for 30 minutes.",
+        "Divide shrimp evenly among nine skewers. Discard remaining marinade.",
+        "Grill skewers 2-3 minutes on each side or until shrimp are pink and slightly firm to the touch."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Seafood",
+        "Grilling",
+        "Foodie",
+        "Dinner",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "0.5g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "85mg",
+        "sodium": "75mg",
+        "total_carbohydrate": "0g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-shrimp-skewers"
+}

@@ -1,0 +1,111 @@
+{
+    "title": "Meatball Kabobs",
+    "keywords": "Appetizers,Holidays & Entertaining,Lunch,Gluten-Free,Foodie,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Gluten-Free",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/may2014-meatball-kabobs.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "lean ground turkey (93% fat-free)",
+            "us_amount": "20 oz",
+            "metric_amount": "566 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Parmesan cheese (grated)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "egg whites",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "fresh cremini mushrooms ((baby portabella mushrooms), cut in half if needed to make 12 pieces)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "grape or cherry tomatoes",
+            "us_amount": "24",
+            "metric_amount": "24"
+        },
+        {
+            "name": "medium onion (halved, then quartered, then each quarter cut into 3 (for a total of 12 onion pieces))",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "bamboo skewers",
+            "us_amount": "12",
+            "metric_amount": "12"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 375 degrees F. Coat a baking sheet with cooking spray. Set aside.",
+        "Combine the egg whites, Parmesan cheese, garlic, ground turkey, salt (optional), and pepper. Mix well and make 12 meatballs. Refrigerate the meatballs for at least 30 minutes.",
+        "Skewer 2 meatballs, 2 tomatoes, 1 mushroom, and 1 piece of onion alternating on each skewer.",
+        "In a small bowl, whisk the balsamic vinegar and olive oil together.",
+        "Place the kabobs on the baking sheet and brush the kabobs on all sides with the balsamic and olive oil mixture. Reserve the marinade.",
+        "Bake the kabobs for 10 minutes. Brush all sides with the marinade again and bake for an additional 10-15 minutes. The meatballs should be cooked to an internal temperature of at least 165 degrees F."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Low Sodium",
+        "Kid Friendly",
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Gluten-Free",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "8g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "75mg",
+        "sodium": "120mg",
+        "total_carbohydrate": "7g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/meatball-kabobs"
+}

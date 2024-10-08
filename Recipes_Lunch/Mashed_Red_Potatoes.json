@@ -1,0 +1,76 @@
+{
+    "title": "Mashed Red Potatoes",
+    "keywords": "Easy Pantry Recipes,Vegetarian,Sides,Gluten-Free,Cooking for 1 or 2,Budget Friendly,Dinner,Lunch",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Vegetarian",
+        "Sides",
+        "Gluten-Free",
+        "Cooking for 1 or 2",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1905-diabetic-mashed-red-potatoes_create-your-plate_022020.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "red potatoes (washed and cut into 1-inch cubes)",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "1% milk",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "butter (unsalted)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Pour 1/4 cup of water into a medium pot fitted with a steamer basket and bring to a boil over high heat. Add the red potatoes, cover, and reduce the heat to medium. Cook until the potatoes are tender, 25–30 minutes. Set aside to cool.",
+        "In a small saucepan, heat the milk and butter over medium heat until the butter melts, 2 minutes. Remove the saucepan from the heat and set aside to slightly cool.",
+        "Add the potatoes to a large bowl and, using a potato masher, mash until almost smooth. Add the milk mixture, salt, and black pepper and mix until well combined."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Comfort Food",
+        "Easy Pantry Recipes",
+        "Vegetarian",
+        "Sides",
+        "Gluten-Free",
+        "Cooking for 1 or 2",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "1.5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "2mg",
+        "sodium": "100mg",
+        "total_carbohydrate": "19g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mashed-red-potatoes"
+}

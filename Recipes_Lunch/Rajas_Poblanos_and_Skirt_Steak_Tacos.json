@@ -1,0 +1,118 @@
+{
+    "title": "Rajas Poblanos and Skirt Steak Tacos",
+    "keywords": "Dinner,Foodie,Gluten-Free,Lunch",
+    "prep_time": "PT30M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Gluten-Free",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/435-diabetic-rajas-poblanos-steak-tacos_AdobeStock293461772_012121.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "large poblano peppers (seeded and thinly sliced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "small onion (thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cayenne pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "shredded, reduced-fat Mexican cheese blend",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "skirt steak",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "6-inch corn tortillas",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "large tomatoes (diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "shredded lettuce",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat an indoor or outdoor grill.",
+        "Add the oil to a large non-stick sauté pan over medium high heat. Add the garlic, poblano pepper, onion, chili powder, cumin, cayenne pepper (optional), salt (optional), and pepper. Sauté for 8-10 minutes until the vegetables are soft and starting to caramelize.",
+        "Stir in the cheese and set aside.",
+        "Season the skirt steak with additional salt (optional) and ground black pepper. Grill on both sides until the steak is medium doneness. Set the steak aside to rest.",
+        "Once the steak has rested, chop it into small pieces and stir into the pepper mixture over medium heat until steak has just cooked through.",
+        "Divide the meat and pepper mixture evenly among the 8 tortillas, then top each taco with chopped tomato and shredded lettuce."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Low Sodium",
+        "Mexican/Southwestern",
+        "Grilling",
+        "Dinner",
+        "Foodie",
+        "Gluten-Free",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "310",
+        "total_fat": "12g",
+        "saturated_fat": "3.3g",
+        "trans_fat": "0.2g",
+        "cholesterol": "40mg",
+        "sodium": "410mg",
+        "total_carbohydrate": "36g",
+        "fiber": "6g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/rajas-poblanos-and-skirt-steak-tacos"
+}

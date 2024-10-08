@@ -1,0 +1,99 @@
+{
+    "title": "Grilled Chicken Sandwich With Olive Arugula Topping",
+    "keywords": "Dinner,Lunch,Main Dish,Quick & Easy,Sandwiches",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Sandwiches"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_726_2Step_GrilledChickenSandwichwithOlieArugulaTopping_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "chicken breasts (boneless, thin cutlets, rinsed and patted dry )",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh basil leaves (dried)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "onion powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "crushed red pepper flakes (dried)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "multi-grain Italian bread (cut in half lengthwise)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "packed arugula or spring greens",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "red onion (diced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Kalamata olives (pitted, coarsely chopped)",
+            "us_amount": "16",
+            "metric_amount": "16"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "red wine vinegar",
+            "us_amount": "2 1/2 tbsp",
+            "metric_amount": "37 ml"
+        }
+    ],
+    "instructions": [
+        "Heat a large skillet over medium-high heat. Coat chicken with cooking spray and sprinkle with the basil, onion powder, and pepper flakes. Cook 5 minutes on each side or until no longer pink in center.",
+        "Meanwhile, combine the topping ingredients in a medium bowl. Place the chicken on bottom half of the bread, top with the arugula mixture, top with remaining bread, and cut into four sections."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Grilling",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Sandwiches"
+    ],
+    "nutrition": {
+        "calories": "365",
+        "total_fat": "14g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "420mg",
+        "total_carbohydrate": "27g",
+        "fiber": "5g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "32g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-chicken-sandwich-olive-arugula-topping"
+}

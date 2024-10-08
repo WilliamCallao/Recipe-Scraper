@@ -1,0 +1,100 @@
+{
+    "title": "Chickpea Pasta with Roasted Vegetables",
+    "keywords": "Vegetarian,Main Dish,Gluten-Free,Dinner,Lunch,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Vegetarian",
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/171-diabetic-chickpea-pasta-broccoli-zucchini_AdobeStock114727597_012221.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "medium zucchini (diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "broccoli florets",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "box chickpea penne pasta",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "low sodium vegetable broth",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "dried oregano (dried)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Parmesan cheese (freshly grated)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400 degrees F. Spray a baking sheet with cooking spray.",
+        "Place the zucchini and broccoli in a bowl. Add the olive oil, salt (optional), and pepper; toss to coat and spread on the baking sheet. Bake for 20 minutes. Remove the vegetables from the oven.",
+        "While the vegetables are baking, cook the pasta according to the package directions. Note it says not to boil water for pasta, but rather to bring the water to near boiling and let the pasta sit in the water 4-6 minutes; stirring occasionally.",
+        "Drain the pasta after cooking. Add the chicken broth to pot. Add the pasta, cooked vegetables, and oregano to the pot and mix well.",
+        "Sprinkle with Parmesan cheese and serve immediately."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Italian",
+        "Vegetarian",
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "10g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "340mg",
+        "total_carbohydrate": "29g",
+        "fiber": "7g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chickpea-pasta-roasted-vegetables"
+}

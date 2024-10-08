@@ -1,0 +1,106 @@
+{
+    "title": "Oven-Baked Chicken Taquitos",
+    "keywords": "Foodie,Dinner,Lunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Foodie",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/390-diabetic-baked-chicken-taquitos_AdobeStock_179656866_022621.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cumin",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "boneless, skinless chicken breast",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "2% Mexican-style cheese blend (shredded)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fat-free refried beans",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "corn tortillas (6-inch)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "lettuce (shredded)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "prepared guacamole",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "tomato(es) (diced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400 degrees F. Coat a baking sheet with cooking spray. Set aside.",
+        "In a small bowl, mix together the cumin, chili powder, garlic powder, and ground black pepper.",
+        "Lay the chicken breasts on the prepared sheet pan. Sprinkle the chicken with the spice mixture. Roast the chicken in the oven for 25 minutes or until the internal temperature is 165 degrees F. Set it aside to cool slightly. Keep the oven on and coat a clean baking sheet with cooking spray.",
+        "Once the chicken has rested and cooled slightly, shred the chicken meat and add it to a medium bowl. Add the cheese and refried beans and mix well.",
+        "Place the corn tortillas in between two damp paper towels. Microwave on high for 30 seconds.",
+        "Fill each corn tortilla with 1/4 cup chicken filling and roll tightly. Lay seam side down on the prepared baking sheet. Once all the taquitos are on the baking sheet, lightly spray each one with cooking spray.",
+        "Bake for 15 minutes or until the tortillas are crispy.",
+        "Serve two taquitos with 1/4 cup shredded lettuce, 2 Tbsp. guacamole and 1/4 cup diced tomatoes."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Foodie",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "320",
+        "total_fat": "11g",
+        "saturated_fat": "3.1g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "380mg",
+        "total_carbohydrate": "35g",
+        "fiber": "7g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/oven-baked-chicken-taquitos"
+}

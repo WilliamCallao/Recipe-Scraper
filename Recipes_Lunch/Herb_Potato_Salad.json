@@ -1,0 +1,99 @@
+{
+    "title": "Herb Potato Salad",
+    "keywords": "Holidays & Entertaining,Salads,Vegetarian,Sides,Lunch",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Holidays & Entertaining",
+        "Salads",
+        "Vegetarian",
+        "Sides",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_309_Herb_Potato_Salad_iStock-183582392_02282018.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "new potatoes (thin-skinned, not peeled (about 4 cups cubed))",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "celery (sliced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "green onion (sliced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "plain yogurt (fat-free)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "light mayonnaise",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "garlic (chopped)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "basil (dried)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "dried thyme",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "onion powder (dried)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Cut potatoes into 1-inch cubes. Place in medium saucepan and cover with water. Bring to a boil. Cover, reduce heat, and simmer 12 minutes or until potatoes are tender. Drain.",
+        "Mix dressing ingredients.",
+        "Combine hot potatoes, celery, green onions, and dressing. Serve hot or refrigerate and serve cold."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Holidays & Entertaining",
+        "Salads",
+        "Vegetarian",
+        "Sides",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "74",
+        "total_fat": "1g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "1mg",
+        "sodium": "78mg",
+        "total_carbohydrate": "14g",
+        "fiber": "2g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/herb-potato-salad"
+}

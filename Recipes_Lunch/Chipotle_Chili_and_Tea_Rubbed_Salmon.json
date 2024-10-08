@@ -1,0 +1,83 @@
+{
+    "title": "Chipotle Chili and Tea Rubbed Salmon",
+    "keywords": "Holidays & Entertaining,Dinner,Lunch",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Holidays & Entertaining",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/175-diabetic-salmon-chipotle-tea-recipe_509422213_092118.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "chipotle chili in adobo",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "light brown sugar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ground tea leaves (green or black)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "dried oregano",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "coarse salt",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "lime juice",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "side of salmon (2-lb, skin removed)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Place all ingredients except salmon in a blender, or use a small hand-held immersion blender and purée ingredients together until smooth.",
+        "Rub mixture over the surface of the salmon. Place the salmon on a baking dish and marinate for 20 minutes.",
+        "Preheat grill to medium high. You can cook the salmon directly on a piece of foil or place them on a perforated grill grate used for fish or vegetables. Cook under direct heat for 5-6 minutes on each side or enough to cook through.",
+        "Cool for 30 minutes before serving."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Mexican/Southwestern",
+        "Seafood",
+        "Holidays & Entertaining",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "225",
+        "total_fat": "2g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "80mg",
+        "sodium": "435mg",
+        "total_carbohydrate": "2g",
+        "fiber": "0g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chipotle-chili-and-tea-rubbed-salmon"
+}

@@ -1,0 +1,85 @@
+{
+    "title": "Marinated Grilled Chicken with Zucchini",
+    "keywords": "Quick & Easy,Gluten-Free,Lunch,Dinner",
+    "prep_time": "PT1H",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Gluten-Free",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/346-Marinated-Grilled-Chicken-Zucchini_466438540_04112018%20.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Juice of 2 clementine oranges",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chicken tenderloins (boneless)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "medium zucchini (sliced into 1/2-inch circles)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "In a medium bowl, whisk together all marinade ingredients. Place the chicken tenderloins in a large plastic storage bag. Pour marinade over tenderloins and coat well. Seal bag and refrigerate 1 hour or overnight.",
+        "Spray grill with cooking spray and preheat to medium-high. Place chicken tenderloins on grill and brush with any remaining marinade. Grill about 4-5 minutes per side or until done.",
+        "Brush zucchini with olive oil. Grill 3-5 minutes per side. Serve chicken tenderloins with zucchini rounds.",
+        "Confirm ingredients are gluten-free and this recipe can be made gluten-free."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Grilling",
+        "Quick & Easy",
+        "Gluten-Free",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "13g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "70mg",
+        "total_carbohydrate": "7g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/marinated-grilled-chicken-zucchini"
+}

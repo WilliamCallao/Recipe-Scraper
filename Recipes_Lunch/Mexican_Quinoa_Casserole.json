@@ -1,0 +1,114 @@
+{
+    "title": "Mexican Quinoa Casserole",
+    "keywords": "Lunch,Dinner,Quick & Easy,Holidays & Entertaining",
+    "prep_time": "PT25M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Dinner",
+        "Quick & Easy",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_357_Mexican_Quinoa_Casserole_MG_0760-%28ZF-5661-35964-1-082%29_02282018.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "3 tsp",
+            "metric_amount": "15 g"
+        },
+        {
+            "name": "onion(s) (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "large green pepper (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "quinoa",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "low sodium chicken broth (low-sodium, reduced-fat)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "2 1/2 cup",
+            "metric_amount": "592 ml"
+        },
+        {
+            "name": "black beans (15.5-ounce, no-salt added, rinsed and drained)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "tomato(es) (14.5-ounce, diced)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "chili powder (1)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cumin",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cheddar cheese (reduced-fat shredded)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350 degrees F. Spray a 9x14-inch baking dish with cooking spray.",
+        "Heat the olive oil in a pot over medium-high heat. Add the onions and green pepper, and sauté until the onions turn clear. Add the garlic and sauté for another 30 seconds.",
+        "Add all remaining ingredients except the cheddar cheese. Bring to a boil. Reduce the heat and simmer 20 minutes.",
+        "Pour quinoa mixture into the baking dish and spread evenly. Top with cheddar cheese and bake 10 minutes until the cheese is melted and slightly golden."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Lunch",
+        "Dinner",
+        "Quick & Easy",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "6g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "185mg",
+        "total_carbohydrate": "35g",
+        "fiber": "5g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mexican-quinoa-casserole"
+}

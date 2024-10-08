@@ -1,0 +1,129 @@
+{
+    "title": "Turkey Tostadas",
+    "keywords": "Foodie,Dinner,Lunch",
+    "prep_time": "PT30M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Foodie",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_567_Turkey_Tostadas_PNCImages_03012018%29.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lean ground turkey",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "black beans (drained and rinsed)",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "cumin",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "baby spinach",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "Laughing Cow Light Original Cheese Wedges",
+            "us_amount": "2 wedges",
+            "metric_amount": "2 wedges"
+        },
+        {
+            "name": "reduced fat, shredded Mexican style cheese",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "low sodium chicken broth",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "corn tortillas",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "shredded lettuce",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        },
+        {
+            "name": "tomatoes (seeded and diced)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 375 degrees.",
+        "Coat a baking sheet with cooking spray. Set aside.",
+        "Coat a large sauté pan with cooking spray over high heat. Add turkey and sauté until beginning to brown, about 7-9 minutes. Add the black beans and heat through.",
+        "Add chili powder, cumin, red pepper flakes, garlic, salt and black pepper. Saute an additional 2-3 minutes. Add spinach and cook until wilted, about 3 minutes.",
+        "Add both cheeses an chicken broth and stir until cheese is melted.",
+        "Lay six corn tortillas on the prepare baking sheet. Spoon the turkey mixture evenly over each tortilla. Bake for 15 minutes or until tortilla is crispy.",
+        "Top each tostado with 1 cup shredded lettuce, 1/2 a tomato and 1 Tbsp. Greek Yogurt."
+    ],
+    "tags": [
+        "Mexican/Southwestern",
+        "Foodie",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "300",
+        "total_fat": "8g",
+        "saturated_fat": "2.8g",
+        "trans_fat": "0.1g",
+        "cholesterol": "60mg",
+        "sodium": "430mg",
+        "total_carbohydrate": "31g",
+        "fiber": "6g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/turkey-tostadas"
+}

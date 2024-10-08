@@ -1,0 +1,68 @@
+{
+    "title": "Roasted Brussels Sprouts and Butternut Squash",
+    "keywords": "Vegetarian,Vegan,Sides,Lunch,Dinner,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1705-diabetic-roasted-Brussel-Sprouts-Butternut-Squash_Diabetes-Superfoods-Cookbook_010319.jpg",
+    "servings": "7 Servings",
+    "ingredients": [
+        {
+            "name": "fresh Brussels sprouts",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "butternut squash (about 3 1/2 cups)",
+            "us_amount": "20 oz",
+            "metric_amount": "566 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "dried thyme",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 450 degrees F.",
+        "Slice Brussels sprouts in half. Cut larger pieces of squash into 1-inch cubes.",
+        "Place sprouts and squash in a large bowl and drizzle with olive oil. Stir in thyme, and toss to coat.",
+        "Spread the sprouts and squash in a single layer in a baking pan and bake for 25 minutes, until the veggies are tender and beginning to brown."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "2g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "15mg",
+        "total_carbohydrate": "11g",
+        "fiber": "4g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-brussels-sprouts-and-butternut-squash"
+}

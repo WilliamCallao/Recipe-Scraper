@@ -1,0 +1,100 @@
+{
+    "title": "Spaghetti Squash with Light Marinara Sauce",
+    "keywords": "Dinner,Lunch,Vegetarian",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/spag-squash_279x200.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "medium spaghetti squash (2-lb, washed)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "parmigiano-reggiano cheese (finely grated)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "roma (plum) tomatoes (chopped)",
+            "us_amount": "14",
+            "metric_amount": "14"
+        },
+        {
+            "name": "garlic (chopped)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "shallots (minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fine sea salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "fresh basil leaves",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "parmigiano-reggiano cheese (optional)",
+            "us_amount": "6 tsp",
+            "metric_amount": "29 g"
+        }
+    ],
+    "instructions": [
+        "Pierce spaghetti squash with a fork in several places and place in microwave on high until skin is soft, approximately 10-15 minutes. Let cool.",
+        "While squash is cooking, combine all marinara ingredients in a medium-sized bowl except basil leaves.",
+        "Tear basil leaves and add to tomato mixture.",
+        "Cut squash in half and make “spaghetti.” Using a fork, pull out individual strands of “spaghetti.” Toss spaghetti squash with olive oil and Parmigiano-Reggiano cheese.",
+        "Place squash in a pie plate. Top with light marinara and a sprinkling of Parmigiano-Reggiano cheese.",
+        "Serve over cooked spaghetti squash."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Italian",
+        "Kid Friendly",
+        "Dinner",
+        "Lunch",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "95",
+        "total_fat": "5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "225mg",
+        "total_carbohydrate": "12g",
+        "fiber": "3g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spaghetti-squash-light-marinara-sauce"
+}

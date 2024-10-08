@@ -1,0 +1,100 @@
+{
+    "title": "Turkish Carrot Salad",
+    "keywords": "Vegetarian,Sides,Salads,Lunch,Holidays & Entertaining,Foodie,Quick & Easy,No Cook",
+    "prep_time": "PT45M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Salads",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Quick & Easy",
+        "No Cook"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/turkish-carrot-salad-May15.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground coriander",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "dried currants",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "slivered almonds (toasted)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "apple (unpeeled and coarsely grated)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "carrot(s) (peeled and coarsely grated or cut into matchsticks)",
+            "us_amount": "5",
+            "metric_amount": "5"
+        }
+    ],
+    "instructions": [
+        "In a large bowl, combine all ingredients and cover. Refrigerate for 1/2 hour before serving. Bring the salad to room temperature and serve."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "Mediterranean",
+        "Vegetarian",
+        "Sides",
+        "Salads",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Quick & Easy",
+        "No Cook"
+    ],
+    "nutrition": {
+        "calories": "105",
+        "total_fat": "5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "35mg",
+        "total_carbohydrate": "15g",
+        "fiber": "3g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/turkish-carrot-salad"
+}

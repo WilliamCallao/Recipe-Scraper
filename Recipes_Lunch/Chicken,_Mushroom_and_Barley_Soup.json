@@ -1,0 +1,104 @@
+{
+    "title": "Chicken, Mushroom and Barley Soup",
+    "keywords": "Lunch,Dinner,Budget Friendly",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/RecId_169_ChickenMushroomBarleySoup_514631437_050118.jpg",
+        "Mushroom and Barley Soup\" loading=\"lazy\" />"
+    ],
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "medium onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "carrot(s) (diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "celery stalks (diced)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "white (button) mushrooms (sliced)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "low sodium chicken broth (low-sodium, fat-free)",
+            "us_amount": "32 oz",
+            "metric_amount": "906 ml"
+        },
+        {
+            "name": "fresh thyme",
+            "us_amount": "1 sprig",
+            "metric_amount": "1 sprig"
+        },
+        {
+            "name": "bay leaves",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "cooked barley",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cooked chicken (shredded)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "Add oil to a soup pot over medium heat. Add the onion, carrots, celery and mushrooms. Sauté for 5 minutes.",
+        "Add broth, thyme, bay leaves, salt and pepper. Bring to a boil then reduce to a simmer, covered for 20 minutes.",
+        "Remove bay leaves and thyme stem. Add the barley and chicken and heat through for 2-3 minutes.",
+        "Note:To bulk cook barley, add 11 oz. dry pearled (quick-cooking) barley to a pot of 4 cups boiling water. Cover, then reduce to a simmer for 10-12 minutes. Remove from heat, keep covered off the heat for 5 minutes. Makes 6 cups cooked barley. This barley can be used in any recipe calling for cooked barley. Store in an airtight container in the refrigerator for 7 days or package in freezer bags in one cup increments for up to 6 months."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "3g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "260mg",
+        "total_carbohydrate": "12g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "15g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-mushroom-and-barley-soup"
+}

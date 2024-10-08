@@ -1,0 +1,105 @@
+{
+    "title": "Sweet & Savory Balsamic Chicken",
+    "keywords": "Main Dish,Appetizers,Dinner,Lunch",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Main Dish",
+        "Appetizers",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2129_Sweet%20and%20Savory%20Balsamic%20Chicken%20-%20Photo%20Credit%20to%20Joseph%20Abell%5B1%5D.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "lemon juice",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Worcestershire sauce",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "low-calorie brown sugar substitute",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "avocado oil",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Red Chili Flakes",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "boneless, skinless chicken breasts",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "Cornstarch",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 425 degrees F.",
+        "In a large bowl, whisk together all ingredients (except chicken, cornstarch and water) to create the marinade.",
+        "Place the chicken breasts in the bowl and cover with the marinade.",
+        "Pierce the chicken with a fork multiple times to allow marinade to soak in.",
+        "Cover and refrigerate for 1–4 hours.",
+        "Place marinated chicken on an oiled baking sheet and bake for 22–24 minutes or until the internal temperature of the chicken reaches at least 165 degrees F.",
+        "You can use the remaining marinade to make a sauce to top the finished chicken! Just place the remaining marinade in a sauté pan and bring to a boil over medium heat. In a separate bowl whisk together 1 tablespoon of cornstarch and 1 tablespoon of water. Slowly add mixture into boiling marinade, stirring constantly until it reaches your desired thickness."
+    ],
+    "tags": [
+        "Main Dish",
+        "Appetizers",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "8g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "115mg",
+        "total_carbohydrate": "7g",
+        "fiber": "0g",
+        "sugar": "5g",
+        "added_sugar": "5g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-savory-balsamic-chicken"
+}

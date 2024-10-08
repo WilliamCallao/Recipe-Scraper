@@ -13,9 +13,9 @@ from concurrent.futures import ThreadPoolExecutor
 
 init(autoreset=True)
 
-input_csv = "Urls - Dinner.csv"
-output_dir = "recetas_Dinner"
-failed_csv = "failed_Dinner.csv"
+input_csv = "Urls - Lunch.csv"
+output_dir = "Recetas_Lunch"
+failed_csv = "failed_Lunch.csv"
 
 lock = threading.Lock()
 existing_filenames = set()

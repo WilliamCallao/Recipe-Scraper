@@ -1,0 +1,93 @@
+{
+    "title": "Creamy Chicken Apple Salad",
+    "keywords": "Quick & Easy,Dinner,Foodie,Gluten-Free,Lunch,Salads",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Dinner",
+        "Foodie",
+        "Gluten-Free",
+        "Lunch",
+        "Salads"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/202-creamy-chicken-apple-salad_114160462_081118.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "cooked chicken breast (chopped)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "celery (diced)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "green onions (chopped)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "medium Jonagold apple (finely diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "walnuts (chopped)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "light mayonnaise",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "yogurt (plain, fat-free)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "lemon (juiced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "In a medium bowl, combine the chicken, celery, green onions, apple, and walnuts",
+        "In a small bowl, whisk together the mayonnaise, yogurt, lemon juice and pepper. Pour over the chicken mixture and gently stir to coat.",
+        "Serve salad over your choice of lettuce leaves, bread or crackers."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Low Sodium",
+        "Comfort Food",
+        "Quick & Easy",
+        "Dinner",
+        "Foodie",
+        "Gluten-Free",
+        "Lunch",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "115",
+        "total_fat": "5g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "115mg",
+        "total_carbohydrate": "6g",
+        "fiber": "1g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/creamy-chicken-apple-salad"
+}

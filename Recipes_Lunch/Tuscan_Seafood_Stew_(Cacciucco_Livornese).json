@@ -1,0 +1,124 @@
+{
+    "title": "Tuscan Seafood Stew (Cacciucco Livornese)",
+    "keywords": "Lunch,Foodie,Dinner,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Lunch",
+        "Foodie",
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_891_TuscanSeafoodStew_ItalianDiabetesCookbook_022618.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "fresh parsley (minced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "fresh sage (minced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "5 diente",
+            "metric_amount": "5 diente"
+        },
+        {
+            "name": "fresh calamari",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "baby octopus, cleaned, and cut into 1-inch pieces, if desired",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "tomato paste (unsalted)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "dry white wine",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "tomato(es) (chopped fresh tomatoes, juice reserved)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "water (or low-sodium seafood stock)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "monkfish fillet, cut into 2-inch pieces",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "mullet or other white fish fillet (cut into 2-inch pieces)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "shrimp (large, shell-on )",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "mussels (with shells) (scrubbed and debearded)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        }
+    ],
+    "instructions": [
+        "Heat oil in a 6-quart saucepan over medium heat. Add parsley, sage, chile flakes, and minced garlic, and cook until fragrant, about 1 minute. Add calamari and octopus and cook, stirring occasionally, until seafood is opaque, about 4 minutes. Add tomato paste, stir well, and cook until paste has darkened slightly, about 1 minute. Add wine and cook, stirring often, until the liquid has evaporated, about 20 minutes.",
+        "Add tomatoes along with their juice, season with pepper, and cook, stirring occasionally, until seafood is tender, about 10 minutes. Stir in stock, cover, and simmer for 10 minutes.",
+        "Add monkfish and cook, covered, until fish is just firm, about 5 minutes. Add mullet and shrimp to the pot, and scatter mussels over top. Cook, covered, without stirring (so as not to break up the seafood), until the mullet is just cooked through and the mussels have just opened, about 10 minutes.",
+        "Ladle stew into bowls and serve."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Italian",
+        "Lunch",
+        "Foodie",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "350",
+        "total_fat": "12g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "240mg",
+        "sodium": "340mg",
+        "total_carbohydrate": "8g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "47g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tuscan-seafood-stew-cacciucco-livornese"
+}

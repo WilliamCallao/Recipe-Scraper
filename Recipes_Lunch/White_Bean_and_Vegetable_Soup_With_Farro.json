@@ -1,0 +1,121 @@
+{
+    "title": "White Bean and Vegetable Soup With Farro",
+    "keywords": "Lunch,Soup,Dinner,Main Dish",
+    "prep_time": "PT25M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Lunch",
+        "Soup",
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/white-bean-and-vegetable-soup-with-farro-Sep14.jpg",
+    "servings": "9 Servings",
+    "ingredients": [
+        {
+            "name": "cooked farro (Dry Packaged Foods)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "chickpeas (garbanzo beans) (drained)",
+            "us_amount": "15 oz",
+            "metric_amount": "425 ml"
+        },
+        {
+            "name": "canned diced tomatoes",
+            "us_amount": "15 oz",
+            "metric_amount": "425 ml"
+        },
+        {
+            "name": "low sodium chicken broth",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "yellow squash (unpeeled and diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "carrot(s) (peeled and sliced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "cayenne pepper",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "smoked paprika",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Italian seasoning",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "onion(s) (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "In a large saucepan, heat the oil over medium heat. Add the onion and sauté for 5 minutes. Add the garlic, Italian seasoning, smoked paprika, and cayenne pepper and sauté for 2 minutes.",
+        "Add the carrots and yellow squash and sauté for 3 minutes. Pour in the broth and tomatoes and bring to boiling. Lower the heat and simmer for 30 minutes.",
+        "Add the beans and simmer for 5 minutes. Drizzle in the lemon juice. Season with the salt and pepper.",
+        "To serve, place a scant 1/4 cup of cooked farro in the bottom of each soup bowl. Ladle the soup over the farro. If desired, sprinkle with fresh parsley."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Comfort Food",
+        "Mediterranean",
+        "Lunch",
+        "Soup",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "165",
+        "total_fat": "3g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "580mg",
+        "total_carbohydrate": "28g",
+        "fiber": "6g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/white-bean-and-vegetable-soup-farro"
+}

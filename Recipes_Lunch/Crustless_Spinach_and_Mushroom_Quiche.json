@@ -1,0 +1,114 @@
+{
+    "title": "Crustless Spinach and Mushroom Quiche",
+    "keywords": "Vegetarian,Main Dish,Foodie,Cooking for 1 or 2,Breakfast and Brunch,Dinner,Lunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Vegetarian",
+        "Main Dish",
+        "Foodie",
+        "Cooking for 1 or 2",
+        "Breakfast and Brunch",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/213-diabetic-crustless-spinach-mushroom-quiche_Diab-Heart-Healthy-for-Two_012519.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "canola or corn oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Portobello mushrooms (stemmed and sliced)",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "green onion (scallion) (chopped)",
+            "us_amount": "3 stalks",
+            "metric_amount": "3 stalks"
+        },
+        {
+            "name": "port",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "medium garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "frozen spinach (chopped, about 2 1/2 ounces, thawed and squeezed dry)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Cornstarch",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "milk (fat-free)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "egg substitute",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "shredded part-skim mozzarella cheese",
+            "us_amount": "1/4 cup plus 2 tbsp",
+            "metric_amount": "1/4 cup plus 2 tbsp"
+        },
+        {
+            "name": "Parmesan cheese (shredded or grated)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pepper",
+            "us_amount": "1/8 tbsp",
+            "metric_amount": "2 ml"
+        },
+        {
+            "name": "ground nutmeg",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350° F. Lightly spray two 10-ounce ovenproof custard cups or individual pie pans with cooking spray. Place on a shallow baking sheet.",
+        "In a large non-stick skillet, heat the oil over medium heat, swirling to coat the bottom. Cook the mushrooms and green onions for 2 minutes, stirring occasionally. Stir in the port. Reduce the heat to medium low and cook for 3 to 4 minutes, or until all the liquid is absorbed. Stir in the garlic and cook for 30 seconds to 1 minute, or until fragrant. Remove from heat. Add the spinach. Using a spoon, separate it into small pieces.",
+        "Put the cornstarch in a medium bowl. Pour in the milk, whisking to dissolve. Whisk in the remaining ingredients. Stir in the mushroom mixture. Pour into custard cups.",
+        "Bake for 30 minutes, or until the centers are puffed and set (don’t jiggle when gently shaken). Let stand for 5 minutes before serving."
+    ],
+    "tags": [
+        "French",
+        "Vegetarian",
+        "Main Dish",
+        "Foodie",
+        "Cooking for 1 or 2",
+        "Breakfast and Brunch",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "205",
+        "total_fat": "7g",
+        "saturated_fat": "3.2g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "395mg",
+        "total_carbohydrate": "16g",
+        "fiber": "3g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crustless-spinach-and-mushroom-quiche"
+}

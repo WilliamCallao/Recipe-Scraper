@@ -1,0 +1,82 @@
+{
+    "title": "Mozzarella, Tomato and Chickpea Salad",
+    "keywords": "Dinner,Salads,Quick & Easy,Sides,Lunch",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Salads",
+        "Quick & Easy",
+        "Sides",
+        "Lunch"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/Recid_374_Mozzarella_Tomato_and_Chickpea_Salad%20_02282018.jpg",
+        "Tomato and Chickpea Salad \" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "fresh mozzarella balls (drained)",
+            "us_amount": "2 1/2 oz",
+            "metric_amount": "71 ml"
+        },
+        {
+            "name": "cherry tomatoes",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "canned chickpeas (no-salt-added)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "kosher salt, to taste",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Freshly ground black pepper, to taste",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "baby spinach",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        }
+    ],
+    "instructions": [
+        "Combine mozzarella balls, tomatoes, and chickpeas in a medium bowl. Add olive oil. Stir, taste, and add salt and pepper to taste.",
+        "Wash spinach, and layer it in the bottom of a serving bowl. Arrange 1/2 cup of mozzarella-tomato-chickpea mixture on top of spinach. Serve at room temperature."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Dinner",
+        "Salads",
+        "Quick & Easy",
+        "Sides",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "155",
+        "total_fat": "7g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "165mg",
+        "total_carbohydrate": "16g",
+        "fiber": "5g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mozzarella-tomato-and-chickpea-salad"
+}

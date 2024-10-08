@@ -1,0 +1,101 @@
+{
+    "title": "Veggie and Chicken Pasta Salad",
+    "keywords": "Quick & Easy,Easy Pantry Recipes,Lunch,Budget Friendly,Salads,Main Dish,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Quick & Easy",
+        "Easy Pantry Recipes",
+        "Lunch",
+        "Budget Friendly",
+        "Salads",
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_575_Veggie_and_Chicken_Pasta_Salad_PNCImages_03012018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "uncooked whole-wheat elbow pasta",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "diced red bell pepper",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "diced cucumber",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "small broccoli florets (fresh or frozen)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "large carrot (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "diced cooked chicken breast",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "light mayonnaise",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "red wine vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "dried oregano",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Cook the pasta according to the package directions. Drain.",
+        "In a large bowl, mix together the pasta, red bell pepper, cucumber, broccoli, carrots, and chicken.",
+        "In a small bowl, whisk together the dressing ingredients. Pour the dressing over the pasta, vegetables, and chicken and mix well. Serve."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Kid Friendly",
+        "Quick & Easy",
+        "Easy Pantry Recipes",
+        "Lunch",
+        "Budget Friendly",
+        "Salads",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "24g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "15g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/veggie-and-chicken-pasta-salad"
+}

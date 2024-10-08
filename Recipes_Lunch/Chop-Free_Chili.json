@@ -1,0 +1,102 @@
+{
+    "title": "Chop-Free Chili",
+    "keywords": "Budget Friendly,Dinner,Easy Pantry Recipes,Lunch,Main Dish,One Pot,Quick & Easy,Slow Cooker",
+    "prep_time": "PT10M",
+    "cook_time": "PT7H",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Lunch",
+        "Main Dish",
+        "One Pot",
+        "Quick & Easy",
+        "Slow Cooker"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1685-diabetic-Chop-Free-Chili_fast-fix-slow-cook-ckbk_120518.jpg",
+    "servings": "7 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lean ground beef",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "sweet Italian turkey breakfast sausage links (casings removed)",
+            "us_amount": "3 1/2 oz",
+            "metric_amount": "99 ml"
+        },
+        {
+            "name": "no-salt-added pinto or kidney beans (rinsed and drained)",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "frozen pepper stir-fry",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "no-salt-added stewed tomatoes",
+            "us_amount": "2 (14.5-oz) cans",
+            "metric_amount": "2 (14.5-oz) cans"
+        },
+        {
+            "name": "sugar",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cumin (divided)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "reduced-fat shredded cheddar or Mexican-style cheese",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Lightly coat a 3 1/2- to 4-quart slow cooker with cooking spray.",
+        "Lightly coat a large skillet with cooking spray and place over medium-high heat until hot. Brown the beef and sausage for about 2 minutes, stirring frequently.",
+        "Place the meat in the slow cooker along with the beans, pepper stir-fry, tomatoes, sugar, chili powder, and 2 teaspoons cumin. Cover and cook on high for 3 1/2 hours or on low for 7 hours.",
+        "Stir in the remaining ingredients. Cover and let stand on low for 15 minutes to absorb flavors. Flavor improves overnight."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Comfort Food",
+        "Budget Friendly",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Lunch",
+        "Main Dish",
+        "One Pot",
+        "Quick & Easy",
+        "Slow Cooker"
+    ],
+    "nutrition": {
+        "calories": "300",
+        "total_fat": "11g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "630mg",
+        "total_carbohydrate": "26g",
+        "fiber": "8.5g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chop-free-chili"
+}

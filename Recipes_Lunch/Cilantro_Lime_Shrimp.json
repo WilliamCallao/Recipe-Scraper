@@ -1,0 +1,79 @@
+{
+    "title": "Cilantro Lime Shrimp",
+    "keywords": "Quick & Easy,Lunch,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Quick & Easy",
+        "Lunch",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/659_CilantroLimeShrimp_SixOClockScr_0201018_1627338797.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "garlic (minced, about 1 clove)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "shrimp (large peeled and deveined, fresh (never frozen), if possible)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "lime (juice only (2 tablespoons), or more to taste)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh cilantro (chopped, or more to taste)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "DO AHEAD OR DELEGATE: Peel the garlic, juice the lime, chop the cilantro, combine the lime juice, cilantro, salt, and pepper.",
+        "(Start the buckwheat and the broccoli first, if you are serving them.) In a large heavy skillet over medium-high heat, heat the oil. Add the garlic and cook it for 30 seconds or so until it is fragrant, then add the shrimp and cook, turning once, until the shrimp are pink and cooked through, about 2–3 minutes per side.",
+        "Transfer the shrimp to a bowl, and combine with the lime juice, cilantro, salt, and pepper. Serve immediately or refrigerate for up to 2 days and serve cold.",
+        "FLAVOR BOOSTER Double the garlic and sprinkle the finished dish with 1/2 teaspoon lime zest or salt-free lemon-pepper seasoning."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Seafood",
+        "Quick & Easy",
+        "Lunch",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "190mg",
+        "sodium": "260mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cilantro-lime-shrimp"
+}

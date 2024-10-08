@@ -1,0 +1,91 @@
+{
+    "title": "Ingrid Hoffmann's Healthy Refried Beans",
+    "keywords": "Dinner,Appetizers,Sauces,Lunch,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Dinner",
+        "Appetizers",
+        "Sauces",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1657-diabetic-healthy-refried-beans_latin-comfort-foods_thinkstock598085898_092618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "onion(s) (chopped)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "pinto beans (rinsed and drained)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "low-sodium chicken broth or low-sodium vegetable broth",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "chipotle chili in adobo",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Heat the oil in a large nonstick skillet over medium-high heat. Add the onion and garlic and cook until the onion is tender, about 6 minutes.",
+        "Add the beans, broth, chipotle chilies, cumin, salt, and pepper. Cook until beans are heated through, about 5 minutes.",
+        "Mash the bean mixture with a fork or potato masher until coarsely mashed."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Latin American",
+        "Dinner",
+        "Appetizers",
+        "Sauces",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "4g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "19g",
+        "fiber": "6g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ingrid-hoffmanns-healthy-refried-beans"
+}

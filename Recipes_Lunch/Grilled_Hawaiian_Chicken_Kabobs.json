@@ -1,0 +1,102 @@
+{
+    "title": "Grilled Hawaiian Chicken Kabobs",
+    "keywords": "Main Dish,Dinner,Lunch",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Main Dish",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2125_Grilled%20Hawaiin%20Chicken%20Kabobs%20-%20Original%20Photo.jpeg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "boneless, skinless chicken breasts (cut into 1-inch pieces)",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "soy sauce (lowest sodium available)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "rice wine vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Splenda® Granulated Sweetener",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lemon (juiced)",
+            "us_amount": "1/2 whole",
+            "metric_amount": "1/2 whole"
+        },
+        {
+            "name": "garlic (cloves minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Knob Ginger (peeled, minced)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "jalapeño pepper (seeded, minced)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "Fresh Pineapple (chunks)",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "red onion (medium size, cut into 1-inch pieces)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "bell peppers (red and green, cut into 1 inch pieces)",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        }
+    ],
+    "instructions": [
+        "Soak 10 wooden skewers in water for at least 30 minutes.",
+        "Meanwhile, place chicken in a large zip-close bag. Add oil, soy sauce, vinegar, Splenda Granulated Sweetener, lemon juice, garlic, ginger, and jalapeño. Massage mixture into chicken to cover completely. Marinate at room temperature for at least 1 hour or refrigerate overnight.",
+        "Remove chicken from marinade. Bring marinade to a boil and set marinade aside for brushing kabobs while grilling.",
+        "Thread skewers with chicken, pineapple, red onion, and bell peppers, alternating ingredients evenly.",
+        "Heat grill to medium heat. Grill kabobs, flipping occasionally and brushing with reserved marinade until fully cooked, about 10–15 minutes. Serve and enjoy."
+    ],
+    "tags": [
+        "Caribbean",
+        "Main Dish",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "3g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "90mg",
+        "total_carbohydrate": "8g",
+        "fiber": "1g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "15g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-hawaiian-chicken-kabobs"
+}

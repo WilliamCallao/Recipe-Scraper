@@ -1,0 +1,109 @@
+{
+    "title": "Seared Fish Fillets With Red Pepper Sauce",
+    "keywords": "Dinner,Lunch,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/seared-fish-fillets-red-pepper-sauce-Jan16.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "chili powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "lime juice",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        },
+        {
+            "name": "jicama (diced)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "chicken or vegetable broth",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "lemon",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh oregano (minced)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "red bell pepper (cored, seeded, and diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "shallots (thinly sliced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "For the sauce: Heat the 1 tablespoon of oil in a large skillet over medium-high heat. Add the shallots and sauté for 3 minutes. Add the red peppers and sauté for 5 minutes, until softened. Add the garlic and sauté for 1 minute.",
+        "Add the oregano, lemon zest, chili powder, salt, and 1/4 teaspoon black pepper and sauté for 2 minutes. Pour in the broth and bring to boiling. Then reduce the heat to low and simmer for 10 minutes.",
+        "Meanwhile, prepare the sides. Add the jicama to a medium bowl and sprinkle it with the lime juice and chili powder; set aside.",
+        "Add the shallot-pepper sauce to a blender and purée until smooth. Set aside.",
+        "Sprinkle the fish with the salt and 1/4 teaspoon black pepper. Heat the oil in a large skillet. Add the fish fillets and sear for about 5 minutes per side. Reheat the pepper sauce in a small saucepan, if necessary. Serve the fish on top of a pool of the sauce, with 1 tortilla and 1/2 cup jicama per serving."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Seafood",
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "305",
+        "total_fat": "10g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "35mg",
+        "sodium": "385mg",
+        "total_carbohydrate": "26g",
+        "fiber": "7g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "28g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/seared-fish-fillets-red-pepper-sauce"
+}

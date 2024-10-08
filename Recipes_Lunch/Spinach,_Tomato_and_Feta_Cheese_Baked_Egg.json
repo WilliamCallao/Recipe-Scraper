@@ -1,0 +1,77 @@
+{
+    "title": "Spinach, Tomato and Feta Cheese Baked Egg",
+    "keywords": "Vegetarian,Dinner,Lunch,Quick & Easy,Breakfast and Brunch",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Breakfast and Brunch"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_182679755.jpg",
+        "Tomato and Feta Cheese Baked Egg\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "spinach (chiffonade (this means finely chopped))",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "tomato(es) (small dice)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "feta cheese (fat-free)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "fresh oregano (minced)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "medium eggs",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 375 degrees F.",
+        "Spray 4 ramekins with cooking spray. Combine the spinach, tomato, feta cheese, and oregano; evenly distribute into ramekins. Place egg over spinach mixture and bake until egg whites are set but the yolks are still soft, about 10-12 minutes."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Vegetarian",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "75",
+        "total_fat": "4.5g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "185mg",
+        "sodium": "135mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spinach-tomato-and-feta-cheese-baked-egg"
+}

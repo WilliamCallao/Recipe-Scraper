@@ -1,0 +1,90 @@
+{
+    "title": "Grilled Mango Chicken",
+    "keywords": "Holidays & Entertaining,Lunch,Dinner",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Holidays & Entertaining",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/283-grilled-mango-chicken_531983336_081118.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "chicken breast cutlets (boneless, (1 pound total), skinless)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "mango chutney or mango salsa",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "fresh lime juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "grated fresh ginger, or 1/2 Tsp. ground ginger",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "orange juice",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "minced fresh oregano or 1/4 to 1/2 Tsp. dried oregano",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "hot pepper sauce",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        }
+    ],
+    "instructions": [
+        "In a large resealable plastic storage bag, combine chicken with remaining ingredients. Place in refrigerator and marinate 8 hours or overnight, turning halfway during marinating time.",
+        "Preheat grill to medium-high heat. Place chicken on grill, discarding excess marinade. Grill chicken 4 to 6 minutes per side, or until cooked through."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Caribbean",
+        "Grilling",
+        "Indian",
+        "Latin American",
+        "Mexican/Southwestern",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "145",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "80mg",
+        "total_carbohydrate": "2g",
+        "fiber": "0g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-mango-chicken"
+}

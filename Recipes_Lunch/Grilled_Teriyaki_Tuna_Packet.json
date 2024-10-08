@@ -1,0 +1,94 @@
+{
+    "title": "Grilled Teriyaki Tuna Packet",
+    "keywords": "Lunch,Main Dish,Quick & Easy,Foodie,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/ThinkstockPhotos-175780392.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "lower-sodium soy sauce",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "honey",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "aluminum foil (12-inches long each)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh stir-fry vegetables (package)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "seasoning (no-salt, (such as Mrs. Dash or Salt-Free Spike))",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "yellowfin ahi tuna steak (divided into 4 4-oz portions, fresh or frozen; if frozen, thaw before using)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "In a small sauce pan, whisk together the soy sauce, water, honey, and garlic. Bring to boiling, then reduce to a simmer. Simmer for 7 to 8 minutes or until the sauce is reduced to 1/4 cup. Set aside to cool.",
+        "Preheat an outdoor grill to medium heat and spray one side of each sheet of foil with cooking spray.",
+        "In a medium bowl, toss together vegetables, garlic and seasoning.",
+        "Evenly divide the vegetables among the pieces of foil. Top the vegetables with a piece of tuna steak and drizzle 1 Tbsp. of prepared Teriyaki sauce over the tuna.",
+        "Bring the ends of the foil together and fold over tightly, three times until sealed to make a packet.",
+        "Grill the packets for 20 minutes. Be careful when opening the packets; the steam may be hot."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Grilling",
+        "Seafood",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "1g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "425mg",
+        "total_carbohydrate": "12g",
+        "fiber": "2g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "30g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-teriyaki-tuna-packet"
+}

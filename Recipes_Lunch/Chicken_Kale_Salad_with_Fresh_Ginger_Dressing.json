@@ -1,0 +1,62 @@
+{
+    "title": "Chicken Kale Salad with Fresh Ginger Dressing",
+    "keywords": "Lunch,Main Dish,Salads,Sides",
+    "prep_time": "PT5M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Lunch",
+        "Main Dish",
+        "Salads",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_644_Chicken%20Kale%20Salad%20with%20Ginger%20Dressing_4IngredientCookbook_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "chicken breasts (boneless, skinless)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "packed spinach with baby kale greens",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "lite raspberry salad dressing (light)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "gingerroot (grated)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "Heat a grill or grill pan over medium-high heat. Coat the chicken with cooking spray, sprinkle with 1/4 teaspoon salt and 1/4 teaspoon pepper, if desired. Cook 6 minutes on each side or until no longer pink in center. Let cool and thinly slice.",
+        "Place equal amounts of the greens and chicken on four dinner plates. Whisk together the salad dressing and ginger until well blended. Spoon equal amounts over all."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Lunch",
+        "Main Dish",
+        "Salads",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "10g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "85mg",
+        "sodium": "440mg",
+        "total_carbohydrate": "6g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "28g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-kale-salad-fresh-ginger-dressing"
+}

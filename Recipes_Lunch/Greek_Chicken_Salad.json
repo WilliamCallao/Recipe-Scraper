@@ -1,0 +1,112 @@
+{
+    "title": "Greek Chicken Salad",
+    "keywords": "Lunch,Gluten-Free,Dinner,Salads,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Gluten-Free",
+        "Dinner",
+        "Salads",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/266-diabetic-mediterranean-greek-chicken-salad_AdobeStock408011889_012621.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "chopped romaine lettuce",
+            "us_amount": "1 (9-oz) bag",
+            "metric_amount": "1 (9-oz) bag"
+        },
+        {
+            "name": "medium cucumber (peeled and diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "roma tomatoes (diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "pitted kalamata olives (cut in half)",
+            "us_amount": "16",
+            "metric_amount": "16"
+        },
+        {
+            "name": "small red onion (thinly sliced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "reduced-fat crumbled feta cheese",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "diced cooked chicken (diced)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "red wine vinegar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "dried oregano",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "baked whole wheat pita chips",
+            "us_amount": "16 chips (about 1 1/2 oz total)",
+            "metric_amount": "16 chips (about 1 1/2 oz total)"
+        }
+    ],
+    "instructions": [
+        "In a medium bowl, mix together the lettuce, cucumber, tomatoes, olives, red onion, cheese, and chicken. For meal prepping, evenly divide the salad between 4 meal prep containers (about 2 heaping cups each).",
+        "In a small bowl, whisk together the vinegar, olive oil, mustard, oregano, and pepper.",
+        "Pour the dressing over the salad and toss to coat. Or, store the dressing separately, and drizzle over the salad just before serving.",
+        "Enjoy the pita chips on the side or break into bits and sprinkle over your salad for added crunch.",
+        "DIY: Try making your own pita chips! Use 1 whole wheat pita (6 1/2\" diameter or about 2 oz.). Cut the pita in half and cut then each half into quarters. Separate each piece for a total of 16. Place on rimmed baking sheet and spray lightly with olive oil nonstick spray. Turn over each piece and spray the other side. Bake at 375 degrees F for about 10 minutes or until crisp."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mediterranean",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner",
+        "Salads",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "340",
+        "total_fat": "19g",
+        "saturated_fat": "3.9g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "410mg",
+        "total_carbohydrate": "16g",
+        "fiber": "4g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/greek-chicken-salad"
+}

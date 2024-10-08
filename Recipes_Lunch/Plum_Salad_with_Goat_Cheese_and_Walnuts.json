@@ -1,0 +1,77 @@
+{
+    "title": "Plum Salad with Goat Cheese and Walnuts",
+    "keywords": "Lunch,Holidays & Entertaining,Foodie",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Holidays & Entertaining",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Plum%20salad%20diabetic%20diabetes%20food%20hub.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "mixed greens",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "plums (pitted and sliced)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "English cucumber(s) (sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "walnuts (chopped and toasted)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "goat cheese (crumbled)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sugar-free or no-sugar-added balsamic vinaigrette",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salt and pepper to taste",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Season with salt and pepper to taste.",
+        "Add walnuts and goat cheese. Drizzle with balsamic vinaigrette and toss gently to coat.",
+        "In a large bowl, combine salad greens, plums, and cucumber."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "French",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "14g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "15g",
+        "fiber": "4g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/plum-salad-goat-cheese-and-walnuts"
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Chicken Lettuce Wraps",
+    "keywords": "Lunch,Quick & Easy,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Quick & Easy",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/163-diabetic-chicken-lettuce-wraps_AdobeStock_63295605_030521.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "green onion (scallion) (thinly sliced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "julienne or matchstick carrots",
+            "us_amount": "6 tsp",
+            "metric_amount": "29 g"
+        },
+        {
+            "name": "Asian peanut sauce",
+            "us_amount": "6 tsp",
+            "metric_amount": "29 g"
+        },
+        {
+            "name": "grilled chicken (finely chopped)",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "large lettuce leaves (Boston or Bib lettuce work well)",
+            "us_amount": "6",
+            "metric_amount": "6"
+        }
+    ],
+    "instructions": [
+        "Mix green onion, carrots, peanut sauce, and chicken together in a bowl. Divide the mixture evenly among six lettuce leaves."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Lunch",
+        "Quick & Easy",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "65",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0.6g",
+        "cholesterol": "25mg",
+        "sodium": "95mg",
+        "total_carbohydrate": "2g",
+        "fiber": "0g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-lettuce-wraps"
+}

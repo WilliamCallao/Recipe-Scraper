@@ -1,0 +1,79 @@
+{
+    "title": "Low Carb Lunchbox",
+    "keywords": "Lunch,Budget Friendly,Foodie",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Budget Friendly",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_340_Low_Carb_Lunchbox_MG_4945-Edit-%28ZF-5661-35964-1-130%29_02282018.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "reduced-sodium deli ham",
+            "us_amount": "1 1/2 oz",
+            "metric_amount": "42 ml"
+        },
+        {
+            "name": "reduced-fat colby jack cheese",
+            "us_amount": "1/2 oz",
+            "metric_amount": "14 ml"
+        },
+        {
+            "name": "avocado (mashed)",
+            "us_amount": "1/4",
+            "metric_amount": "1/4"
+        },
+        {
+            "name": "large bibb lettuce leaf",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "hard-boiled egg whites",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "unsalted roasted almonds",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "green apple (whole or sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "baby carrots",
+            "us_amount": "3",
+            "metric_amount": "3"
+        }
+    ],
+    "instructions": [
+        "Assemble the sandwich by layering the ham, cheese, and avocado on the lettuce leaf, then roll it tightly and wrap in plastic wrap. Serve the sandwich with the egg whites, almonds, green apple, and baby carrots."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Kid Friendly",
+        "Lunch",
+        "Budget Friendly",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "360",
+        "total_fat": "18g",
+        "saturated_fat": "3.5g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "500mg",
+        "total_carbohydrate": "33g",
+        "fiber": "10g",
+        "sugar": "19g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/low-carb-lunchbox"
+}

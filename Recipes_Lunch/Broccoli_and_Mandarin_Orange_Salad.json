@@ -1,0 +1,99 @@
+{
+    "title": "Broccoli and Mandarin Orange Salad",
+    "keywords": "Salads,Vegetarian,Vegan,Sides,No Cook,Holidays & Entertaining,Appetizers,Lunch",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "No Cook",
+        "Holidays & Entertaining",
+        "Appetizers",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Mandarin%20Salad%20Broccoli%20Diabetic%20Recipe.png",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "grapefruit (juiced)",
+            "us_amount": "1/2 med",
+            "metric_amount": "1/2 med"
+        },
+        {
+            "name": "shallots (small diced)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "champagne vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "honey",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "broccoli (chopped into small florets)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "Canned, No Sugar Added Mandarin Oranges (drained)",
+            "us_amount": "15 oz",
+            "metric_amount": "425 ml"
+        },
+        {
+            "name": "Toasted Pecans (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "In a large bowl, whisk together the grapefruit juice, shallot, olive oil, vinegar, honey, salt, and pepper.",
+        "Add broccoli and mandarin oranges, stir gently so as to not break up the oranges. Sprinkle with pecans."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Salads",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "No Cook",
+        "Holidays & Entertaining",
+        "Appetizers",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "13g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "110mg",
+        "total_carbohydrate": "11g",
+        "fiber": "2g",
+        "sugar": "8g",
+        "added_sugar": "2g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/broccoli-and-mandarin-orange-salad"
+}

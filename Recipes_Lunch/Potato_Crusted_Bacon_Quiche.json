@@ -1,0 +1,130 @@
+{
+    "title": "Potato Crusted Bacon Quiche",
+    "keywords": "One Pot,Main Dish,Lunch,Holidays & Entertaining,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT1H5M",
+    "categories": [
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_797_Potato%20Crusted%20Bacon%20Quiche_DiabetesComfortFood_022518.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "shredded frozen hash browns (For the crust, with excess water drained.)",
+            "us_amount": "2 1/2 cup",
+            "metric_amount": "592 ml"
+        },
+        {
+            "name": "egg white (For the crust, beaten until frothy)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Parmesan cheese (For the crust)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "dried basil (For the crust)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Kosher Salt (For the crust)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "slices reduced-fat bacon",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "small onion (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "package frozen chopped broccoli (thawed and drained, patted dry)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "1% milk",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cream cheese (fat-free)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "cheese (reduced-fat cream)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "egg whites",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "parsley (chopped fresh )",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Kosher Salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper (freshly ground)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "extra-sharp reduced-fat cheddar cheese ((such as 75% less fat Cabot extra sharp cheddar))",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 425°F. To make the crust, combine the crust ingredients and press into a 9-inch quiche or pie pan, covering the sides and bottom. Bake the crust for 10 minutes and remove from the oven and set aside.",
+        "Cook the bacon in a large skillet over medium-high heat until crispy, about 3 minutes. Remove from the skillet and crumble. In the pan drippings sauté the onion, add the frozen thawed broccoli, and sauté for 3 minutes.",
+        "In a bowl, combine the milk, cream cheeses, eggs, egg whites, parsley, salt, and pepper. Mix well. Add the cheddar cheese and cooked bacon.",
+        "Spread the broccoli mixture on the bottom of the cooked crust. Pour over the milk mixture. Bake for 15 minutes at 425°F. Lower the heat to 325°F and continue to cook for about 35 minutes until a knife inserted comes out clean."
+    ],
+    "tags": [
+        "Comfort Food",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "4.5g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "405mg",
+        "total_carbohydrate": "10g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/potato-crusted-bacon-quiche"
+}

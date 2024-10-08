@@ -1,0 +1,85 @@
+{
+    "title": "Slow Cooker Apricot Barbecue Pulled Chicken Sliders",
+    "keywords": "Slow Cooker,Sandwiches,Main Dish,Lunch,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Slow Cooker",
+        "Sandwiches",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/slow-cooker-apricot-bbq-dfh-crop.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "boneless, skinless chicken breasts",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "barbecue sauce",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "apricot preserves (sugar-free)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Cloudbread (original rounds, defrosted)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "mozzarella cheese (reduced-fat or reduced-fat Monterey Jack, shredded)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "roasted red peppers (sliced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fresh basil (julienned)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Once the chicken is finished, remove from the slow cooker and shred. Return to the sauce and stir to combine.  To serve, divide chicken between cloud bread rounds. Top with shredded cheese, peppers, and basil.",
+        "In a small bowl, whisk together the barbecue sauce, apricot preserves, salt, and pepper. Pour sauce into the slow cooker and stir to coat the chicken. Cook on high for 4 hours, until the chicken is soft and cooked through.",
+        "Place chicken in the bowl of a slow cooker."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Comfort Food",
+        "Slow Cooker",
+        "Sandwiches",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "290",
+        "total_fat": "11g",
+        "saturated_fat": "5.3g",
+        "trans_fat": "0g",
+        "cholesterol": "190mg",
+        "sodium": "510mg",
+        "total_carbohydrate": "14g",
+        "fiber": "5g",
+        "sugar": "8g",
+        "added_sugar": "5g",
+        "protein": "32g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/slow-cooker-apricot-barbecue-pulled-chicken-sliders"
+}

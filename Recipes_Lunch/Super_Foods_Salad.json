@@ -1,0 +1,104 @@
+{
+    "title": "Super Foods Salad",
+    "keywords": "Lunch,Salads,Vegetarian",
+    "prep_time": "Desconocido",
+    "cook_time": "PT30M",
+    "categories": [
+        "Lunch",
+        "Salads",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2016-03-super-foods-salad.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "quinoa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fresh shelled edamame ((1 cup))",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "lemon (juice only (about 2 Tbsp.))",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "orange juice (preferably fresh)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "avocado (use 1/4 in the dressing and dice the remaining 3/4 for salad)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh cilantro or parsley (coarsely chopped)",
+            "us_amount": "1/8 cup",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "garlic (peeled and halved)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "lettuce (head (6 ounce), chopped or torn, if necessary)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "orange bell pepper (cored and diced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "unsalted sunflower seeds, or use pecans or pistachios",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Rinse and cook the quinoa in 1 cup water for about 10 minutes or until the water is just absorbed. Fluff it and remove it from the heat.",
+        "Meanwhile, cook the edamame for 5 minutes in about 4 cups of boiling water.",
+        "In a small food processor or blender, puree the oil, lemon and orange juices, 1/4 avocado, cilantro, salt and garlic.",
+        "In a large salad bowl, combine the lettuce, bell pepper, quinoa, edamame, remaining avocado and sunflower seeds. Pour the dressing over everything and toss gently. Serve immediately.",
+        "Do Ahead Or Delegate: Cook the quinoa and the edamame, juice the orange, chop the cilantro, peel the garlic, prepare the dressing and dice the bell pepper."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Low Sodium",
+        "Veggie Rich",
+        "Lunch",
+        "Salads",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "265",
+        "total_fat": "16g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "70mg",
+        "total_carbohydrate": "25g",
+        "fiber": "7g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/super-foods-salad"
+}

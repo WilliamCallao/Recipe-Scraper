@@ -1,0 +1,101 @@
+{
+    "title": "Fruited Chicken Salad",
+    "keywords": "Salads,Foodie,Lunch,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Salads",
+        "Foodie",
+        "Lunch",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_705_FruitedChickenSalad_PerfectComfortCollection_022618.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "cooked deli chicken breast",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "small gala apples (unpeeled and diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "halved red seedless grapes",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "dried apricots (sliced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "frozen dark sweet cherries (dried)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "celery stalks (diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "red onion (minced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "low-fat mayonnaise",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "yogurt (plain, non-fat)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sea salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Cut the chicken into cubes or slices.",
+        "In a large bowl, combine the chicken with the apples, grapes, apricots, cherries, celery, and onion.",
+        "Gently fold in the mayonnaise, yogurt, salt, and pepper. Cover and refrigerate for 30 minutes to meld flavors."
+    ],
+    "tags": [
+        "Low Sodium",
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Comfort Food",
+        "Salads",
+        "Foodie",
+        "Lunch",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "1.5g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "16g",
+        "fiber": "2g",
+        "sugar": "12g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fruited-chicken-salad"
+}

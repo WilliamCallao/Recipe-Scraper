@@ -1,0 +1,111 @@
+{
+    "title": "Instant Pot Wheat Berry, Black Bean, and Avocado Salad",
+    "keywords": "Dinner,Lunch,Main Dish,Quick & Easy,Salads,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Salads",
+        "Vegetarian"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/1687-diabetic-instant-pot-wheat-berry-black-bean-avocado-salad_Instant-Pot-Diabetes-Ckbk_052819.jpg",
+        "Black Bean",
+        "and Avocado Salad\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "dried black beans",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "hard wheat berries",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "grape tomatoes",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "poblano chile pepper (chopped)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "fresh cilantro (chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Apple Cider Vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "extra virgin olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "avocado (peeled and chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "reduced fat sharp cheddar cheese (shredded)",
+            "us_amount": "3 oz",
+            "metric_amount": "85 ml"
+        }
+    ],
+    "instructions": [
+        "Place beans and wheat berries in a fine mesh sieve, rinse and drain. Place in pressure cooker with the 4 cups water. Lock the lid in place and close the seal valve. Press the Manual button for 25 minutes. When the cook time ends, use a quick pressure release.",
+        "Meanwhile, combine the tomatoes, peppers, cilantro, vinegar, oil, garlic and salt, in a large bowl and set aside.",
+        "When valve drops, carefully remove lid, drain in a fine mesh colander and run under cold water to cool completely. drain well.  Add the wheat berry mixture, avocado and cheese to the tomato mixture; toss gently until well coated.  Serve as is or over leafy greens such as kale"
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Salads",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "320",
+        "total_fat": "17g",
+        "saturated_fat": "4.5g",
+        "trans_fat": "0g",
+        "cholesterol": "15mg",
+        "sodium": "480mg",
+        "total_carbohydrate": "33g",
+        "fiber": "9g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/instant-pot-wheat-berry-black-bean-and-avocado-salad"
+}

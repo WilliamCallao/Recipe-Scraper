@@ -1,0 +1,112 @@
+{
+    "title": "Southwest-Style Turkey Meatloaf",
+    "keywords": "Budget Friendly,Dinner,Lunch,Main Dish,Easy Pantry Recipes",
+    "prep_time": "PT15M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Easy Pantry Recipes"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1904-diabetic-turkey-meatloaf_create-your-plate_022020.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lean ground turkey",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        },
+        {
+            "name": "quick cooking oats",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "yellow onion (finely chopped)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "eggs (beaten)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "green bell pepper (finely diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ketchup",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "dried oregano",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350°F. Coat a 9 × 5-inch loaf pan with nonstick cooking spray.",
+        "Add all of the remaining ingredients to a large bowl. Gently mix the ingredients until well combined.",
+        "Spoon the mixture into the prepared loaf pan, using the back of the spoon or a spatula to even out the top. Place the loaf pan in the oven and bake until a thermometer inserted into the center of the meatloaf reads 165°F, 1 hour."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Comfort Food",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Easy Pantry Recipes"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "8g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0.1g",
+        "cholesterol": "110mg",
+        "sodium": "400mg",
+        "total_carbohydrate": "15g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/southwest-style-turkey-meatloaf"
+}

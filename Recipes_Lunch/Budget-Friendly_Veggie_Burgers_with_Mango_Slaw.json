@@ -1,0 +1,123 @@
+{
+    "title": "Budget-Friendly Veggie Burgers with Mango Slaw",
+    "keywords": "Foodie,Dinner,Vegetarian,Lunch,Budget Friendly",
+    "prep_time": "PT20M",
+    "cook_time": "PT16M",
+    "categories": [
+        "Foodie",
+        "Dinner",
+        "Vegetarian",
+        "Lunch",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/136-diabetic-veggie-burger-mango-slaw_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cannellini (white kidney) beans (rinsed and drained)",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "diced onion",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "diced mushrooms",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "shredded carrots",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Worcestershire sauce",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lower sodium soy sauce",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "quick cooking oats",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "steak seasoning",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "unripe mango (peeled, seeded and shredded)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "packaged coleslaw mix",
+            "us_amount": "1 (9-oz) bag",
+            "metric_amount": "1 (9-oz) bag"
+        },
+        {
+            "name": "rice wine vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "large lettuce leaves",
+            "us_amount": "6",
+            "metric_amount": "6"
+        }
+    ],
+    "instructions": [
+        "Coat a large non-stick sauté pan with cooking spray. Set aside.",
+        "Combine cannellini beans, onion, garlic, mushrooms, carrots, Worcestershire sauce, soy sauce, oatmeal, Montreal steak seasoning and salt (optional) in a food processor. Pulse several times until mixture is combined but not a paste.",
+        "Divide burger mixture into 6 equal portions, form into patties.",
+        "Heat prepared sauté pan over medium high heat. Sauté burgers on each side 6-8 minutes. Set aside.",
+        "In a large bowl, combine shredded mango, coleslaw mix, rice wine vinegar and olive oil. Toss to coat.",
+        "Add a burger to a lettuce leaf, top with 3/4 cup coleslaw mixture."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Foodie",
+        "Dinner",
+        "Vegetarian",
+        "Lunch",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "430mg",
+        "total_carbohydrate": "32g",
+        "fiber": "7g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-veggie-burgers-mango-slaw"
+}

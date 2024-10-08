@@ -1,0 +1,106 @@
+{
+    "title": "Dijon Chicken w/ Zucchini & Tomatoes",
+    "keywords": "Quick & Easy,Dinner,Gluten-Free,Main Dish,Lunch",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Dinner",
+        "Gluten-Free",
+        "Main Dish",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/220-dijon-chicken-zucchini-124591629_091818.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "medium zucchini (cut into 1/4-inch rounds)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "grape tomatoes",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "black pepper (ground, divided)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "lemon (juiced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "chicken breasts (4-ounce each, boneless, skinless)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "dried oregano (dried)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Parmesan cheese (freshly grated )",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350 degrees. Coat a large baking dish with cooking spray. In a small bowl combine zucchini, tomatoes, olive oil, 1/8 Tsp. black pepper and toss to coat. Set aside.",
+        "In another small bowl mix together lemon juice and Dijon mustard. Set aside",
+        "Season chicken breasts on both sides with 1/8 Tsp. pepper, garlic powder and oregano. Place chicken breasts in baking dish and brush top with mustard mixture. Sprinkle with Parmesan cheese.",
+        "Pour zucchini and tomatoes around chicken in baking dish. Bake for 30 minutes or until done."
+    ],
+    "tags": [
+        "Lower Carb",
+        "French",
+        "Quick & Easy",
+        "Dinner",
+        "Gluten-Free",
+        "Main Dish",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "205",
+        "total_fat": "7g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "265mg",
+        "total_carbohydrate": "8g",
+        "fiber": "2g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/dijon-chicken-w-zucchini-tomatoes"
+}

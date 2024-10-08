@@ -1,0 +1,80 @@
+{
+    "title": "Egg and Avocado Toasts",
+    "keywords": "Quick & Easy,Vegetarian,Dinner,Lunch,Breakfast and Brunch,Budget Friendly",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Vegetarian",
+        "Dinner",
+        "Lunch",
+        "Breakfast and Brunch",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/227-diabetic-breakfast-egg-avocoado-toast_DFMarApr19_012919.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "hearty whole grain bread",
+            "us_amount": "4 slice",
+            "metric_amount": "4 slice"
+        },
+        {
+            "name": "avocado (mashed)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "To poach each egg, fill a 1-cup microwaveable bowl or teacup with 1/2 cup water. Gently crack an egg into the water, making sure it’s completely submerged. Cover with a saucer and microwave on high for about 1 minute, or until the white is set and the yolk is starting to set but still soft (not runny).",
+        "Toast the bread and spread each piece with 1/4 of the mashed avocado.",
+        "Sprinkle avocado with the salt (optional) and pepper. Top each piece with a poached egg. Top the egg with 1 Tbsp. Greek yogurt."
+    ],
+    "tags": [
+        "High in Fiber",
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Comfort Food",
+        "Quick & Easy",
+        "Vegetarian",
+        "Dinner",
+        "Lunch",
+        "Breakfast and Brunch",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "12g",
+        "saturated_fat": "2.8g",
+        "trans_fat": "0g",
+        "cholesterol": "185mg",
+        "sodium": "380mg",
+        "total_carbohydrate": "26g",
+        "fiber": "9g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/egg-and-avocado-toasts"
+}

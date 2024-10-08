@@ -1,0 +1,108 @@
+{
+    "title": "Cajun Fish Sandwiches With Crunchy Slaw",
+    "keywords": "Lunch,Sandwiches",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Lunch",
+        "Sandwiches"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_634_CajunFishSandwich_SixOClockScramble_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "shredded cabbage or coleslaw mix",
+            "us_amount": "6 oz (about 3 cups)",
+            "metric_amount": "6 oz (about 3 cups)"
+        },
+        {
+            "name": "light mayonnaise",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Apple Cider Vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "honey",
+            "us_amount": "1/2 tbsp",
+            "metric_amount": "7 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "all-purpose flour",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "Cajun or Old Bay seasoning",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "butter",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "flounder, catfish, tilapia, or other thin white fish fillets (cut into 4 even pieces)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "whole wheat hamburger buns",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "In a medium serving bowl, combine the slaw, mayonnaise, vinegar, honey, salt, and pepper. Set it aside. (If possible, make this up to 24 hours in advance and refrigerate it until you are ready to serve. Mix it well before serving.)",
+        "In a shallow dish or bowl, combine the flour and Cajun or Old Bay seasoning. In another shallow bowl, beat the egg.",
+        "In a large heavy skillet (a cast iron pan works great for this), heat the butter and oil over medium heat until it is bubbling.",
+        "Dip the fish pieces in the flour mixture to coat them. Dip them in the egg, letting the excess drip back into the bowl. Dip them back into the flour mixture to recoat. Cook the fish until it is nicely browned and crispy, about 2–3 minutes per side. Remove the fish to a plate.",
+        "Toast the buns. Serve the fish inside the buns and topped with the slaw.",
+        "FLAVOR BOOSTER Serve the sandwiches topped with barbecue sauce or your favorite sandwich spread. Finely grate 1/4 onion into the coleslaw."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Kid Friendly",
+        "Seafood",
+        "Lunch",
+        "Sandwiches"
+    ],
+    "nutrition": {
+        "calories": "350",
+        "total_fat": "12g",
+        "saturated_fat": "3g",
+        "trans_fat": "0.1g",
+        "cholesterol": "115mg",
+        "sodium": "440mg",
+        "total_carbohydrate": "34g",
+        "fiber": "4g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cajun-fish-sandwiches-crunchy-slaw"
+}

@@ -1,0 +1,102 @@
+{
+    "title": "Grilled Scallops with Chunky Salsa Verde",
+    "keywords": "Lunch,Foodie,Dinner,Quick & Easy,Vegetarian",
+    "prep_time": "PT20M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Lunch",
+        "Foodie",
+        "Dinner",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/287-diabetic-grilled-scallops-chunky-salsa-verde_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "tomatillo (husked, rinsed, cut into small dice)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "small jalapeno (seeded, deveined and minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chopped fresh cilantro",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "zucchini (seeded, cut into a small dice)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lime juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "honey or 1/2 packet artificial sweetener",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "large sea scallops (tabs removed (Note: Sea scallops that are fresh or that have no preservatives added are best))",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Prepare an indoor or outdoor grill.",
+        "In a medium bowl, mix together the tomatillo, jalapeno, cilantro, zucchini, lime juice, Stevia and garlic. Mix together and set aside.",
+        "Pat the scallops dry with a paper towel. Toss them with the olive oil, salt and pepper in a medium bowl.",
+        "Place scallops on grill, flat side down. Turning occasionally, grill until lightly charred and just cooked through, about 2 minutes per side. Serve scallops topped with the chunky salsa verde."
+    ],
+    "tags": [
+        "Grilling",
+        "Mexican/Southwestern",
+        "Seafood",
+        "Lunch",
+        "Foodie",
+        "Dinner",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "340mg",
+        "total_carbohydrate": "12g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-scallops-chunky-salsa-verde"
+}

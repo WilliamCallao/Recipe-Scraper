@@ -1,0 +1,114 @@
+{
+    "title": "Gingered Pumpkin Bisque",
+    "keywords": "Budget Friendly,Lunch,One Pot,Quick & Easy,Sides,Slow Cooker,Soup,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT7H",
+    "categories": [
+        "Budget Friendly",
+        "Lunch",
+        "One Pot",
+        "Quick & Easy",
+        "Sides",
+        "Slow Cooker",
+        "Soup",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1830-diabetic-Gingered-Pumpkin-Bisque_Fast-Fix-Slow-Cooker-Ckbk_091319.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "pumpkin puree",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "firm medium pear (peeled, cored, and chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "diced onion",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "low sodium chicken or vegetable broth",
+            "us_amount": "1 (14.5-oz) can",
+            "metric_amount": "1 (14.5-oz) can"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ground nutmeg",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cayenne pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "fat-free half-and-half",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "trans-fat-free margarine",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "packed brown sugar substitute blend, such as Splenda",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "grated fresh ginger",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        }
+    ],
+    "instructions": [
+        "Coat a 3 1/2- to 4-quart slow cooker with cooking spray. Add the pumpkin, pears, onions, broth, cumin, nutmeg, salt, and cayenne to the slow cooker. Cover and cook on high for 3 1/2 hours, or on low for 7 hours, or until onions are tender.",
+        "Working in 1-cup batches, purée the pumpkin mixture in a blender, being sure to secure the lid tightly while blending. Return the mixture to the slow cooker, stir in the remaining ingredients, except the yogurt. Cover and cook on high for 30 more minutes.",
+        "Serve topped with 1 tbsp of yogurt."
+    ],
+    "tags": [
+        "Budget Friendly",
+        "Lunch",
+        "One Pot",
+        "Quick & Easy",
+        "Sides",
+        "Slow Cooker",
+        "Soup",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "4g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "400mg",
+        "total_carbohydrate": "23g",
+        "fiber": "4g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/gingered-pumpkin-bisque"
+}

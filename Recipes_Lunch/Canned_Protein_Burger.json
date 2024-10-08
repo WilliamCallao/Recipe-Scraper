@@ -1,0 +1,94 @@
+{
+    "title": "Canned Protein Burger",
+    "keywords": "Budget Friendly,Dinner,Easy Pantry Recipes,Lunch,Main Dish,Quick & Easy",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1937-diabetic-canned-protein-burger_DCME-ckbk_AdobeStock63892193_032520.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "egg",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "minced bell pepper",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "minced onion",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "light mayonnaise",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "whole grain bread crumbs",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "canned protein such as tuna, salmon, or chicken",
+            "us_amount": "2 (6-oz) cans (12 oz total)",
+            "metric_amount": "2 (6-oz) cans (12 oz total)"
+        }
+    ],
+    "instructions": [
+        "Store in an airtight container in the refrigerator for up to 1 week or wrap individually in freezer bags or containers and freeze up to 3 months (freeze cooked burgers only, do not freeze the raw burgers).",
+        "Add olive oil to a non-stick skillet over medium heat. Fry burgers on each side for 3-4 minutes. Work in batches if your pan is not big enough to hold all 8 burgers.",
+        "In a bowl, mix together the canned protein, breadcrumbs, lite mayonnaise, onion, bell pepper, egg, salt and pepper until combined. Form the mixture into 6 patties."
+    ],
+    "tags": [
+        "Lower Carb",
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Budget Friendly",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "7g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "440mg",
+        "total_carbohydrate": "8g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/canned-protein-burger"
+}

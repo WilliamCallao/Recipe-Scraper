@@ -1,0 +1,133 @@
+{
+    "title": "Beef Sancocho",
+    "keywords": "Soup,One Pot,Main Dish,Lunch,Gluten-Free,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "PT2H",
+    "categories": [
+        "Soup",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1748-espanol-diabetic-sancocho-carne-res_latin-comfort-foods_13020.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "lean top round beef (cut into 1-inch chunks)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "onion (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "green bell pepper (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cubanelle or anaheim pepper (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "celery (chopped)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "garlic (chopped)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "unsalted beef broth",
+            "us_amount": "32 oz",
+            "metric_amount": "906 ml"
+        },
+        {
+            "name": "no-salt-added tomato sauce",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Adobo seasoning",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "bay leaves",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "fresh or frozen yucca (thawed and cut into 2-inch pieces)",
+            "us_amount": "3/4 lb (about 2 cups)",
+            "metric_amount": "3/4 lb (about 2 cups)"
+        },
+        {
+            "name": "green plantain (peeled and cut into 1-inch pieces)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chayote squash (peeled and cut into 2-inch cubes)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "tomato (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chopped fresh cilantro",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Heat the oil in a nonstick Dutch oven or large nonstick saucepot over medium-high heat. Add the beef and cook, turning occasionally, until browned, about 5 minutes. Add the onion, bell pepper, cubanelle, celery, and garlic. Cook, stirring occasionally, until the vegetables are tender, about 8 minutes.",
+        "Add the broth, tomato sauce, adobo seasoning, salt, and bay leaves; bring to a boil. Reduce the heat to medium low. Cover and simmer until the meat is just tender, about 1 hour.",
+        "Add the yucca, plantain, chayote squash, and tomato and cook, stirring occasionally, until the meat and vegetables are fork-tender, about 40 minutes.",
+        "Remove from the heat. Remove and discard the bay leaves; stir in the cilantro."
+    ],
+    "tags": [
+        "Mexican/Southwestern",
+        "Latin American",
+        "Soup",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "320mg",
+        "total_carbohydrate": "40g",
+        "fiber": "4g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/beef-sancocho"
+}

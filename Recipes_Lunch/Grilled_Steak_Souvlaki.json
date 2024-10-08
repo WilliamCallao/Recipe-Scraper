@@ -1,0 +1,130 @@
+{
+    "title": "Grilled Steak Souvlaki",
+    "keywords": "Lunch,Foodie,Dinner",
+    "prep_time": "PT40M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Lunch",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/291-GrilledSteakSouvlaki_512597388_04112018%20.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "bamboo skewers",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "lean steak ((such a sirloin or tenderloin), cut into 2 inch cubes)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "dried oregano (dried)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "red wine vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "whole grain pocket style pitas (cut in half)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "garlic (chopped)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "lemon (zested and juiced (1/4 cup lemon juice, 1 Tbsp. zest))",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "flat-leaf parsley",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fresh oregano",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "fresh mint leaves",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Soak bamboo skewers in warm water for at least 30 minutes.",
+        "In large bowl, whisk together oregano, garlic, ground black pepper, olive oil, lemon juice and red wine vinegar. Add cubed steak and stir to coat.",
+        "Marinate for 30 minutes (can be made ahead of time and marinate up to 24 hours in the refrigerator). While the steak is marinating, prepare an indoor or outdoor grill.",
+        "Thread marinated steak onto 8 skewers grill on all sides (4 minutes on each side). Brush the skewers with remaining marinade during grilling, using all the marinade.",
+        "Grill the pita pockets for 30 seconds on each side.",
+        "In a blender or food processor, blend all of the sauce ingredients.",
+        "Remove steak from 2 skewers and stuff inside a pita pocket half. Repeat for remaining 3 pita pocket halves and top with 2 Tbsps. of the sauce."
+    ],
+    "tags": [
+        "Mediterranean",
+        "Grilling",
+        "Lunch",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "340",
+        "total_fat": "17g",
+        "saturated_fat": "3.5g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "370mg",
+        "total_carbohydrate": "22g",
+        "fiber": "4g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-steak-souvlaki"
+}

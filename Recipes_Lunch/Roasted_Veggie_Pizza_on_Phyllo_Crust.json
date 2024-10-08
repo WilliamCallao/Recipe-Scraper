@@ -1,0 +1,114 @@
+{
+    "title": "Roasted Veggie Pizza on Phyllo Crust",
+    "keywords": "Vegetarian,Main Dish,Lunch,Dinner",
+    "prep_time": "PT25M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Vegetarian",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2007-diabetic-Roasted-Veggie-Pizza-Phyllo-Crust_KDBH-bookazine_012821.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "baby spinach",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "cherry tomatoes (halved)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "asparagus (trimmed, cut into 2-inch pieces)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "mushrooms, such as button, cremini, or portobello (thickly sliced)",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "bell pepper, any color (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chopped red onion",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "frozen phyllo dough",
+            "us_amount": "6 sheets",
+            "metric_amount": "6 sheets"
+        },
+        {
+            "name": "shredded low-fat mozzarella",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "grated Parmesan cheese",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "dried oregano or dried basil",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 425°F. Lightly spray a large baking pan with cooking spray.",
+        "Arrange the spinach, cherry tomatoes, asparagus, mushrooms, bell pepper, and onion in a single layer in the pan. Lightly spray the vegetables with cooking spray. Sprinkle with the pepper. Roast for 10–15 minutes, or until the onion is tender-crisp. Transfer the vegetables to a plate.",
+        "Wipe the baking pan with paper towels. Lightly spray the pan with cooking spray. Reduce the oven temperature to 400°F.",
+        "Keeping the unused phyllo covered with a damp cloth or damp paper towels to prevent drying, place 1 sheet in the pan. Lightly spray with cooking spray. Repeat with the remaining phyllo, layering each sheet on top of the previous one.",
+        "Spread the roasted vegetables over the layered phyllo. Sprinkle with the cheese, basil, and red pepper.",
+        "Bake for 10–15 minutes, or until the mozzarella and Parmesan have melted and the crust is golden brown around the edges. Let cool for 5-10 minutes, then cut into 6 equal slices."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Kid Friendly",
+        "Comfort Food",
+        "Vegetarian",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "2.5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "3mg",
+        "sodium": "135mg",
+        "total_carbohydrate": "15g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-veggie-pizza-phyllo-crust"
+}

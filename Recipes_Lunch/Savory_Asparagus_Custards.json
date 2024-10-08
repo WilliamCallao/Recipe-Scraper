@@ -1,0 +1,103 @@
+{
+    "title": "Savory Asparagus Custards",
+    "keywords": "Vegetarian,Snacks,Breakfast and Brunch,Foodie,Lunch",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Snacks",
+        "Breakfast and Brunch",
+        "Foodie",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_49085539.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "ramekins (4-ounce (or a muffin tin if you don’t have ramekins))",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "asparagus ((2 cups chopped))",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        },
+        {
+            "name": "sun-dried tomatoes (chopped, (not packed in oil))",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "fresh basil (chopped)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "egg substitute",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "skim milk",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "flour",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt ((optional))",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350 degrees F. Coat the ramekins or 6 cups in a muffin tin with cooking spray. Set aside.",
+        "Add olive oil and cooking spray to a medium non-stick sauté pan over medium heat and sauté the asparagus and sun dried tomatoes for 8-10 minutes or until asparagus begins to soften. If asparagus is really thick, add a couple of Tbsps. of water to the pan and cover for 5 minutes to steam, then continue sautéing until all liquid is absorbed. Set aside to cool.",
+        "Whisk together basil, egg substitute, skim milk, flour, salt and pepper until smooth with no lumps.",
+        "Divide the asparagus mixture evenly among the six ramekins or muffin tins. Cups will be full.",
+        "Carefully pour the egg mixture over the asparagus just to the top, do not overfill.",
+        "Bake for 30 minutes or until the custards are puffed and just starting to brown.",
+        "Remove from the oven and cool slightly. Then turn the custards out of the ramekins or muffin tins and serve."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Vegetarian",
+        "Snacks",
+        "Breakfast and Brunch",
+        "Foodie",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "65",
+        "total_fat": "1g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/savory-asparagus-custards"
+}

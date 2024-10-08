@@ -1,0 +1,95 @@
+{
+    "title": "Chile Lime Shrimp with Poblano Sauce",
+    "keywords": "Main Dish,Gluten-Free,Foodie,Dinner,Lunch",
+    "prep_time": "PT30M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Main Dish",
+        "Gluten-Free",
+        "Foodie",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-09/47main_garlicshrimpwithpoblanosauce.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "poblano chile pepper",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "garlic (divided use)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Kosher Salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "shrimp (peeled to just the tail and deveined)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "serrano pepper (sliced)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Line a sheet pan with parchment paper and preheat the broiler on high. Broil the poblano pepper until slightly blackened, for about 5 minutes, turning a couple of times. Place in a bowl and cover with plastic wrap to steam for 5 minutes.",
+        "Once it’s cool enough to touch, peel off the skin. Remove the stem and slice the pepper open to remove the seeds and roughly chop the pepper.",
+        "Toss the shrimp with ½ tablespoon olive oil, 1 garlic clove, peppers, and pepper.  Let it marinate for 15-30 minutes",
+        "While the shrimp is marinating, finish the sauce. Blend the poblano pepper, Greek yogurt, 2 grated garlic cloves, cumin, kosher salt, and pepper in a food processor until smooth.",
+        "Heat the remaining ½ tablespoon of olive oil in a skillet. Once the pan is hot, sear the shrimp for 2 minutes on each side until just cooked through.",
+        "Serve with the poblano sauce."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Mediterranean",
+        "Latin American",
+        "Grilling",
+        "Main Dish",
+        "Gluten-Free",
+        "Foodie",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "3g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "470mg",
+        "total_carbohydrate": "2g",
+        "fiber": "0g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chile-lime-shrimp-poblano-sauce"
+}

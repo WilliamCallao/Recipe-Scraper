@@ -1,0 +1,92 @@
+{
+    "title": "Mango Mango Salad with Chicken",
+    "keywords": "Quick & Easy,Lunch,Gluten-Free,No Cook,Salads",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Lunch",
+        "Gluten-Free",
+        "No Cook",
+        "Salads"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1668-diabetic-mango-chicken-salad_new-soul-food-cookbook_100518_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "light mayonnaise",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "green onions (chopped)",
+            "us_amount": "3 stalks",
+            "metric_amount": "3 stalks"
+        },
+        {
+            "name": "cooked chicken breast (diced)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "mango (chopped)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "green bell pepper (seeded and chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Apple Cider Vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sugar",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "romaine lettuce",
+            "us_amount": "18 leaves",
+            "metric_amount": "18 leaves"
+        }
+    ],
+    "instructions": [
+        "Combine the mayonnaise and green onions in a small bowl, cover, and chill. Combine the chicken, mango, and bell pepper in a large bowl.",
+        "Combine the vinegar, lemon juice, and sugar in a container with a tight lid. Shake well. Add lemon mixture to the mayonnaise and green onion mixture and stir well.",
+        "Pour the dressing over the chicken and mango, toss well, and chill for 30 minutes. To serve, spoon onto a plate lined with lettuce leaves."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Comfort Food",
+        "Quick & Easy",
+        "Lunch",
+        "Gluten-Free",
+        "No Cook",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "5g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "14g",
+        "fiber": "2g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mango-mango-salad-chicken"
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Strawberry-Jalapeño Salsa Over Grilled Chicken",
+    "keywords": "Main Dish,Lunch,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/strawberry-jalapeno-salsa-over-grilled-chicken.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "boneless, skinless chicken breasts (halved, 8 oz each)",
+            "us_amount": "3 large",
+            "metric_amount": "3 large"
+        },
+        {
+            "name": "nonstick cooking spray (spray)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "Kosher Salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper (freshly cracked)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Fresh Strawberries (small, diced)",
+            "us_amount": "1 pints",
+            "metric_amount": "480 ml"
+        },
+        {
+            "name": "roma (plum) tomatoes (seeded and small diced)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "shallots (minced)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "jalapeño pepper (minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lime (juiced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "fresh cilantro (loosely packed, chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat a grill pan over medium-high heat. Season the chicken with salt and pepper and add cooking oil spray. Then grill until cooked through, 6–7 minutes per side.",
+        "Meanwhile, make the salsa by combining the strawberries, tomatoes, shallot, jalapeño, lime juice, garlic, olive oil and cilantro. Stir to combine.",
+        "Divide chicken between plates and top with salsa."
+    ],
+    "tags": [
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "5g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "140mg",
+        "total_carbohydrate": "8g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/strawberry-jalapeno-salsa-over-grilled-chicken"
+}

@@ -1,0 +1,111 @@
+{
+    "title": "Kid-Friendly Meatballs",
+    "keywords": "Holidays & Entertaining,Quick & Easy,Dinner,Lunch",
+    "prep_time": "PT20M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_333_Kid-Friendly_Meatballs_iStock-175542555_02282018.jpg",
+    "servings": "11 Servings",
+    "ingredients": [
+        {
+            "name": "ketchup",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "ground turkey (93% lean)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "zucchini (grated)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "carrot(s) (grated)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "onion(s) (grated)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "eggs (slightly beaten)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "old-fashioned rolled oats",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Parmesan cheese (freshly grated )",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350 degrees.",
+        "In a small bowl, whisk together the ketchup and vinegar for the sauce.",
+        "In a medium bowl, mix together remaining ingredients for the meatballs. Shape into 1-inch balls.",
+        "Place meatballs on a baking sheet and top evenly with sauce (11/2 Tsp. per meatball).",
+        "Bake for 45 minutes or until done."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Kid Friendly",
+        "Italian",
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "4.5g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "185mg",
+        "total_carbohydrate": "8g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/kid-friendly-meatballs"
+}

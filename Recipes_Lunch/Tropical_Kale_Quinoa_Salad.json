@@ -1,0 +1,95 @@
+{
+    "title": "Tropical Kale Quinoa Salad",
+    "keywords": "Dinner,Gluten-Free,Lunch,Salads,Sides,Vegan,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Salads",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1807-diabetic-tropical-quinoa_Superfoods-Cookbook_DFJulAug19_062019.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "orange juice",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "chopped fresh ginger",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "green onions (chopped)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "slivered almonds",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "unsweetened coconut flakes",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "canned no-sugar-added pineapple chunks in juice",
+            "us_amount": "1/2 (20-oz) can",
+            "metric_amount": "1/2 (20-oz) can"
+        },
+        {
+            "name": "chopped fresh kale",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "dry tricolor quinoa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Combine the quinoa, kale mixture, coconut and almonds, and the rest of the ingredients. Stir well. Scoop equal amounts into bowls and serve warm or cold, according to your preference.",
+        "Place the coconut and almonds on a baking sheet and toast in the oven for about 6 minutes. Stir every 2 minutes to prevent burning.",
+        "Heat the oil in a nonstick pan over medium-high heat. Sauté the kale and pineapple chunks for about 4 minutes.",
+        "Cook the quinoa according to the package instructions, omitting any added salt.",
+        "Preheat the oven to 350° F."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Salads",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "11g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "20mg",
+        "total_carbohydrate": "30g",
+        "fiber": "5g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tropical-kale-quinoa-salad"
+}

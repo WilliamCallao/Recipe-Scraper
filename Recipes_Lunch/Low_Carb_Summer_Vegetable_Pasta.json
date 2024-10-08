@@ -1,0 +1,109 @@
+{
+    "title": "Low Carb Summer Vegetable Pasta",
+    "keywords": "Main Dish,Dinner,Lunch,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Main Dish",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/2024-10/dfh_blog_1.png",
+        "broccoli",
+        "and asparagus for a low carb diabetic friendly diet\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cherry tomatoes (yellow preferred)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "asparagus (1-inch pieces with woody ends trimmed)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "broccoli (florets)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "zucchini noodles (from frozen section)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "cottage cheese (low-fat)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "lemon zest",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "fresh basil (thinly sliced)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "fresh parsley (finely chopped)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Bring a large pot of water to boil.",
+        "Meanwhile, set a large sauté pan on medium high and add olive oil. When heated, add tomatoes.",
+        "Cook until tomatoes start to blister and lose their shape (about 5 minutes). shaking the pan every so often, until the tomatoes are just starting to blister and lose their shape (about 5 minutes).",
+        "Turn heat down to low and add garlic. Cook until fragrant (about 1 minute). Remove tomatoes and garlic from heat and place in large bowl. Set pan aside for later use, you do not need to clean it yet.",
+        "Once water is boiled, add asparagus and cook for 1 minute. Remove with a strainer and add to veggie bowl. Repeat with broccoli and peas. Set veggie bowl aside.",
+        "Cook the package of zucchini spirals according to cooking instructions and set aside.",
+        "In a separate bowl, mix the cottage cheese, lemon zest, basil, and parsley.",
+        "Re-heat large sauté pan to medium high. Add the vegetables, zucchini spirals, cottage cheese mixture, and lemon juice. Stir to combine and cook until hot and everything is coated with the cheese sauce (about 5 minutes)."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Italian",
+        "American",
+        "Main Dish",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "5g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "15g",
+        "fiber": "5g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/low-carb-summer-vegetable-pasta"
+}
