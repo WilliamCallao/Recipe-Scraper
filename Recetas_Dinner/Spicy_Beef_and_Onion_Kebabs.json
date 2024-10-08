@@ -1,0 +1,83 @@
+{
+    "title": "Spicy Beef and Onion Kebabs",
+    "keywords": "Dinner,Main Dish,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Dinner",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1997-diabetic-Spicy-Beef-Onion-Kebabs_KDBH-bookazine_012821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "light beer",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ketchup",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "mustard powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "hot sauce",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "boneless top sirloin steak (cut into 16 cubes)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "large onion (cut through the core into 16 wedges, each about 1/3-inch thick)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "In a large shallow glass dish, whisk together the beer, ketchup, garlic, mustard, hot-pepper sauce, and salt. Add the beef, turning to coat. Cover and refrigerate for 30 minutes to 2 hours, turning occasionally.",
+        "When the beef is marinated, lightly spray the grill rack with cooking spray. Preheat the grill on medium high.",
+        "Drain the beef, pouring the marinade into a small saucepan. Bring the marinade to a boil over high heat. Boil for at least 5 minutes. (This destroys harmful bacteria.)",
+        "Alternating, thread 4 beef cubes and 4 onion wedges onto each of four metal skewers.",
+        "Place the kebabs on the grill. Brush with half the marinade.",
+        "Grill, covered, for 5 minutes. Turn over the kebabs. Using a clean basting brush, brush with the remaining marinade. Grill, covered, for 5–8 minutes for medium rare, or until the beef is the desired doneness."
+    ],
+    "tags": [
+        "Grilling",
+        "Dinner",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "6g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "310mg",
+        "total_carbohydrate": "11g",
+        "fiber": "1g",
+        "sugar": "8g",
+        "added_sugar": "2g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spicy-beef-and-onion-kebabs"
+}

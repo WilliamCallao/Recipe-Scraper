@@ -1,0 +1,99 @@
+{
+    "title": "Baby Kale and Quinoa Salad",
+    "keywords": "Dinner,Lunch,Main Dish,Salads,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Salads",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1735-espanol-diabetic-ensalada-quinua-col-rizada_latin-comfort-foods_13020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "water",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "uncooked quinoa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "baby kale",
+            "us_amount": "3 cups (about 3 oz)",
+            "metric_amount": "3 cups (about 3 oz)"
+        },
+        {
+            "name": "chopped gala apple",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "small red onion (finely chopped)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "reduced-fat crumbled feta cheese",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pumpkin seeds",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "white balsamic vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Bring the water to a boil in a medium saucepan. Add the quinoa and cook until most of the liquid is absorbed. Loosely cover, reduce the heat to low, and cook until the quinoa is fully cooked, about 20 minutes. Rinse under cold running water; drain and transfer to a large bowl.",
+        "Add the kale, apple, onion, cheese, and pumpkin seeds.",
+        "Whisk together the vinegar, oil, and salt in a small bowl. Add the dressing to the quinoa mixture and toss until well mixed."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Latin American",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Salads",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "9g",
+        "saturated_fat": "1.8g",
+        "trans_fat": "0g",
+        "cholesterol": "9mg",
+        "sodium": "410mg",
+        "total_carbohydrate": "39g",
+        "fiber": "5g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/baby-kale-and-quinoa-salad"
+}

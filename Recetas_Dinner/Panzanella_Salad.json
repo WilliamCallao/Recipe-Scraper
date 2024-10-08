@@ -1,0 +1,92 @@
+{
+    "title": "Panzanella Salad",
+    "keywords": "Salads,Main Dish,Budget Friendly,Dinner,Lunch,Quick & Easy",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1827-diabetic-panzanella-salad_12-week-diabetes-ckbk_DFSepOct19_081619.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "whole wheat bread (1-2 days old)",
+            "us_amount": "6 large slices",
+            "metric_amount": "6 large slices"
+        },
+        {
+            "name": "scallions (sliced)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "medium tomatoes (cut into cubes)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "fresh basil leaves (torn into bite-size pieces)",
+            "us_amount": "2 packed cups",
+            "metric_amount": "2 packed cups"
+        },
+        {
+            "name": "medium cucumber (peeled and cut into cubes)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pitted black olives (halved)",
+            "us_amount": "10",
+            "metric_amount": "10"
+        },
+        {
+            "name": "light Italian salad dressing (divided)",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        },
+        {
+            "name": "cooked chicken (cut into cubes)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "pine nuts",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Soak the bread in a small bowl of water until just soft (no more than a few seconds). Squeeze out all of the water and break into small pieces.",
+        "Place the bread pieces in a large bowl with the scallions, tomatoes, basil, cucumber, and olives. Add 4 Tbsp of the salad dressing and mix well. Divide among 4 dinner plates.",
+        "Add the chicken pieces to each plated salad. Sprinkle with pine nuts. Drizzle the remaining 2 Tbsp of dressing over the salads."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Italian",
+        "Salads",
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "520",
+        "total_fat": "18g",
+        "saturated_fat": "3.1g",
+        "trans_fat": "0g",
+        "cholesterol": "140mg",
+        "sodium": "410mg",
+        "total_carbohydrate": "46g",
+        "fiber": "7g",
+        "sugar": "24g",
+        "added_sugar": "0g",
+        "protein": "43g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/panzanella-salad"
+}

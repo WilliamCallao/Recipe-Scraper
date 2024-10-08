@@ -1,0 +1,126 @@
+{
+    "title": "Dairy-Free Loaded Nachos",
+    "keywords": "Vegetarian,Vegan,Dinner,Holidays & Entertaining",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Dinner",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recipe%20Size_6.png",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "roma (plum) tomatoes (finely diced)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "white onion (finely diced)",
+            "us_amount": "1/4 med",
+            "metric_amount": "1/4 med"
+        },
+        {
+            "name": "garlic (finely diced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "jalapeño pepper (roasted and finely diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ripe lemon (juiced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "canned chickpeas (drained and rinsed)",
+            "us_amount": "14 oz",
+            "metric_amount": "396 ml"
+        },
+        {
+            "name": "canned black beans (drained and rinsed)",
+            "us_amount": "14 oz",
+            "metric_amount": "396 ml"
+        },
+        {
+            "name": "frozen corn",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "fresh cilantro (finely chopped)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper (or more to flavor)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "smoked paprika",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "dairy-free shredded mozzarella cheese",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "dairy-free shredded cheddar cheese",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "tortilla chips",
+            "us_amount": "30",
+            "metric_amount": "30"
+        }
+    ],
+    "instructions": [
+        "Turn oven to broil, 500 degrees F.",
+        "Mix all the vegetables in a bowl, season with salt, pepper, and cumin.",
+        "Set a sheet of parchment paper on top of an oven safe tray add all the tortilla chips",
+        "Remove excess liquid from the vegetable mixture and place them on top of the tortilla chips.",
+        "Top everything with both Daiya “cheeses” and broil for 5 minutes. Ensure sure it doesn’t burn.",
+        "Remove from oven – let cool for 5-10 minutes – share and enjoy with family and friends!"
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Mexican/Southwestern",
+        "Vegetarian",
+        "Vegan",
+        "Dinner",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "8g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "460mg",
+        "total_carbohydrate": "41g",
+        "fiber": "8g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/dairy-free-loaded-nachos"
+}

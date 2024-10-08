@@ -1,0 +1,70 @@
+{
+    "title": "Easy Perfectly Cooked Lentils",
+    "keywords": "Vegetarian,Vegan,Sides,Gluten-Free,Dinner,Lunch,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Gluten-Free",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-09/23perfect_cookedlentils.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "lentils (green or brown)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "low sodium vegetable broth",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "bay leaves (optional)",
+            "us_amount": "1 leaves",
+            "metric_amount": "1 leaves"
+        }
+    ],
+    "instructions": [
+        "Rinse the lentils under cold water in a fine-mesh sieve or colander.",
+        "In a medium saucepan, combine the rinsed lentils, vegetable broth, and bay leaf (if using).",
+        "Bring the mixture to a boil over high heat.",
+        "Reduce the heat to low, cover the saucepan with a lid, and let the lentils simmer for 20–25 minutes or until they are tender but still hold their shape.",
+        "Once cooked, remove the saucepan from the heat and discard the bay leaf.",
+        "Drain any excess liquid if necessary."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "High in Fiber",
+        "Mediterranean",
+        "Indian",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Gluten-Free",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "100mg",
+        "total_carbohydrate": "36g",
+        "fiber": "10g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/easy-perfectly-cooked-lentils"
+}

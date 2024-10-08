@@ -1,0 +1,112 @@
+{
+    "title": "Chicken Fried Rice with Cabbage, Zucchini, and Carrots",
+    "keywords": "Cooking for 1 or 2,Dinner,Main Dish,Meal Kit Recipes",
+    "prep_time": "PT15M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Main Dish",
+        "Meal Kit Recipes"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/1935-diabetic-chicken-fried-rice-cabbage-zucchini-carrots_blue-apron_031220.jpg",
+        "Zucchini",
+        "and Carrots\" loading=\"lazy\" />"
+    ],
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "brown rice",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "zucchini",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "carrots",
+            "us_amount": "6 oz (about 3 whole carrots)",
+            "metric_amount": "6 oz (about 3 whole carrots)"
+        },
+        {
+            "name": "red cabbage",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "scallions",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "peanuts",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "mirin",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "rice vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sichuan sauce",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "chicken tenders",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "olive oil (divided use)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "toasted sesame oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sesame seeds",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Cook the rice: Fill a medium pot 3/4 of the way up with water. Heat to boiling on high. Once boiling, add the rice and cook, uncovered, 16 to 18 minutes, or until tender. Turn off the heat. Drain thoroughly and return to the pot.",
+        "Prepare the ingredients & make the sauce: Meanwhile, wash and dry the fresh produce. Medium dice the zucchini. Peel the carrots and thinly slice on an angle. Cut out and discard the core of the cabbage; thinly slice the leaves. Thinly slice the scallions on an angle, separating the white bottoms and hollow green tops. Roughly chop the peanuts. In a bowl, combine the mirin, vinegar, and cumin-Sichuan sauce.",
+        "Cook & chop the chicken: Pat the chicken dry with paper towels; season with salt (optional) and pepper on both sides. In a large pan (nonstick, if you have one), heat 1 teaspoon of olive oil on medium-high until hot. Add the seasoned chicken and cook 3 to 5 minutes per side, or until browned and cooked through. Leaving any browned bits (or fond) in the pan, transfer to a cutting board. When cool enough to handle, cut into bite-sized pieces. Transfer to a large bowl and cover with foil to keep warm.",
+        "Cook the vegetables: In the pan of reserved fond, heat 1 teaspoon of olive oil on medium-high until hot. Add the diced zucchini and sliced carrots in an even layer. Cook, without stirring, 3 to 4 minutes, or until browned. Add the sliced cabbage and sliced white bottoms of the scallions. Cook, stirring occasionally, 3 to 4 minutes, or until browned and softened. Transfer to the bowl of chopped chicken and cover with the foil to keep warm. Wipe out the pan.",
+        "Make the fried rice & serve your dish: In the same pan, heat the sesame oil on medium-high until hot. Add the cooked rice in an even layer. Cook, without stirring, 3 to 4 minutes, or until slightly crispy. Transfer to the bowl of chopped chicken and vegetables; add the sauce and stir to thoroughly combine. Serve the fried rice garnished with the sliced green tops of the scallions, chopped peanuts, and sesame seeds. Enjoy!"
+    ],
+    "tags": [
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Main Dish",
+        "Meal Kit Recipes"
+    ],
+    "nutrition": {
+        "calories": "580",
+        "total_fat": "19g",
+        "saturated_fat": "3g",
+        "trans_fat": "0g",
+        "cholesterol": "200mg",
+        "sodium": "590mg",
+        "total_carbohydrate": "67g",
+        "fiber": "8g",
+        "sugar": "14g",
+        "added_sugar": "4g",
+        "protein": "35g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-fried-rice-cabbage-zucchini-and-carrots"
+}

@@ -1,0 +1,107 @@
+{
+    "title": "Pesto Chicken with Vegetables and Spaghetti",
+    "keywords": "Budget Friendly,Dinner,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Chicken%20Pesto%20Spaghetti.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "thinly sliced chicken breast filets",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic cloves (minced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "red onion (diced)",
+            "us_amount": "1/2 med",
+            "metric_amount": "1/2 med"
+        },
+        {
+            "name": "cherry tomatoes (halved)",
+            "us_amount": "1 pints",
+            "metric_amount": "480 ml"
+        },
+        {
+            "name": "red bell pepper (diced)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "cremini (baby bella) mushrooms (thinly sliced)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "half-and-half",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "jarred pesto sauce (lower sodium)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "whole grain spaghetti noodles (cooked)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "Parmesan cheese (shaved, for garnish)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Season chicken with salt and pepper.",
+        "Heat a large skillet over medium heat and add the olive oil. Add chicken and cook until golden brown on both sides and cooked through. Transfer to a plate and cover with foil.",
+        "Return the skillet to medium heat and add garlic, onion, tomatoes, peppers, and mushrooms. Cook, stirring occasionally, until the vegetables soften, 6–7 minutes.",
+        "Stir in half and half and pesto. Add chicken back to the skillet, turning to coat in sauce.",
+        "Divide spaghetti between plates, top with chicken and vegetables. Garnish with parmesan."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Budget Friendly",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "510",
+        "total_fat": "18g",
+        "saturated_fat": "4.4g",
+        "trans_fat": "0g",
+        "cholesterol": "75mg",
+        "sodium": "430mg",
+        "total_carbohydrate": "54g",
+        "fiber": "8g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "37g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pesto-chicken-vegetables-and-spaghetti"
+}

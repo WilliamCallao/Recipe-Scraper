@@ -1,0 +1,105 @@
+{
+    "title": "Cashew Chicken with Bell Peppers",
+    "keywords": "Dinner,Main Dish,Quick & Easy,Gluten-Free,One Pot",
+    "prep_time": "PT5M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Main Dish",
+        "Quick & Easy",
+        "Gluten-Free",
+        "One Pot"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2071-diabetic-low-carb-cashew-chicken-bell-pepper_low-carb-brissette_050721.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "avocado oil (divided)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "boneless skinless chicken thighs (cut into bite-sized peices)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "medium onion (diced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "bell peppers (any mix of colors) (cut into 1-inch chunks)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "minced garlic",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "minced fresh ginger",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "rice vinegar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "reduced sodium tamari",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "chili paste",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "unsalted cashews (roasted)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sesame oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sesame seeds",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "In a large skillet or wok over medium-high heat, heat half of the oil. Add the chicken and sauté for 6 minutes or until cooked through. Remove from the pan and set aside.",
+        "Add the other half of the oil to the pan. Add the onion to the pan and sauté for 2 minutes. Add the bell peppers, garlic and ginger, rice vinegar, tamari and chili paste. Sauté for 3 minutes or until the peppers are tender.",
+        "Add the cooked chicken and cashews to the pan and stir to warm, about 2 minutes.",
+        "Remove from heat and stir in the sesame oil. Garnish with sesame seeds."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Dinner",
+        "Main Dish",
+        "Quick & Easy",
+        "Gluten-Free",
+        "One Pot"
+    ],
+    "nutrition": {
+        "calories": "300",
+        "total_fat": "17g",
+        "saturated_fat": "3.5g",
+        "trans_fat": "0g",
+        "cholesterol": "105mg",
+        "sodium": "470mg",
+        "total_carbohydrate": "15g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cashew-chicken-bell-peppers"
+}

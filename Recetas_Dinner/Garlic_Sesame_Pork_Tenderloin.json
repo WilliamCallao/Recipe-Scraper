@@ -1,0 +1,72 @@
+{
+    "title": "Garlic Sesame Pork Tenderloin",
+    "keywords": "Dinner,Main Dish,Easy Pantry Recipes,Gluten-Free,Quick & Easy",
+    "prep_time": "PT25M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Dinner",
+        "Main Dish",
+        "Easy Pantry Recipes",
+        "Gluten-Free",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2075-diabetic-low-carb-garlic-sesame-pork-tenderloin_low-carb-brissette_050721.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pork tenderloin",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "sesame oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "tamari (reduced sodium)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "garlic (crushed)",
+            "us_amount": "4 cloves",
+            "metric_amount": "4 cloves"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Remove any silver skin from the pork with a sharp knife. Slice the pork into ½” thick medallions.",
+        "In a medium bowl, mix the remaining ingredients. Add the pork and toss with the marinade. Cover and put in the fridge for 20 minutes to marinate.",
+        "Preheat your oven to 450 degrees F.",
+        "Heat a large ovenproof skillet over medium-high heat. Spray with cooking spray. Add the pork and sear for 1 minute per side or until golden brown.",
+        "Put the skillet in your preheated oven and cook for 5 minutes. Flip the pork and cook for 5 minutes or until a thermometer inserted into the thickest part reads 145 degrees F.",
+        "Let the pork rest for 5 minutes, then serve."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Dinner",
+        "Main Dish",
+        "Easy Pantry Recipes",
+        "Gluten-Free",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "6g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "290mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "23g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/garlic-sesame-pork-tenderloin"
+}

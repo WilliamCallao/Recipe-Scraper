@@ -1,0 +1,106 @@
+{
+    "title": "Sweet Potato and Black Bean Soup",
+    "keywords": "Dinner,Lunch,Main Dish,One Pot,Soup,Vegan,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "One Pot",
+        "Soup",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recipe%20Size%20%285%29.png",
+    "servings": "3 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "yellow onion (minced)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "fresh ginger (minced)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "black beans (drained and rinsed)",
+            "us_amount": "15 oz can",
+            "metric_amount": "15 oz can"
+        },
+        {
+            "name": "sweet potatoes (peeled and medium diced)",
+            "us_amount": "2 large",
+            "metric_amount": "2 large"
+        },
+        {
+            "name": "low sodium chicken broth",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "lite coconut milk",
+            "us_amount": "13.5 oz can",
+            "metric_amount": "13.5 oz can"
+        },
+        {
+            "name": "canned diced tomatoes",
+            "us_amount": "14 oz",
+            "metric_amount": "396 ml"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "fresh baby spinach",
+            "us_amount": "5 oz",
+            "metric_amount": "142 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat a large pot over medium heat.",
+        "Add 1 tablespoon of olive oil and onion, garlic, and ginger to the pot. Cook, stirring occasionally, until onion softens, 4–5 minutes.",
+        "Add black beans, sweet potatoes, broth, coconut milk, tomatoes, and chili powder. Bring to a simmer and cook, covered, for 15–20 minutes, until the potatoes are tender.",
+        "Stir in the baby spinach until wilted."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Comfort Food",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "One Pot",
+        "Soup",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "310",
+        "total_fat": "8g",
+        "saturated_fat": "3.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "450mg",
+        "total_carbohydrate": "46g",
+        "fiber": "11g",
+        "sugar": "12g",
+        "added_sugar": "4g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-potato-and-black-bean-soup"
+}

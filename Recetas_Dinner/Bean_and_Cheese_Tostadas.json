@@ -1,0 +1,126 @@
+{
+    "title": "Bean and Cheese Tostadas",
+    "keywords": "Vegetarian,Quick & Easy,Main Dish,Lunch,Gluten-Free,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Vegetarian",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2006-diabetic-Bean-Cheese-Tostadas_KDBH-bookazine_012821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "no-salt-added pinto beans (rinsed and drained)",
+            "us_amount": "1 (14.5-oz) can",
+            "metric_amount": "1 (14.5-oz) can"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "hot sauce",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "6-inch corn tortillas",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "reduced-fat shredded cheddar or Mexican-style cheese",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "shredded romaine lettuce",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "grape or cherry tomatoes (halved)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "finely chopped red onion",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "chopped fresh cilantro",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "lime juice",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350°F.",
+        "In a food processor or blender, process the beans, water, chili powder, cumin, garlic, and hot-pepper sauce until smooth.",
+        "Put the tortillas on a baking sheet. Spread the bean mixture on the tortillas. Sprinkle with the cheddar.",
+        "Bake for 10 minutes, or until the cheddar has melted and the bean mixture is hot.",
+        "Meanwhile, in a medium bowl, gently toss together the lettuce, tomatoes, red onion, cilantro, lime juice, oil, and salt.",
+        "Top the tortillas with the lettuce mixture. Serve immediately."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Latin American",
+        "Vegetarian",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "4.5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "260mg",
+        "total_carbohydrate": "31g",
+        "fiber": "12g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/bean-and-cheese-tostadas"
+}

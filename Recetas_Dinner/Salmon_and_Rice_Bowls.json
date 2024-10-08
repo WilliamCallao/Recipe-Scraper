@@ -1,0 +1,101 @@
+{
+    "title": "Salmon and Rice Bowls",
+    "keywords": "Dinner,Lunch,Main Dish",
+    "prep_time": "PT25M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/14main_SalmonandRiceBowls.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "salmon filets (4 filets, 4 ounces each)",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "lower sodium soy sauce",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "honey",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "sesame oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "crystallized ginger (minced)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "cooked brown rice",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "broccoli (steamed)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "carrots (shredded)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "avocado (sliced)",
+            "us_amount": "1/4 med",
+            "metric_amount": "1/4 med"
+        },
+        {
+            "name": "green onion (scallion) (chopped, for serving)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        }
+    ],
+    "instructions": [
+        "In a small bowl, whisk together soy sauce, honey, sesame oil, minced ginger, and minced garlic to create the sauce.",
+        "Brush salmon with some of the sauce.",
+        "Heat a large skillet over medium high heat and sear the salmon till cooked through, about 4 minutes per side.",
+        "Brush the top of the salmon with more marinade.",
+        "Build the bowls with brown rice, steamed broccoli, salmon, and avocado.  Drizzle with sauce. Finish with green onions."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "High in Fiber",
+        "Mediterranean",
+        "Asian",
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "364",
+        "total_fat": "13.6g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "62mg",
+        "sodium": "348mg",
+        "total_carbohydrate": "33g",
+        "fiber": "5g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/salmon-and-rice-bowls"
+}

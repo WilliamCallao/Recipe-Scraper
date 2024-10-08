@@ -1,0 +1,119 @@
+{
+    "title": "Chicken Milanese with Pizzeria Salad",
+    "keywords": "Dinner,Main Dish,Meal Kit Recipes,Foodie",
+    "prep_time": "PT20M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Main Dish",
+        "Meal Kit Recipes",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1979-diabetic-Chicken-Milanese_Blue-Apron_092320.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "romaine lettuce",
+            "us_amount": "2 hearts",
+            "metric_amount": "2 hearts"
+        },
+        {
+            "name": "grape tomatoes",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "roasted red peppers",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "castelvetrano olives",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "persian cucumber",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Grana Padano cheese",
+            "us_amount": "3/4 oz",
+            "metric_amount": "21 ml"
+        },
+        {
+            "name": "boneless, skinless chicken breasts",
+            "us_amount": "4 (6-oz) breasts",
+            "metric_amount": "4 (6-oz) breasts"
+        },
+        {
+            "name": "flour",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "panko bread crumbs",
+            "us_amount": "1 1/4 cup",
+            "metric_amount": "296 ml"
+        },
+        {
+            "name": "egg",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "water",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "olive oil (divided use)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "mayonnaise",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sherry vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "dried oregano",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Prepare the ingredients: Wash and dry the fresh produce. Roughly chop the lettuce. Halve the tomatoes. Pit and roughly chop the olives. Roughly chop the peppers. Halve the cucumbers lengthwise, then thinly slice crosswise. In a large bowl, combine the chopped lettuce, halved tomatoes, chopped olives, chopped peppers, and sliced cucumbers. Grate the cheese on the small side of a box grater.",
+        "Pound & bread the chicken:  Pat the chicken dry with paper towels. Place between two sheets of plastic wrap on a sturdy work surface. Using the bottom of a heavy pan (or a meat mallet), pound the chicken to a ¼-inch thickness. Remove the plastic wrap. Season with salt (optional) and pepper on both sides. Place the flour and breadcrumbs on two separate large plates; season each with salt (optional) and pepper. Crack the egg into a large bowl; add 2 tablespoons of water and beat until smooth. Working one piece at a time, thoroughly coat the seasoned chicken in the seasoned flour (tapping off any excess), then in the beaten egg (letting the excess drip off), then in the seasoned breadcrumbs (pressing to adhere). Transfer to a separate plate.",
+        "Cook the chicken: In a large pan (nonstick, if you have one), heat 2 tablespoons of olive oil on medium until hot. Working in batches if necessary, add the breaded chicken in an even layer. Cook 4 to 6 minutes per side, or until golden brown and cooked through.* Transfer to a separate, paper towel-lined plate; immediately season with salt.  *An instant-read thermometer should register 165°F.",
+        "Make the dressing: Meanwhile, in a bowl, whisk together the mayonnaise, vinegar, oregano, and 1 tablespoon of olive oil. Season with salt (optional) and pepper.",
+        "Make the salad & serve your dish: Just before serving, add the dressing to the bowl of prepared vegetables; toss to coat. Serve the cooked chicken topped with the salad. Garnish with the grated cheese. Enjoy!"
+    ],
+    "tags": [
+        "Italian",
+        "Dinner",
+        "Main Dish",
+        "Meal Kit Recipes",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "580",
+        "total_fat": "30g",
+        "saturated_fat": "5g",
+        "trans_fat": "0g",
+        "cholesterol": "200mg",
+        "sodium": "480mg",
+        "total_carbohydrate": "32g",
+        "fiber": "6g",
+        "sugar": "5g",
+        "added_sugar": "1g",
+        "protein": "47g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-milanese-pizzeria-salad"
+}

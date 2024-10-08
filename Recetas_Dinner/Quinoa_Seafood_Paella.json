@@ -1,0 +1,118 @@
+{
+    "title": "Quinoa Seafood Paella",
+    "keywords": "Main Dish,Holidays & Entertaining,Foodie,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "PT33M",
+    "categories": [
+        "Main Dish",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1753-espanol-diabetic-paella-quinua-mariscos_latin-comfort-foods_013019_2959761669.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "extra virgin olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "onion(s) (finely chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "red bell pepper (thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "green bell pepper (thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "tomato paste",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Spanish saffron threads",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "uncooked quinoa (rinsed)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "low sodium chicken broth",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "canned diced tomatoes",
+            "us_amount": "1 (10-oz)",
+            "metric_amount": "1 (10-oz)"
+        },
+        {
+            "name": "coarse salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "wild, never frozen, large shrimp, peeled and deveined (about 30 shrimp)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "calamari rings",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "flat leaf parsley (chopped)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "lemon (cut into 8 wedges)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Heat the oil in a large nonstick skillet or paella pan over medium-high heat. Add the onion, bell peppers, and garlic, and cook, stirring occasionally, until the vegetables are tender, about 8 minutes.",
+        "Add the tomato paste and saffron to the skillet, stirring until well mixed. Add the quinoa, broth, tomatoes, and salt; bring to a boil. Reduce the heat to medium low. Cover and simmer until the liquid is absorbed and the quinoa is tender, about 20 minutes.",
+        "Tuck the shrimp and calamari into the quinoa mixture. Cover and cook until the shrimp and calamari are cooked through, about 5 minutes. Remove from the heat; sprinkle with parsley and garnish with lemon wedges."
+    ],
+    "tags": [
+        "Mediterranean",
+        "Latin American",
+        "Main Dish",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "4g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "195mg",
+        "sodium": "260mg",
+        "total_carbohydrate": "23g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/quinoa-seafood-paella"
+}

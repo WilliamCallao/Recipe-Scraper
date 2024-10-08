@@ -1,0 +1,121 @@
+{
+    "title": "Brussels Sprout Salad with Avocado, Artichokes & Creamy Honey-Mustard Dressing",
+    "keywords": "Budget Friendly,Dinner,Lunch,Quick & Easy,Salad Dressings & Condiments,Salads,Sides,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Salad Dressings & Condiments",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/brussels-sprout-salad-avocado-artichoke-creamy-honey-mustard-dressing.jpg",
+        "Artichokes & Creamy Honey-Mustard Dressing\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "garlic (cloves)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "mayonnaise (olive oil)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "white vinegar",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        },
+        {
+            "name": "honey",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "dried basil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "fresh Brussels sprouts",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "artichoke hearts (1 jar, in brine; quartered, drained, and rinsed)",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "avocado",
+            "us_amount": "1/2 large",
+            "metric_amount": "1/2 large"
+        },
+        {
+            "name": "romaine lettuce",
+            "us_amount": "1 head",
+            "metric_amount": "1 head"
+        },
+        {
+            "name": "whole flax seeds (roasted)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "In a large bowl, whisk together the garlic, mayonnaise, vinegar, honey, Dijon, basil, salt, and pepper.",
+        "Trim and slice the Brussels sprouts into thin strips; add to the bowl with the dressing.",
+        "Roughly chop the artichokes and add to the bowl.",
+        "Medium dice the avocado and add to the bowl.",
+        "Chop or tear the lettuce into bite-size pieces and add to the bowl; toss to combine the salad.",
+        "Serve with a sprinkle of roasted flax seed."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Salad Dressings & Condiments",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "7mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "16g",
+        "fiber": "7g",
+        "sugar": "4g",
+        "added_sugar": "1g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/brussels-sprout-salad-avocado-artichokes-creamy-honey-mustard-dressing"
+}

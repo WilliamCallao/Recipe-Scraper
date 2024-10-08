@@ -1,0 +1,115 @@
+{
+    "title": "Asian Chicken and Vegetable Stew",
+    "keywords": "Dinner,Lunch,One Pot,Quick & Easy,Soup",
+    "prep_time": "PT10M",
+    "cook_time": "PT18M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "One Pot",
+        "Quick & Easy",
+        "Soup"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1996-diabetic-Asian-Chicken-Vegetable-Stew_KDBH-bookazine_012821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "toasted sesame oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "boneless, skinless chicken breasts (cut into 3/4-inch pieces)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "low sodium chicken broth",
+            "us_amount": "1 3/4 cup",
+            "metric_amount": "414 ml"
+        },
+        {
+            "name": "canned bamboo shoots (rinsed and drained)",
+            "us_amount": "1 (8-oz) can",
+            "metric_amount": "1 (8-oz) can"
+        },
+        {
+            "name": "snow peas (trimmed)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "water (divided use)",
+            "us_amount": "1/3 cup plus 1 tbsp",
+            "metric_amount": "1/3 cup plus 1 tbsp"
+        },
+        {
+            "name": "green onions (sliced)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "rice vinegar",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "lower sodium soy sauce",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "chopped fresh ginger",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "light brown sugar",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Cornstarch",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "In a large saucepan, heat the oil over mediumhigh heat, swirling to coat the bottom. Cook the chicken for 6–8 minutes, or until no longer pink in the center, stirring frequently.",
+        "Stir in the broth, bamboo shoots, snow peas, 1/3 cup water, the green onions, vinegar, soy sauce, gingerroot, brown sugar, red pepper flakes, and pepper. Increase the heat to high and bring to a boil, stirring occasionally. Reduce the heat and simmer for 6–8 minutes, stirring occasionally.",
+        "Put the cornstarch in a small bowl. Add the remaining 1 Tbsp water, stirring to dissolve. Stir into the soup. Increase the heat to medium high and bring to a boil. Boil for 1–2 minutes, or until thickened, stirring occasionally."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Asian",
+        "Dinner",
+        "Lunch",
+        "One Pot",
+        "Quick & Easy",
+        "Soup"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "395mg",
+        "total_carbohydrate": "11g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "1g",
+        "protein": "29g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/asian-chicken-and-vegetable-stew"
+}

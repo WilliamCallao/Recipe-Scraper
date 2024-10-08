@@ -1,0 +1,114 @@
+{
+    "title": "Lentil Sloppy Joes",
+    "keywords": "Dinner,Lunch,Main Dish,Sandwiches,Vegan",
+    "prep_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Sandwiches",
+        "Vegan"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/lentil-sloppy-joes.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "white onion (sliced into 12 thin onion slices)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lettuce",
+            "us_amount": "6 leaves",
+            "metric_amount": "6 leaves"
+        },
+        {
+            "name": "whole wheat hamburger buns (1 1/2 oz each)",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "smoked paprika",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Worcestershire sauce",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "brown sugar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "tomato sauce (1/4 cup)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "lentils (green, rinsed)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "low sodium vegetable broth",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "yellow onion (diced)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Place a saucepan over medium heat. Add the oil, onion, and garlic. Cook, stirring occasionally, until onion begins to soften, 3–4 minutes.",
+        "Add the broth and lentils. Bring to a boil, then reduce heat to a simmer and cover for about 20 minutes, until lentils are tender.",
+        "Stir in the tomato sauce, brown sugar, Worcestershire sauce, and spices.",
+        "To serve, divide lentils between buns. Top with lettuce and onion rings."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Sandwiches",
+        "Vegan"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "5g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "450mg",
+        "total_carbohydrate": "48g",
+        "fiber": "12g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/lentil-sloppy-joes"
+}

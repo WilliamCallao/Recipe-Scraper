@@ -1,0 +1,109 @@
+{
+    "title": "Sorghum Split Pea Soup",
+    "keywords": "Budget Friendly,Dinner,Main Dish,One Pot,Soup",
+    "prep_time": "PT20M",
+    "cook_time": "PT60M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish",
+        "One Pot",
+        "Soup"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/sorghum-split-pea-soup.png",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "onion(s) (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "carrots (sliced)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "celery (sliced)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "no-salt-added chicken stock",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        },
+        {
+            "name": "peas (green, split)",
+            "us_amount": "1 1/4 cup",
+            "metric_amount": "296 ml"
+        },
+        {
+            "name": "ham bone",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "ham slices (chopped)",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "sorghum (pearled)",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "fresh thyme",
+            "us_amount": "4 sprig",
+            "metric_amount": "4 sprig"
+        },
+        {
+            "name": "bay leaves",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Worcestershire sauce",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        }
+    ],
+    "instructions": [
+        "In a 4-quart stock pot or large pot heat oil over medium heat. Add onion, carrots, celery and garlic; season with salt and pepper and cook, stirring occasionally 10 to 12 minutes or until onion is tender. Add chicken stock, split peas, ham bone, ham, sorghum, thyme sprigs and bay leaves. Bring to a boil, reduce heat and simmer, covered for 45-60 minutes or until split peas are soft and sorghum is tender.",
+        "Remove ham bone, thyme sprigs and bay leaves from soup. Remove ham from bone, chop ham and return to pot. Discard bone, thyme sprigs and bay leaves. Add Worcestershire sauce and season with pepper.",
+        "Garnish with chopped fresh thyme and cracked black pepper, if desired."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish",
+        "One Pot",
+        "Soup"
+    ],
+    "nutrition": {
+        "calories": "320",
+        "total_fat": "6g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "15mg",
+        "sodium": "550mg",
+        "total_carbohydrate": "46g",
+        "fiber": "12g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sorghum-split-pea-soup"
+}

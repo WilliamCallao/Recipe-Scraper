@@ -1,0 +1,111 @@
+{
+    "title": "Za’atar Chicken & Farro with Roasted Grapes, Onion & Brussels Sprouts",
+    "keywords": "Meal Kit Recipes,Main Dish,Foodie,Dinner,Cooking for 1 or 2",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Meal Kit Recipes",
+        "Main Dish",
+        "Foodie",
+        "Dinner",
+        "Cooking for 1 or 2"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/1887-diabetic-zaatar-Chicken_BA_020120.jpg",
+        "Onion & Brussels Sprouts \" loading=\"lazy\" />"
+    ],
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "fresh Brussels sprouts",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "red onion",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "red seedless grapes",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "garlic",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "semi-pearled farro",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "olive oil ((divided))",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "boneless, skinless chicken breasts",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "za'atar seasoning",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt and pepper to taste",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        }
+    ],
+    "instructions": [
+        "Prepare the ingredients: Place an oven rack in the center of the oven, then preheat to 450°F. Fill a medium pot 3/4 of the way up with water; cover and heat to boiling on high. Wash and dry the fresh produce. Cut off and discard the stem ends of the Brussels sprouts; halve lengthwise. Halve and peel the onion; cut into 1-inch-wide wedges, separating the layers. Halve the grapes. Peel and roughly chop 2 cloves of garlic.",
+        "Cook the farro: Add the farro to the pot of boiling water and cook, uncovered, 18 to 20 minutes, or until tender. Turn off the heat. Drain thoroughly and return to the pot. Cover to keep warm.",
+        "Roast the vegetables & grapes: Meanwhile, place the prepared brussels sprouts, onion, and grapes on a sheet pan. Drizzle with 1/2 teaspoon of olive oil and season with salt (optional) and pepper; toss to coat. Arrange in an even layer. Roast 15 to 17 minutes, or until browned and tender when pierced with a fork. Remove from the oven.",
+        "Cook the chicken: Meanwhile, pat the chicken dry with paper towels; season on both sides with salt (optional), pepper, and enough of the za’atar to coat (you may have extra). In a medium pan (nonstick, if you have one), heat 1/2 teaspoon of olive oil on medium-high until hot. Add the seasoned chicken. Cook 6 to 7 minutes per side, or until browned and cooked through (an instant-read thermometer should register 165°F). Leaving any browned bits (or fond) in the pan, transfer to a cutting board.",
+        "Make the pan sauce: In the pan of reserved fond, heat 1/2 teaspoon of olive oil on medium high until hot. Add the chopped garlic. Cook, stirring frequently, 30 seconds to 1 minute, or until slightly softened. Add the vinegar (carefully, as the liquid may splatter), 1/4 cup of water, and as much of the red pepper flakes as you’d like, depending on how spicy you’d like the dish to be. Season with salt (optional) and pepper. Cook, stirring occasionally, 1 to 2 minutes, or until the sauce is slightly thickened. Turn off the heat.",
+        "Finish & serve your dish: To the pot of cooked farro, add the roasted vegetables and grapes and pan sauce. Stir to combine. Slice the cooked chicken crosswise. Serve the sliced chicken over the finished farro. Enjoy!"
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mediterranean",
+        "Meal Kit Recipes",
+        "Main Dish",
+        "Foodie",
+        "Dinner",
+        "Cooking for 1 or 2"
+    ],
+    "nutrition": {
+        "calories": "470",
+        "total_fat": "8g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "125mg",
+        "sodium": "550mg",
+        "total_carbohydrate": "52g",
+        "fiber": "7g",
+        "sugar": "15g",
+        "added_sugar": "0g",
+        "protein": "48g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/zaatar-chicken-farro-roasted-grapes-onion-brussels-sprouts"
+}

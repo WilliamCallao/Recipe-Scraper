@@ -1,0 +1,107 @@
+{
+    "title": "Black-Eyed Pea Salad",
+    "keywords": "Dinner,Lunch,No Cook,Quick & Easy,Sides,Vegan,Vegetarian",
+    "prep_time": "PT8H",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "No Cook",
+        "Quick & Easy",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2059_diabetic-Black-Eye-Pea-Salad_Splenda_042721.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Splenda® Granulated Sweetener",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "vegetable oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Apple Cider Vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "hot sauce",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black-eyed peas (drained and rinsed)",
+            "us_amount": "1 1/2 (15-oz) cans",
+            "metric_amount": "1 1/2 (15-oz) cans"
+        },
+        {
+            "name": "bell peppers (diced)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "celery (diced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "red onion (diced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "onion(s) (diced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "In a serving bowl, whisk together Splenda Sweetener, salt, pepper, garlic, vegetable oil, vinegar, and hot sauce.",
+        "Add black-eyed peas, bell pepper, celery, and onion; toss gently to coat with dressing. Cover and refrigerate overnight for best flavor."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Dinner",
+        "Lunch",
+        "No Cook",
+        "Quick & Easy",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "7g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "10g",
+        "fiber": "3g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/black-eyed-pea-salad"
+}

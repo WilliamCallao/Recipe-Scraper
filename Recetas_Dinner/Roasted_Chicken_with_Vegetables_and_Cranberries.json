@@ -1,0 +1,102 @@
+{
+    "title": "Roasted Chicken with Vegetables and Cranberries",
+    "keywords": "One Pot,Main Dish,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "One Pot",
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Cranberry%20Chicken%20Diabetic%20Recipe.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "boneless, skinless chicken breasts (sliced thinly into fillets)",
+            "us_amount": "2 large",
+            "metric_amount": "2 large"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "olive oil (divided)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "yellow onion (small diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "fresh rosemary (chopped)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "carrots (chopped)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "maple syrup",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "white wine",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fresh cranberries",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "flat leaf parsley (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400 degrees F.",
+        "Season chicken breasts with salt.",
+        "Heat a large Dutch oven or large ovenproof skillet over medium-high heat. Add ½ Tbsp of olive oil, then add the chicken. Sear until golden brown on both sides (but not cooked through). Remove chicken to a plate.",
+        "Return the skillet to medium heat and add other ½ Tbsp of oil. Add onion, garlic, rosemary, and carrots and cook until onion is translucent, about 4–5 minutes.",
+        "Add syrup and white wine and cook until reduced by half, about 3–4 minutes. Stir in the cranberries.",
+        "Add the chicken back to the skillet and nestle it between the vegetables and cranberries.",
+        "Cover with a lid and bake for 10–15 minutes until the chicken is cooked through and the vegetables are tender.",
+        "Serve with a sprinkle of parsley."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Comfort Food",
+        "One Pot",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "6g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "16g",
+        "fiber": "3g",
+        "sugar": "9g",
+        "added_sugar": "5g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-chicken-vegetables-and-cranberries"
+}

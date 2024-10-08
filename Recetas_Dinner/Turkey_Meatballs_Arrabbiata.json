@@ -1,0 +1,77 @@
+{
+    "title": "Turkey Meatballs Arrabbiata",
+    "keywords": "Quick & Easy,Main Dish,Lunch,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1855-diabetic-turkey-meatballs-arrabiata_clean-and-simple_DFJanFeb20_120219.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "arrabbiata or marinara sauce (divided use)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "jarred pesto sauce",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "large egg",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lean ground turkey",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "old-fashioned oats",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "grated Parmesan cheese",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 450° F. Line a 9-by-13-inch baking pan with parchment paper.",
+        "In a medium bowl, stir together 3 Tbsp of the arrabbiata sauce, the pesto, and egg until combined. Add the turkey, oats, and Parmesan cheese and mix by hand until combined.",
+        "Roll by hand into 12 loosely formed meatballs, about 3 Tbsp of mixture for each, and place on the baking pan. (Hint: Divide the meatball mixture into four equal-size portions, then make three meatballs from each portion.) Bake for 15 minutes—no need to flip the meatballs.",
+        "Using a clean spoon, top each meatball with the remaining sauce, about 2 tsp per meatball. Bake until the sauce is hot and the meatballs are well done (with an internal temperature of at least 165° F), about 5 minutes more. Serve."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Kid Friendly",
+        "Italian",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "14g",
+        "saturated_fat": "3.6g",
+        "trans_fat": "0.1g",
+        "cholesterol": "105mg",
+        "sodium": "360mg",
+        "total_carbohydrate": "12g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/turkey-meatballs-arrabbiata"
+}

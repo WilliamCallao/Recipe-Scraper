@@ -1,0 +1,64 @@
+{
+    "title": "Creamy Gravy",
+    "keywords": "Sauces,Dinner,Quick & Easy",
+    "prep_time": "Desconocido",
+    "cook_time": "PT5M",
+    "categories": [
+        "Sauces",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1812_diabetic-creamy-country-pepper-gravy_Air-Fryer-Ckbk_shutterstock638228848_062819.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "margarine stick",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "all-purpose flour",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "coarse-ground black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "skim milk",
+            "us_amount": "2/3 cup",
+            "metric_amount": "158 ml"
+        }
+    ],
+    "instructions": [
+        "Melt reduced-fat stick margarine in a small saucepan over medium-high heat.",
+        "Stir in all-purpose flour and cook for 1 minute, stirring constantly and blending until the mixture is smooth. Season with coarse ground black pepper.",
+        "Gradually blend in skim milk. Cook, stirring constantly, until mixture bubbles and thickens."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Comfort Food",
+        "Sauces",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "3g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "40mg",
+        "total_carbohydrate": "4g",
+        "fiber": "0g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/creamy-gravy"
+}

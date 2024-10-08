@@ -1,0 +1,102 @@
+{
+    "title": "Easy Broccoli and Shrimp Stir-Fry",
+    "keywords": "Dinner,Lunch,Quick & Easy,Main Dish,Budget Friendly",
+    "prep_time": "PT15M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1896-diabetic-easy-broccoli-and-shrimp-stir-fry_CYP_DFMarApr20_021020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "low sodium vegetable broth",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "rice vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lower sodium soy sauce",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "Cornstarch",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ground ginger",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sriracha",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "brown sugar substitute",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "olive oil (divided use)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "shrimp (medium size, peeled, deveined, and tails cut off)",
+            "us_amount": "1 1/4 lbs",
+            "metric_amount": "567 ml"
+        },
+        {
+            "name": "broccoli",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        }
+    ],
+    "instructions": [
+        "In a small bowl, whisk together the vegetable broth, rice vinegar, soy sauce, cornstarch, ginger, sriracha, and brown sugar blend.",
+        "Heat 2 Tbsp of the olive oil in a large skillet or wok. When the oil is shimmering, add the garlic and cook until fragrant (30 seconds).",
+        "Add the shrimp and cook until opaque, about 4 minutes. Using a slotted spoon, remove the shrimp and place on a plate.",
+        "Heat the remaining 1 Tbsp of olive oil in the same skillet. Add the broccoli florets and cook until tender, about 4 minutes.",
+        "Add the cooked shrimp back into the skillet and toss to combine with the broccoli. Pour the broth mixture over the shrimp and broccoli and toss to coat. Continue cooking until the broth mixture thickens slightly, about 1 minute."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "11g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "235mg",
+        "sodium": "400mg",
+        "total_carbohydrate": "10g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "34g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/easy-broccoli-and-shrimp-stir-fry"
+}

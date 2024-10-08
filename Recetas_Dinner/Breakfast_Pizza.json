@@ -1,0 +1,104 @@
+{
+    "title": "Breakfast Pizza",
+    "keywords": "Breakfast and Brunch,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Breakfast%20Pizza%20Diabetes.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "cauliflower pizza crust",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "turkey bacon, lower in sodium",
+            "us_amount": "3 slice",
+            "metric_amount": "3 slice"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "onion(s) (chopped)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "red bell pepper (chopped)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "collard greens (stemmed, chopped, and cleaned)",
+            "us_amount": "large bunch",
+            "metric_amount": "large bunch"
+        },
+        {
+            "name": "spinach (chopped)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "eggs (beaten)",
+            "us_amount": "2 large",
+            "metric_amount": "2 large"
+        },
+        {
+            "name": "egg whites (beaten)",
+            "us_amount": "3 large",
+            "metric_amount": "3 large"
+        },
+        {
+            "name": "green onion (scallion)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "cottage cheese (divided)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Cook turkey bacon according to package instructions. Let cool then tear or chop into pieces. Set aside.",
+        "Preheat oven to 425 degrees F.",
+        "Meanwhile, sauté onions, peppers, and collard greens in olive oil over medium high heat until softened, 10 minutes. Add chopped spinach. Stir to incorporate and cook until wilted.",
+        "In a bowl, beat eggs and egg whites. Into the same sauté pan with the onions and peppers, add eggs and mix into the vegetables. Cook until they are softly scrambled, meaning they are not fully cooked. They will finish cooking in the oven.",
+        "Remove from heat and add turkey bacon pieces and ½ cup cottage cheese. Mix well.",
+        "Remove the CAULIPOWER Plain Pizza Crust from the freezer and spread the cottage cheese on like you would a pizza sauce. Spread to the edges for best flavor.",
+        "Spread the egg mixture on top of the cottage cheese. Sprinkle scallions evenly over the pizza.",
+        "Bake directly on the oven rack for 15 minutes, or until the crust is crispy."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Comfort Food",
+        "Breakfast and Brunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "340",
+        "total_fat": "140g",
+        "saturated_fat": "3.3g",
+        "trans_fat": "0g",
+        "cholesterol": "120mg",
+        "sodium": "480mg",
+        "total_carbohydrate": "31g",
+        "fiber": "3g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/breakfast-pizza"
+}

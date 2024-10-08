@@ -1,0 +1,90 @@
+{
+    "title": "Seared Scallops with Pesto Sauce",
+    "keywords": "Main Dish,Gluten-Free,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "PT4M",
+    "categories": [
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1894-diabetic-seared-scallops-with-pesto-sauce_CYP_DFMarApr20_021020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "fresh basil leaves",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "olive oil (divided use)",
+            "us_amount": "5 tbsp",
+            "metric_amount": "74 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "red wine vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sea scallops",
+            "us_amount": "3/4 lb (about 16 scallops)",
+            "metric_amount": "3/4 lb (about 16 scallops)"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "unsalted butter",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Make the pesto: Add the basil, 3 Tbsp of the olive oil, and the garlic to a blender; pulse until a rough paste forms. Add the yogurt, vinegar, and salt and purée until smooth.",
+        "Dry the scallops with a paper towel and sprinkle with the pepper.",
+        "Heat the remaining 2 Tbsp of olive oil and the butter in a large saucepan over medium-high heat. Add the scallops and cook until browned, 1½ to 2 minutes per side. Using tongs, remove the scallops and place them on a plate to cool.",
+        "Spoon 2 Tbsp of the pesto sauce onto each of 4 plates and top with the warm scallops."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Seafood",
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "20g",
+        "saturated_fat": "4.3g",
+        "trans_fat": "0.1g",
+        "cholesterol": "30mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/seared-scallops-pesto-sauce"
+}

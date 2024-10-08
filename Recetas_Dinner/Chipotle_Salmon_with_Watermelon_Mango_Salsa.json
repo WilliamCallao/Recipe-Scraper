@@ -1,0 +1,97 @@
+{
+    "title": "Chipotle Salmon with Watermelon Mango Salsa",
+    "keywords": "Quick & Easy,Main Dish,Dinner",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Diabetic%20salmon%20watermelon%20salsa.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "salmon filets (4 oz. each)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "adobo sauce from chipotle pepper can (chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "seedless watermelon (small diced)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "canned mango packed in water (drained and small diced)",
+            "us_amount": "15 oz",
+            "metric_amount": "425 ml"
+        },
+        {
+            "name": "red onion (small diced )",
+            "us_amount": "1/2 small",
+            "metric_amount": "1/2 small"
+        },
+        {
+            "name": "jalapeño pepper (minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lime (zested and juiced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "fresh cilantro (chopped )",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400 degrees F. Line a baking sheet with aluminum foil.",
+        "Finely chop the peppers in adobo sauce and place in a small bowl along with the olive oil, stir to combine.",
+        "Place the salmon on the baking sheet and spread the mixture over the filets. Place the baking sheet in the oven and bake for 8–10 minutes, until salmon reads 145 degrees F.",
+        "Meanwhile, combine watermelon, mango, red onion, jalapeño, lime zest and juice, salt, pepper, and cilantro in a bowl. Stir to combine salsa.",
+        "Divide fish between plates and top with watermelon salsa."
+    ],
+    "tags": [
+        "Seafood",
+        "Quick & Easy",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "290",
+        "total_fat": "13g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "320mg",
+        "total_carbohydrate": "21g",
+        "fiber": "2g",
+        "sugar": "17g",
+        "added_sugar": "0g",
+        "protein": "23g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chipotle-salmon-watermelon-mango-salsa"
+}

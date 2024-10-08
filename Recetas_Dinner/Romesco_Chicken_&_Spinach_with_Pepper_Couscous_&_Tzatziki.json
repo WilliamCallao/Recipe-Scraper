@@ -1,0 +1,103 @@
+{
+    "title": "Romesco Chicken & Spinach with Pepper Couscous & Tzatziki",
+    "keywords": "Meal Kit Recipes,Main Dish,Foodie,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Meal Kit Recipes",
+        "Main Dish",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/diabetic-romesco-chicken-spinach_blue-apron-020120.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "mini sweet peppers",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "garlic",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "red onion",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "castelvatrano or green olives",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "olive oil (divided use)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "couscous",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "dried currants",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "boneless, skinless chicken breasts (chopped into bite-size peices)",
+            "us_amount": "18 oz",
+            "metric_amount": "509 ml"
+        },
+        {
+            "name": "romesco sauce",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "baby spinach",
+            "us_amount": "5 oz",
+            "metric_amount": "142 ml"
+        },
+        {
+            "name": "tzatziki sauce",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Prepare the ingredients: Wash and dry the fresh produce. Cut off and discard the stems of the peppers; remove the cores, then thinly slice into rings. Peel and roughly chop 2 cloves of garlic. Halve, peel, and thinly slice the onion. Using the flat side of your knife, smash the olives to release the pits. Discard the pits, then roughly chop the olives.",
+        "Cook the couscous:  In a medium pot, heat 1/2 teaspoon of olive oil on medium-high until hot. Add the sliced peppers and chopped garlic; season with salt (optional) and pepper. Cook, stirring frequently, 2 to 3 minutes, or until slightly softened. Add the couscous, currants, and 1 1/2 cups of water (carefully, as the liquid may splatter); stir to combine. Heat to boiling on high. Once boiling, turn off the heat. Cover and let stand 6 to 8 minutes, or until the water has been absorbed and the couscous is tender. Fluff with a fork. Cover to keep warm.",
+        "Start the chicken & onion:  Meanwhile, pat the chicken dry with paper towels. Place in a bowl; add the sliced onion. Season with salt (optional) and pepper. Toss to coat, separating the onion layers. In a large pan (nonstick, if you have one), heat 1/2 teaspoon of olive oil on medium-high until hot. Add the seasoned chicken and onion in an even layer. Cook, without stirring, 3 to 4 minutes, or until lightly browned.",
+        "Finish & serve your dish: Add the chopped olives to the pan. Cook, stirring occasionally, 3 to 4 minutes, or until the chicken is browned and cooked through. Turn off the heat. Add the romesco sauce and spinach; stir until combined and the spinach is slightly wilted. Serve the cooked couscous topped with the finished chicken and vegetables and tzatziki. Enjoy!"
+    ],
+    "tags": [
+        "Mediterranean",
+        "Meal Kit Recipes",
+        "Main Dish",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "440",
+        "total_fat": "21g",
+        "saturated_fat": "4g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "470mg",
+        "total_carbohydrate": "37g",
+        "fiber": "4g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "36g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/romesco-chicken-spinach-pepper-couscous-tzatziki"
+}

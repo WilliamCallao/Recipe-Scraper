@@ -1,0 +1,111 @@
+{
+    "title": "Parmesan Tofu with Butternut Squash Noodles",
+    "keywords": "Vegetarian,Main Dish,Foodie,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Vegetarian",
+        "Main Dish",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Parmesan%20tofu%20butternut%20squash%20noodles%20diabetic.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "extra firm tofu (drained and pressed for at least 30 minutes)",
+            "us_amount": "28 oz",
+            "metric_amount": "792 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "butternut squash (for the noodles)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "olive oil (for the noodles)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Italian seasoning (for the noodles)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt (for the noodles)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Parmesan cheese (grated, for the topping)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "light mayonnaise (for the topping)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Italian seasoning (for the topping)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "onion powder (for the topping)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "garlic powder (for the topping)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "fresh basil (leaves julienned)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350 degrees F. Line a baking sheet with aluminum foil.",
+        "Slice each tofu block in half along the long side. Place on the baking sheet and drizzle with oil. Bake for 15 minutes, flip, then bake for another 15 minutes.",
+        "Meanwhile, peel the tough skin from the squash. Use a julienne peeler to cut noodles from the squash.",
+        "Preheat a large skillet over medium heat. Add oil, squash, Italian seasoning, and salt. Cook, stirring occasionally, until squash noodles are tender, 7–8 minutes. Remove from heat, cover, and set aside.",
+        "Combine the Parmesan, mayo, Italian seasoning, onion powder, and garlic powder in a small bowl.",
+        "After the tofu has baked for 30 minutes, remove from the oven. Set the oven to broil on high and move an oven rack to the top shelf, underneath the broiler.",
+        "Spread the cheese mixture over the tops of the tofu. Return to the oven and broil until the topping is bubbly and beginning to brown, 1–2 minutes.",
+        "Serve on a bed of squash noodles with a handful of fresh basil."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Kid Friendly",
+        "Italian",
+        "Comfort Food",
+        "Vegetarian",
+        "Main Dish",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "360",
+        "total_fat": "21g",
+        "saturated_fat": "4.5g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "510mg",
+        "total_carbohydrate": "20g",
+        "fiber": "6g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/parmesan-tofu-butternut-squash-noodles"
+}

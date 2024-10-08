@@ -1,0 +1,94 @@
+{
+    "title": "Braised Collards, Potato & White Beans",
+    "keywords": "Dinner,Main Dish",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/recipe.jpg",
+        "Potato & White Beans\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "collard greens",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "tomato(es) ((each weighing about 3 1/2 oz as purchased), small diced)",
+            "us_amount": "3 whole",
+            "metric_amount": "3 whole"
+        },
+        {
+            "name": "dried oregano",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "yellow onion ((about 4oz, as purchased), cut into large chunks)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "white vinegar ((white vinegar, white wine vinegar, or apple cider vinegar))",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "White Beans ((15 oz))",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "crushed red pepper flakes ((use for garnish))",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "potatoes ((about 13 oz each, as purchased), cut into large chunks)",
+            "us_amount": "3 bunch",
+            "metric_amount": "3 bunch"
+        }
+    ],
+    "instructions": [
+        "To prep the collards: Run each leaf under cold running water to clean. Slice the rib from the center of each leaf and chop the leaves into small pieces. Discard ribs. Add chopped leaves to a large bowl and cover with water; add a splash of vinegar. Let sit for 15 minutes.",
+        "Heat a large heavy pot (such as a Dutch oven) over medium heat and add the oil.",
+        "Add the onions to the pot and cook, stirring occasionally, until they begin to soften, 4–5 minutes.",
+        "Add drained collards and cook, stirring occasionally, until wilted, 3–4 minutes.",
+        "Add potatoes, oregano, tomatoes, and water. Cook on low heat, slightly covered, for 20–30 minutes, until potatoes are fork-tender.",
+        "Stir in white beans. Garnish with crushed red pepper if desired."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "370",
+        "total_fat": "8g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "430mg",
+        "total_carbohydrate": "64g",
+        "fiber": "12g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/braised-collards-potato-white-beans"
+}

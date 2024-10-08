@@ -1,0 +1,103 @@
+{
+    "title": "Vegan Zuppa Toscana",
+    "keywords": "Vegan,Main Dish,Dinner",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegan",
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/vegan%20zuppa.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "cashews ((raw))",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "kale ((about 1lb destemmed and chopped))",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        },
+        {
+            "name": "red potatoes ((about 6oz, each, thinly sliced 1/8 inch)",
+            "us_amount": "3 whole",
+            "metric_amount": "3 whole"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Italian seasoning",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "low sodium vegetable broth",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "cannellini beans ((15oz, drained and rinsed))",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "yellow onion ((medium, minced))",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "garlic ((minced))",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Vegan Ground Meat Substitute",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        }
+    ],
+    "instructions": [
+        "Remove soup from heat, add cashew cream to the pot and stir to combine.",
+        "While the soup is cooking, cover the cashews with 1 cup of boiling water. Let sit for 15 minutes. Puree the cashews and water in a blender until smooth.",
+        "Once simmering, add potatoes and kale. Turn heat to low and simmer for 10–-15 minutes, until potatoes are fork-tender.",
+        "Add beans, broth, black pepper, Italian seasoning, and salt to the pot. Cover and bring to a simmer.",
+        "Add garlic and onion to the pot and cook, stirring occasionally, until softened, 3–-4 minutes.",
+        "Heat the oil in a large pot over medium heat. Add ground meat substitute and cook, stirring occasionally, until browned and crumbly, 6-7 minutes."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Vegan",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "320",
+        "total_fat": "9g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "670mg",
+        "total_carbohydrate": "42g",
+        "fiber": "11g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/vegan-zuppa-toscana"
+}

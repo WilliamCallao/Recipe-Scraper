@@ -1,0 +1,97 @@
+{
+    "title": "Grilled Sirloin with Olive Tapenade",
+    "keywords": "Dinner,Gluten-Free,Main Dish,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Gluten-Free",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1998-diabetic-Grilled-Sirloin-Tapenade_KDBH-bookazine_012821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "boneless top sirloin steak",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        },
+        {
+            "name": "garlic (minced, divided use)",
+            "us_amount": "5 diente",
+            "metric_amount": "5 diente"
+        },
+        {
+            "name": "dried thyme (divided use)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "chopped kalamata olives",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "chopped pimiento-stuffed green olives",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "capers (drained and chopped)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Lightly spray the grill rack with cooking spray. Preheat the grill on medium high.",
+        "Lightly spray the beef with cooking spray.",
+        "In a small bowl, stir together the minced garlic (reserve about 1/2 tsp for the tapenade), 1 1/2 tsp thyme, pepper, and salt. Sprinkle over the beef. Using your fingertips, gently press the mixture so it adheres to the beef.",
+        "Grill the beef, covered, for 10 minutes on each side for medium rare, or until the desired doneness. Transfer to a cutting board. Lightly cover with aluminum foil. Let stand for 5 minutes. Thinly slice the beef diagonally across the grain.",
+        "Meanwhile, in a separate small bowl, stir together the olives, mustard, capers, remaining 1/2 tsp thyme, and remaining minced garlic."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Grilling",
+        "Dinner",
+        "Gluten-Free",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "7g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "300mg",
+        "total_carbohydrate": "2g",
+        "fiber": "1g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-sirloin-olive-tapenade"
+}

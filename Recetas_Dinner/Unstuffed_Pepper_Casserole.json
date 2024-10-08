@@ -1,0 +1,85 @@
+{
+    "title": "Unstuffed Pepper Casserole",
+    "keywords": "Budget Friendly,Dinner,Main Dish,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recipe%20Size.png",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "lean ground beef",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "red bell pepper (diced)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "orange bell pepper (diced)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "green bell pepper (diced)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "jarred marinara sauce",
+            "us_amount": "24 oz",
+            "metric_amount": "679 ml"
+        },
+        {
+            "name": "cooked brown rice",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "reduced-fat shredded cheddar or Mexican-style cheese",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400 degrees F.",
+        "Heat a large non-stick skillet over medium heat. Add beef and cook, stirring often, until crumbed and browned, 8–10 minutes. Transfer beef to a bowl with a slotted spoon.",
+        "Return skillet to medium heat and add olive oil and peppers. Cook, stirring often, until peppers have softened, 7–8 minutes.",
+        "Return beef to the skillet along with the marinara and rice. Stir to combine and transfer to a 9x13 baking dish. Sprinkle with cheese.",
+        "Bake for about 20 minutes, until the cheese is bubbly."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Mexican/Southwestern",
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "390",
+        "total_fat": "15g",
+        "saturated_fat": "5.3g",
+        "trans_fat": "0.3g",
+        "cholesterol": "60mg",
+        "sodium": "530mg",
+        "total_carbohydrate": "39g",
+        "fiber": "4g",
+        "sugar": "9g",
+        "added_sugar": "2g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/unstuffed-pepper-casserole"
+}

@@ -1,0 +1,82 @@
+{
+    "title": "Coffee-Rubbed Steak",
+    "keywords": "Budget Friendly,Dinner,Lunch,Main Dish,One Pot,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "One Pot",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1858-diabetic-coffee-rubbed-steak_12-week_DFJanFeb20_120219.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "ground espresso or instant coffee",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "onion powder",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "smoked paprika",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "brown sugar",
+            "us_amount": "1/2 tbsp",
+            "metric_amount": "7 ml"
+        },
+        {
+            "name": "lean strip steak (visible fat removed)",
+            "us_amount": "3 lbs",
+            "metric_amount": "1 l 361 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Mix the espresso, onion powder, paprika, chili powder, and brown sugar together. Spread the mixture on both sides of the steak, pressing it into the meat.",
+        "Heat the oil in a large nonstick skillet over medium heat. Add the steak and sauté for 5 minutes, watching to make sure the spices do not burn. Flip the steak and cook for another 5 minutes or until the steak reaches your desired doneness. A meat thermometer inserted into the steak should read 125° F for rare and 145° F for medium rare.",
+        "Move the steak to a cutting board and pour the pan juices over it. Let it rest for 10 minutes, then slice. If you'd like to reserve some for another recipe, place in a tightly sealed container and refrigerate for up to 3 days."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "One Pot",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "290",
+        "total_fat": "13g",
+        "saturated_fat": "4.1g",
+        "trans_fat": "0.5g",
+        "cholesterol": "115mg",
+        "sodium": "85mg",
+        "total_carbohydrate": "3g",
+        "fiber": "0g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "40g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/coffee-rubbed-steak"
+}

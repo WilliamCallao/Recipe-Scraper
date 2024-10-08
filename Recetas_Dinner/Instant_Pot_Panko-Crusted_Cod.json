@@ -1,0 +1,93 @@
+{
+    "title": "Instant Pot Panko-Crusted Cod",
+    "keywords": "Budget Friendly,Dinner,Main Dish,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1849-diabetic-instant-pot-panko-crusted-cod_Instant-Pot-Diabetes-Ckbk_111419.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "panko bread crumbs",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lemon zest",
+            "us_amount": "2 tsp",
+            "metric_amount": "2 tsp"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "light mayonnaise",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "dried thyme",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "cod or other white fish",
+            "us_amount": "4 (6-oz) fillets",
+            "metric_amount": "4 (6-oz) fillets"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "lemon (cut into 4 wedges)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Press the Sauté button, then press the Adjust button to “More” or “High.” When the display says “Hot,” add the bread crumbs and cook for 2 minutes, or until golden brown, stirring frequently. Stir in the oil, lemon zest, and salt. Remove from the pot and set aside on a plate.",
+        "In a small bowl, combine the mayonnaise, lemon juice, and thyme. Spread equal amounts over the top of each cod fillet.",
+        "Place the water and a steamer basket in the Instant Pot. Add the fish to the steamer basket, mayonnaise side up. Seal the lid, close the valve, press the Cancel button, and set to Manual/Pressure Cook for 3 minutes.",
+        "Use a quick pressure release. When the valve drops, carefully remove the lid. Remove the steamer basket and fish from the pot. Serve the fish topped with the bread crumb mixture. Serve with the lemon wedges to squeeze over all."
+    ],
+    "tags": [
+        "Seafood",
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "11g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "75mg",
+        "sodium": "370mg",
+        "total_carbohydrate": "10g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "31g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/instant-pot-panko-crusted-cod"
+}

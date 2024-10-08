@@ -1,0 +1,100 @@
+{
+    "title": "Big Skillet Breakfast",
+    "keywords": "Vegetarian,Breakfast and Brunch,Budget Friendly,Dinner,Lunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Vegetarian",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/big-skillet-breakfast-crop.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "onion(s) (chopped)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "white (button) mushrooms (sliced)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "grape or cherry tomatoes (quartered)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "spinach (fresh, coarsely chopped)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "seasoning (salt-free, extra-spicy)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "egg whites",
+            "us_amount": "3 large",
+            "metric_amount": "3 large"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "4 large",
+            "metric_amount": "4 large"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "feta cheese (lower-fat)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Heat the olive oil in a large nonstick skillet over medium-high heat. Add the onion and cook, stirring frequently, until soft, about 3 minutes. Add the mushrooms and cook, stirring frequently, about 4 minutes.",
+        "Add the mushrooms and cook, stirring frequently, about 4 minutes. Add the tomatoes and cook until the tomatoes lose most of the moisture.",
+        "Add the tomatoes and cook until the tomatoes lose most of the moisture. Add the spinach and cook for about a minute more.",
+        "Add the spinach and cook for about a minute more.",
+        "Whisk together the spicy seasoning, egg whites, eggs, and water. Reduce the heat to medium and add the eggs. Let the eggs cook, without stirring until they begin to cook around the edges.",
+        "Use a spatula and turn the egg mixture and cook until almost set. Remove from the heat; allow to stand for the eggs to complete cooking from the residual heat.",
+        "Sprinkle with feta. Cut into four wedges for serving."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Lower Carb",
+        "Vegetarian",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "8g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "190mg",
+        "sodium": "170mg",
+        "total_carbohydrate": "7g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/big-skillet-breakfast"
+}
