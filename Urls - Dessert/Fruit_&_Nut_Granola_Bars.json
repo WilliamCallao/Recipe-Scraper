@@ -1,0 +1,108 @@
+{
+    "title": "Fruit & Nut Granola Bars",
+    "keywords": "Dessert,Snacks",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Dessert",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2123_Fruit%20and%20Nut%20Granola%20Bars%20-%20Original%20Photo.jpg",
+    "servings": "18 Servings",
+    "ingredients": [
+        {
+            "name": "Oat (Whole)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "almond flour",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Splenda® Monk Fruit Granulated Sweetener",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "unsweetened almond milk",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "almond butter",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "pitted dates (finely chopped)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "almond extract",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sunflower seeds",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "unsweetened dried cherries (roughly chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Unsweetened Dried Coconut",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Toasted Almonds (Sliced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350 degrees °F and prepare a 9×11 baking pan by lining it with a sheet of parchment paper, leaving a few inches of overhang on the sides to allow for easy removal. Lightly spray the corners with nonstick cooking spray. Set aside.",
+        "In a large mixing bowl, combine the oats, almond flour, Splenda Monk Fruit, and salt. In another bowl, add the egg, almond milk, almond butter, dates, and extracts, mixing until well combined. Pour the wet mixture into the dry, then stir in the rest of the ingredients.",
+        "Transfer the mixture into the baking pan, using a spatula to spread it out evenly and slightly pack it down. Sprinkle the top with a little more coconut if desired.",
+        "Bake for 20 – 22 minutes, until the edges begin to turn golden brown. Remove the bars from the oven and let them cool in the pan completely before cutting. Carefully pick them up with the parchment paper, then slice them into 18 bars. Store them in an airtight container. Enjoy!"
+    ],
+    "tags": [
+        "Dessert",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "8g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "80mg",
+        "total_carbohydrate": "18g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fruit-nut-granola-bars"
+}

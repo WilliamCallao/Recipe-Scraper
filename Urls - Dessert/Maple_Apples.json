@@ -1,0 +1,90 @@
+{
+    "title": "Maple Apples",
+    "keywords": "Quick & Easy,Foodie,Dessert,Breakfast and Brunch,Vegetarian,Snacks,Sides",
+    "prep_time": "PT7M",
+    "cook_time": "PT14M",
+    "categories": [
+        "Quick & Easy",
+        "Foodie",
+        "Dessert",
+        "Breakfast and Brunch",
+        "Vegetarian",
+        "Snacks",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1323-diabetic-dessert-maple-apples_DFImport_AdobeStock374546038_092920.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Granny Smith or other tart apple (unpeeled and sliced into 1/2-inch wedges)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "apple cider",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sugar-free maple-type syrup",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ground cloves",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "slivered almonds (toasted)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Toss the apple slices with the lemon juice.",
+        "In a large skillet, heat the oil over medium heat. Add the apples and sauté for 3 minutes. Reduce the heat to low, cover, and simmer for about 6 to 7 minutes, stirring occasionally. Remove the apples from the pan and set aside.",
+        "In the same skillet add all the remaining ingredients except the almonds. Bring to a boil and cook over medium-high heat until syrupy, scraping up any bits of apple remaining in the pan. Add back the apples and sprinkle with the sliced almonds."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Kid Friendly",
+        "Comfort Food",
+        "Quick & Easy",
+        "Foodie",
+        "Dessert",
+        "Breakfast and Brunch",
+        "Vegetarian",
+        "Snacks",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "5mg",
+        "total_carbohydrate": "14g",
+        "fiber": "2g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/maple-apples"
+}

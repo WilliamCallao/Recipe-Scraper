@@ -13,8 +13,8 @@ from concurrent.futures import ThreadPoolExecutor
 
 init(autoreset=True)
 
-input_csv = "Urls - Budget-friendly.csv"
-output_dir = "Urls - Budget-friendly"
+input_csv = "Urls - Dessert.csv"
+output_dir = "Urls - Dessert"
 failed_csv = "failed.csv"
 
 lock = threading.Lock()

@@ -1,0 +1,70 @@
+{
+    "title": "Morir Soñando (Orange Cream)",
+    "keywords": "Dessert",
+    "prep_time": "PT20M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1757-espanol-diabetic-morir-sonando_latin-comfort-foods_13020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "unflavored gelatin (divided use)",
+            "us_amount": "2 (7-g) envelopes",
+            "metric_amount": "2 (7-g) envelopes"
+        },
+        {
+            "name": "cold water",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "evaporated skim milk",
+            "us_amount": "1 (12-oz) can",
+            "metric_amount": "1 (12-oz) can"
+        },
+        {
+            "name": "granulated zero-calorie sweetener (such as stevia) (divided use)",
+            "us_amount": "1 tbsp plus 2 tsp",
+            "metric_amount": "1 tbsp plus 2 tsp"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "grated zest of 1 clementine or orange",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "orange or clementine juice",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "To make the vanilla cream layer: Sprinkle 1 packet of gelatin over 1/2 cup cold water in a small saucepan; let stand 1 minute. Add the evaporated milk, 1 tbsp of the sugar substitute, and vanilla. Stir over low heat until the gelatin is completely dissolved, about 5 minutes. Remove from the heat. Pour, dividing evenly, into 4 (6-oz) dessert glasses. Refrigerate until mixture is set but not firm, about 2 hours.",
+        "To make the orange layer: Sprinkle the remaining gelatin packet over 1/2 cup cold water in a small saucepan; let stand 1 minute. Add the zest, juice, and remaining 2 tsp of sugar substitute. Stir over low heat until the gelatin is completely dissolved, about 5 minutes. Remove from the heat; let cool to room temperature. Pour, dividing evenly, over vanilla cream layer in the dessert glasses. Refrigerate until set, about 4 hours. Serve each topped with 2 Tbsp fat-free, sugar-free, non-dairy whipped topping, if desired."
+    ],
+    "tags": [
+        "Latin American",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "2g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "2g",
+        "cholesterol": "5mg",
+        "sodium": "115mg",
+        "total_carbohydrate": "17g",
+        "fiber": "0g",
+        "sugar": "16g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/morir-sonando-orange-cream"
+}

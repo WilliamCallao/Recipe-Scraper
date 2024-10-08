@@ -1,0 +1,83 @@
+{
+    "title": "Quinoa Dessert Pudding",
+    "keywords": "Dessert,Gluten-Free,One Pot,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Dessert",
+        "Gluten-Free",
+        "One Pot",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2016-diabetic-quinoa-dessert-pudding_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "9 Servings",
+    "ingredients": [
+        {
+            "name": "quinoa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "skim milk",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "fat-free half-and-half",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "low-calorie brown sugar blend, such as Truvia or Splenda",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ground nutmeg",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pumpkin seeds (toasted)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Rinse quinoa under cold water for 2 minutes.",
+        "Whisk together milk, fat-free half-and-half, brown sugar blend, vanilla, cinnamon, and nutmeg in a medium saucepan over medium heat. Bring to a simmer.",
+        "Once the milk mixture is simmering, stir in quinoa and reduce heat to a low simmer. Partially cover the pan and cook 40 minutes, stirring every 10 minutes.",
+        "When quinoa is done cooking, stir in toasted pumpkin seeds and serve."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Dessert",
+        "Gluten-Free",
+        "One Pot",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "60mg",
+        "total_carbohydrate": "21g",
+        "fiber": "2g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/quinoa-dessert-pudding"
+}

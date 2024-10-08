@@ -1,0 +1,97 @@
+{
+    "title": "Date, Almond, and Sesame Balls",
+    "keywords": "Dessert,Foodie,Gluten-Free,Holidays & Entertaining,No Cook,Quick & Easy,Snacks",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dessert",
+        "Foodie",
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "No Cook",
+        "Quick & Easy",
+        "Snacks"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/Diabetic-date-almond-sesame-balls_Med-ckbk_DFMayJun19_040219.jpg",
+        "Almond",
+        "and Sesame Balls\" loading=\"lazy\" />"
+    ],
+    "servings": "36 Servings",
+    "ingredients": [
+        {
+            "name": "pitted dates",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "butter (at room temperature)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "blanched almonds",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ground cardamom",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sesame seeds (toasted)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "ground flax seed",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Place the dates, butter, water, almonds, vanilla, cardamom, and cinnamon in a food processor. Pulse to form a smooth paste. Shape the dough into date-size balls.",
+        "Spread the sesame seeds and flaxseed on a baking sheet. Roll the date balls in the seeds to coat. Arrange on a serving platter."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Mediterranean",
+        "Dessert",
+        "Foodie",
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "No Cook",
+        "Quick & Easy",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "7g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "10mg",
+        "total_carbohydrate": "12g",
+        "fiber": "2g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/date-almond-and-sesame-balls"
+}

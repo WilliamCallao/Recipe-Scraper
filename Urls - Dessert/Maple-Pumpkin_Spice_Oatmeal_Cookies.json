@@ -1,0 +1,104 @@
+{
+    "title": "Maple-Pumpkin Spice Oatmeal Cookies",
+    "keywords": "Vegetarian,Snacks,Gluten-Free,Dessert",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Vegetarian",
+        "Snacks",
+        "Gluten-Free",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Maple%20Pumpkin%20Diabetic%20Cookies.png",
+    "servings": "14 Servings",
+    "ingredients": [
+        {
+            "name": "old-fashioned rolled oats",
+            "us_amount": "1 1/4 cup",
+            "metric_amount": "296 ml"
+        },
+        {
+            "name": "all-purpose flour or whole-wheat pastry flour",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "baking powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sea salt",
+            "us_amount": "3/4 tsp",
+            "metric_amount": "4 g"
+        },
+        {
+            "name": "pumpkin pie spice or ground cinnamon",
+            "us_amount": "3/4 tsp",
+            "metric_amount": "4 g"
+        },
+        {
+            "name": "unsweetened applesauce",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "dried apricots (about 7 or 8 pieces)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "pure maple syrup",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "unsalted butter (room temperature)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sunflower or avocado oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "pure vanilla extract",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350 degrees F. Line two baking sheets with parchment paper or use silicone baking mats.",
+        "In a medium bowl, stir together the oats, flour, baking powder, salt, and pumpkin pie spice.",
+        "Add the applesauce, dried apricots, maple syrup, butter, and oil to a blender. Cover and blend until well combined. Add the egg and vanilla extract and blend until puréed like a smoothie. Pour the batter into the dry mixture in the medium bowl and stir until well combined. Note: The batter will seem slightly loose (runny).",
+        "Drop 7 cookies on each baking sheet, about 2 well-rounded measuring tablespoons each. Bake until browned on the bottom, about 25 minutes.",
+        "Remove cookies from the oven and let cool completely on the baking sheets on racks. Store the soft-chew cookies in an airtight container at room temperature for up to 3 days or freeze for up to 1 month."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Vegetarian",
+        "Snacks",
+        "Gluten-Free",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "6g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0.1g",
+        "cholesterol": "20mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "16g",
+        "fiber": "2g",
+        "sugar": "7g",
+        "added_sugar": "3g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/maple-pumpkin-spice-oatmeal-cookies"
+}

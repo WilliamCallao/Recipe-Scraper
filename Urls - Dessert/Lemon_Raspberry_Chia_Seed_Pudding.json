@@ -1,0 +1,83 @@
+{
+    "title": "Lemon Raspberry Chia Seed Pudding",
+    "keywords": "Vegetarian,Vegan,Snacks,No Cook,Holidays & Entertaining,Gluten-Free,Foodie,Dessert",
+    "prep_time": "PT1H",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Snacks",
+        "No Cook",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Foodie",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1702-diabetic-Lemon-Raspberry-Chia-Seed-Pudding_Diabetes-Superfoods-Cookbook_010319.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "chia seeds",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "unsweetened vanilla almond milk",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "lemon zest",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "1/2 tsp"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "honey",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "raspberries",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "In a small mixing bowl, whisk together all ingredients except the raspberries. Put mixture in the refrigerator for at least one hour until chia seeds soak up the liquid and it becomes a pudding consistency.",
+        "To serve, put 1/3 cup pudding in a small bowl with 1/2 cup raspberries."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "High in Fiber",
+        "Vegetarian",
+        "Vegan",
+        "Snacks",
+        "No Cook",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Foodie",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "50mg",
+        "total_carbohydrate": "18g",
+        "fiber": "9g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/lemon-raspberry-chia-seed-pudding"
+}
