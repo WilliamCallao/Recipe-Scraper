@@ -1,0 +1,121 @@
+{
+    "title": "Savory Crepes",
+    "keywords": "Breakfast and Brunch,Foodie,Lunch",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Breakfast and Brunch",
+        "Foodie",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/jan2015-savory-crepes-279x200.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "milk (non-fat)",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "whole wheat flour",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "broccoli florets",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "small onion (small dice)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "deli ham ((1/2 ounce each), diced)",
+            "us_amount": "8 slice",
+            "metric_amount": "8 slice"
+        },
+        {
+            "name": "egg whites",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "fat free half-and-half",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Parmesan cheese (shredded)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Whisk all the crepe ingredients together in a large bowl except for the cooking spray. Blend the mixture in a blender or with an immersion blender. Let the crepe batter rest at room temperature for 20 minutes.",
+        "Add cooking spray to a 10-inch nonstick sauté pan over medium heat. Let the pan heat until a drop of water sizzles in the bottom of the pan.",
+        "Pour 1/4 cup of the crepe batter to thinly coat the bottom of the pan. Let the crepe cook until the edges begin to brown. Using a spatula, flip the crepe and continue to cook for another minute. Slide the crepe on to a plate and continue this process to make 8 crepes.",
+        "Steam the broccoli florets in the microwave or in a sauce pan in an inch of water. Steam until the florets are fork tender.",
+        "Add cooking spray to a nonstick sauté pan over medium-high heat. Sauté the onion and ham until the onion is soft and beginning to caramelize.",
+        "Add the steamed broccoli, and using a spatula, break the broccoli up into small pieces, stirring it with the ham and onions.",
+        "In a small bowl, whisk together the egg whites, fat-free half and half, and pepper. Add the mixture and the Parmesan cheese to the vegetables and stir to scramble.",
+        "Fill and roll each crepe with 1/2 cup egg and vegetable scramble."
+    ],
+    "tags": [
+        "High in Fiber",
+        "French",
+        "Breakfast and Brunch",
+        "Foodie",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "8g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "110mg",
+        "sodium": "445mg",
+        "total_carbohydrate": "31g",
+        "fiber": "6g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/savory-crepes"
+}

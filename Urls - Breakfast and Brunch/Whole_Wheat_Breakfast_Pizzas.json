@@ -1,0 +1,88 @@
+{
+    "title": "Whole Wheat Breakfast Pizzas",
+    "keywords": "Breakfast and Brunch,Cooking for 1 or 2,Quick & Easy,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Breakfast and Brunch",
+        "Cooking for 1 or 2",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/whole-wheat-breakfast-pizza.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "light tub margarine",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "small green onions (finely chopped)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "small button mushrooms (sliced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "small red bell pepper (diced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "egg substitute",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "milk (fat-free)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "whole-wheat English muffins (split in half)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Colby and Monterey Jack cheese mixture (low-fat, shredded)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "small tomato (seeded and chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 375 degrees F.",
+        "In a small nonstick skillet, heat the margarine over medium heat until melted, swirling to coat the bottom. Cook the green onions, mushrooms, and bell pepper over medium-high heat for 3 minutes, or until tender, stirring frequently.",
+        "In a small bowl, whisk together the egg substitute and milk. Pour over the vegetables. Reduce the heat to medium. Cook without stirring until the mixture begins to set on the bottom and around the edge. As it sets, push the mixture toward the center of the skillet and tilt the skillet so the uncooked portion flows to the edge and all the egg substitute is fully cooked, 3 to 4 minutes. (A rubber scraper works well for this.)",
+        "Put the English muffin halves with the cut side up on a baking sheet. Sprinkle each with 1 Tbsp. Colby and Monterey Jack mixture. Spoon the egg mixture over the cheese. Top with the remaining cheese. Sprinkle with the tomato.",
+        "Bake for 5 to 8 minutes, or until the cheese is melted."
+    ],
+    "tags": [
+        "Breakfast and Brunch",
+        "Cooking for 1 or 2",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "4.5g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "415mg",
+        "total_carbohydrate": "20g",
+        "fiber": "3g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/whole-wheat-breakfast-pizzas"
+}

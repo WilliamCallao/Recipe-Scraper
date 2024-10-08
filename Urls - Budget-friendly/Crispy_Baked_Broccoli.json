@@ -1,0 +1,76 @@
+{
+    "title": "Crispy Baked Broccoli",
+    "keywords": "Vegetarian,Sides,Budget Friendly",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/206-Crispy-Baked-Broccoli_178477168_04112018%20.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "frozen broccoli florets (16-ounce)",
+            "us_amount": "1 package",
+            "metric_amount": "1 package"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "onion powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "soy sauce (reduced-sodium)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 375 degreed F.",
+        "Prep a cookie sheet with nonstick cooking spray.",
+        "Defrost the broccoli and drain.",
+        "Combine the remaining ingredients in a gallon-sized Ziploc bag. Add the broccoli florets to the plastic bag and shake until coated.",
+        "Place the florets on the prepared baking sheet with space between them. Discard the leftover marinade.",
+        "Bake for 45 minutes to an hour. The broccoli will be soft inside but crisp at the edges."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Lower Carb",
+        "Kid Friendly",
+        "Vegetarian",
+        "Sides",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "4g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "170mg",
+        "total_carbohydrate": "6g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crispy-baked-broccoli"
+}

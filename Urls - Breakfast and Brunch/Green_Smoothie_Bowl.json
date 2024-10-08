@@ -1,0 +1,78 @@
+{
+    "title": "Green Smoothie Bowl",
+    "keywords": "Breakfast and Brunch,Cooking for 1 or 2,No Cook",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Breakfast and Brunch",
+        "Cooking for 1 or 2",
+        "No Cook"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/3460_Green%20Smoothie%20Bowl.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "Splenda®  Diabetes Care Vanilla Shake",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "frozen mango (chunks)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "banana(s) (sliced and frozen)",
+            "us_amount": "1/4 small",
+            "metric_amount": "1/4 small"
+        },
+        {
+            "name": "spinach (packed)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ground flax seed",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "kiwi (peeled and sliced, for the topping)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh strawberries (sliced, for the topping)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "unsweetened coconut flakes (for the topping)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "Combine Splenda Diabetes Care Shake, mango, banana, spinach, and flaxseed in a blender. Blend until smooth, scraping down the sides as needed.",
+        "Spoon smoothie into serving bowl and top with kiwi, strawberry, and coconut flakes. Serve immediately and enjoy."
+    ],
+    "tags": [
+        "Breakfast and Brunch",
+        "Cooking for 1 or 2",
+        "No Cook"
+    ],
+    "nutrition": {
+        "calories": "360",
+        "total_fat": "15g",
+        "saturated_fat": "3.3g",
+        "trans_fat": "0g",
+        "cholesterol": "15mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "51g",
+        "fiber": "13g",
+        "sugar": "24g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/green-smoothie-bowl"
+}

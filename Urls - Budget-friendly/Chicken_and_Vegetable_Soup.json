@@ -1,0 +1,89 @@
+{
+    "title": "Chicken and Vegetable Soup",
+    "keywords": "Budget Friendly,Lunch,Dinner,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Budget Friendly",
+        "Lunch",
+        "Dinner",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_158_Chicken_and_Vegetable_Soup_PNCImages_02272018.jpg",
+    "servings": "7 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chicken breasts (skinless, boneless)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "carrot(s) (diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "celery (diced)",
+            "us_amount": "3 stalks",
+            "metric_amount": "3 stalks"
+        },
+        {
+            "name": "white (button) mushrooms (diced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "low sodium chicken broth (fat-free, reduced-sodium)",
+            "us_amount": "32 oz",
+            "metric_amount": "906 ml"
+        },
+        {
+            "name": "dried oregano (dried)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "dried thyme (dried)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Add the oil to a large soup pot or dutch oven and heat over medium-high heat. Add the chicken and sear for 4 minutes on each side. Remove the chicken from the pan and set aside.",
+        "Add the carrots, celery, and mushrooms to the same pot and sauté over medium-high heat for 5 minutes.",
+        "Add the remaining ingredients and add the chicken back to the pot. Bring to a boil; reduce the heat and simmer for 45 minutes.",
+        "Remove the chicken from the pot and shred or cut up. Add the chicken back to the pot; stir."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Veggie Rich",
+        "Comfort Food",
+        "Kid Friendly",
+        "Budget Friendly",
+        "Lunch",
+        "Dinner",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "35mg",
+        "sodium": "370mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-and-vegetable-soup"
+}

@@ -1,0 +1,73 @@
+{
+    "title": "Herbed Soft Scrambled Eggs on Toast",
+    "keywords": "Quick & Easy,Cooking for 1 or 2,Budget Friendly,Breakfast and Brunch,Easy Pantry Recipes,Vegetarian",
+    "prep_time": "PT7M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Quick & Easy",
+        "Cooking for 1 or 2",
+        "Budget Friendly",
+        "Breakfast and Brunch",
+        "Easy Pantry Recipes",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1847-diabetic-breakfast-Herbed-Soft-Scrambled-Eggs-On-Toast_Clean-Simple-Ckbk_111319.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "sprouted whole-grain or whole-wheat bread",
+            "us_amount": "2 slices",
+            "metric_amount": "2 slices"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "loosely packed chopped fresh herbs",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Toast the bread in a toaster or toaster oven to desired doneness.",
+        "While the bread is toasting, prepare the eggs: fully heat the oil in a medium stick-resistant skillet over medium-low heat. Pour the eggs into the hot skillet and cook while gently stirring (or folding) the mixture until the eggs are no longer runny, yet are still moist, about 1 1/2–2 minutes. Remove the skillet from the heat, sprinkle with the salt, and gently stir (or fold) in the herbs.",
+        "Transfer the toasts to plates. Top each toast with half the herbed eggs. If desired, sprinkle with freshly ground black pepper to taste. Serve."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Quick & Easy",
+        "Cooking for 1 or 2",
+        "Budget Friendly",
+        "Breakfast and Brunch",
+        "Easy Pantry Recipes",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "8g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "185mg",
+        "sodium": "290mg",
+        "total_carbohydrate": "16g",
+        "fiber": "3g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/herbed-soft-scrambled-eggs-toast"
+}

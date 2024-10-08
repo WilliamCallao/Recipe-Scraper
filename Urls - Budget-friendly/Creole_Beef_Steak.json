@@ -1,0 +1,115 @@
+{
+    "title": "Creole Beef Steak",
+    "keywords": "Budget Friendly,Dessert,Gluten-Free,Main Dish,One Pot",
+    "prep_time": "PT15M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Budget Friendly",
+        "Dessert",
+        "Gluten-Free",
+        "Main Dish",
+        "One Pot"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1740-espanol-diabetic-churrascos-criollos_Cocinando_20620.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "cube steak",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        },
+        {
+            "name": "salt (divided)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "medium potatoes (peeled and thinly sliced)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "large onions (sliced into rings)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "green bell pepper (sliced into rings)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "red bell pepper (sliced into rings)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "plum tomatoes (thinly sliced)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "garlic (thinly sliced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "chopped fresh parsley or cilantro",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "dried oregano (divided)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "beef broth",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "white wine",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Season meat with 1/2 tsp salt and pepper. Heat oil in a large nonstick skillet over medium-low heat. Place a layer of meat in the skillet. On top of the meat, layer potatoes, onion, peppers, tomato, garlic, and parsley or cilantro. Sprinkle with 1/4 tsp each oregano and salt.",
+        "Place another layer of meat in the skillet and repeat the layering of the other ingredients. Sprinkle with remaining oregano and salt.",
+        "Pour the broth and wine in the skillet and cover. Cook until potatoes are tender, between 30–40 minutes. Place meat and vegetables on a serving platter and pour skillet juices over top."
+    ],
+    "tags": [
+        "Latin American",
+        "Mexican/Southwestern",
+        "Budget Friendly",
+        "Dessert",
+        "Gluten-Free",
+        "Main Dish",
+        "One Pot"
+    ],
+    "nutrition": {
+        "calories": "300",
+        "total_fat": "9g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "500mg",
+        "total_carbohydrate": "28g",
+        "fiber": "4g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/creole-beef-steak"
+}

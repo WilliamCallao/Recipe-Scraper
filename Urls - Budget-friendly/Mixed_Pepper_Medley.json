@@ -1,0 +1,83 @@
+{
+    "title": "Mixed Pepper Medley",
+    "keywords": "Budget Friendly,Dinner,Lunch,Quick & Easy,Sides,Vegan,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1797-diabetic-Moroccan-Lentils-pepper-medley_MediterraneanCkbk_50320.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "mixed red, yellow, and green bell peppers (cut into thin strips)",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "6 diente",
+            "metric_amount": "6 diente"
+        },
+        {
+            "name": "pitted, diced green olives",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp, or to taste",
+            "metric_amount": "1/4 tsp, or to taste"
+        }
+    ],
+    "instructions": [
+        "Heat olive oil in a large, wide skillet over medium heat. Add peppers, and cook until browned.",
+        "Stir in garlic and cook for 1 minute. Add green olives, then reduce heat to low and cover. Cook for 20 minutes, or until peppers are tender.",
+        "Stir in balsamic vinegar. Taste, and add salt if necessary."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Veggie Rich",
+        "Mediterranean",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "6g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "140mg",
+        "total_carbohydrate": "7g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mixed-pepper-medley"
+}

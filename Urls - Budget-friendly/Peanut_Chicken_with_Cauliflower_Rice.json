@@ -1,0 +1,107 @@
+{
+    "title": "Peanut Chicken with Cauliflower Rice",
+    "keywords": "One Pot,Main Dish,Budget Friendly",
+    "prep_time": "PT5M",
+    "cook_time": "PT20M",
+    "categories": [
+        "One Pot",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Peanut%20Chicken%20Cauliflower%20Rice.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "toasted sesame oil (divided)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "boneless skinless chicken thighs (about 1 lb., cut into chunks)",
+            "us_amount": "6 lbs",
+            "metric_amount": "2 l 722 ml"
+        },
+        {
+            "name": "yellow onion (diced)",
+            "us_amount": "1/2 small",
+            "metric_amount": "1/2 small"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "fresh ginger (grated)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Thai style chili garlic sauce",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "lower sodium soy sauce",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "smooth natural peanut butter",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lite coconut milk (mix with 1/2 cup water)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "canned diced tomatoes, no added salt",
+            "us_amount": "14 1/2 oz",
+            "metric_amount": "410 ml"
+        },
+        {
+            "name": "fresh cilantro (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "peanuts (chopped, roasted)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "cauliflower \"rice\"",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "Heat 1 ½ tsp of toasted sesame oil (save the rest for later) in a large skillet over medium heat. Add chicken and cook, stirring often, until golden brown. Transfer chicken to a plate and return the skillet to medium heat.",
+        "Add the rest of the oil and add the onion, garlic, ginger, and chili-garlic sauce. Cook, stirring occasionally, until onion softens, 4–5 minutes.",
+        "Add soy sauce, peanut butter, coconut milk, and tomatoes. Bring to a simmer. Return chicken to the pan and add the chopped cilantro. Reduce heat to low and simmer until the sauce thickens, 3–4 minutes.",
+        "Serve chicken over cauliflower rice and garnish with peanuts and more cilantro, if desired."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Asian",
+        "One Pot",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "360",
+        "total_fat": "21g",
+        "saturated_fat": "5.2g",
+        "trans_fat": "0g",
+        "cholesterol": "105mg",
+        "sodium": "490mg",
+        "total_carbohydrate": "17g",
+        "fiber": "4g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/peanut-chicken-cauliflower-rice"
+}

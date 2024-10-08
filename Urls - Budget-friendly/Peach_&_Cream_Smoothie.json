@@ -1,0 +1,76 @@
+{
+    "title": "Peach & Cream Smoothie",
+    "keywords": "No Cook,Cooking for 1 or 2,Beverages,Breakfast and Brunch,Budget Friendly,Dessert,Quick & Easy",
+    "prep_time": "PT0M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "No Cook",
+        "Cooking for 1 or 2",
+        "Beverages",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Dessert",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/3475_Peaches%20%26%20Cream%20Smoothie.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "Splenda®  Diabetes Care Vanilla Shake",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "frozen peaches",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "lemon (juice and zest)",
+            "us_amount": "1/2 small",
+            "metric_amount": "1/2 small"
+        },
+        {
+            "name": "pure vanilla extract",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Splenda® Original Sweetener (optional)",
+            "us_amount": "2 packet",
+            "metric_amount": "2 packet"
+        },
+        {
+            "name": "sugar-free whipped cream",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Add all ingredients into a blender and blend on high until smooth. Taste and adjust for sweetness, adding another packet of sweetener if needed (sweetness of smoothie will depend on how ripe the peaches are).",
+        "Pour evenly into 2 glasses, top with whipped cream, and enjoy immediately!"
+    ],
+    "tags": [
+        "No Cook",
+        "Cooking for 1 or 2",
+        "Beverages",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Dessert",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "95mg",
+        "total_carbohydrate": "19g",
+        "fiber": "4g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/peach-cream-smoothie"
+}

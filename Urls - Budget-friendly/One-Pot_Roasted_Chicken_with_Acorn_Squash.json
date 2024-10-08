@@ -1,0 +1,89 @@
+{
+    "title": "One-Pot Roasted Chicken with Acorn Squash",
+    "keywords": "Budget Friendly,Gluten-Free,Dinner,One Pot,Main Dish,Holidays & Entertaining",
+    "prep_time": "PT5M",
+    "cook_time": "PT55M",
+    "categories": [
+        "Budget Friendly",
+        "Gluten-Free",
+        "Dinner",
+        "One Pot",
+        "Main Dish",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/384-ChickenAcornSquashDiabetic_469739382_041218.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "thighs (4-ounce each, boneless, skinless chicken)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "dried rosemary",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "acorn squash (1-1/4 lbs)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Granny Smith or other tart apple (cored and sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "honey",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 375 degrees F.",
+        "Season the chicken with the rosemary. In a Dutch oven or oven-safe pot, heat the oil over medium-high heat. Place the chicken in the pot and sear for 3 minutes per side.",
+        "Cut the acorn squash in half lengthwise and scoop out the seeds. Cut each half into quarters; discard ends.",
+        "Place the acorn squash and apple slices around the chicken. Drizzle the honey evenly over the squash and apple slices and then sprinkle them with cinnamon. Pour the water over the chicken.",
+        "Bake for 45 minutes in the oven, uncovered. To serve, pour some of the juices over the chicken, squash, and apples."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Low Sodium",
+        "Budget Friendly",
+        "Gluten-Free",
+        "Dinner",
+        "One Pot",
+        "Main Dish",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "9g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "105mg",
+        "sodium": "70mg",
+        "total_carbohydrate": "22g",
+        "fiber": "5g",
+        "sugar": "12g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/one-pot-roasted-chicken-acorn-squash"
+}

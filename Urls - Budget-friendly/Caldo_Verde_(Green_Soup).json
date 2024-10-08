@@ -1,0 +1,95 @@
+{
+    "title": "Caldo Verde (Green Soup)",
+    "keywords": "Budget Friendly,Dinner,Lunch,One Pot,Soup",
+    "prep_time": "PT20M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "One Pot",
+        "Soup"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1708-diabetic-caldo-verde-soup_Schwartz_010419.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "lower sodium chicken sausage* (sliced into coins or half moons)",
+            "us_amount": "3/4 lbs",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "large onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Yukon gold potatoes (peeled and cut into 1/2-inch chunks)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "low-fat, reduced-sodium chicken broth",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        },
+        {
+            "name": "lucinato kale or other greens (stems discarded and roughly chopped)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "kosher salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 pinch"
+        },
+        {
+            "name": "cayenne pepper",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        }
+    ],
+    "instructions": [
+        "Heat 2 tablespoons of olive oil in a large soup pot, add the sausage and cook until it’s lightly golden all over, about 5 minutes. Using a slotted spoon, remove the sausage from the pan, transfer to a bowl and cover with aluminum foil to keep warm.",
+        "Meanwhile, add the remaining 1 tablespoon olive oil to the pan. Add the garlic and cook until it just starts to turn golden, about 2 minutes. Add the onions and cook, stirring frequently, until it’s soft and translucent, about 4 minutes. Then add the potatoes and mix well, allowing them to get hot, stirring occasionally with a wooden spoon, about 4 minutes.",
+        "Add the cooked sausage back to the pot along with the chicken stock. Cover the pot and bring the soup to a boil, then lower the heat and simmer gently until the potatoes are just cooked and fork-tender, about 15 minutes.",
+        "Add the greens and cook at a gentle simmer until the kale is bright green and wilted, about 5 minutes. If you want to prepare the soup ahead of time, hold the kale and add just 5 minutes before serving. Season with salt, black pepper, and a pinch of cayenne pepper for heat."
+    ],
+    "tags": [
+        "Latin American",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "One Pot",
+        "Soup"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "9g",
+        "saturated_fat": "1.7g",
+        "trans_fat": "0g",
+        "cholesterol": "35mg",
+        "sodium": "470mg",
+        "total_carbohydrate": "15g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/caldo-verde-green-soup"
+}

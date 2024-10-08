@@ -1,0 +1,86 @@
+{
+    "title": "Easy Chicken Panini",
+    "keywords": "Quick & Easy,Sandwiches,Lunch,Dinner,Budget Friendly",
+    "prep_time": "PT5M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Quick & Easy",
+        "Sandwiches",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1810-diabetic-chicken-panini_12-week-cookbook_DFJulAug_062119.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "light mayonnaise",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "crusty whole-wheat bread",
+            "us_amount": "8 slices (about 1 oz each)",
+            "metric_amount": "8 slices (about 1 oz each)"
+        },
+        {
+            "name": "fresh tarragon",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "reduced-fat Swiss cheese",
+            "us_amount": "4 slices (6 oz total)",
+            "metric_amount": "4 slices (6 oz total)"
+        },
+        {
+            "name": "cooked chicken breast (sliced)",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "olive oil spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Assemble the sandwiches: Spread 1 Tbsp of mayonnaise on each of 4 slices of bread. Top each with the tarragon, cheese, and chicken, dividing the ingredients evenly among the four slices. Sprinkle each with the salt and pepper, then top each sandwich with the remaining slices of bread.",
+        "Coat a nonstick skillet (large enough to hold the paninis) with olive oil spray and heat over low heat. Add the paninis and press down with a lid or another clean pan. Cook for 2 minutes, flip, and press again. Cook for another 2 minutes. (You can also use a panini press and cook until the cheese is melted and the bread is golden.)",
+        "Cut each panini in half and serve each half with salad."
+    ],
+    "tags": [
+        "Italian",
+        "Grilling",
+        "Comfort Food",
+        "Quick & Easy",
+        "Sandwiches",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "9g",
+        "saturated_fat": "3g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "330mg",
+        "total_carbohydrate": "14g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "28g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/easy-chicken-panini"
+}

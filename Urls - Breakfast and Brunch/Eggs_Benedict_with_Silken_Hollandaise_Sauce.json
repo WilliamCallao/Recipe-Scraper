@@ -1,0 +1,91 @@
+{
+    "title": "Eggs Benedict with Silken Hollandaise Sauce",
+    "keywords": "Sauces,Foodie,Breakfast and Brunch",
+    "prep_time": "PT20M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Sauces",
+        "Foodie",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1671-diabetic-Eggs-Benedict-silken-hollandaise_all-natural-diebetes-cookbook_101518_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "organic silken tofu (about 1/2 cup, undrained)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "evaporated skim milk",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "unsalted butter",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Worcestershire sauce",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cayenne pepper",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "whole-wheat English muffins (split in half and toasted)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "deli-style smoked ham (pan-grilled or oven heated)",
+            "us_amount": "6 (3/4 oz) slices",
+            "metric_amount": "6 (3/4 oz) slices"
+        },
+        {
+            "name": "eggs (Poached, see Fresh Fact)",
+            "us_amount": "6",
+            "metric_amount": "6"
+        }
+    ],
+    "instructions": [
+        "Puree the tofu, lemon juice, evaporated milk, butter, mustard, worcestershire sauce, and cayenne pepper in a blender on low speed until smooth, about 30 seconds.",
+        "Place the mixture in a small saucepan over medium-low heat. Simmer until hot, about 5 minutes.",
+        "Meanwhile, top each toasted muffin half with a ham slice, then a poached egg. Top each with about 3 tablespoons of the hot silken hollandaise sauce and serve.",
+        "Fresh Fact: To poach eggs, bring about 3 inches of water to boil in a large, shallow skillet over high heat. Turn off the heat and add eggs at once by breaking them directly into the water. Immediately cover pan with a tight-fitting lid. Allow eggs to cook undisturbed until done as desired, about 4 minutes. Remove the eggs with a perforated spatula or large slotted spoon and drain on paper towels."
+    ],
+    "tags": [
+        "French",
+        "Sauces",
+        "Foodie",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "7g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "175mg",
+        "sodium": "530mg",
+        "total_carbohydrate": "17g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/eggs-benedict-silken-hollandaise-sauce"
+}

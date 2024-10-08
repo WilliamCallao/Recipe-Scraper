@@ -1,0 +1,89 @@
+{
+    "title": "Pulled Chicken with Cilantro Lime",
+    "keywords": "Budget Friendly,Dinner,Foodie,Holidays & Entertaining,Lunch,Main Dish,Slow Cooker",
+    "prep_time": "PT20M",
+    "cook_time": "PT3H",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Slow Cooker"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/pulled-chicken-cilantro-lime.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "red onion (finely chopped)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "lime juice (fresh-squeezed, plus 2 tbsp)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salt (kosher)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "boneless, skinless chicken breasts (all fat discarded)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "low sodium chicken broth (fat-free)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "lime (wedges for serving)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "In a medium bowl, stir together the onion, lime juice, and salt. Cover with plastic wrap and set aside at room temperature for 3 to 5 hours, while the chicken cooks.",
+        "Place the chicken in a medium slow cooker. Sprinkle with the chili powder and cumin. Pour the chicken broth around the chicken. Cover and cook on low for 3 to 5 hours or until chicken reaches a temperature of 165 degrees F.",
+        "Remove the chicken from the slow cooker and using the tines of two forks, shred the chicken. Place the chicken in a bowl and toss with the onion lime mixture. Serve with lime wedges.",
+        "Electric pressure cooker variation: Prepare the onion lime mixture as above. Place the chicken in the pressure cooker. Sprinkle with chili powder and cumin. Pour the chicken broth around the chicken. Secure the lid. Cook on high pressure for 6 minutes. Allow the pressure to release naturally for 5 minutes, then quickly release the remaining pressure. Proceed as above."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Budget Friendly",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Slow Cooker"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "3g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pulled-chicken-cilantro-lime"
+}

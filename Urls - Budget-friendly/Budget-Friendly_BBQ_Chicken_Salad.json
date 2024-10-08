@@ -1,0 +1,107 @@
+{
+    "title": "Budget-Friendly BBQ Chicken Salad",
+    "keywords": "Dinner,Lunch,Budget Friendly,Salads,Main Dish",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Budget Friendly",
+        "Salads",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_112_Budget-Friendly%20BBQ%20Chicken%20Salad_PNCImages_MG_2225-158-%28ZF-5661-35964-1-111%29_02272018.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chicken breasts (boneless, skinless)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "barbeque sauce",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "turkey bacon (cooked crisp and chopped)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "carrot(s) (shredded)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "romaine lettuce (bag, chopped)",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "medium red onion ((or 1 small), small dice)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "large cucumber (small dice)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "large tomato (seeded and small dice)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "poppy seed dressing (fat-free)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 375 degrees F.",
+        "Coat a baking sheet with cooking spray. Line the sheet with chicken breasts and brush each generously with barbeque sauce. Bake for 30 minutes or until internal temperature of chicken is 165 degrees F. Set aside to cool.",
+        "In a large salad bowl, toss together bacon, carrots, lettuce, onion, cucumber, tomatoes, salt (optional), and pepper.",
+        "Once chicken is cool, chop into small pieces and toss with the salad ingredients.",
+        "Pour dressing over salad and toss gently to coat."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Lunch",
+        "Budget Friendly",
+        "Salads",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "4.5g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "55mg",
+        "sodium": "360mg",
+        "total_carbohydrate": "22g",
+        "fiber": "4g",
+        "sugar": "13g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-bbq-chicken-salad"
+}

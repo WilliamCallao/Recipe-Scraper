@@ -1,0 +1,93 @@
+{
+    "title": "Miso Glazed Cod",
+    "keywords": "Lunch,Quick & Easy,Dinner,Budget Friendly",
+    "prep_time": "PT15M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Lunch",
+        "Quick & Easy",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_369_Miso_Glazed_Cod_MG_9163-Edit-%28ZF-5661-35964-1-008%29_02282018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "white fish (such as cod, sea bass or orange roughy)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "toasted sesame oil (divided)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "powdered instant miso soup mix (powder only)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "shredded napa cabbage (shredded)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "garlic (grated or minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "snow peas (sliced)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Asian style hot sauce",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to broil. Place a rack in the middle of the oven. Coat a baking sheet with cooking spray.",
+        "Cut the fish into 4 4-oz portions and arrange on the prepared baking sheet.",
+        "In a small bowl, mix together 1 1/2 Tsp. of sesame oil and the miso soup mix powder to form a paste. Brush the tops of each of the fish fillets with the glaze (coating will be very thin). Spray each fillet with cooking spray and place baking sheet on middle rack of the oven. Broil for 6 minutes.",
+        "While the fish is broiling, add the remaining 1 1/2 Tsp. of sesame oil and more cooking spray to a wok or large saute pan over high heat. Stir fry the cabbage, garlic, snow peas and hot sauce for 4 minutes, until just wilted but still slightly crunchy.",
+        "Remove fish from baking sheet and serve on top of 3/4 cup of the stir-fried vegetables."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Seafood",
+        "Asian",
+        "Lunch",
+        "Quick & Easy",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "8g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/miso-glazed-cod"
+}

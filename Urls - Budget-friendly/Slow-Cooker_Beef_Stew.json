@@ -1,0 +1,98 @@
+{
+    "title": "Slow-Cooker Beef Stew",
+    "keywords": "Slow Cooker,Dinner,Main Dish,Budget Friendly",
+    "prep_time": "PT20M",
+    "cook_time": "PT8H",
+    "categories": [
+        "Slow Cooker",
+        "Dinner",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/029-diabetic-slow-cooker-beef-stew_AdobeStock_328039739_022521.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "flour",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "beef stew meat ( visible fat trimmed and cut into 1-inch cubes)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "low sodium beef broth",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "carrots (chopped)",
+            "us_amount": "6 large",
+            "metric_amount": "6 large"
+        },
+        {
+            "name": "white (button) mushrooms (chopped)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "sweet potatoes (peeled and cubed)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "onion(s) (diced)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "dried thyme",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Place the flour in a large resealable plastic bag. Add beef and toss to coat.",
+        "Add oil to a pan over high heat. Add beef and sauté for 6-8 minutes, turning frequently until evenly browned.",
+        "Transfer beef and all remaining ingredients to a large slow cooker.",
+        "Cover and cook in slow cooker on low for 8 hours."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Slow Cooker",
+        "Dinner",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "7g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0.2g",
+        "cholesterol": "50mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "27g",
+        "fiber": "5g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/slow-cooker-beef-stew"
+}

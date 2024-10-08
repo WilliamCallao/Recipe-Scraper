@@ -1,0 +1,84 @@
+{
+    "title": "Honey Mustard Chicken Thighs with Wild Rice",
+    "keywords": "Gluten-Free,Dinner,Main Dish,Budget Friendly",
+    "prep_time": "PT5M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Gluten-Free",
+        "Dinner",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/316-Honey-Mustard-Chicken-Thighs-Wild-Rice-Diabetic_163270454_04112018%20.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "honey Dijon mustard",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "boneless, skinless chicken thighs",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "dried thyme",
+            "us_amount": "3/4 tsp",
+            "metric_amount": "4 g"
+        },
+        {
+            "name": "cooked wild rice (prepared according to package directions)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "broccoli (steamed)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 375 degrees F. Spray baking dish with cooking spray.",
+        "In a small bowl, combine mustard, garlic and pepper.",
+        "Spread about 1 1/2 Tbsp. mustard mixture evenly on top of each chicken thigh.",
+        "Arrange chicken in a glass baking dish. Bake for 40 minutes or until mustard mixture has formed a crust and is slightly hardened.",
+        "Remove from oven and sprinkle thyme on top of chicken. Serve each chicken thigh with 1/2 cup wild rice and 1 cup steamed broccoli."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Gluten-Free",
+        "Dinner",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "280",
+        "total_fat": "8g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "105mg",
+        "sodium": "300mg",
+        "total_carbohydrate": "30g",
+        "fiber": "5g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/honey-mustard-chicken-thighs-wild-rice"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Microwave Egg and Veggie Jars",
+    "keywords": "Quick & Easy,Cooking for 1 or 2,Budget Friendly,Breakfast and Brunch",
+    "prep_time": "PT15M",
+    "cook_time": "PT2M",
+    "categories": [
+        "Quick & Easy",
+        "Cooking for 1 or 2",
+        "Budget Friendly",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-Microwave-Breakfast-Cups_DaVita_040121.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "turkey sausage",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "diced",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "onion(s) (diced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "broccoli (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "white (button) mushrooms (diced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "cheddar cheese (shredded)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "jalapeño pepper (sliced, optional)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "8 large",
+            "metric_amount": "8 large"
+        }
+    ],
+    "instructions": [
+        "Cook the turkey sausage in a small skillet until browned. Chop into crumbles while cooking.",
+        "Toss the dice bell pepper, onion, broccoli, and mushrooms together in a small bowl.",
+        "Prepare the jars by spraying the insides with cooking spray. Add 1/4 cup sausage, 1 tablespoon cheese, 1/4 cup diced vegetables mixture and 2 to 3 jalapeno pepper slices (if using) to each jar.",
+        "Cover and store the jars for up to 4 days in the refrigerator, on in the freezer for up to 3 months. If storing in the freezer, transfer the frozen jars to the fridge the night before you plan to eat them to thaw.",
+        "When ready to eat, add 2 eggs to the jar and stir well (or seal the jar and shake). Microwave for 30 seconds and stir. Repeat until eggs are set (it may take 1-1/2 to 2 minutes depending on your microwave)."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Quick & Easy",
+        "Cooking for 1 or 2",
+        "Budget Friendly",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "18g",
+        "saturated_fat": "5.5g",
+        "trans_fat": "0g",
+        "cholesterol": "430mg",
+        "sodium": "410mg",
+        "total_carbohydrate": "3g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/microwave-egg-and-veggie-jars"
+}

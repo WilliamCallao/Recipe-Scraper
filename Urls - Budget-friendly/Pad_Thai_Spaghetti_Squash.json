@@ -1,0 +1,98 @@
+{
+    "title": "Pad Thai Spaghetti Squash",
+    "keywords": "Main Dish,Lunch,Dinner,Budget Friendly",
+    "prep_time": "PT15M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/023-diabetic-Pad-Thai-Spaghetti-Squash-491621512.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "medium spaghetti squash (2.5 lbs)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "green onion (scallion) (chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "carrot(s) (finely diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "zucchini (finely diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "white (button) mushrooms (chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "ground ginger",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Pad Thai sauce (prepared )",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "shrimp (cooked, peeled and tail-off)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "cilantro (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Cut spaghetti squash in half lengthwise and remove seeds. Place squash in a microwave-safe baking dish, cut side down. Cover loosely with a lid and leave room to vent. Microwave for 10-15 minutes, rotating every 5 minutes. Squash is done when it’s soft to touch. Set aside.",
+        "Heat olive oil in a large sauté pan over medium-high heat. Add scallions, carrots, zucchini and mushrooms and sauté for 5-7 minutes. Add garlic and sauté for 30 seconds. Add ginger and Pad Thai sauce and heat for 2 minutes. Mix well.",
+        "Use a fork to scoop out spaghetti squash. Add the spaghetti squash “noodles” and shrimp to the pan with vegetables. Heat for another 2 minutes and mix well. Top with chopped cilantro."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Asian",
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "105mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "19g",
+        "fiber": "4g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pad-thai-spaghetti-squash"
+}

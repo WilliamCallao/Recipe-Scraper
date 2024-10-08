@@ -1,0 +1,109 @@
+{
+    "title": "Budget-Friendly Chicken Sausage Hash",
+    "keywords": "Main Dish,Lunch,Budget Friendly,Breakfast and Brunch,Dinner,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Main Dish",
+        "Lunch",
+        "Budget Friendly",
+        "Breakfast and Brunch",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_117_Budget-Friendly_Chicken_Sausage_Hash_PNCImages_02272018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sliced mushrooms",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "medium red bell pepper (seeded and diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "dried thyme",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "apple chicken sausage (diced)",
+            "us_amount": "3 links",
+            "metric_amount": "3 links"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sweet potatoes (roasted whole, peeled and diced)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "Add olive oil and a generous amount of cooking spray to a large sauté pan over medium high heat.",
+        "Sauté the onions, mushrooms and red bell pepper for 6-7 minutes or until starting to caramelize.",
+        "Add the thyme, crushed red pepper flakes, ground black pepper and garlic. Mix well and sauté 1-2 more minutes.",
+        "Stir in the chicken sausage and water and sauté for 3-4 more minutes, scraping the bottom of the pan to mix in any brown bits on the bottom.",
+        "Gently stir in diced, cooked sweet potatoes and serve."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Comfort Food",
+        "Main Dish",
+        "Lunch",
+        "Budget Friendly",
+        "Breakfast and Brunch",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "8g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "35mg",
+        "sodium": "290mg",
+        "total_carbohydrate": "29g",
+        "fiber": "4g",
+        "sugar": "13g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-chicken-sausage-hash"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Asian Pork Chops",
+    "keywords": "Budget Friendly,Main Dish,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Budget Friendly",
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/048-diabetic-Asian-Pork-Chops_PNC_MG_0043-Edit-%28ZF-5661-35964-1-078%29.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "soy sauce (reduced-sodium)",
+            "us_amount": "2 tablespoons plus 1 teaspoon",
+            "metric_amount": "2 tablespoons plus 1 teaspoon"
+        },
+        {
+            "name": "rice wine vinegar",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "olive oil (divided use)",
+            "us_amount": "1 tbsp plus 2 tsp",
+            "metric_amount": "1 tbsp plus 2 tsp"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "broccoli florets",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "pork loin boneless chops (divided into 4 portions)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "cilantro (chopped)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "In a medium bowl, combine the soy sauce, vinegar, water, 1 tablespoon olive oil, crushed red pepper, and garlic. Add the pork chops and marinate them in refrigerator for 20 minutes or longer.",
+        "Steam the broccoli for 5 minutes; until tender.",
+        "Add the remaining 2 tsp olive oil to a large sauté pan over medium-high heat. Add the pork chops and sear for about 5 minutes per side or until done. (Reserve marinade for later).",
+        "Place the marinade in a small saucepan. Bring it to a boil; reduce the heat and simmer about 2 minutes. Place the pork chops on serving platter and pour the cooked marinade over them.",
+        "Top the pork chops with chopped cilantro and serve with the steamed broccoli."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Asian",
+        "Budget Friendly",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "13g",
+        "saturated_fat": "3.4g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "390mg",
+        "total_carbohydrate": "5g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "23g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/asian-pork-chops"
+}

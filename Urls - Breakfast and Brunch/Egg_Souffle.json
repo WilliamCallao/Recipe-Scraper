@@ -1,0 +1,93 @@
+{
+    "title": "Egg Souffle",
+    "keywords": "Dinner,Lunch,Foodie,Breakfast and Brunch",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Foodie",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_228_Egg%20Souffle_PNCImages_02272018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh kale (chopped)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "small onion (thinly sliced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "herbs d’provence",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "cooked turkey sausage crumbles",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "egg substitute (NOTE: I used egg beaters)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "egg whites",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "cream of tartar",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 375 degrees F.",
+        "Coat a sauté pan with cooking spray over medium heat. Sauté the kale and onions until the onions are just cooked through, about 5-6 minutes. Add the salt (optional), Herbs d’Provence, and turkey sausage. Set aside to cool.",
+        "Once the vegetables and meat are cool, stir in the egg substitute and set aside.",
+        "In a clean bowl, combine the egg whites and cream of tartar. Using an electric mixer, whip the egg whites to stiff peaks.",
+        "Gently fold the egg whites into the egg and vegetable mixture, and pour it into a 2 1/2 quart round baking dish. (You can also use an 8-inch square dish. Be sure not to coat baking dish with cooking spray or the soufflé will not rise.)",
+        "Bake for 30 minutes. Cut the soufflé into four equal pieces and serve immediately.",
+        "Note: The soufflé will fall a little once removed from the oven, this is normal."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Comfort Food",
+        "French",
+        "Dinner",
+        "Lunch",
+        "Foodie",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "135",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "405mg",
+        "total_carbohydrate": "6g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/egg-souffle"
+}

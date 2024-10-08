@@ -1,0 +1,63 @@
+{
+    "title": "Slow-Cooked Whole Chicken",
+    "keywords": "Budget Friendly,One Pot,Slow Cooker",
+    "prep_time": "PT5M",
+    "cook_time": "PT8H",
+    "categories": [
+        "Budget Friendly",
+        "One Pot",
+        "Slow Cooker"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2047-diabetic-Chicken-Crock-Pot_DaVita_040821.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "whole chicken",
+            "us_amount": "1 (about 4 lbs)",
+            "metric_amount": "1 (about 4 lbs)"
+        },
+        {
+            "name": "salt-free herb seasoning, such as Ms. Dash",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Remove inside giblets from the chicken if they are included (save them for making chicken broth). Pat the chicken dry with paper towels.",
+        "In a small bowl combine seasoning blend, pepper and garlic powder. Sprinkle half the seasonings inside the chicken. Rub the remaining seasoning on the outside of the chicken.",
+        "Place the chicken breast-side-up in an oval slow cooker or neck-up in a round slow cooker. Cover and cook on low setting for 8 hours.",
+        "Remove chicken from bones and discard the skin. Serve now, or store cooked chicken in the fridge for 3-5 days."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Budget Friendly",
+        "One Pot",
+        "Slow Cooker"
+    ],
+    "nutrition": {
+        "calories": "195",
+        "total_fat": "12g",
+        "saturated_fat": "3.2g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "65mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/slow-cooked-whole-chicken"
+}

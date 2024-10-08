@@ -1,0 +1,94 @@
+{
+    "title": "Budget-Friendly Tuna Pasta Salad",
+    "keywords": "Budget Friendly,Dinner,Lunch,Quick & Easy,Sandwiches",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Sandwiches"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/tuna-pasta-salad-279x200.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "uncooked quinoa pasta",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "celery (diced)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "carrot(s) (diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "red pepper (diced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "onion(s) (diced)",
+            "us_amount": "1/4",
+            "metric_amount": "1/4"
+        },
+        {
+            "name": "green olives (diced (optional))",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "flavor fresh tuna (pouch in water)",
+            "us_amount": "11 oz",
+            "metric_amount": "311 ml"
+        },
+        {
+            "name": "Greek yogurt (fat-free, plain)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "light mayonnaise",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Cook pasta according to package directions, omitting salt. Drain pasta and rinse under cold water.",
+        "In a medium bowl combine remaining ingredients. Add pasta and toss to coat. Serve."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Seafood",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Sandwiches"
+    ],
+    "nutrition": {
+        "calories": "245",
+        "total_fat": "4g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "465mg",
+        "total_carbohydrate": "31g",
+        "fiber": "5g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-tuna-pasta-salad"
+}

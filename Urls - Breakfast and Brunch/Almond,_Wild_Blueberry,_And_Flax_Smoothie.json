@@ -1,0 +1,85 @@
+{
+    "title": "Almond, Wild Blueberry, And Flax Smoothie",
+    "keywords": "No Cook,Dessert,Breakfast and Brunch,Beverages",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "No Cook",
+        "Dessert",
+        "Breakfast and Brunch",
+        "Beverages"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/RecId_602_AlmondBlueberryAndFlaxSmoothie_WholeCooking_022618.jpg",
+        "Wild Blueberry",
+        "And Flax Smoothie\" loading=\"lazy\" />"
+    ],
+    "servings": "3 Servings",
+    "ingredients": [
+        {
+            "name": "fresh or frozen wild blueberries",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "unsweetened almond milk",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "almond flour",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ground flax seed",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "packed fresh mint leaves",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lime juice (freshly squeezed)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "raw honey",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ice",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "In a blender, combine all ingredients and purée until smooth.",
+        "Divide smoothie among 3 glasses and enjoy immediately."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "No Cook",
+        "Dessert",
+        "Breakfast and Brunch",
+        "Beverages"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "8g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "15mg",
+        "total_carbohydrate": "21g",
+        "fiber": "6g",
+        "sugar": "12g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/almond-wild-blueberry-and-flax-smoothie"
+}

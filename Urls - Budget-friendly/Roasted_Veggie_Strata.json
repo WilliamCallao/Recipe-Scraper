@@ -1,0 +1,124 @@
+{
+    "title": "Roasted Veggie Strata",
+    "keywords": "Breakfast and Brunch,Budget Friendly,Dinner,Holidays & Entertaining,Lunch,Main Dish,Vegetarian",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/jan2015-rosted-vegetable.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "white (button) mushrooms (8-ounce, sliced)",
+            "us_amount": "1 package",
+            "metric_amount": "1 package"
+        },
+        {
+            "name": "medium sweet potato (6-ounce, peeled and diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "medium onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "medium red bell pepper (seeded and diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Spike seasoning (salt-free)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "egg whites",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "mustard (dried)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "fresh sage (chopped)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "whole wheat bread (1.5 ounce each )",
+            "us_amount": "8 slice",
+            "metric_amount": "8 slice"
+        },
+        {
+            "name": "Parmesan cheese (shredded, divided)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 375 degrees F. Coat a large baking sheet with cooking spray.",
+        "Toss all of the vegetables together and spread evenly on the baking sheet. Spray the vegetables with 5-6 sprays of cooking spray and season with salt-free Spike seasoning.",
+        "Roast the vegetables for 30 minutes, then set aside to cool slightly.",
+        "Whisk together the eggs, egg whites, dried mustard, sage, salt (optional), and black pepper.",
+        "Coat a 9x13-inch casserole dish with cooking spray. Tear four pieces of the whole wheat bread into pieces and layer them on the bottom of the casserole dish. Top with 1/2 the roasted vegetables and 1/4 cup Parmesan cheese. Pour half the egg mixture over the bread, vegetables, and cheese.",
+        "Repeat the layering process with the remaining torn bread, vegetables, cheese, and egg mixture. Press down on the casserole with a spatula to ensure all of the bread soaks in the egg mixture. Let the strata sit at room temperature for 15 minutes.",
+        "Bake the strata for 30 minutes.",
+        "To serve, cut the strata down the middle lengthwise, then cut down the middle width-wise. Cut each half down the middle width-wise again to make 8 equal servings."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Italian",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "4g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "290mg",
+        "total_carbohydrate": "26g",
+        "fiber": "4g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-veggie-strata"
+}

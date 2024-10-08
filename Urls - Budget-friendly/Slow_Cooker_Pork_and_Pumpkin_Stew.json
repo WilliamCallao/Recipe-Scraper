@@ -1,0 +1,120 @@
+{
+    "title": "Slow Cooker Pork and Pumpkin Stew",
+    "keywords": "Main Dish,Budget Friendly,Dinner,Slow Cooker",
+    "prep_time": "PT15M",
+    "cook_time": "PT4H",
+    "categories": [
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner",
+        "Slow Cooker"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/494-diabetic-pork-pumpkin-stew_511324717_031119.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "pork shoulder (trimmed of all visible fat, cut into 1-inch cubes)",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "seasoning (salt-free, such as Mrs. Dash)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "tomato paste",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "beef broth (low-sodium)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "onion(s) (peeled, large dice)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "celery stalks (large dice)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "carrot(s) (peeled, large dice)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "small sugar/pie pumpkin (peeled, seeded, large dice)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "fresh thyme",
+            "us_amount": "4 sprig",
+            "metric_amount": "4 sprig"
+        },
+        {
+            "name": "bay leaves",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "black beans ((14.5-ounce) drained and rinsed)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        }
+    ],
+    "instructions": [
+        "Season the cubed pork with the pepper and salt-free seasoning.",
+        "Add the oil to a large sauté pan over high heat and brown the pork, cooking for about 8 minutes. If using a small pan, brown the pork in batches to ensure even browning.",
+        "Remove the meat from the pan and set aside. Add the tomato paste, beef broth, and cinnamon to the pan and whisk to incorporate the brown bits on the bottom of the pan. Remove the pan from the heat.",
+        "Add the browned meat, liquid, and remaining ingredients to the slow cooker and stir to combine.",
+        "Cook on high for 3 hours, 40 minutes (or low for 7 hours, 40 minutes). Stir in the beans and cook for 20 minutes more. Remove the bay leaf before serving."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Comfort Food",
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner",
+        "Slow Cooker"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "4g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "170mg",
+        "total_carbohydrate": "15g",
+        "fiber": "5g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/slow-cooker-pork-and-pumpkin-stew"
+}

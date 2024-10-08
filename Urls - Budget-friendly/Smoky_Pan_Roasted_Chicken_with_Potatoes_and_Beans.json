@@ -1,0 +1,100 @@
+{
+    "title": "Smoky Pan Roasted Chicken with Potatoes and Beans",
+    "keywords": "Quick & Easy,Main Dish,Dinner,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1692-diabetic-smoky-pan-roasted-chicken-potatoes-beans_12-week-diabetes-cookbook_DFJanFeb2018_121018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "smoked paprika",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "cumin",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "honey",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "red or yellow baby potatoes (washed and cut into 1-inch pieces)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "olive oil spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "boneless, skinless chicken thighs (visible fat removed)",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        },
+        {
+            "name": "fresh green beans (trimmed and cut into 1-inch pieces)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "fresh cilantro (chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "In a small bowl, mix the smoked paprika, cumin, and honey together to form a smooth, thick paste. Set aside.",
+        "Place the potatoes in a large saucepan. Fill the pan with enough cold water to cover the potatoes. Cover with a lid and simmer for 10 minutes.",
+        "While the potatoes are simmering, heat a large nonstick skillet over medium-high heat. Mist the skillet with olive oil spray. Add the chicken, smooth side down. Brown for 2 minutes. Flip and brown for 2 more minutes.",
+        "Spoon the honey mixture over the chicken. Cover the skillet with a lid, lower the heat to medium, and cook for 5 minutes, until the chicken reaches an internal temperature of 170° F.",
+        "While the chicken finishes cooking, add the green beans to the pan with the potatoes and continue to simmer, uncovered, for 5 minutes, or until the potatoes are cooked through.",
+        "Remove the chicken from the stove. Drain the vegetables, place them in a bowl, and toss with the olive oil, salt, and pepper. Serve the veggies with the chicken."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Quick & Easy",
+        "Main Dish",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "430",
+        "total_fat": "17g",
+        "saturated_fat": "3.7g",
+        "trans_fat": "0g",
+        "cholesterol": "155mg",
+        "sodium": "400mg",
+        "total_carbohydrate": "39g",
+        "fiber": "6g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "32g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/smoky-pan-roasted-chicken-potatoes-and-beans"
+}

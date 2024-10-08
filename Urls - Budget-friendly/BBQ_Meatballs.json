@@ -1,0 +1,112 @@
+{
+    "title": "BBQ Meatballs",
+    "keywords": "Appetizers,Holidays & Entertaining,Sides,Dinner,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Sides",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_77_BBQ_Meatballs_iStock-457291949_02262018.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lean ground turkey (93% fat-free)",
+            "us_amount": "20 oz",
+            "metric_amount": "566 ml"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "old fashioned rolled oats",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "garlic (minced or grated)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "hot sauce",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "steak seasoning (salt-free)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "barbecue sauce (reduced-sugar)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "whole berry cranberry sauce",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "low sodium chicken broth (fat-free, low-sodium)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "hot sauce (optional)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400 degrees F. Coat a baking sheet with cooking spray. Set aside.",
+        "In a large bowl, mix together the turkey, egg, oats, garlic, mustard, hot sauce, steak seasoning, and black pepper. Mix well.",
+        "Scoop meatballs the size of a heaping Tbsp. on to the baking sheet, setting them side by side so they are touching, to make 25 meatballs. Spray the tops of the meatballs with cooking spray and bake for 20 minutes or until the internal temperature is 165 degrees F.",
+        "While the meatballs are baking, whisk together the BBQ sauce, cranberry sauce, chicken broth, and hot sauce (optional). Bring to a boil. Reduce heat and simmer until thickened.",
+        "When the meatballs are done, toss them in the BBQ sauce to coat."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Kid Friendly",
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Sides",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "10g",
+        "saturated_fat": "3g",
+        "trans_fat": "0g",
+        "cholesterol": "125mg",
+        "sodium": "325mg",
+        "total_carbohydrate": "15g",
+        "fiber": "1g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/bbq-meatballs"
+}

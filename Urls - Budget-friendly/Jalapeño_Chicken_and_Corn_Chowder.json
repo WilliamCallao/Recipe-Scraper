@@ -1,0 +1,105 @@
+{
+    "title": "Jalapeño Chicken and Corn Chowder",
+    "keywords": "Budget Friendly,Dinner,Main Dish,Lunch",
+    "prep_time": "PT25M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/325-diabetic-jalapeno-chicken-corn-chowder_Diabetes-Cookbook_DFJulAug19_062019.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "medium yellow onion (peeled and chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "medium carrots (peeled and chopped)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "celery (chopped)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "medium jalapeño peppers (seeded and chopped)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "garlic (peeled and smashed)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "ears sweet corn (kernels cut off the cob (or 4 cups frozen kernels, thawed and drained))",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "no-salt seasoning (such as Mrs. Dash)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "fat-free, low-sodium chicken broth",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "cooked chicken breast (chopped)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt (non-fat)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Heat the oil in a large soup pot over medium heat. Add the onion, carrot, celery, jalapeño, garlic, and corn and sauté for 5 to 7 minutes.",
+        "Add the no-salt seasoning, black pepper, and chicken broth. Bring to boiling, then reduce the heat and simmer, covered, for 20 minutes.",
+        "Remove the pot from the heat and puree about half of the soup, using an immersion blender or an upright blender. If using an upright blender, puree in batches and be sure not to overfill the blender. Return the puree to the pot.",
+        "Add the chicken and heat through. Remove the pot from the heat.",
+        "Stir in the yogurt and serve. Do not boil the soup once the yogurt is added."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Mexican/Southwestern",
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "130mg",
+        "total_carbohydrate": "21g",
+        "fiber": "3g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/jalapeno-chicken-and-corn-chowder"
+}

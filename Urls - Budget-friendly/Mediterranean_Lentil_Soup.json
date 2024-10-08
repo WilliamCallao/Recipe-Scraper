@@ -1,0 +1,100 @@
+{
+    "title": "Mediterranean Lentil Soup",
+    "keywords": "Sides,Budget Friendly,Dinner,Lunch,Quick & Easy",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/351-Mediterranean-Lentil-Soup_466480757_04122018%20.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "canola oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "onion(s) (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Italian turkey sausage ((meat squeezed out of casing), sliced)",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "low sodium chicken broth (reduced-sodium, fat-free)",
+            "us_amount": "32 oz",
+            "metric_amount": "906 ml"
+        },
+        {
+            "name": "tomato(es) (14-ounce, diced)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "water",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "dried lentils",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "dried oregano",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "bay leaves",
+            "us_amount": "1 leaves",
+            "metric_amount": "1 leaves"
+        }
+    ],
+    "instructions": [
+        "Heat the oil in a large soup pot over medium-high heat. Add the onion and sauté for 3 minutes or until clear. Add the garlic and sauté for 30 seconds.",
+        "Add the turkey Italian sausage and cook about 8 minutes until brown. Add the remaining ingredients.",
+        "Bring the soup to a boil; reduce the heat and simmer for 15 minutes."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mediterranean",
+        "Sides",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "490mg",
+        "total_carbohydrate": "18g",
+        "fiber": "6g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mediterranean-lentil-soup"
+}

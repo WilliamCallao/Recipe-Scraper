@@ -1,0 +1,76 @@
+{
+    "title": "Oat Bran Pancakes",
+    "keywords": "Breakfast and Brunch",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2158_2.21%20Oat%20Bran%20Pancakes.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "oat bran",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "all-purpose flour",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Splenda® Granulated Sweetener",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "baking powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "baking soda",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "low-fat buttermilk",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "egg substitute",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "In a large bowl, stir together oat bran, flour, Splenda Sweetener, baking powder, baking soda, and salt.",
+        "In another bowl, whisk together buttermilk and egg substitute. Pour egg mixture over dry ingredients.; Sstir just until ingredients are blended with no large lumps of flour.",
+        "Heat a nonstick griddle or skillet over medium heat.",
+        "Pour batter, about ¼ cup at a time, onto hot griddle. Cook pancakes until puffed, browned, and slightly dry around the edges. Flip over and cook other side until golden brown."
+    ],
+    "tags": [
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "2g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "2mg",
+        "sodium": "320mg",
+        "total_carbohydrate": "23g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/oat-bran-pancakes"
+}

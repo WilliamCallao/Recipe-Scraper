@@ -1,0 +1,77 @@
+{
+    "title": "Tarragon Tomatoes",
+    "keywords": "Budget Friendly,Quick & Easy,Sides,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Budget Friendly",
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2008-diabetic-Tarragon-Tomatoes_KDBH-bookazine_012821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "light mayonnaise",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "horseradish",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "dried tarragon",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "tomato(es)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "whole-wheat bread crumbs",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "olive oil cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350°F.",
+        "In a small bowl, whisk together the mayonnaise, mustard, horseradish, and tarragon.",
+        "Cut a 1/4-inch slice from the stem end of each tomato and a very thin slice from the other end so that it has a flat bottom to prevent rolling. Place the tomatoes with the stem-end up in a pie pan. Spread the mayonnaise mixture over each tomato. Top with the bread crumbs. Lightly spray the crumbs with cooking spray.",
+        "Bake for 30 minutes, or until the tomatoes are just tender when pierced with a fork. Remove from the oven. Let stand for 5 minutes before serving."
+    ],
+    "tags": [
+        "Budget Friendly",
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "2g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "130mg",
+        "total_carbohydrate": "8g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tarragon-tomatoes"
+}

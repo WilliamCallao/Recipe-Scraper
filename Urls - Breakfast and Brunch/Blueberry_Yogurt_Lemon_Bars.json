@@ -1,0 +1,102 @@
+{
+    "title": "Blueberry Yogurt Lemon Bars",
+    "keywords": "Dessert,Breakfast and Brunch,Vegetarian,Snacks",
+    "prep_time": "PT10M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Dessert",
+        "Breakfast and Brunch",
+        "Vegetarian",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_623_BlueberryYogurtLemonBars_HibiscusCitrusBerryCooler_WholeCooking_022618.jpg",
+    "servings": "16 Servings",
+    "ingredients": [
+        {
+            "name": "Nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "unsweetened graham cracker flour",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "avocado oil",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "lemon zest (freshly grated, divided)",
+            "us_amount": "2 tsp plus 1 tbsp",
+            "metric_amount": "2 tsp plus 1 tbsp"
+        },
+        {
+            "name": "fine sea salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "whole egg",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "egg whites",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "nonfat vanilla Greek yogurt",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "maple syrup",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "lemon juice (freshly squeezed)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "fresh blueberries",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350°F.",
+        "Line an 8-inch baking dish with parchment paper, then coat it with nonstick cooking spray.",
+        "To make the crust, add graham cracker flour, avocado oil, 2 teaspoons lemon zest, and salt to the bowl of a food processor; pulse to combine. Press mixture into the bottom of the prepared pan. Bake for 10–15 minutes, or until crust is golden brown. Then remove pan from the oven and set aside to cool.",
+        "To make the filling, process the egg, egg whites, yogurt, maple syrup, lemon juice, and remaining 1 tablespoon lemon zest in a blender until smooth. Stir in the fresh blueberries. Pour the filling onto the prebaked crust.",
+        "Transfer pan to the oven and bake for 25–30 minutes, or until the center is set. Remove pan from the oven and place on a wire rack to cool completely. Cut into 16 equal-sized squares and serve chilled or at room temperature."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Comfort Food",
+        "Kid Friendly",
+        "Dessert",
+        "Breakfast and Brunch",
+        "Vegetarian",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "4g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "15mg",
+        "sodium": "105mg",
+        "total_carbohydrate": "10g",
+        "fiber": "0g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/blueberry-yogurt-lemon-bars"
+}

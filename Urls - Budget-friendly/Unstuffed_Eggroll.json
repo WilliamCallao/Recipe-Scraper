@@ -1,0 +1,97 @@
+{
+    "title": "Unstuffed Eggroll",
+    "keywords": "Easy Pantry Recipes,Dinner,Lunch,One Pot,Quick & Easy,Main Dish,Budget Friendly",
+    "prep_time": "PT5M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Dinner",
+        "Lunch",
+        "One Pot",
+        "Quick & Easy",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2017-diabetic-unstuffed-eggroll_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "lean ground pork",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "black pepper (divided use)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "packaged coleslaw mix",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "lower sodium soy sauce",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ground ginger",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "green onion (scallion) (sliced)",
+            "us_amount": "3 stalks",
+            "metric_amount": "3 stalks"
+        }
+    ],
+    "instructions": [
+        "Season pork with 1/4 teaspoon pepper and the garlic powder. Sauté pork in a large skillet over medium-high heat until completely cooked. Drain fat if needed. Remove pork from pan and set aside.",
+        "Heat olive oil in pan and add garlic; sauté 30 seconds.",
+        "Add coleslaw, soy sauce, ginger, and 1/4 teaspoon pepper. Cook 6 minutes, stirring frequently.",
+        "Add pork back to pan and top with green onions; heat 1–2 minutes.",
+        "Serve over brown rice or cauliflower rice if desired."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Asian",
+        "Easy Pantry Recipes",
+        "Dinner",
+        "Lunch",
+        "One Pot",
+        "Quick & Easy",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "9g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "490mg",
+        "total_carbohydrate": "9g",
+        "fiber": "4g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/unstuffed-eggroll"
+}

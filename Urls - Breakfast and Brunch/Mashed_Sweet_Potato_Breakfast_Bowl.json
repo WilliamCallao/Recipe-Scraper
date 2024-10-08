@@ -1,0 +1,97 @@
+{
+    "title": "Mashed Sweet Potato Breakfast Bowl",
+    "keywords": "Main Dish,Breakfast and Brunch,Dinner,Lunch",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Main Dish",
+        "Breakfast and Brunch",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2165_Mashed%20Sweet%20Potato%20Breakfast%20Bowl%20-%20Original%20Photo.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "sweet potatoes",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "old-fashioned rolled oats",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Splenda® Original Sweetener (divided)",
+            "us_amount": "6 packet",
+            "metric_amount": "6 packet"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "almond butter (no salt or no-salt-added)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pure vanilla extract",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "blueberries",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "unsweetened toasted coconut flakes",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "whole flax seeds",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400 degrees F and line a rimmed baking sheet with aluminum foil. Prick sweet potatoes with fork and place on prepared baking sheet. Bake until potatoes are fork-tender, about 35–45 minutes. Set aside to cool for 10 minutes.",
+        "Reduce oven temperature to 375 degrees F and line a rimmed baking sheet with parchment paper. In a medium bowl, mix oats, 2 packets of Splenda Sweetener, oil, and cinnamon together until combined. Spread in an even layer onto a prepared baking sheet. Bake until lightly toasted, about 10–15 minutes. Set aside and let cool completely.",
+        "Remove skin from cooled potatoes and transfer to a medium bowl. Mash potatoes, 3 packets of Splenda Sweetener, almond butter, and vanilla together until smooth.",
+        "Spoon potato mixture into bowls and top with oat mixture, blueberries, yogurt, coconut, flaxseeds, and the remaining packet of Splenda Sweetener. Serve and enjoy."
+    ],
+    "tags": [
+        "Main Dish",
+        "Breakfast and Brunch",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "6g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "6mg",
+        "sodium": "45mg",
+        "total_carbohydrate": "24g",
+        "fiber": "4g",
+        "sugar": "9g",
+        "added_sugar": "1g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mashed-sweet-potato-breakfast-bowl"
+}

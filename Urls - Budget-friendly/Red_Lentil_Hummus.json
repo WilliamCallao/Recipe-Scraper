@@ -1,0 +1,91 @@
+{
+    "title": "Red Lentil Hummus",
+    "keywords": "Budget Friendly,One Pot,Quick & Easy,Sauces,Sides",
+    "prep_time": "PT20M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Budget Friendly",
+        "One Pot",
+        "Quick & Easy",
+        "Sauces",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/DFH_Hummus-cropped.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "water",
+            "us_amount": "1 1/3 cup",
+            "metric_amount": "315 ml"
+        },
+        {
+            "name": "red lentils (dried)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "tahini",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "In a small saucepan combine water and dried red lentils and bring to a boil over medium-high heat.",
+        "Reduce heat to low and simmer, covered, stirring occasionally, about 30 minutes or until lentils have split and become soft. Cool and transfer to a food processor.",
+        "Add olive oil, tahini, lemon juice, minced garlic, cumin, salt and black pepper and process 30 to 60 seconds or until smooth, stopping to scrape down sides as needed.",
+        "Transfer to an air-tight container and store in the refrigerator up to 5 days until serving time."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Mediterranean",
+        "Budget Friendly",
+        "One Pot",
+        "Quick & Easy",
+        "Sauces",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "3g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "75mg",
+        "total_carbohydrate": "5g",
+        "fiber": "2g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/red-lentil-hummus"
+}

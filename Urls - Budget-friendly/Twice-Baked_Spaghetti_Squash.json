@@ -1,0 +1,80 @@
+{
+    "title": "Twice-Baked Spaghetti Squash",
+    "keywords": "Dinner,Sides,Budget Friendly",
+    "prep_time": "PT15M",
+    "cook_time": "PT70M",
+    "categories": [
+        "Dinner",
+        "Sides",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/ThinkstockPhotos-135725598.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "small spaghetti squash (1.5-lb each)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "precooked Italian chicken sausage (3-oz links, diced)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "jarred marinara sauce (low-sodium)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "fresh oregano (chopped)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Parmesan cheese (shredded, divided)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 375 degrees F. Coat a sheet pan with cooking spray. Cut the squash in half lengthwise and place face down on the sheet pan. Bake for 45 minutes.",
+        "Remove the seeds from the squash and scrape the flesh away from the skin with a fork to make strands, keeping the squash shell intact. Place each squash shell cut side up on the sheet pan.",
+        "Add the squash strands to a large bowl. Add the sausage, marinara sauce, black pepper, and oregano and toss until combined. Divide the mixture evenly among the squash shells.",
+        "Top each squash half with 2 Tbsp. shredded Parmesan cheese. Bake for 25 minutes, until golden brown. Cut each squash shell in half to serve."
+    ],
+    "tags": [
+        "Dinner",
+        "Sides",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "4.5g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "35mg",
+        "sodium": "315mg",
+        "total_carbohydrate": "16g",
+        "fiber": "2g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/twice-baked-spaghetti-squash"
+}

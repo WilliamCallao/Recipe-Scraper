@@ -1,0 +1,100 @@
+{
+    "title": "Pumpkin Quiche with Quinoa Crust",
+    "keywords": "Vegetarian,Foodie,Holidays & Entertaining,Breakfast and Brunch",
+    "prep_time": "PT1H",
+    "cook_time": "PT1H",
+    "categories": [
+        "Vegetarian",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/421-diabetic-pumpkin-quiche-quinoa-crust_100418_1021x779.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cooked quinoa",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "cream cheese (reduced-fat, softened)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "egg white",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "1% milk",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "large eggs",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "fresh thyme (chopped)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground nutmeg",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "canned pumpkin purée",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400 degrees F. Coat an 8-inch baking pan with cooking spray. Set aside.",
+        "To prepare the crust, mix together the cooked quinoa, cream cheese, and egg white in a medium bowl until thoroughly combined. Cover and refrigerate for 1 hour.",
+        "Press the quinoa crust mixture into the bottom and up the sides of the pie pan. Bake the crust for 10 minutes, remove from oven and set aside. Turn the oven down to 350 degrees F.",
+        "In a large bowl, whisk together the remaining ingredients to create the quiche filling. Whisk until well blended and frothy.",
+        "Gently pour the pumpkin mixture into the partially-cooked quinoa crust. Bake for 45-50 minutes or until set."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Comfort Food",
+        "Vegetarian",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "105",
+        "total_fat": "3g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "125mg",
+        "total_carbohydrate": "14g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pumpkin-quiche-quinoa-crust"
+}

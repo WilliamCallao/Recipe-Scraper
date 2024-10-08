@@ -1,0 +1,95 @@
+{
+    "title": "Slow-Cooker Hawaiian Pork Tacos",
+    "keywords": "Slow Cooker,Dinner,Quick & Easy,Gluten-Free,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT8H",
+    "categories": [
+        "Slow Cooker",
+        "Dinner",
+        "Quick & Easy",
+        "Gluten-Free",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/030-diabetic-slow-cooker-pulled-pork-tacos_AdobeStock_366709003_022621.jpg",
+    "servings": "11 Servings",
+    "ingredients": [
+        {
+            "name": "lean, boneless pork shoulder/Boston butt roast",
+            "us_amount": "3 3/4 lbs",
+            "metric_amount": "1 l 701 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ground ginger",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cumin",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "onion(s) (sliced)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "pineapple juice",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "white wine",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "small high-fiber tortillas (warmed)",
+            "us_amount": "11 whole",
+            "metric_amount": "11 whole"
+        },
+        {
+            "name": "shredded lettuce",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Place pork shoulder/Boston butt roast in a slow-cooker. Sprinkle meat with pepper, ginger and cumin. Add onion and garlic on top of roast. Pour pineapple juice and wine over roast.",
+        "Cover and cook on high for 4-6 hours (or on low for 7-8 hours). Drain liquid and shred pork with fork.",
+        "Scoop about 1/2 cup pork into each tortilla. Top each taco with shredded lettuce and any additional toppings of your choice."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Mexican/Southwestern",
+        "Slow Cooker",
+        "Dinner",
+        "Quick & Easy",
+        "Gluten-Free",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "280",
+        "total_fat": "8g",
+        "saturated_fat": "2.7g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "330mg",
+        "total_carbohydrate": "17g",
+        "fiber": "9g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "40g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/slow-cooker-hawaiian-pork-tacos"
+}

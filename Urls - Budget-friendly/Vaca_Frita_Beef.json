@@ -1,0 +1,112 @@
+{
+    "title": "Vaca Frita Beef",
+    "keywords": "Budget Friendly,Dinner,Lunch,Main Dish",
+    "prep_time": "PT10M",
+    "cook_time": "PT1H30M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1752-espanol-diabetic-vaca-frita_latin-comfort-foods_13020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "flank steak (cut into 4 equal pieces)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "medium onion (cut into quarters)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "bay leaf",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "water",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "olive oil (divided use)",
+            "us_amount": "1 tbsp plus 1 tsp",
+            "metric_amount": "1 tbsp plus 1 tsp"
+        },
+        {
+            "name": "large onion (thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lime juice",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lime wedges",
+            "us_amount": "for garnish",
+            "metric_amount": "for garnish"
+        },
+        {
+            "name": "chopped fresh cilantro",
+            "us_amount": "for garnish",
+            "metric_amount": "for garnish"
+        }
+    ],
+    "instructions": [
+        "In a large saucepan, combine the beef, quartered onion, bay leaf, and water. Bring to a simmer. Reduce the heat to medium low. Cover and simmer until the beef is tender, about 1 hour 10 minutes. Transfer the beef to a cutting board and let cool. To save the broth for another use, skim any fat and strain the broth, discarding the bay leaf. Refrigerate for up to 1 week or freeze for up to 1 month.",
+        "Heat 1 Tbsp oil in a large skillet over medium heat Add the sliced onion and cook, over medium heat, stirring occasionally, until the onion is very tender and begins to caramelize, about 10 minutes.",
+        "Meanwhile, with two forks, shred the beef and transfer to a large bowl. Add the lime juice, garlic, remaining 1 tsp oil, salt, and pepper. Let stand 20 minutes.",
+        "Spray a griddle or nonstick skillet with nonstick spray and heat over mediumhigh heat. Add the beef and caramelized onion and cook, turning occasionally, until the beef and onions are browned, about 8 minutes. Serve garnished with lime wedges and cilantro."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Latin American",
+        "Mexican/Southwestern",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "11g",
+        "saturated_fat": "3.1g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "6g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "23g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/vaca-frita-beef"
+}

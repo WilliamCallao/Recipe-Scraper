@@ -1,0 +1,72 @@
+{
+    "title": "Crunchy Coleslaw Turkey Sandwich",
+    "keywords": "Sandwiches,Quick & Easy,Budget Friendly,Cooking for 1 or 2,Lunch,No Cook",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sandwiches",
+        "Quick & Easy",
+        "Budget Friendly",
+        "Cooking for 1 or 2",
+        "Lunch",
+        "No Cook"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1843-diabetic-coleslaw-turkey-sandwich_mix-and-match-meals_shutterstock1009797748_102519.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "whole wheat bread",
+            "us_amount": "4 slices",
+            "metric_amount": "4 slices"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        },
+        {
+            "name": "no-sugar-added salsa",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Prepared or deli coleslaw",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "turkey breast (sliced)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        }
+    ],
+    "instructions": [
+        "Place half of the turkey on each of two slices of bread. Spoon coleslaw on top of turkey, then top each sandwich with the remaining bread slices. Serve with extra coleslaw on the side.",
+        "Toss drained coleslaw with salsa and add black pepper to taste.",
+        "Drain coleslaw in a colander."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Kid Friendly",
+        "Sandwiches",
+        "Quick & Easy",
+        "Budget Friendly",
+        "Cooking for 1 or 2",
+        "Lunch",
+        "No Cook"
+    ],
+    "nutrition": {
+        "calories": "350",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "470mg",
+        "total_carbohydrate": "33g",
+        "fiber": "5g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "40g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crunchy-coleslaw-turkey-sandwich"
+}

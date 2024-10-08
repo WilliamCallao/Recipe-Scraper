@@ -1,0 +1,120 @@
+{
+    "title": "Turkey and Veggie Chili",
+    "keywords": "Easy Pantry Recipes,Dinner,Gluten-Free,Lunch,Budget Friendly,One Pot,Main Dish",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Budget Friendly",
+        "One Pot",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/561-diabetic-turkey-veggie-chili_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "small onion (diced )",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "medium carrots (diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "medium zucchini (diced )",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lean ground turkey",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "canned diced tomatoes",
+            "us_amount": "1 (14.5-oz) can",
+            "metric_amount": "1 (14.5-oz) can"
+        },
+        {
+            "name": "canned crushed tomatoes",
+            "us_amount": "1 (28-oz) can",
+            "metric_amount": "1 (28-oz) can"
+        },
+        {
+            "name": "Great Northern beans (rinsed and drained)",
+            "us_amount": "1 (15.8-oz) can",
+            "metric_amount": "1 (15.8-oz) can"
+        },
+        {
+            "name": "kidney beans (rinsed and drained)",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cumin",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Spray a large soup pot with cooking spray. Add the onions, carrots, and zucchini, and sauté over medium-high heat for 3-4 minutes or until the onions turn clear. Add the garlic and sauté 30 more seconds.",
+        "Add the ground turkey and cook until brown. Add the remaining ingredients; mix well and bring the chili to a boil. Reduce the heat and simmer for 15-20 minutes."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Comfort Food",
+        "Mexican/Southwestern",
+        "Easy Pantry Recipes",
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Budget Friendly",
+        "One Pot",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "5g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0.1g",
+        "cholesterol": "45mg",
+        "sodium": "170mg",
+        "total_carbohydrate": "27g",
+        "fiber": "8g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/turkey-and-veggie-chili"
+}

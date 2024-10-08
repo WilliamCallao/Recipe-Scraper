@@ -1,0 +1,125 @@
+{
+    "title": "Whole Grain Chicken Pot Pie",
+    "keywords": "Main Dish,Dinner,Budget Friendly",
+    "prep_time": "PT45M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Main Dish",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/584-diabetic-whole-grain-pot-pie_AS_41652304_100219.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "whole wheat flour",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "baking powder",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        },
+        {
+            "name": "cold margarine (trans-fat-free)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "parsley (dried)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "skim milk",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "carrot(s) (diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "celery stalks (diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "large onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "white (button) mushrooms (sliced)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "cooked chicken (chopped)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "flour",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "skim milk",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 375 degrees F. Coat a 9x13-inch baking dish with cooking spray and set aside.",
+        "In a large bowl, sift together the whole wheat flour and baking powder. Cut in the margarine and then add the parsley and milk, and gently stir to combine. Refrigerate until needed.",
+        "Add the olive oil and a generous amount of cooking spray to a large nonstick sauté pan over medium-high heat. Add the carrots, celery, onion and mushrooms. Sauté for 10 minutes or until the vegetables are soft but not mushy.",
+        "Stir in the cooked chicken.",
+        "In a small bowl, whisk together the flour, skim milk, salt and ground black pepper. Add to the vegetable mixture and bring to a boil. Reduce to a simmer for 2 minutes. Remove from heat.",
+        "Pour the chicken and vegetable mixture into the baking dish. Drop clumps of the whole wheat crust mixture on top of the chicken and vegetable mixture (the topping will be very sticky). Use a spoon to gently spread the topping.",
+        "Bake for 20 minutes and serve."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Comfort Food",
+        "Main Dish",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "290",
+        "total_fat": "9g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "395mg",
+        "total_carbohydrate": "33g",
+        "fiber": "5g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/whole-grain-chicken-pot-pie"
+}

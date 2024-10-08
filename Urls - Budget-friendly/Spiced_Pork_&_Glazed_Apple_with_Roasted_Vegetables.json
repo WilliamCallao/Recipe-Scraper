@@ -1,0 +1,96 @@
+{
+    "title": "Spiced Pork & Glazed Apple with Roasted Vegetables",
+    "keywords": "Meal Kit Recipes,Main Dish,Foodie,Dinner,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Meal Kit Recipes",
+        "Main Dish",
+        "Foodie",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1918-diabetic-spiced-pork-glazed-apple-roasted-vegetables_Blue-Apron_21921.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "lean boneless pork sirloin roast",
+            "us_amount": "1 (12-oz)",
+            "metric_amount": "1 (12-oz)"
+        },
+        {
+            "name": "(mix of white pepper, nutmeg, ginger, and cloves)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "red onion",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "purple top turnip",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh Brussels sprouts",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "carrots",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "apple",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "vegetable demi-glace",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "salt and pepper to taste (optional)",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        }
+    ],
+    "instructions": [
+        "Prepare & sear the pork: Place an oven rack in the center of the oven, then preheat to 450°F. Pat the pork dry with paper towels; season on all sides with salt (optional), pepper, and the quatre épices. In a medium pan, heat 1/2 teaspoon of olive oil on medium-high until hot. Add the seasoned pork. Cook, turning occasionally, 4 to 6 minutes, or until browned on all sides. Leaving any browned bits (or fond) in the pan, transfer to the center of a sheet pan.",
+        "Prepare the vegetables: Meanwhile, wash and dry the fresh produce. Halve and peel the onion; cut into 1/2-inch-wide wedges, keeping the layers intact. Medium dice the turnip. Cut off and discard the stem ends of the brussels sprouts; halve lengthwise. Peel the carrots; cut crosswise into 1-inch pieces. Place the prepared vegetables in a large bowl. Drizzle with 1/2 teaspoon of olive oil and season with salt (optional) and pepper; toss to coat. Transfer to the sheet pan of seared pork and arrange in an even layer around the edges.",
+        "Roast the pork & vegetables: Roast the seared pork and prepared vegetables 22 to 24 minutes, or until the vegetables are browned and tender when pierced with a fork and the pork is cooked through. (An instant-read thermometer should register 145°F.) Remove from the oven. Transfer the roasted pork to a cutting board and let rest at least 5 minutes.",
+        "Prepare, cook & glaze the apple: Meanwhile, core and medium dice the apple. Once the pork and vegetables have roasted about 20 minutes, in the pan of reserved fond, heat 1/2 teaspoon of olive oil on medium-high until hot. Add the diced apple; season with salt (optional) and pepper. Cook, stirring frequently, 6 to 8 minutes, or until softened. Add the demi-glace (carefully, as the liquid may splatter). Cook, stirring frequently and scraping up any fond, 30 seconds to 1 minute, or until combined. Turn off the heat.",
+        "Slice the pork & serve your dish: Find the lines of muscle (or grain) on the rested pork; thinly slice crosswise against the grain. Serve the sliced pork with the roasted vegetables. Top the pork with the glazed apple. Enjoy!"
+    ],
+    "tags": [
+        "Mediterranean",
+        "Meal Kit Recipes",
+        "Main Dish",
+        "Foodie",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "400",
+        "total_fat": "11g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "105mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "36g",
+        "fiber": "9g",
+        "sugar": "20g",
+        "added_sugar": "0g",
+        "protein": "42g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spiced-pork-glazed-apple-roasted-vegetables"
+}

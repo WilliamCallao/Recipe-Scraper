@@ -1,0 +1,81 @@
+{
+    "title": "Asparagus and Bok Choy Frittata",
+    "keywords": "Breakfast and Brunch,Budget Friendly,Main Dish,One Pot",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Main Dish",
+        "One Pot"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Asparagus%20and%20Bok%20Choy%20Frittata%20diabetic.png",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "asparagus (chopped into bite-size pieces)",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        },
+        {
+            "name": "baby bok choy (chopped)",
+            "us_amount": "head",
+            "metric_amount": "head"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "mozzarella cheese (shredded)",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat a large ovenproof skillet over medium heat.",
+        "Add oil, asparagus, bok choy, salt, and pepper to the skillet. Cook, stirring occasionally, until veggies soften, 2–3 minutes.",
+        "Crack the eggs into a large bowl and whisk to combine.",
+        "Preheat the oven to broil.",
+        "Reduce heat to low and pour the egg mixture into the skillet. Gently lift the cooked eggs around the edge with a spatula until the sides are firm but the top is still runny, 3–4 minutes.",
+        "Sprinkle cheese over the frittata. Place the skillet in the oven and broil until the top is set and the cheese is melted, 1–2 minutes. Slice into six equal pieces."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Italian",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Main Dish",
+        "One Pot"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "16g",
+        "saturated_fat": "5.1g",
+        "trans_fat": "0g",
+        "cholesterol": "380mg",
+        "sodium": "480mg",
+        "total_carbohydrate": "5g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/asparagus-and-bok-choy-frittata"
+}

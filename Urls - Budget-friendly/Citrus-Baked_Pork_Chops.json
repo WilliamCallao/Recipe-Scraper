@@ -1,0 +1,86 @@
+{
+    "title": "Citrus-Baked Pork Chops",
+    "keywords": "Budget Friendly,Dinner,Main Dish",
+    "prep_time": "PT10M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_660_Budget-Friendly%20Citrus_Baked_Pork_Chops_BudgetFriendlyCookbook_022518.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "pork chops (lean, center-cut)",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "lemon pepper (salt-free)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lemon (cut into six round slices)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ketchup ((preferably no-sugar))",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "hot pepper sauce",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Dash salt",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 375°F.",
+        "Sprinkle meat with the lemon pepper.",
+        "Heat the oil in a heavy frying pan and brown the chops on both sides.",
+        "Drain fat and arrange in a baking dish. Place a slice of lemon on each chop.",
+        "Combine ketchup, water, and pepper sauce, pour over chops.",
+        "Bake until tender but no longer pink, about 50 minutes."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Caribbean",
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "11g",
+        "saturated_fat": "3.1g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "305mg",
+        "total_carbohydrate": "5g",
+        "fiber": "0g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/citrus-baked-pork-chops"
+}

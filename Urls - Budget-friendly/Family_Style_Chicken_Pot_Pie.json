@@ -1,0 +1,126 @@
+{
+    "title": "Family Style Chicken Pot Pie",
+    "keywords": "Main Dish,Budget Friendly,Dinner",
+    "prep_time": "PT35M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recipe%20Size%20%282%29.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "whole wheat flour (for the crust)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Kosher Salt (for the crust)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ice water (for the crust)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "vegan buttery stick (cubed and chilled, for the crust)",
+            "us_amount": "4 1/2 tbsp",
+            "metric_amount": "67 ml"
+        },
+        {
+            "name": "eggs (plus 1 tsp water, for the crust)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "boneless, skinless chicken breasts",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "carrots (peeled and chopped)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "celery (sliced)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "yellow onion (chopped)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "parsnips (peeled and chopped)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "low sodium chicken broth",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "fresh sage (minced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "fresh thyme (minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "For the crust: Mix the flour and salt together in a bowl. Add the fat and cut into the flour using two knives until pea sized in shape. Gently mix in 4 tbsp ice water. If needed, add a tbsp more water at a time until the dough just comes together but is not sticky. Wrap the dough in plastic wrap and flatten into a disk. Chill for at least 30 minutes.",
+        "Add the chicken to a large pot and cover with water. Season with pepper and bring to a boil. Cover and reduce to a simmer. Cook until an internal temp of 165 F is reached with a food thermometer, about 15 minutes. Transfer the breasts from the pot to a bowl and shred using two forks.",
+        "For the filling: Preheat the oven to 400 F. Heat the oil in a large pot over medium heat. Add the carrots, celery, onions and parsnips. Heat until softened and lightly browned. If the pan gets too dry while the vegetables cook then add water as needed.",
+        "Add the garlic and heat until fragrant, about 1 minute. Add the stock and water. Increase heat to high and bring to a boil. Reduce heat and simmer for 10 minutes.",
+        "Turn off heat and transfer 2 1/2 cups of the mixture to a blender. Blend until smooth and return to the pan. Add the chicken and herbs. Mix until everything is fully incorporated. Season with pepper.",
+        "Transfer to a deep pie dish. Remove the crust from the fridge. Whisk the egg and water together to create an egg wash.",
+        "On a lightly floured surface, roll out the dough to a 10-inch circle. Use festive cookie cutters to make 3 small or 1 large cutout towards the center of the dough. Use a small drop of egg wash to glue the shapes to the top of the dough.",
+        "Top the filling with the crust and crimp the edges to seal. Brush the top with egg wash and bake for 20-25 minutes or until the crust is golden brown."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Comfort Food",
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "407",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "418mg",
+        "total_carbohydrate": "34g",
+        "fiber": "6.5g",
+        "sugar": "0g",
+        "added_sugar": "0.5g",
+        "protein": "33g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/family-style-chicken-pot-pie"
+}

@@ -1,0 +1,110 @@
+{
+    "title": "Sloppy Janes",
+    "keywords": "Sandwiches,Budget Friendly,Dinner,Lunch,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Sandwiches",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/028-diabetic-sloppy-joe_AdobeStock_414452712_022521.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "onion(s) (diced)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "red bell pepper (seeded and diced)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "lean ground turkey",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "tomato paste",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "hot sauce",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "canned crushed tomatoes",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "honey (or 2 packets artificial sweetener)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "whole wheat hamburger buns",
+            "us_amount": "8 whole",
+            "metric_amount": "8 whole"
+        }
+    ],
+    "instructions": [
+        "Add cooking spray to a nonstick sauté pan over medium-high heat.",
+        "Add onion, red bell pepper and garlic. Sauté for 5 minutes, stirring frequently.",
+        "Add turkey and sauté 5-7 minutes, stirring frequently until turkey is just cooked through.",
+        "Add tomato paste, Dijon mustard, hot sauce, tomatoes, honey and ground black pepper. Bring to a simmer for 5 minutes, stirring frequently.",
+        "Toast the hamburger buns. Fill each bun with 1/2 cup turkey mixture to make 8 sandwiches. Optional: top each sandwich with lettuce, red onion, or pickles for crunch."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "High in Fiber",
+        "Kid Friendly",
+        "Sandwiches",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "7g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0.1g",
+        "cholesterol": "45mg",
+        "sodium": "390mg",
+        "total_carbohydrate": "31g",
+        "fiber": "5g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sloppy-janes"
+}

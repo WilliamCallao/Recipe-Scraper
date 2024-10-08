@@ -1,0 +1,71 @@
+{
+    "title": "Spinach Salad with Chicken and Avocado",
+    "keywords": "Salads,Dinner,Lunch,Budget Friendly",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Dinner",
+        "Lunch",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/519-diabetic-spinach-salad-chicken-avocado-ranch_AdobeStock192080252_021921.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "baby spinach",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "small avocado (pitted and cut into thin slices)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "roma (plum) tomatoes (diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "diced cooked chicken breast",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "sunflower seeds",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "light ranch dressing",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        }
+    ],
+    "instructions": [
+        "In a large salad bowl, combine the spinach, avocado, tomatoes, chicken, and sunflower seeds. Add the dressing and toss to coat evenly. Or, if preparing ahead of time, divide the salad between four containers. Add 1 1/2 tbsp of dressing just before eating."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Salads",
+        "Dinner",
+        "Lunch",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "15g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "35mg",
+        "sodium": "310mg",
+        "total_carbohydrate": "11g",
+        "fiber": "5g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spinach-salad-chicken-and-avocado"
+}

@@ -1,0 +1,89 @@
+{
+    "title": "Farmers’ Market Omelets",
+    "keywords": "Quick & Easy,Breakfast and Brunch",
+    "prep_time": "PT5M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Quick & Easy",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_693_Farmers_Market_Omlette_DiabetesHeartHealthy_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "canola or corn oil (divided use)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "grape tomatoes (halved)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "baby spinach",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "large egg whites",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "large eggs",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "milk (fat-free)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "medium green onions (chopped)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "fresh basil (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "feta cheese (fat-free, crumbled)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        }
+    ],
+    "instructions": [
+        "In a medium nonstick skillet, heat 2 teaspoons oil over medium heat, swirling to coat the bottom. Cook the tomatoes and spinach for 2–3 minutes, or until the tomatoes are slightly softened, stirring constantly. Transfer the mixture to a plate. Cover to keep warm. Set aside. Wipe the skillet with paper towels.",
+        "In a small bowl, using a fork, lightly beat together the egg whites, eggs, and milk. Stir in the green onions.",
+        "In the same skillet, still over medium heat, heat 1 teaspoon oil, swirling to coat the bottom. Pour half the egg white mixture into the skillet, swirling to coat the bottom. Cook for 30 seconds, or until beginning to set. Using a spatula, carefully lift the cooked edge of the omelet and tilt the skillet so the uncooked portion flows under the edge. Cook until no runniness remains, repeating the lift-and-tilt procedure once or twice at other places along the edge if needed.",
+        "With the skillet still on the burner, spread half the tomato mixture over half the omelet. Sprinkle, in order, with half the basil and half the feta. Remove from the heat. Using a spatula, carefully fold the half with no filling over the other half. Cut the omelet in half crosswise. Gently slide onto plates. Cover to keep warm.",
+        "Using the remaining ingredients, including the final 1 teaspoon oil, make and fill a second omelet."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Mediterranean",
+        "Quick & Easy",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "6g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "100mg",
+        "sodium": "290mg",
+        "total_carbohydrate": "6g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/farmers-market-omelets"
+}

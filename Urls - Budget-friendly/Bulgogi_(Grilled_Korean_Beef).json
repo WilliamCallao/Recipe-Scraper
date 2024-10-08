@@ -1,0 +1,89 @@
+{
+    "title": "Bulgogi (Grilled Korean Beef)",
+    "keywords": "Budget Friendly,Dinner,Main Dish",
+    "prep_time": "PT35M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/137-diabetic-bulgogi-grilled-korean-beef_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "lean boneless beef tenderloin",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "green onion (scallion) ((white and green parts), chopped)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "rice wine vinegar",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "water",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lower sodium soy sauce",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "honey or 2 packets sugar substitute",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "frozen stir-fry vegetables",
+            "us_amount": "1 (16-oz) bag",
+            "metric_amount": "1 (16-oz) bag"
+        }
+    ],
+    "instructions": [
+        "Wrap the beef in plastic wrap and freeze until firm (but not rock hard). Once firm, slice the beef thinly into long strips. Place in a baking dish.",
+        "In a small bowl, whisk together the scallions, garlic, rice wine vinegar, water, soy sauce, sweetener (honey or sugar substitute), and pepper. Pour the mixture over the beef and let it marinate in the refrigerator for at least 30 minutes, up to 2 hours. While the beef is marinating, preheat an indoor or outdoor grill.",
+        "Remove the beef from the marinade and shake off any excess marinade. Grill beef for 2-3 minutes on each side or until it is cooked to a medium-well doneness.",
+        "Steam the vegetables and serve the beef over the steamed vegetables."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Asian",
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "4.5g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "13g",
+        "fiber": "3g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/bulgogi-grilled-korean-beef"
+}

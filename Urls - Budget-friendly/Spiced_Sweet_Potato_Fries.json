@@ -1,0 +1,71 @@
+{
+    "title": "Spiced Sweet Potato Fries",
+    "keywords": "Budget Friendly,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Budget Friendly",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_853_Budget-Friendly%20Spiced_Sweet_Potato_Fries_BudgetFriendlyCookbook_022518.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray (Nonstick)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "medium sweet potatoes (washed and peeled)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ground ginger",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 425°F.",
+        "Spray baking sheet with nonstick cooking spray.",
+        "Cut sweet potatoes into thick strips or wedges and put in a gallon-size Ziploc bag.",
+        "Add the olive oil and shake until the sweet potato pieces are coated. Place the uncooked “fries” on the prepared baking sheet in a single layer.",
+        "Mix the spices in a small bowl. Sprinkle the spice mix over the sweet potatoes.",
+        "Bake for 45 minutes to an hour."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Budget Friendly",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "40mg",
+        "total_carbohydrate": "16g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spiced-sweet-potato-fries"
+}

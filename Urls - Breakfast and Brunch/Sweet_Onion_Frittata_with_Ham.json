@@ -1,0 +1,64 @@
+{
+    "title": "Sweet Onion Frittata with Ham",
+    "keywords": "Breakfast and Brunch,Vegetarian,Quick & Easy,Lunch",
+    "prep_time": "PT15M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Vegetarian",
+        "Quick & Easy",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_254119570.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "deli ham (low-sodium, extra lean, chopped)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "sweet onion (thinly sliced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "egg substitute",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "cheddar cheese (reduced-fat, sharp shredded)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Place a medium nonstick skillet over medium-high heat until hot. Coat the skillet with nonstick cooking spray, add ham, and cook until beginning to lightly brown, about 2-3 minutes, stirring frequently. Remove from skillet and set aside on separate plate.",
+        "Reduce the heat to medium, coat the skillet with nonstick cooking spray, add onions, and cook 4 minutes or until beginning to turn golden, stirring frequently.",
+        "Reduce the heat to medium low, add ham to the onions, and cook 1 minute (this allows the flavors to blend and the skillet to cool slightly before the eggs are added). Pour egg substitute evenly over all, cover and cook 8 minutes or until puffy and set.",
+        "Remove the skillet from the heat, sprinkle cheese evenly over all, cover and let stand 3 minutes to melt the cheese and develop flavors."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Italian",
+        "Breakfast and Brunch",
+        "Vegetarian",
+        "Quick & Easy",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "2g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "460mg",
+        "total_carbohydrate": "6g",
+        "fiber": "0g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-onion-frittata-ham"
+}

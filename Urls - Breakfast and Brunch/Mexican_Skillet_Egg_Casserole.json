@@ -1,0 +1,82 @@
+{
+    "title": "Mexican Skillet Egg Casserole",
+    "keywords": "Quick & Easy,Breakfast and Brunch",
+    "prep_time": "PT5M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Quick & Easy",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_768_2Step_MexicanSkilletEggCasserole_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "canola oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "egg substitute",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "canned green chiles (4.5 oz, chopped, drained)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "cheddar cheese (shredded, reduced-fat, sharp)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "black olives (2.25 oz, sliced, drained)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "tomato(es) (diced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ripe medium avocado (peeled, pitted, and chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh cilantro (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Heat the oil in a medium nonstick skillet over medium heat. Add the eggs, cook 1 minute, and gently stir until just set (Note: eggs will still be very wet). Remove from heat.",
+        "Top with the remaining ingredient in the order given. Cover and cook over medium-low heat 2–3 minutes or until cheese melts."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Quick & Easy",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "9g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "355mg",
+        "total_carbohydrate": "9g",
+        "fiber": "4g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mexican-skillet-egg-casserole"
+}

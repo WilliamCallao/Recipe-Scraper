@@ -1,0 +1,95 @@
+{
+    "title": "Blanco Huevos Rancheros",
+    "keywords": "Breakfast and Brunch,Vegetarian,Dinner,Cooking for 1 or 2,Lunch",
+    "prep_time": "Desconocido",
+    "cook_time": "PT15M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Vegetarian",
+        "Dinner",
+        "Cooking for 1 or 2",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/008-diabetic-breakfast-Blanco-Huevos-Rancheros_all-natural-diabetes-cookbook.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "plain fat-free Greek yogurt or organic low-fat sour cream",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "tomatillo sauce (commercially made (salsa verde))",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Hass avocado (peeled and diced (about 1/2 cup))",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "black pepper (freshly ground, to taste)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sea salt (or to taste)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pepper Jack (shredded)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "egg whites (large, or 1 cup 100% egg white substitute)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "corn tortillas (5-inch)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "small jalapeno pepper (minced, without seeds)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cilantro (fresh, chopped)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 475 degrees F. Lightly coat both sides of the corn tortillas with natural butter-flavored cooking spray and place on a baking sheet. Bake 4 minutes per side or until crisp and lightly browned. Remove from the oven and let cool on the baking sheet.",
+        "Meanwhile, place a large nonstick skillet over medium heat. Add the egg whites and scramble for 5 minutes or until done. Immediately stir in salt, pepper, and cheese.",
+        "Place a scoop of cheesy egg whites on top of each crisp tortilla. Top each with avocado, tomatillo sauce, yogurt, jalapeno, and cilantro."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Breakfast and Brunch",
+        "Vegetarian",
+        "Dinner",
+        "Cooking for 1 or 2",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "300",
+        "total_fat": "10g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "560mg",
+        "total_carbohydrate": "30g",
+        "fiber": "5g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/blanco-huevos-rancheros"
+}

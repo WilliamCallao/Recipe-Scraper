@@ -1,0 +1,76 @@
+{
+    "title": "Everyday Herb Oil",
+    "keywords": "Budget Friendly,Foodie,Gluten-Free,Salad Dressings & Condiments,Sauces",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Budget Friendly",
+        "Foodie",
+        "Gluten-Free",
+        "Salad Dressings & Condiments",
+        "Sauces"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/946-diabetic-everyday-herb-infused-olive-oil_082818.jpg",
+    "servings": "32 Servings",
+    "ingredients": [
+        {
+            "name": "extra-virgin olive oil",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "fresh thyme (stems removed and discarded)",
+            "us_amount": "6 sprig",
+            "metric_amount": "6 sprig"
+        },
+        {
+            "name": "fresh rosemary (stems removed and discarded)",
+            "us_amount": "2 sprig",
+            "metric_amount": "2 sprig"
+        },
+        {
+            "name": "fresh oregano (stems removed and discarded)",
+            "us_amount": "4 sprig",
+            "metric_amount": "4 sprig"
+        },
+        {
+            "name": "fresh parsley",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Bring a medium pot of water to a boil. Fill a medium bowl with ice water and set it nearby.",
+        "Add the parsley, oregano, rosemary, and thyme leaves to the boiling water. Blanch the herbs for 10-15 seconds, then immediately remove the herbs with a slotted spoon and transfer them to the ice water. After a few seconds, remove the herbs from the ice water with a slotted spoon and pat them dry with paper towels.",
+        "In a blender or food processor, puree the blanched herbs with the olive oil.",
+        "Pour the herb oil into a dark-colored glass bottle or jar with a tight-fitting lid, seal the container, and set in a cool, dark place (such as your pantry) to infuse for at least 5 days. After it has been fully infused, keep the oil in the refrigerator for up to 1-2 weeks. Or freeze the herb oil in ice cube trays for future use. (Note that each ice cube is 2 tablespoons of oil.)"
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Low Sodium",
+        "Lower Carb",
+        "Italian",
+        "Mediterranean",
+        "Budget Friendly",
+        "Foodie",
+        "Gluten-Free",
+        "Salad Dressings & Condiments",
+        "Sauces"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "14g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "0g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/everyday-herb-oil"
+}

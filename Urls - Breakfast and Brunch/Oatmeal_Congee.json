@@ -1,0 +1,90 @@
+{
+    "title": "Oatmeal Congee",
+    "keywords": "Breakfast and Brunch,Budget Friendly,Lunch,Dinner,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Lunch",
+        "Dinner",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/382-OatmealCongeeDiabetic_462519019_041018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "old fashioned rolled oats",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "low sodium vegetable broth (low-sodium)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "soy sauce (reduced-sodium)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "white (button) mushrooms (sliced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "lime juice",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "green onion (scallion) (sliced )",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "cilantro (finely chopped)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Add the oats, broth, and soy sauce to a sauce pan over high heat. Bring to a boil, then reduce to a simmer until the oatmeal is tender, about 10 minutes.",
+        "Coat a small nonstick sauté pan with cooking spray. Add the mushrooms and sauté until tender and all liquid is evaporated, about 4 minutes. Add the lime juice and sauté until the liquid has evaporated. Stir the mushrooms into the oatmeal porridge.",
+        "Clean the sauté pan, then add cooking spray. Fry the eggs until the yolks are just set.",
+        "In a bowl, pour in 3/4 cup oatmeal porridge, top with a fried egg, and 1 1/2 Tsp. scallions and cilantro. Repeat for the remaining 3 bowls."
+    ],
+    "tags": [
+        "Asian",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Lunch",
+        "Dinner",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "175",
+        "total_fat": "6g",
+        "saturated_fat": "1.8g",
+        "trans_fat": "0g",
+        "cholesterol": "185mg",
+        "sodium": "355mg",
+        "total_carbohydrate": "19g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/oatmeal-congee"
+}
