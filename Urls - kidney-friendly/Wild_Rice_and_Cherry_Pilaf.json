@@ -1,0 +1,113 @@
+{
+    "title": "Wild Rice and Cherry Pilaf",
+    "keywords": "Vegan,Vegetarian,Holidays & Entertaining,Sides,Foodie",
+    "prep_time": "PT10M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Vegan",
+        "Vegetarian",
+        "Holidays & Entertaining",
+        "Sides",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/wild-rice-cherry-pilaf-Nov14.jpg",
+    "servings": "14 Servings",
+    "ingredients": [
+        {
+            "name": "slivered almonds",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "fresh parsley (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "dried cherries",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fresh marjoram (minced)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "fresh thyme (minced)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "carrot(s) (peeled and diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "celery (chopped)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "onion(s) (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "wild rice (rinsed and drained)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "In a medium saucepan, bring 4 cups of water to boiling. Add the rice and salt and return to boiling. Lower the heat, cover, and simmer for about 1 hour, or until the rice is tender.",
+        "Meanwhile, in a large skillet, heat the oil over medium heat. Sauté the onion for 7 to 8 minutes, until soft. Add the celery and carrots and sauté for 5 to 6 minutes. Add the garlic, thyme, and marjoram and sauté for 1 minute; set aside until the rice is cooked.",
+        "Toss the cooked rice with the vegetable mixture. Stir in the cherries, pepper, parsley, and almonds. Serve warm or at room temperature."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Mediterranean",
+        "Vegan",
+        "Vegetarian",
+        "Holidays & Entertaining",
+        "Sides",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "50mg",
+        "total_carbohydrate": "15g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/wild-rice-and-cherry-pilaf"
+}

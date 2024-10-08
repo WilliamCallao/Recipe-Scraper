@@ -1,0 +1,99 @@
+{
+    "title": "Orange and Walnut Salad",
+    "keywords": "Holidays & Entertaining,Salads,Sides,Vegetarian",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Holidays & Entertaining",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/novdec2014-orange-and-walnut.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "large oranges (peeled and sectioned)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "mixed salad greens",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "small red onion (thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "large carrots (peeled and thinly sliced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "fresh orange juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "fresh lemon juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "honey",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "walnut oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salt and pepper to taste",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "walnut pieces",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Place the greens on a platter. Top with the carrots, onion, and oranges.",
+        "For the vinaigrette, whisk together the orange and lemon juices, honey, and mustard. Slowly add the oil in a thin stream, whisking constantly.",
+        "Drizzle the vinaigrette over the salad. Add salt and pepper to taste, and top with the walnuts.",
+        "*Note: The nutrition facts above do not include any added salt."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Holidays & Entertaining",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "135",
+        "total_fat": "9g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "55mg",
+        "total_carbohydrate": "13g",
+        "fiber": "3g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/orange-and-walnut-salad"
+}

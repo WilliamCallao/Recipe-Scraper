@@ -1,0 +1,93 @@
+{
+    "title": "Maryland's Eastern Shore Cream of Crab Soup",
+    "keywords": "Soup,One Pot,Lunch,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Soup",
+        "One Pot",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2043-diabetic-maryland-crab-soup_DaVita_040821.jpg",
+    "servings": "7 Servings",
+    "ingredients": [
+        {
+            "name": "unsalted butter",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "medium onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lump crabmeat",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "low sodium seafood or chicken broth",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "half-and-half",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Cornstarch",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Old Bay seasoning",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "dried dill",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Melt butter in a large pot over moderate heat. Add onion and cook for a few minutes, until the onion become soft and transparent.",
+        "Add crab meat. Cook 2 to 3 minutes, stirring constantly.",
+        "Add chicken broth and bring mixture to a boil. Reduce heat to low.",
+        "Combine half & half creamer and cornstarch in a small bowl. Whisk until smooth. Add to soup and increase heat slightly, stirring constantly until mixture thickens and comes to a boil.",
+        "Add dill weed, Old Bay seasoning and pepper to soup. Cook for 5-10 minutes longer. Serve warm."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Comfort Food",
+        "Soup",
+        "One Pot",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "6g",
+        "saturated_fat": "3.6g",
+        "trans_fat": "0g",
+        "cholesterol": "55mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "7g",
+        "fiber": "0.4g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/marylands-eastern-shore-cream-crab-soup"
+}

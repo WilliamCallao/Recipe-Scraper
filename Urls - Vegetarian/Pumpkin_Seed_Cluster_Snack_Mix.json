@@ -1,0 +1,65 @@
+{
+    "title": "Pumpkin Seed Cluster Snack Mix",
+    "keywords": "Foodie,Snacks,Vegetarian",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Foodie",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/oct2011_pumpkin_seed_cluster_279x200-2.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "salted pumpkin seeds (in shell)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "unsalted peanuts",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "high-fiber cluster cereal (about 4 ounces)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "golden raisins, or dried cranberries",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "mini chocolate chips",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Place a large nonstick skillet over medium-high heat until hot. Cook the pumpkin seeds and peanuts 2 to 3 minutes or until beginning to lightly brown, stirring frequently. Set aside on paper towel in a thin layer to cool quickly, about 5 minutes.",
+        "Combine the pumpkin seed mixture with the remaining ingredients."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Kid Friendly",
+        "Foodie",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "4g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "175mg",
+        "total_carbohydrate": "19g",
+        "fiber": "5g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pumpkin-seed-cluster-snack-mix"
+}

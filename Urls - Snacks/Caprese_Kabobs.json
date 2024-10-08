@@ -1,0 +1,80 @@
+{
+    "title": "Caprese Kabobs",
+    "keywords": "Quick & Easy,Snacks,Holidays & Entertaining,Appetizers,Gluten-Free,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Snacks",
+        "Holidays & Entertaining",
+        "Appetizers",
+        "Gluten-Free",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/143-diabetic-caprese-salad-kabobs_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "18 Servings",
+    "ingredients": [
+        {
+            "name": "bamboo skewers",
+            "us_amount": "18 small",
+            "metric_amount": "18 small"
+        },
+        {
+            "name": "fresh basil (folded in half)",
+            "us_amount": "18 leaves",
+            "metric_amount": "18 leaves"
+        },
+        {
+            "name": "grape tomatoes",
+            "us_amount": "18 whole",
+            "metric_amount": "18 whole"
+        },
+        {
+            "name": "fresh mozzarella balls (1/4 ounce each)",
+            "us_amount": "18 whole",
+            "metric_amount": "18 whole"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        }
+    ],
+    "instructions": [
+        "Place 1 grape tomato, 1 basil leaf, and 1 mozzarella ball on each bamboo fork. Repeat this process for 18 kabobs. Place the kabobs on a serving platter.",
+        "In a small bowl, whisk together the olive oil and balsamic vinegar. Right before serving, drizzle the dressing over the kabobs to coat evenly."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Veggie Rich",
+        "Italian",
+        "Quick & Easy",
+        "Snacks",
+        "Holidays & Entertaining",
+        "Appetizers",
+        "Gluten-Free",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "25",
+        "total_fat": "2g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "25mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/caprese-kabobs"
+}

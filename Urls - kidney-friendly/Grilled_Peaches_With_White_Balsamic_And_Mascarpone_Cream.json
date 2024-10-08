@@ -1,0 +1,90 @@
+{
+    "title": "Grilled Peaches With White Balsamic And Mascarpone Cream",
+    "keywords": "Vegetarian,Dessert",
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Vegetarian",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_730_GrilledPeachesWithYogurtAndWalnutCinnamonCrumble_WholeCooking_022618.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "peaches (halved, pits removed)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "vegetable oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "white balsamic vinegar",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "strained yogurt (fat-free, plain, Greek or skyr)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "mascarpone cheese",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "honey",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "walnuts (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "Preheat an outdoor grill or grill pan to medium-high. Preheat the oven to 400°F.",
+        "In a large bowl, toss the peaches with the oil until well coated. Grill peaches cut-side down until charred, 2–3 minutes, then transfer them to a baking dish, cut-side up, and drizzle with the white balsamic vinegar.",
+        "Roast the peaches, uncovered, for 10–15 minutes, or until tender.",
+        "Meanwhile, in the bowl of a food processor, combine the yogurt, mascarpone, honey, and vanilla. Purée until smooth.",
+        "In a blender, pulse together the walnuts and cinnamon to form a crumble.",
+        "Remove peaches from the oven and serve each peach half with 2 tablespoons mascarpone cream and 1 tablespoon nut crumble."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Grilling",
+        "Comfort Food",
+        "Vegetarian",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "6g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0.1g",
+        "cholesterol": "5mg",
+        "sodium": "15mg",
+        "total_carbohydrate": "15g",
+        "fiber": "2g",
+        "sugar": "13g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-peaches-white-balsamic-and-mascarpone-cream"
+}

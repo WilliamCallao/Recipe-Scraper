@@ -1,0 +1,103 @@
+{
+    "title": "Grilled Salmon with Mango and Tomato Salsa",
+    "keywords": "Vegetarian,Quick & Easy,Main Dish,Gluten-Free,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Vegetarian",
+        "Quick & Easy",
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1713-diabetic-grilled-salmon-mango-tomato-salsa_Superfoods-Cookbook_DFJulAug19_062019.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "chili powder",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cumin",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4",
+            "metric_amount": "1/4"
+        },
+        {
+            "name": "salmon with skin on (cut into 6 (4-oz) fillets)",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "diced mango",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "diced tomatoes",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "lemon (juiced, divided use)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chopped fresh cilantro",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the grill to medium high heat.",
+        "In a small bowl, combine chili powder, cumin, garlic powder, cinnamon, and salt. Sprinkle the spice mixture evenly over the salmon fillets.",
+        "Lightly oil the grill grates with the canola oil. Place the salmon on the grill, skin side down. Cook uncovered for 7 to 8 minutes, turning halfway through. The salmon is done when it flakes easily with a fork.",
+        "While salmon is cooking, combine mango, tomatoes, cilantro, and half of the lemon juice in a medium bowl.",
+        "Remove salmon from grill and spritz with remaining lemon juice. Serve each fillet with 1/2 cup salsa."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Grilling",
+        "Seafood",
+        "Vegetarian",
+        "Quick & Easy",
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "9g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "10g",
+        "fiber": "2g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "23g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-salmon-mango-and-tomato-salsa"
+}

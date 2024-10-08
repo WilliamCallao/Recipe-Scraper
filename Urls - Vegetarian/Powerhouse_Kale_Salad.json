@@ -1,0 +1,100 @@
+{
+    "title": "Powerhouse Kale Salad",
+    "keywords": "Gluten-Free,Lunch,Main Dish,Quick & Easy,Salads,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Gluten-Free",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Salads",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/931-diabetic-powerhouse-kale-salad_designed-for-one_071118.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "baby kale and greens, such as Dole Power Up Greens",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "hard-boiled egg (peeled and chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "grape tomatoes (halved)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cucumber (sliced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "red onion (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Apple Cider Vinegar",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "capers",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "dried oregano",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "reduced fat swiss cheese (torn into small pieces)",
+            "us_amount": "1 slice",
+            "metric_amount": "1 slice"
+        }
+    ],
+    "instructions": [
+        "Combine all ingredients in a medium bowl and toss until well coated"
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Gluten-Free",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Salads",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "320",
+        "total_fat": "23g",
+        "saturated_fat": "5g",
+        "trans_fat": "0g",
+        "cholesterol": "200mg",
+        "sodium": "440mg",
+        "total_carbohydrate": "13g",
+        "fiber": "5g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/powerhouse-kale-salad"
+}

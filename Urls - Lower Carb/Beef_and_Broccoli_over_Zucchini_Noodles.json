@@ -1,0 +1,109 @@
+{
+    "title": "Beef and Broccoli over Zucchini Noodles",
+    "keywords": "Quick & Easy,One Pot,Main Dish,Gluten-Free,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Quick & Easy",
+        "One Pot",
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2018-diabetic-beef-broccoli-zucchini-noodles-zoodles_diabetes-cookbook_030121.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "no-salt-added beef broth",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Cornstarch",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lower sodium soy sauce",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "minced fresh ginger",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "toasted sesame oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "medium onion (sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sirloin beef (sliced)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "fresh or frozen broccoli florets",
+            "us_amount": "4 heaping cups",
+            "metric_amount": "4 heaping cups"
+        },
+        {
+            "name": "small zucchini (spiralized into noodles, or 4 cups prepared zucchini noodles)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "sesame seeds",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "In a small bowl, whisk together the broth, cornstarch, soy sauce, garlic, and ginger. Set aside.",
+        "Spray large sauté pan or wok with cooking spray, add sesame oil, and place over high heat.",
+        "Add the onion and stir-fry 2 minutes. Add the beef and stir-fry 3 more minutes.",
+        "Add the broccoli and spiralized zucchini and stir-fry 3 more minutes.",
+        "Add the broth mixture and bring to a boil, scraping the bottom of the pan to loosen any brown bits. Reduce heat and simmer 2 minutes.",
+        "Stir in sesame seeds and serve."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "High in Fiber",
+        "Quick & Easy",
+        "One Pot",
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "9g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0.1g",
+        "cholesterol": "40mg",
+        "sodium": "500mg",
+        "total_carbohydrate": "15g",
+        "fiber": "5g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "29g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/beef-and-broccoli-over-zucchini-noodles"
+}

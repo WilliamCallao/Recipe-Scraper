@@ -1,0 +1,102 @@
+{
+    "title": "Spicy Pork Chops with Sweet Mango Sauce",
+    "keywords": "Dinner,Gluten-Free,Main Dish,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Dinner",
+        "Gluten-Free",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1999-diabetic-Spicy-Pork-Chops-Sweet-Mango-Sauce_KDBH-bookazine_012821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "paprika",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "dried thyme",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ground allspice",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cayenne pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pork loin chops",
+            "us_amount": "4 (4-oz) chops",
+            "metric_amount": "4 (4-oz) chops"
+        },
+        {
+            "name": "apricot preserves",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "mango (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chopped",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lime juice",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Lightly spray the grill rack with cooking spray. Preheat the grill on medium high.",
+        "In a small bowl, stir together the paprika, thyme, allspice, and cayenne. Remove and set aside ¼ tsp of the mixture. Sprinkle the salt and remaining paprika mixture over the pork. Using your fingertips, gently press the seasonings so they adhere to the pork. Lightly spray with cooking spray.",
+        "Grill the pork, covered, for 5 minutes on each side, or until it registers 145°F on an instant-read thermometer. Remove from the grill. Let stand for 3 minutes.",
+        "Meanwhile, in a medium bowl, using a fork, briskly stir the apricot spread until softened. Stir in the mango, cilantro, lime juice, and reserved paprika mixture.",
+        "Serve the pork topped with the sauce."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Caribbean",
+        "Grilling",
+        "Dinner",
+        "Gluten-Free",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "4g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "280mg",
+        "total_carbohydrate": "12g",
+        "fiber": "1g",
+        "sugar": "9g",
+        "added_sugar": "2g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spicy-pork-chops-sweet-mango-sauce"
+}

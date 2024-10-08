@@ -1,0 +1,117 @@
+{
+    "title": "Summer Main Dish Salad",
+    "keywords": "Salads,Main Dish,Lunch,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Salads",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecID_928_SummerMainDishSalad_121873341_060618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "frozen corn kernels",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        },
+        {
+            "name": "garlic (sliced)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "red wine vinegar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "black pepper (to taste)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sugar",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "grilled sirloin",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "cooked potatoes (cut into cubes)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "green onions (sliced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "carrots (thinly sliced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "red bell pepper (diced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "green bell pepper (diced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "salad greens",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        }
+    ],
+    "instructions": [
+        "Cook corn according to package directions.",
+        "In a small saucepan, heat oil; add garlic and saute until brown.",
+        "Remove from heat and cool; strain and reserve oil; discard garlic.",
+        "In a large bowl, combine reserved oil, vinegar, mustard, pepper, and sugar. Add 1/2 teaspoon salt, if desired.",
+        "Combine oil mixture with corn, sirloin, potatoes, green onions, carrots, and both kinds of peppers. Mix well, cover, and chill.",
+        "Serve in a bowl lined with salad greens."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Grilling",
+        "Salads",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "310",
+        "total_fat": "10g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0.2g",
+        "cholesterol": "50mg",
+        "sodium": "175mg",
+        "total_carbohydrate": "26g",
+        "fiber": "5g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "30g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/summer-main-dish-salad"
+}

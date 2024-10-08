@@ -1,0 +1,70 @@
+{
+    "title": "Herbs de Provence Roasted Chicken Breasts",
+    "keywords": "Budget Friendly,Cooking for 1 or 2,Dinner,Foodie,Gluten-Free,Main Dish,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Budget Friendly",
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Foodie",
+        "Gluten-Free",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1854-diabetic-Herbs-De-Provence-Roasted-Chicken-Breasts_clean-and-simple_112519.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "bone-in, skin on chicken breasts",
+            "us_amount": "2 (10-oz) breasts",
+            "metric_amount": "2 (10-oz) breasts"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "dried herbs de Provence or crushed rosemary",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 425°F.",
+        "Place the chicken in a baking pan. Brush the chicken skin with the oil. Sprinkle with the herbs de Provence and salt.",
+        "Roast until the chicken is well done (internal temperature of at least 165°F) and skin is crisped and browned, about 40–45 minutes.",
+        "Let stand for at least 5 minutes. If desired, drizzle the chicken with any pan juices. Serve."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Mediterranean",
+        "Budget Friendly",
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Foodie",
+        "Gluten-Free",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "330",
+        "total_fat": "15g",
+        "saturated_fat": "3.8g",
+        "trans_fat": "0g",
+        "cholesterol": "130mg",
+        "sodium": "380mg",
+        "total_carbohydrate": "0g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "47g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/herbs-de-provence-roasted-chicken-breasts"
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Peppermint Chocolate \"Nice Cream\"",
+    "keywords": "Vegetarian,Vegan,Quick & Easy,No Cook,Dessert",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Quick & Easy",
+        "No Cook",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1836-Diabetic-peppermint-chocolate-ice-cream_clean-simple-ckbk_DFNovDec19_101019.jpg",
+    "servings": "3 Servings",
+    "ingredients": [
+        {
+            "name": "fully ripened bananas (sliced into coins and frozen)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "unsweetened cocoa powder",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "peppermint extract",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cacao nibs",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Add the frozen banana coins, cocoa powder, and extracts to a food processor. Cover and pulse 10 times to chop the bananas.",
+        "Process the banana mixture on high speed until creamy, about 2½ minutes. Every 30 seconds, stop and scrape down the inside of the food processor.",
+        "Add the cacao nibs and pulse 3 times to combine.",
+        "Enjoy immediately, soft-serve style. Or freeze until solid; at serving time, set it out for 15 minutes, scoop, and serve."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Kid Friendly",
+        "Comfort Food",
+        "Vegetarian",
+        "Vegan",
+        "Quick & Easy",
+        "No Cook",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "2.5g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "24g",
+        "fiber": "5g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/peppermint-chocolate-nice-cream"
+}

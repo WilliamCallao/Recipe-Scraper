@@ -1,0 +1,110 @@
+{
+    "title": "Vegetarian Tacos",
+    "keywords": "Budget Friendly,Dinner,Lunch,Main Dish,No Cook,Quick & Easy,Vegan,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "No Cook",
+        "Quick & Easy",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2005-diabetic-Vegetarian-Tacos_KDBH-bookazine_012821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "no-salt-added kidney beans (rinsed and drained)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "frozen corn (thawed)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "roma tomato (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "avocado (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chopped fresh cilantro",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "6-inch corn tortillas",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "shredded romaine lettuce",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "reduced-fat shredded cheddar or Mexican-style cheese",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "salsa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "chopped green onions",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "In a small bowl, gently stir together the beans, corn, tomato, avocado, cilantro, lemon juice, and chili powder.",
+        "Spoon 1/2 cup bean mixture down the center of each tortilla. Top with the romaine, cheddar, salsa, and green onions. Fold the sides of the tortillas over the filling."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "No Cook",
+        "Quick & Easy",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "5g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "370mg",
+        "total_carbohydrate": "41g",
+        "fiber": "11g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/vegetarian-tacos"
+}

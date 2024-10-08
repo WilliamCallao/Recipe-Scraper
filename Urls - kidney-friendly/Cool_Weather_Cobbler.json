@@ -1,0 +1,119 @@
+{
+    "title": "Cool Weather Cobbler",
+    "keywords": "Dessert",
+    "prep_time": "PT20M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_669_CoolWeatherCobbler_WholeCooking_022618.jpg",
+    "servings": "18 Servings",
+    "ingredients": [
+        {
+            "name": "apple and/or pears (peeled, cored, and sliced)",
+            "us_amount": "6 med",
+            "metric_amount": "6 med"
+        },
+        {
+            "name": "cranberries and/or pitted cherries (fresh or frozen)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "arrowroot powder",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "fresh ginger (grated)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "orange zest (freshly grated)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "almond flour",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "old-fashioned rolled oats (gluten-free)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "whole wheat flour",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "pumpkin seeds (unsalted, toasted)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "almonds (raw, sliced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "fine sea salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pure maple syrup (preferably grade B)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350°F.",
+        "To make the filling, toss together all the fruit, the arrowroot powder, cinnamon, ginger, and orange zest in a medium bowl. Spread the filling in the bottom of an 8 x 12-inch baking dish.",
+        "To make the topping, stir together the almond flour, oats, flour, pumpkin seeds, almonds, cinnamon, and salt in another medium bowl. Drizzle in the canola oil, olive oil, and maple syrup and mix until evenly combined.",
+        "Crumble the topping over the filling and bake for 40 minutes, or until the topping is brown and the fruit is bubbling. Remove cobbler from the oven and set aside to cool for 10 minutes before serving."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Comfort Food",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "9g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "35mg",
+        "total_carbohydrate": "26g",
+        "fiber": "5g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cool-weather-cobbler"
+}

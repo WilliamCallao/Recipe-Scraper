@@ -1,0 +1,99 @@
+{
+    "title": "Brussels Sprouts Slaw",
+    "keywords": "Foodie,Lunch,Holidays & Entertaining,Sides,Vegetarian",
+    "prep_time": "PT20M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Foodie",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/110-brussels-sprouts-slaw_AdobeStock129998992_012521.jpg",
+    "servings": "9 Servings",
+    "ingredients": [
+        {
+            "name": "water",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        },
+        {
+            "name": "fresh Brussels sprouts",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "green onion (scallion) (minced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "rice wine vinegar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lower sodium soy sauce",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "low-calorie sugar substitute",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lite mayonnaise",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "slivered almonds (toasted)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "In a large pot, bring 6 cups of water to a boil. Add Brussels sprouts and blanch in the boiling water for 1 minute. Remove from boiling water and run under cold water to stop the cooking. Dry the sprouts with a clean towel.",
+        "Trim the stem on the Brussels sprouts and slice in half lengthwise. Using the slicing blade on a food processor, process the Brussels sprouts to shred them. You can also do this with the slicing side of a box grater or with a very sharp knife.",
+        "In a medium bowl, whisk together scallions, vinegar, mustard, soy sauce, Splenda, mayonnaise and black pepper.",
+        "Add the shredded Brussels sprouts and toasted almonds to the dressing and mix well."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Veggie Rich",
+        "Asian",
+        "Foodie",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "7g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/brussels-sprouts-slaw"
+}

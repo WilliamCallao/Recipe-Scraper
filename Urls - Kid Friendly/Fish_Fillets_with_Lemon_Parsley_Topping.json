@@ -1,0 +1,81 @@
+{
+    "title": "Fish Fillets with Lemon Parsley Topping",
+    "keywords": "Lunch,Gluten-Free,Dinner,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Gluten-Free",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_361043897.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "lean white fish fillets (6-ounce each, such as tilapia, snapper, or flounder, rinsed and patted dry )",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Paprika to taste",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "lemon zest",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "parsley (finely chopped)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "dried dill (dried)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "medium lemon (halved)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 400 degrees F.",
+        "Line a baking sheet with foil, coat foil with cooking spray, arrange the fillets on foil, and sprinkle evenly with the paprika. Season lightly with salt and pepper, if desired. Bake 10 minutes or until the fish is opaque in center.",
+        "While fish is cooking, combine the remaining ingredients, except lemon halves, in a small mixing bowl and set aside.",
+        "Using a slotted spatula, remove the fish, place on four dinner plates and squeeze lemon juice evenly over all. Top with the parsley mixture."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Low Sodium",
+        "Kid Friendly",
+        "Seafood",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "285",
+        "total_fat": "17g",
+        "saturated_fat": "3g",
+        "trans_fat": "0g",
+        "cholesterol": "75mg",
+        "sodium": "75mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "33g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fish-fillets-lemon-parsley-topping"
+}

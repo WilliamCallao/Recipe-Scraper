@@ -1,0 +1,94 @@
+{
+    "title": "Spiced Shrimp With Grilled Lemon",
+    "keywords": "Quick & Easy,Lunch,Holidays & Entertaining,Dinner",
+    "prep_time": "PT5M",
+    "cook_time": "PT6M",
+    "categories": [
+        "Quick & Easy",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/spiced-shrimp-with-grilled-lemon.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "fresh parsley",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lemon (halved)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground coriander",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "shrimp (peeled and deveined, tails on)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "Coat a grill rack from an outdoor gas grill with cooking spray and set it 6 inches from the heat source. Preheat the grill to medium high. If you think your shrimp will fall through the grilling rack, prepare a fish basket to grill the shrimp. Coat the inside of the basket with cooking spray.",
+        "Drizzle the shrimp with the olive oil. Combine the cumin, chili powder, coriander, salt, and black pepper and rub onto the shrimp.",
+        "Add the shrimp directly to the grill rack or place in a single layer in the fish basket. Grill the shrimp for about 2 to 3 minutes per side or until cooked through. Meanwhile, add the lemon halves, cut side down, to the grill, and grill for 3 to 4 minutes, just until the lemon is slightly charred.",
+        "Add the grilled shrimp to a platter. Garnish with the grilled lemon halves and minced parsley."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Seafood",
+        "Mexican/Southwestern",
+        "Grilling",
+        "Quick & Easy",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "125",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "150mg",
+        "sodium": "205mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spiced-shrimp-grilled-lemon"
+}

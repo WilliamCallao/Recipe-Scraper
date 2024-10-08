@@ -1,0 +1,75 @@
+{
+    "title": "Low-Carb Cauliflower Mashed \"Potatoes\"",
+    "keywords": "Vegetarian,Sides,Quick & Easy,Holidays & Entertaining,Gluten-Free,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2073-diabetic-low-carb-cauliflower-mashed-potatoes_low-carb-brissette_050721.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "cauliflower",
+            "us_amount": "1 large head",
+            "metric_amount": "1 large head"
+        },
+        {
+            "name": "butter",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "grated white cheddar cheese",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "chopped fresh chives",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Cut the cauliflower into florets (discard the thick stem). Insert a steamer basket in a large pot and fill the pot with water up until the level of the steamer basket. Add the cauliflower florets. Cover the pot and steam over high heat for 8 minutes or until the cauliflower is softened.",
+        "Drain the cauliflower and add it to a large bowl. Use a fork or potato masher to mash the cauliflower. Stir in the butter and cheese while the cauliflower is still hot. Add the salt and pepper and stir until the mixture is mostly smooth and creamy. Serve and top with chives."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "4g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "7g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/low-carb-cauliflower-mashed-potatoes"
+}

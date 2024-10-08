@@ -1,0 +1,133 @@
+{
+    "title": "Chicken and Dumplings",
+    "keywords": "Budget Friendly,Dinner,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_155_ChickenDumplings_149015324_050118.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "whole wheat flour",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "all-purpose flour",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "baking soda",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "baking powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ground sage",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt (non-fat)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cold water",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "medium onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "carrot(s) (diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "celery (diced)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "white (button) mushrooms (sliced)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "chicken breasts (boneless, skinless, diced)",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        },
+        {
+            "name": "low sodium chicken broth (fat-free, low-sodium)",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        }
+    ],
+    "instructions": [
+        "Mix the flours, baking soda, baking powder, sage, salt (optional), and pepper in a medium bowl. Add yogurt, egg, and water and knead to make a slightly sticky dough. Cover the bowl and set aside.",
+        "Add cooking spray and olive oil to a large soup pot over medium high heat. Add the onion, carrots, celery, and mushrooms. Sauté for 5-7 minutes or until the vegetables are softened.",
+        "Add the chicken and broth, and bring to a boil. Reduce to a simmer for 5 minutes.",
+        "Roll the dough out into an 8 inch disk that is 1/2-inch thick. Cut the dough into 1 inch pieces and drop the dumplings into the simmering broth. Stir frequently until all the dumplings are added.",
+        "Simmer the dumplings for 10 minutes and serve."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Kid Friendly",
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "315",
+        "total_fat": "5g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "100mg",
+        "sodium": "460mg",
+        "total_carbohydrate": "31g",
+        "fiber": "4g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "36g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-and-dumplings"
+}

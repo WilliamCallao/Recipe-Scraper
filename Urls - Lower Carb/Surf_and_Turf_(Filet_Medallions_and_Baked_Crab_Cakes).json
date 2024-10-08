@@ -1,0 +1,126 @@
+{
+    "title": "Surf and Turf (Filet Medallions and Baked Crab Cakes)",
+    "keywords": "Dinner,Main Dish,Foodie",
+    "prep_time": "PT40M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Dinner",
+        "Main Dish",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/534-diabetic-surf-and-turf-filet-medallions-baked-crab-cakes_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "small onion (minced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "red bell pepper (seeded and minced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "lump crabmeat (drained)",
+            "us_amount": "1 (6-oz) can",
+            "metric_amount": "1 (6-oz) can"
+        },
+        {
+            "name": "whole wheat breadcrumbs",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "egg whites",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "hot sauce",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "beef tenderloin steaks",
+            "us_amount": "4 (3-oz) steaks",
+            "metric_amount": "4 (3-oz) steaks"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "black pepper (cracked)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sliced mushrooms",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "small onion (thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "beef broth (reduced sodium, fat-free)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 375 degrees F. Coat a small baking sheet with cooking spray. Set aside.",
+        "Coat a small non-stick skillet with cooking spray over medium-high heat. Add onion and red bell pepper and sauté 2-3 minutes or until onions are clear. Set aside to cool.",
+        "In a medium bowl combine crabmeat, breadcrumbs, egg white, hot sauce, salt (optional) and pepper. Mix well until all ingredients are incorporated. Stir in cooled onion and red peppers. Refrigerate mixture for 30 minutes.",
+        "Form crab mixture into 4 1/2-inch thick patties. Place patties on the prepared baking sheet. Coat the top of each crab cake with cooking spray and bake for 25 minutes on the top rack, turning once half way through.",
+        "While crab cakes are baking, heat olive oil in large skillet over high heat.",
+        "Season both sides of the filets with salt (optional) and cracked black pepper.",
+        "When pan is very hot (oil should just start to smoke slightly) sear steaks on one side for 4 minutes. Turn steaks and sear for 3 minutes on other side. Remove from pan and set aside loosely covered with foil.",
+        "Turn heat down in pan and add the mushrooms and onions. Sauté until both are slightly caramelized. Deglaze the pan with the broth and cook until almost all of the liquid is reduced.",
+        "Serve the steaks with 1/4 of the mushroom and onion mixture on top and a crab cake on the side."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Dinner",
+        "Main Dish",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "9g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "480mg",
+        "total_carbohydrate": "12g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/surf-and-turf-filet-medallions-and-baked-crab-cakes"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Creole Drums",
+    "keywords": "Budget Friendly,Dinner,Main Dish,One Pot",
+    "prep_time": "PT15M",
+    "cook_time": "PT50M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish",
+        "One Pot"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1993-diabetic-Creole-Drums_KDBH-bookazine_012821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chicken drumsticks (skin and all visible fat removed)",
+            "us_amount": "8 (about 2 lbs)",
+            "metric_amount": "8 (about 2 lbs)"
+        },
+        {
+            "name": "large onion (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "green bell pepper (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "canned diced tomatoes",
+            "us_amount": "1 (14.5-oz) can",
+            "metric_amount": "1 (14.5-oz) can"
+        },
+        {
+            "name": "fresh or frozen cut okra (cut into 1/2-inch slices if fresh)",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "Worcestershire sauce",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "dried thyme",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Louisiana-style hot sauce",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Lightly spray a Dutch oven with cooking spray. Heat over medium-high heat. Cook the chicken for about 4 minutes, or until browned on all sides, turning frequently (the chicken won’t be done at this point). Transfer to a plate.",
+        "In the same pot, cook the onion and bell pepper for 3 minutes, or until the edges are beginning to lightly brown, stirring frequently and scraping to dislodge any browned bits.",
+        "Gently stir in the chicken with any accumulated juices. Stir in the remaining ingredients except the salt. Bring to a boil, still over medium-high heat. Reduce the heat and simmer, covered, for 40 minutes, or until the chicken is no longer pink in the center and the okra is very tender. Remove from the heat.",
+        "Transfer the chicken to soup bowls. Stir the salt into the tomato mixture. Pour over the chicken."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish",
+        "One Pot"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "6g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "15g",
+        "fiber": "4g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "33g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/creole-drums"
+}

@@ -1,0 +1,85 @@
+{
+    "title": "Greek Yogurt Chocolate Mousse",
+    "keywords": "Vegetarian,Holidays & Entertaining,Foodie,Dessert,Quick & Easy,Snacks",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dessert",
+        "Quick & Easy",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/271-diabetic-dessert-greek-yogurt-chocolate-mousse_Diabetes-Cookbook_DF_101818_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "mini sugar-free dark chocolate bars (chopped)",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt (non-fat)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "honey or 4 packets artificial sweetener",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "skim milk",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "whipped topping (non-fat)",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        },
+        {
+            "name": "fresh raspberries",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "Add the chopped chocolate to a microwave-safe bowl. Microwave the chocolate on high for 1 minute, then stir. If not completely melted, microwave for 30 more seconds, then stir until all chunks are melted. If it is still not melted, microwave another 30 seconds and continue to stir, just until the chunks in the chocolate are melted. Do not overcook.",
+        "In a medium mixing bowl, whip the Greek yogurt with an electric mixer until fluffy. Add the honey, vanilla, and milk, and beat some more, then add the chocolate, a small amount at a time, beating in between additions.",
+        "Once all of the chocolate is mixed into the yogurt, divide the mousse into 6 portions and top each portion with 1/3 cup raspberries and 1 tablespoon whipped topping"
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Kid Friendly",
+        "Comfort Food",
+        "Vegetarian",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dessert",
+        "Quick & Easy",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "4g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "35mg",
+        "total_carbohydrate": "17g",
+        "fiber": "3g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/greek-yogurt-chocolate-mousse"
+}

@@ -1,0 +1,126 @@
+{
+    "title": "Whole Wheat Fresh Gingerbread",
+    "keywords": "Dessert,Holidays & Entertaining,Snacks",
+    "prep_time": "PT10M",
+    "cook_time": "PT60M",
+    "categories": [
+        "Dessert",
+        "Holidays & Entertaining",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Fresh%20Gingerbread%20Diabetic.png",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "whole wheat flour",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "brown sugar substitute",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "baking soda",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "baking powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ground ginger",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ground nutmeg",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ground cloves",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "unsweetened applesauce",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "maple syrup",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "vegetable oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "fresh ginger (grated)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "2 large",
+            "metric_amount": "2 large"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "water (hot)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350 degrees F. Grease a 9x5-inch loaf pan.",
+        "In a large bowl, whisk together the whole wheat flour, brown sugar substitute, baking soda, baking powder, salt, cinnamon, ginger, nutmeg, and cloves.",
+        "In another bowl, combine the applesauce, maple syrup, vegetable oil, freshly grated ginger, eggs, and vanilla extract. Mix until well combined.",
+        "Gradually add the wet ingredients to the dry ingredients, stirring until just combined. Do not overmix.",
+        "Slowly pour in the hot water while gently stirring the batter. The batter will be thin.",
+        "Pour the batter into the prepared loaf pan.",
+        "Bake in the preheated oven for about 45–50 minutes, or until a toothpick inserted into the center of the bread comes out clean.",
+        "Once baked, remove the gingerbread from the oven and allow it to cool in the pan for about 10 minutes. Then, carefully remove it from the pan and transfer it to a wire rack to cool completely."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Kid Friendly",
+        "Dessert",
+        "Holidays & Entertaining",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "6g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "27g",
+        "fiber": "3g",
+        "sugar": "12g",
+        "added_sugar": "11g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/whole-wheat-fresh-gingerbread"
+}

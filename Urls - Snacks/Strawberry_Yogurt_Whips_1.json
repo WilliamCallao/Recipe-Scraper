@@ -1,0 +1,83 @@
+{
+    "title": "Strawberry Yogurt Whips",
+    "keywords": "Dessert,Snacks",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Dessert",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2161_Strawberry%20Yogurt%20Whips%20-%20Original%20Photo.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "water (cold)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "unflavored gelatin",
+            "us_amount": "1 1/2 packet",
+            "metric_amount": "1 1/2 packet"
+        },
+        {
+            "name": "boiling water",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Splenda® Strawberry Watermelon Liquid Water Enhancer (strawberry flavor)",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        },
+        {
+            "name": "ice cubes",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Fresh Strawberries (diced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "sugar-free whipped cream",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "In a medium bowl, stir unflavored gelatin into cold water. Let stand for 3 minutes.",
+        "Stir in boiling water and mix until gelatin has fully dissolved.",
+        "Stir in Splenda Liquid Water Enhancer.",
+        "Fill a 1-cup measuring cup to the top with ice. Fill remainder of the cup with cold water. Add to gelatin mixture and stir until ice is melted.",
+        "In a high-powered blender, combine gelatin mixture and Greek yogurt and blend on high for about 1 minute.",
+        "Stir in diced strawberries.",
+        "Spoon mixture evenly into four large custard cups and chill for 1 hour until set.",
+        "Store in refrigerator until ready to be served. Top each yogurt whip with a tablespoon of sugar-free whipped cream."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Dessert",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "1g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "1mg",
+        "sodium": "35mg",
+        "total_carbohydrate": "6g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/strawberry-yogurt-whips"
+}

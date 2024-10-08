@@ -1,0 +1,81 @@
+{
+    "title": "Tasty Cooked Greens",
+    "keywords": "Budget Friendly,Sides",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Budget Friendly",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_437462239.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "tender greens (fresh)",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "corn oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "onion(s) (chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 1/4 cup",
+            "metric_amount": "296 ml"
+        },
+        {
+            "name": "chicken bouillon (cube, reduced-sodium)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sugar",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Tabasco sauce",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Remove stems and any yellowed leaves from greens, then rinse greens well and drain.",
+        "Heat oil in a large pot over medium heat. Add onion and sauté until onion is tender.",
+        "Add greens, water, and bouillon to the pot. Cover and bring to a boil. Reduce heat to low and simmer for 30 minutes or until greens are tender, stirring occasionally.",
+        "Add salt, sugar, and Tabasco sauce. Toss well and simmer an additional 5 minutes. May be served with cider vinegar to bring out the best in the greens."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "Lower Carb",
+        "Budget Friendly",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "30",
+        "total_fat": "1g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "100mg",
+        "total_carbohydrate": "5g",
+        "fiber": "2g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tasty-cooked-greens"
+}

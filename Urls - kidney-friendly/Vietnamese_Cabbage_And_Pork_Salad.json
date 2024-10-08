@@ -1,0 +1,118 @@
+{
+    "title": "Vietnamese Cabbage And Pork Salad",
+    "keywords": "Sides,Salads,Main Dish,Lunch,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Sides",
+        "Salads",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_898_Vietnamese%20Cabbage%20and%20Pork%20Salad_SmartShopperCkbk_022618.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "pork tenderloin",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Kosher Salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "green cabbage (sliced)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "red onion (thinly sliced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cucumber(s) (sliced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fresh lime juice",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "fish sauce",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "light soy sauce",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sesame oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sugar",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "cayenne pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "romaine lettuce leaves (torn)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400 degrees. Cover a broiler rack with foil. Coat the foil with cooking spray. Rub the pork with the oil, salt, and pepper. Roast the pork for about 20 minutes. Turn the oven to broil and broil the pork for about 5 minutes, turning once until a meat thermometer registers 145 degrees when inserted into the thickest part of the pork. Remove the pork from the oven to a carving board and let rest.",
+        "In a large bowl, combine the cabbage, red onion, and cucumber. Whisk together the lime juice, fish sauce, soy sauce, sesame oil, sugar, and cayenne pepper. Add to the cabbage mixture and toss well. Cut the pork into thin slices and add to the salad and toss again.",
+        "Line a platter with romaine lettuce. Pile the pork salad on top of the lettuce."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Asian",
+        "Sides",
+        "Salads",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "85",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "325mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/vietnamese-cabbage-and-pork-salad"
+}

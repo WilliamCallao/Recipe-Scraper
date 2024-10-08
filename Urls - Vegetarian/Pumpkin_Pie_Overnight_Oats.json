@@ -1,0 +1,84 @@
+{
+    "title": "Pumpkin Pie Overnight Oats",
+    "keywords": "Vegetarian,No Cook,Breakfast and Brunch",
+    "prep_time": "PT8H",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "No Cook",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/3486_Pumpkin%20Pie%20Overnight%20Oats.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "unsweetened vanilla almond milk",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Splenda® Monk Fruit Granulated Sweetener",
+            "us_amount": "4 packet",
+            "metric_amount": "4 packet"
+        },
+        {
+            "name": "canned pumpkin",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "vanilla protein powder",
+            "us_amount": "1 scoop",
+            "metric_amount": "1 scoop"
+        },
+        {
+            "name": "pumpkin pie spice",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "chia seeds",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "whole rolled oats",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Toasted Pecans",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/16",
+            "metric_amount": "1/16"
+        }
+    ],
+    "instructions": [
+        "Mix almond milk, Splenda Monk Fruit Sweetener packets, pumpkin, protein powder, pumpkin pie spice, chia seeds, and oats together in a small bowl. Pour into a jar, cover, and refrigerate overnight.",
+        "In the morning, top with pecans and a sprinkle of cinnamon. Enjoy breakfast on-the-go!"
+    ],
+    "tags": [
+        "High in Fiber",
+        "Vegetarian",
+        "No Cook",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "10g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "26g",
+        "fiber": "8g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pumpkin-pie-overnight-oats"
+}

@@ -1,0 +1,76 @@
+{
+    "title": "BBQ Popcorn",
+    "keywords": "Vegan,Snacks,Quick & Easy,Cooking for 1 or 2,Budget Friendly,Easy Pantry Recipes,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Vegan",
+        "Snacks",
+        "Quick & Easy",
+        "Cooking for 1 or 2",
+        "Budget Friendly",
+        "Easy Pantry Recipes",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1870-diabetic-snack-BBQ-Popcorn_clean-and-simple_120919.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "no-sugar-added barbecue sauce or <a href=\"https://www.diabetesfoodhub.org/recipes/fruit-sweetened-bbq-sauce.html\" target=\"_blank\">Fruit-Sweetened BBQ Sauce</a>",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "smoked paprika",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "avocado oil or sunflower oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "popcorn kernels",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "In a small bowl, stir together the barbecue sauce, smoked paprika, and salt; set aside.",
+        "In a large saucepan over medium heat, fully heat the oil. Add the popcorn kernels, cover with a lid, and periodically shake the saucepan until you hear the popping begin. Let the popcorn pop undisturbed until it stops, about 3 minutes. Carefully remove lid.",
+        "Immediately pour the barbecue sauce mixture onto popcorn while over medium heat. Stir well until the popcorn is lightly coated and re-crisped, about 2 minutes. Serve."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Kid Friendly",
+        "Vegan",
+        "Snacks",
+        "Quick & Easy",
+        "Cooking for 1 or 2",
+        "Budget Friendly",
+        "Easy Pantry Recipes",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "6g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "18g",
+        "fiber": "3g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/bbq-popcorn"
+}

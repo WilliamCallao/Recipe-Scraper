@@ -1,0 +1,85 @@
+{
+    "title": "Zucchini Lasagna Skillet",
+    "keywords": "Foodie,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/599-diabetic-zucchini-lasagna-skillet_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "water",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "medium zucchinis (shaved into strips with a peeler, omitting center seeds)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "lean ground turkey",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "Italian seasoning",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic (minced or grated)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "reduced-sodium marinara sauce",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "skim ricotta cheese",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Parmesan cheese (freshly shredded)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        }
+    ],
+    "instructions": [
+        "Bring the water to a boil in a large sauce pan over high heat. Add the zucchini and boil for two minutes. Drain well and set the cooked zucchini aside in a colander to continue draining.",
+        "In a large sauté pan, add the olive oil over medium heat. Add the turkey, Italian seasoning and garlic and sauté, breaking up the turkey to crumble it. Sauté for 5-6 minutes or until the turkey is just cooked through.",
+        "Add the marinara sauce and bring to a simmer. Simmer for two minutes, then stir in the drained zucchini. Continue to simmer for 2 more minutes.",
+        "Stir in both cheeses and stir until melted."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Italian",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "10g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0.1g",
+        "cholesterol": "55mg",
+        "sodium": "330mg",
+        "total_carbohydrate": "11g",
+        "fiber": "2g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/zucchini-lasagna-skillet"
+}

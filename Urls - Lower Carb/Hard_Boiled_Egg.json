@@ -1,0 +1,65 @@
+{
+    "title": "Hard Boiled Egg",
+    "keywords": "Snacks,Breakfast and Brunch,Budget Friendly,Easy Pantry Recipes,One Pot,Quick & Easy",
+    "prep_time": "PT2M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Snacks",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Easy Pantry Recipes",
+        "One Pot",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1930-hard-boiled-egg-diabetic_AS_163304407_031920.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "us_amount": "6 large",
+            "metric_amount": "6 large"
+        },
+        {
+            "name": "water",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        }
+    ],
+    "instructions": [
+        "Lay the eggs in a single layer on the bottom of a large sauce pan and cover with cold water so that there is about an inch of water over the eggs.",
+        "Place the pan on a stovetop burner but before turning on the heat, set a timer for 20 minutes.",
+        "Start the timer then turn the heat to high and bring to a boil. Once boiling, reduce to a gentle simmer and simmer until the timer goes off.",
+        "When the timer goes off, immediately drain the water from the pan then gently shake the eggs in the pan to crack the shells.",
+        "Cover in ice water and let sit in the ice water for 15 minutes.",
+        "Drain the ice water, then gently roll each egg on a paper towel to loosen the shell, and peel the shell off of the egg.",
+        "Store in an airtight container in the refrigerator for up to one week."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Kid Friendly",
+        "Snacks",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Easy Pantry Recipes",
+        "One Pot",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "78",
+        "total_fat": "5g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "187mg",
+        "sodium": "62mg",
+        "total_carbohydrate": "0.6g",
+        "fiber": "0g",
+        "sugar": "0.6g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/hard-boiled-egg"
+}

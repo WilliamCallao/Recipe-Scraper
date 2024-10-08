@@ -1,0 +1,101 @@
+{
+    "title": "Pesto Stuffed Chicken Breast with Bruschetta Sauce",
+    "keywords": "Dinner,Foodie,Gluten-Free",
+    "prep_time": "PT15M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/403-diabetic-pesto-stuffed-chicken-bruschetta_AdobeStock_166857130_022621.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "roma (plum) tomatoes (seeded and diced)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "small red onion (small dice)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "fresh oregano (chopped)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "red wine vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "boneless, skinless chicken breasts",
+            "us_amount": "2 1/4 lbs",
+            "metric_amount": "1 l 21 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "fresh basil (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Parmesan cheese (freshly grated)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 375 degrees F. Coat a baking dish with cooking spray. Set aside.",
+        "In a small bowl, toss together tomatoes, red onion, oregano, red wine vinegar and olive oil.",
+        "Butterfly each chicken breast, and open each like a book. Season both sides of all chicken breasts with salt and pepper.",
+        "Toss basil and parmesan cheese together in a small bowl and then divide the mixture evenly between each open chicken breast. Fold the chicken breast back in half and place in the baking pan.",
+        "Pour the tomato mixture over the chicken breasts and bake for 35-45 minutes (depending on the size of the chicken breasts) or until the internal temperature is 165 degrees F."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Italian",
+        "Dinner",
+        "Foodie",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "7g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "100mg",
+        "sodium": "320mg",
+        "total_carbohydrate": "2g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "38g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pesto-stuffed-chicken-breast-bruschetta-sauce"
+}

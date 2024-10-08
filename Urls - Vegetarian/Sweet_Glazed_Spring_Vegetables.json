@@ -1,0 +1,97 @@
+{
+    "title": "Sweet Glazed Spring Vegetables",
+    "keywords": "Vegetarian,Vegan,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/3459_Sweet%20Glazed%20Spring%20Vegetables.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "vegetable oil spread",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "carrots (peeled, tops trimmed to about ½-inch)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "radish (halved)",
+            "us_amount": "5",
+            "metric_amount": "5"
+        },
+        {
+            "name": "garlic (smashed)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "Kosher Salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Splenda® Stevia Sweetener",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "lemon (juiced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "fresh tarragon (chopped, divided)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sugar snap peas",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        }
+    ],
+    "instructions": [
+        "Melt vegetable oil spread in a large straight-sided skillet over medium heat. Add carrots, radishes, and garlic. Season with salt and pepper. Add water, sweetener, lemon juice, and 1 tablespoon tarragon.",
+        "Cook, covered, over medium-low heat for 7 minutes.",
+        "Stir in snap peas and continue to cook, covered, until vegetables are just tender, about 3–4 minutes.",
+        "Remove lid and continue to cook, stirring occasionally, until a thick glaze forms, about 1–2 minutes. Top with remaining tarragon and serve."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Vegetarian",
+        "Vegan",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "3g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "120mg",
+        "total_carbohydrate": "9g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-glazed-spring-vegetables"
+}

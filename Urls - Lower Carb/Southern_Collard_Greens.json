@@ -1,0 +1,74 @@
+{
+    "title": "Southern Collard Greens",
+    "keywords": "Budget Friendly,Holidays & Entertaining,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "PT2H",
+    "categories": [
+        "Budget Friendly",
+        "Holidays & Entertaining",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1682-diabetic-southern-collard-greens_new-soul-food-cookbook_Thinkstock-98225828_103018_1021x779.jpg",
+    "servings": "14 Servings",
+    "ingredients": [
+        {
+            "name": "uncooked smoked turkey necks",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "collard greens (cleaned and chopped)",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "garlic (chopped)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "low-sodium chicken broth",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "large onion (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "In a large stock pot or dutch oven, add 2 quarts water and bring to a boil. Add turkey necks and boil for 1 hour. Turkey meat should fall off the bones, and bones should be removed from the water.",
+        "Add collard greens, garlic, chicken broth, onion, and red pepper flakes to the pot with the water and turkey neck meat and stir to combine. If pot is full, you can add greens half at a time until they reduce. Bring back to a boil. Reduce heat to medium and cook until greens are tender, about 1 hour. Add additional water if necessary. Serve hot."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Comfort Food",
+        "Budget Friendly",
+        "Holidays & Entertaining",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "40",
+        "total_fat": "1g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "1mg",
+        "sodium": "85mg",
+        "total_carbohydrate": "6g",
+        "fiber": "3g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/southern-collard-greens"
+}

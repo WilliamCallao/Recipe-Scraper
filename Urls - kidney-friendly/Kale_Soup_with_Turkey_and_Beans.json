@@ -1,0 +1,119 @@
+{
+    "title": "Kale Soup with Turkey and Beans",
+    "keywords": "Dinner,Sides,Lunch,Gluten-Free,Quick & Easy",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Sides",
+        "Lunch",
+        "Gluten-Free",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/331-diabetic-kale-soup-turkey-beans_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "7 Servings",
+    "ingredients": [
+        {
+            "name": "canola oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "onion(s) (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "green pepper (diced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "lean ground turkey",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "low sodium chicken broth (gluten-free)",
+            "us_amount": "32 oz",
+            "metric_amount": "906 ml"
+        },
+        {
+            "name": "canned crushed tomatoes",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "basil (dried)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "dried thyme",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "dried rosemary",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "cayenne pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black-eyed peas (rinsed and drained)",
+            "us_amount": "1 (15.5-oz) can",
+            "metric_amount": "1 (15.5-oz) can"
+        },
+        {
+            "name": "kale (chopped)",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "Parmesan cheese (freshly grated)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        }
+    ],
+    "instructions": [
+        "Heat the oil in a large soup pot over medium-high heat. Add the onion and green peppers, and sauté for 3 minutes or until clear. Add the garlic and sauté for 30 seconds.",
+        "Add the turkey and cook it about 8 minutes until brown. Add the remaining ingredients except for the Parmesan cheese.",
+        "Bring the soup to a boil; then reduce the heat and simmer for 15 minutes.",
+        "Remove the soup from the heat and stir in the Parmesan cheese."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Veggie Rich",
+        "Comfort Food",
+        "Dinner",
+        "Sides",
+        "Lunch",
+        "Gluten-Free",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "4g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "14g",
+        "fiber": "4g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/kale-soup-turkey-and-beans"
+}

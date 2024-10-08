@@ -1,0 +1,86 @@
+{
+    "title": "Smoked Salmon & Cucumber Bites",
+    "keywords": "Sides,Vegetarian,Snacks,No Cook,Gluten-Free,Quick & Easy,Holidays & Entertaining,Appetizers",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Vegetarian",
+        "Snacks",
+        "No Cook",
+        "Gluten-Free",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2079-diabetic-low-carb-salmon-cucumber-bites_low-carb-brissette_050721.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "cucumber(s)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "fresh dill (divided)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "light cream cheese",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "lemon zest",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cold smoked salmon (cut into 24 pieces)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        }
+    ],
+    "instructions": [
+        "Cut the ends off of the cucumber. Slice into 24 rounds, about ¼-inch thick",
+        "Chop 2 tbsp of the dill and add to a medium bowl. Remove the stems from the rest of the dill and separate into small sprigs. Set the sprigs aside.",
+        "In the medium bowl with the chopped dill, add the cream cheese, lemon zest and juice and pepper to the bowl.",
+        "Spread about 1 tsp of the cream cheese mixture onto each cucumber slice. Top each one with a piece of salmon and garnish with a dill sprig. Arrange on a platter and enjoy!"
+    ],
+    "tags": [
+        "Lower Carb",
+        "Sides",
+        "Vegetarian",
+        "Snacks",
+        "No Cook",
+        "Gluten-Free",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "5g",
+        "saturated_fat": "2.6g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "3g",
+        "fiber": "0g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/smoked-salmon-cucumber-bites"
+}

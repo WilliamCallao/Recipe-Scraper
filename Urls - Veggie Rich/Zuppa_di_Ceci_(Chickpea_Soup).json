@@ -1,0 +1,116 @@
+{
+    "title": "Zuppa di Ceci (Chickpea Soup)",
+    "keywords": "Gluten-Free,Lunch,Soup,Vegan,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Gluten-Free",
+        "Lunch",
+        "Soup",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/zuppa-di-Ceci-chickpea-soup-Dec14.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "celery (diced)",
+            "us_amount": "1 stalks",
+            "metric_amount": "1 stalks"
+        },
+        {
+            "name": "onion(s) (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "carrot (peeled and diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh rosemary (minced)",
+            "us_amount": "1 sprig",
+            "metric_amount": "1 sprig"
+        },
+        {
+            "name": "fresh sage (finely chopped)",
+            "us_amount": "6 leaves",
+            "metric_amount": "6 leaves"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "canned whole tomatoes",
+            "us_amount": "28 oz",
+            "metric_amount": "792 ml"
+        },
+        {
+            "name": "chickpeas (garbanzo beans) (drained and rinsed)",
+            "us_amount": "30 oz",
+            "metric_amount": "849 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "fresh basil (minced)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "In a large saucepan, heat the olive oil over medium heat. Add the celery, onion, carrot, rosemary, and sage and sauté for about 8 minutes. Add the garlic and sauté for 2 minutes.",
+        "Add the can of tomatoes to a large bowl. Crush the tomatoes with your clean hands, leaving the tomatoes slightly coarse. Add the tomatoes with the juices to the pan.",
+        "Puree one can of the chickpeas in a food processor or blender with the 1/4 cup water until smooth but still thick. Add the pureed chickpeas and the other can of whole chickpeas to the pan. Add the basil, salt, and black pepper and bring the soup to boiling. Lower the heat and simmer, covered, for 15 minutes. Stir in the lemon juice and serve."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Italian",
+        "Gluten-Free",
+        "Lunch",
+        "Soup",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "5.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "145mg",
+        "total_carbohydrate": "28g",
+        "fiber": "7g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/zuppa-di-ceci-chickpea-soup"
+}

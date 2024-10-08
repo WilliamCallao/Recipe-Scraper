@@ -1,0 +1,60 @@
+{
+    "title": "Sweet Peanut Buttery Dip",
+    "keywords": "Quick & Easy,Snacks,Dessert",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Snacks",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/ThinkstockPhotos-538685684.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "vanilla-flavored yogurt (fat-free)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "reduced-fat peanut butter",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "packed dark brown sugar",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "banana(s) (sliced)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        }
+    ],
+    "instructions": [
+        "Using a fork or whisk, stir the yogurt, peanut butter, and brown sugar together in a small bowl until completely blended.",
+        "Serve with banana slices and wooden toothpicks, if desired.",
+        "Cook’s Tip: You can cover this dip with plastic wrap and refrigerate it up to 1 week."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Quick & Easy",
+        "Snacks",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "1g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "51mg",
+        "total_carbohydrate": "22g",
+        "fiber": "2g",
+        "sugar": "12g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-peanut-buttery-dip"
+}

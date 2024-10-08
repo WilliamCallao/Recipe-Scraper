@@ -1,0 +1,70 @@
+{
+    "title": "Radish Toasts with Goat Cheese & Chives",
+    "keywords": "Appetizers,Breakfast and Brunch,Lunch,No Cook,Quick & Easy,Snacks,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "Breakfast and Brunch",
+        "Lunch",
+        "No Cook",
+        "Quick & Easy",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Diabetic%20Radish%20Toast%20Diabetes%20Food%20Hub.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "rye bread",
+            "us_amount": "4 slice",
+            "metric_amount": "4 slice"
+        },
+        {
+            "name": "radish (tops removed)",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        },
+        {
+            "name": "fresh chives",
+            "us_amount": "1/2 bunch",
+            "metric_amount": "1/2 bunch"
+        },
+        {
+            "name": "reduced-fat soft goat cheese (room temperature )",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        }
+    ],
+    "instructions": [
+        "Toast the bread.",
+        "Chop the chives and add to a small bowl along with the goat cheese. Stir to combine.",
+        "Carefully slice (using a mandolin if you have one) the radishes into ⅛ thick rounds.",
+        "Divide the cheese mixture between the four slices of bread. Top with sliced radishes and extra chopped chives, and salt and pepper, if needed."
+    ],
+    "tags": [
+        "Comfort Food",
+        "French",
+        "Appetizers",
+        "Breakfast and Brunch",
+        "Lunch",
+        "No Cook",
+        "Quick & Easy",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "7g",
+        "saturated_fat": "3.2g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "410mg",
+        "total_carbohydrate": "19g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/radish-toasts-goat-cheese-chives"
+}

@@ -1,0 +1,89 @@
+{
+    "title": "Watermelon, Arugula and Feta Salad",
+    "keywords": "Salads,Vegetarian,Sides,Gluten-Free,Foodie",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Vegetarian",
+        "Sides",
+        "Gluten-Free",
+        "Foodie"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/582-diabetic-watermelon-arugula-feta-salad_diabetes-cookbook_081618_1021x779.jpg",
+        "Arugula and Feta Salad\" loading=\"lazy\" />"
+    ],
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "seedless watermelon (cubed and chilled)",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "reduced-fat crumbled feta cheese",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "arugula",
+            "us_amount": "7 oz",
+            "metric_amount": "198 ml"
+        },
+        {
+            "name": "small red onion (thinly sliced)",
+            "us_amount": "1/4",
+            "metric_amount": "1/4"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "In a large bowl, toss together the watermelon, feta, arugula, and onion.",
+        "In a medium bowl, whisk together the balsamic vinegar, olive oil, salt, and pepper.",
+        "Drizzle the dressing over the salad and toss gently to coat."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Lower Carb",
+        "Salads",
+        "Vegetarian",
+        "Sides",
+        "Gluten-Free",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "9g",
+        "fiber": "1g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/watermelon-arugula-and-feta-salad"
+}

@@ -1,0 +1,101 @@
+{
+    "title": "Orange, Asparagus, and Avocado Salad",
+    "keywords": "Dinner,Lunch,No Cook,Salads,Sides,Vegan,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "No Cook",
+        "Salads",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/1796-diabetic-Orange-Asparagus-Avacado-Salad_MediterraneanCkbk_050119.jpg",
+        "Asparagus",
+        "and Avocado Salad\" loading=\"lazy\" />"
+    ],
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "fresh asparagus (trimmed)",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        },
+        {
+            "name": "romaine lettuce (cut into bite-size pieces)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "large orange (peeled and cut into segments)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "large tomato (cut into 12 equal pieces)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "avocado (pitted, peeled, and diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "red wine vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Place asparagus in a pot of boiling water over high heat. Reduce heat to low and simmer until asparagus is tender, about 10 minutes. Drain asparagus and submerge immediately in a bowl of ice water.",
+        "Divide lettuce evenly among six salad bowls or plates.",
+        "Combine orange, tomato, and avocado in a medium bowl.",
+        "In a small bowl, whisk together olive oil, vinegar, salt, and pepper until combined.",
+        "Drain asparagus and add to orange mixture. Pour dressing over orange mixture and stir gently to combine. Spoon mixture on top of romaine lettuce on plates and serve."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Veggie Rich",
+        "Mediterranean",
+        "Dinner",
+        "Lunch",
+        "No Cook",
+        "Salads",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "8g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "60mg",
+        "total_carbohydrate": "9g",
+        "fiber": "4g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/orange-asparagus-and-avocado-salad"
+}

@@ -1,0 +1,80 @@
+{
+    "title": "Brown Rice Congee with Stir-Fried Herbs",
+    "keywords": "Breakfast and Brunch,Lunch,Vegetarian,Dinner,Gluten-Free",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Breakfast and Brunch",
+        "Lunch",
+        "Vegetarian",
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/oct_congee_istock5256573_279x200.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "filtered water",
+            "us_amount": "2 quarts",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "brown sushi rice",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "grapeseed oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "fresh ginger (peeled and finely julienned)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "green onion (scallion) (trimmed and julienned into 1-inch-long pieces)",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "red Thai chilies (stems and seeds removed, thinly sliced into rounds)",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "cilantro (stems trimmed and coarsely chopped (about 1 cup))",
+            "us_amount": "1/2 bunch",
+            "metric_amount": "1/2 bunch"
+        }
+    ],
+    "instructions": [
+        "Fill a large pot with the water. Add the rice, cover, and bring to a boil over high heat. Reduce heat to medium, and continue to cook until the rice grains break down and the soup thickens, about 1 hour.",
+        "Meanwhile in a small skillet over high heat, add the oil and stir-fry the ginger, scallions, and chilies until fragrant and lightly golden, 30-45 seconds. Add the cilantro and continue to stir-fry until just wilted, about 30 seconds more. Transfer to bowl.",
+        "Ladle some congee into 6 individual bowls, and top each with about 1 Tbsp. of stir-fried herbs. Mix the herbs into the porridge to distribute the flavors. Serve."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Asian",
+        "Breakfast and Brunch",
+        "Lunch",
+        "Vegetarian",
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "20mg",
+        "total_carbohydrate": "27g",
+        "fiber": "2g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/brown-rice-congee-stir-fried-herbs"
+}

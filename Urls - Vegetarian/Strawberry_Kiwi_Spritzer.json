@@ -1,0 +1,82 @@
+{
+    "title": "Strawberry Kiwi Spritzer",
+    "keywords": "Vegetarian,Vegan,Holidays & Entertaining,Beverages,Quick & Easy",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Holidays & Entertaining",
+        "Beverages",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/3447_SweetLeaf%20Spritzer.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "strawberry kiwi flavored stevia drops",
+            "us_amount": "4 squeezes",
+            "metric_amount": "4 squeezes"
+        },
+        {
+            "name": "Still or soda water",
+            "us_amount": "1 liter",
+            "metric_amount": "1 liter"
+        },
+        {
+            "name": "Fresh Strawberries (hulled and chopped)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "strawberries (sliced, for garnish)",
+            "us_amount": "4 med",
+            "metric_amount": "4 med"
+        },
+        {
+            "name": "kiwi(s) (peeled and chopped)",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "kiwi (sliced, for garnish)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "ice (to taste)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "In a big pitcher, add chopped strawberries and kiwis. Muddle with a wooden spoon until the fruit is well mashed. If you prefer whole fruit, do not mash.",
+        "Add flavored drops and still or soda water to the pitcher.",
+        "Add lots of ice. Mix with a spoon and pour into glasses.",
+        "Add sliced strawberries and kiwi to each glass for garnish."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Kid Friendly",
+        "Vegetarian",
+        "Vegan",
+        "Holidays & Entertaining",
+        "Beverages",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "10mg",
+        "total_carbohydrate": "13g",
+        "fiber": "3g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/strawberry-kiwi-spritzer"
+}

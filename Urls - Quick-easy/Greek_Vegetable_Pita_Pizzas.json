@@ -1,0 +1,91 @@
+{
+    "title": "Greek Vegetable Pita Pizzas",
+    "keywords": "Dinner,Lunch,Quick & Easy,Sandwiches,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Sandwiches",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Diabetic%20greek%20pizza%20pita.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "whole wheat pita (4-inch diameter)",
+            "us_amount": "4 small",
+            "metric_amount": "4 small"
+        },
+        {
+            "name": "jarred low-sodium pizza sauce",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "reduced-fat Italian shredded cheese",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Kalamata olives (sliced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "roasted red peppers (sliced thin)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "marinated artichoke hearts (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "shallots (thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "reduced-fat feta cheese (crumbled)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "fresh basil (julienned)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400 degrees F.",
+        "Top pita bread with sauce, olives, peppers, artichokes, shallot, and Italian cheese.",
+        "Bake in the oven until the cheese melts and the pita is crispy, 7–8 minutes.",
+        "Remove from the oven and top with feta and fresh basil."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mediterranean",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Sandwiches",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "9g",
+        "saturated_fat": "3.1g",
+        "trans_fat": "0g",
+        "cholesterol": "15mg",
+        "sodium": "570mg",
+        "total_carbohydrate": "32g",
+        "fiber": "4g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/greek-vegetable-pita-pizzas"
+}

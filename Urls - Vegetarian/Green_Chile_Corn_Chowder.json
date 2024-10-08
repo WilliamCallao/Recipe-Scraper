@@ -1,0 +1,90 @@
+{
+    "title": "Green Chile Corn Chowder",
+    "keywords": "Dinner,Lunch,Main Dish,Soup,Vegetarian",
+    "prep_time": "PT20M",
+    "cook_time": "PT28M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Soup",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/diabetic-green-chile-corn-chowder-tex-mex-cookbook_080318_1021x779.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "frozen corn",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "large zucchini (chopped into 1/4-inch pieces)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "canned green chiles",
+            "us_amount": "1 cup",
+            "metric_amount": "1 cup"
+        },
+        {
+            "name": "reduced-sodium condensed cheese soup",
+            "us_amount": "2 (10.75 oz) cans",
+            "metric_amount": "2 (10.75 oz) cans"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "fat free half-and-half",
+            "us_amount": "2 1/2 cup",
+            "metric_amount": "592 ml"
+        },
+        {
+            "name": "reduced fat cheddar cheese (shredded)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "In a large skillet, heat oil and add garlic, corn, zucchini, and chiles. Saute over medium heat, stirring often, until zucchini starts to soften, 10-12 minutes. Set aside.",
+        "In a large pot, combine condensed soup, water, and half-and-half. Simmer, stirring occasionally, for 8-10 minutes.",
+        "Add corn mixture to chowder. Simmer, stirring, until heated through, 10-12 minutes.",
+        "To serve, ladle into individual bowls and garnish with cheese."
+    ],
+    "tags": [
+        "Mexican/Southwestern",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Soup",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "9g",
+        "saturated_fat": "3.2g",
+        "trans_fat": "0g",
+        "cholesterol": "15mg",
+        "sodium": "460mg",
+        "total_carbohydrate": "32g",
+        "fiber": "3g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/green-chile-corn-chowder"
+}

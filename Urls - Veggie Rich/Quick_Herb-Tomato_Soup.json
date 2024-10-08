@@ -1,0 +1,80 @@
+{
+    "title": "Quick Herb-Tomato Soup",
+    "keywords": "Dinner,Lunch,Cooking for 1 or 2,Appetizers,Vegetarian,Snacks,Sides,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Cooking for 1 or 2",
+        "Appetizers",
+        "Vegetarian",
+        "Snacks",
+        "Sides",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/428-diabetic-quick-herb-tomato-soup_shutterstock613482653_012919.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "diced tomatoes (14.5-ounce, no-salt added, undrained)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "garlic hummus (roasted)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "dried rosemary (crushed)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Italian seasoning blend (crumbled)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pepper (coarsely ground preferred)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "snipped fresh parsley (optional)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "In a small saucepan, stir together all the ingredients except the parsley. Bring to a simmer over medium-low heat. Reduce the heat and simmer for 5 minutes. Carefully pour into a blender and process until smooth (or remove from the heat and use an immersion, or handheld, blender.",
+        "Return to the pan. Heat over medium-low heat for 2 to 3 minutes, or until just simmering. Ladle into bowls. Garnish with the parsley."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Dinner",
+        "Lunch",
+        "Cooking for 1 or 2",
+        "Appetizers",
+        "Vegetarian",
+        "Snacks",
+        "Sides",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "125",
+        "total_fat": "6g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "16g",
+        "fiber": "5g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/quick-herb-tomato-soup"
+}

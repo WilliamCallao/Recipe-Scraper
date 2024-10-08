@@ -1,0 +1,108 @@
+{
+    "title": "Trinidadian Curry Vegetables",
+    "keywords": "Vegetarian,Main Dish,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "PT24M",
+    "categories": [
+        "Vegetarian",
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_884_Trinidadian_Curry_Vegetables_VegetarianCookbook_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "onion(s) (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "gingerroot (freshly minced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "medium zucchini (cut into 1/2-inch dice)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "jalapeño or serrano chili pepper (seeded and minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "medium all-purpose potato (peeled and cut into 1/2-inch dice)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "good-quality curry powder",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chickpeas, drained and rinsed",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "tomato(es) (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "water (or low-sodium vegetable stock)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "green onion (scallion) (chopped)",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "Juice of 1 lemon",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Heat oil over medium heat in a large saucepan. Sauté onion, garlic, and ginger for 2 minutes, stirring well.",
+        "Add zucchini, jalapeño pepper, and potato and sauté for 2 minutes longer. Add curry powder, chickpeas, tomato, water or vegetable stock, and scallions. Simmer for 20 minutes until potato is cooked through and a light sauce is formed.",
+        "Season with lemon juice and serve."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Low Sodium",
+        "Veggie Rich",
+        "Caribbean",
+        "Vegetarian",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "6g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "125mg",
+        "total_carbohydrate": "35g",
+        "fiber": "8g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/trinidadian-curry-vegetables"
+}

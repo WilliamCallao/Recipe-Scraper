@@ -1,0 +1,72 @@
+{
+    "title": "Bruschetta Stuffed Zucchini Boats",
+    "keywords": "Vegetarian,Sides,Quick & Easy,Appetizers",
+    "prep_time": "PT5M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_109_BruchettaStuffedZucchini_533351043_050118.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "zucchini",
+            "us_amount": "2 large",
+            "metric_amount": "2 large"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "jarred bruschetta",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Parmesan cheese (grated)",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        }
+    ],
+    "instructions": [
+        "Trim and discard the zucchini ends. Cut each zucchini in half lengthwise.",
+        "Using a spoon, scoop out the middle of the zucchini and leave a thin base at the bottom so the \"boat\" can be stuffed. Place the scooped-out centers into a small bowl; set aside.",
+        "Bring a medium pot of salted water to a boil. Blanch the zucchini boats just until they begin to soften, about 2-3 minutes. Immediately place the zucchini boats in a bowl of iced water. Drain the zucchini and place it on a baking sheet.",
+        "Heat the olive oil in a medium skillet over medium heat. Sprinkle the reserved zucchini mixture with black pepper; add to the pan, and sauté about 6-8 minutes. Stir in the bruschetta; lower the heat and simmer for 3 minutes.",
+        "Spoon the bruschetta mixture evenly into the four zucchini boats. Sprinkle each zucchini boat with 1 Tsp. parmesan cheese.",
+        "Heat the broiler. Broil the stuffed zucchini boats until slightly golden, about 2-3 minutes; watch closely to avoid burning."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Italian",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "75",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "9g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/bruschetta-stuffed-zucchini-boats"
+}

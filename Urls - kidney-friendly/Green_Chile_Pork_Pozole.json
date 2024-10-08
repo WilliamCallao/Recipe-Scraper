@@ -1,0 +1,114 @@
+{
+    "title": "Green Chile Pork Pozole",
+    "keywords": "Dinner,Gluten-Free,Lunch,Main Dish,Soup",
+    "prep_time": "PT20M",
+    "cook_time": "PT1H25M",
+    "categories": [
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Main Dish",
+        "Soup"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1690-diabetic-green-chile-pork-pozole_latin-comfort-foods-made-healthy_DFJanFeb2018_121018.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "pork tenderloin (trimmed and cut into 4 pieces)",
+            "us_amount": "1 1/4 lbs",
+            "metric_amount": "567 ml"
+        },
+        {
+            "name": "water (divided)",
+            "us_amount": "5 cup",
+            "metric_amount": "1 l 183 ml"
+        },
+        {
+            "name": "onion(s) (quartered)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh cilantro",
+            "us_amount": "6 sprigs",
+            "metric_amount": "6 sprigs"
+        },
+        {
+            "name": "garlic (halved, divided use)",
+            "us_amount": "6 diente",
+            "metric_amount": "6 diente"
+        },
+        {
+            "name": "bay leaves",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "tomatillos (husked, rinsed, and quartered )",
+            "us_amount": "1 lb (about 6)",
+            "metric_amount": "1 lb (about 6)"
+        },
+        {
+            "name": "serrano chiles (coarsely chopped)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "chopped fresh cilantro",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "white hominy (rinsed and drained)",
+            "us_amount": "2 (15 oz) cans",
+            "metric_amount": "2 (15 oz) cans"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "radishes (sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lime (cut into 6 wedges)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Combine the pork, 4 cups of the water, the onion, cilantro sprigs, 3 of the garlic cloves, and the bay leaves in a Dutch oven; bring to a boil. Reduce the heat to medium low and simmer, covered, until the meat is fork-tender, about 40 minutes.",
+        "Remove the Dutch oven from the heat. Transfer the pork to a cutting board and shred with two forks. Strain the cooking liquid from the Dutch oven and reserve 3 cups. Discard the rest.",
+        "Place the tomatillos, chiles, remaining 1 cup of water, and remaining 3 garlic cloves in a small saucepan and bring to a boil. Reduce the heat to medium low and simmer until the tomatillos are tender, about 15 minutes. Let cool for 10 minutes.",
+        "Transfer the tomatillo mixture and chopped cilantro to a food processor and pulse until smooth. Transfer to the Dutch oven. Add the shredded pork, the reserved 3 cups of cooking liquid, hominy, and salt and bring to a boil. Reduce the heat to medium low and simmer, covered, stirring occasionally, until the flavors are blended, about 20 minutes.",
+        "Ladle the soup into 6 bowls. Top each bowl with a few radish slices and a lime wedge."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Latin American",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Main Dish",
+        "Soup"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "4g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "360mg",
+        "total_carbohydrate": "20g",
+        "fiber": "4g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/green-chile-pork-pozole"
+}

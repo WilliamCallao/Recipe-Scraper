@@ -1,0 +1,84 @@
+{
+    "title": "Pumpkin Risotto (Risotto Di Zucca)",
+    "keywords": "Holidays & Entertaining,Sides,Vegetarian,Dinner",
+    "prep_time": "PT5M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Sides",
+        "Vegetarian",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_211638475.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "small yellow onion (minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Arborio or carnaroli rice",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "fresh pumpkin (finely chopped)",
+            "us_amount": "1 1/4 lbs",
+            "metric_amount": "567 ml"
+        },
+        {
+            "name": "white wine",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "vegetable stock",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        },
+        {
+            "name": "parmigiano-reggiano cheese (grated)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "yogurt (low-fat)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "In a heavy-bottomed saucepan, warm the oil over medium heat. When the oil is hot, add the onion and sauté until tender, about 3-5 minutes, but do not let the onion brown.",
+        "Add the rice and the pumpkin, and stir. Add the wine. Stir and cook until the wine evaporates.",
+        "Add just enough stock to cover the rice. Mix slowly, making sure the rice does not stick to the bottom of the pan. Once the stock is nearly absorbed, add more stock to cover. Repeat this process until the rice has absorbed all the broth, about 18-19 minutes. The rice should be cooked through with a slightly chewy texture.",
+        "Remove risotto from heat. Add the parmigiano-reggiano and yogurt. Mix vigorously until the risotto is well blended and has a creamy texture.",
+        "Serve immediately."
+    ],
+    "tags": [
+        "Italian",
+        "Holidays & Entertaining",
+        "Sides",
+        "Vegetarian",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "300",
+        "total_fat": "3g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "41g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pumpkin-risotto-risotto-di-zucca"
+}

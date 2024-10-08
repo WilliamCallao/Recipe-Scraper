@@ -1,0 +1,87 @@
+{
+    "title": "Sheet Pan Miso Salmon and Sesame Bok Choy",
+    "keywords": "Quick & Easy,Main Dish,Lunch,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2082-diabetic-low-carb-sheet-pan-miso-salmon-bok-choy_low-carb-brissette_050721.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "miso paste",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "rice vinegar",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "sesame oil (divided)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "reduced-sodium tamari",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salmon",
+            "us_amount": "4 (6-oz) fillets",
+            "metric_amount": "4 (6-oz) fillets"
+        },
+        {
+            "name": "baby bok choy",
+            "us_amount": "4 heads",
+            "metric_amount": "4 heads"
+        },
+        {
+            "name": "sesame seeds",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "In a medium bowl or large resealable plastic bag, mix the miso paste, rice vinegar, ½ tbsp of sesame oil and garlic. Add the salmon and gently coat with the marinade. Cover the bowl or seal the bag and marinate in the fridge for 15 minutes (if you’re short on time you can skip the marinating step).",
+        "Preheat your oven to 450 degrees F. Line a rimmed baking sheet with parchment paper.",
+        "Cut the root ends off the bok choy and cut each one in half horizontally.",
+        "Remove salmon fillets from the marinade and place on one end of the prepared baking sheet, skin side down. (Discard any remaining marinade.)",
+        "At the other end of the baking sheet, arrange the bok choy cut side down. Drizzle with the remaining ½ tbsp of sesame oil and tamari.",
+        "Roast for 8 minutes or until the salmon is cooked through and the bok choy is tender.",
+        "Plate the salmon filets and bok choy and sprinkle the bok choy with sesame seeds."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "320",
+        "total_fat": "17g",
+        "saturated_fat": "3.3g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "490mg",
+        "total_carbohydrate": "5g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "36g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sheet-pan-miso-salmon-and-sesame-bok-choy"
+}

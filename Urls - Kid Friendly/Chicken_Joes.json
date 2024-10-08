@@ -1,0 +1,91 @@
+{
+    "title": "Chicken Joes",
+    "keywords": "Dinner,Lunch,Sandwiches",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Sandwiches"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_253271083.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "ground chicken",
+            "us_amount": "3/4 lbs",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "small onion (minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "paprika salt (to taste)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "red or green bell pepper (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zucchini (diced)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "14 1/2-ounce can diced tomatoes (drained)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "bottled BBQ sauce (look for a brand with the lowest amount of sugar)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "whole wheat hamburger buns (toasted )",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "In a large skillet, cook the ground chicken, onion, garlic, chili powder, paprika, salt, and pepper over medium heat until meat is browned, about 5–6 minutes.",
+        "Add in the green or red pepper and zucchini and cook over low heat for about 5 minutes, until vegetables are tender. Add the diced tomatoes and BBQ sauce and simmer for 10 minutes.",
+        "Serve the mixture over half of a toasted bun."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Kid Friendly",
+        "Dinner",
+        "Lunch",
+        "Sandwiches"
+    ],
+    "nutrition": {
+        "calories": "145",
+        "total_fat": "4.5g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "340mg",
+        "total_carbohydrate": "17g",
+        "fiber": "3g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-joes"
+}

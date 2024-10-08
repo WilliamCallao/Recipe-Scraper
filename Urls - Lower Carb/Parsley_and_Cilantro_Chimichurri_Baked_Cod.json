@@ -1,0 +1,94 @@
+{
+    "title": "Parsley and Cilantro Chimichurri Baked Cod",
+    "keywords": "Main Dish,Foodie,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Main Dish",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Diabetic%20cod%20chimicurri%20parsley.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "4 oz cod filets",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "garlic",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "red onion (chopped)",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "fresh flat leaf parsley (packed)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "fresh cilantro leaves (packed)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "red wine vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lime (zest and juice from lime needed)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "olive oil (divided use)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400 degrees F.",
+        "Place the cod filets on a parchment paper lined baking sheet. Lightly drizzle with 1 tbsp. oil. Place the baking sheet in the oven and cook until the internal temperature of the fish is 145 degrees F, 8–10 minutes.",
+        "Place the garlic, onion, parsley, cilantro, crushed red pepper, and black pepper in a food processor. Process until finely chopped.",
+        "Add vinegar, lime zest and juice, and 3 tbsp. olive oil. Process until smooth and set aside.",
+        "To serve, divide fish between plates and top with chimichurri sauce."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Latin American",
+        "Main Dish",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "15g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "85mg",
+        "total_carbohydrate": "6g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/parsley-and-cilantro-chimichurri-baked-cod"
+}

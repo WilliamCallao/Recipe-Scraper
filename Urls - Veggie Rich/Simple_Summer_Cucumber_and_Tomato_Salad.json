@@ -1,0 +1,81 @@
+{
+    "title": "Simple Summer Cucumber and Tomato Salad",
+    "keywords": "Salads,Vegetarian,Sides,Quick & Easy,No Cook,Holidays & Entertaining,Gluten-Free",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "No Cook",
+        "Holidays & Entertaining",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/492-diabetic-simple-summer-cucumber-tomato-salad_082418_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "cucumber(s) (peeled and cut in half)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "cherry tomatoes",
+            "us_amount": "10 1/2 oz",
+            "metric_amount": "297 ml"
+        },
+        {
+            "name": "red wine vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "pinch salt (optional)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Cut each cucumber half in half and slice into large chunks. Cut cherry tomatoes in half.",
+        "Place the cucumber in a salad bowl with the cherry tomatoes.",
+        "In a small bowl, whisk together the dressing ingredients. Pour the dressing over the cucumbers and tomatoes and serve."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Lower Carb",
+        "Mediterranean",
+        "Salads",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "No Cook",
+        "Holidays & Entertaining",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "5mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/simple-summer-cucumber-and-tomato-salad"
+}

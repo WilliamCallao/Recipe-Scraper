@@ -1,0 +1,95 @@
+{
+    "title": "Chicken Cheddar Rice with Asparagus",
+    "keywords": "Main Dish,Dinner,Lunch",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Main Dish",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_161_Chicken_Cheddar_Rice_with_Asparagus_PNCImages_02272018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "water",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "chicken thigh meat (boneless, skinless, trimmed of fat and cut into bite-size pieces)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "onion(s) (diced)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "uncooked brown rice (preferably parboiled variety)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "medium garlic cloves (minced)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "chicken bouillon granules (sodium-free)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "thyme leaves (dried)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "fresh asparagus tips (broken in 2-inch pieces, or frozen French cut green beans, thawed)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "cheddar cheese ((1/2 cup) reduced-fat, shredded sharp)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        }
+    ],
+    "instructions": [
+        "Coat a 3 1/2- to 4-quart slow cooker with cooking spray. Place the water, chicken, onion, rice, garlic, chicken bouillon, and thyme in the slow cooker. Cover and cook on high for 1 1/2 hours or on low for 3 hours.",
+        "Turn off the heat. Fluff the rice with a fork. Stir in the asparagus. Cover and let stand 10 minutes. Stir in the salt and sprinkle with the cheese."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Comfort Food",
+        "Main Dish",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "8g",
+        "saturated_fat": "3.5g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "460mg",
+        "total_carbohydrate": "27g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-cheddar-rice-asparagus"
+}

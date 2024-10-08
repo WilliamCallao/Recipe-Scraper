@@ -1,0 +1,75 @@
+{
+    "title": "Side Greek Salad with Red Wine Vinaigrette",
+    "keywords": "Dinner,Lunch,Salads,Sides,Vegan,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Salads",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1912-diabetic-side-greek-salad-red-wine-vinaigrette_create-your-pate_022020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "chopped romaine lettuce",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "red onion (thinly sliced)",
+            "us_amount": "1/4 med",
+            "metric_amount": "1/4 med"
+        },
+        {
+            "name": "cucumber (cut into half moons)",
+            "us_amount": "1/2 med",
+            "metric_amount": "1/2 med"
+        },
+        {
+            "name": "tomato (halved then thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pitted Kalamata olives",
+            "us_amount": "about 8 olives",
+            "metric_amount": "about 8 olives"
+        },
+        {
+            "name": "red wine vinaigrette",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Add the lettuce, onion, cucumber, tomato, and olives to a large bowl. Toss to combine. Drizzle with the Red Wine Vinaigrette and toss again to evenly coat the vegetables."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mediterranean",
+        "Dinner",
+        "Lunch",
+        "Salads",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "11g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "170mg",
+        "total_carbohydrate": "7g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/side-greek-salad-red-wine-vinaigrette"
+}

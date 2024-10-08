@@ -1,0 +1,93 @@
+{
+    "title": "Roasted Greek Eggplant with Feta",
+    "keywords": "Foodie,Holidays & Entertaining,Sides,Vegetarian",
+    "prep_time": "PT12M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Foodie",
+        "Holidays & Entertaining",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_808_Roasted%20Eggplant_AllNaturalCookbook_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "marinara sauce",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Juice and zest of 1/2 small lemon (divided)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "large clove garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "sea salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground cinnamon (ground)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "small eggplants (each quartered lengthwise, stems removed)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "fresh parsley",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "chopped fresh mint OR 1 teaspoon chopped fresh oregano",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "feta cheese (finely crumbled)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400°F. In a small bowl, whisk together the marinara sauce, lemon juice, oil, garlic, salt, and cinnamon. Arrange the eggplant wedges, skin side down, on an unbleached parchment paper–lined baking sheet. Generously brush the cut surfaces of the eggplant wedges with the marinara mixture.",
+        "Roast the eggplant wedges until fully cooked, about 30 minutes.",
+        "Transfer to a platter, sprinkle with the parsley, mint, feta, and lemon zest, and serve."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mediterranean",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "5g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "280mg",
+        "total_carbohydrate": "14g",
+        "fiber": "6g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-greek-eggplant-feta"
+}

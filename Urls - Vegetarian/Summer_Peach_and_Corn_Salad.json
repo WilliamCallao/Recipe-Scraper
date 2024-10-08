@@ -1,0 +1,128 @@
+{
+    "title": "Summer Peach and Corn Salad",
+    "keywords": "Vegetarian,Snacks,Salads,Dessert",
+    "prep_time": "PT20M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Vegetarian",
+        "Snacks",
+        "Salads",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/17XX-diabetic-summer-peach-corn-salad_sabores-de-cuba_013019_2959761669.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "ripe peaches (washed and cut into quarters)",
+            "us_amount": "5",
+            "metric_amount": "5"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground nutmeg",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "avocado oil (divided)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "ears corn (husks removed, washed)",
+            "us_amount": "5",
+            "metric_amount": "5"
+        },
+        {
+            "name": "red onion (peeled and thinly sliced)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "fat-free plain Greek yogurt",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "kosher salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "fennel seeds",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground coriander",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "avocado oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lime juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "chopped cilantro",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "To a large bowl, add peaches, vanilla, nutmeg, cinnamon, and 1 teaspoon avocado oil, and toss gently.",
+        "Preheat a medium nonstick pan over medium heat. Add peaches to the pan and lightly brown them on both sides. Transfer to a small baking sheet and place in the refrigerator.",
+        "Place corn in a pot of cold water and bring to a boil until corn is cooked through, about 10–15 minutes. Remove from water and cut in half.",
+        "Preheat a medium nonstick pan over medium heat and add 1 teaspoon avocado oil. Wait 10 seconds and then add corn. Lightly brown all sides of the corn. Transfer corn to a small baking sheet and place in the refrigerator.",
+        "Once peaches and corn are cool, remove from the refrigerator. Cut the corn kernels off the ear; add to a bowl along with the peaches and add onions.",
+        "To a separate bowl, add all dressing ingredients. Whisk together until it reaches a smooth consistency. Add dressing to corn, peaches, onions, and toss gently. Serve."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Latin American",
+        "Caribbean",
+        "Vegetarian",
+        "Snacks",
+        "Salads",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "6g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "33g",
+        "fiber": "5g",
+        "sugar": "19g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/summer-peach-and-corn-salad"
+}

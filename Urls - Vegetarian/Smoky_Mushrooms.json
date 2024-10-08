@@ -1,0 +1,71 @@
+{
+    "title": "Smoky Mushrooms",
+    "keywords": "Vegetarian,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Vegetarian",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/smoky-mushrooms-May16.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "toasted sesame oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "liquid smoke",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 1/2 tbsp",
+            "metric_amount": "37 ml"
+        },
+        {
+            "name": "white (button) mushrooms",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        },
+        {
+            "name": "Parchment Paper",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350 F. Line two baking sheets with parchment paper; set aside.",
+        "Trim the stems of the white or cremini mushrooms. If you’re using shiitake mushrooms, remove and discard the entire stem. Slice the mushrooms into 3/8-inch-thick pieces. Add the mushrooms to a bowl. Add the remaining ingredients and toss well. The mixture will look dry.",
+        "Spread the mushrooms in a single layer on each sheet. Roast for 10 minutes. Flip the mushroom slices and roast for 10 minutes more.",
+        "Increase the heat to 375 F and roast for 15 minutes. Flip the mushroom slices again and continue to roast for 10 minutes more. Serve as a side dish, or add to sandwiches, omelets, and soups."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Mexican/Southwestern",
+        "Vegetarian",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "10g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/smoky-mushrooms"
+}

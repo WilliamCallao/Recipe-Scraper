@@ -1,0 +1,87 @@
+{
+    "title": "Southwest Breakfast Quiche",
+    "keywords": "Quick & Easy,Easy Pantry Recipes,Budget Friendly,Breakfast and Brunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Quick & Easy",
+        "Easy Pantry Recipes",
+        "Budget Friendly",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1961-diabetic-Southwest-Quiche_Magee_050120.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "whole wheat flour",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "baking powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "egg whites or egg substitute",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "skim milk",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "canned green chiles",
+            "us_amount": "1 (7-oz) can",
+            "metric_amount": "1 (7-oz) can"
+        },
+        {
+            "name": "fat free cottage cheese  (whipped in a food processor until smooth)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "reduced fat shredded cheddar cheese",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 400º F. Coat a 9-inch round or square baking dish with canola cooking spray; set aside.",
+        "In mixer bowl, combine eggs, flour, and baking powder, and beat until blended. Add egg whites and milk and beat until smooth. On low speed, beat in green chilis, cottage cheese and shredded cheese.",
+        "Pour mixture into prepared dish and bake for 15 minutes. Reduce heat to 350-degrees and bake for about 25 minutes more (until quiche is firm in the center and top is golden brown). Cut into 6 equal slices and serve as is or top with salsa, avocado or plain Greek yogurt."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Quick & Easy",
+        "Easy Pantry Recipes",
+        "Budget Friendly",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "7g",
+        "saturated_fat": "3.3g",
+        "trans_fat": "0g",
+        "cholesterol": "110mg",
+        "sodium": "500mg",
+        "total_carbohydrate": "10g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/southwest-breakfast-quiche"
+}

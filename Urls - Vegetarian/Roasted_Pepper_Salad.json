@@ -1,0 +1,88 @@
+{
+    "title": "Roasted Pepper Salad",
+    "keywords": "Vegan,Vegetarian,Sides,Salads,Holidays & Entertaining,Foodie",
+    "prep_time": "PT30M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Vegan",
+        "Vegetarian",
+        "Sides",
+        "Salads",
+        "Holidays & Entertaining",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_813_RoastedPepperSalad_PerfectComfortCollection_022618.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "large red peppers",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "large orange or yellow bell peppers",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "large green peppers",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "tablespoons extra virgin olive oil (divided use)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "small garlic (very finely chopped or crushed)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "black olives (pitted)",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "Handful of small fresh basil leaves",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400°F. Brush the peppers with 1 tablespoon of the olive oil and arrange them in a shallow roasting pan. Roast for about 35 minutes or until the pepper skins are evenly darkened, turning them 3 or 4 times. Place the peppers in a bowl, cover with plastic wrap, and leave until they are cool enough to handle.",
+        "Working over a bowl to catch the juice, peel the peppers. Cut them in half and discard the cores and seeds (strain out any seeds that fall into the juice), then cut into thick slices.",
+        "Measure 1 1/2 tbsp. of the pepper juice into a small bowl (discard the remainder). Add the vinegar and garlic and whisk in the remaining 1 tablespoon of olive oil.",
+        "Arrange the peppers on a serving platter or on individual salad plates. Drizzle with dressing and garnish with the olives and basil."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Comfort Food",
+        "Vegan",
+        "Vegetarian",
+        "Sides",
+        "Salads",
+        "Holidays & Entertaining",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "6g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "85mg",
+        "total_carbohydrate": "12g",
+        "fiber": "3g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-pepper-salad"
+}

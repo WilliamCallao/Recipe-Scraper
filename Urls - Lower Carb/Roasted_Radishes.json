@@ -1,0 +1,67 @@
+{
+    "title": "Roasted Radishes",
+    "keywords": "Vegetarian,Vegan,Sides",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Diabetic%20Roasted%20Radishes%20Diabetes%20Food%20Hub.png",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "radish",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "juice of 1/2 lemon",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 425 degrees F.",
+        "Wash the radishes and trim off the stems. Reserve a few leaves from the radishes and slice into thin strips for garnish. Halve the radishes and toss with the garlic, oil, and salt.",
+        "Line a baking sheet with foil and place radishes cut-side down. Place in the oven and roast for 20–25 minutes until tender when pierced with a fork.",
+        "Remove from the oven and toss with lemon juice and radish leaves."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Vegetarian",
+        "Vegan",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "30",
+        "total_fat": "2.5g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-radishes"
+}

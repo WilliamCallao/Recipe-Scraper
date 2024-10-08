@@ -1,0 +1,110 @@
+{
+    "title": "Sun-Kissed Health Salad",
+    "keywords": "Vegetarian,Vegan,Sides,Salads,Salad Dressings & Condiments,Lunch,Gluten-Free",
+    "prep_time": "PT30M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Salads",
+        "Salad Dressings & Condiments",
+        "Lunch",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/942-diabetic-sun-kissed-health-salad_MFTK-comfort-favorites_082218_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "orange juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "avocado (divided use, pitted, peeled, and diced)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "fresh parsley (stems removed)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "garlic",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "bibb or boston lettuce (cut into 1-inch pieces)",
+            "us_amount": "1 head",
+            "metric_amount": "1 head"
+        },
+        {
+            "name": "grape or cherry tomatoes (cut in half)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "quinoa (cooked according to package directions and cooled)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "frozen shelled edamame (cooked according to package directions)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "unsalted pepitas",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Make the citrus dressing: In a blender or food processor, blend olive oil, lemon juice, orange juice, 1/4 of the avocado, parsley, salt, and garlic until smooth. Set aside.",
+        "In a large bowl, combine lettuce, tomato, quinoa, edamame, the rest of the avocado, and pepitas. Pour dressing over salad and toss gently. Serve immediately or chill until ready to serve."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "High in Fiber",
+        "Comfort Food",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Salads",
+        "Salad Dressings & Condiments",
+        "Lunch",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "12g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "105mg",
+        "total_carbohydrate": "17g",
+        "fiber": "5g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sun-kissed-health-salad"
+}

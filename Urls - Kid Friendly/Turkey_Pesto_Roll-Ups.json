@@ -1,0 +1,70 @@
+{
+    "title": "Turkey Pesto Roll-Ups",
+    "keywords": "Sandwiches,Quick & Easy,No Cook,Lunch,Cooking for 1 or 2",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sandwiches",
+        "Quick & Easy",
+        "No Cook",
+        "Lunch",
+        "Cooking for 1 or 2"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Mar14_Turkey_Roll_Up.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "whole wheat flour tortillas (10-inch)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "pesto sauce",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sun-dried tomatoes (rehydrated, thinly sliced)",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "deli turkey (thinly sliced )",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "spinach",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        }
+    ],
+    "instructions": [
+        "Place the tortilla on a work surface. Spread the pesto on the tortilla.",
+        "Sprinkle the sun-dried tomatoes over the pesto. Layer the turkey slices over the tomatoes and top with the spinach leaves. For easy rolling, leave about 2 inches around the edge of the tortilla uncovered.",
+        "Roll the tortilla into a log shape. Cut the roll in half; if desired, slice each half into three pieces to pack."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Italian",
+        "Sandwiches",
+        "Quick & Easy",
+        "No Cook",
+        "Lunch",
+        "Cooking for 1 or 2"
+    ],
+    "nutrition": {
+        "calories": "205",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "35mg",
+        "sodium": "470mg",
+        "total_carbohydrate": "26g",
+        "fiber": "4g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/turkey-pesto-roll-ups"
+}

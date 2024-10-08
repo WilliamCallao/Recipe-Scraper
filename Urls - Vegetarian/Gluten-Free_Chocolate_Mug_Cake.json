@@ -1,0 +1,98 @@
+{
+    "title": "Gluten-Free Chocolate Mug Cake",
+    "keywords": "Quick & Easy,Vegetarian,Gluten-Free,Dessert",
+    "prep_time": "PT5M",
+    "cook_time": "PT1M",
+    "categories": [
+        "Quick & Easy",
+        "Vegetarian",
+        "Gluten-Free",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/258-diabetic-gluten-free-mug-chocolate-mug-cake-dessert_AdobeStock250085424_012121.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "gluten-free flour",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "old-fashioned rolled oats (gluten-free)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "unsweetened cocoa powder",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "baking powder",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt (or 1/16 tsp)",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "Truvia or other sugar substitute",
+            "us_amount": "4 packet",
+            "metric_amount": "4 packet"
+        },
+        {
+            "name": "skim milk (fat-free)",
+            "us_amount": "2 1/2 tbsp",
+            "metric_amount": "37 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "raspberries",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "In a large mug, mix together flour, oats, cocoa powder, baking powder, salt and Truvia. Add in milk, oil, water and vanilla. Stir to mix well.",
+        "Microwave for 1 minute to 1 minute 30 seconds. Serve with fresh raspberries."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Comfort Food",
+        "Kid Friendly",
+        "Quick & Easy",
+        "Vegetarian",
+        "Gluten-Free",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "9g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "23g",
+        "fiber": "7g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/gluten-free-chocolate-mug-cake"
+}

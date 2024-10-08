@@ -1,0 +1,102 @@
+{
+    "title": "Swordfish Alla Ghiotta",
+    "keywords": "Quick & Easy,One Pot,Main Dish,Gluten-Free,Dinner",
+    "prep_time": "PT5M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Quick & Easy",
+        "One Pot",
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1780-diabetic-mediterranean-Swordfish-Alla-Ghiotta_MediterraneanCkbk_051019.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "celery (diced)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "boxed no-salt-added chopped tomatoes, or canned petite diced tomatoes",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "freshly chopped basil",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "capers (rinsed and well drained)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "green olives (rinsed, drained, pitted, and roughly chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "boneless swordfish",
+            "us_amount": "4 (4 oz) fillets",
+            "metric_amount": "4 (4 oz) fillets"
+        }
+    ],
+    "instructions": [
+        "Heat olive oil in a large skillet over medium heat. Add celery and sauté until tender, approximately 5 minutes, stirring occasionally. Add garlic and cook until it releases its aroma, but do not let garlic turn brown.",
+        "Stir in chopped tomatoes, basil, salt, pepper, crushed red pepper, capers, and olives. Mix well to combine, and cover. Reduce heat to low and simmer for 5 minutes.",
+        "Carefully remove lid from tomato sauce and add swordfish fillets into simmering sauce. Cover and cook for 10–15 minutes or until fish is cooked through.",
+        "Transfer fish to a serving platter, top with sauce, and serve."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Mediterranean",
+        "Quick & Easy",
+        "One Pot",
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "9g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "450mg",
+        "total_carbohydrate": "8g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/swordfish-alla-ghiotta"
+}

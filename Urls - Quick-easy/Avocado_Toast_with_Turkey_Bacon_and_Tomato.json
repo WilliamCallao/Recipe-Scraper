@@ -1,0 +1,77 @@
+{
+    "title": "Avocado Toast with Turkey Bacon and Tomato",
+    "keywords": "Quick & Easy,Cooking for 1 or 2,Budget Friendly,Breakfast and Brunch",
+    "prep_time": "PT5M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Quick & Easy",
+        "Cooking for 1 or 2",
+        "Budget Friendly",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1915-diabetic-breakfast-avocado-toast-turkey-bacon-tomato_create-your-plate_022020.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lean turkey bacon",
+            "us_amount": "2 slices",
+            "metric_amount": "2 slices"
+        },
+        {
+            "name": "ripe avocado (pitted and halved)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "100% whole-wheat bread (toasted)",
+            "us_amount": "2 slices",
+            "metric_amount": "2 slices"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "plum tomato (thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Coat a medium skillet with nonstick cooking spray and place it over medium heat until hot. Add the turkey bacon and cook until crispy, 8 minutes, flipping the slices over halfway through. Transfer the bacon to a paper towel–lined plate.",
+        "Scoop out the flesh from each avocado half onto a slice of toasted bread. Mash the avocado with a fork until flattened. Sprinkle with sea salt and black pepper.",
+        "Top each avocado toast with 1 slice of turkey bacon and half of the tomato slices."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Quick & Easy",
+        "Cooking for 1 or 2",
+        "Budget Friendly",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "130g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "450mg",
+        "total_carbohydrate": "20g",
+        "fiber": "7g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/avocado-toast-turkey-bacon-and-tomato"
+}

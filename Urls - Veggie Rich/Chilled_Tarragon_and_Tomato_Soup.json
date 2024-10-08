@@ -1,0 +1,90 @@
+{
+    "title": "Chilled Tarragon and Tomato Soup",
+    "keywords": "Vegetarian,Vegan,Soup,Sides,Lunch,Gluten-Free,Foodie,Dinner",
+    "prep_time": "PT5M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Soup",
+        "Sides",
+        "Lunch",
+        "Gluten-Free",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Diabetic-chilled-tarragon-tomato-soup_Med-ckbk_DFMayJun19_040219.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "cherry tomatoes",
+            "us_amount": "3 lbs",
+            "metric_amount": "1 l 361 ml"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "sugar",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "finely chopped tarragon leaves (divided)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 425°F.",
+        "Place the tomatoes, balsamic vinegar, sugar, lemon juice, and 1 Tbsp of the tarragon in a food processor or blender. Mix to form a smooth soup.",
+        "Place a large, fine mesh strainer or chinois over a bowl and pour in the soup. Use a wooden spoon to turn and press the soup through the strainer, a little at a time, until the tomato solids are left in the strainer and the liquid has passed through.",
+        "Place the soup in a large saucepan and season with the salt and pepper, to taste.",
+        "Bring the mixture to a boil over high heat, then reduce the heat to low and simmer, uncovered, for 10 to 20 minutes, or until the soup is thickened and the volume has been reduced by about a third.",
+        "Garnish the soup with the remaining tarragon leaves. Refrigerate and serve chilled. (If preferred, serve warm.)"
+    ],
+    "tags": [
+        "Lower Carb",
+        "Veggie Rich",
+        "Mediterranean",
+        "Vegetarian",
+        "Vegan",
+        "Soup",
+        "Sides",
+        "Lunch",
+        "Gluten-Free",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "40",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "9g",
+        "fiber": "3g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chilled-tarragon-and-tomato-soup"
+}

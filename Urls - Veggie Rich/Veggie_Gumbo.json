@@ -1,0 +1,112 @@
+{
+    "title": "Veggie Gumbo",
+    "keywords": "Dinner,Vegetarian,Main Dish,Foodie",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Vegetarian",
+        "Main Dish",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_578_Veggie_Gumbo_PNCImages_03012018.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "all-purpose flour",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "small onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "green bell pepper (seeded and diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "red bell pepper (seeded and diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "celery (diced)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt-free cajun seasoning",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "low sodium vegetable broth",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "baby spinach",
+            "us_amount": "9 oz",
+            "metric_amount": "255 ml"
+        },
+        {
+            "name": "black-eyed peas (drained and rinsed)",
+            "us_amount": "1 (14.5-oz) can",
+            "metric_amount": "1 (14.5-oz) can"
+        }
+    ],
+    "instructions": [
+        "Add the vegetable oil to a large pot over medium-high heat. Add the flour and cook, stirring, until golden, about 3 minutes.",
+        "Add the onion, bell peppers, celery, and garlic. Reduce the heat to medium and cook, stirring frequently, until the vegetables soften, about 5-7 minutes.",
+        "Add the salt (optional), ground black pepper, and Cajun seasoning. Cook for another minute.",
+        "Pour in the vegetable broth, scraping up any browned bits from the bottom of the pot. Bring to a boil, then reduce to a simmer and cover.",
+        "Simmer, covered, for 40 minutes, stirring occasionally.",
+        "Add the spinach and black-eyed peas. Continue to simmer until the spinach is wilted."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Comfort Food",
+        "Dinner",
+        "Vegetarian",
+        "Main Dish",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "6g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "440mg",
+        "total_carbohydrate": "22g",
+        "fiber": "6g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/veggie-gumbo"
+}

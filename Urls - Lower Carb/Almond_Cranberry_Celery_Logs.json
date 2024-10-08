@@ -1,0 +1,69 @@
+{
+    "title": "Almond Cranberry Celery Logs",
+    "keywords": "Appetizers,Gluten-Free,No Cook,Quick & Easy,Snacks,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "Gluten-Free",
+        "No Cook",
+        "Quick & Easy",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2025-diabetic-Almond-Cranberry-Celery-Logs_DaVita_040821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "celery (washed and trimmed)",
+            "us_amount": "4 stalks",
+            "metric_amount": "4 stalks"
+        },
+        {
+            "name": "mixed berry whipped cream cheese",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "dried cranberries",
+            "us_amount": "24",
+            "metric_amount": "24"
+        },
+        {
+            "name": "unsalted almonds",
+            "us_amount": "12",
+            "metric_amount": "12"
+        }
+    ],
+    "instructions": [
+        "Fill each celery stalk with 1 tbsp cream cheese, then cut each stalk into 3 equal pieces. Top each piece with 1 almond and 2 dried cranberries. Serve immediately, or cover and refrigerate until ready to serve."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Kid Friendly",
+        "Appetizers",
+        "Gluten-Free",
+        "No Cook",
+        "Quick & Easy",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "4g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "65mg",
+        "total_carbohydrate": "6g",
+        "fiber": "1g",
+        "sugar": "5g",
+        "added_sugar": "2g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/almond-cranberry-celery-logs"
+}

@@ -1,0 +1,85 @@
+{
+    "title": "Fresh Black Bean Salsa",
+    "keywords": "Quick & Easy,Snacks,Vegetarian,Gluten-Free,Holidays & Entertaining,Appetizers",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Snacks",
+        "Vegetarian",
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_242_Fresh_Black_Bean_Salsa_MG_PNCImages_02272018.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "tortilla chips (multigrain, scoops)",
+            "us_amount": "80",
+            "metric_amount": "80"
+        },
+        {
+            "name": "canned black beans (rinsed and drained)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "large tomatoes (diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "finely diced onion (finely diced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Juice of 1 small lime",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "finely chopped fresh cilantro",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "In a medium bowl, mix together all ingredients except chips.",
+        "Serve salsa in a bowl with chips on the side."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Quick & Easy",
+        "Snacks",
+        "Vegetarian",
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "6g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "125mg",
+        "total_carbohydrate": "22g",
+        "fiber": "4g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fresh-black-bean-salsa"
+}

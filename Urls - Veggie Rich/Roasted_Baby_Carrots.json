@@ -1,0 +1,73 @@
+{
+    "title": "Roasted Baby Carrots",
+    "keywords": "Vegetarian,Sides,Quick & Easy,Holidays & Entertaining",
+    "prep_time": "PT5M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/443-roasted-baby-carrots_AdobeStock228580571_021821.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "baby carrots",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "honey or 2 packets artificial sweetener",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chopped fresh parsley or 1 tsp dried parsley",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 425 degrees F. Spray a baking sheet with cooking spray.",
+        "In a small bowl, mix together the carrots and olive oil. Pour the mixture onto the baking sheet.",
+        "Bake for 15-20 minutes, until the carrots are tender.",
+        "Place the carrots into a bowl and mix with the honey or artificial sweetener. Sprinkle the carrots with parsley or other herbs."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Veggie Rich",
+        "Lower Carb",
+        "Low Sodium",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "40mg",
+        "total_carbohydrate": "8g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-baby-carrots"
+}

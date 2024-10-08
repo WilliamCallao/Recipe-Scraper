@@ -1,0 +1,82 @@
+{
+    "title": "Roasted Pineapple Salsa",
+    "keywords": "Vegetarian,Vegan,Snacks,Salad Dressings & Condiments,Quick & Easy,Gluten-Free,Foodie,Budget Friendly,Appetizers",
+    "prep_time": "PT6M",
+    "cook_time": "PT2M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Snacks",
+        "Salad Dressings & Condiments",
+        "Quick & Easy",
+        "Gluten-Free",
+        "Foodie",
+        "Budget Friendly",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/diabetic-roasted-pineapple-salsa-tex-mex-cookbook_080318_1021x779.jpg",
+    "servings": "20 Servings",
+    "ingredients": [
+        {
+            "name": "canned pineapple chunks (drained and chopped)",
+            "us_amount": "2 cups",
+            "metric_amount": "2 cups"
+        },
+        {
+            "name": "red onion (minced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "red bell pepper (diced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "jalapeño pepper (seeded and minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "green onion (scallion) (green part only, chopped)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        }
+    ],
+    "instructions": [
+        "In a skillet over high heat, cook pineapple chunks until slightly charred, about 2 minutes. Remove from skillet and cool to room temperature.",
+        "Refrigerate in an airtight container, stirring occasionally, for 1 hour or up to 24 hours.",
+        "Place pineapple chunks in a large bowl. Add onion, bell pepper, jalapeno, and green onions. Mix well."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Low Sodium",
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Mexican/Southwestern",
+        "Vegetarian",
+        "Vegan",
+        "Snacks",
+        "Salad Dressings & Condiments",
+        "Quick & Easy",
+        "Gluten-Free",
+        "Foodie",
+        "Budget Friendly",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "15",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "3g",
+        "fiber": "0g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-pineapple-salsa"
+}

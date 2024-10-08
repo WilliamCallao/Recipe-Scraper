@@ -1,0 +1,102 @@
+{
+    "title": "Fennel, Radish, and Orange Salad",
+    "keywords": "Salads,Vegetarian,Sides,No Cook,Foodie,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Vegetarian",
+        "Sides",
+        "No Cook",
+        "Foodie",
+        "Quick & Easy"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/1746-espanol-diabetic-ensalada-hinojo-rabanos-naranja_latin-comfort-foods_13020.jpg",
+        "Radish",
+        "and Orange Salad\" loading=\"lazy\" />"
+    ],
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "sherry vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "honey",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "navel oranges (peeled and cut into wedges)",
+            "us_amount": "2 (about 1 1/2 lbs total)",
+            "metric_amount": "2 (about 1 1/2 lbs total)"
+        },
+        {
+            "name": "fennel bulb (halved, cored, and thinly sliced)",
+            "us_amount": "1 large (about 1 lb)",
+            "metric_amount": "1 large (about 1 lb)"
+        },
+        {
+            "name": "radishes (thinly sliced)",
+            "us_amount": "6 whole",
+            "metric_amount": "6 whole"
+        },
+        {
+            "name": "chopped fresh mint",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "baby arugula",
+            "us_amount": "5 oz (about 6 cups)",
+            "metric_amount": "5 oz (about 6 cups)"
+        }
+    ],
+    "instructions": [
+        "Whisk together the vinegar, oil, honey, salt, and pepper in a large bowl. Add the oranges, fennel, radishes, and mint; toss until well mixed.",
+        "Serve over a bed of arugula."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Latin American",
+        "Salads",
+        "Vegetarian",
+        "Sides",
+        "No Cook",
+        "Foodie",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "240mg",
+        "total_carbohydrate": "16g",
+        "fiber": "5g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fennel-radish-and-orange-salad"
+}

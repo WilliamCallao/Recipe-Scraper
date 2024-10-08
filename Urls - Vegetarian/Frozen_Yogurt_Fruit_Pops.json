@@ -1,0 +1,74 @@
+{
+    "title": "Frozen Yogurt Fruit Pops",
+    "keywords": "Easy Pantry Recipes,Vegetarian,Foodie,Dessert,Snacks",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Vegetarian",
+        "Foodie",
+        "Dessert",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/243-diabetic-frozen-yogurt-fruit_684586864_081118.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "pecans (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "cake pop sticks",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "blueberry Greek yogurt (non-fat)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "strawberries (hulled)",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "Wax paper",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Line a small baking sheet with wax paper. Set aside.",
+        "Insert the cake pop sticks into the top part of the strawberry. Do not pierce through the end of the strawberry.",
+        "Dip each strawberry in the yogurt, shaking so that each strawberry is thinly coated. Use a spoon to help coat the strawberries if needed.",
+        "Sprinkle 1 teaspoon of pecans over each coated strawberry.",
+        "Place the strawberry pops on the baking sheet and freeze for 1-2 hours or until the yogurt is frozen. Once the pops are frozen, remove from the wax paper and serve or put in a freezer zip top bag."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Kid Friendly",
+        "Comfort Food",
+        "Easy Pantry Recipes",
+        "Vegetarian",
+        "Foodie",
+        "Dessert",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "55",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "5mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/frozen-yogurt-fruit-pops"
+}

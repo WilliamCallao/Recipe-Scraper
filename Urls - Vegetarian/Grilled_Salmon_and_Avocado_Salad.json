@@ -1,0 +1,118 @@
+{
+    "title": "Grilled Salmon and Avocado Salad",
+    "keywords": "Dinner,Lunch,Main Dish,Salads,Sides,Vegetarian,Budget Friendly",
+    "prep_time": "PT15M",
+    "cook_time": "PT1H10M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Salads",
+        "Sides",
+        "Vegetarian",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/286-diabetic-grilled-salmon-avocado-salad_091418_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "frozen salmon filets (4-ounce each, thawed)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "grill seasoning (no-salt (Mrs. Dash Steak Grilling Blend))",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "romaine lettuce (chopped)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "red onion (thinly sliced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cucumber(s) (thinly sliced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "ripe avocado (peeled, seeded and sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lime juice",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "stevia",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat an indoor or outdoor grill.",
+        "Pat the thawed salmon filets dry with a paper towel. Brush each side with the olive oil and season with the no-salt grill seasoning.",
+        "Grill the salmon filets on each side for 4-5 minutes, or until just cooked through. Set aside.",
+        "Build each salad starting with 1 cup of Romaine lettuce, top with 1/4 of the sliced onion, 1/4 cup of the sliced cucumber, the grilled salmon filet and 1/4 of the sliced avocado, Repeat for remaining three salads.",
+        "In a small bowl, whisk together the lime juice, olive oil, Dijon mustard, Stevia, salt and pepper. Drizzle the dressing over each salad."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Grilling",
+        "Seafood",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Salads",
+        "Sides",
+        "Vegetarian",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "320",
+        "total_fat": "21g",
+        "saturated_fat": "3.6g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "260mg",
+        "total_carbohydrate": "10g",
+        "fiber": "4g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-salmon-and-avocado-salad"
+}

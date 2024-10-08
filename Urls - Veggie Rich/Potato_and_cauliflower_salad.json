@@ -1,0 +1,97 @@
+{
+    "title": "Potato and cauliflower salad",
+    "keywords": "Foodie,Sides,Vegetarian,Salads,Holidays & Entertaining",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Foodie",
+        "Sides",
+        "Vegetarian",
+        "Salads",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/412-diabetic-potato-cauliflower-salad_AdobeStock270164068_012121.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cauliflower florets (roughly chopped)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "red potatoes (cut into 1 inch chunks (equals 4 cups cut))",
+            "us_amount": "5",
+            "metric_amount": "5"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "honey",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "fresh parsley (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "minced red onion",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "red bell pepper (seeded and diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 375 degrees. Coat a baking sheet with cooking spray.",
+        "Lay cauliflower and potatoes in a single layer on the baking sheet and coat the vegetables with cooking spray. Roast for 45 minutes until vegetables are golden brown and tender.",
+        "In a large bowl, whisk together the balsamic vinegar, olive oil, Dijon mustard, honey and parsley.",
+        "Add red onion, bell pepper and hot potatoes and cauliflower right out of the oven. Toss well to coat.",
+        "Refrigerate salad until cooled (at least 1 hour). Stir again before serving."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Foodie",
+        "Sides",
+        "Vegetarian",
+        "Salads",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "4g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "40mg",
+        "total_carbohydrate": "20g",
+        "fiber": "3g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/potato-and-cauliflower-salad"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Ham and Broccoli Frittata",
+    "keywords": "Quick & Easy,Main Dish,Budget Friendly,Breakfast and Brunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Budget Friendly",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1986-diabetic-Ham-Broccoli-Frittata_KDBH-bookazine_012821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "packaged hash brown potatoes or fresh grated potato",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "small broccoli florets (rinsed and drained, but not dried—some water droplets should cling to the broccoli)",
+            "us_amount": "9 oz",
+            "metric_amount": "255 ml"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "egg whites",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "lower-sodium, low-fat ham (cut into 1/4-inch cubes)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "skim milk",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400°F.",
+        "Lightly spray a medium ovenproof skillet with cooking spray. Heat over medium heat. Remove from the heat. Put the potatoes in the skillet. Lightly spray with cooking spray. Cook for 4–5 minutes, or until the potatoes are golden brown, stirring occasionally.",
+        "Put the broccoli in a microwaveable bowl. Microwave, covered, on 100% power (high) for 4 to 5 minutes, or until tender-crisp. Drain in a colander. Stir the broccoli into the potatoes.",
+        "In a medium bowl, whisk together the egg whites and eggs. Whisk in the ham, milk, and pepper. Pour the mixture over the potatoes and broccoli, stirring well.",
+        "Bake for 15–18 minutes, or until the eggs are set (it shouldn't jiggle when the frittata is gently shaken). Let cool for at least 10 minutes, then cut into 4 equal slices."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Comfort Food",
+        "Quick & Easy",
+        "Main Dish",
+        "Budget Friendly",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "6g",
+        "saturated_fat": "1.7g",
+        "trans_fat": "0g",
+        "cholesterol": "195mg",
+        "sodium": "290mg",
+        "total_carbohydrate": "14g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "1g",
+        "protein": "15g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ham-and-broccoli-frittata"
+}

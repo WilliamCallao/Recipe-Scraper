@@ -1,0 +1,88 @@
+{
+    "title": "Roasted Sweet Potatoes with Lemon-Dill Yogurt Sauce",
+    "keywords": "Vegetarian,Sides,Gluten-Free,Budget Friendly,Dinner,Lunch",
+    "prep_time": "PT5M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Gluten-Free",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/roasted%20sweet%20potatoes.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "sweet potatoes (peeled and sliced into 8 wedges )",
+            "us_amount": "2 large",
+            "metric_amount": "2 large"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lemon",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fresh dill (minced)",
+            "us_amount": "1/8 cup",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 425 degrees F. Line a baking sheet with parchment paper.",
+        "Toss the sweet potato wedges with olive oil. Bake for 20–25 minutes, until tender, tossing halfway.",
+        "Meanwhile, zest and juice the lemon into a small bowl. Add garlic, yogurt, dill, salt, and pepper.",
+        "Drizzle yogurt sauce over the wedges and serve."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Comfort Food",
+        "Vegetarian",
+        "Sides",
+        "Gluten-Free",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "3.5g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "26g",
+        "fiber": "4g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-sweet-potatoes-lemon-dill-yogurt-sauce"
+}

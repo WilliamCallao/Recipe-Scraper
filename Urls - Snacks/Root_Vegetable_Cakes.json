@@ -1,0 +1,107 @@
+{
+    "title": "Root Vegetable Cakes",
+    "keywords": "Snacks,Sides,Appetizers,Dinner,Foodie,Lunch,Holidays & Entertaining",
+    "prep_time": "PT20M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Snacks",
+        "Sides",
+        "Appetizers",
+        "Dinner",
+        "Foodie",
+        "Lunch",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/463-diabetic-root-vegetable-cakes_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "sweet potato (peeled and shredded)",
+            "us_amount": "1 large (about 10 oz)",
+            "metric_amount": "1 large (about 10 oz)"
+        },
+        {
+            "name": "rutabaga (peeled and shredded)",
+            "us_amount": "1 medium (about 10 oz)",
+            "metric_amount": "1 medium (about 10 oz)"
+        },
+        {
+            "name": "parsnips (peeled and shredded)",
+            "us_amount": "2 small (about 6 oz total)",
+            "metric_amount": "2 small (about 6 oz total)"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "egg whites",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "chopped fresh parsley",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "whole wheat flour",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 375 degrees. Line a large baking sheet with parchment paper or a silicon mat.",
+        "Combine all ingredients in a large mixing bowl and mix well.",
+        "Pack the root vegetable mixture into a 1/2 cup measure and turn out onto the baking sheet. Press lightly to form a cake. Repeat this process for remaining 9 cakes (depending on the size of your baking sheet, you may need to make these in batches or use two baking sheets).",
+        "Spray the tops of the cakes with cooking spray and bake for 35 minutes.",
+        "Let the cakes slightly cool before removing from pan."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Low Sodium",
+        "Snacks",
+        "Sides",
+        "Appetizers",
+        "Dinner",
+        "Foodie",
+        "Lunch",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "0.5g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "13g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/root-vegetable-cakes"
+}

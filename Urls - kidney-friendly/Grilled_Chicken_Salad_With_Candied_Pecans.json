@@ -1,0 +1,91 @@
+{
+    "title": "Grilled Chicken Salad With Candied Pecans",
+    "keywords": "Dinner,Lunch,Main Dish,Salads",
+    "prep_time": "PT0M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Salads"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/725-diabetic-Grilled-Chicken-Salad-with-Candied-Pecans_SizzleSmoke_091418.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Olive oil cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pecans (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sugar",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ground cayenne red pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "fresh salad greens",
+            "us_amount": "10 cup",
+            "metric_amount": "2 l 366 ml"
+        },
+        {
+            "name": "Triple Citrus Vinaigrette (Link to recipe in description)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "navel oranges (peeled and sectioned)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "dried cranberries or apricots",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "chicken breasts (grilled)",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        }
+    ],
+    "instructions": [
+        "Heat a small nonstick skillet coated with cooking spray over medium-low heat. Add pecans and cook 3–4 minutes or until lightly toasted, stirring frequently. Sprinkle with sugar and red pepper, and cook for 1 minute, stirring constantly. Remove pecans from skillet. Cool on wax paper.",
+        "Combine greens, Triple Citrus Vinaigrette, and orange sections in a large bowl. Toss well. Place 1 cup greens mixture on each of 8 plates. Top each serving with 1 1⁄2 teaspoons pecans and 1 1⁄2 teaspoons cranberries.",
+        "Top with grilled chicken breast and serve immediately."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Veggie Rich",
+        "Mediterranean",
+        "Grilling",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "275",
+        "total_fat": "8g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "185mg",
+        "total_carbohydrate": "14g",
+        "fiber": "2g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "37g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-chicken-salad-candied-pecans"
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Sugar Free Yogurt Parfait with Fresh Berries",
+    "keywords": "Vegetarian,Snacks,One Pot,No Cook,Dessert,Cooking for 1 or 2,Breakfast and Brunch",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Snacks",
+        "One Pot",
+        "No Cook",
+        "Dessert",
+        "Cooking for 1 or 2",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/3485_716123127707_Stevia%20Clear-still-life-parfait-v5_rev4.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "Plain Fat-Free Greek Yogurt",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Fresh Blueberries",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "liquid stevia sweetener",
+            "us_amount": "5 drops",
+            "metric_amount": "5 drops"
+        }
+    ],
+    "instructions": [
+        "In a bowl, mix Greek yogurt and SweetLeaf Sweet Drops Clear with a spoon until the mixture is a creamy consistency.",
+        "Take a tall glass or small bowl for your parfait and add a layer of yogurt to the bottom. Add berries and nuts (optional) between layers of yogurt until you reach the top. Enjoy!",
+        "Tip: A finished parfait stores great in the fridge for easy meal prep on the go!"
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Vegetarian",
+        "Snacks",
+        "One Pot",
+        "No Cook",
+        "Dessert",
+        "Cooking for 1 or 2",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "1g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "80mg",
+        "total_carbohydrate": "19g",
+        "fiber": "2g",
+        "sugar": "15g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sugar-free-yogurt-parfait-fresh-berries"
+}

@@ -1,0 +1,102 @@
+{
+    "title": "Butter Lettuce Salad With Pears, Bacon, And Cilantro",
+    "keywords": "Salads,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Quick & Easy"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/RecId_631_2Step_ButterLettuceSaladwithPearsBaconCilantro_022618.jpg",
+        "Bacon",
+        "And Cilantro\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "butter lettuce (torn, 1 head total)",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "red onion (thinly sliced (about 2 ounces total) OR diced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fresh shelled edamame",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "firm medium pear (halved, cored, and sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh cilantro (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "cooked turkey bacon (chopped)",
+            "us_amount": "8 slice",
+            "metric_amount": "8 slice"
+        },
+        {
+            "name": "walnuts (chopped)",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "sugar",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "crushed red pepper flakes (dried)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Combine salad ingredients in a large bowl.",
+        "Whisk together the dressing ingredients in a small bowl and toss with the salad ingredients."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Salads",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "18g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0.1g",
+        "cholesterol": "25mg",
+        "sodium": "480mg",
+        "total_carbohydrate": "21g",
+        "fiber": "5g",
+        "sugar": "12g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/butter-lettuce-salad-pears-bacon-and-cilantro"
+}

@@ -1,0 +1,89 @@
+{
+    "title": "Peruvian Chicken Saltado",
+    "keywords": "Main Dish,Budget Friendly,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT16M",
+    "categories": [
+        "Main Dish",
+        "Budget Friendly",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1750-espanol-diabetic-pollo-saltado-peruano_latin-comfort-foods_13020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "chicken tenderloins",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "olive oil (divided use)",
+            "us_amount": "3 tsp",
+            "metric_amount": "15 g"
+        },
+        {
+            "name": "red onion (thinly sliced)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "large tomatoes (cored, halved, and sliced)",
+            "us_amount": "2 (about 1 lb)",
+            "metric_amount": "2 (about 1 lb)"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "lower sodium soy sauce",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "red wine vinegar",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "Sprinkle the chicken with the salt and pepper. Heat 2 tsp oil in a large nonstick skillet over medium-high heat. Add the chicken and cook until browned, about 6 minutes. Transfer to a plate.",
+        "Add the onion and the remaining 1 tsp oil and cook, stirring occasionally, until softened, about 5 minutes. Add the tomatoes, garlic, soy sauce, and vinegar, and cook, stirring occasionally, until the tomatoes are softened, about 5 minutes.",
+        "Return the chicken to the skillet and heat through."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Mexican/Southwestern",
+        "Latin American",
+        "Main Dish",
+        "Budget Friendly",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "6g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "300mg",
+        "total_carbohydrate": "9g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/peruvian-chicken-saltado"
+}

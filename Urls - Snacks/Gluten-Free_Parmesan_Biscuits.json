@@ -1,0 +1,68 @@
+{
+    "title": "Gluten-Free Parmesan Biscuits",
+    "keywords": "Breakfast and Brunch,Gluten-Free,Snacks,Sides,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Breakfast and Brunch",
+        "Gluten-Free",
+        "Snacks",
+        "Sides",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/259-diabetic-low-carb-gluten-free-biscuit_175503923_020119.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "baking mix (gluten-free, such as Pamela’s)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "margarine (trans-fat-free)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Parmesan (freshly grated)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "skim milk",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 375 degrees F. Spray a baking sheet with cooking spray.",
+        "In a medium bowl, mix together baking mix and margarine. Use a fork and hands to mix into course crumbs.",
+        "Add milk to mixture and stir with a fork. Add Parmesan cheese and incorporate into mixture.",
+        "Drop about 1 Tbsp. at a time of dough mixture on baking sheet for each biscuit. Bake for 12 minutes or until golden brown on top."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Low Sodium",
+        "Kid Friendly",
+        "Comfort Food",
+        "Breakfast and Brunch",
+        "Gluten-Free",
+        "Snacks",
+        "Sides",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "65",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "135mg",
+        "total_carbohydrate": "7g",
+        "fiber": "0g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/gluten-free-parmesan-biscuits"
+}

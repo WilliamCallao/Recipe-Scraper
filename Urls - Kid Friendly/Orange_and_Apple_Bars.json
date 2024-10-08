@@ -1,0 +1,100 @@
+{
+    "title": "Orange and Apple Bars",
+    "keywords": "Dessert,Vegetarian",
+    "prep_time": "PT20M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Dessert",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2014-diabetic-dessert-Orange-Apple-Bars_KDBH-bookazine_012821.jpg",
+    "servings": "24 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "old-fashioned oats",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "whole-wheat flour",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "sugar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ground cardamom",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ground nutmeg",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "baking soda",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "egg whites",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "orange (zested and juiced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "apple butter",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350°F. Lightly spray an 8-inch square baking dish with cooking spray.",
+        "In a medium bowl, stir together the oatmeal, flour, sugar, cardamom, nutmeg, and baking soda.",
+        "In a small bowl, using a fork, lightly beat the egg whites. Stir in the oil and 2 tbsp fresh orange juice.",
+        "Add the egg white mixture to the oatmeal mixture, stirring until the combined mixture holds together. Press three-fourths of the mixture into the baking dish.",
+        "In a medium bowl, whisk together the fruit butter and 2 tsp of the orange zest. Using a rubber scraper, spread the fruit butter mixture over the oatmeal mixture. Sprinkle with the remaining oatmeal mixture.",
+        "Bake for 30–35 minutes, or until the top is golden brown. Transfer the dish to a cooling rack and let cool completely, then cut into 24 equal bars."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Kid Friendly",
+        "Dessert",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "2g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "20mg",
+        "total_carbohydrate": "10g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "2g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/orange-and-apple-bars"
+}

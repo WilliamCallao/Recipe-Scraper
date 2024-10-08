@@ -1,0 +1,104 @@
+{
+    "title": "Vegetarian Kale Pasta",
+    "keywords": "Easy Pantry Recipes,Vegetarian,Vegan,One Pot,Main Dish,Dinner,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Vegetarian",
+        "Vegan",
+        "One Pot",
+        "Main Dish",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2027-Diabetic-Veggie-Crumbles-Kale-Pasta_DaVita_040821.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "diced onion",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "meatless ground \"beef\" crumbles (from frozen section)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "Italian seasoning",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Red Chili Flakes",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "low sodium vegetable broth (divided use)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "whole wheat bowtie pasta",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "kale (chopped)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        }
+    ],
+    "instructions": [
+        "Heat the olive oil in a large skillet over medium heat. Sauté the onion until tender.",
+        "Stir in the veggie crumbles, water and Italian seasonings. Cover and cook until crumbles are cooked through, about 4 minutes.",
+        "Pour 2-1/2 cups vegetable broth into the mixture and bring to a boil. Add pasta and cook, stirring occasionally, over medium high heat until broth is absorbed, about 10 to 12 minutes.",
+        "Add remaining broth, kale and chili flakes and cook over medium heat until pasta is done, about 14 minutes.",
+        "Remove the pan from the heat and stir in the Greek yogurt. Serve hot."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "High in Fiber",
+        "Comfort Food",
+        "Easy Pantry Recipes",
+        "Vegetarian",
+        "Vegan",
+        "One Pot",
+        "Main Dish",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "6g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "320mg",
+        "total_carbohydrate": "38g",
+        "fiber": "5g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/vegetarian-kale-pasta"
+}

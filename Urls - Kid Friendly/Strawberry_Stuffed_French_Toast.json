@@ -1,0 +1,92 @@
+{
+    "title": "Strawberry Stuffed French Toast",
+    "keywords": "Foodie,Breakfast and Brunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Foodie",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-08/5224_Splenda_StuffedStrawberry__DFH_779x590.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "Splenda® Granulated Sweetener (divided use)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Fresh Strawberries (sliced)",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "lemon (juiced)",
+            "us_amount": "1/2 med",
+            "metric_amount": "1/2 med"
+        },
+        {
+            "name": "light cream cheese (softened)",
+            "us_amount": "5 oz",
+            "metric_amount": "142 ml"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "3 large",
+            "metric_amount": "3 large"
+        },
+        {
+            "name": "skim milk",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "pure vanilla extract",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Kosher Salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "low carb bread",
+            "us_amount": "12 slice",
+            "metric_amount": "12 slice"
+        }
+    ],
+    "instructions": [
+        "For the strawberries:In a small bowl, add strawberries, 1/4 cup sweetener, and lemon juice. Stir together and set aside for 10 minutes.",
+        "For the filling:Add cream cheese and 1/2 cup sweetener to a bowl. Beat together until fluffy.",
+        "For the French toast: In another bowl, whisk eggs, milk, vanilla extract, 1/4 cup sweetener, cinnamon, and salt.",
+        "To assemble, spread a thin layer of the cream cheese mixture on a slice of bread, keeping about 1/2 inch away from the edge. Add a layer of strawberry slices on top of the cream cheese. Take another piece of bread and spread cream cheese on it. Place it on the strawberries, cream cheese side down. Repeat for the rest, making 6 total strawberry-cream cheese sandwiches.",
+        "Spray a nonstick skillet with butter-flavored cooking spray, and heat to medium. Dip one sandwich into egg mixture and turn evenly to coat. Remove and shake off the excess custard mixture, then transfer to the hot skillet.",
+        "Cook 3-4 minutes per side, or until golden brown and crispy. Spray skillet again and repeat for the rest of the French toast sandwiches.",
+        "Slice each diagonally and serve immediately! If desired, top with a sugar-free maple syrup and more fresh strawberries. Enjoy!"
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Foodie",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "5g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "10g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/strawberry-stuffed-french-toast"
+}

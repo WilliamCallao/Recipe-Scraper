@@ -1,0 +1,98 @@
+{
+    "title": "Skillet Caraway Cornbread",
+    "keywords": "Vegetarian,Sides,Holidays & Entertaining,Dessert",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Holidays & Entertaining",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/Skillet%20Caraway%20Cornbread.jpg",
+    "servings": "16 Servings",
+    "ingredients": [
+        {
+            "name": "caraway seeds",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "vegetable oil (divided)",
+            "us_amount": "1/4 cup plus 2 tsp",
+            "metric_amount": "1/4 cup plus 2 tsp"
+        },
+        {
+            "name": "cornmeal",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "whole wheat flour",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "baking powder",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "baking soda",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "low-fat buttermilk",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "honey",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400 degrees. In a small, dry skillet, toast the caraway seeds over medium heat for 2 to 3 minutes, just until lightly browned and fragrant; set aside. When the oven is hot, add 2 tsp. of the vegetable oil to a 9-inch cast-iron skillet. Heat the pan in the oven for 5 minutes.",
+        "Meanwhile, in a large bowl, mix the cornmeal, flour, baking powder, baking soda, salt, and caraway seeds.",
+        "In a separate bowl, beat the eggs with a wire whisk. Add the buttermilk, honey, and the 1/4 cup vegetable oil.",
+        "Add the wet ingredients to the dry ingredients and mix until just combined.",
+        "Carefully add the batter to the hot skillet and bake for 20 to 22 minutes, or until the cornbread is cooked through and a cake tester or toothpick inserted in the middle comes out clean. Let the cornbread cool for 5 minutes. Cut into 16 same-sized wedges and serve warm."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Mexican/Southwestern",
+        "Kid Friendly",
+        "Vegetarian",
+        "Sides",
+        "Holidays & Entertaining",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "125",
+        "total_fat": "5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "165mg",
+        "total_carbohydrate": "17g",
+        "fiber": "1g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/skillet-caraway-cornbread"
+}

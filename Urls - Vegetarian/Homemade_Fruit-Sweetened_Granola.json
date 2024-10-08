@@ -1,0 +1,75 @@
+{
+    "title": "Homemade Fruit-Sweetened Granola",
+    "keywords": "Breakfast and Brunch,Foodie,Quick & Easy,Snacks,Vegan,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Foodie",
+        "Quick & Easy",
+        "Snacks",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1868-diabetic-homemade-fruit-sweetened-granola_clean-and-simple_shutterstock1315427237_120919.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "old-fashioned rolled oats",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "slivered almonds",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "unsweetened applesauce",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 300°F. Line a baking sheet with unbleached parchment paper.",
+        "In a medium bowl, stir together all ingredients. Spread in an even layer on the baking sheet.",
+        "Bake in the oven until toasted, about 35 minutes. No stirring required. Cool on the tray on a cooling rack. Serve or store in a sealed jar or container for up to a week."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Kid Friendly",
+        "Breakfast and Brunch",
+        "Foodie",
+        "Quick & Easy",
+        "Snacks",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "14g",
+        "fiber": "3g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/homemade-fruit-sweetened-granola"
+}

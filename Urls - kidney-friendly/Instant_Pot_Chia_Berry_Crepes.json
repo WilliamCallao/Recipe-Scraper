@@ -1,0 +1,95 @@
+{
+    "title": "Instant Pot Chia Berry Crepes",
+    "keywords": "Vegetarian,Quick & Easy,Foodie,Dessert,Breakfast and Brunch",
+    "prep_time": "PT5M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Vegetarian",
+        "Quick & Easy",
+        "Foodie",
+        "Dessert",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1851-diabetic-instant-pot-dessert-chia-berry-crepes_instant-pot-diabetes-ckbk_111419.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "frozen blueberries",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "frozen raspberries",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "water (divided use)",
+            "us_amount": "1/2 cup plus 1 tbsp",
+            "metric_amount": "1/2 cup plus 1 tbsp"
+        },
+        {
+            "name": "chia seeds",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Cornstarch",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "powdered sugar (divided use)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "almond extract",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "premade crepes",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "plain 2% Greek yogurt",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Place the berries, 1/2 cup of the water, and the chia seeds in the Instant Pot. Seal the lid, close the valve, and set the Manual/Pressure Cook button to 1 minute.",
+        "Use a quick pressure release. When the valve drops, carefully remove the lid.",
+        "In a small bowl, stir together the remaining 1 Tbsp of water and the cornstarch. Stir until the cornstarch is dissolved.",
+        "Press the Cancel button and set to Sauté. Then press the Adjust button to “More” or “High.” Stir the cornstarch mixture into the berries. Bring to a boil and boil for 1 minute, or until thickened slightly.",
+        "Turn off the heat. Stir in 2 Tbsp of the powdered sugar and the almond extract. Place the berry mixture in a medium bowl and let stand for 15 minutes to cool slightly.",
+        "Spoon equal amounts of the berry mixture down the center of each crepe (about 1/3 cup per crepe). Fold the ends over to overlap slightly. Spoon the remaining 1 Tbsp of powdered sugar into a fine mesh sieve and sprinkle evenly over each crepe. Top each crepe with 1/4 cup yogurt and serve immediately."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Low Sodium",
+        "Vegetarian",
+        "Quick & Easy",
+        "Foodie",
+        "Dessert",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "3g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "105mg",
+        "total_carbohydrate": "28g",
+        "fiber": "4g",
+        "sugar": "17g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/instant-pot-chia-berry-crepes"
+}

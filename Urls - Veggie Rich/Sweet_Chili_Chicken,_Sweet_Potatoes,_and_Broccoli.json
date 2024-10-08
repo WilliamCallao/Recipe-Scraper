@@ -1,0 +1,80 @@
+{
+    "title": "Sweet Chili Chicken, Sweet Potatoes, and Broccoli",
+    "keywords": "Dinner,Budget Friendly,Main Dish",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Dinner",
+        "Budget Friendly",
+        "Main Dish"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/Recipe%20Size%20%283%29.png",
+        "Sweet Potatoes",
+        "and Broccoli\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "sweet potatoes (peeled and medium diced)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "olive oil (divided)",
+            "us_amount": "2 Tbsp + 1 tsp",
+            "metric_amount": "2 Tbsp + 1 tsp"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "boneless, skinless chicken breasts (sliced into 4 thin filets)",
+            "us_amount": "2 breasts, approx. 8 oz.",
+            "metric_amount": "2 breasts, approx. 8 oz."
+        },
+        {
+            "name": "crown broccoli (divided into florets (approx. 1 lb.))",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "Sweet Chili sauce",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 425 degrees F. Line a large baking sheet with parchment paper.",
+        "Toss the sweet potatoes with 1 tablespoon of olive oil and salt. Add to the baking sheet in a single layer. Place in the oven and bake for 10 minutes.",
+        "Meanwhile, preheat a large skillet over medium-high heat.",
+        "Once the skillet is hot, add 1 tablespoon of oil and chicken. Sear until golden brown on both sides (but not cooked through). Remove from heat.",
+        "Once the sweet potatoes have been baking for 10 minutes, remove the baking sheet and add the chicken and broccoli. Drizzle the broccoli with the remaining 1 teaspoon of olive oil.",
+        "Place the baking sheet in the oven and continue to cook until the chicken is cooked through and the veggies tender.",
+        "Remove from oven and divide between plates. Drizzle with sweet chili sauce and serve."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Comfort Food",
+        "Dinner",
+        "Budget Friendly",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "290",
+        "total_fat": "11g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "350mg",
+        "total_carbohydrate": "20g",
+        "fiber": "4g",
+        "sugar": "8g",
+        "added_sugar": "4g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-chili-chicken-sweet-potatoes-and-broccoli"
+}

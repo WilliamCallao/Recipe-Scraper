@@ -1,0 +1,107 @@
+{
+    "title": "Bountiful Harvest Vegetable Salad",
+    "keywords": "Vegetarian,Sides,Salads,Vegan,Budget Friendly,Lunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Salads",
+        "Vegan",
+        "Budget Friendly",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Bountiful_Harvest_Vegetable_Salad.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "parsnips (chopped)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "turnips (chopped)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "small onion (finely chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (finely chopped)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "brown sugar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "malt vinegar",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "fresh cilantro or parsley",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "baby salad greens",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "walnut pieces (toasted)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "radish (sliced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "salt and pepper to taste",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        }
+    ],
+    "instructions": [
+        "Bring a large pot of salted water to a boil. Add parsnips and turnips and simmer until vegetables are just tender, 8–10 minutes. Drain well.",
+        "While the parsnips and turnips are cooking, make the dressing. Heat oil in a large skillet over medium heat. Add onions and cook until golden brown, 5–7 minutes. Add garlic and cook for 30 seconds more. Stir in vinegar and sugar and bring just to a simmer. Remove from heat and keep dressing warm.",
+        "Arrange parsley, cilantro, and salad greens and top with hot vegetables, then garnish with walnuts and radish. Drizzle with warm dressing, and serve immediately."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "Vegetarian",
+        "Sides",
+        "Salads",
+        "Vegan",
+        "Budget Friendly",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "145",
+        "total_fat": "9g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "45mg",
+        "total_carbohydrate": "14g",
+        "fiber": "4g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/bountiful-harvest-vegetable-salad"
+}

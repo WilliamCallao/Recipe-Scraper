@@ -1,0 +1,77 @@
+{
+    "title": "Grilled Steak with Mushrooms",
+    "keywords": "Cooking for 1 or 2,Main Dish,Lunch,Gluten-Free,Dinner,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Main Dish",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/292-diabetic-grilled-steak-mushrooms_AdobeStock37487708_012121.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "filet steaks (4-ounce each (1 1/2 inch thick))",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "ground black peppers",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "margarine (trans-fat-free)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sliced button mushrooms",
+            "us_amount": "1 pints",
+            "metric_amount": "480 ml"
+        }
+    ],
+    "instructions": [
+        "Prepare an indoor or outdoor grill and heat on high. Spray grill rack with cooking spray.",
+        "Sprinkle steaks evenly with salt and pepper.",
+        "Place steaks on grill with direct high-heat and sear on each side for 1-2 minutes per side. Reduce heat to medium and cook for 18-23 minutes or until done according to your preference (flipping once). Transfer steak to a plate and cover with foil; let rest for 5 minutes before serving.",
+        "In a medium sauté pan, heat margarine over medium-high heat. Add mushrooms and sauté for 5-6 minutes until tender."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Veggie Rich",
+        "Grilling",
+        "Cooking for 1 or 2",
+        "Main Dish",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "10g",
+        "saturated_fat": "3.1g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "90mg",
+        "total_carbohydrate": "2g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "23g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-steak-mushrooms"
+}

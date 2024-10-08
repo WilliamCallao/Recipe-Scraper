@@ -1,0 +1,73 @@
+{
+    "title": "Pecan-Crusted Chicken Breast",
+    "keywords": "Quick & Easy,Main Dish,Gluten-Free,Dinner,Easy Pantry Recipes",
+    "prep_time": "PT8M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner",
+        "Easy Pantry Recipes"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1837-diabetic-pecan-crusted-chicken-breast_JulAug20DF_clean-simple_061720.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pecan pieces",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "boneless, skinless chicken breasts",
+            "us_amount": "4 (6-oz) breasts",
+            "metric_amount": "4 (6-oz) breasts"
+        },
+        {
+            "name": "unsweetened applesauce",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "spicy brown mustard",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sea salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 425° F. Prep a large rimmed baking sheet. For easier cleanup and less sticking, line with parchment paper (optional).",
+        "Place the pecans in a food processor. Pulse until they look like breadcrumbs. Transfer to a rimmed plate.",
+        "Place the chicken on the baking sheet. In a small bowl, stir together the applesauce and mustard. Spoon the applesauce-mustard mixture on top of each breast, spreading it evenly with the back of the spoon. Firmly press the applesauce-mustard side of each chicken breast into the pecans. Place the chicken back on the baking sheet, pecan-crusted side up. Sprinkle any remaining pecans on the chicken; press to adhere. Sprinkle with salt.",
+        "Bake for about 20 minutes, or until the chicken reaches an internal temperature of 165° F. Divide among four dinner plates and serve."
+    ],
+    "tags": [
+        "Lower Carb",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Kid Friendly",
+        "Quick & Easy",
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner",
+        "Easy Pantry Recipes"
+    ],
+    "nutrition": {
+        "calories": "300",
+        "total_fat": "15g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "270mg",
+        "total_carbohydrate": "3g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "37g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pecan-crusted-chicken-breast"
+}

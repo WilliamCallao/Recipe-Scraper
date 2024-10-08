@@ -1,0 +1,85 @@
+{
+    "title": "Smoky Pork Chops with Tomatoes",
+    "keywords": "Main Dish,Quick & Easy,Dinner",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Main Dish",
+        "Quick & Easy",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/500-diabetic-smoky-pork-chop-tomatoes_shutterstock217706029_120919.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "all-purpose flour",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "smoked paprika",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "thyme leaves (dried)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt (and 1/8 tsp, divided use)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pork chops (bone-in, about 5-ounces each)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "medium Roma tomatoes (diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        }
+    ],
+    "instructions": [
+        "Combine the flour, paprika, thyme, garlic powder, 1/4 Tsp. of the salt and black pepper in a shallow pie pan. Coat the pork chops evenly on both sides.",
+        "Heat the oil in a large nonstick skillet over medium-high heat and cook 4 minutes on each side or until no longer pink in center. Sprinkle with the diced tomatoes and remaining 1/8 Tsp. salt."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Comfort Food",
+        "Main Dish",
+        "Quick & Easy",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "2.7g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "6g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/smoky-pork-chops-tomatoes"
+}

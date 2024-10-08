@@ -1,0 +1,101 @@
+{
+    "title": "Red Pepper Quinoa",
+    "keywords": "Vegetarian,Vegan,Sides,Gluten-Free,Dinner,Lunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Gluten-Free",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1706-Red-Pepper-Quinoa_Diabetes-Superfoods-Cookbook_010319.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "tricolor quinoa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "chopped onion",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "red bell pepper (chopped)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "kale",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "cannellini beans (drained and rinsed)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "79 ml"
+        },
+        {
+            "name": "walnuts",
+            "us_amount": "1/3 cup",
+            "metric_amount": "79 ml"
+        },
+        {
+            "name": "white cooking wine or lemon juice",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Cook quinoa in water according to package instructions, omitting any added salt.",
+        "While the quinoa is cooking, saute onion, garlic, and red pepper over medium-high heat in olive oil for about 10 minutes. Add kale and beans and continue to saute until kale is wilted, about 5 more minutes.",
+        "Stir pepper mixture, walnuts, wine (or lemon juice), and balsamic vinegar into the quinoa. Serve warm or cold."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Gluten-Free",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "8g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "20mg",
+        "total_carbohydrate": "21g",
+        "fiber": "4g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/red-pepper-quinoa"
+}

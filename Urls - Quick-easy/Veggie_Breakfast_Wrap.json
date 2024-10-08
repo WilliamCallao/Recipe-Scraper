@@ -1,0 +1,97 @@
+{
+    "title": "Veggie Breakfast Wrap",
+    "keywords": "Vegetarian,Main Dish,Cooking for 1 or 2,Breakfast and Brunch,Budget Friendly,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Vegetarian",
+        "Main Dish",
+        "Cooking for 1 or 2",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1962-diabetic-Breakfast-Wrap_Magee_050120.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil or other vegetable oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "sliced mushrooms",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "egg white or egg substitute",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "spinach or other greens",
+            "us_amount": "1 cup, firmly packed",
+            "metric_amount": "1 cup, firmly packed"
+        },
+        {
+            "name": "chopped scallions or other onion",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "whole wheat, low-carb flour tortillas, such as La Tortilla Factory",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "salsa",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Add olive oil to the skillet over medium heat. Add mushrooms and sauté until nicely brown at edges (about 3 minutes), set aside.",
+        "Beat eggs with egg whites or egg substitute in medium sized bowl, using a mixer or by hand, until blended.",
+        "Stir in shredded spinach, and scallions. You could also add fresh or dried herbs such as basil or parsley for more flavor.",
+        "Begin heating medium/large nonstick skillet over medium-low heat. Coat pan generously with cooking spray.",
+        "Pour in egg mixture and continue to scramble the mixture as it cooks using a spatula. When eggs are cooked to your liking, turn off the heat and stir in mushrooms.",
+        "Spread half of the egg mixture down the center of each tortilla. top each with 1 tablespoon fresh salsa or other sauce of your choice. Then roll it up to make a wrap."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "High in Fiber",
+        "Vegetarian",
+        "Main Dish",
+        "Cooking for 1 or 2",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "6g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "80mg",
+        "sodium": "270mg",
+        "total_carbohydrate": "8g",
+        "fiber": "4g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/veggie-breakfast-wrap"
+}

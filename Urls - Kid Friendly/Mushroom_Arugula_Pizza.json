@@ -1,0 +1,91 @@
+{
+    "title": "Mushroom Arugula Pizza",
+    "keywords": "Vegetarian,Snacks,Lunch",
+    "prep_time": "PT15M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Vegetarian",
+        "Snacks",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1699-diabetic-Mushroom-Arugula-Pizza_Diabetes-Superfoods-Cookbook_010319.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "garlic (minced, divided use)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "diced red onion",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "white (button) mushrooms (sliced)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "packed arugula (about 3 cups loose)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "part-skim ricotta cheese",
+            "us_amount": "1/4 cup plus 1 tbsp",
+            "metric_amount": "1/4 cup plus 1 tbsp"
+        },
+        {
+            "name": "white pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "whole wheat sandwich thins (split in open)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "reduced-fat shredded mozzarella",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        }
+    ],
+    "instructions": [
+        "In a skillet, saute half the garlic, the onion, and mushrooms in olive oil for about 10 minutes or until mushrooms are golden brown.",
+        "In a food processor, combine arugula, ricotta, the remaining garlic, and white pepper and pulse until smooth.",
+        "Place 6 sandwich thin halves on a baking pan. Add 1 tbsp of the arugula mixture to each half of sandwich thin. Top with the mushroom mixture and shredded mozzarella, dividing them evenly among all six pizzas.",
+        "Broil for 5 minutes on low in the oven until cheese is melted."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kid Friendly",
+        "Comfort Food",
+        "Vegetarian",
+        "Snacks",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "4g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "130mg",
+        "total_carbohydrate": "14g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mushroom-arugula-pizza"
+}

@@ -1,0 +1,80 @@
+{
+    "title": "Korean BBQ-Inspired Baked Salmon",
+    "keywords": "Dinner,Foodie,Main Dish,Quick & Easy",
+    "prep_time": "PT8M",
+    "cook_time": "PT16M",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1857-diabetic-korean-bbq-inspired-backed-salmon_clean-and-simple_DFJanFeb20_120219.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "center-cut salmon with skin",
+            "us_amount": "4 (6-oz) fillets",
+            "metric_amount": "4 (6-oz) fillets"
+        },
+        {
+            "name": "no-sugar-added ketchup",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "fruit-sweetened apricot jam",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "reduced-sodium tamari or soy sauce",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "rice vinegar",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "hot sauce",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sesame seeds",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400° F. Line a large rimmed baking sheet with parchment paper.",
+        "Place the salmon, skin side down, on the baking sheet.",
+        "In a small bowl, stir together the ketchup, jam, tamari, vinegar, and hot pepper sauce. Lightly spread the mixture onto the top of each fillet using the back of the spoon. Sprinkle with the sesame seeds.",
+        "Bake until the salmon is flaky and cooked through (with an internal temperature of at least 145° F), about 16 minutes. Serve."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Asian",
+        "Seafood",
+        "Dinner",
+        "Foodie",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "280",
+        "total_fat": "13g",
+        "saturated_fat": "2.8g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "300mg",
+        "total_carbohydrate": "4g",
+        "fiber": "0g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "34g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/korean-bbq-inspired-baked-salmon"
+}

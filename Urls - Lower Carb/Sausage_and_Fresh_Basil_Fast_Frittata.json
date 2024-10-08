@@ -1,0 +1,77 @@
+{
+    "title": "Sausage and Fresh Basil Fast Frittata",
+    "keywords": "Dinner,Lunch,Main Dish,Breakfast and Brunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/472-diabetic-frittata-basil-sausage_539338066_020119.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "chicken with sun-dried tomatoes sausage (diced)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "egg substitute",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "part-skim mozzarella cheese (shredded)",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "green onion (finely chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "tomato(es) (diced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "fresh basil or flat leaf parsley (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Heat the oil in a large nonstick skillet over medium heat. Add the sausage and cook 3 minutes or until beginning to brown, stirring occasionally. Pour the egg substitute evenly over the sausage and cook 1 minute. Do not stir. Then, gently lift to allow uncooked egg to flow under. Remove from heat.",
+        "Sprinkle the cheese, green onions, tomatoes, and basil evenly over all."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Italian",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "8g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "525mg",
+        "total_carbohydrate": "6g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sausage-and-fresh-basil-fast-frittata"
+}

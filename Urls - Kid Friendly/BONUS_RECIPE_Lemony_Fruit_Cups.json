@@ -1,0 +1,77 @@
+{
+    "title": "BONUS RECIPE: Lemony Fruit Cups",
+    "keywords": "Cooking for 1 or 2,Dessert,Quick & Easy,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Dessert",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/feb_lemony-_fruit_cup_279x200.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "frozen whipped topping (fat-free, thawed in refrigerator)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "lemon zest (grated)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "fresh lemon juice",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "almonds (dry roasted, sliced, crushed)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "kiwi(s) (peeled and cut into 4 slices)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "medium strawberries (quartered)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "powdered sugar",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "In a small bowl, gently stir together the whipped topping, lemon zest, and lemon juice. Spoon into two small custard cups or ramekins.",
+        "Sprinkle the almonds over the whipped topping. Arrange the kiwifruit and strawberries on top. Using a fine sieve, sift the confectioner’s sugar over all. Serve immediately, or refrigerate until serving time. If refrigerated, the sugar will dissolve and give the fruit a glazed appearance."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Kid Friendly",
+        "Cooking for 1 or 2",
+        "Dessert",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "15mg",
+        "total_carbohydrate": "15g",
+        "fiber": "2g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/bonus-recipe-lemony-fruit-cups"
+}

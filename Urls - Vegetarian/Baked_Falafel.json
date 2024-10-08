@@ -1,0 +1,156 @@
+{
+    "title": "Baked Falafel",
+    "keywords": "Dinner,Foodie,Sandwiches,Lunch,Vegetarian",
+    "prep_time": "PT30M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Sandwiches",
+        "Lunch",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_63_baked_falafel_iStock138014477_022118.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "small onion (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "curry powder",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cayenne pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cilantro (minced)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "parsley (minced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garbanzo beans (chickpeas) (15 oz cans, drained and rinsed)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "whole wheat or all purpose flour",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "baking powder",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sesame seeds",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt (non-fat)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "tahini",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "parsley (minced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "whole wheat pita (cut in half)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "tomato(es) (sliced into 8 slices each)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "red onion (thinly sliced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 450 degrees. Line a large baking sheet with a silicon mat or parchment paper. If using parchment paper, coat generously with cooking spray. Set aside.",
+        "In a food processor or blender, add garlic, onion, curry powder, cayenne pepper, cilantro, parsley and olive oil. Blend into a paste.",
+        "Add in garbanzo beans and pulse to chop beans and mix into onion paste. Do not blend the beans into a paste. The falafel should be slightly chunky.",
+        "Add flour, baking powder, salt (optional), and ground black pepper. Pulse until just incorporated.",
+        "Refrigerate falafel mixture for 15-20 minutes. While the falafel is chilling, add yogurt, tahini, garlic and parsley to a small bowl and whisk. Keep yogurt sauce in the refrigerator until ready to use.",
+        "Scoop falafel into balls that are about 2 Tbsps. of mixture (or 1/8 of a cup). Place on baking sheet and repeat to make 16 falafel balls.",
+        "Spray the falafel balls with cooking spray and sprinkle with sesame seeds.",
+        "Bake on the bottom rack of the oven for 15 minutes. Turn the oven down to 350 and move the baking sheet to the top rack. Bake an additional 15 minutes.",
+        "Once the falafel is done baking, stuff two falafel balls into half of a whole wheat pita, add 2 Tbsps. yogurt tahini sauce, 2 slices of tomato and 3-4 slices of red onion."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mediterranean",
+        "Dinner",
+        "Foodie",
+        "Sandwiches",
+        "Lunch",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "285",
+        "total_fat": "9g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "370mg",
+        "total_carbohydrate": "42g",
+        "fiber": "9g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/baked-falafel"
+}

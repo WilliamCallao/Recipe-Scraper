@@ -1,0 +1,113 @@
+{
+    "title": "Grilled Chicken Caesar Kabobs",
+    "keywords": "Lunch,Main Dish,Dinner,Foodie",
+    "prep_time": "PT30M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Lunch",
+        "Main Dish",
+        "Dinner",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/277-diabetic-grilled-chicken-caesar-kebabs_AdobeStock200139841_012221.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "bamboo skewers",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt (non-fat)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "garlic (minced or grated)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Worcestershire sauce",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "grated Parmesan cheese (divided use)",
+            "us_amount": "1/4 cup plus 2 tbsp",
+            "metric_amount": "1/4 cup plus 2 tbsp"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "boneless, skinless chicken breast (cut into 3/4-inch cubes (aim for 24 pieces of chicken))",
+            "us_amount": "1 1/4 lbs",
+            "metric_amount": "567 ml"
+        },
+        {
+            "name": "red bell peppers (seeded and cut into 1-inch pieces (aim for 24 pieces of pepper))",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "romaine lettuce (chopped)",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "Kalamata olives (pitted and sliced into fourths )",
+            "us_amount": "16",
+            "metric_amount": "16"
+        }
+    ],
+    "instructions": [
+        "Soak the bamboo skewers in warm water for at least 30 minutes.",
+        "Preheat an indoor or outdoor grill.",
+        "While the skewers are soaking, whisk together the yogurt, garlic, lemon juice, Worcestershire sauce, olive oil, 2 Tbsps. parmesan cheese, salt, and ground black pepper.",
+        "Add the chicken pieces to a bowl and pour 3 Tbsps. of the dressing over the chicken and toss to lightly coat. Let the chicken sit for 15 minutes. Note: Reserve the extra dressing and be sure it does not come in contact with the raw chicken.",
+        "Thread alternating pieces of chicken and red bell pepper onto the soaked skewers starting and ending with the chicken, using 3 pieces of chicken and 3 pieces of red pepper.",
+        "Grill the kabobs about 7 minutes, turning frequently or until the chicken is cooked through and reaches 165 degrees F. Set aside.",
+        "Toss the romaine lettuce with the remaining salad dressing and then serve by putting two cups of salad on a plate, top with two chicken kabobs, sprinkle with 8 slices of olive, and one Tbsp. of grated parmesan cheese."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Grilling",
+        "Lunch",
+        "Main Dish",
+        "Dinner",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "290",
+        "total_fat": "11g",
+        "saturated_fat": "2.7g",
+        "trans_fat": "0g",
+        "cholesterol": "85mg",
+        "sodium": "420mg",
+        "total_carbohydrate": "11g",
+        "fiber": "4g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "36g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-chicken-caesar-kabobs"
+}

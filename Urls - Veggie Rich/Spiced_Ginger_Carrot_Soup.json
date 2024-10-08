@@ -1,0 +1,109 @@
+{
+    "title": "Spiced Ginger Carrot Soup",
+    "keywords": "Vegetarian,Vegan,Soup,Main Dish,Foodie,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Soup",
+        "Main Dish",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Carrot%20Ginger%20Soup%20Diabetic.png",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "carrots (peeled and chopped)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "onion(s) (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "fresh ginger (grated)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ground coriander",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ground turmeric",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "low sodium vegetable broth",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "unsweetened coconut milk",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "fresh cilantro (for garnish)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "In a large pot, heat the olive oil over medium heat. Add the chopped onion and sauté until translucent, 4–5 minutes.",
+        "Add the minced garlic and freshly grated ginger. Sauté for about 1–2 minutes until fragrant. Stir in the coriander and turmeric. Cook for another minute to toast the spices.",
+        "Add the chopped carrots to the pot and sauté for a few minutes, coating them with the aromatic spices.",
+        "Pour in the vegetable broth and bring the mixture to a gentle simmer. Cover the pot and let the carrots cook until they are tender.",
+        "Once the carrots are cooked, use an immersion blender to pureé the soup until smooth. Alternatively, carefully transfer the soup to a blender and blend until smooth, then return it to the pot.",
+        "Stir in the coconut milk and season the soup with salt and pepper to taste.",
+        "Let the soup simmer for a few more minutes to heat through.",
+        "Serve the spiced ginger carrot soup hot, garnished with chopped fresh cilantro."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Indian",
+        "Asian",
+        "Vegetarian",
+        "Vegan",
+        "Soup",
+        "Main Dish",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "4g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "9g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spiced-ginger-carrot-soup"
+}

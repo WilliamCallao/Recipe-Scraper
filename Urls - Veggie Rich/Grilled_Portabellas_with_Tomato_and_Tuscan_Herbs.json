@@ -1,0 +1,96 @@
+{
+    "title": "Grilled Portabellas with Tomato and Tuscan Herbs",
+    "keywords": "Vegetarian,Dinner,Lunch,Vegan,Sandwiches",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Dinner",
+        "Lunch",
+        "Vegan",
+        "Sandwiches"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/285-GrilledPortabellasTomatoTuscanHerbsDiabetic_479054191_04112018%20.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "fresh oregano (minced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "fresh rosemary (minced)",
+            "us_amount": "1 sprig",
+            "metric_amount": "1 sprig"
+        },
+        {
+            "name": "basil (minced)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "tomato(es) (chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "portabello mushrooms (wiped clean and stem removed)",
+            "us_amount": "6",
+            "metric_amount": "6"
+        }
+    ],
+    "instructions": [
+        "Combine all of the marinade ingredients in a medium bowl and put into a large tightly sealed plastic bag. Marinate mushroom caps at least 15-30 minutes at room temperature for best results.",
+        "Preheat grill to medium high and place mushroom caps on grill grate. Cook under direct heat for 5 minutes per side until completely through to tender. Baste occasionally with additional marinade while cooking. You can pour any leftover marinade over mushrooms before serving."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Grilling",
+        "Vegetarian",
+        "Dinner",
+        "Lunch",
+        "Vegan",
+        "Sandwiches"
+    ],
+    "nutrition": {
+        "calories": "105",
+        "total_fat": "9g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "5mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-portabellas-tomato-and-tuscan-herbs"
+}

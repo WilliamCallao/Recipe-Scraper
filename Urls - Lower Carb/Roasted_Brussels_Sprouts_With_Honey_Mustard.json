@@ -1,0 +1,73 @@
+{
+    "title": "Roasted Brussels Sprouts With Honey Mustard",
+    "keywords": "Vegetarian,Sides,Dinner,Foodie,Holidays & Entertaining",
+    "prep_time": "PT15M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1451-diabetic-roasted-brussels-sprouts-honey-mustard_shutterstock1193441038_101019.jpg",
+    "servings": "9 Servings",
+    "ingredients": [
+        {
+            "name": "honey",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "coarse Dijon mustard",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "salt and pepper to taste (not included in nutrition analysis)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "brussels sprouts (bottoms trimmed)",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 425°F. Line a flat baking sheet with parchment paper.",
+        "Toss the trimmed sprouts with the olive oil, salt, and pepper in a large bowl. Put the sprouts on the parchment-lined baking sheet in one single layer.",
+        "Roast the brussels sprouts for about 45 minutes or until crispy, shaking the sheet about every 15 minutes.",
+        "Mix together the mustard and honey in a small bowl. When the sprouts are done, add them to a serving bowl. Add in the honey mustard mixture, and toss well. Serve immediately."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "Lower Carb",
+        "French",
+        "Vegetarian",
+        "Sides",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "75",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "100mg",
+        "total_carbohydrate": "10g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-brussels-sprouts-honey-mustard"
+}

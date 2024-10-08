@@ -1,0 +1,87 @@
+{
+    "title": "Quinoa Oatmeal",
+    "keywords": "Breakfast and Brunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1742-espanol-diabetic-cereal-avena-quinua_latin-comfort-foods_13020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "skim milk",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "old-fashioned rolled oats",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "quinoa",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "honey",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "raspberries",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "sliced almonds (toasted)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Combine the milk and water in a large saucepan and bring to a simmer over medium heat.",
+        "Add the oats, quinoa, honey, cinnamon, vanilla, and salt. Reduce the heat to low. Cover and cook, stirring occasionally, until the oats and quinoa are tender, about 15 minutes. Serve topped with the raspberries and almonds."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "6g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "125mg",
+        "total_carbohydrate": "30g",
+        "fiber": "4g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/quinoa-oatmeal"
+}

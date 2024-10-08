@@ -1,0 +1,89 @@
+{
+    "title": "Slow-Roasted Citrus Cod",
+    "keywords": "Main Dish,Lunch,Foodie,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Main Dish",
+        "Lunch",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/slow-roasted-citrus-cod-May16.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "fresh thyme",
+            "us_amount": "4 sprig",
+            "metric_amount": "4 sprig"
+        },
+        {
+            "name": "white fish (cut into 4 portions)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "jalapeño pepper (halved, seeded, and thinly sliced)",
+            "us_amount": "1/2 small",
+            "metric_amount": "1/2 small"
+        },
+        {
+            "name": "lemon (unpeeled, thinly sliced, seeds removed)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "orange (unpeeled, thinly sliced, seeds removed)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fennel bulb (thinly sliced)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 300 F. Toss together the fennel, orange and lemon slices, and jalapeño pepper in a 9-by-13-inch baking pan.",
+        "Lay the cod pieces next to the citrus mixture. Scatter the thyme sprigs over the fish. Drizzle with the olive oil and sprinkle with the salt and pepper.",
+        "Roast the fish for 25 to 30 minutes, or until it is opaque and cooked through. Serve the fish with the roasted fennel and citrus."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Seafood",
+        "Main Dish",
+        "Lunch",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "8g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "310mg",
+        "total_carbohydrate": "11g",
+        "fiber": "4g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/slow-roasted-citrus-cod"
+}

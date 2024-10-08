@@ -1,0 +1,138 @@
+{
+    "title": "Indian Vegetable Curry",
+    "keywords": "Foodie,Dinner,Vegetarian,Main Dish",
+    "prep_time": "PT20M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Foodie",
+        "Dinner",
+        "Vegetarian",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/332-diabetic-indian-vegetable-curry_AdobeStock127458394_012221.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "small onion (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (roughly chopped)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "jalapeño pepper (seeded and chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "water",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sweet curry powder",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sweet potato (peeled and cut into 1’ chunks)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "carrot(s) (peeled and cut into 1-inch chunks)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "red bell pepper (seeded and cut into 1-inch chunks)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh green beans (trimmed and snapped in half, (about 2 handfuls))",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "green onion (scallion) (thinly sliced, (white and green parts))",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "unsweetened coconut milk beverage",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "low sodium vegetable broth",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Cornstarch",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chopped fresh cilantro",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "paprika",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Puree the onion, garlic, jalapeno, and water in a blender or food processor to make a paste.",
+        "Add the oil to a wok or large sauté pan over high heat. Add the onion paste and curry powder to oil and sauté for 3-4 minutes, stirring constantly.",
+        "Add the sweet potatoes and carrots to the paste and sauté for 4-5 minutes, stirring constantly.",
+        "Add the red bell pepper, green beans, and scallions. Sauté for 2 minutes.",
+        "In a separate cup or bowl, whisk together the coconut milk beverage, vegetable broth, and cornstarch. Pour over the vegetables and bring to a boil. Reduce to a simmer. Simmer, covered, for 10 minutes.",
+        "Stir in the cilantro, paprika, salt (optional), and black pepper."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Low Sodium",
+        "Veggie Rich",
+        "Indian",
+        "Foodie",
+        "Dinner",
+        "Vegetarian",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "5g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "26g",
+        "fiber": "7g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/indian-vegetable-curry"
+}

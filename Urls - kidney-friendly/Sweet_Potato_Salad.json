@@ -1,0 +1,86 @@
+{
+    "title": "Sweet Potato Salad",
+    "keywords": "Gluten-Free,Sides,Holidays & Entertaining,Quick & Easy",
+    "prep_time": "PT25M",
+    "cook_time": "PT7M",
+    "categories": [
+        "Gluten-Free",
+        "Sides",
+        "Holidays & Entertaining",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_546_Sweet_Potato_Salad_PNCImages_03012018.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "large sweet potatoes (about 13-ounces each)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "turkey bacon",
+            "us_amount": "4 slice",
+            "metric_amount": "4 slice"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Apple Cider Vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "celery (diced)",
+            "us_amount": "3 stalks",
+            "metric_amount": "3 stalks"
+        },
+        {
+            "name": "green onions (sliced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        }
+    ],
+    "instructions": [
+        "Peel sweet potatoes and cube. Place sweet potatoes in a large pot. Cover with water and bring to a boil. Boil until tender about 5-7 minutes. Drain potatoes and rinse with cold water; let cool.",
+        "While potatoes are cooking, cook bacon until crisp, then chop or crumble into small pieces.",
+        "In a small bowl, whisk together, olive oil, apple cider vinegar, pepper and garlic powder.",
+        "Place sweet potatoes in serving bowl and add celery, green onions and turkey bacon. Pour dressing over salad and toss until potatoes are coated. Serve cold."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Gluten-Free",
+        "Sides",
+        "Holidays & Entertaining",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "3g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "95mg",
+        "total_carbohydrate": "15g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-potato-salad"
+}

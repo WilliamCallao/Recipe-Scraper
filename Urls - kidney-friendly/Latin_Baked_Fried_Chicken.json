@@ -1,0 +1,97 @@
+{
+    "title": "Latin Baked Fried Chicken",
+    "keywords": "Dinner,Lunch,Main Dish",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1751-espanol-diabetic-pollo-frito-al-horno_latin-comfort-foods_13020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lime juice (from 2 limes)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "egg white",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lower sodium soy sauce",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "dried oregano",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "whole-wheat panko bread crumbs",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Adobo seasoning",
+            "us_amount": "3/4 tsp",
+            "metric_amount": "4 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "thin-sliced chicken cutlets",
+            "us_amount": "4 (5 oz) cutlets",
+            "metric_amount": "4 (5 oz) cutlets"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 425ºF. Lightly spray a small baking sheet with nonstick spray.",
+        "Place baking sheet in oven for 10 minutes to heat prior to putting the chicken cutlets on it.",
+        "Whisk together the lime juice, egg white, soy sauce, oregano, and garlic in a medium bowl.",
+        "Place the panko, adobo seasoning, and salt on a sheet of wax paper. Dip the chicken, one piece at a time, into the lime mixture then into the panko mixture, pressing lightly so the crumbs adhere.",
+        "Place the chicken on the baking sheet. Lightly spray with nonstick spray. Bake, without turning, until the crust is golden and the chicken is cooked through, about 20 minutes."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Kid Friendly",
+        "Latin American",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "3.5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "80mg",
+        "sodium": "260mg",
+        "total_carbohydrate": "9g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "32g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/latin-baked-fried-chicken"
+}

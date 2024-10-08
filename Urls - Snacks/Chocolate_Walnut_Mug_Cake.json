@@ -1,0 +1,97 @@
+{
+    "title": "Chocolate Walnut Mug Cake",
+    "keywords": "Dessert,Foodie,Vegetarian,Snacks,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "PT1M",
+    "categories": [
+        "Dessert",
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_177_Chocolate_Walnut_Mug_Cake_ThinkstockPhotos496979402_04112018.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "unsweetened cocoa powder",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "white whole-wheat flour",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "baking powder",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pinch salt",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "stevia powder",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "skim milk",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "walnuts (chopped)",
+            "us_amount": "3/4 tbsp",
+            "metric_amount": "11 ml"
+        }
+    ],
+    "instructions": [
+        "Spray a coffee mug with cooking spray.",
+        "Add the flour, cocoa powder, baking powder, salt, stevia, canola oil, milk and vanilla and stir to combine.",
+        "Microwave for 45 seconds.",
+        "Top with the walnuts and serve."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Comfort Food",
+        "Kid Friendly",
+        "Dessert",
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "12g",
+        "saturated_fat": "1.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "22g",
+        "fiber": "5g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chocolate-walnut-mug-cake"
+}

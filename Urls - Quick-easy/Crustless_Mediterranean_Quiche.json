@@ -1,0 +1,109 @@
+{
+    "title": "Crustless Mediterranean Quiche",
+    "keywords": "Breakfast and Brunch,Dinner,Lunch,Main Dish,Quick & Easy,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2023-diabetic-crustless-mediterranean-quiche_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "medium onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "red bell pepper (seeded and diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zucchini (shredded)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "herb and garlic goat cheese",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "fresh thyme",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pitted Kalamata olives (minced)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 400°F. Coat a 9- or 10-inch pie pan with cooking spray. Place on a baking sheet and set aside.",
+        "Add olive oil to a small nonstick sauté pan. Add onion, bell pepper, zucchini, salt, and pepper, and sauté 10–12 minutes or until there is no more liquid in the pan. Set aside to cool.",
+        "In a mixing bowl, whisk together eggs, cheese, thyme, mustard, and olives.",
+        "Pour cooled vegetable mixture into the prepared pie pan and spread to cover the bottom of the pan. Pour the egg mixture over the vegetables.",
+        "Bake 30–35 minutes or until center is set. Let cool 10 minutes before slicing. Slice into 8 pie wedges."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Mediterranean",
+        "Breakfast and Brunch",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "8g",
+        "saturated_fat": "2.9g",
+        "trans_fat": "0g",
+        "cholesterol": "150mg",
+        "sodium": "310mg",
+        "total_carbohydrate": "7g",
+        "fiber": "1g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crustless-mediterranean-quiche"
+}

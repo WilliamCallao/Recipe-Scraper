@@ -1,0 +1,72 @@
+{
+    "title": "Pineapple and Chile Quesadillas",
+    "keywords": "Vegetarian,Quick & Easy,Budget Friendly,Sides,Lunch,Dinner",
+    "prep_time": "Desconocido",
+    "cook_time": "PT10M",
+    "categories": [
+        "Vegetarian",
+        "Quick & Easy",
+        "Budget Friendly",
+        "Sides",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1680-diabetic-pineapple-chile-quesadilla_tex-mex-diabetes-cookbook_DF_101918_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "canned pineapple (drained)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "10-inch whole wheat flour tortillas",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Monterey jack cheese (reduced fat, shredded)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Chop the pineapple into bite-sized pieces. Mist a large skillet with cooking spray. Over medium heat, lightly char the pineapple. Set aside.",
+        "Recoat the skillet with cooking spray. Place one tortilla in the skillet over medium-high heat and cook until air bubbles begin to form, about 1 minute. Spread half of the cheese evenly over the tortilla, covering it to the edges.",
+        "Top the cheese with half of the charred pineapple. Sprinkle half of the red pepper flakes over the pineapple. Cook until the cheese starts to melt, about 1 minute, then fold the tortilla in half. Flip the folded tortilla over and cook until it is lightly toasted and the cheese is completely melted, about 1 to 2 minutes.",
+        "Transfer the quesadilla to a cutting board. Repeat steps 2 and 3 with the second tortilla and the remainder of the ingredients.",
+        "Cut each quesadilla into 3 wedges. Serve hot with a side of salsa."
+    ],
+    "tags": [
+        "Lower Carb",
+        "High in Fiber",
+        "Kid Friendly",
+        "Mexican/Southwestern",
+        "Latin American",
+        "Vegetarian",
+        "Quick & Easy",
+        "Budget Friendly",
+        "Sides",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "5g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "15mg",
+        "sodium": "280mg",
+        "total_carbohydrate": "9g",
+        "fiber": "5g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pineapple-and-chile-quesadillas"
+}

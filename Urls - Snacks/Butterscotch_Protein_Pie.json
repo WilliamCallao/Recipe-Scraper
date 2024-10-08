@@ -1,0 +1,56 @@
+{
+    "title": "Butterscotch Protein Pie",
+    "keywords": "Snacks,Quick & Easy,No Cook,Dessert",
+    "prep_time": "PT65M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Snacks",
+        "Quick & Easy",
+        "No Cook",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/3491_Butterscotch%20Protein%20Pie.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Splenda®  Diabetes Care Vanilla Shake",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "sugar-free instant butterscotch pudding mix",
+            "us_amount": "1 packet",
+            "metric_amount": "1 packet"
+        },
+        {
+            "name": "premade pecan pie crust",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        }
+    ],
+    "instructions": [
+        "In a medium bowl, combine cold Splenda French Vanilla Diabetes Care Shakes and sugar-free butterscotch pudding mix, mixing for about two minutes. Place in the fridge and let cool for about 1 hour.",
+        "Once cooled, spread pudding into premade pecan pie crust. Top with stevia-sweetened chocolate shavings or chopped pecans if desired."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Snacks",
+        "Quick & Easy",
+        "No Cook",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "10g",
+        "saturated_fat": "2.8g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "280mg",
+        "total_carbohydrate": "16g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "2g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/butterscotch-protein-pie"
+}

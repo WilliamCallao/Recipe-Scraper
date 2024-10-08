@@ -1,0 +1,56 @@
+{
+    "title": "Oven-Baked Maduros (Sweet Plantains)",
+    "keywords": "Snacks,Sides,Quick & Easy,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT18M",
+    "categories": [
+        "Snacks",
+        "Sides",
+        "Quick & Easy",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1756-espanol-diabetic-maduros-al-horno_latin-comfort-foods_13020.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "very ripe plantains (black skin) (peeled and cut diagonally into 1/2-inch thick slices)",
+            "us_amount": "2 (about 1 lb total)",
+            "metric_amount": "2 (about 1 lb total)"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400ºF. Line a small baking pan with foil. Spray the foil with nonstick spray.",
+        "Place the plantains slices in one layer on the baking pan and spray the tops with nonstick spray. Bake until softened, about 12 minutes.",
+        "Turn the slices, spray with nonstick spray, and bake until the plantains are tender, about 6 minutes longer."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Mexican/Southwestern",
+        "Latin American",
+        "Snacks",
+        "Sides",
+        "Quick & Easy",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "15g",
+        "fiber": "1g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/oven-baked-maduros-sweet-plantains"
+}

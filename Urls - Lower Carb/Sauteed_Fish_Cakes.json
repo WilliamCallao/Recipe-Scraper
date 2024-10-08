@@ -1,0 +1,100 @@
+{
+    "title": "Sauteed Fish Cakes",
+    "keywords": "Main Dish,Lunch,Dinner",
+    "prep_time": "PT45M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/sauteed-fish-cakes-Oct14.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "hot sauce",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "green onion (scallion) (minced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "panko bread crumbs",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "eggs (beaten)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lemon",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "plain yogurt",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "white fish (patted dry, and cut into chunks)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "Add enough water to fill a large skillet 2/3 full. Over medium heat, bring the water to simmering. Add the fish and simmer for 5 to 7 minutes, or until the fish is cooked through. Remove the fish chunks with a slotted spoon. Add the fish to a mixing bowl and let cool for 5 minutes.",
+        "Drain any excess liquid from the bowl. Add the yogurt, mustard, lemon juice, salt, lemon zest, and egg and mix well. Add ½ cup of the bread crumbs plus the scallions and hot sauce and mix well. Shape the fish mixture into 6 cakes. Coat each side of the cakes lightly with the remaining bread crumbs. Add the cakes to a plate and refrigerate, covered, for 30 minutes.",
+        "Remove the cakes from the refrigerator and let stand 5 minutes. In a large skillet, heat the oil over medium heat. Add the cakes to the skillet and sauté for about 5 minutes on each side, until golden brown."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Kid Friendly",
+        "Seafood",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "4g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "325mg",
+        "total_carbohydrate": "8g",
+        "fiber": "0g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sauteed-fish-cakes"
+}

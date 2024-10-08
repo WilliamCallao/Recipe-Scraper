@@ -1,0 +1,91 @@
+{
+    "title": "Summer Crab Salad",
+    "keywords": "Dinner,Gluten-Free,Lunch,Quick & Easy,Salads,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Quick & Easy",
+        "Salads",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/jun2015-crab-salad-lettuce.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "white crab meat (6-ounce each, drained)",
+            "us_amount": "2 can",
+            "metric_amount": "2 can"
+        },
+        {
+            "name": "celery (diced)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "green onions (sliced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "light mayonnaise",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt (non-fat)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Dash hot sauce",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "large lettuce leaves",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "In a medium bowl mix together all salad ingredients, except lettuce leaves.",
+        "Serve 1/2 cup crab salad on each lettuce leaf. You could also serve on whole-wheat bread or crackers."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Quick & Easy",
+        "Salads",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "320mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/summer-crab-salad"
+}

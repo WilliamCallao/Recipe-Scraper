@@ -1,0 +1,73 @@
+{
+    "title": "Whole Wheat Irish Soda Bread",
+    "keywords": "Sides,Snacks,Vegetarian,Foodie",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Snacks",
+        "Vegetarian",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/mar13_foodie_soda_bread_istock14774234_279x200.jpg",
+    "servings": "24 Servings",
+    "ingredients": [
+        {
+            "name": "whole wheat flour",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "all-purpose flour",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "golden raisins",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "baking soda",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "low-fat buttermilk (low-fat)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 400 degrees F and line a baking sheet with parchment paper.",
+        "In a large mixing bowl, combine whole wheat flour, all purpose flour, baking soda, salt, and raisins.",
+        "Make a well in the center of the dry ingredients and buttermilk all at once. Fold the ingredients with a rubber spatula until just combined; do not overmix.",
+        "Turn dough out onto the parchment paper and form into a round loaf. Cut an X into the top of the dough with a sharp knife about 1/2 inch deep.",
+        "Place on the middle rack to bake for 30 min or until firm and golden brown."
+    ],
+    "tags": [
+        "Sides",
+        "Snacks",
+        "Vegetarian",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "15g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/whole-wheat-irish-soda-bread"
+}

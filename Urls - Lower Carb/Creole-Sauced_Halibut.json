@@ -1,0 +1,114 @@
+{
+    "title": "Creole-Sauced Halibut",
+    "keywords": "Dinner,Main Dish,Vegetarian",
+    "prep_time": "PT20M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2003-diabetic-Creole-Sauced-Halibut_KDBH-bookazine_012821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "halibut",
+            "us_amount": "4 fillets (about 20 oz total)",
+            "metric_amount": "4 fillets (about 20 oz total)"
+        },
+        {
+            "name": "large onion (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "green bell pepper (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "celery (chopped)",
+            "us_amount": "1 1/2 stalks",
+            "metric_amount": "1 1/2 stalks"
+        },
+        {
+            "name": "dried thyme",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "diced grape or cherry tomatoes",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "finely chopped green onion",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "capers (drained)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "chopped fresh parsley",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "margarine",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Louisiana-style hot sauce",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400°F. Lightly spray a baking sheet with cooking spray.",
+        "Place the fish with the skin side down on the baking sheet. Bake for 18–20 minutes, or until the fish flakes easily when tested with a fork.",
+        "Meanwhile, lightly spray a large skillet with cooking spray. Cook the onion, bell pepper, celery, thyme, and garlic over medium-high heat for 3 minutes, or until the onion is soft, stirring occasionally.",
+        "Stir the tomatoes, green onions, and capers into the bell pepper mixture. Cook for 2 minutes, or until the tomatoes are soft, stirring constantly. Remove from the heat.",
+        "Stir in the remaining ingredients. Cover to keep warm.",
+        "When the fish is cooked, transfer it to serving plates. Spoon the bell pepper mixture over the fish."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Dinner",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "7g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "100mg",
+        "sodium": "410mg",
+        "total_carbohydrate": "11g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "31g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/creole-sauced-halibut"
+}

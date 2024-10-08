@@ -1,0 +1,114 @@
+{
+    "title": "Favorite Vegetable Soup",
+    "keywords": "Sides,Dinner,Lunch,Budget Friendly",
+    "prep_time": "PT25M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Dinner",
+        "Lunch",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_235_Favorite_Vegetable_Soup%20_iStock-184856345.jpg",
+    "servings": "14 Servings",
+    "ingredients": [
+        {
+            "name": "ground chuck ((this is a cut of beef))",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "peeled, chopped fresh tomatoes or 2, 28-oz. cans no salt added diced tomatoes",
+            "us_amount": "7 cups",
+            "metric_amount": "7 cups"
+        },
+        {
+            "name": "water",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "cut green beans (14.5-ounce, no salt added, drained and rinsed)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "peas (15-ounce, no salt added, drained and rinsed)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "corn (15.25-ounce, no salt added, drained and rinsed)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "medium carrots (3-ounce each, peeled and chopped)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "medium potatoes (5-ounce each, peeled and diced)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "medium onion (5-ounce, diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "dry rice",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Place ground chuck in a 2-gallon stockpot and brown over medium heat. Remove meat and drain it well. Wipe drippings from pot.",
+        "Return meat to stockpot, then add tomatoes and water. Bring to a simmer and cook, covered, until tomatoes are soft and a juicy broth is created, about 20 minutes.",
+        "Add remaining ingredients, cover, and continue cooking 60 additional minutes to allow flavors to blend."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "Comfort Food",
+        "Sides",
+        "Dinner",
+        "Lunch",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "115",
+        "total_fat": "1g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "130mg",
+        "total_carbohydrate": "20g",
+        "fiber": "4g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/favorite-vegetable-soup"
+}

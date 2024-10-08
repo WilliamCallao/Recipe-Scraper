@@ -1,0 +1,103 @@
+{
+    "title": "Tarragon-Mustard Cod",
+    "keywords": "Quick & Easy,Main Dish,Lunch,Holidays & Entertaining,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/tarragon-mustard-cod-Nov15.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "lemon (cut into wedges)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cod filets (cut into 4 portions)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "olive oil (divided)",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "butter (softened)",
+            "us_amount": "1/2 tbsp",
+            "metric_amount": "7 ml"
+        },
+        {
+            "name": "fresh tarragon (finely chopped)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "coarse Dijon mustard",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 450 F.",
+        "In a small bowl, mix together the mustard, tarragon, butter, 1 Tbsp of the olive oil, water, lemon juice, and garlic; set aside.",
+        "Sprinkle the cod with the salt and pepper. In a shallow ovenproof skillet, heat the remaining ½ Tbsp of olive oil over medium-high heat. Add the cod and sear on one side for 4 minutes. Turn the cod over and sear for 2 minutes on the other side.",
+        "Pour the mustard sauce over the cod and place the skillet in the oven; roast for 2 to 3 minutes. Serve the cod with the lemon wedges."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Seafood",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "8g",
+        "saturated_fat": "1.8g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "365mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tarragon-mustard-cod"
+}

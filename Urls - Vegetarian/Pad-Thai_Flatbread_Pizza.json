@@ -1,0 +1,114 @@
+{
+    "title": "Pad-Thai Flatbread Pizza",
+    "keywords": "Dinner,Vegetarian,Quick & Easy,Cooking for 1 or 2",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Vegetarian",
+        "Quick & Easy",
+        "Cooking for 1 or 2"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_391_Pad-Thai_Flatbread_Pizza_MG_1348-Edit-%28ZF-5661-35964-1-092%29_02282018.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "thin crust wheat flatbreads",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "firm tofu (drained and diced)",
+            "us_amount": "5 oz",
+            "metric_amount": "142 ml"
+        },
+        {
+            "name": "Pad Thai sauce",
+            "us_amount": "2 tbsp plus 1 tsp",
+            "metric_amount": "2 tbsp plus 1 tsp"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "shredded cabbage and carrots (coleslaw mix)",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "green onion (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "reduced-fat, shredded mozzarella cheese",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "red wine vinegar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "spring mix lettuce",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "cucumber (sliced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "carrots (diced or grated)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350 degrees F. Place the flatbreads on a pizza pan and bake for 4 minutes. Remove the flatbreads from the oven and set aside",
+        "In a large nonstick skillet or wok, heat the oil over medium-high heat. Add the tofu and cook 5 minutes or until lightly golden. Add the pad Thai sauce and red pepper flakes, and cook for 2 more minutes.",
+        "Add the cabbage and green onion, and cook for 2-4 more minutes.",
+        "Divide the cabbage-tofu mixture in half and spread evenly onto 2 flatbreads. Sprinkle 2 Tbsps. cheese on each flatbread. Bake 4 minutes in the oven and serve hot.",
+        "Prepare the salad: whisk together the red wine vinegar, olive oil, and black pepper. Toss spring mix, cucumber, and carrot with the dressing in a large bowl. Serve each flatbread with about 2 cups salad."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Dinner",
+        "Vegetarian",
+        "Quick & Easy",
+        "Cooking for 1 or 2"
+    ],
+    "nutrition": {
+        "calories": "450",
+        "total_fat": "21g",
+        "saturated_fat": "3.9g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "660mg",
+        "total_carbohydrate": "49g",
+        "fiber": "8g",
+        "sugar": "12g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pad-thai-flatbread-pizza"
+}

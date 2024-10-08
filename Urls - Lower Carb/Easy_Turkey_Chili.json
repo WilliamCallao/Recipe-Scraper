@@ -1,0 +1,94 @@
+{
+    "title": "Easy Turkey Chili",
+    "keywords": "Easy Pantry Recipes,Dinner,Lunch,One Pot,Main Dish,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Dinner",
+        "Lunch",
+        "One Pot",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1926-easy-turkey-chili-diabetic_AS_295317171_040220.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "cumin",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "no-salt-added diced tomatoes",
+            "us_amount": "1 14.5-ounce can",
+            "metric_amount": "1 14.5-ounce can"
+        },
+        {
+            "name": "yellow onion (peeled and diced)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "bell pepper, any color (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lean ground turkey",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Serve hot or cool to room temperature, then store in an airtight container in the refrigerator for up to one week or package in freezer bags in one cup increments for up to 3 months.",
+        "Add the remaining ingredients and bring to a boil. Reduce to a simmer for 15 minutes.",
+        "Add cooking spray to a stock pot over high heat. Add the turkey and sauté until just cooked through, about 7-8 minutes."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Mexican/Southwestern",
+        "Kid Friendly",
+        "Comfort Food",
+        "Easy Pantry Recipes",
+        "Dinner",
+        "Lunch",
+        "One Pot",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "9g",
+        "saturated_fat": "2.6g",
+        "trans_fat": "0.1g",
+        "cholesterol": "85mg",
+        "sodium": "440mg",
+        "total_carbohydrate": "10g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "23g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/easy-turkey-chili"
+}

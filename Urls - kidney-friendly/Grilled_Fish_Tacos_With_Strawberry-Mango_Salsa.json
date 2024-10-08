@@ -1,0 +1,126 @@
+{
+    "title": "Grilled Fish Tacos With Strawberry-Mango Salsa",
+    "keywords": "Quick & Easy,Main Dish,Foodie,Dinner",
+    "prep_time": "PT30M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_728_GrilledFishTacosWithStrawberryAvocadoSalsa_WholeCooking_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lime juice (freshly squeezed)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lime zest (freshly grated)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "chipotle chili powder",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "fine sea salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cod filets (or similar flaky white fish)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "corn tortillas",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "strawberries (chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "mango (chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "small shallot (minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lime zest (freshly grated)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "lime juice (freshly squeezed)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "fresh cilantro (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "In a medium bowl, whisk together the oil, lime juice, lime zest, chili powder, cumin, salt, and pepper. Add the cod and marinate in the refrigerator for 15–20 minutes.",
+        "While fish is marinating, stir together all the salsa ingredients in a medium bowl.",
+        "Preheat an outdoor grill or grill pan to medium-high heat.",
+        "Remove the cod from the marinade and grill for 3–4 minutes on one side. Then flip and grill 1–2 minutes on the other side, or until fish flakes easily with a fork.",
+        "Transfer the cod to a plate and let it rest for 5 minutes, then use a fork to flake it into bite-size pieces.",
+        "Working in batches if necessary, grill the tortillas for 20 seconds each. Divide the fish evenly among the tortillas, garnish with the salsa (about 2 tablespoons per taco), and serve."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Dialysis",
+        "Low Sodium",
+        "Seafood",
+        "Mexican/Southwestern",
+        "Latin American",
+        "Grilling",
+        "Quick & Easy",
+        "Main Dish",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "170mg",
+        "total_carbohydrate": "31g",
+        "fiber": "4g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-fish-tacos-strawberry-mango-salsa"
+}

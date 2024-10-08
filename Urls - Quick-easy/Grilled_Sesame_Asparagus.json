@@ -1,0 +1,69 @@
+{
+    "title": "Grilled Sesame Asparagus",
+    "keywords": "Vegan,Sides,Quick & Easy,Dinner,Cooking for 1 or 2,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Vegan",
+        "Sides",
+        "Quick & Easy",
+        "Dinner",
+        "Cooking for 1 or 2",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1947-grilled-sesame-asparagus-DFH-MJ20.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "asparagus (ends trimmed)",
+            "us_amount": "12 oz (about 24 spears)",
+            "metric_amount": "12 oz (about 24 spears)"
+        },
+        {
+            "name": "toasted sesame oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sesame seeds",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Preheat an outdoor grill or grill pan.",
+        "Add the asparagus spears and oil into a 9 × 13-inch dish. Toss with tongs to coat.",
+        "Grill the asparagus (in batches, if necessary) over direct medium-high heat until just cooked through and lightly browned, about 6–8 minutes total, rotating only as needed.",
+        "Remove spears from the grill and place back into the dish, sprinkle with the salt and sesame seeds, and serve."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Grilling",
+        "Vegan",
+        "Sides",
+        "Quick & Easy",
+        "Dinner",
+        "Cooking for 1 or 2",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "6g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-sesame-asparagus"
+}

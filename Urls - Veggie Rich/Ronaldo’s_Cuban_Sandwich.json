@@ -1,0 +1,114 @@
+{
+    "title": "Ronaldo’s Cuban Sandwich",
+    "keywords": "Cooking for 1 or 2,Sandwiches,Salads,Main Dish,Lunch,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT18M",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Sandwiches",
+        "Salads",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_819_CubanoSandwich_SaboresDeCuba_022618.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "whole wheat sandwich thins",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Parchment Paper",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Swiss cheese (low-fat, sliced)",
+            "us_amount": "1 1/2 oz",
+            "metric_amount": "42 ml"
+        },
+        {
+            "name": "Hass avocado (sliced)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "deli turkey (low-sodium, sliced)",
+            "us_amount": "1 1/2 oz",
+            "metric_amount": "42 ml"
+        },
+        {
+            "name": "deli ham (low-sodium, sliced)",
+            "us_amount": "1 1/2 oz",
+            "metric_amount": "42 ml"
+        },
+        {
+            "name": "arugula (washed)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "roma (plum) tomatoes (sliced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "red onion (sliced)",
+            "us_amount": "1/8 cup",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cucumber(s) (sliced)",
+            "us_amount": "1/8 cup",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cilantro (chopped)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "lime juice",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "black pepper (cracked)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350°F.",
+        "Place both halves of multigrain roll on a baking sheet lined with parchment paper. Make sure the inside of the bun is facing up. To build the sandwich, layer Swiss cheese evenly on naked bun. Do the same with avocado, turkey, and ham. Place sandwich in the oven for 12 minutes. Remove sandwich from oven and close the roll.",
+        "Preheat a nonstick pan over medium heat. Place the sandwich in the middle of the pan and press down using a spatula or the bottom of a clean saucepan for 2-3 minutes. Flip the sandwich and repeat on the other side. This will give you the pressed look of a traditional Cuban sandwich. Cut in half.",
+        "Add arugula, tomato, red onion, cucumber, cilantro, lime juice, and black pepper to a bowl, and toss ingredients together. Serve with the sandwich. Now take a big bite of that delicious sandwich."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Latin American",
+        "Caribbean",
+        "Cooking for 1 or 2",
+        "Sandwiches",
+        "Salads",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "6g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "510mg",
+        "total_carbohydrate": "16g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ronaldos-cuban-sandwich"
+}

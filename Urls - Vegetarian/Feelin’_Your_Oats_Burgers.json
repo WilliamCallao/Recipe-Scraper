@@ -1,0 +1,88 @@
+{
+    "title": "Feelin’ Your Oats Burgers",
+    "keywords": "Foodie,Main Dish,Vegetarian,Vegan",
+    "prep_time": "PT15M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Foodie",
+        "Main Dish",
+        "Vegetarian",
+        "Vegan"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_695_Oats_Burger_VegetarianCookbook_022618.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "water",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "soy sauce or tamari (reduced-sodium)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "onions (chopped)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "rib celery (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Italian herb blend (dried, oregano, rosemary, and thyme)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "walnuts (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "nutritional yeast (optional)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "old-fashioned rolled oats (not instant oats)",
+            "us_amount": "4 1/2 cup",
+            "metric_amount": "1 l 65 ml"
+        }
+    ],
+    "instructions": [
+        "Place the water, soy sauce or tamari, onions, celery, herbs, walnuts, and yeast, if using, in a large saucepan.",
+        "Bring to a boil over high heat. Boil 4 minutes and then add oats. Stirring constantly, simmer 5 minutes until the mixture is the consistency of really thick wet sand.",
+        "Scoop the mixture into an 11 × 7–inch baking pan. Pat the mixture until it is spread evenly.",
+        "Preheat oven to 375ºF. Place the uncovered pan in the center of the oven and bake about 30 minutes.",
+        "Remove pan from oven and cool slightly. Keep oven set to 375ºF.",
+        "With a spatula, cut oat mixture into rectangular burgers. Remove burgers to a baking pan with sides and bake another 10 minutes until crisp."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Veggie Rich",
+        "Foodie",
+        "Main Dish",
+        "Vegetarian",
+        "Vegan"
+    ],
+    "nutrition": {
+        "calories": "145",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "23g",
+        "fiber": "4g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/feelin-your-oats-burgers"
+}

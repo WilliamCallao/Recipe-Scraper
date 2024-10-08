@@ -1,0 +1,97 @@
+{
+    "title": "Blueberry Almond Chicken Salad Lettuce Wraps",
+    "keywords": "Foodie,Budget Friendly,Dinner,Quick & Easy,Sides,Lunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Foodie",
+        "Budget Friendly",
+        "Dinner",
+        "Quick & Easy",
+        "Sides",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Blueberry%20Almond%20Chicken.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fresh basil (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salt (kosher)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cooked chicken (chopped)",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "blueberries",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "celery (chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "green onion (scallion) (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "lettuce leaves",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "almonds (sliced and toasted)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "In a bowl, combine yogurt, basil, salt and pepper until blended.",
+        "Add chicken, blueberries, celery and scallions and toss until evenly coated.",
+        "Arrange lettuce leaves on serving platter and top with chicken mixture, dividing evenly between lettuce leaves.",
+        "Top with almonds."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Foodie",
+        "Budget Friendly",
+        "Dinner",
+        "Quick & Easy",
+        "Sides",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "6g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "90mg",
+        "sodium": "350mg",
+        "total_carbohydrate": "11g",
+        "fiber": "3g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "39g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/blueberry-almond-chicken-salad-lettuce-wraps"
+}

@@ -1,0 +1,98 @@
+{
+    "title": "Spinach and Parmesan Egg Bites",
+    "keywords": "Appetizers,Breakfast and Brunch,Easy Pantry Recipes,Quick & Easy,Snacks,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Appetizers",
+        "Breakfast and Brunch",
+        "Easy Pantry Recipes",
+        "Quick & Easy",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1988-diabetic-Spinach-Parmesan-Quiche-Bites_KDBH-bookazine_012821.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "frozen spinach (thawed and squeezed dry)",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "roasted red peppers (drained and chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "green onions (thinly sliced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "grated Parmesan cheese",
+            "us_amount": "1 tbsp plus 1 tsp",
+            "metric_amount": "1 tbsp plus 1 tsp"
+        },
+        {
+            "name": "egg substitute",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "skim milk",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "mustard powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350°F. Lightly spray 16 cups of two 12-cup mini muffin pans or 16 cups of a 24-cup mini muffin pan with cooking spray.",
+        "In a medium bowl, using a fork, separate the spinach into small pieces. Stir in the roasted peppers and green onions. Spoon the spinach mixture into the sprayed muffin cups. Sprinkle the Parmesan over the spinach mixture.",
+        "In a separate medium bowl, whisk together the remaining ingredients. Pour into the filled muffin cups. Fill the empty muffin cups with water to keep the pan from warping.",
+        "Bake for 18–20 minutes, or until a wooden toothpick inserted in the center comes out clean. Transfer the pans to a cooling rack. Let cool for 10 minutes. Using a thin spatula or flat knife, loosen the sides of the quiche bites. Serve warm.",
+        "Refrigerate leftovers in an airtight container for up to 5 days. To reheat, put 4–6 quiche bites on a microwaveable plate. Microwave on 100% power (high) for 45 seconds to 1 minute, or until heated through."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Appetizers",
+        "Breakfast and Brunch",
+        "Easy Pantry Recipes",
+        "Quick & Easy",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "1.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spinach-and-parmesan-egg-bites"
+}

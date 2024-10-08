@@ -1,0 +1,67 @@
+{
+    "title": "Open-Faced Grilled Pepper-Goat Cheese Sandwiches",
+    "keywords": "Vegetarian,Main Dish,Lunch,Dinner",
+    "prep_time": "PT5M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Vegetarian",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_777_Open-Faced%20Grilled%20Peppers%20and%20Goat%20Cheese%20sandwich_4IngredientCookbook_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "large red bell peppers (halved lengthwise)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "whole grain loaf bread (cut in half lengthwise)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "goat cheese (chevre) (crumbled)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        }
+    ],
+    "instructions": [
+        "Heat grill or grill pan over medium-high heat. Flatten pepper halves with palm of hand. Coat both sides with cooking spray and cook 20 minutes or until tender, turning frequently. Place on cutting board and coarsely chop. Combine the peppers with the vinegar and 1/8 teaspoon salt, if desired. Cover to keep warm.",
+        "Coat both sides of the bread with cooking spray and cook 1 1/2 to 2 minutes on each side or until lightly browned. Cut each bread half crosswise into 4 pieces.",
+        "Top each bread slice with 1/4 cup pepper mixture and sprinkle cheese evenly over all"
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Veggie Rich",
+        "Grilling",
+        "Vegetarian",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "7g",
+        "saturated_fat": "3.3g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "280mg",
+        "total_carbohydrate": "33g",
+        "fiber": "7g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/open-faced-grilled-pepper-goat-cheese-sandwiches"
+}

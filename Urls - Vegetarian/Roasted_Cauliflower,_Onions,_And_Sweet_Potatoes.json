@@ -1,0 +1,74 @@
+{
+    "title": "Roasted Cauliflower, Onions, And Sweet Potatoes",
+    "keywords": "Vegetarian,Sides,Gluten-Free",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Gluten-Free"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/jan2015-roasted-cauliflower.jpg",
+        "Onions",
+        "And Sweet Potatoes\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "fresh cauliflower florets (cut into 1-inch pieces)",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "sweet potato (peeled and cut into 3/4-inch cubes)",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "medium onion (cut in 8 wedges)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ground nutmeg",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 425°F.",
+        "Place the cauliflower, potatoes, and onion on large foil-lined baking sheet. Drizzle with the oil and toss gently until well coated. Arrange vegetables in a single layer and bake 10 minutes. Stir and bake 10–11 minutes or until potatoes are tender. Remove from oven.",
+        "Sprinkle evenly with the salt and nutmeg. Wrap the vegetables in the foil and seal the edges. Let stand 10 minutes to absorb flavors and allow the natural juices to be released slightly."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Vegetarian",
+        "Sides",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "15g",
+        "fiber": "3g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-cauliflower-onions-and-sweet-potatoes"
+}

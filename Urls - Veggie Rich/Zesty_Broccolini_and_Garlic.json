@@ -1,0 +1,82 @@
+{
+    "title": "Zesty Broccolini and Garlic",
+    "keywords": "Vegetarian,Vegan,Sides",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/595-diabetic-zesty-broccolini-garlic_shutterstock1113648266_111519.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic (thinly sliced)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "broccolini (stems trimmed)",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "low sodium vegetable broth (low-sodium)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "red pepper (Pinch crushed)",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "salt and pepper to taste",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "fresh lemon juice",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "fresh lemon zest",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "Heat the oil over medium-low heat. Add the garlic and sauté for about 5 to 6 minutes, or just until the garlic starts to brown. Add in the broccolini, broth, crushed red pepper, salt, and black pepper. Cover the pan, and let it steam on medium-high heat until the broccolini turns bright green and is tender, about 5 to 6 minutes.",
+        "Add in the lemon juice and zest, and serve immediately.",
+        "*Nutrition facts do not include added salt."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Low Sodium",
+        "Vegetarian",
+        "Vegan",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "2g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "35mg",
+        "total_carbohydrate": "8g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/zesty-broccolini-and-garlic"
+}

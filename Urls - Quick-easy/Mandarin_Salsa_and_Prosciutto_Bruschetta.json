@@ -1,0 +1,103 @@
+{
+    "title": "Mandarin Salsa and Prosciutto Bruschetta",
+    "keywords": "Appetizers,Foodie,Holidays & Entertaining,Quick & Easy,Snacks",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Appetizers",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Mandarin%20Salsa%20Diabetic%20Recipe.png",
+    "servings": "14 Servings",
+    "ingredients": [
+        {
+            "name": "multigrain baguette (sliced into 28 slices, about 1/4 inch thick)",
+            "us_amount": "1 loaf",
+            "metric_amount": "1 loaf"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "prosciutto (quatered)",
+            "us_amount": "7 slice",
+            "metric_amount": "7 slice"
+        },
+        {
+            "name": "lime juice (for the salsa)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "artificial brown sugar blend (for the salsa)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "fresh cilantro (for the salsa, chopped)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "jalapeño pepper (for the salsa, minced)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "fresh ginger (for the salsa, minced)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "crushed red pepper flakes (for the salsa)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt (for the salsa)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "mandarin oranges (for the salsa, orange segments sliced into bite-size pieces)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350 degrees F.",
+        "Arrange sliced baguette pieces on a large baking sheet. Spray the tops of the bread slices lightly with cooking spray. Bake on the top rack of the oven for 10 minutes. Set aside to cool.",
+        "Meanwhile, stir together the lime juice, sweetener blend, cilantro, jalapeño, ginger, red pepper, and salt. Add the orange segments and stir to combine.",
+        "To serve, either add the bruschetta mixture to a serving bowl and arrange the toasted baguette around the bowl for self-serve bruschetta, or top each toasted baguette slice with quarter a slice of prosciutto and a Tbsp of bruschetta mixture."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Asian",
+        "Caribbean",
+        "Italian",
+        "Appetizers",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "1g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "1mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "10g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "1g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mandarin-salsa-and-prosciutto-bruschetta"
+}

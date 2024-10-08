@@ -1,0 +1,78 @@
+{
+    "title": "Summer Fruit Smoothie",
+    "keywords": "Quick & Easy,Snacks,Gluten-Free,Vegetarian,Breakfast and Brunch",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Snacks",
+        "Gluten-Free",
+        "Vegetarian",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/530-diabetic-summer-fruit-smoothie_AdobeStock119096304_012121.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "fresh blueberries",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "chopped fresh strawberries",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "peaches (peeled, seeded and chopped)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "peach flavored Greek style yogurt (non-fat)",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "almond milk (unsweetened)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "ground flax seed",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ice",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Combine all ingredients in a blender and puree until smooth."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Kid Friendly",
+        "Quick & Easy",
+        "Snacks",
+        "Gluten-Free",
+        "Vegetarian",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "50mg",
+        "total_carbohydrate": "22g",
+        "fiber": "4g",
+        "sugar": "14g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/summer-fruit-smoothie"
+}

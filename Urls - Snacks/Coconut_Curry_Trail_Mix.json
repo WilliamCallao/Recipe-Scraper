@@ -1,0 +1,76 @@
+{
+    "title": "Coconut Curry Trail Mix",
+    "keywords": "Snacks,Quick & Easy,Vegetarian,Gluten-Free",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Snacks",
+        "Quick & Easy",
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_191_Coconut_Curry_Trail_Mix_PNCImages_02272018.jpg",
+    "servings": "24 Servings",
+    "ingredients": [
+        {
+            "name": "curry powder",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sunflower seeds",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sweetened coconut flakes",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "chocolate chips",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "whole roasted almonds",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "unsalted peanuts",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        }
+    ],
+    "instructions": [
+        "In a medium plastic container place almonds, peanuts, chocolate chips, sunflower seeds and coconut. Spray mixture evenly with cooking spray and then sprinkle on curry powder. Place lid on plastic container and gently shake contents to mix well."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Low Sodium",
+        "Snacks",
+        "Quick & Easy",
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "9g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "5g",
+        "fiber": "2g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/coconut-curry-trail-mix"
+}

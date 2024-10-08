@@ -1,0 +1,94 @@
+{
+    "title": "Oat Bran Muffins",
+    "keywords": "Breakfast and Brunch,Holidays & Entertaining,Sides,Vegetarian",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Breakfast and Brunch",
+        "Holidays & Entertaining",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/sept_oat_muffin_istock16243992_279x200.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "oat bran",
+            "us_amount": "2 1/4 cup",
+            "metric_amount": "532 ml"
+        },
+        {
+            "name": "firmly packed brown sugar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "baking powder",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "milk (fat-free)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "egg substitute ((equal to 1 egg))",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "unsweetened applesauce",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "medium banana (mashed)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "dried fruit such as raisins, dates, apricots (optional) (optional)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 425 degrees.",
+        "Mix the first four ingredients in a large bowl. Set aside.",
+        "Combine milk, egg, and oil. Mix applesauce with mashed banana and blend with liquid ingredients. Add to dry ingredients and mix just until moistened.",
+        "Pour into muffin tins that have been sprayed with nonstick cooking spray. Do not use paper liners, as the muffins have a tendency to stick to the paper. Bake for 15-17 minutes.",
+        "TIP: The tops of these muffins don’t brown well due to the low sugar content, but they are still moist and full of flavor!"
+    ],
+    "tags": [
+        "Low Sodium",
+        "Breakfast and Brunch",
+        "Holidays & Entertaining",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "121",
+        "total_fat": "4g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "140mg",
+        "total_carbohydrate": "20g",
+        "fiber": "3g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/oat-bran-muffins"
+}

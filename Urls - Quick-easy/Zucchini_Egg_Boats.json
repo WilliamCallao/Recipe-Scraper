@@ -1,0 +1,97 @@
+{
+    "title": "Zucchini Egg Boats",
+    "keywords": "Breakfast and Brunch,Budget Friendly,Dinner,Lunch,Main Dish,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2019-diabetic-breakfast-zucchini-egg-boat_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zucchini",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "sliced mushrooms",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "small onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chicken breakfast sausage links (fully cooked)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "water",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "hot sauce",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 400°F. Coat a baking sheet with cooking spray. Slice zucchini in half lengthwise, scoop the seeds out to make a boat, and place on the prepared baking sheet. Roast the zucchini 25 minutes.",
+        "While the zucchini is roasting, add cooking spray to a medium nonstick sauté pan over medium-high heat. Add mushrooms, onion, and sausage to the pan and sauté 7 minutes, or until mushrooms and onion are tender.",
+        "In a medium bowl, whisk together eggs, water, hot sauce, salt, and pepper. Pour the egg mixture over the sautéed veggies and sausage, gently stirring over medium-low heat until eggs and vegetable mixture are thoroughly combined, about 4 minutes.",
+        "Remove the zucchini from the oven and top each zucchini half with a scant cup of the egg mixture."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "8g",
+        "saturated_fat": "2.6g",
+        "trans_fat": "0g",
+        "cholesterol": "210mg",
+        "sodium": "410mg",
+        "total_carbohydrate": "8g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "15g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/zucchini-egg-boats"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Garden Caprese Salad",
+    "keywords": "Sides,Vegetarian,Foodie,Gluten-Free,Salads,Holidays & Entertaining",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Vegetarian",
+        "Foodie",
+        "Gluten-Free",
+        "Salads",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/248-GardenCapreseSalad_91399318_050318.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "plum (Roma) tomatoes (seeded and cut into 1/2 inch chunks)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "medium cucumbers (seeded and cut into 1/2 inch chunks)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "small red onion (small dice)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "fresh basil ((about 15 leaves), chopped)",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "fresh mozzarella (cut into small chunks)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        }
+    ],
+    "instructions": [
+        "In a large bowl, combine all ingredients. Mix well.",
+        "Let the salad marinate for 1 hour in the refrigerator."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Italian",
+        "Sides",
+        "Vegetarian",
+        "Foodie",
+        "Gluten-Free",
+        "Salads",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "3g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "35mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/garden-caprese-salad"
+}

@@ -1,0 +1,79 @@
+{
+    "title": "Hawaiian Shaved Brussels Sprouts",
+    "keywords": "Gluten-Free,Quick & Easy,Sides,Vegan,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Gluten-Free",
+        "Quick & Easy",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/diabeticHawaiian-Shaved-Brussel-Sprouts_MFTK-comfort-favorites_040219.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "fresh Brussels sprouts",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "brown sugar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pineapple bits in juice (drained well)",
+            "us_amount": "1 (8 oz) can",
+            "metric_amount": "1 (8 oz) can"
+        },
+        {
+            "name": "chopped macadamia nuts",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Cut off the bottoms of the brussels sprouts’ cores, then cut the sprouts into very thin slices with a knife, or slice them in a food processor.",
+        "In a large skillet over medium heat, heat the oil until it’s hot. Sauté the brussels sprouts for 5 to 7 minutes, or until they begin to brown, stirring occasionally. For crispier brussels sprouts, sauté a couple minutes longer.",
+        "Stir in the brown sugar, salt, pepper, and pineapple. Cook for 3 to 5 minutes, or until heated through. Sprinkle with the macadamia nuts and serve."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Gluten-Free",
+        "Quick & Easy",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "14g",
+        "fiber": "3g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/hawaiian-shaved-brussels-sprouts"
+}

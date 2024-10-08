@@ -1,0 +1,105 @@
+{
+    "title": "Butternut Squash Stew with Chickpeas",
+    "keywords": "Lunch,Dinner",
+    "prep_time": "PT25M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/oct13_squash-chickpea_stew_279x200.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "medium butternut squash",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "large onion (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "small red potatoes (unpeeled and cut into quarters)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "low sodium chicken broth (low-fat, reduced-sodium)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "tomato(es) (14-ounce, diced, (try fire roasted for more flavor), undrained)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "dried oregano (dried)",
+            "us_amount": "3/4 tsp",
+            "metric_amount": "4 g"
+        },
+        {
+            "name": "kosher salt, to taste",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Freshly ground black pepper, to taste",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chickpeas (garbanzo beans) (15-ounce, drained and rinsed)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "natural creamy peanut butter (stirred well until smooth)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "parsley (chopped)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Prepare the butternut squash. Place the whole squash on the floor or rack of a microwave oven. Microwave the squash for 5 minutes. Carefully remove and let cool until it’s cool enough to handle. With a sharp knife, cut the squash in half crosswise. Peel the skin off each half with the knife, cutting close to remove the skin only. Cut each half lengthwise. Remove the squash seeds from the bottom half of the squash and discard. Cut all the squash into 1-inch chunks. Set aside. This process makes cutting tough butternut squash easier as it helps loosen the skin.",
+        "Heat the oil in a large Dutch oven over medium heat. Add the onion and garlic and sauté for 5-6 minutes. Add the butternut squash and potatoes and stir to coat with the onions and garlic. Add the broth, tomatoes with juice, oregano, salt, and pepper. Bring to boil. Lower the heat to a simmer, cover, and cook on medium-low heat for about 20 minutes, until squash and potatoes are tender. Some of the squash may become very soft.",
+        "Gently mix the chickpeas and peanut butter and cook for 5 minutes. Garnish with chopped parsley."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Comfort Food",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "28g",
+        "fiber": "5g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/butternut-squash-stew-chickpeas"
+}

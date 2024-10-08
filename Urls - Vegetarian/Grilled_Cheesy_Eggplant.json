@@ -1,0 +1,84 @@
+{
+    "title": "Grilled Cheesy Eggplant",
+    "keywords": "Dinner,Gluten-Free,Quick & Easy,Sides,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Gluten-Free",
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/july_grilled_cheesy_eggplant_istock8637136_279x200.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "baby eggplants (cut in half lengthwise)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper (ground)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "mozzarella cheese (part-skim, shredded)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Parmesan cheese (freshly grated)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "Preheat grill to medium-high.",
+        "Drizzle the olive oil evenly over the eggplant halves. Sprinkle eggplant evenly with garlic powder and black pepper.",
+        "Place eggplant halves on grill cut side down and cook for 3-4 minutes, until tender.",
+        "Flip over and spread mozzarella cheese evenly over eggplant halves. Grill an additional 3-4 minutes until cheese is melted.",
+        "Remove eggplant from grill and place side-by-side on a serving dish. Drizzle evenly with balsamic vinegar and Parmesan cheese."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Grilling",
+        "Dinner",
+        "Gluten-Free",
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "5g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "55mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-cheesy-eggplant"
+}

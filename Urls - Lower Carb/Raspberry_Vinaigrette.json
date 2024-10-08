@@ -1,0 +1,75 @@
+{
+    "title": "Raspberry Vinaigrette",
+    "keywords": "Salad Dressings & Condiments,Quick & Easy,No Cook",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salad Dressings & Condiments",
+        "Quick & Easy",
+        "No Cook"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2070-diabetic-low-carb-berry-balsamic-salad-dressing_low-carb-brissette_050721.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "fresh or frozen raspberries (thawed if using frozen raspberries)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "rice wine vinegar",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "extra virgin olive oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "erythritol or other sugar substitute",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "In a blender or food processor, puree all of the ingredients until smooth.",
+        "Pour the dressing through a fine mesh strainer to remove the seeds.",
+        "Store in the fridge in an airtight container for up to 1 week."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Salad Dressings & Condiments",
+        "Quick & Easy",
+        "No Cook"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "100mg",
+        "total_carbohydrate": "2g",
+        "fiber": "0g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/raspberry-vinaigrette"
+}

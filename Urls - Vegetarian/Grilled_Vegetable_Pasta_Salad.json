@@ -1,0 +1,104 @@
+{
+    "title": "Grilled Vegetable Pasta Salad",
+    "keywords": "Sides,Vegetarian,Salads,Holidays & Entertaining,Foodie",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Vegetarian",
+        "Salads",
+        "Holidays & Entertaining",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_296_Grilled_Vegetable_Pasta_Salad_iStock-118192016_02282018.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "whole wheat rotini or penne pasta (uncooked)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "asparagus (ends trimmed)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "zucchini (sliced 1/4 inch thick lengthwise)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "small eggplant (peeled and sliced 1/2 inch thick lengthwise)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "large red bell pepper (seeded and cut in half lengthwise)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "dried oregano (chopped)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Prepare an indoor or outdoor grill.",
+        "Cook pasta according to package directions, omitting salt.",
+        "Coat all of the vegetables with cooking spray and grill for 7-10 minutes, turning frequently.",
+        "Remove vegetables from grill and dice.",
+        "Drain the cooked pasta and immediately add the diced grilled vegetables to the hot pasta. Add the olive oil, garlic, oregano, salt (optional), and ground black pepper and stir well to coat. Serve this dish warm or cold."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Grilling",
+        "Italian",
+        "Sides",
+        "Vegetarian",
+        "Salads",
+        "Holidays & Entertaining",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "95",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "5mg",
+        "total_carbohydrate": "16g",
+        "fiber": "4g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-vegetable-pasta-salad"
+}

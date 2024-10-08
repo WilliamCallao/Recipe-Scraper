@@ -1,0 +1,93 @@
+{
+    "title": "Indian Salmon Stir Fry",
+    "keywords": "Dinner,Foodie,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_747_IndianSalmonStirFry_PerfectComfortCollection_022618.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "vegetable oil (divided use)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cumin seeds",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "brown mustard seeds",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "turmeric",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salmon filet (skinless, cut into 1-inch cubes)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "large onion (halved, peeled, and sliced into 1/2-inch slices)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "fresh ginger (peeled, grated)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "hot green chili peppers (finely minced, optional)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cherry tomatoes (halved)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Heat 2 teaspoons of the oil in a wok or heavy skillet over medium-high heat. Add the cumin, mustard seeds, and turmeric and stir fry for 1 minute until seeds begin to pop. Add the salmon and stir fry quickly but gently for about 3-4 minutes. Remove the salmon from the pan and set aside.",
+        "Add the remaining oil to the pan. Lower the heat to medium. Add the onion and stir fry for about 6-7 minutes until onions are soft. Add in the garlic, ginger, and chili pepper and stir fry for 1 minute. Add in the cherry tomatoes and stir fry for 1-2 minutes until cherry tomatoes just begin to soften. Add back the salmon and stir fry very gently for 1 minute."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Indian",
+        "Seafood",
+        "Comfort Food",
+        "Dinner",
+        "Foodie",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "10g",
+        "saturated_fat": "1.7g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "65mg",
+        "total_carbohydrate": "8g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/indian-salmon-stir-fry"
+}

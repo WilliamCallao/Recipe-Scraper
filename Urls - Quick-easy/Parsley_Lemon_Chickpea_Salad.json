@@ -1,0 +1,84 @@
+{
+    "title": "Parsley Lemon Chickpea Salad",
+    "keywords": "Appetizers,Budget Friendly,Gluten-Free,No Cook,Quick & Easy,Salads,Sides,Snacks,Vegan,Vegetarian",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Appetizers",
+        "Budget Friendly",
+        "Gluten-Free",
+        "No Cook",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Snacks",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Diabetic%20parsley%20lemon%20chicpea%20salad.png",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "flat leaf parsley (finely chopped)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "lemon (zest and juice from lemon)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "15-oz canned chickpeas (drained and rinsed)",
+            "us_amount": "2 can",
+            "metric_amount": "2 can"
+        },
+        {
+            "name": "red onion (finely diced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        }
+    ],
+    "instructions": [
+        "Add the drained onions and stir again to combine. Taste and adjust with more lemon, salt, or pepper, if necessary.",
+        "In a medium bowl, combine the chickpeas, olive oil, lemon zest and juice, parsley, and pepper. Stir to combine.",
+        "Place the diced onion in a bowl of cold water for 10 minutes, then drain."
+    ],
+    "tags": [
+        "Mediterranean",
+        "Appetizers",
+        "Budget Friendly",
+        "Gluten-Free",
+        "No Cook",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Snacks",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "11g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "240mg",
+        "total_carbohydrate": "25g",
+        "fiber": "7g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/parsley-lemon-chickpea-salad"
+}

@@ -1,0 +1,86 @@
+{
+    "title": "Vegetarian Baked Beans",
+    "keywords": "Vegetarian,Foodie,Gluten-Free,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Foodie",
+        "Gluten-Free",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/573-diabetic-vegetarian-baked-beans_AdobeStock219010702_012221.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "large onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "navy or great northern beans (rinsed and drained)",
+            "us_amount": "2 (14.5-oz) cans",
+            "metric_amount": "2 (14.5-oz) cans"
+        },
+        {
+            "name": "low sodium vegetable broth",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "no-salt-addded ketchup",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "low-calorie brown sugar substitute",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "lower sodium soy sauce",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350 degrees F. Coat an 8-inch baking pan with cooking spray. Set aside.",
+        "Mix all the ingredients in a large bowl. Pour into prepared baking pan. Cover and bake for 45 minutes. Uncover and bake an additional 30 to 40 minutes or until thickened."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Vegetarian",
+        "Foodie",
+        "Gluten-Free",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "0g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "24g",
+        "fiber": "6g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/vegetarian-baked-beans"
+}

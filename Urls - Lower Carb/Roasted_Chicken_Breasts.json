@@ -1,0 +1,91 @@
+{
+    "title": "Roasted Chicken Breasts",
+    "keywords": "Dinner,Lunch,Quick & Easy,Main Dish,Gluten-Free,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Main Dish",
+        "Gluten-Free",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/450-diabetic-roasted-chicken-breast_shutterstock332807894_012919.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "boneless, skinless chicken breasts (4-ounces each)",
+            "us_amount": "4 whole",
+            "metric_amount": "4 whole"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "paprika",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350 degrees. Coat a baking sheet with cooking spray.",
+        "Place the chicken breasts on the baking sheet.",
+        "In a small bowl, combine salt, pepper, olive oil, lemon juice and garlic and whisk until combined.",
+        "Brush on or pour lemon juice mixture over each chicken breast, coating evenly.",
+        "Sprinkle each chicken breast evenly with paprika and bake in oven for 35 minutes or until the chicken is cooked to an internal temperature of 165 degrees F.",
+        "Let the chicken breasts rest, covered with foil for 10-15 minutes before slicing or serving."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Kid Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Main Dish",
+        "Gluten-Free",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "6g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "60mg",
+        "total_carbohydrate": "3g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-chicken-breasts"
+}

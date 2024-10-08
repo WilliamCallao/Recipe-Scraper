@@ -1,0 +1,88 @@
+{
+    "title": "Tarragon Herbed Chicken and Mushrooms",
+    "keywords": "Main Dish,Gluten-Free,Budget Friendly,Dinner,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Main Dish",
+        "Gluten-Free",
+        "Budget Friendly",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1809-diabetic-tarragon-herbed-chicken_12-Week-Cookbook_DFJulAug19_062119.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "fresh tarragon",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "fresh parsley",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "sliced baby portabello mushrooms",
+            "us_amount": "3/4 cup",
+            "metric_amount": "3/4 cup"
+        },
+        {
+            "name": "boneless, skinless chicken breast cutlets",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic (crushed)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        }
+    ],
+    "instructions": [
+        "Coarsely chop the tarragon, parsley, and mushrooms together in a food processor or by hand. Set aside.",
+        "Coat a large nonstick skillets with olive oil spray, and heat over medium-high heat.",
+        "Brown the chicken breasts for 4 minutes on each side, or until a meat thermometer inserted into the chicken reads 165° F. Remove the chicken from the pan. (if doubling the chicken, cook in two pans; set aside half of the chicken to cool, then store in a tightly sealed container in the fridge for up to 3 days.)",
+        "Divide the chicken between 4 dinner plates and sprinkle with the salt and pepper.",
+        "Add the olive oil to the pan along with the garlic and chopped herbs and mushrooms. Toss to warm through, about 1 minute. Spoon over the plated chicken. Serve with an additional vegetable or whole grain side dish."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Main Dish",
+        "Gluten-Free",
+        "Budget Friendly",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "8g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "380mg",
+        "total_carbohydrate": "2g",
+        "fiber": "1g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "36g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tarragon-herbed-chicken-and-mushrooms"
+}

@@ -1,0 +1,77 @@
+{
+    "title": "Mini Apple Chimichanga",
+    "keywords": "Budget Friendly,Dessert,Quick & Easy,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Budget Friendly",
+        "Dessert",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/diabetic-mini-apple-chimichangas-tex-mex-cookbook_080318_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "apple (cored and chopped)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "zero-calorie granulated sweetener, such as splenda (divided use)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "8-inch whole wheat flour tortillas",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 400 degrees F",
+        "In a medium-sized saucepan, combine apples, 2 tbsp Splenda, cinnamon, and water. Bring to a boil, and cook until apples are soft. Remove from heat. Cool to room temperature.",
+        "To build the chimichangas, pile 2 tsp apple filling on each tortilla and fold each end over the filling. Roll the tortillas up and secure each one with a toothpick. Lightly coat the tortillas with cooking spray. Place folded tortillas seam side down on baking sheet. Sprinkle evenly with remaining granulated sweetener. Bake for 5 minutes, then turn over and bake 5 minutes more.",
+        "Remove chimichangas from the baking sheet and place on individual plates. If desired, garnish with a scoop of ice cream or a dollop of whipped cream."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Mexican/Southwestern",
+        "Budget Friendly",
+        "Dessert",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "6g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "240mg",
+        "total_carbohydrate": "33g",
+        "fiber": "5g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mini-apple-chimichanga"
+}

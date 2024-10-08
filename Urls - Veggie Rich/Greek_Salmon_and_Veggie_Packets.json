@@ -1,0 +1,106 @@
+{
+    "title": "Greek Salmon and Veggie Packets",
+    "keywords": "Lunch,Main Dish,Gluten-Free,Foodie,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Main Dish",
+        "Gluten-Free",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_270_Greek_Salmon_and_Veggie_Packets_iStock-184616287_02282018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "fresh oregano (minced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "medium zucchini (thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "medium onion (thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "medium red bell pepper (seeded and sliced into thin strips)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salmon fillets (4-ounce each, skinless)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 400°F. Spray 4, 8x8-inch sheets of aluminum foil with cooking spray. Set aside.",
+        "Combine lemon juice, garlic, oregano, salt (optional) and pepper in a small bowl. Set aside.",
+        "Place 1/4 of zucchini, onion and bell pepper on each sheet of foil. Top each one with a salmon fillet.",
+        "Pour 1/4 of lemon juice mixture over each salmon fillet. Top with 1/2 Tsp. olive oil.",
+        "Bring foil sides up on both sides and seal. Place on baking sheet and bake in oven for 20 minutes.",
+        "Safety Tip: Be careful when opening the foil packets because the steam can burn you."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Low Sodium",
+        "Mediterranean",
+        "Seafood",
+        "Lunch",
+        "Main Dish",
+        "Gluten-Free",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "13g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "80mg",
+        "sodium": "70mg",
+        "total_carbohydrate": "9g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/greek-salmon-and-veggie-packets"
+}

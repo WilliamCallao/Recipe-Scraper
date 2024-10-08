@@ -1,0 +1,101 @@
+{
+    "title": "Fresh Corn, Tomato, And Avocado Salad With Shrimp",
+    "keywords": "Sides,Salads,Dinner,Main Dish",
+    "prep_time": "PT20M",
+    "cook_time": "PT4M",
+    "categories": [
+        "Sides",
+        "Salads",
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/RecId_700_FreshCornTomatoAvocadoSaladWithShrimp_SixOClockScramble_022618.jpg",
+        "Tomato",
+        "And Avocado Salad With Shrimp\" loading=\"lazy\" />"
+    ],
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "medium or large shrimp (peeled and deveined)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "cherry tomatoes (halved)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "avocado (peeled and cubed)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "ears corn (kernels sliced off (no need to cook if it’s fresh sweet corn. If not, steam it for 3 minutes))",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "feta cheese (reduced-fat, cubed, or use Mexican queso fresco or cotija)",
+            "us_amount": "3 oz",
+            "metric_amount": "85 ml"
+        },
+        {
+            "name": "fresh basil (slivered)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "balsamic vinegar (to taste)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper (freshly ground, or to taste)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "DO AHEAD OR DELEGATE: Cook and refrigerate the shrimp, halve the tomatoes, remove the corn kernels from the cobs, or fully prepare and refrigerate the salad (wait to chop and add the avocado until just before serving).",
+        "Pan-fry, steam, or grill the shrimp until they are pink, 3–4 minutes total. (Meanwhile, warm the rolls, if you are serving them.) Combine all the ingredients except the shrimp in a large serving bowl. Serve the shrimp on top of the salad.",
+        "FLAVOR BOOSTER Add 1/4 teaspoon celery seeds or cumin and 1 tablespoon fresh lemon or lime juice to the salad."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Veggie Rich",
+        "Caribbean",
+        "Seafood",
+        "Sides",
+        "Salads",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "195",
+        "total_fat": "10g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "125mg",
+        "sodium": "435mg",
+        "total_carbohydrate": "12g",
+        "fiber": "4g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fresh-corn-tomato-and-avocado-salad-shrimp"
+}

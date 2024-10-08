@@ -1,0 +1,112 @@
+{
+    "title": "Salad Bar Salsa With Grilled Flank Steak",
+    "keywords": "Dinner,Main Dish,Sauces",
+    "prep_time": "PT15M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Dinner",
+        "Main Dish",
+        "Sauces"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_822_Salad%20Bar%20Salsa%20with%20Grilled%20Flank%20Steak_SmartShopperCkbk_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "yellow corn",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cherry tomatoes (quartered)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "red onion (diced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "green onion (scallion) (minced)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "fresh lime juice",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1/2 tbsp",
+            "metric_amount": "7 ml"
+        },
+        {
+            "name": "cayenne pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sugar",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "flank steak",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "paprika",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Kosher Salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "In a medium bowl, combine all the ingredients for the salsa. Set aside.",
+        "Trim any excess fat from the flank steak. Using a sharp knife, make 3 diagonal slashes across the top surface of the steak, cutting about 1/3 of the way through the steak. This will prevent it from curling up on the grill.",
+        "Preheat the grill to medium-high heat. Coat the grill rack with cooking spray or prepare an oven broiler. Cover a broiler pan with foil. Coat the foil with cooking spray. Combine the paprika, chili powder, salt, and pepper. Brush both sides of the steak with the olive oil. Sprinkle both sides with the spice mixture. Grill the steak, about 4–6 inches from the heat source, for about 5 minutes per side or until desired doneness.",
+        "Remove the steak from the oven onto a carving board. Let the steak stand for 5 minutes before slicing. Cut the steak diagonally across the grain into thin slices. Serve with the salsa."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Grilling",
+        "Dinner",
+        "Main Dish",
+        "Sauces"
+    ],
+    "nutrition": {
+        "calories": "245",
+        "total_fat": "12g",
+        "saturated_fat": "3.3g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "12g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/salad-bar-salsa-grilled-flank-steak"
+}

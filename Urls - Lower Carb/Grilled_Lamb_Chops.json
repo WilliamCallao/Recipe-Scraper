@@ -1,0 +1,76 @@
+{
+    "title": "Grilled Lamb Chops",
+    "keywords": "Gluten-Free,Foodie,Dinner,Main Dish,Holidays & Entertaining",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Gluten-Free",
+        "Foodie",
+        "Dinner",
+        "Main Dish",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_332472827.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "frenched lamb racks (about 1 1/2 pounds, trimmed of fat)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Pinch ground pepper",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh rosemary (about 1 inch each)",
+            "us_amount": "2 sprig",
+            "metric_amount": "2 sprig"
+        }
+    ],
+    "instructions": [
+        "Cut each lamb rack into four pieces with two bones, leaving one bone with an equal amount of meat.",
+        "Combine olive oil, garlic, salt, pepper, and rosemary. Fully coat lamb ribs and marinate for 2 hours in the refrigerator.",
+        "Preheat your grill and cook the chops over even heat. Flip chops over to cook both sides. Use a meat thermometer to check when the racks are done."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Grilling",
+        "Mediterranean",
+        "Gluten-Free",
+        "Foodie",
+        "Dinner",
+        "Main Dish",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "10g",
+        "saturated_fat": "3g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "350mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-lamb-chops"
+}

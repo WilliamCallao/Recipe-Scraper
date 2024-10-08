@@ -1,0 +1,94 @@
+{
+    "title": "Ginger Infused Oatmeal",
+    "keywords": "Vegetarian,One Pot,Cooking for 1 or 2,Breakfast and Brunch",
+    "prep_time": "PT5M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Vegetarian",
+        "One Pot",
+        "Cooking for 1 or 2",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Ginger%20Infused%20Oatmeal%20Diabetic.png",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "old-fashioned rolled oats",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "skim milk",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "brown sugar substitute",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "fresh ginger (grated)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chia seeds",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "raspberries",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "blueberries",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "walnuts (chopped)",
+            "us_amount": "1/8 cup",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "In a saucepan, bring milk to a gentle simmer.",
+        "Stir in the oats, brown sugar substitute, freshly grated ginger, chia seeds, ground cinnamon, and vanilla.",
+        "Cook the mixture over medium heat, stirring occasionally, until the oats are creamy and the liquid is absorbed (about 5–7 minutes).",
+        "Serve the ginger-infused oatmeal in bowls, topped with fresh berries and chopped nuts."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Comfort Food",
+        "Vegetarian",
+        "One Pot",
+        "Cooking for 1 or 2",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "370",
+        "total_fat": "10g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "110mg",
+        "total_carbohydrate": "57g",
+        "fiber": "10g",
+        "sugar": "22g",
+        "added_sugar": "4g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ginger-infused-oatmeal"
+}

@@ -1,0 +1,105 @@
+{
+    "title": "Grilled Steak Salad",
+    "keywords": "Budget Friendly,Dinner,Salads,Lunch",
+    "prep_time": "PT15M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Salads",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/290-diabetic-grilled-steak-salad_090718_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "sirloin steak",
+            "us_amount": "9 oz",
+            "metric_amount": "255 ml"
+        },
+        {
+            "name": "salt-free seasoning (such as Mrs. Dash)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Mesclun salad mix",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "red onion (thinly sliced)",
+            "us_amount": "1/4",
+            "metric_amount": "1/4"
+        },
+        {
+            "name": "cherry tomatoes (sliced in half lengthwise)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "light mayonnaise",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "low-fat buttermilk",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic (minced or grated)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "crumbled blue cheese",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Heat an indoor or outdoor grill. Season both sides of the steak with the salt free seasoning.",
+        "Grill the steak for 5-6 minutes per side or until cooked to medium well (145 degrees internal temperature) Set aside to rest loosely covered with foil.",
+        "In a large bowl, toss together salad mix, red onion and cherry tomatoes. Divide evenly among 4 large plates.",
+        "Thinly slice steak and top each salad with 2 ounces of steak.",
+        "In a small bowl, whisk together the mayonnaise, yogurt, buttermilk, garlic, blue cheese, and pepper. Top each steak salad with 3 1/2 tbsp of dressing."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Grilling",
+        "Budget Friendly",
+        "Dinner",
+        "Salads",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "7g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "260mg",
+        "total_carbohydrate": "8g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-steak-salad"
+}

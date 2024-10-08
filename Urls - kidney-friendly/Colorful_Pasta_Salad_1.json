@@ -1,0 +1,96 @@
+{
+    "title": "Colorful Pasta Salad",
+    "keywords": "Vegetarian,Sides,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recipe%20Size_2.png",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Bow-tie pasta",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "red bell pepper (chopped)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "orange bell pepper (chopped)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cucumber(s) (chopped)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "carrots (shredded)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "red onion (chopped)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "light mayonnaise",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "sugar",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Chop bell peppers, red onion, and cucumbers. Shred carrots.",
+        "Cook pasta according to package instructions, without salt. Drain and rinse in cold water to cool. Place in a large bowl.",
+        "In a small bowl, combine remaining ingredients with a whisk, then stir into pasta and vegetables.",
+        "Mix prepared vegetables with pasta and mix to combine.",
+        "Chill for at least 1 hour before serving."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Veggie Rich",
+        "Kid Friendly",
+        "Vegetarian",
+        "Sides",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "6g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "6mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "19g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "1g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/colorful-pasta-salad"
+}

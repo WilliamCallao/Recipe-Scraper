@@ -1,0 +1,91 @@
+{
+    "title": "Crock Pot Moo Shu Chicken",
+    "keywords": "Slow Cooker,Budget Friendly,Dinner,Main Dish,Foodie",
+    "prep_time": "PT10M",
+    "cook_time": "PT6H",
+    "categories": [
+        "Slow Cooker",
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/208-diabetic-slow-cooker-moo-shu-chicken_AdobeStock_199105969_022521.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "broccoli slaw",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "carrots (shredded)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "boneless, skinless chicken breasts (thinly sliced )",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "hoisin sauce",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "lower sodium soy sauce",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Cornstarch",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "bibb or boston lettuce",
+            "us_amount": "4 leaves",
+            "metric_amount": "4 leaves"
+        }
+    ],
+    "instructions": [
+        "Layer the slaw mix and carrots in the bottom of crockpot. Top with the chicken.",
+        "In a small bowl, mix the hoisin sauce, water, garlic, soy sauce, and cornstarch. Pour over the chicken mixture and set the crockpot to high for 4-6 hours.",
+        "Serve 1 1/2 cups of the mixture in each lettuce leaf."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Asian",
+        "Slow Cooker",
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "380mg",
+        "total_carbohydrate": "18g",
+        "fiber": "4g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "29g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crock-pot-moo-shu-chicken"
+}

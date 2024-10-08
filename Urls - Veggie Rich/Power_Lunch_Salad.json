@@ -1,0 +1,86 @@
+{
+    "title": "Power Lunch Salad",
+    "keywords": "Lunch,Dinner,Salads,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Dinner",
+        "Salads",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/415-diabetic-power-lunch-salad_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "baby spinach or mixed salad greens",
+            "us_amount": "12 cups",
+            "metric_amount": "12 cups"
+        },
+        {
+            "name": "sliced almonds",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "dry-roasted, unsalted pepitas",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "dried cranberries",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "small apples (cored and diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "reduced-fat crumbled feta cheese",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "reduced-sodium deli turkey breast (sliced into 1/2 inch strips)",
+            "us_amount": "7 oz",
+            "metric_amount": "198 ml"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        }
+    ],
+    "instructions": [
+        "In a salad bowl, mix together everything but the balsamic vinegar and olive oil.",
+        "In a small bowl, whisk together the balsamic vinegar and olive oil. Pour over salad and toss to coat."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lunch",
+        "Dinner",
+        "Salads",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "310",
+        "total_fat": "14g",
+        "saturated_fat": "2.8g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "440mg",
+        "total_carbohydrate": "28g",
+        "fiber": "4g",
+        "sugar": "19g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/power-lunch-salad"
+}

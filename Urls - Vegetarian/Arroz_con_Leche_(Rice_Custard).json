@@ -1,0 +1,88 @@
+{
+    "title": "Arroz con Leche (Rice Custard)",
+    "keywords": "Vegetarian,Dessert",
+    "prep_time": "PT5M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Vegetarian",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1660-diabetic-arroz-leche-rice-pudding_latin-comfort-foods_092618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "uncooked instant brown rice",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "fat-free milk",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "granulated zero-calorie sweetener",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "strip orange peel (3-inch)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cinnamon stick",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "whole flax seeds",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "whole cloves",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Prepare the rice according to the package directions.",
+        "Combine the cooked rice, milk, water, sugar substitute, orange peel, cinnamon stick, flaxseeds, and cloves in a medium saucepan; bring to a boil. Reduce the heat to medium low and simmer, stirring often, until the rice pudding is thick and creamy, about 20 minutes.",
+        "Remove from the heat. Remove and discard the orange peel, cinnamon stick, and cloves. Stir in vanilla and ground cinnamon."
+    ],
+    "tags": [
+        "Mexican/Southwestern",
+        "Vegetarian",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "2g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "2mg",
+        "sodium": "55mg",
+        "total_carbohydrate": "24g",
+        "fiber": "2g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/arroz-con-leche-rice-custard"
+}

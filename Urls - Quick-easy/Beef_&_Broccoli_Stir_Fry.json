@@ -1,0 +1,89 @@
+{
+    "title": "Beef & Broccoli Stir Fry",
+    "keywords": "Budget Friendly,Dinner,Easy Pantry Recipes,Main Dish,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2052-diabetic-Beef-Broccoli-Stir-Fry_DaVita_040821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "brown rice",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "frozen broccoli stir fry vegetable blend",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "peanut oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "lean sirloin beef (cut into bite-sized pieces)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "low sodium chicken broth",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Cornstarch",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lower sodium soy sauce",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Prepare rice according to package directions (or start with 2 cups cooked rice).",
+        "Microwave frozen stir-fry vegetable blend on defrost setting for 3-4 minutes to thaw.",
+        "In a fry pan or wok heat oil and sauté the garlic until fragrant. Add vegetable blend and cook over high heat, stirring constantly, for about 5 minutes. Remove from pan and set aside.",
+        "Add the beef to the pan and cook until beef is done to your likeness, or about 7 minutes.",
+        "Prepare the sauce by combining chicken broth, cornstarch and soy sauce in a bowl.",
+        "Add cooked vegetables and sauce to the pan with the beef. Heat and stir until sauce is thick. Serve stir fry with 1/2 cup cooked rice."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Budget Friendly",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "373",
+        "total_fat": "17g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "42mg",
+        "sodium": "350mg",
+        "total_carbohydrate": "37g",
+        "fiber": "5.1g",
+        "sugar": "0.5g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/beef-broccoli-stir-fry"
+}

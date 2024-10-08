@@ -1,0 +1,80 @@
+{
+    "title": "Strawberry-Lemon Cheesecake",
+    "keywords": "Dessert,Foodie,Holidays & Entertaining,No Cook,Quick & Easy,Vegetarian,Snacks",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dessert",
+        "Foodie",
+        "Holidays & Entertaining",
+        "No Cook",
+        "Quick & Easy",
+        "Vegetarian",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/strawberry-lemon-cheesecake-Sep15.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "graham cracker (crumbled)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "strawberries (sliced)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "lemon",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "honey",
+            "us_amount": "3/4 tsp",
+            "metric_amount": "4 g"
+        },
+        {
+            "name": "ricotta cheese (nonfat)",
+            "us_amount": "1 1/3 cup",
+            "metric_amount": "315 ml"
+        }
+    ],
+    "instructions": [
+        "In a small bowl, mix together the ricotta cheese, honey, lemon zest, and cinnamon.",
+        "Divide the mixture among four individual dessert dishes. Top each dish with a portion of strawberries and sprinkle with some of the graham cracker crumbs."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Comfort Food",
+        "Italian",
+        "Kid Friendly",
+        "Dessert",
+        "Foodie",
+        "Holidays & Entertaining",
+        "No Cook",
+        "Quick & Easy",
+        "Vegetarian",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "115",
+        "total_fat": "0.5g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "90mg",
+        "total_carbohydrate": "17g",
+        "fiber": "2g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/strawberry-lemon-cheesecake"
+}

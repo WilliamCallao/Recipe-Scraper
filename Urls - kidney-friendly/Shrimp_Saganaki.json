@@ -1,0 +1,116 @@
+{
+    "title": "Shrimp Saganaki",
+    "keywords": "Dinner,Foodie,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_835_ShrimpSaganaki_WholeCooking_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "yellow onions (thinly sliced)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "garlic (thinly sliced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "U16–20 shrimp (peeled and deveined (tails left on))",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "grape or cherry tomatoes (halved)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Kalamata olives (pitted, rinsed)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "low sodium vegetable broth (low-sodium)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fresh oregano (chopped)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "fresh dill (chopped)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "fresh flat-leaf parsley (chopped)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "feta cheese (reduced-fat, crumbled)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "fine sea salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Heat the olive oil in a large skillet over medium-high heat. Add the onion, garlic, and red pepper flakes, and cook for about 5 minutes, or until onion is soft.",
+        "Add the shrimp, tomatoes, olives, stock, and oregano, and cook for 3–5 minutes, stirring occasionally, until shrimp are pink and almost completely opaque. Add the dill, parsley, and feta, and cook for 1–2 minutes to heat through.",
+        "Remove skillet from the heat. Season with the salt and pepper and serve hot."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Comfort Food",
+        "Mediterranean",
+        "Seafood",
+        "Dinner",
+        "Foodie",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "8g",
+        "saturated_fat": "1.8g",
+        "trans_fat": "0g",
+        "cholesterol": "125mg",
+        "sodium": "420mg",
+        "total_carbohydrate": "6g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/shrimp-saganaki"
+}

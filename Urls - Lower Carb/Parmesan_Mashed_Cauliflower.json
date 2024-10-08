@@ -1,0 +1,72 @@
+{
+    "title": "Parmesan Mashed Cauliflower",
+    "keywords": "Vegetarian,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Vegetarian",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1834-diabetic-parmesan-mashed-cauliflower_clean-simple-ckbk_DFNovDec19_101019.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "cauliflower",
+            "us_amount": "1 medium head",
+            "metric_amount": "1 medium head"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        },
+        {
+            "name": "freshly grated Parmesan cheese",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "chopped green onions",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Wash the cauliflower and cut it into florets.",
+        "Place the cauliflower florets in a microwave-safe dish and microwave for about 8 minutes, until the cauliflower is soft. Stir halfway through the cooking time.",
+        "Place the cauliflower, yogurt, cheese, garlic powder, and pepper in a food processor or blender and blend until smooth,",
+        "Top with the onions and serve."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Vegetarian",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "2g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "2mg",
+        "sodium": "90mg",
+        "total_carbohydrate": "7g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/parmesan-mashed-cauliflower"
+}

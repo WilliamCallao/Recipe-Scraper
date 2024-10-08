@@ -1,0 +1,89 @@
+{
+    "title": "Curried Roasted Beet Hummus",
+    "keywords": "Holidays & Entertaining,Gluten-Free,Foodie,Vegetarian,Snacks,Appetizers",
+    "prep_time": "PT1H",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_262016402.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "whole fresh golden beets (about 4 medium sized beets, destemmed and washed)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (peeled)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "tahini",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "ground sweet curry powder",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 375 degrees F. Place unpeeled beets and garlic on a large sheet of foil. Spray generously with cooking spray and fold foil to make an air tight packet. Place in oven and bake for 45 minutes or until beets are fork tender. Set aside to cool, then peel the beets.",
+        "Place all ingredients in a food processor and blend until smooth.",
+        "Serve room temperature or chilled."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Mediterranean",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "40",
+        "total_fat": "2g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "25mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/curried-roasted-beet-hummus"
+}

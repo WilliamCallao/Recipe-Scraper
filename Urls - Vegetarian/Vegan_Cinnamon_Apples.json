@@ -1,0 +1,85 @@
+{
+    "title": "Vegan Cinnamon Apples",
+    "keywords": "Vegetarian,Vegan,Sides,Holidays & Entertaining,Dessert",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Holidays & Entertaining",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-08/Splenda_VeganCinnamonApples-logo.jpg",
+    "servings": "7 Servings",
+    "ingredients": [
+        {
+            "name": "apple",
+            "us_amount": "5 med",
+            "metric_amount": "5 med"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "sea salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "vegan buttery spread",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Splenda® Stevia Sweetener Jar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "ground cloves",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Cut  apples into wedges, removing the core. Slice the wedges so they are ¼-inch thick. Add the apples to a large skillet with ½ cup water. Cover and cook over medium to medium-high heat for 10 minutes, until the apples become slightly soft. Stir occasionally.",
+        "Add salt and half of the vegan buttery spread to the skillet. Stir until all the apple chunks are coated. Continue to cook until they get slightly browned and to your desired level of softness.",
+        "Stir in the rest of the spread, sweetener, cinnamon, cloves, and vanilla.",
+        "Stir to coat the apples in all the spices. Remove from heat and serve!"
+    ],
+    "tags": [
+        "Comfort Food",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Holidays & Entertaining",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "2g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "70mg",
+        "total_carbohydrate": "20g",
+        "fiber": "3g",
+        "sugar": "14g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/vegan-cinnamon-apples"
+}

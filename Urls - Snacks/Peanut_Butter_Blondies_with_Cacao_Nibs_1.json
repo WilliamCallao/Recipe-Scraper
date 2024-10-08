@@ -1,0 +1,97 @@
+{
+    "title": "Peanut Butter Blondies with Cacao Nibs",
+    "keywords": "Dessert,Snacks,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Dessert",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/PB%20Blondies%20for%20Diabetics.png",
+    "servings": "16 Servings",
+    "ingredients": [
+        {
+            "name": "sunflower or avocado oil (divided)",
+            "us_amount": "3 tablespoons + 1/2 teaspoon",
+            "metric_amount": "3 tablespoons + 1/2 teaspoon"
+        },
+        {
+            "name": "unsalted butter (melted)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pitted dates (about 1 cup)",
+            "us_amount": "5 oz",
+            "metric_amount": "142 ml"
+        },
+        {
+            "name": "no-added-sugar apple butter (spread)",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "almond extract",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "no-added-salt, no-added-sugar peanut butter",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "sea salt",
+            "us_amount": "3/4 tsp",
+            "metric_amount": "4 g"
+        },
+        {
+            "name": "whole-wheat pastry flour",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "cacao nibs (or to taste)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350 degrees F. Lightly brush the bottom and sides of an 8-inch square baking pan with 1/2 teaspoon of the oil. Line just the bottom with parchment paper. Alternatively, use a silicone baking pan.",
+        "Add the remaining 3 tablespoons oil, the butter, and dates to a blender container. Cover and blend until just combined. Add the apple butter, egg, and vanilla and almond extracts and blend again until a smooth, pudding-like consistency forms, at least 1 minute on high speed.",
+        "Transfer the batter to a medium mixing bowl. Add the peanut butter and salt and stir until combined. Add the flour and stir until combined. Add the cacao nibs and stir until evenly combined.",
+        "Evenly spread the batter in the prepared pan. Bake until springy to the touch, about 25 minutes.",
+        "Allow to cool in the pan on a rack. When cool, cut into 16 squares and serve. Or store in the refrigerator for up to 1 week or the freezer for up to 2 months."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Dessert",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "10g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0.1g",
+        "cholesterol": "15mg",
+        "sodium": "110mg",
+        "total_carbohydrate": "15g",
+        "fiber": "3g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/peanut-butter-blondies-cacao-nibs"
+}

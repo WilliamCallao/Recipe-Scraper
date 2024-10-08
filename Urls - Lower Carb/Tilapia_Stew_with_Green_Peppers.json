@@ -1,0 +1,67 @@
+{
+    "title": "Tilapia Stew with Green Peppers",
+    "keywords": "Main Dish,Dinner,Lunch",
+    "prep_time": "PT40M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Main Dish",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_878_Tilapia%20stew%20with%20green%20peppers_4IngredientCookbook_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "medium green bell pepper (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "can stewed tomatoes with Italian seasonings",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "tilapia (rinsed and cut into 1-inch pieces)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "seafood seasoning",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Place a large saucepan over medium heat until hot. Coat the pan with nonstick cooking spray, add the bell pepper, and cook 5 minutes or until beginning to lightly brown, stirring frequently.",
+        "Add the tomatoes and water, increase to high heat, and bring to a boil. Reduce the heat, cover tightly, and simmer until the tomatoes are tender. Using the back of a spoon, break up the larger pieces of tomato.",
+        "Add the fish and seasonings and stir very gently. Increase the heat to high and bring just to a boil. Reduce the heat, cover tightly, and simmer 3 minutes or until the fish is opaque in the center. Remove from the heat and let stand, covered, 10 minutes to develop flavors."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Comfort Food",
+        "Main Dish",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "2g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "55mg",
+        "sodium": "350mg",
+        "total_carbohydrate": "10g",
+        "fiber": "2g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tilapia-stew-green-peppers"
+}

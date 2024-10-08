@@ -1,0 +1,68 @@
+{
+    "title": "Almond Milk Cooler",
+    "keywords": "Vegetarian,Gluten-Free,Foodie,Beverages",
+    "prep_time": "PT1H",
+    "cook_time": "PT5M",
+    "categories": [
+        "Vegetarian",
+        "Gluten-Free",
+        "Foodie",
+        "Beverages"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Diabetic-almond-milk-cooler_Med-ckbk_DFMayJun19_040219.jpg",
+    "servings": "9 Servings",
+    "ingredients": [
+        {
+            "name": "blanched almonds",
+            "us_amount": "1 2/3 cups",
+            "metric_amount": "1 2/3 cups"
+        },
+        {
+            "name": "skim milk",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "light agave nectar",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "lemon zest",
+            "us_amount": "1 tsp",
+            "metric_amount": "1 tsp"
+        },
+        {
+            "name": "ice cubes",
+            "us_amount": "10",
+            "metric_amount": "10"
+        }
+    ],
+    "instructions": [
+        "Bring the almonds, milk, and lemon zest to a boil in a medium saucepan over medium heat. Cook for 5 minutes, then remove from the heat.",
+        "Transfer the almond mixture to a blender. Remove the middle spout from the lid, place a towel over the hole, and puree the almond mixture until smooth.",
+        "Stir in the agave nectar, and add the ice cubes. Process until smooth, and whip until frothy. Chill in clear glasses for an hour or until cold, then serve."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Mediterranean",
+        "Vegetarian",
+        "Gluten-Free",
+        "Foodie",
+        "Beverages"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "14g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "40mg",
+        "total_carbohydrate": "14g",
+        "fiber": "3g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/almond-milk-cooler"
+}

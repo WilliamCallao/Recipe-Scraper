@@ -1,0 +1,99 @@
+{
+    "title": "Spaghetti Squash Primavera",
+    "keywords": "Dinner,Gluten-Free,Main Dish,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Gluten-Free",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1689-diabetic-spaghetti-squash-primavera_Diabetes-Cookbook_DFJanFeb2019_121018.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "spaghetti squash",
+            "us_amount": "1 (about 4 lb)",
+            "metric_amount": "1 (about 4 lb)"
+        },
+        {
+            "name": "Extra Virgin Olive Oil (divided)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "boneless, skinless chicken breasts (cut into 1-inch cubes)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "dried oregano",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "broccoli (chopped into florets, about 3 1/2 cups total)",
+            "us_amount": "2 heads",
+            "metric_amount": "2 heads"
+        },
+        {
+            "name": "red bell pepper (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "baby spinach",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "fat-free, low sodium chicken broth",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "freshly grated parmesan cheese",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        }
+    ],
+    "instructions": [
+        "Cut the spaghetti squash in half lengthwise and remove the seeds. Place the squash in a microwave-safe baking dish, cut side down. Loosely cover the dish with a lid, leaving room to vent. Microwave the squash for 10 to 15 minutes. The squash is done when it’s soft to the touch. Set aside.",
+        "While the squash is cooking, add 1½ Tbsp of the olive oil to a large skillet over medium-high heat. Season the chicken with the oregano and black pepper. Add the chicken to the skillet and cook for about 10 minutes, stirring frequently, until the chicken is cooked to an internal temperature of at least 165° F. Remove it from the skillet and set aside.",
+        "In the same skillet, heat the remaining 1½ Tbsp of olive oil over medium-high heat. Add the broccoli and red pepper, and sauté for 5 to 7 minutes. Add the garlic and sauté for 30 seconds. Add the spinach and chicken broth, and cook an additional 4 minutes.",
+        "Use a fork to pull out the flesh of the squash. Add the squash “noodles” and the chicken to the skillet. Heat for 2 minutes, mixing well. Top with the Parmesan cheese. Divide among 5 bowls and serve."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Dinner",
+        "Gluten-Free",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "12g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "55mg",
+        "sodium": "260mg",
+        "total_carbohydrate": "18g",
+        "fiber": "5g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spaghetti-squash-primavera"
+}

@@ -1,0 +1,95 @@
+{
+    "title": "Quinoa Tabbouleh",
+    "keywords": "Gluten-Free,Foodie,Vegetarian,Sides,Salads",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Gluten-Free",
+        "Foodie",
+        "Vegetarian",
+        "Sides",
+        "Salads"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/433-diabetic-mediterranean-quinoa-tabbouleh_ThinkstockPhotos-638197896_101718_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "quinoa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lemon (zested and juiced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "tomato(es) (finely diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cucumber(s) (seeded and finely diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh parsley (chopped)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "fresh mint (chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Rinse quinoa and then combine with 11/2 cups water. Bring to a boil then reduce to simmer. Cover and cook for 15 minutes or until all liquid is absorbed. Fluff with a fork and then cool completely.",
+        "Combine cooled quinoa with olive oil, lemon zest, lemon juice, tomato, cucumber, parsley, mint, salt (optional), and ground black pepper. Refrigerate or serve."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Mediterranean",
+        "Gluten-Free",
+        "Foodie",
+        "Vegetarian",
+        "Sides",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "15mg",
+        "total_carbohydrate": "24g",
+        "fiber": "4g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/quinoa-tabbouleh"
+}

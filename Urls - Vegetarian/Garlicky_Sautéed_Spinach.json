@@ -1,0 +1,86 @@
+{
+    "title": "Garlicky Sautéed Spinach",
+    "keywords": "Gluten-Free,Foodie,Dinner,Sides,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Gluten-Free",
+        "Foodie",
+        "Dinner",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/253-diabetic-roasted-garlic-spinach_AdobeStock234670448_02221.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "head garlic",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil (divided)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "minced onion",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "spinach",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400°F.",
+        "Leaving the head of garlic whole, cut off 1/4 to 1/2 inch of the top of head, exposing the individual cloves of garlic. Leave the peel on.",
+        "Place the garlic head cut side up onto a sheet of foil. Drizzle one Tsp. of olive oil over the cut side of the garlic head. Fold foil up around the garlic and pinch to seal to make a packet.",
+        "Bake at 400°F for 30-35 minutes, or until the cloves feel soft when pressed.",
+        "Allow the garlic to cool slightly to the touch. Squeeze the roasted garlic cloves out of their skins into a small bowl and mash with a fork to make a paste.",
+        "In a large sauté pan, add remaining olive oil and a generous amount of cooking spray over medium high heat. Add the onions and sauté until just starting to caramelize.",
+        "Add the roasted garlic paste and stir until the onions are coated. Add the spinach and sauté until the spinach is wilted and coated with the garlic and onions.",
+        "Season with salt and pepper."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Gluten-Free",
+        "Foodie",
+        "Dinner",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "110mg",
+        "total_carbohydrate": "6g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/garlicky-sauteed-spinach"
+}

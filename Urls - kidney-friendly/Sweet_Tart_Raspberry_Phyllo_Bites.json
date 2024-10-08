@@ -1,0 +1,70 @@
+{
+    "title": "Sweet Tart Raspberry Phyllo Bites",
+    "keywords": "Vegetarian,Quick & Easy,Foodie,Dessert",
+    "prep_time": "PT5M",
+    "cook_time": "PT3M",
+    "categories": [
+        "Vegetarian",
+        "Quick & Easy",
+        "Foodie",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/diabetic-dessert-sweet-tart-raspberry-phyllo-bites_designed-for-one_081518_1021x779.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "2% plain greek yogurt",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "mini phyllo dough shells (thawed)",
+            "us_amount": "5",
+            "metric_amount": "5"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "strawberry fruit spread",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "frozen raspberries",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        }
+    ],
+    "instructions": [
+        "Combine the raspberries and fruit spread in a small saucepan, place over medium-high heat, and cook 3 minutes or until the mixture has reduced to a scant 1/4 cup.",
+        "Remove from heat, and stir in extract. Allow to cool, about 5 minutes.",
+        "Spoon equal amounts in each of the phyllo shells and spoon about 1 teaspoon of yogurt over each shell."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Vegetarian",
+        "Quick & Easy",
+        "Foodie",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "6g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "75mg",
+        "total_carbohydrate": "30g",
+        "fiber": "3g",
+        "sugar": "12g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-tart-raspberry-phyllo-bites"
+}

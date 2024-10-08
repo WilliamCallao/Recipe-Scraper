@@ -1,0 +1,89 @@
+{
+    "title": "Corn, Tomato, Pea and Dill Salad",
+    "keywords": "Gluten-Free,Salads,Sides,Vegan,Vegetarian",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Gluten-Free",
+        "Salads",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/may13_corn-tomato-pea-salad_279x200.jpg",
+        "Tomato",
+        "Pea and Dill Salad\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Freshly ground pepper, to taste",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salt, to taste",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh basil leaves (torn)",
+            "us_amount": "10",
+            "metric_amount": "10"
+        },
+        {
+            "name": "fresh baby dill (finely chopped (about 4 Tbsps.))",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        },
+        {
+            "name": "cherry tomatoes (cut in half)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "sugar snap peas or English peas",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "frozen corn (thawed)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Place peas in a saucepan, and cover with water. Bring to a boil over high heat, and cook for 5 minutes or until tender. Drain. Rinse with cold water.",
+        "Combine peas, corn, tomatoes, olive oil, dill, basil, salt, and pepper in a large bowl. Toss well to combine. Serve at room temperature."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Gluten-Free",
+        "Salads",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "105",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "5mg",
+        "total_carbohydrate": "10g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/corn-tomato-pea-and-dill-salad"
+}

@@ -1,0 +1,95 @@
+{
+    "title": "Mixed Greens with Cranberries, Bacon and Walnuts",
+    "keywords": "Holidays & Entertaining,Gluten-Free,Sides,Quick & Easy,Salads",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Sides",
+        "Quick & Easy",
+        "Salads"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/370-diabetic-salad-mixed-greens-cranberries-bacon-walnuts_diabetes-cookbook_082418_1021x779.jpg",
+        "Bacon and Walnuts\" loading=\"lazy\" />"
+    ],
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "bacon (cut into 1-inch pieces)",
+            "us_amount": "2 slice",
+            "metric_amount": "2 slice"
+        },
+        {
+            "name": "walnuts (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "bag spring lettuce mix",
+            "us_amount": "1 (10-oz) bag",
+            "metric_amount": "1 (10-oz) bag"
+        },
+        {
+            "name": "broccoli slaw mix",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "dried cranberries",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 1/2 tbsp",
+            "metric_amount": "37 ml"
+        },
+        {
+            "name": "honey or 2 packets artificial sweetener",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "In a medium skillet, cook the bacon over medium-high heat until done. Place the bacon on a paper towel and set aside.",
+        "Place the walnuts in a small nonstick skillet on low heat and cook until the walnuts begin to brown, about 4 minutes.",
+        "In a salad bowl, mix together all of the salad ingredients.",
+        "In a small bowl, whisk together the dressing ingredients. Pour dressing ingredients over the salad and toss to coat."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Sides",
+        "Quick & Easy",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "13g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "12g",
+        "fiber": "3g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mixed-greens-cranberries-bacon-and-walnuts"
+}

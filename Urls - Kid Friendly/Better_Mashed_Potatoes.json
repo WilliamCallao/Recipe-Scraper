@@ -1,0 +1,96 @@
+{
+    "title": "Better Mashed Potatoes",
+    "keywords": "Dinner,Lunch,Vegetarian,Sides,Quick & Easy,Holidays & Entertaining,Foodie",
+    "prep_time": "PT20M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/better_mashed_potato.png",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "butter (unsalted butter)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Parmesan cheese (grated)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "low-fat buttermilk",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "head cauliflower (separated into small florets, discard core and stem)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (peeled and left whole)",
+            "us_amount": "5 diente",
+            "metric_amount": "5 diente"
+        },
+        {
+            "name": "russet or baking potatoes (peeled and cut into 2-inch cubes)",
+            "us_amount": "7 oz",
+            "metric_amount": "198 ml"
+        }
+    ],
+    "instructions": [
+        "In a large saucepan, place the potato, garlic, and cauliflower and enough water to cover. Bring to boiling, reduce the heat to medium, and cook until the potato and cauliflower are tender, about 15 minutes.",
+        "Drain and add the vegetables and garlic back to the pot. Cover the pot with a kitchen towel and put the lid over the towel. Let stand for 5 minutes. Remove the lid and towel. This process helps to dry the vegetables so they mash better.",
+        "Add the buttermilk, cheese, olive oil, butter, salt, and pepper. Mash* just until the ingredients are lightly combined. If desired, garnish with fresh snipped chives."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Kid Friendly",
+        "Comfort Food",
+        "Dinner",
+        "Lunch",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "2g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "7g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/better-mashed-potatoes"
+}

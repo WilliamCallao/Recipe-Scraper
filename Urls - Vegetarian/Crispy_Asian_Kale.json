@@ -1,0 +1,75 @@
+{
+    "title": "Crispy Asian Kale",
+    "keywords": "Foodie,Vegetarian,Snacks,Sides,Holidays & Entertaining,Appetizers",
+    "prep_time": "PT5M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Sides",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/205-diabetic-crispy-asian-kale-chips_AdobeStock218682462_012521.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lower sodium soy sauce",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "low-calorie brown sugar substitute",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "bagged chopped kale",
+            "us_amount": "1 (16-oz) package",
+            "metric_amount": "1 (16-oz) package"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350 degrees F. Coat two large baking sheets with cooking spray.",
+        "In a large bowl, whisk together the olive oil, soy sauce, Splenda Brown Sugar Blend, and garlic powder.",
+        "Toss the kale in dressing to coat and spread kale in one layer onto the two baking sheets. Do not overload the baking sheets with kale. Use a third baking sheet if needed.",
+        "Bake for 10-15 minutes or until the kale is crispy."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Asian",
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Sides",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "3g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "120mg",
+        "total_carbohydrate": "9g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crispy-asian-kale"
+}

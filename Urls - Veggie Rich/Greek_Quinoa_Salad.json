@@ -1,0 +1,103 @@
+{
+    "title": "Greek Quinoa Salad",
+    "keywords": "Sides,Quick & Easy,Lunch,Holidays & Entertaining,Salads,Gluten-Free",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Quick & Easy",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Salads",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/june2012_quinoa_salad_istock16299799_279x200.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "quinoa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "low sodium chicken broth (low-sodium, reduced-fat, (or gluten-free broth if cooking gluten-free))",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "large cucumber (peeled, seeded and diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "grape tomatoes (10.5-ounce, cut in half)",
+            "us_amount": "1 package",
+            "metric_amount": "1 package"
+        },
+        {
+            "name": "red onion (finely diced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "fresh parsley (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "feta cheese (reduced-fat, crumbled)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "red wine vinegar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1/2 tbsp",
+            "metric_amount": "7 ml"
+        },
+        {
+            "name": "low-calorie sugar substitute",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Cook quinoa according to package directions with chicken broth. Let cool completely.",
+        "In a large salad bowl, combine cooled quinoa and remaining salad ingredients.",
+        "In a small bowl, whisk together dressing ingredients. Pour over salad and mix to coat. Serve cold."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Mediterranean",
+        "Sides",
+        "Quick & Easy",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Salads",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "115",
+        "total_fat": "5g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "135mg",
+        "total_carbohydrate": "14g",
+        "fiber": "2g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/greek-quinoa-salad"
+}

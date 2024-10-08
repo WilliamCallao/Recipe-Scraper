@@ -1,0 +1,76 @@
+{
+    "title": "Pumpkin Pudding Parfait with Gingersnaps",
+    "keywords": "No Cook,Quick & Easy,Dessert",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "No Cook",
+        "Quick & Easy",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/420-diabetic-pumpkin-pudding-parfait-with-gingersnaps_diabetes-ckbk_DFNovDec19_101019.jpg",
+    "servings": "7 Servings",
+    "ingredients": [
+        {
+            "name": "fat-free, sugar-free instant cheesecake pudding mix",
+            "us_amount": "1 (1-oz) package",
+            "metric_amount": "1 (1-oz) package"
+        },
+        {
+            "name": "skim milk",
+            "us_amount": "1 2/3 cup",
+            "metric_amount": "393 ml"
+        },
+        {
+            "name": "canned pure pumpkin",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ground nutmeg",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "fat-free vanilla Greek yogurt (divided)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "gingersnap cookies (crumbled)",
+            "us_amount": "7",
+            "metric_amount": "7"
+        }
+    ],
+    "instructions": [
+        "In a medium mixing bowl, whisk together the pudding mix and milk for 2 minutes. Let sit for 5 minutes.",
+        "Fold in the pumpkin, cinnamon, and nutmeg. Fold in 1/2 cup of the yogurt and refrigerate for 10 minutes.",
+        "Scoop 1/2 cup pudding mixture into each parfait glass. Top each with 1 heaping tablespoon of the remaining yogurt and 1 crumbled gingersnap cookie. Repeat procedure for the remaining 6 parfaits."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Comfort Food",
+        "No Cook",
+        "Quick & Easy",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "1.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "2mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "16g",
+        "fiber": "1g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pumpkin-pudding-parfait-gingersnaps"
+}

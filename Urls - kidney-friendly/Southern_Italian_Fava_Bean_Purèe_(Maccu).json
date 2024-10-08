@@ -1,0 +1,87 @@
+{
+    "title": "Southern Italian Fava Bean Purèe (Maccu)",
+    "keywords": "Appetizers,Sides",
+    "prep_time": "PT1H5M",
+    "cook_time": "PT1H5M",
+    "categories": [
+        "Appetizers",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_842_SouthernItalianFavaBeanPuree_ItalianDiabetesCookbook_022618.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "peeled, dried fava beans, soaked in boiling water for 1 hour and drained",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "small onion, quartered",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "dried bay leaf",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Pecorino Romano cheese",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "extra virgin olive oil (preferably first cold-pressed), divided",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "fennel seeds, plus extra for garnish",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Crushed red chile flakes, to taste",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "unrefined sea salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Place beans, onion, and bay leaf in a large saucepan. Cover with water and bring to a boil over high heat. Reduce heat to medium-low, cover, and cook until tender, approximately 1 hour.",
+        "Drain beans and place in a food processor with cheese, 1 tablespoon. olive oil, and fennel seeds. Purée until smooth. Taste and season with crushed red chile flakes, salt, and pepper.",
+        "Spoon onto a serving platter and smooth out the top with a spatula. Drizzle with remaining 1 tablespoon. olive oil, and sprinkle crushed red chile flakes and fennel seed on top, if desired."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Italian",
+        "Appetizers",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "120mg",
+        "total_carbohydrate": "6g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/southern-italian-fava-bean-puree-maccu"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Tuna Ceviche",
+    "keywords": "Vegetarian,Snacks,Quick & Easy,No Cook,Lunch,Easy Pantry Recipes,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Snacks",
+        "Quick & Easy",
+        "No Cook",
+        "Lunch",
+        "Easy Pantry Recipes",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2028-diabetic-TUNA-Ceviche_DaVita_040821.jpg",
+    "servings": "3 Servings",
+    "ingredients": [
+        {
+            "name": "low-sodium, water-packed tuna (drained)",
+            "us_amount": "5 oz",
+            "metric_amount": "142 ml"
+        },
+        {
+            "name": "chopped fresh cilantro",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chopped red onion",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt-free herb seasoning, such as Ms. Dash",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "low sodium saltine crackers",
+            "us_amount": "18",
+            "metric_amount": "18"
+        }
+    ],
+    "instructions": [
+        "Combine the tuna, onion, cilantro, black pepper, and seasoning blend in a small bowl. Add the lemon juice and mix everything together well. Cover and refrigerate for at least 2 hours to marinate before serving."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Latin American",
+        "Vegetarian",
+        "Snacks",
+        "Quick & Easy",
+        "No Cook",
+        "Lunch",
+        "Easy Pantry Recipes",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "4g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "16g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tuna-ceviche"
+}

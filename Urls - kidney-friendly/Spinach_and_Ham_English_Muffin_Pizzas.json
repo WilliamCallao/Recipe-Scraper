@@ -1,0 +1,75 @@
+{
+    "title": "Spinach and Ham English Muffin Pizzas",
+    "keywords": "Snacks,Dinner,Easy Pantry Recipes,Budget Friendly,Quick & Easy,Lunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Snacks",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Budget Friendly",
+        "Quick & Easy",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_511_Spinach_and_Ham_English_Muffin_Pizzas_PNCImages_03012018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "high fiber, whole-wheat English muffins (split in half)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "frozen spinach (chopped, thawed and drained)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "jarred pizza sauce",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        },
+        {
+            "name": "lower-sodium deli ham",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "reduced-fat shredded mozzarella cheese",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 425 degrees F.",
+        "Top each English muffin half with 1 Tbsp. spinach, 1 1/2 Tbsps. pizza sauce, 1/2 ounce ham and 2 Tbsps. mozzarella cheese.",
+        "Bake pizzas for 8 minutes or until cheese is golden brown on top."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Kid Friendly",
+        "Snacks",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Budget Friendly",
+        "Quick & Easy",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "3.5g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "15mg",
+        "sodium": "430mg",
+        "total_carbohydrate": "17g",
+        "fiber": "5g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spinach-and-ham-english-muffin-pizzas"
+}

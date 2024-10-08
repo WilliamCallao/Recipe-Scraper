@@ -1,0 +1,105 @@
+{
+    "title": "Tex-Mex Shrimp Tacos",
+    "keywords": "Vegetarian,Quick & Easy,Main Dish,Lunch,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT6M",
+    "categories": [
+        "Vegetarian",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2002-diabetic-Tex-Mex-Shrimp-Tacos_KDBH-bookazine_012821.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "light mayonnaise",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        },
+        {
+            "name": "fat-free plain yogurt",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "limes (juiced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "salt-free cajun seasoning",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "shrimp (peeled and deveined)",
+            "us_amount": "32 (about 1 lb)",
+            "metric_amount": "32 (about 1 lb)"
+        },
+        {
+            "name": "6-inch corn tortillas (warmed)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "chopped mixed greens",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "chopped fresh cilantro",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the broiler. Set the broiler rack 3–4 inches from the heat.",
+        "In a small bowl, stir together the mayonnaise, yogurt, and 1 tbsp lime juice. Set aside.",
+        "In a large bowl, whisk together the oil, remaining lime juicee, Creole seasoning, garlic, and salt. Add the shrimp to the mixture, tossing gently until well coated.",
+        "Spread the shrimp in a single layer on a large baking sheet. Broil the shrimp for 2–3 minutes. Using tongs, turn over the shrimp. Broil for 2–3 minutes, or until the shrimp turn pink on the outside.",
+        "Divide the shrimp equally among the tortillas. Top each with the greens and cilantro. Drizzle with the white sauce."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Seafood",
+        "Mexican/Southwestern",
+        "Vegetarian",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "15g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tex-mex-shrimp-tacos"
+}

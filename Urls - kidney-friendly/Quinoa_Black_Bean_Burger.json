@@ -1,0 +1,106 @@
+{
+    "title": "Quinoa Black Bean Burger",
+    "keywords": "Easy Pantry Recipes,Sandwiches,Gluten-Free,Dinner,Lunch",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Sandwiches",
+        "Gluten-Free",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/430_diabetic-quinoa-black-bean-burger_JulAug20DF_061720.jpg",
+    "servings": "9 Servings",
+    "ingredients": [
+        {
+            "name": "quinoa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "black beans (rinsed and drained)",
+            "us_amount": "2 (15-oz) cans",
+            "metric_amount": "2 (15-oz) cans"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "salsa (divided use)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "cornmeal",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cumin",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "cayenne pepper (optional)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "lettuce leaves",
+            "us_amount": "9 leaves",
+            "metric_amount": "9 leaves"
+        },
+        {
+            "name": "avocado (sliced into 9 slices)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        }
+    ],
+    "instructions": [
+        "Cook dried quinoa in water according to package directions.",
+        "Puree 1 can black beans, 1/4 cup salsa and egg in a blender or food processor until smooth.",
+        "Pour cooked quinoa in a medium bowl; add pureed beans, remaining 1 can black beans, cornmeal, chili powder, cumin and cayenne pepper and mix together until well blended.",
+        "Form bean mixture into nine, 1/2-inch thick patties.",
+        "Coat a large skillet or grill pan with cooking spray and heat over medium heat. Add black bean patties and grill about 2-3 minutes per side, until slightly brown.",
+        "Serve each black bean burger in lettuce wrap topped with 1 Tbsp. salsa and an avocado slice."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "High in Fiber",
+        "Kid Friendly",
+        "Easy Pantry Recipes",
+        "Sandwiches",
+        "Gluten-Free",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "4g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "380mg",
+        "total_carbohydrate": "34g",
+        "fiber": "11g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/quinoa-black-bean-burger"
+}

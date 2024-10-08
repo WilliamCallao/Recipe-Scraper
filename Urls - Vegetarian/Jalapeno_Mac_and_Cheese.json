@@ -1,0 +1,119 @@
+{
+    "title": "Jalapeno Mac and Cheese",
+    "keywords": "Lunch,Foodie,Holidays & Entertaining,Sides,Vegetarian,Dinner",
+    "prep_time": "PT25M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Lunch",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Sides",
+        "Vegetarian",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/326-diabetic-jalapeno-mac-and-cheese_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "9 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "small jalapeno peppers",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "whole grain rotini",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "whole wheat flour",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "skim milk",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "Laughing Cow Lite Cheese wedges",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "Parmesan cheese (plus 2 Tbsp freshly grated, (divided))",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ground nutmeg",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt ((optional))",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "whole wheat bread",
+            "us_amount": "1 slice",
+            "metric_amount": "1 slice"
+        },
+        {
+            "name": "garlic",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 450 degrees F. Coat a 9x13 baking dish with cooking spray and set aside.",
+        "Lay jalapeno peppers on a piece of aluminum foil or a small baking sheet. Place on the top rack of the oven and roast until the skin is blackened, turning occasionally. About 20-30 minutes.",
+        "Remove the blackened jalapenos from the oven and place in a bowl and immediately cover with plastic wrap. Let sit for 10-15 minutes to cool. Once the peppers have cooled, peel and seed the peppers. Set aside. Note: Protect your hands while doing this with gloves or even plastic sandwich bags to avoid getting and pepper juices on your hands.",
+        "Once the peppers have finished roasting, turn the oven down to 350 degrees F.",
+        "While jalapenos are roasting and cooling, add olive oil to a medium sauce pan over medium heat. Stir in flour and cook the flour for 1-2 minutes, taking care not to brown it. Stir constantly.",
+        "Slowly whisk in the skim milk and bring to a boil, whisking constantly.",
+        "Add in the Laughing Cow Lite Cheese Wedges, 1/4 cup parmesan cheese, ground nutmeg, salt (optional) and black pepper. Whisking constantly.",
+        "Add the jalapeno peppers to the cheese mixture and using an immersion blender or stand up blender, blend them until smooth. There will be some texture from the peppers. Set aside.",
+        "Using a food processor, blend the whole wheat bread, garlic and 2 Tbsps. grated parmesan cheese to make the crumble topping. Set aside.",
+        "Cook pasta according to package directions, omitting salt. Drain pasta and immediately add it to the cheese mixture, stirring well to incorporate.",
+        "Pour the macaroni and cheese into the prepared baking dish, sprinkle the top with the whole wheat breadcrumb mixture and bake for 15-20 minutes or until bubbly and topping is golden brown."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Lunch",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Sides",
+        "Vegetarian",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "5g",
+        "saturated_fat": "1.7g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "360mg",
+        "total_carbohydrate": "43g",
+        "fiber": "7g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/jalapeno-mac-and-cheese"
+}

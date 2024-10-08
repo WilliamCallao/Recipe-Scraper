@@ -1,0 +1,72 @@
+{
+    "title": "Fresh Corn Salad With Tomatoes And Basil",
+    "keywords": "Quick & Easy,Sides,Vegan,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Quick & Easy",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_699_CarbControl_CornSalsa__022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "small ears of corn (silks and husks removed)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "grape tomatoes (halved)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "fresh basil leaves (chopped)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cider vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Bring water to a boil in a large saucepan over high heat. Add the corn, reduce heat to medium, and cook, covered, 8 minutes, or until tender-crisp when pierced with a fork. Drain in colander and run under cold water to cool quickly.",
+        "Meanwhile, combine remaining ingredients in a medium bowl. Cut the corn off the cobb and add to the tomato mixture. Toss gently until well blended."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Quick & Easy",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "8g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "15g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fresh-corn-salad-tomatoes-and-basil"
+}

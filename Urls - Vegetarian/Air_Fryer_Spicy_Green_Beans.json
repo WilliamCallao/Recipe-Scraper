@@ -1,0 +1,74 @@
+{
+    "title": "Air Fryer Spicy Green Beans",
+    "keywords": "Appetizers,Sides,Snacks,Vegan,Vegetarian,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Appetizers",
+        "Sides",
+        "Snacks",
+        "Vegan",
+        "Vegetarian",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1820-diabetic-air-fryer-spicy-green-beans_Air-Fryer-Cookbook_DFSepOct19_081619.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "fresh green beans (trimmed)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Thai-style chili garlic paste",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "whole-wheat panko bread crumbs",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Place the green beans in a medium bowl and toss with the olive oil, chili garlic paste, panko bread crumbs, and salt.",
+        "Place the green beans in the air fryer basket. Set the temperature to 400° F and air fry for 4 minutes. Shake the air fryer basket. Air fry for an additional 5 to 7 minutes. Serve warm."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Comfort Food",
+        "Appetizers",
+        "Sides",
+        "Snacks",
+        "Vegan",
+        "Vegetarian",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "7g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/air-fryer-spicy-green-beans"
+}

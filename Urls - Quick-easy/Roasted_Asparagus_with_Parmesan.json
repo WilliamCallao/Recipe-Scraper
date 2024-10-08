@@ -1,0 +1,74 @@
+{
+    "title": "Roasted Asparagus with Parmesan",
+    "keywords": "Gluten-Free,Quick & Easy,Budget Friendly,Sides,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Gluten-Free",
+        "Quick & Easy",
+        "Budget Friendly",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2077-diabetic-low-carb-roasted-asparagus_low-carb-brissette_050721.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "asparagus",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "zest of 1 lemon",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Parmesan cheese (grated)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat your oven to 425 degrees F. Line a baking sheet with parchment paper. Snap the tough ends off of the asparagus and discard.",
+        "In a large bowl, toss the asparagus with the olive oil, pepper and lemon zest.",
+        "Place the asparagus on the prepared baking sheet in a single layer. Bake for 15 minutes or until tender. Remove from the oven, then sprinkle with cheese and lemon juice."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Gluten-Free",
+        "Quick & Easy",
+        "Budget Friendly",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "35",
+        "total_fat": "1.5g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "25mg",
+        "total_carbohydrate": "5g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-asparagus-parmesan"
+}

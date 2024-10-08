@@ -1,0 +1,99 @@
+{
+    "title": "Italian Salsa Salad",
+    "keywords": "Vegetarian,Salads,Quick & Easy,No Cook",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Salads",
+        "Quick & Easy",
+        "No Cook"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1992-diabetic-Italian-Salsa-Salad_KDBH-bookazine_012821.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        },
+        {
+            "name": "dried oregano",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "dried basil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Apple Cider Vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "capers (rinsed and drained)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "chopped fresh parsley",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "chopped red onion",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "green bell pepper (chopped)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "grape or cherry tomatoes (halved)",
+            "us_amount": "10 oz (about 2 cups)",
+            "metric_amount": "10 oz (about 2 cups)"
+        }
+    ],
+    "instructions": [
+        "In a medium bowl, gently toss together all the ingredients. Let stand for 10 minutes before serving."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Low Sodium",
+        "Mediterranean",
+        "Italian",
+        "Vegetarian",
+        "Salads",
+        "Quick & Easy",
+        "No Cook"
+    ],
+    "nutrition": {
+        "calories": "40",
+        "total_fat": "2.5g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "120mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/italian-salsa-salad"
+}

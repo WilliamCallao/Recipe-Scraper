@@ -1,0 +1,116 @@
+{
+    "title": "Tofu Spring Rolls",
+    "keywords": "Foodie,Vegetarian,Snacks,Appetizers,Sides",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Appetizers",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/apr-2014-tofu-spring-rolls.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lower sodium soy sauce",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "low-calorie brown sugar substitute",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "extra firm tofu",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "spring roll wrappers (0.25 ounce each)",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "warm water",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "lettuce leaves",
+            "us_amount": "6 leaves",
+            "metric_amount": "6 leaves"
+        },
+        {
+            "name": "mango (peeled and thinly sliced )",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cucumber(s) (peeled, seeded and thinly sliced into strips)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "avocado (sliced into 12 thin slices)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "no-sugar-added apricot preserves (sugar-free)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "soy sauce (lower sodium)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Thai style chili garlic sauce",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 475 degrees F. Coat a baking sheet with cooking spray and set aside.",
+        "In a small bowl, whisk together soy sauce and Splenda Brown Sugar.",
+        "Slice tofu into 6 slices. Place on the baking sheet and lightly brush each slice with the soy sauce mixture. Bake for 20 minutes. Cool completely.",
+        "Once the tofu is cool, cut each slice into three smaller slices.",
+        "Divide the mango and cucumber each into 6 equal portions.",
+        "Soak one rice paper wrapper in warm water until softened, about 30 seconds. Lay the rice paper on a clean, flat surface. Place one lettuce leaf on top of the rice paper.",
+        "Place one portion of the mango and cucumber each in the center of the rice paper. Top the vegetables with 3 small slices of tofu and two slices of avocado.",
+        "Fold the left and right sides of the wrapper and lettuces into the middle until almost touching. Roll paper from the bottom to form the roll tightly. Repeat for remaining rice papers. Set aside.",
+        "Combine the sauce ingredients in a small saucepan over high heat. Bring to a boil, stirring constantly. Simmer for 2 minutes. Serve warm with cold spring rolls for dipping."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Asian",
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Appetizers",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "215mg",
+        "total_carbohydrate": "20g",
+        "fiber": "5g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tofu-spring-rolls"
+}

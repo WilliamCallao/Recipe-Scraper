@@ -1,0 +1,72 @@
+{
+    "title": "Lemon-Mint Sugar Snap Peas",
+    "keywords": "Vegetarian,Sides,Lunch,Gluten-Free,Dinner",
+    "prep_time": "PT5M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2010-diabetic-Lemon-Mint-Sugar-Snap-Peas_KDBH-bookazine_012821.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "sugar snap peas",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "lemon (zested and juiced (about 1/2 tsp zest and 2 tbsp juice))",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "margarine",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "chopped fresh mint or cilantro",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "In a medium saucepan, steam the peas, covered, for 5 minutes, or until just tender-crisp. Drain well. Transfer to a medium bowl.",
+        "Gently stir the remaining ingredients into the peas while they are still warm."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Vegetarian",
+        "Sides",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "35",
+        "total_fat": "1g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "55mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/lemon-mint-sugar-snap-peas"
+}

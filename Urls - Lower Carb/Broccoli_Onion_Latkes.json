@@ -1,0 +1,69 @@
+{
+    "title": "Broccoli Onion Latkes",
+    "keywords": "Appetizers,Holidays & Entertaining,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2039-diabetic-Latkes-Broccoli-Onion_DaVita_040821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "fresh or frozen chopped broccoli florets",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "diced onion",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "all-purpose flour",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Boil the diced broccoli in a small amount of water for 5 minutes, then drain thoroughly.",
+        "Break eggs into a medium bowl and beat. Add the flour and mix well. Add the broccoli and onion and stir into the flour/egg mixture until well mixed.",
+        "Heat olive oil in a frying pan over medium-high heat. Drop the mixture by spoonfuls into the hot oil, making 4 equal portions. Flatten with a spatula, and cook until golden brown on both sides (about 3-4 minutes per side).",
+        "Remove the latkes from the pan and drain on a paper towel to soak up extra oil. Serve hot."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "135",
+        "total_fat": "9g",
+        "saturated_fat": "1.8g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "50mg",
+        "total_carbohydrate": "8g",
+        "fiber": "1.7g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/broccoli-onion-latkes"
+}

@@ -1,0 +1,109 @@
+{
+    "title": "Eggplant and Chickpea Stew",
+    "keywords": "Vegetarian,Vegan,Main Dish,Dinner,Lunch",
+    "prep_time": "PT5M",
+    "cook_time": "PT75M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Main Dish",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-08/eggplant_chickpea_stew.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Extra Virgin Olive Oil (divided)",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        },
+        {
+            "name": "yellow onion (1 diced and 1 sliced)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "eggplant (cubed)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "chickpeas (garbanzo beans) (no-salt-added)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "cumin",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ground coriander",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "canned tomatoes (no-salt added, diced or chopped)",
+            "us_amount": "28 oz",
+            "metric_amount": "792 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cilantro (freshly chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Heat 2 teaspoons olive oil in a large saucepan over medium heat.",
+        "Add diced onions and garlic, and cook until onions are soft.",
+        "Stir in the eggplant, chickpeas, cumin, cinnamon, coriander, tomatoes, salt, and pepper. Increase heat to high, and bring to a boil.",
+        "Reduce heat to low, and cover the pot. Cook the stew for 45 minutes to 1 hour or until eggplant is very tender.",
+        "Meanwhile, heat remaining 2 teaspoons olive oil and add onion slices. Fry until golden, and remove from heat.",
+        "When stew is finished, place in serving bowls and top with fried onions and cilantro."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Comfort Food",
+        "Vegetarian",
+        "Vegan",
+        "Main Dish",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "7g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "43g",
+        "fiber": "14g",
+        "sugar": "13g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/eggplant-and-chickpea-stew"
+}

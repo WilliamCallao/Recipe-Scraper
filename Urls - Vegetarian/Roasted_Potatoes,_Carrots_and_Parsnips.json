@@ -1,0 +1,80 @@
+{
+    "title": "Roasted Potatoes, Carrots and Parsnips",
+    "keywords": "Sides,Vegetarian,Gluten-Free,Holidays & Entertaining",
+    "prep_time": "PT25M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Sides",
+        "Vegetarian",
+        "Gluten-Free",
+        "Holidays & Entertaining"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/oct13_potato-carrot-parsnips_279x200.jpg",
+        "Carrots and Parsnips\" loading=\"lazy\" />"
+    ],
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "large carrots (2-3/4 ounces each, peeled, ends trimmed, sliced on diagonal )",
+            "us_amount": "5",
+            "metric_amount": "5"
+        },
+        {
+            "name": "large parsnips (5-ounces each, peeled, ends trimmed, sliced on diagonal)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "sweet potatoes (5-ounces each, peeled, cut into medium cubes)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Kosher Salt",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "fresh herbs (thyme, oregano, sage, or rosemary)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Freshly ground black pepper, to taste",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Heat the oven to 450 degrees F. In a large bowl, combine the vegetables with the oil, salt, and herbs. Toss to coat.",
+        "Arrange vegetables on two parchment paper-lined baking sheets. Roast until soft on the inside and browned on the outside, about 20-30 minutes. Flip the vegetables halfway through the cooking.",
+        "Serve warm or at room temperature."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Sides",
+        "Vegetarian",
+        "Gluten-Free",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "3g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "16g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-potatoes-carrots-and-parsnips"
+}

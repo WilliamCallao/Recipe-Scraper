@@ -1,0 +1,91 @@
+{
+    "title": "Mini-Pumpkin Tarts",
+    "keywords": "Holidays & Entertaining,Dessert,Quick & Easy,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Holidays & Entertaining",
+        "Dessert",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_367_Mini-Pumpkin_Tarts_MG_6279-%28ZF-5661-35964-1-027%29_02282018.jpg",
+    "servings": "30 Servings",
+    "ingredients": [
+        {
+            "name": "light cream cheese (softened)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "mini vanilla wafer cookies",
+            "us_amount": "30",
+            "metric_amount": "30"
+        },
+        {
+            "name": "light sour cream",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "low calorie sugar substitute",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "canned pure pumpkin",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ground nutmeg",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350 degrees.",
+        "Line mini-muffin pan with paper baking cups and place one Nilla wafer in the bottom of each cup.",
+        "In medium bowl, add remaining ingredients and mix with an electric mixture until smooth.",
+        "Fill each muffin cup with pumpkin-cream cheese mixture.",
+        "Place muffin pan in oven and bake for 30 minutes or until done. Serve cool."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Kid Friendly",
+        "Holidays & Entertaining",
+        "Dessert",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "40",
+        "total_fat": "2.5g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "15mg",
+        "sodium": "40mg",
+        "total_carbohydrate": "4g",
+        "fiber": "0g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mini-pumpkin-tarts"
+}

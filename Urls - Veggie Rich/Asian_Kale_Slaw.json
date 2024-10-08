@@ -1,0 +1,100 @@
+{
+    "title": "Asian Kale Slaw",
+    "keywords": "Lunch,Vegetarian,Sides,Quick & Easy,Gluten-Free",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/047-diabetic-Asian-Kale-Slaw_MG_2789-%28ZF-5661-35964-1-138%29_022318.jpg",
+    "servings": "7 Servings",
+    "ingredients": [
+        {
+            "name": "pre-packaged kale slaw (kale and carrots)",
+            "us_amount": "7 cup",
+            "metric_amount": "1 l 656 ml"
+        },
+        {
+            "name": "green onions (chopped)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "red bell pepper (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "peanuts (chopped)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "peanut butter (heat in microwave for 25 seconds)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "rice wine vinegar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lower sodium soy sauce (gluten-free)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "low-calorie brown sugar substitute",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        }
+    ],
+    "instructions": [
+        "In a medium bowl, toss together the slaw, onions, bell pepper, and peanuts.",
+        "In a small bowl, whisk together peanut butter, vinegar, water, oil, soy sauce, sugar, and garlic. Pour dressing over salad and mix to coat. Serve cold."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "Asian",
+        "Lunch",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "135",
+        "total_fat": "9g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "110mg",
+        "total_carbohydrate": "11g",
+        "fiber": "2g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/asian-kale-slaw"
+}

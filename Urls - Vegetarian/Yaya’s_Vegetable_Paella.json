@@ -1,0 +1,98 @@
+{
+    "title": "Yaya’s Vegetable Paella",
+    "keywords": "Dinner,Vegetarian",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_593_Vegetable_Paella_PNCImages_03012018.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "medium green bell pepper (cut in 4 pieces)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh green beans (cut in 1/2-inch pieces (or use frozen))",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "medium tomato (peeled and diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "short-grain rice",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "garlic (crushed)",
+            "us_amount": "6 diente",
+            "metric_amount": "6 diente"
+        },
+        {
+            "name": "fresh parsley (chopped)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "annatto (ground)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "water",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "canned lima beans (rinsed and drained)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "artichoke hearts (drained and chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Heat oil in medium frying pan over medium heat. Sauté pepper and green beans for 2 minutes.",
+        "Add remaining ingredients except lima beans and artichoke hearts and bring to a boil. Cover, reduce heat, and simmer 20 minutes.",
+        "Add lima beans and artichokes, stir, cover, and cook 5 more minutes."
+    ],
+    "tags": [
+        "Latin American",
+        "Dinner",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "215",
+        "total_fat": "3g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "320mg",
+        "total_carbohydrate": "41g",
+        "fiber": "4g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/yayas-vegetable-paella"
+}

@@ -1,0 +1,106 @@
+{
+    "title": "Brown Rice And Edamame Salad",
+    "keywords": "Salads,Sides,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_627_Brown%20Rice%20and%20Edamame%20Salad_SmartShopperCkbk_022618.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "frozen edamame (thawed)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "raisins or currants",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "fresh lime juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sugar",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "vegetable oil",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "onion(s) (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "fresh grated ginger",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "curry powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Kosher Salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "frozen long-grain brown rice (cooked and cooled)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "fresh cilantro (minced)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Add the thawed edamame to a strainer and let drain thoroughly of all moisture. Pat dry and set aside.",
+        "In a small bowl, combine the raisins, lime juice, and sugar and set aside.",
+        "Heat the vegetable oil in a medium skillet over medium-high heat. Add the onion and sauté for about 6 minutes. Add the garlic and sauté for 2 minutes. Add in the ginger, curry, salt, and pepper and sauté for 2 minutes. Remove the skillet from the heat and add in the raisin mixture and mix.",
+        "Add the cooked rice and reserved edamame to a serving bowl. Add in the onion mixture and cilantro. Mix gently. Serve the salad at room temperature."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "185",
+        "total_fat": "5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "30g",
+        "fiber": "5g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/brown-rice-and-edamame-salad"
+}

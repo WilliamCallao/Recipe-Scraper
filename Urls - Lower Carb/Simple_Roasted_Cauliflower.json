@@ -1,0 +1,78 @@
+{
+    "title": "Simple Roasted Cauliflower",
+    "keywords": "Vegetarian,Vegan,Sides,Quick & Easy,Gluten-Free,Easy Pantry Recipes,Budget Friendly",
+    "prep_time": "PT5M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Quick & Easy",
+        "Gluten-Free",
+        "Easy Pantry Recipes",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2050-diabetic-roasted-Cauliflower_DaVita_040821.jpg",
+    "servings": "9 Servings",
+    "ingredients": [
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "fresh rosemary (chopped)",
+            "us_amount": "1 tbsp (or 1 tsp dried rosemary)",
+            "metric_amount": "1 tbsp (or 1 tsp dried rosemary)"
+        },
+        {
+            "name": "cauliflower florets",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        }
+    ],
+    "instructions": [
+        "Roast for 15 minutes; remove from oven and stir. Continue roasting for 10 minutes or until cauliflower is tender and lightly browned.",
+        "In a large bowl, toss cauliflower with rosemary, olive oil, salt, and pepper. Spread seasoned cauliflower on a large baking sheet (use two sheets if they are crowded on one).",
+        "Preheat oven to 450° F."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Low Sodium",
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Quick & Easy",
+        "Gluten-Free",
+        "Easy Pantry Recipes",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "30",
+        "total_fat": "2g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "80mg",
+        "total_carbohydrate": "2g",
+        "fiber": "1.7g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/simple-roasted-cauliflower"
+}

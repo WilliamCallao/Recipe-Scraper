@@ -1,0 +1,94 @@
+{
+    "title": "Cheddar Cheese and Broccoli Soup",
+    "keywords": "Sides,Main Dish,Lunch,Appetizers",
+    "prep_time": "PT20M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Sides",
+        "Main Dish",
+        "Lunch",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_641_Cheddar%20Cheese%20and%20Broccoli%20Soup_DiabetesComfortFood_022518.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "broccoli",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "onion, chopped",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "celery stalk, chopped",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "all-purpose flour",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "chicken broth, reduced-sodium",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "milk, evaporated fat-free",
+            "us_amount": "12-ounce can",
+            "metric_amount": "12-ounce can"
+        },
+        {
+            "name": "reduced-fat cheddar cheese (such as Cabot’s 50% reduced-fat cheddar)",
+            "us_amount": "1 1/4 cup",
+            "metric_amount": "296 ml"
+        },
+        {
+            "name": "black pepper, freshly ground",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "nutmeg salt, to taste",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Trim and peel broccoli stems. Cut off 15 small florets. Coarsely chop enough remaining broccoli to equal 2 cups.",
+        "Blanch chopped broccoli and florets in boiling water just until bright green, about 2 minutes. Drain and set aside.",
+        "Heat olive oil in medium saucepan over medium heat. Sauté onion and celery until soft, about 5 minutes. Whisk in flour and cook 1 minute. Add broth and milk. Cook, stirring constantly, until mixture simmers and thickens, about 5 minutes.",
+        "Add chopped broccoli, cheese, pepper, nutmeg, and salt. Stir until cheese melts and soup is heated through, about 3 minutes. Garnish each bowl with reserved broccoli florets."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Comfort Food",
+        "Sides",
+        "Main Dish",
+        "Lunch",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "205",
+        "total_fat": "8g",
+        "saturated_fat": "3.5g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "490mg",
+        "total_carbohydrate": "20g",
+        "fiber": "12g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cheddar-cheese-and-broccoli-soup"
+}

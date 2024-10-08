@@ -1,0 +1,84 @@
+{
+    "title": "Caribbean Bean Dip",
+    "keywords": "Vegetarian,Snacks,Quick & Easy,Holidays & Entertaining,Appetizers",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Snacks",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_145_Caribbean_Bean_Dip_PNCImages_02272018.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "organic black beans (15.5-ounce, drained)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "Hass avocado (peeled and sliced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "cilantro (roughly chopped)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ground cayenne red pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sea salt, or to taste",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "green onions (thinly sliced)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        }
+    ],
+    "instructions": [
+        "Puree all ingredients except the green onion in a blender until smooth. Top with green onion and serve with tortilla chips or fresh vegetables."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Caribbean",
+        "Vegetarian",
+        "Snacks",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "2g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "125mg",
+        "total_carbohydrate": "9g",
+        "fiber": "3g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/caribbean-bean-dip"
+}

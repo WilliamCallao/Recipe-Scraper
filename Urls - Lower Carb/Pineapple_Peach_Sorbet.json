@@ -1,0 +1,63 @@
+{
+    "title": "Pineapple Peach Sorbet",
+    "keywords": "Cooking for 1 or 2,Snacks,Vegetarian,Foodie,Dessert",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Snacks",
+        "Vegetarian",
+        "Foodie",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/405-diabetic-dessert-pineapple-peach-sorbet_AdobeStock84699480_022321.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "frozen peaches",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "frozen pineapple chunks",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "sugar-free lemonade",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Place all the ingredients in a blender and blend until smooth.",
+        "Place the sorbet in a container or into popsicle molds and freeze immediately."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Comfort Food",
+        "Kid Friendly",
+        "Cooking for 1 or 2",
+        "Snacks",
+        "Vegetarian",
+        "Foodie",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "40",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "10g",
+        "fiber": "1g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pineapple-peach-sorbet"
+}

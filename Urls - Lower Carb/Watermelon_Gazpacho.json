@@ -1,0 +1,109 @@
+{
+    "title": "Watermelon Gazpacho",
+    "keywords": "Appetizers,Foodie,Holidays & Entertaining,No Cook,One Pot,Sides,Soup,Vegan,Vegetarian",
+    "prep_time": "PT1H15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "Foodie",
+        "Holidays & Entertaining",
+        "No Cook",
+        "One Pot",
+        "Sides",
+        "Soup",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/diabetic%20gazpacho.png",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "seedless watermelon (cubed)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "cucumber(s) (peeled and seeded)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "red bell pepper (chopped)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "tomato(es) (cored, seeds and membranes removed)",
+            "us_amount": "4 med",
+            "metric_amount": "4 med"
+        },
+        {
+            "name": "shallots (chopped)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "jalapeño pepper (trimmed and seeded)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "sherry vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "fresh basil (julienned )",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "To serve, divide gazpacho between bowls and top with basil. If desired, add a small drizzle of olive oil.",
+        "Refrigerate the gazpacho for at least an hour before serving.",
+        "Place watermelon, cucumber, bell pepper, tomatoes, shallot, jalapeño, vinegar, olive oil, salt, and pepper in a blender. Blend until completely smooth. Taste and adjust seasonings if needed."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Veggie Rich",
+        "Latin American",
+        "Appetizers",
+        "Foodie",
+        "Holidays & Entertaining",
+        "No Cook",
+        "One Pot",
+        "Sides",
+        "Soup",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "18g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "14g",
+        "fiber": "2g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/watermelon-gazpacho"
+}

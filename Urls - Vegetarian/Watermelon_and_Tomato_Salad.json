@@ -1,0 +1,98 @@
+{
+    "title": "Watermelon and Tomato Salad",
+    "keywords": "Salads,Vegetarian,Holidays & Entertaining,Quick & Easy",
+    "prep_time": "PT45M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Vegetarian",
+        "Holidays & Entertaining",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/watermelon-tomato-salad-Jul16.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "fresh chives (minced)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sherry vinegar",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "red onion (thinly sliced)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "fresh basil (sliced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "seedless watermelon (cut into 1/2-inch cubes)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "tomato(es) (chopped into 1/2 inch cubes)",
+            "us_amount": "3 large",
+            "metric_amount": "3 large"
+        }
+    ],
+    "instructions": [
+        "In a large bowl, mix together the tomatoes, watermelon, basil, and red onion.",
+        "In a small bowl, whisk together the olive oil, sherry vinegar, salt, pepper, and chili powder. Add the dressing to the tomato-watermelon mixture. Cover and refrigerate for 30 minutes.",
+        "Before serving, top the salad with the chives. Pack in an airtight container for transport.",
+        "If you’re not serving it right away, store this juicy salad in the refrigerator. It’s best enjoyed within 24 hours."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Veggie Rich",
+        "Lower Carb",
+        "Salads",
+        "Vegetarian",
+        "Holidays & Entertaining",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "75mg",
+        "total_carbohydrate": "6g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/watermelon-and-tomato-salad"
+}

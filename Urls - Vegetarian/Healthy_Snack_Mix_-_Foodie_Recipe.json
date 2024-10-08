@@ -1,0 +1,90 @@
+{
+    "title": "Healthy Snack Mix - Foodie Recipe",
+    "keywords": "Gluten-Free,Foodie,Vegetarian,Snacks,Appetizers,Holidays & Entertaining",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Gluten-Free",
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Appetizers",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_367072988.jpg",
+    "servings": "15 Servings",
+    "ingredients": [
+        {
+            "name": "low-calorie brown sugar substitute",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cayenne pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "unsalted pumpkin seeds (raw, pepitas)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "unsalted sunflower seeds",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "unsalted slivered almonds",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "sesame seeds",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "freeze dried blueberries (1.2-ounce)",
+            "us_amount": "1 package",
+            "metric_amount": "1 package"
+        }
+    ],
+    "instructions": [
+        "Preheat an oven to 300 degrees.",
+        "Coat a baking sheet with non-stick cooking spray and set aside.",
+        "In a bowl, combine Splenda Brown Sugar, cayenne pepper, pumkin seeds, sunflower seeds, almonds and sesame seeds and toss to coat.",
+        "Spread mixture onto the baking sheet and then spray again with a coating of cooking spray.",
+        "Bake for 15 minutes, stirring every 5 minutes to ensure even browning.",
+        "Remove from oven and set aside to cool. When cool, toss nut mixture in a bowl with the freeze dried blueberries."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Gluten-Free",
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Appetizers",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "175",
+        "total_fat": "14g",
+        "saturated_fat": "1.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "9g",
+        "fiber": "3g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/healthy-snack-mix-foodie-recipe"
+}

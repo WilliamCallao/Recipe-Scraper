@@ -1,0 +1,112 @@
+{
+    "title": "Pumpkin Chowder With Toasted Pepitas",
+    "keywords": "Appetizers,Main Dish,One Pot,Sides,Soup,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Appetizers",
+        "Main Dish",
+        "One Pot",
+        "Sides",
+        "Soup",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_798_Pumpkin_Chowder_VegetarianCookbook_022618.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "calabaza squash (peeled and chopped)",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "low sodium vegetable broth (or use water)",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "tomato(es) (chopped)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "onion(s) (chopped)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "green bell pepper (chopped)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "jalapeño pepper (seeded and minced)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "gingerroot (minced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "green onion (scallion) (chopped)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "fresh thyme ( or 1 teaspoon dried thyme)",
+            "us_amount": "3 sprig",
+            "metric_amount": "3 sprig"
+        },
+        {
+            "name": "cilantro (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "lime (juiced)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "salt (to taste)",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "pepitas (toasted)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Place squash, broth, tomatoes, onion, pepper, ginger root, scallions, and thyme sprigs or dried thyme in a nonreactive large saucepan. Bring to a boil, reduce heat, and simmer uncovered for 45 minutes, stirring occasionally, until all ingredients are tender.",
+        "Add cilantro, lime juice, and salt. Remove thyme stems before serving. Garnish each bowl of soup with pepitas before serving. Makes about 2 quarts."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Caribbean",
+        "Latin American",
+        "Appetizers",
+        "Main Dish",
+        "One Pot",
+        "Sides",
+        "Soup",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "0g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "20mg",
+        "total_carbohydrate": "12g",
+        "fiber": "4g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pumpkin-chowder-toasted-pepitas"
+}

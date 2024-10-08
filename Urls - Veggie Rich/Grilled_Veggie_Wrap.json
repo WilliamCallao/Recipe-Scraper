@@ -1,0 +1,95 @@
+{
+    "title": "Grilled Veggie Wrap",
+    "keywords": "Sandwiches,Quick & Easy,Vegetarian,Dinner,Lunch",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sandwiches",
+        "Quick & Easy",
+        "Vegetarian",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_425424460.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "medium zucchini (sliced lengthwise into 8 slices)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "medium yellow squash (sliced lengthwise into 8 slices)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "red bell pepper (sliced into 4 slices)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "large whole wheat tortillas (low carb, about 10 inch diameter)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "hummus",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fresh basil leaves",
+            "us_amount": "8",
+            "metric_amount": "8"
+        }
+    ],
+    "instructions": [
+        "Preheat an indoor or outdoor grill.",
+        "In a large bowl, whisk together olive oil, balsamic vinegar and ground black pepper.",
+        "Add sliced zucchini, squash and bell pepper to marinade and let sit for 5 minutes.",
+        "Grill the vegetables about 2-3 minutes on both sides.",
+        "Lay out the tortilla and spread with 2 Tbsp. hummus, then add two fresh basil leaves and top with 2 slices of zucchini, 2 slices of yellow squash and 1 slice bell pepper.",
+        "Fold in the two sides of the tortilla and roll like a burrito. You can serve these immediately or wrap tightly in plastic and refrigerate."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Mediterranean",
+        "Grilling",
+        "Sandwiches",
+        "Quick & Easy",
+        "Vegetarian",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "195",
+        "total_fat": "10g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "425mg",
+        "total_carbohydrate": "29g",
+        "fiber": "16g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-veggie-wrap"
+}

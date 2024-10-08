@@ -1,0 +1,75 @@
+{
+    "title": "Garlicky Cilantro Lime Dressing",
+    "keywords": "Salad Dressings & Condiments,Vegetarian,Foodie",
+    "prep_time": "PT5M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Salad Dressings & Condiments",
+        "Vegetarian",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/224-garlic-lime-cilantro-salad-dressing_090718_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "lime (zested and juiced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "garlic (minced or grated)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "honey",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "cilantro (minced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Whisk all ingredients together in a bowl or shake in a salad dressing shaker.",
+        "Serve over Pinto Bean, Brown Rice and Spinach Salad."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Mexican/Southwestern",
+        "Salad Dressings & Condiments",
+        "Vegetarian",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "7g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "3g",
+        "fiber": "0g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/garlicky-cilantro-lime-dressing"
+}

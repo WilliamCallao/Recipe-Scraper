@@ -1,0 +1,104 @@
+{
+    "title": "Seared Chicken With Strawberry Salsa",
+    "keywords": "Main Dish,Foodie,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Main Dish",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_829_Seared_Chicken_Strawberry_Salsa_DiabetesHeartHealthy_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "paprika",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ground allspice (or cumin)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "chicken breasts (boneless, skinless, halves (about 4 ounces each), all visible fat discarded)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "diced strawberries, mangoes, or peaches",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "medium poblano pepper or 3/4 medium green bell pepper (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "red onion (finely chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fresh mint or cilantro (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "fresh lemon juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "In a small bowl, stir together the paprika, allspice, salt, and pepper. Sprinkle over the smooth side of the chicken. Using your fingertips, gently press the mixture so it adheres to the chicken. Let stand for 10 minutes.",
+        "Meanwhile, in a medium bowl, stir together the salsa ingredients.",
+        "In a large skillet, heat the oil over medium-high heat, swirling to coat the bottom. Cook the chicken with the smooth side down for 4 minutes. Turn over. Cook for 2–4 minutes, or until no longer pink in the center.",
+        "Serve the salsa with the chicken."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Comfort Food",
+        "Main Dish",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "8g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/seared-chicken-strawberry-salsa"
+}

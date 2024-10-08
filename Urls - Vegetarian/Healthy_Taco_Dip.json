@@ -1,0 +1,95 @@
+{
+    "title": "Healthy Taco Dip",
+    "keywords": "Vegetarian,Snacks,Quick & Easy,Holidays & Entertaining,Gluten-Free,Appetizers",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Snacks",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/healthy_taco_dip.png",
+    "servings": "24 Servings",
+    "ingredients": [
+        {
+            "name": "fat-free refried beans (16-oz. )",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "cumin",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "avocado (mashed)",
+            "us_amount": "1 1/2 med",
+            "metric_amount": "1 1/2 med"
+        },
+        {
+            "name": "salsa",
+            "us_amount": "1/3 cup",
+            "metric_amount": "79 ml"
+        },
+        {
+            "name": "tomato(es) (seeded and diced)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "shredded romaine lettuce",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "shredded Mexican cheese blend",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "In a medium bowl mix together refried beans, chili powder, cumin and garlic powder.",
+        "Spread the refried beans evenly on a medium serving platter. Spread mashed avocados evenly over beans.",
+        "Spread the salsa evenly over top of avocados. Top with tomatoes, shredded lettuce and shredded cheese on top.",
+        "Serve the dip with your choice of baked tortilla chips, black bean chips or jicama slices. If you follow a gluten-free diet, make sure tortilla chips are unseasoned and gluten-free."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Vegetarian",
+        "Snacks",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "45",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "140mg",
+        "total_carbohydrate": "4g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/healthy-taco-dip"
+}

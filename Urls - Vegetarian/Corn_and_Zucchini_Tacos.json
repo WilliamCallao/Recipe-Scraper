@@ -1,0 +1,104 @@
+{
+    "title": "Corn and Zucchini Tacos",
+    "keywords": "Vegetarian,Sandwiches,Main Dish,Dinner,Lunch,Quick & Easy",
+    "prep_time": "PT20M",
+    "cook_time": "PT16M",
+    "categories": [
+        "Vegetarian",
+        "Sandwiches",
+        "Main Dish",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/corn-and-zucchini-tacos-May15.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "salsa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "corn tortillas",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "fresh oregano (minced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "tomato(es) (seeded and diced into 1/2-inch pieces)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "zucchini (unpeeled and diced into 1/2-inch pieces)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sweet onion (finely minced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ears corn (shucked and kernels cut off cobs; discard cobs)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "olive oil (divided)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "In a large skillet, heat 2 tsp of the oil over medium heat. Add the corn and sauté for 3 minutes. Add the cumin and chili powder and sauté for 2 minutes. Remove the corn mixture from the skillet.",
+        "Add the remaining olive oil to the skillet and add the onion. Sauté the onion for 5 minutes, until soft. Add the zucchini and sauté for 3 minutes. Add the tomatoes and sauté for 2 minutes. Add the oregano and sauté for 1 minute; stir in the reserved corn mixture.",
+        "Divide the corn mixture among the warmed tortillas and top each taco with 2 tsp yogurt and 2 tsp Salsa Cruda.",
+        "Cook’s Tip: Use your microwave to prep fresh corn! From each ear, cut off about 1 inch of the stalk end. Add up to 3 ears of corn at a time to a microwave-safe container and microwave on high for 6 minutes. Remove the corn from the microwave and let cool enough to handle. Holding onto the husk, gently squeeze and shake and the corn will come out in one fell swoop. If any silks remain, rub the cob up and down with paper toweling to remove the strands."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Vegetarian",
+        "Sandwiches",
+        "Main Dish",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "155",
+        "total_fat": "4g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "20mg",
+        "total_carbohydrate": "27g",
+        "fiber": "4g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/corn-and-zucchini-tacos"
+}

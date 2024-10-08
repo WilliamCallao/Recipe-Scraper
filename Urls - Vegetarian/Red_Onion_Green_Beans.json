@@ -1,0 +1,96 @@
+{
+    "title": "Red Onion Green Beans",
+    "keywords": "Foodie,Lunch,Dinner,Sides,Vegetarian,Holidays & Entertaining",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Foodie",
+        "Lunch",
+        "Dinner",
+        "Sides",
+        "Vegetarian",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/red-onion-green-beans-Nov14.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "lemon",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sliced almonds",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fresh thyme (finely minced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "red onion (halved, peeled, and sliced 1/2 inch thick)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "buttery spread",
+            "us_amount": "5 tsp",
+            "metric_amount": "25 g"
+        },
+        {
+            "name": "water",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh green beans (trimmed)",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "sea salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Bring a 6-quart pot of water, filled 2/3 full, to boiling. Add the salt. Add the green beans and turn off the heat. Let the green beans stand in the water for 3 to 4 minutes. Drain. Plunge the green beans into a bowl of ice water. Drain the beans; set aside.",
+        "In a large skillet, heat the butter and oil over medium heat. Add the onions and cook, stirring occasionally, for 20 to 25 minutes, until very soft. Lower the heat if the onions begin to brown too quickly.",
+        "Add the thyme and green beans to the onions and heat through, using tongs to gently turn the vegetables. To serve, place the onion–green bean mixture on a platter and top with the almonds and lemon zest."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Veggie Rich",
+        "Mediterranean",
+        "Foodie",
+        "Lunch",
+        "Dinner",
+        "Sides",
+        "Vegetarian",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "115",
+        "total_fat": "8g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "90mg",
+        "total_carbohydrate": "11g",
+        "fiber": "4g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/red-onion-green-beans"
+}

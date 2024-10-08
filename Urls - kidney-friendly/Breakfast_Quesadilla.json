@@ -1,0 +1,83 @@
+{
+    "title": "Breakfast Quesadilla",
+    "keywords": "Quick & Easy,Breakfast and Brunch",
+    "prep_time": "PT15M",
+    "cook_time": "PT16M",
+    "categories": [
+        "Quick & Easy",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/diabetic-breakfast-quesadilla-tex-mex-cookbook_080318_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "canned green chiles",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "eggs (beaten)",
+            "us_amount": "4 whole",
+            "metric_amount": "4 whole"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "10-inch whole wheat flour tortillas",
+            "us_amount": "2 large",
+            "metric_amount": "2 large"
+        },
+        {
+            "name": "reduced fat cheddar cheese, or use Mexican blend, Monterey Jack, or pepper jack (reduced fat)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "turkey bacon (cooked crisp and crumbled)",
+            "us_amount": "4 slice",
+            "metric_amount": "4 slice"
+        }
+    ],
+    "instructions": [
+        "Coat a small skillet lightly with cooking spray.",
+        "Saute green chiles over medium-low heat for 1-2 minutes. Add beaten eggs and cook, stirring, until scrambled and set. Season with pepper.",
+        "Coat a second, large skillet lightly with cooking spray. Place one tortilla in the skillet and cook over medium heat until air bubbles begin to form, about 1 minute. Flip tortilla over and cook for 1 minutes more (do not let tortilla get crispy).",
+        "Spread half the cheese evenly over the tortilla, covering to the edges.",
+        "Reduce heat to low. Quickly arrange half the cooked bacon and half the egg mixture over the cheese. Cook until the cheese starts to melt, about 1 minute.",
+        "Fold tortilla in half to create a half-moon shape. Flip folded tortilla over and cook until it is lightly toasted and the cheese filling is completely melted, 1-2 minutes.",
+        "Transfer quesadilla to a cutting board. Recoat the skillet with cooking spray, and repeat with the second tortilla and remaining cheese, bacon, and egg mixture.",
+        "Cut each quesadilla into 3 wedges and serve immediately with fresh salsa."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Quick & Easy",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "10g",
+        "saturated_fat": "4.2g",
+        "trans_fat": "0g",
+        "cholesterol": "140mg",
+        "sodium": "460mg",
+        "total_carbohydrate": "8g",
+        "fiber": "5g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/breakfast-quesadilla"
+}

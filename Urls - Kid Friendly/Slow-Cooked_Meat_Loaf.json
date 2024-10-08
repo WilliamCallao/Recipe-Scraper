@@ -1,0 +1,106 @@
+{
+    "title": "Slow-Cooked Meat Loaf",
+    "keywords": "Slow Cooker,Main Dish,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT6H",
+    "categories": [
+        "Slow Cooker",
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1667-diabetic-slow-cooker-meatloaf_new-soul-food-cookbook_100518_1021x779.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "1% milk",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "dried seasoned bread crumbs",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "dried minced onion",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "dried sage",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "fennel seeds",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "white (button) mushrooms (finely diced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "lean ground turkey",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "ketchup",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "brown sugar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "mustard powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Worcestershire sauce",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Combine eggs, milk, bread crumbs, onion, salt, sage, fennel, and mushrooms in a large bowl. Break up ground turkey over mixture and stir well to combine.",
+        "Shape into a round loaf; place in a 5-quart slow cooker. Cover and cook on low until a meat thermometer reads 165°F, 5–6 hours. (Or, if desired bake in 350°F oven [325°F for a convection oven] for 35–45 minutes until meat reaches an internal temperature of 165°F.)",
+        "Whisk ketchup, brown sugar, mustard, and Worcestershire sauce in a small bowl; spoon sauce over meat loaf. Return to slow cooker and cook on low until heated through, about 15 minutes. Let stand 10 minutes before cutting."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Comfort Food",
+        "Slow Cooker",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "10g",
+        "saturated_fat": "3.1g",
+        "trans_fat": "0.1g",
+        "cholesterol": "135mg",
+        "sodium": "490mg",
+        "total_carbohydrate": "13g",
+        "fiber": "1g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/slow-cooked-meat-loaf"
+}

@@ -1,0 +1,68 @@
+{
+    "title": "Kid-Friendly Raspberry Smoothie Pops",
+    "keywords": "Quick & Easy,Easy Pantry Recipes,Snacks,Vegetarian,Dessert,Gluten-Free",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Easy Pantry Recipes",
+        "Snacks",
+        "Vegetarian",
+        "Dessert",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/335-diabetic-raspberry-smoothie-popsicle-kid_649059514_081219.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "small banana",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "unsweetened frozen raspberries",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Greek berry yogurt (non-fat)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "skim milk",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "In a blender mix together all ingredients until smooth.",
+        "Pour smoothie mixture evenly into 4 ice pop molds. Insert ice pop handle on top. Place upright and freeze until solid; about 3 hours."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Kid Friendly",
+        "Quick & Easy",
+        "Easy Pantry Recipes",
+        "Snacks",
+        "Vegetarian",
+        "Dessert",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "0.5g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "20mg",
+        "total_carbohydrate": "13g",
+        "fiber": "3g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/kid-friendly-raspberry-smoothie-pops"
+}

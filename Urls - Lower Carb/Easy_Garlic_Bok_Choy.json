@@ -1,0 +1,87 @@
+{
+    "title": "Easy Garlic Bok Choy",
+    "keywords": "Gluten-Free,Quick & Easy,Sides,Vegan,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Gluten-Free",
+        "Quick & Easy",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/easy%20garlic%20bok%20choy%20for%20diabetic.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "5 diente",
+            "metric_amount": "5 diente"
+        },
+        {
+            "name": "shallots (minced)",
+            "us_amount": "2 large",
+            "metric_amount": "2 large"
+        },
+        {
+            "name": "baby bok choy (roots trimmed)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "lower sodium soy sauce",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "low sodium vegetable broth",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sesame oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Heat the olive oil in a large skillet over medium-high heat. Add garlic and shallots and cook, stirring occasionally, until fragrant, 1–2 minutes.",
+        "In a small bowl, mix together the soy sauce, vegetable broth, and sesame oil.",
+        "Add the bok choy and sauce to the skillet. Toss to coat. Cover and cook for 2–3 minutes, uncover and toss, then cover and continue to cook until bok choy is tender, 3–5 minutes more.",
+        "Sprinkle with crushed red pepper."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Veggie Rich",
+        "Asian",
+        "Gluten-Free",
+        "Quick & Easy",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "9g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/easy-garlic-bok-choy"
+}

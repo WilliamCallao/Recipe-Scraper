@@ -1,0 +1,118 @@
+{
+    "title": "Penne with Broccoli Rabe, Prosciutto, and Garlic",
+    "keywords": "Dinner,Main Dish,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/RecId_790_Penne%20with%20Broccoli%20Rabe%2C%20Prosciutto%20and%20Garlic_DiabetesComfortFood_022518.jpg",
+        "Prosciutto",
+        "and Garlic\" loading=\"lazy\" />"
+    ],
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "penne pasta (uncooked)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "red pepper (crushed)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "broccoli rabe (trimmed and cut into 2-inch pieces)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "tomato(es) (sliced sun-dried)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Parmesan cheese (freshly grated)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ricotta cheese (fat-free)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "goat cheese (chevre) (soft, reduced-fat)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "prosciutto (sliced 1/8-inch thick and diced)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "parsley (minced)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "kosher salt, to taste",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "black pepper, to taste (freshly ground)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Bring a pot of water to boil for the pasta. Add the pasta and cook for 10 minutes.",
+        "In a sauté pan, add the olive oil and bring to medium-high heat.",
+        "Add garlic, red pepper, broccoli rabe, sun-dried tomatoes, and 1/2 cup water and cook covered with a lid for 5 minutes.",
+        "In a large bowl, add Parmesan cheese, ricotta cheese, goat cheese, and prosciutto and mix gently. Drain the pasta and add it to the bowl. Toss with garlic, broccoli rabe, and sun-dried tomato mixture.",
+        "Add parsley, salt, and pepper."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Comfort Food",
+        "Italian",
+        "Dinner",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "225",
+        "total_fat": "5g",
+        "saturated_fat": "1.7g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "255mg",
+        "total_carbohydrate": "33g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/penne-broccoli-rabe-prosciutto-and-garlic"
+}

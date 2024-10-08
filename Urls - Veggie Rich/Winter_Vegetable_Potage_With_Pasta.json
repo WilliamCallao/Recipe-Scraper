@@ -1,0 +1,101 @@
+{
+    "title": "Winter Vegetable Potage With Pasta",
+    "keywords": "Lunch,One Pot,Soup",
+    "prep_time": "PT20M",
+    "cook_time": "PT60M",
+    "categories": [
+        "Lunch",
+        "One Pot",
+        "Soup"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/winter-vegetable-potage-with-pasta-Dec14.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "fresh chives (minced)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "elbow macaroni",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "rutabaga (peeled and diced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cabbage (shredded)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "low sodium chicken broth",
+            "us_amount": "5 cup",
+            "metric_amount": "1 l 183 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "fennel bulb (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "carrot(s) (peeled and diced)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "onion(s) (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "In a large saucepan, heat the olive oil over medium-high heat. Add the onions and sauté for 4 minutes. Add the carrots and fennel and season with the salt and black pepper. Sauté for 3 minutes. Add the garlic and sauté for 1 minute.",
+        "Add the broth, cabbage, and rutabaga to the pan. Bring to boiling. Reduce the heat to low, cover, and simmer for 45 minutes to 1 hour. Add the pasta, raise the heat to medium, and cook for 7 minutes, or until the pasta is tender. Ladle the soup into bowls and garnish each bowl with the chives."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Comfort Food",
+        "French",
+        "Lunch",
+        "One Pot",
+        "Soup"
+    ],
+    "nutrition": {
+        "calories": "95",
+        "total_fat": "2g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "475mg",
+        "total_carbohydrate": "16g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/winter-vegetable-potage-pasta"
+}

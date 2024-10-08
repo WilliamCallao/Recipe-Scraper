@@ -1,0 +1,99 @@
+{
+    "title": "Roasted Turkey & Vegetables",
+    "keywords": "Main Dish,Holidays & Entertaining,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT60M",
+    "categories": [
+        "Main Dish",
+        "Holidays & Entertaining",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1673-diabetic-roasted-turkey-vegetables_Diabetes-Cookbook_DF_101818_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "stalks celery (chopped)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "small carrots (peeled and chopped)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "onion (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "head green cabbage (chopped)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "fresh thyme",
+            "us_amount": "5 sprig",
+            "metric_amount": "5 sprig"
+        },
+        {
+            "name": "fat-free low-sodium chicken broth",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "bone-in turkey breast half",
+            "us_amount": "2 1/2 lbs",
+            "metric_amount": "1 l 134 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt-free all-purpose seasoning (such as Mrs. Dash)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ground black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 375° F. Coat a baking dish with nonstick cooking spray.",
+        "Toss the celery, carrots, onion, cabbage, and thyme together and place in the pan. Pour the chicken broth over the vegetables.",
+        "Remove the skin from the turkey breast. Place the turkey bone side down on top of the vegetables. Drizzle the turkey and vegetables with the olive oil. Sprinkle them with the all-purpose seasoning and black pepper.",
+        "Roast the turkey and vegetables in the oven for 1 hour, or until the internal temperature of the turkey is 165° F.",
+        "When the dish comes out of the oven, set the turkey on a cutting board to rest. Remove the thyme stems and stir the vegetables.",
+        "Slice the turkey into 4-oz portions and serve each with ¼ of the vegetable mixture."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Comfort Food",
+        "Main Dish",
+        "Holidays & Entertaining",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "3g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "90mg",
+        "sodium": "170mg",
+        "total_carbohydrate": "10g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "35g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-turkey-vegetables"
+}

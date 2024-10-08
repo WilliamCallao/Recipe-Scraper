@@ -1,0 +1,105 @@
+{
+    "title": "Red Quinoa and Farro",
+    "keywords": "Vegetarian,Vegan,Sides,One Pot,Easy Pantry Recipes",
+    "prep_time": "PT15M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "One Pot",
+        "Easy Pantry Recipes"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1895-diabetic-red-quinoa-and-farro_CYP_DFMarApr20_021020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "farro",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "low sodium vegetable broth (divided)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "red quinoa",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lime juice",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "white wine vinegar",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "dried oregano",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "stevia brown sugar blend (such as Truvia)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "In a medium saucepan over high heat, bring the farro and 1½ cups of the broth to a boil. Reduce the heat to medium low and simmer for about 25 minutes, or until the farro is tender. Place the farro into a large bowl and allow to cool for 10 minutes.",
+        "In the same medium saucepan o ver high heat, add the quinoa and the remaining ½ cup of broth and bring to a boil. Reduce the heat to medium low and simmer for about 15 minutes, or until the quinoa is tender. Fluff with a fork and allow to cool for 10 minutes before adding it to the large bowl with the farro.",
+        "In a small bowl, whisk together the olive oil, lime juice, vinegar, oregano, garlic powder, brown sugar blend, salt, black pepper, and red pepper flakes.",
+        "Toss the farro and quinoa in the large bowl to combine. Drizzle the olive oil mixture over the grains and toss again to combine."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "One Pot",
+        "Easy Pantry Recipes"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "28g",
+        "fiber": "5g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/red-quinoa-and-farro"
+}

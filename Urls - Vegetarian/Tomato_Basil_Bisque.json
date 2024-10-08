@@ -1,0 +1,95 @@
+{
+    "title": "Tomato Basil Bisque",
+    "keywords": "Dinner,Lunch,Sides,Soup,Vegetarian",
+    "prep_time": "PT20M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Sides",
+        "Soup",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1990-diabetic-Tomato-Basil-Bisque_KDBH-bookazine_012821.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "low sodium chicken or vegetable broth (divided use)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "leeks or 1/2 cup sliced onion (white part only, thinly sliced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "celery (diced)",
+            "us_amount": "1 stalks",
+            "metric_amount": "1 stalks"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "tomatoes",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "fresh basil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "fat-free half-and-half",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "In a large saucepan, stir together ½ cup broth, the leeks, celery, garlic, salt, and pepper. Bring to a simmer over medium-high heat. Reduce the heat and simmer, covered, for 5 minutes, or until the vegetables are tender. Remove from the heat. Let cool for 5 minutes.",
+        "In a food processor or blender (vent the blender lid), process the leek mixture for about 1 minute, or until smooth. Return the leek mixture to the pan. Keep warm over low heat (uncovered).",
+        "Fill a small saucepan half-full with cold water. Bring to a boil over high heat. Reduce the heat to medium high. Cut a small X on the bottom of each tomato so the skin will loosen more easily. Put 2 tomatoes in the saucepan. Simmer for 10 seconds, or until the peel starts to loosen from the flesh. Transfer to a cutting board. Repeat with the remaining tomatoes.Let the tomatoes cool for a few minutes, then remove the peel. Cut the tomatoes into four wedges each.",
+        "In a food processor or blender, process the tomatoes and the remaining ½ cup broth in batches until smooth, about 1 minute per batch. Before processing the last batch, add the basil.",
+        "Stir the tomato mixture into the leek mixture. Increase the heat to medium high and bring to a simmer. Reduce the heat and simmer, partially covered, for 8–10 minutes, stirring occasionally.",
+        "Stir in the half-and-half. Cook over low heat for 1–2 minutes, or until the soup is heated through, stirring occasionally. Serve warm or refrigerate in an airtight container until chilled."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Veggie Rich",
+        "Comfort Food",
+        "Italian",
+        "Dinner",
+        "Lunch",
+        "Sides",
+        "Soup",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "1g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "90mg",
+        "total_carbohydrate": "10g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tomato-basil-bisque"
+}

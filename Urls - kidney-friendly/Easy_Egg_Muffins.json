@@ -1,0 +1,89 @@
+{
+    "title": "Easy Egg Muffins",
+    "keywords": "Easy Pantry Recipes,Vegetarian,Gluten-Free,Breakfast and Brunch,Budget Friendly,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Vegetarian",
+        "Gluten-Free",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1944-diabetic-breakfast-easy-egg-spinach-muffins_DCME_AdobeStock211356942_040120.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "frozen spinach (thawed and moisture squeezed out)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "eggs (6 eggs plus 4 egg whites)",
+            "us_amount": "10 whole",
+            "metric_amount": "10 whole"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Parmesan cheese (grated)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350 degrees F. Spray each cup of a muffin pan with one spray of non-stick cooking spray.",
+        "Add 1 heaping tablespoon of the thawed spinach to the bottom of each muffin cup in the muffin tin.",
+        "In a medium bowl, whisk together the eggs, egg whites, yogurt, salt and pepper. Evenly divide the egg mixture among the 12 muffin cups. Top each egg muffin with 1 teaspoon of parmesan cheese.",
+        "Place in the oven and bake for 20-25 minutes or until the eggs are slightly firm to touch. Remove from the oven and set aside to cool for 5 minutes.",
+        "Remove from the muffins from the pan and serve or store in an airtight container in the refrigerator for up to one week, or freeze and store in a freezer bag for up to 3 months.",
+        "To reheat from the refrigerator, place the muffin uncovered on a plate in the microwave for 30 seconds. To reheat from frozen, place the muffin uncovered on a plate in the microwave for 1 minute."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Kid Friendly",
+        "Comfort Food",
+        "Easy Pantry Recipes",
+        "Vegetarian",
+        "Gluten-Free",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "3g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "140mg",
+        "total_carbohydrate": "1g",
+        "fiber": "1g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/easy-egg-muffins"
+}

@@ -1,0 +1,95 @@
+{
+    "title": "Mint Chocolate Chip Cookies",
+    "keywords": "Dessert",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Splenda_Recipes_MAR_779x590.jpg",
+    "servings": "39 Servings",
+    "ingredients": [
+        {
+            "name": "all-purpose flour",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "baking soda",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "baking powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "vegetable oil spread",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Splenda® Stevia Sweetener Jar",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "eggs (room temperature)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt (room temperature)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "sugar-free instant vanilla pudding mix (1-ounce box (28g))",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "peppermint extract",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "green food coloring",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "stevia-sweetened or sugar-free chocolate chips",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 375°F and prepare two large baking sheets with parchment paper.",
+        "In a small bowl, mix together flour, baking soda, and baking powder and set aside.",
+        "In a large bowl with an electric mixture, beat vegetable oil spread until light and fluffy. Slowly add Splenda Stevia Sweetener and beat until fluffy. Add egg and beat until incorporated and then add Greek yogurt, pudding mix, mint extract and green food coloring and mix well.",
+        "Scrape down the sides of the bowl as needed with a spatula. On slow speed, add the flour mixture into the pudding mixture and mix until well combined, but do not over-mix. Fold in the chocolate chips.",
+        "Using a 2-tablespoon cookie scoop, drop spoonfuls onto prepared baking sheet, 2 inches apart. Press down slightly as the cookies do not spread very much while baking (should be about ½\" thick).",
+        "Bake for 10 minutes or until just slightly browned on the edges. Cool on rack for 1 minute and then move to a wire cooling rack. Enjoy!"
+    ],
+    "tags": [
+        "Lower Carb",
+        "Kid Friendly",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "4.5g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "110mg",
+        "total_carbohydrate": "10g",
+        "fiber": "2g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mint-chocolate-chip-cookies"
+}

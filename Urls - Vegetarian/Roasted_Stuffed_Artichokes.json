@@ -1,0 +1,90 @@
+{
+    "title": "Roasted Stuffed Artichokes",
+    "keywords": "Foodie,Vegetarian,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Foodie",
+        "Vegetarian",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_458_Roasted_Stuffed_Artichokes_02282018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "water",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "fresh artichokes",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "whole wheat bread",
+            "us_amount": "2 slice",
+            "metric_amount": "2 slice"
+        },
+        {
+            "name": "garlic",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "Parmesan cheese (freshly grated)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "fresh parsley (chopped)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 375 degrees F.",
+        "Add water and lemon juice to a large pot and bring to a boil.",
+        "Peel off the first layer of the outer leaves of the artichoke and cut in half lengthwise. Scoop out the hairs in the center (the choke), leaving the flesh of the artichoke intact. Drop into the boiling water for 5 minutes.",
+        "Remove the artichokes from the boiling water and place cut side up in a baking dish.",
+        "Add the whole wheat bread, garlic, parmesan cheese, parsley, and ground black pepper to a food processor and blend until crumbs. Drizzle in the olive oil while blending to make the stuffing.",
+        "Divide the stuffing evenly among each artichoke half, pressing it in to the artichoke.",
+        "Place on the middle rack of the oven and bake for 30 minutes or until topping is golden brown."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Foodie",
+        "Vegetarian",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "125",
+        "total_fat": "5g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "185mg",
+        "total_carbohydrate": "16g",
+        "fiber": "8g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-stuffed-artichokes"
+}

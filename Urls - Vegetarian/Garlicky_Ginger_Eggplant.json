@@ -1,0 +1,95 @@
+{
+    "title": "Garlicky Ginger Eggplant",
+    "keywords": "Quick & Easy,Vegetarian,Vegan,Sides,Main Dish,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Quick & Easy",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2041-diabetic-Eggplant-Garlic-Ginger_DaVita_040821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "sesame oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Japanese eggplants (cut into 1-inch pieces)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "minced fresh ginger",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "chopped mushrooms",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fresh mung bean sprouts",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "fresh basil (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "hoisin sauce",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Heat sesame oil in a large skillet. Add eggplant, ginger, garlic, mushrooms and bean sprouts. Stir-fry over medium-high heat until eggplant begins to soften, 4-6 minutes.",
+        "Add basil, chili pepper flakes and hoisin sauce to eggplant. Continue cooking for 1-2 minutes.  Remove from heat and serve."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Veggie Rich",
+        "Lower Carb",
+        "Asian",
+        "Quick & Easy",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "80mg",
+        "total_carbohydrate": "6g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "1g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/garlicky-ginger-eggplant"
+}

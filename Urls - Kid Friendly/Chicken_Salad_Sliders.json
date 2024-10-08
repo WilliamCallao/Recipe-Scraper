@@ -1,0 +1,108 @@
+{
+    "title": "Chicken Salad Sliders",
+    "keywords": "Salad Dressings & Condiments,Lunch,Holidays & Entertaining,Dinner,Appetizers,Sandwiches",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salad Dressings & Condiments",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Dinner",
+        "Appetizers",
+        "Sandwiches"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1695-Chicken-Salad-Sliders_Diabetes-Superfoods-Cookbook_010219.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "cooked chicken (chopped)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "celery (finely diced)",
+            "us_amount": "1 stalks",
+            "metric_amount": "1 stalks"
+        },
+        {
+            "name": "red onion",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "dried cranberries",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "sliced almonds (unsalted)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "light mayonnaise",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "lemon (juiced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "fresh ground black pepper",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        },
+        {
+            "name": "whole-wheat slider buns",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "tomato(es) (cut into 6 slices)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        }
+    ],
+    "instructions": [
+        "Mix all ingredients except buns and tomato in a medium mixing bowl.",
+        "Serve 1/3 cup chicken salad on each slider bun topped with 1 tomato slice."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kid Friendly",
+        "Salad Dressings & Condiments",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Dinner",
+        "Appetizers",
+        "Sandwiches"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "9g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "340mg",
+        "total_carbohydrate": "28g",
+        "fiber": "4g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-salad-sliders"
+}

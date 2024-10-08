@@ -1,0 +1,93 @@
+{
+    "title": "Dijon and Horseradish Deviled Eggs",
+    "keywords": "Vegetarian,Appetizers,Foodie,Holidays & Entertaining,Snacks",
+    "prep_time": "PT10M",
+    "cook_time": "PT7M",
+    "categories": [
+        "Vegetarian",
+        "Appetizers",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1148-diabetic-deviled-eggs_AdobeStock237393241_040221.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "white vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "plain yogurt (nonfat)",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        },
+        {
+            "name": "light mayonnaise",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "fresh chives (minced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "horseradish",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "turmeric",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "paprika",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        }
+    ],
+    "instructions": [
+        "To prepare the eggs: Add the eggs to a saucepan that is large enough so they are not crowded. Add water to cover about 1 inch over the eggs. Cover the pot and bring to a boil. Once the water comes to a boil, about 6 to 7 minutes, remove the pot from the heat and set it on an unused burner. Add the vinegar to the water (to help in peeling the eggs). Let the eggs stand in the hot water for 20 to 30 minutes.",
+        "Prepare a large bowl of ice water. Using a slotted spoon, transfer the eggs to the ice water bath, letting them cool for 15 to 20 minutes. Gently remove each egg from the ice water, and gently tap its shell until it is cracked all over (but do not peel). Add the cracked eggs back to the ice water bath (prepare a new ice bath if necessary) for 10 minutes. Remove the eggs from the ice water, and gently roll them between your palms. The shells should slip off easily. Discard the shells.",
+        "Halve each egg and remove the yolks. Discard one yolk and add the remaining five to a bowl. Set the egg whites on a platter, with the cut sides up.",
+        "Mash the yolks with the yogurt, mayonnaise, chives, mustard, horseradish, turmeric, salt, and pepper. Spoon or pipe the egg yolk mixture back into the egg whites. Sprinkle lightly with paprika."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Comfort Food",
+        "Kid Friendly",
+        "Vegetarian",
+        "Appetizers",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "75",
+        "total_fat": "4g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "150mg",
+        "sodium": "135mg",
+        "total_carbohydrate": "3g",
+        "fiber": "0g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/dijon-and-horseradish-deviled-eggs"
+}

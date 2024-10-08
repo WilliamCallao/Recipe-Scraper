@@ -1,0 +1,73 @@
+{
+    "title": "Dark Chocolate Almond Nice Cream",
+    "keywords": "Dessert,Snacks",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Dessert",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2126_Dark%20Chocolate%20Almond%20Nice%20Cream%20-%20Original%20Photo.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "banana(s) (large size, cut into 1-inch chunks and frozen [heaping 2 cups frozen banana chunks])",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "unsweetened cocoa powder",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        },
+        {
+            "name": "Splenda® Granulated Sweetener",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pure vanilla extract",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "almond butter",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sliced almonds",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "In a food processor, pulse bananas, half of the cocoa powder, Splenda Sweetener, and salt until pea-sized chunks form. Add vanilla extract and the rest of the cocoa powder. Continue to pulse. Mixture will gather and form a frozen soft-serve ice-cream consistency. Drizzle in almond butter and pulse twice more.",
+        "Scoop into bowls and serve topped with almonds or stir in almonds. Place in a freezer-safe container and enjoy within 3 days.",
+        "Note: Toast almonds for a deeper, delicious flavor. Keep sliced bananas in a zip top bag in the freezer to have them ready on hand for making nice cream any time."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Dessert",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "40mg",
+        "total_carbohydrate": "23g",
+        "fiber": "5g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/dark-chocolate-almond-nice-cream"
+}

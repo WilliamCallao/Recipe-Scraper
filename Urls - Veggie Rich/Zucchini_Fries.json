@@ -1,0 +1,86 @@
+{
+    "title": "Zucchini Fries",
+    "keywords": "Vegetarian,Sides,Appetizers",
+    "prep_time": "PT5M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Aviva_Plate1_Dinner_1.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zucchini",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "egg whites",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "panko bread crumbs",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "cornmeal",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Parmesan cheese (grated)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "dried oregano",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "dried basil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "marinara",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        }
+    ],
+    "instructions": [
+        "Heat the oven to 425 F. Spray a large baking sheet with nonstick cooking spray. Cut the ends off of the zucchini and slice them in quarters lengthwise (so you have 8 long strips), then cut each strip into 3 shorter pieces.",
+        "Beat the egg whites in a shallow bowl until they are frothy. In another shallow bowl, combine the panko, cornmeal, cheese, oregano, and basil. Dip each zucchini strip into the egg whites, then into the panko mixture. Place the zucchini strips on the baking sheet, spray the tops with nonstick cooking spray, and bake for 20 minutes, flipping once, until they are browned. Serve with marinara sauce."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Kid Friendly",
+        "Italian",
+        "Vegetarian",
+        "Sides",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "97",
+        "total_fat": "3g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "1mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "15g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/zucchini-fries"
+}

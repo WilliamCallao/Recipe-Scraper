@@ -1,0 +1,96 @@
+{
+    "title": "Pan-Seared Scallops with Vegetable Ribbons",
+    "keywords": "Dinner,Gluten-Free,Main Dish,Vegetarian,Foodie",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Gluten-Free",
+        "Main Dish",
+        "Vegetarian",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1711-diabetic-Pan-Seared-Scallops-Vegetable-Ribbons_Diabetes-Superfoods-Cookbook_010719.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "medium zucchini (about 6 oz each)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "medium carrots",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "olive oil (divided use)",
+            "us_amount": "1 tbsp plus 1 tsp",
+            "metric_amount": "1 tbsp plus 1 tsp"
+        },
+        {
+            "name": "scallops*",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "shallot (thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "white wine",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "trans-fat-free margarine",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "fresh ground black pepper",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        },
+        {
+            "name": "freshly grated parmesan cheese",
+            "us_amount": "5 tbsp",
+            "metric_amount": "74 ml"
+        }
+    ],
+    "instructions": [
+        "Using a vegetable peeler, slice zucchini and carrots into thin \"ribbons\" and set aside. NOTE: If you have a spiralizer, you can use that to cut the zucchini into carrots.",
+        "In a large skillet, heat 1 tbsp olive oil over medium-high heat. Add scallops to pan and sear for 3-5 minutes; then flip and sear for another 2-3 minutes until cooked through and slightly browned on both sides. Remove from pan and set aside and cover to keep warm.",
+        "Lower heat to medium and add remaining 1 tsp olive oil to the pan. Add garlic and shallot and saute for 2 minutes.",
+        "Pour white wine in pan and scrape browned bits from the bottom of the pan to deglaze it. Let wine simmer for 3 minutes until reduced by half, then add margarine and pepper. Add vegetable ribbons to wine sauce to coat. Cover pan and allow vegetables to cook for 5 minutes.",
+        "To serve, place 1 cup of vegetables in a bowl with about 3 oz scallops; then top with 1 tbsp Parmesan cheese."
+    ],
+    "tags": [
+        "Seafood",
+        "Dinner",
+        "Gluten-Free",
+        "Main Dish",
+        "Vegetarian",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "7g",
+        "saturated_fat": "1.8g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "270mg",
+        "total_carbohydrate": "12g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "15g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pan-seared-scallops-vegetable-ribbons"
+}

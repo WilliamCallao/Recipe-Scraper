@@ -1,0 +1,85 @@
+{
+    "title": "Turkey Kebabs with Avocado & Tomato",
+    "keywords": "Dinner,Main Dish",
+    "prep_time": "PT20M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_888_Turkey%20Kebabs%20w%20Avocado%20and%20Tomato_StressFreeKitchen_022618.jpg",
+    "servings": "9 Servings",
+    "ingredients": [
+        {
+            "name": "Juice of 1 lime, plus additional juice for finishing",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sea salt (fine)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper (freshly ground)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "turkey tenderloin or turkey medallions (cut into 36, 1-inch cubes)",
+            "us_amount": "3/4 lbs",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "cherry tomatoes",
+            "us_amount": "9",
+            "metric_amount": "9"
+        },
+        {
+            "name": "avocado (ripe)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Mix together the lime juice, salt, pepper, olive oil, and garlic. Place this mixture and the turkey in a plastic bag and marinate in the fridge for at least 20 minutes.",
+        "Cut tomatoes in half vertically. Cut the avocado into 18 chunks.",
+        "Grill or broil the turkey. Set aside to cool.",
+        "Thread the kebabs as follows: 1 piece of turkey, 1 piece of tomato, 1 piece of turkey, and 1 piece of avocado",
+        "Squeeze lime over kebabs and serve with a drizzle of Mango Dipping Sauce, page 29 (optional)."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Comfort Food",
+        "Grilling",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "75",
+        "total_fat": "3g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/turkey-kebabs-avocado-tomato"
+}

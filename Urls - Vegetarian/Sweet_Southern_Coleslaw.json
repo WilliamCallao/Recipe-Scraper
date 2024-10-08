@@ -1,0 +1,111 @@
+{
+    "title": "Sweet Southern Coleslaw",
+    "keywords": "Salads,Vegetarian,Sides,Quick & Easy,No Cook,Holidays & Entertaining",
+    "prep_time": "PT1H",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "No Cook",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2056_diabetic-southern-ColeSlaw_Splenda_044721.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "light mayonnaise",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Apple Cider Vinegar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Splenda® Granulated Sweetener",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "fennel seeds",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        },
+        {
+            "name": "shredded cabbage",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "shredded carrots",
+            "us_amount": "1 (6-oz) bag",
+            "metric_amount": "1 (6-oz) bag"
+        },
+        {
+            "name": "diced red onion",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "yellow bell pepper (thinly sliced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "red bell pepper (thinly sliced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "radishes (thinly sliced)",
+            "us_amount": "5",
+            "metric_amount": "5"
+        }
+    ],
+    "instructions": [
+        "In a large serving bowl, combine the mayonnaise, vinegar, lemon juice, mustard, Splenda, and fennel seed; whisk until well combined. Add black pepper to taste.",
+        "Add the cabbage, carrots, red onion, bell peppers, and radishes to the bowl with the dressing; toss gently to coat with dressing. Refrigerate for 1 hour before serving for best flavor."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Salads",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "No Cook",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "10g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "1g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-southern-coleslaw"
+}

@@ -1,0 +1,86 @@
+{
+    "title": "No Mayo Egg Salad",
+    "keywords": "Quick & Easy,Lunch,Vegetarian,Snacks,Sandwiches,Salads,Easy Pantry Recipes",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Lunch",
+        "Vegetarian",
+        "Snacks",
+        "Sandwiches",
+        "Salads",
+        "Easy Pantry Recipes"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/377-no-mayo-egg-salad-DFH-MJ20.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "<a href=\"https://www.diabetesfoodhub.org/recipes/hard-boiled-egg.html\">hard-boiled eggs</a>",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "light creamy swiss cheese wedges",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "horseradish",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "arugula",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        }
+    ],
+    "instructions": [
+        "In a medium bowl, mash together egg whites, cheese wedges, mustard, horseradish, salt (optional) and ground black pepper using a potato masher or sturdy whisk. You can also use a food processor but take care not to over process the egg salad. Pulse until combined but still slightly chunky.",
+        "Serve 1/2 cup egg salad mixture on top of 1 cup arugula. You could also serve with arugula on toasted whole wheat bread for an open-face sandwich.",
+        "Crack and peel the hard-boiled eggs. Slice the eggs in half and discard the yolks."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Quick & Easy",
+        "Lunch",
+        "Vegetarian",
+        "Snacks",
+        "Sandwiches",
+        "Salads",
+        "Easy Pantry Recipes"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "2g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "440mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/no-mayo-egg-salad"
+}

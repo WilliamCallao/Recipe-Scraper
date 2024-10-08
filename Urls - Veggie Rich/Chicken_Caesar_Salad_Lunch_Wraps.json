@@ -1,0 +1,69 @@
+{
+    "title": "Chicken Caesar Salad Lunch Wraps",
+    "keywords": "Sandwiches,Dinner,Lunch,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sandwiches",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/160-diabetic-chicken-caesar-salad-lunch-wraps_Diabetes-Cookbook_DF_101818_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "cooked chicken (diced )",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "light Caesar salad dressing",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Parmesan cheese (freshly shredded)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "romaine lettuce (chopped)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "tortillas (10-inch, low-carb)",
+            "us_amount": "4 med",
+            "metric_amount": "4 med"
+        }
+    ],
+    "instructions": [
+        "In a medium bowl, mix together all the ingredients except for the tortillas. Coat the salad evenly with the dressing",
+        "Spread 1 heaping cup of the chicken salad mixture onto the tortilla. Fold the left and right sides of the wrap in until they touch and roll from the bottom to make a wrap.",
+        "Repeat procedure for remaining 3 wraps."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Italian",
+        "Sandwiches",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "9g",
+        "saturated_fat": "1.8g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "510mg",
+        "total_carbohydrate": "21g",
+        "fiber": "14g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-caesar-salad-lunch-wraps"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Herbed Bread Stuffing",
+    "keywords": "Vegetarian,Dinner,Holidays & Entertaining,Lunch,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Vegetarian",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1252-diabetic-thanksgiving-herbed-bread-stuffing_healthy-home-ckbk_AdobeStock228573933_102419.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "celery (sliced)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "onion (diced)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "apple (diced)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "salt-free poultry seasoning",
+            "us_amount": "1-2 tsp",
+            "metric_amount": "1-2 tsp"
+        },
+        {
+            "name": "low-sodium chicken or vegetable stock",
+            "us_amount": "4 cups",
+            "metric_amount": "4 cups"
+        },
+        {
+            "name": "unseasoned stuffing cubes",
+            "us_amount": "1 package",
+            "metric_amount": "1 package"
+        },
+        {
+            "name": "chopped fresh herbs, such as parsley, thyme, sage, or chives",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Place olive oil in large sauté pan. Add celery and onion and sauté until softened, approximately 3-5 minutes. Add apple and poultry seasoning. Toss well. Add stock and simmer 2-3 minutes. Add bread cubes and fresh herbs and toss well. Set aside to cool before stuffing poultry or pork.",
+        "Place in an ovenproof casserole. Bake for 30 minutes. If you want crispy stuffing, bake uncovered. For softer stuffing, cover with foil."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Kid Friendly",
+        "Vegetarian",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "280mg",
+        "total_carbohydrate": "27g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/herbed-bread-stuffing"
+}

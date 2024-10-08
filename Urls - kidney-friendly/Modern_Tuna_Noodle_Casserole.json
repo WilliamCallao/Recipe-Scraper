@@ -1,0 +1,114 @@
+{
+    "title": "Modern Tuna Noodle Casserole",
+    "keywords": "Holidays & Entertaining,Sides,Dinner,Foodie",
+    "prep_time": "PT5M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Sides",
+        "Dinner",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/371-Tuna-Casserole-Diabetic_177139227_041018.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "whole grain penne, shells, or farfalle pasta",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "white (button) mushrooms (sliced)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "small onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "baby spinach",
+            "us_amount": "5 oz",
+            "metric_amount": "142 ml"
+        },
+        {
+            "name": "salt-free all-purpose seasoning",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "flour",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "skim milk",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "tuna packed in water (drained)",
+            "us_amount": "5 oz",
+            "metric_amount": "142 ml"
+        },
+        {
+            "name": "Parmesan cheese (shredded)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 375 degrees F. Coat a 9x13-inch baking dish with cooking spray. Set aside.",
+        "Cook the pasta according to the package directions minus two minutes (the pasta should be slightly undercooked).",
+        "While the pasta is cooking, add the olive oil to a large sauté pan over medium-high heat. Add the onion and mushrooms and sauté until the onions turn clear, about 5 minutes.",
+        "Add the spinach and no-salt seasoning and sauté until the spinach is wilted and soft, about 3 more minutes.",
+        "In a small bowl, whisk together the flour, milk, salt and ground black pepper until all the flour lumps are mixed in. Pour over the vegetables and bring to a boil. Stir in the tuna and pasta and pour into the prepared baking pan.",
+        "Sprinkle the parmesan cheese on top of the casserole and bake for 15 minutes."
+    ],
+    "tags": [
+        "High in Fiber",
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Seafood",
+        "Holidays & Entertaining",
+        "Sides",
+        "Dinner",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "4g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "300mg",
+        "total_carbohydrate": "42g",
+        "fiber": "6g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/modern-tuna-noodle-casserole"
+}

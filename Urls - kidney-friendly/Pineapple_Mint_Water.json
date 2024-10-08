@@ -1,0 +1,51 @@
+{
+    "title": "Pineapple Mint Water",
+    "keywords": "Beverages",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Beverages"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2037-diabetic-Pineapple-Mint-Water_DaVita_040821.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "fresh mint leaves",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "cubed pineapple",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "10 cups (80 oz)",
+            "metric_amount": "10 cups (80 oz)"
+        }
+    ],
+    "instructions": [
+        "Lightly crush the mint leaves in your hand to help release their flavor. Add the mint, pineapple, and water to a pitcher. Refrigerate overnight before serving to fully infuse the flavors."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Beverages"
+    ],
+    "nutrition": {
+        "calories": "10",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "10mg",
+        "total_carbohydrate": "2g",
+        "fiber": "0g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pineapple-mint-water"
+}

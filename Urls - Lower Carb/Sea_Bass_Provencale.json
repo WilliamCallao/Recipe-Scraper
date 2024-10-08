@@ -1,0 +1,115 @@
+{
+    "title": "Sea Bass Provencale",
+    "keywords": "Dinner,Foodie,Holidays & Entertaining,Lunch,Main Dish,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/sea-bass-provencale-Nov16.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "fresh basil (sliced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "capers",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "black olives",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "tomato paste",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "diced tomatoes",
+            "us_amount": "15 oz",
+            "metric_amount": "425 ml"
+        },
+        {
+            "name": "garlic (thinly sliced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "red bell pepper (thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "onion(s) (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sea bass",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        }
+    ],
+    "instructions": [
+        "Sprinkle the fillets with salt and pepper. In a large nonstick skillet, heat the olive oil over medium-high heat. Add the fillets and sear each side for about 4 minutes, or until cooked through. Remove the fish from the skillet and place on a plate. Cover loosely to keep warm.",
+        "Add the onion and red pepper to the skillet and sauté for 5 minutes, until softened. Add the garlic and sauté for 1 minute. Add the undrained tomatoes, tomato paste, and red pepper flakes and bring to boiling. Lower the heat to simmer and cook for 5 to 8 minutes, until the sauce is thickened. Add the olives and capers and cook for 1 minute.",
+        "Serve the sea bass with the sauce, finishing with a sprinkle of basil."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "French",
+        "Seafood",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "4g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "340mg",
+        "total_carbohydrate": "7g",
+        "fiber": "1g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sea-bass-provencale"
+}

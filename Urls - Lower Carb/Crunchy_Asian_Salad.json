@@ -1,0 +1,102 @@
+{
+    "title": "Crunchy Asian Salad",
+    "keywords": "Salad Dressings & Condiments,Salads,Vegetarian,Vegan,Sides,Lunch",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Salad Dressings & Condiments",
+        "Salads",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/3470_Crunchy%20Asian%20Salad.jpg",
+    "servings": "7 Servings",
+    "ingredients": [
+        {
+            "name": "purple cabbage (shredded)",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "carrots (shredded)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "bell peppers (roughly chopped)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "green onion (scallion) (thinly sliced)",
+            "us_amount": "5 stalks",
+            "metric_amount": "5 stalks"
+        },
+        {
+            "name": "sliced almonds (toasted)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "rice wine vinegar (for the dressing)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "unsweetened creamy peanut butter (for the dressing)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Splenda® Monk Fruit Granulated Sweetener (for the dressing)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "garlic (grated, for the dressing)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "sesame oil (for the dressing)",
+            "us_amount": "1/2 tbsp",
+            "metric_amount": "7 ml"
+        },
+        {
+            "name": "fresh ginger (grated, for the dressing)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "In a large bowl, add cabbage, carrots, bell pepper, green onions, and toasted almonds.",
+        "In a small saucepan, add all ingredients for the dressing. Stir together and add 1 tablespoon water. Heat on low just until warmed. Let dressing cool slightly, then pour dressing over salad and toss. Serve and enjoy!"
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Asian",
+        "Salad Dressings & Condiments",
+        "Salads",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "7g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "100mg",
+        "total_carbohydrate": "10g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crunchy-asian-salad"
+}

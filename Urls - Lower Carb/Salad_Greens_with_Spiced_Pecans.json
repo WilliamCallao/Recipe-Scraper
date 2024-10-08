@@ -1,0 +1,96 @@
+{
+    "title": "Salad Greens with Spiced Pecans",
+    "keywords": "Lunch,Vegetarian,Sides,Quick & Easy,Salads",
+    "prep_time": "PT10M",
+    "cook_time": "PT7M",
+    "categories": [
+        "Lunch",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "Salads"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/469-diabetic-salad-greens-spiced-pecans-goat-cheese_AdobeStock259231178_012221.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pecan halves",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "margarine (trans-fat-free)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "low-calorie brown sugar substitute",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cumin",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Pinch of cayenne pepper (optional)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "spring mix or baby spinach",
+            "us_amount": "1 (10-oz) bag",
+            "metric_amount": "1 (10-oz) bag"
+        },
+        {
+            "name": "goat cheese (crumbled)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "light Raspberry Walnut Vinaigrette salad dressing ((such as Ken’s Steak House))",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "To prepare pecans: Heat the pecans in a dry skillet over medium heat. Stir frequently, until they begin to toast, about 4 minutes. Add the margarine and cook, stirring, until the nuts begin to darken, about 1 minute. Add Splenda brown sugar blend, water, cumin, cinnamon and cayenne pepper. Stir until the sauce thickens and the nuts are glazed, about 1-2 minutes.",
+        "Remove from heat and place pecans on waxed paper. Separate pecans with a fork and let cool.",
+        "In a salad bowl mix together lettuce, goat cheese and pecans. Add dressing and toss to coat."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Lunch",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "13g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "13mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "11g",
+        "fiber": "2g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/salad-greens-spiced-pecans"
+}

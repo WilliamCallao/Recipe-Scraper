@@ -1,0 +1,80 @@
+{
+    "title": "Japanese Cucumber Salad",
+    "keywords": "Gluten-Free,Foodie,Vegetarian,Sides,Salads,Cooking for 1 or 2",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Gluten-Free",
+        "Foodie",
+        "Vegetarian",
+        "Sides",
+        "Salads",
+        "Cooking for 1 or 2"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/328-JapaneseCucumberDiabetic_461872121_050318.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "medium cucumber",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "rice vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "honey or 1/2 packet artificial sweetener",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sesame seeds (toasted)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Peel the cucumbers to leave alternating green stripes. Slice the cucumbers in half lengthwise and scrape the seeds out with a spoon.",
+        "Using a mandolin, food processor, or knife, slice the cucumber into very thin slices.",
+        "In a medium bowl, whisk together the vinegar, canola oil, Splenda or Stevia, and salt (optional).",
+        "Toss the cucumbers and sesame seeds in the dressing and serve."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Asian",
+        "Gluten-Free",
+        "Foodie",
+        "Vegetarian",
+        "Sides",
+        "Salads",
+        "Cooking for 1 or 2"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "9g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "290mg",
+        "total_carbohydrate": "8g",
+        "fiber": "1g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/japanese-cucumber-salad"
+}

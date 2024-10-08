@@ -1,0 +1,88 @@
+{
+    "title": "Butternut Squash and Kale Soup",
+    "keywords": "Soup,Lunch,Budget Friendly,Vegan,Vegetarian,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Soup",
+        "Lunch",
+        "Budget Friendly",
+        "Vegan",
+        "Vegetarian",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1694-diabetic-Butternut-Squash-Kale-soup_Diabetes-Superfoods-Cookbook_010219.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "large sweet onion (cut into wedges)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cubed butternut squash (about 3/4-inch cubes)",
+            "us_amount": "4 cups",
+            "metric_amount": "4 cups"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "fresh ground black pepper",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        },
+        {
+            "name": "dried thyme",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "low sodium chicken broth",
+            "us_amount": "1 (14.5 oz) can",
+            "metric_amount": "1 (14.5 oz) can"
+        },
+        {
+            "name": "water",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "chopped kale",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 425 degrees F.",
+        "Line a large baking pan with aluminum foil and spread onion and squash over foil in a single layer. Drizzle vegetables with olive oil and toss lightly to coat; then season with pepper and thyme. Place in oven and bake for 30-35 minutes, or until vegetables are cooked through and starting to brown. Note: take vegetables out at least one during cooking to stir.",
+        "Combine roasted vegetables, chicken broth and water in a large saucepan and use an immersion blender to blend ingredients together until smooth.",
+        "Heat blended soup over medium heat until heated through, then stir in kale and cook until wilted, about 3 minutes."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Soup",
+        "Lunch",
+        "Budget Friendly",
+        "Vegan",
+        "Vegetarian",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "75mg",
+        "total_carbohydrate": "24g",
+        "fiber": "4g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/butternut-squash-and-kale-soup"
+}

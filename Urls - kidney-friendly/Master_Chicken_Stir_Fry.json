@@ -1,0 +1,111 @@
+{
+    "title": "Master Chicken Stir Fry",
+    "keywords": "Dinner,Quick & Easy,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Dinner",
+        "Quick & Easy",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_766_MasterStirFryChickenStirFry_PerfectComfortCollection_022618.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "boneless, skinless chicken breasts (cut into 1/2-inch × 1-inch strips)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "lower sodium soy sauce (divided use)",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "rice vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Cornstarch (divided use)",
+            "us_amount": "1 tbsp plus 2 tsp",
+            "metric_amount": "1 tbsp plus 2 tsp"
+        },
+        {
+            "name": "low sodium chicken broth (divided use)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "hoisin sauce",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sriracha or garlic chili paste",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "vegetable oil (divided use. )",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "fresh ginger (peeled, grated)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "red bell pepper (cored, seeded, and thinly sliced)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "celery (thinly sliced)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "broccoli florets",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "In a medium-sized bowl, combine the chicken with 1 tbsp of the soy sauce, rice vinegar, and 2 tsp of the cornstarch. Set aside to marinate at room temperature for 15 minutes.",
+        "In another bowl, combine the remaining 1/2 tbsp soy, the remaining 1 tbsp cornstarch, 3/4 cup of the chicken broth, hoisin sauce, and sriracha. Set aside.",
+        "Heat half the vegetable oil in a large wok over high heat. When hot, turn the heat to medium high and add the chicken. Stir fry for 5 minutes or until the chicken is cooked through. (You do not need to continuously stir the chicken as you want the chicken to develop a crust and sear.) Remove the chicken from the wok to a plate and set aside.",
+        "Add the remaining oil to the wok. Add in the garlic and ginger and stir fry for 30 seconds. Add the red pepper, celery, and broccoli and stir fry for 30 seconds. Add the remaining chicken broth, cover, and steam 3 minutes.",
+        "Add the chicken and stir fry for 1 minute. Add in the sauce and cook for 1 minute, coating the chicken and vegetables with the sauce. Serve immediately."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Comfort Food",
+        "Kid Friendly",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Quick & Easy",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "5g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "55mg",
+        "sodium": "390mg",
+        "total_carbohydrate": "10g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/master-chicken-stir-fry"
+}

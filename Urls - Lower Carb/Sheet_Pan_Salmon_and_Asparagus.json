@@ -1,0 +1,88 @@
+{
+    "title": "Sheet Pan Salmon and Asparagus",
+    "keywords": "Quick & Easy,One Pot,Main Dish,Lunch,Gluten-Free,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Quick & Easy",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2022-diabetic-one-pan-salmon-asparagus_diabetes-cookbook_082418_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "medium onion (thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "skinless salmon fillets",
+            "us_amount": "4 (4-oz) fillets",
+            "metric_amount": "4 (4-oz) fillets"
+        },
+        {
+            "name": "asparagus (ends trimmed)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "coarse Dijon mustard",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "honey",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 400°F.",
+        "Coat a baking sheet with cooking spray. Place the sliced onion in the middle of the baking sheet. Place the salmon fillets on top of the onion slices, and place the asparagus around the salmon.",
+        "In a small bowl, whisk together the mustard, olive oil, honey, and pepper. Spread the mustard mixture on top of the salmon fillets and drizzle any extra on the asparagus.",
+        "Bake 20 minutes. Serve each salmon fillet with the asparagus on the side and the onions on top of the salmon."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Quick & Easy",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "13g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "440mg",
+        "total_carbohydrate": "12g",
+        "fiber": "3g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sheet-pan-salmon-and-asparagus"
+}

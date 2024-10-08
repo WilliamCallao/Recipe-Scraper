@@ -1,0 +1,78 @@
+{
+    "title": "Sweet Potato Fries",
+    "keywords": "Quick & Easy,Sides,Vegan,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT24M",
+    "categories": [
+        "Quick & Easy",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/sweet-potato-fries.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "sweet potatoes (washed, cut into 1/4-inch thin matchsticks)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "Cornstarch",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "smoked paprika",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper (freshly cracked)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt (sea, or more to taste)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 425°F. Line a sheet tray with parchment paper or a silicone mat.",
+        "Rinse the sweet potatoes under cold running water until the water runs clear. Drain on paper towels and pat dry. Do your best to thoroughly dry all of the sweet potatoes then transfer to a large mixing bowl.",
+        "In a separate small bowl, whisk together the cornstarch, garlic powder, smoked paprika, black pepper, and salt. Drizzle the olive oil over the potatoes and toss to combine. Sprinkle the cornstarch mixture over the potatoes and toss until evenly coated. Transfer to the sheet tray and arrange the potatoes into a single layer, spacing them out as best as possible. If needed, use a second tray (this will give you crispier fries).",
+        "Bake for 12 minutes. Use a spatula to flip the potatoes",
+        "Taste and adjust seasoning as needed. Serve hot."
+    ],
+    "tags": [
+        "Quick & Easy",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "25g",
+        "fiber": "4g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-potato-fries-0"
+}

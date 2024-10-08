@@ -1,0 +1,123 @@
+{
+    "title": "Egg and Veggie Casserole",
+    "keywords": "Breakfast and Brunch,Holidays & Entertaining,Vegetarian,Gluten-Free,Lunch,Main Dish",
+    "prep_time": "Desconocido",
+    "cook_time": "PT55M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Holidays & Entertaining",
+        "Vegetarian",
+        "Gluten-Free",
+        "Lunch",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/032-diabetic-egg-veggie-casserole_Thinkstock-465601324_110818_1021x779.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "small onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "medium zucchini (sliced very thin)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "large tomatoes (ripe, seeded and chopped)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "spinach leaves (chopped)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "fresh basil (chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fresh parsley (chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fresh rosemary (chopped)",
+            "us_amount": "1 sprig",
+            "metric_amount": "1 sprig"
+        },
+        {
+            "name": "egg whites",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "fresh mozzarella (cut into cubes)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "ground pepper, to taste (fresh )",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Dash kosher salt",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350°F.",
+        "Prep a large casserole dish with nonstick cooking spray.",
+        "Heat olive oil in heavy frying pan and add garlic and onion. Cook until onion is soft, stirring constantly.",
+        "Add the zucchini and sauté for another 1–2 minutes.",
+        "Add the chopped tomatoes and the spinach leaves, cooking for 2 minutes, then add the basil, parsley, and rosemary. Continue cooking until the herbs and spinach are wilted.",
+        "Combine egg whites, cooked vegetables, and the cheese in a bowl. Add salt and pepper if desired.",
+        "Pour the mixture into the casserole and bake for 40–45 minutes, or until the frittata is set. Let cool, then cut into 8 equal sized slices."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Breakfast and Brunch",
+        "Holidays & Entertaining",
+        "Vegetarian",
+        "Gluten-Free",
+        "Lunch",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "6g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "185mg",
+        "total_carbohydrate": "7g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/egg-and-veggie-casserole"
+}

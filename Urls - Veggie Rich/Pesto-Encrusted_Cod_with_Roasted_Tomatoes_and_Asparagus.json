@@ -1,0 +1,83 @@
+{
+    "title": "Pesto-Encrusted Cod with Roasted Tomatoes and Asparagus",
+    "keywords": "Dinner,Gluten-Free",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/29main_PestoEncrustedCodwithRoastedTomatoesandAsparagus.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pesto sauce",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "olive oil (divided)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lemon zest",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Kosher Salt (divided)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper (divided)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "cod filets (3 ounces each)",
+            "us_amount": "4 whole",
+            "metric_amount": "4 whole"
+        },
+        {
+            "name": "cherry tomatoes (halved)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "asparagus (trimmed)",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400°F (200°C). Line a sheet pan with parchment paper.",
+        "In a small bowl, mix basil pesto, 1 tablespoon olive oil, ½ the lemon zest, 1/4 teaspoon kosher salt, and 1/4 teaspoon black pepper.",
+        "Place cod filets on the sheet pan. Spread a generous layer of the pesto mixture over each filet.",
+        "Toss cherry tomatoes and asparagus with the remaining tablespoon of olive oil, the rest of the lemon zest, 1/4 teaspoon kosher salt, and 1/4 teaspoon pepper and arrange around the coated cod on the baking sheet.",
+        "Roast in the preheated oven for approximately 20 minutes or until the cod reaches an internal temperature of 145°F (63°C) and flakes easily with a fork."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Italian",
+        "Mediterranean",
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "214",
+        "total_fat": "11g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "39mg",
+        "sodium": "615mg",
+        "total_carbohydrate": "10g",
+        "fiber": "4g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pesto-encrusted-cod-roasted-tomatoes-and-asparagus"
+}

@@ -1,0 +1,102 @@
+{
+    "title": "Mini Baked Crab Cakes",
+    "keywords": "Sides,Foodie,Lunch,Dinner,Appetizers",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Sides",
+        "Foodie",
+        "Lunch",
+        "Dinner",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/361-mini-baked-crab-cakes_AdobeStock55995367_012521.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "whole wheat bread",
+            "us_amount": "1 slice",
+            "metric_amount": "1 slice"
+        },
+        {
+            "name": "egg whites",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "hot pepper sauce",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "green onion (scallion) (minced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "fancy white (or lump) crab meat) (drained)",
+            "us_amount": "2 (6-oz) cans",
+            "metric_amount": "2 (6-oz) cans"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lower sodium soy sauce",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Thai style chili garlic sauce",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "no-sugar-added apricot preserves",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 425 degrees. Coat a baking sheet with cooking spray.",
+        "In a medium bowl, crumble the piece of whole wheat bread into small (pea sized) pieces. Add the egg whites, hot pepper sauce, scallions, salt and pepper and mix well until bread is softened, then fold in the crab meat.",
+        "Portion 10 patties onto the baking sheet. Spray the patties liberally with cooking spray and bake on the top rack of the oven for 5 minutes. Flip the patties with the spatula and spray again with the cooking spray. Bake for an additional 5 minutes.",
+        "Remove from the oven and let the crab cakes rest for 5 minutes before serving.",
+        "While the crab cakes cool, prepare the dipping sauce: combine apricot preserves, chili garlic sauce, and soy sauce in a small bowl."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Sides",
+        "Foodie",
+        "Lunch",
+        "Dinner",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "1.5g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "450mg",
+        "total_carbohydrate": "14g",
+        "fiber": "1g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mini-baked-crab-cakes"
+}

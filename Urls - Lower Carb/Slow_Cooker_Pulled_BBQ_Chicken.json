@@ -1,0 +1,99 @@
+{
+    "title": "Slow Cooker Pulled BBQ Chicken",
+    "keywords": "Dinner,Slow Cooker,Lunch,Foodie",
+    "prep_time": "PT15M",
+    "cook_time": "PT6H",
+    "categories": [
+        "Dinner",
+        "Slow Cooker",
+        "Lunch",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/495-diabetic-slow-cooker-bbq-chicken_AdobeStock_157498387_022521.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "paprika",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "whole chicken (skin removed, cut into 8 pieces)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "medium onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "reduced carb or reduced sugar barbeque sauce",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "large lettuce leaves",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "cabbage (shredded)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "Combine paprika, chili powder, ground black pepper, garlic powder, and salt (optional) in a bowl. Add chicken pieces and toss to completely coat chicken.",
+        "Add chicken and onion to a slow cooker and set to low for 5-6 hours.",
+        "Remove chicken from slow cooker and set on a cutting board or in a bowl to rest for 15 minutes. Take any remaining liquid and onions from slow cooker and mix with the barbeque sauce, set aside.",
+        "Pull chicken and shred with a fork. Discard bones.",
+        "Mix pulled chicken with barbeque sauce and onion mixture.",
+        "To build the sandwich, add a heaping 1/2 cup of chicken to a lettuce leaf and top with 1/4 cup shredded cabbage."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Slow Cooker",
+        "Lunch",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "6g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "450mg",
+        "total_carbohydrate": "9g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/slow-cooker-pulled-bbq-chicken"
+}

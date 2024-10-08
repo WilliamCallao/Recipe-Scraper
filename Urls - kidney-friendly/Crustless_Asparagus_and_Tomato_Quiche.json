@@ -1,0 +1,101 @@
+{
+    "title": "Crustless Asparagus and Tomato Quiche",
+    "keywords": "Breakfast and Brunch,Main Dish,Quick & Easy,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1984-diabetic-breakfast-Asparagus-tomato-Quiche_KDBH-bookazine_012821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "asparagus (trimmed and cut diagonally into 2-inch pieces)",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "green onions (chopped)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "grape or cherry tomatoes (halved)",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "skim milk",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "egg whites",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "fresh thyme (or 1/2 tsp dried thyme)",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cheddar cheese (shredded, reduced-fat)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350°F. Lightly spray a 9-inch glass pie pan with cooking spray.",
+        "In a medium nonstick skillet, heat the oil over medium heat, swirling to coat the bottom. Cook the asparagus and green onions for 4–5 minutes, or until soft. Arrange the asparagus mixture and the tomatoes in the pie pan.",
+        "In a medium bowl, whisk together the remaining ingredients except the cheese. Pour the mixture over the vegetables. Sprinkle with the cheese.",
+        "Bake for 30–35 minutes, or until a knife inserted in the center comes out clean. Let the quiche cool for about 10 minutes before slicing into 4 equal slices."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Lower Carb",
+        "Breakfast and Brunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "5g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "100mg",
+        "sodium": "280mg",
+        "total_carbohydrate": "10g",
+        "fiber": "3g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "15g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crustless-asparagus-and-tomato-quiche"
+}

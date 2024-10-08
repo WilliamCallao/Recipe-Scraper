@@ -1,0 +1,121 @@
+{
+    "title": "Roasted Root Vegetable Soup",
+    "keywords": "Lunch,Foodie,Vegetarian,Sides",
+    "prep_time": "PT20M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Lunch",
+        "Foodie",
+        "Vegetarian",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/457-diabetic-roasted-root-vegetable-soup_Diabetes-Cookbook_DF_101818_1021x779.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "butternut squash (peeled, seeded and cut into 1-inch chunks)",
+            "us_amount": "1 small (about 1 pound",
+            "metric_amount": "1 small (about 1 pound"
+        },
+        {
+            "name": "small turnips (peeled and cut into 1 inch chunks)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "parsnips (peeled and cut into 1 inch chunks)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "carrots (peeled and cut into 1 inch chunks)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "large onion (peeled and diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "celery stalks (diced)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "small head green cabbage (chopped)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "garlic (chopped)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Herbs de Provence",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "low sodium vegetable broth",
+            "us_amount": "2 quarts",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "sherry vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Preheat an oven to 400 degrees F. Coat a large baking sheet (or two medium sized) with cooking spray. Set aside.",
+        "In a large bowl, toss all of the vegetables, including the garlic, with the olive oil, and Herbs de Provence. Pour onto prepared baking sheet(s) and roast for 45 minutes or until cooked through and starting to brown.",
+        "After vegetables are done roasting, pour them into a large soup pot. Mix with the Vegetable broth and bring to a boil. Reduce to a simmer for 10 minutes.",
+        "Puree the soup with an immersion blender or in batches in an upright blender.",
+        "Season the soup with Sherry vinegar, salt and pepper."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Low Sodium",
+        "Veggie Rich",
+        "Lunch",
+        "Foodie",
+        "Vegetarian",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "2g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "18g",
+        "fiber": "6g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-root-vegetable-soup"
+}

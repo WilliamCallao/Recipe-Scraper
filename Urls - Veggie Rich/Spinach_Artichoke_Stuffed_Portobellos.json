@@ -1,0 +1,90 @@
+{
+    "title": "Spinach Artichoke Stuffed Portobellos",
+    "keywords": "Vegetarian,Main Dish,Holidays & Entertaining,Appetizers",
+    "prep_time": "PT10M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Vegetarian",
+        "Main Dish",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recipe%20Size%20%282%29_1.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Portobello mushrooms (stems removed and gills scraped out)",
+            "us_amount": "8 large",
+            "metric_amount": "8 large"
+        },
+        {
+            "name": "Extra Virgin Olive Oil (divided)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "yellow onion (small diced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "frozen spinach (thawed, drained, and squeezed)",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "jarred artichoke hearts in brine (drained)",
+            "us_amount": "4 oz or 1/2 cup",
+            "metric_amount": "4 oz or 1/2 cup"
+        },
+        {
+            "name": "fat free cream cheese",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "mozzarella cheese (shredded)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        }
+    ],
+    "instructions": [
+        "Once the mushrooms are soft, remove from the oven and spoon the filling into the mushrooms. Top with shredded cheese. Bake for another 10 minutes, until the cheese is melted.",
+        "Stir in spinach, artichokes, cream cheese, and broth or water until the spinach is creamy and smooth.",
+        "Meanwhile, heat a large skillet over medium heat. Add remaining oil, garlic, and onion. Cook, stirring occasionally, until onion softens, 3–4 minutes.",
+        "Place mushrooms in the oven and bake for 10 minutes.",
+        "Preheat the oven to 400 degrees F and line a baking sheet with foil. Place mushrooms stem side down and brush with 1 tablespoon of oil."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Veggie Rich",
+        "Vegetarian",
+        "Main Dish",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "12g",
+        "saturated_fat": "3.9g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "420mg",
+        "total_carbohydrate": "16g",
+        "fiber": "4g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spinach-artichoke-stuffed-portobellos"
+}

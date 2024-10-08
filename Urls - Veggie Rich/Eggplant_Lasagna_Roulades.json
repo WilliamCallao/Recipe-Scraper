@@ -1,0 +1,96 @@
+{
+    "title": "Eggplant Lasagna Roulades",
+    "keywords": "Vegetarian,Foodie,Quick & Easy,Main Dish,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT37M",
+    "categories": [
+        "Vegetarian",
+        "Foodie",
+        "Quick & Easy",
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/ThinkstockPhotos-136648418.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "Nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "eggplant",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "ricotta cheese (fat-free)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "egg whites",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Italian seasoning (dried)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "marinara sauce (24.5-ounce jar, light in sodium)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Parmesan cheese (shredded)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 375° F. Coat an 8x11-inch glass baking dish with cooking spray. Set aside.",
+        "Peel eggplant and slice lengthwise into 10 slices. Lay in a microwave-safe dish and add 1 cup of water. Microwave the eggplant for 7 minutes. Remove the eggplant from the pan and set aside to cool.",
+        "In a small mixing bowl, mix together the ricotta cheese, egg whites, garlic and dried Italian seasoning.",
+        "Pour 1 cup of the marinara sauce into the prepared baking dish. Spread to coat the bottom.",
+        "Spoon a scant 1/4 cup of ricotta filling onto one end of an eggplant slice. Roll gently to make a roulade. Place the roulade seam side down in the pan. Repeat for remaining 9 slices of eggplant.",
+        "Pour remaining marinara sauce over the top of the eggplant and spread to coat.",
+        "Sprinkle the shredded Parmesan cheese over the top and bake for 30 minutes."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Italian",
+        "Comfort Food",
+        "Vegetarian",
+        "Foodie",
+        "Quick & Easy",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "6g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "35mg",
+        "sodium": "470mg",
+        "total_carbohydrate": "29g",
+        "fiber": "6g",
+        "sugar": "14g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/eggplant-lasagna-roulades"
+}

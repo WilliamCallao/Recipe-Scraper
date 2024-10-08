@@ -1,0 +1,69 @@
+{
+    "title": "Buffalo Chicken Dip",
+    "keywords": "Appetizers,Holidays & Entertaining,Snacks",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2048-diabetic-buffalo-Chicken-Dip_DaVita_040821.jpg",
+    "servings": "16 Servings",
+    "ingredients": [
+        {
+            "name": "roasted red peppers (drained)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cream cheese (softened)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "reduced-fat sour cream",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "hot sauce",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "cooked shredded chicken",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "Puree drained red peppers in a blender or food processor to make red pepper sauce.",
+        "In a medium bowl mix cream cheese and sour cream together until smooth. Add pureed peppers and 2 teaspoons of Tabasco sauce. Stir until combined. Add the chicken and gently mix. Taste and add additional hot sauce if desired.",
+        "Place mixture in a slow cooker for 2 to 3 hours on low heat, or bake in the oven at 350° F for 30 minutes.",
+        "Serve warm dip with carrots, celery, cucumber, cauliflower for dipping, or make mini roll-ups by wrapping dip inside lettuce or cabbage leaves."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "85",
+        "total_fat": "6g",
+        "saturated_fat": "3g",
+        "trans_fat": "0.1g",
+        "cholesterol": "30mg",
+        "sodium": "110mg",
+        "total_carbohydrate": "2g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/buffalo-chicken-dip"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Chopped Black Bean Chicken Salad",
+    "keywords": "Main Dish,Salads,Lunch,Dinner,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Main Dish",
+        "Salads",
+        "Lunch",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_178_Chopped_Black_Bean_Chicken_Salad_iStock-184939459_02282018.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "romaine lettuce (chopped)",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "green onions (chopped)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "frozen corn (thawed)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "canned black beans (rinsed and drained)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "goat cheese (chevre) (crumbled)",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "cooked chicken breast (diced)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "black bean tortilla chips (crushed)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Orange Citrus Bottled Dressing (Such as Litehouse or dressing of your choice)",
+            "us_amount": "10 tbsp",
+            "metric_amount": "148 ml"
+        }
+    ],
+    "instructions": [
+        "In a large salad bowl, add all of the ingredients, except salad dressing, and toss.",
+        "Add the salad dressing and toss to coat well. Divide evenly among 5 bowls."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Main Dish",
+        "Salads",
+        "Lunch",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "235",
+        "total_fat": "4.5g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "310mg",
+        "total_carbohydrate": "27g",
+        "fiber": "4g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chopped-black-bean-chicken-salad"
+}

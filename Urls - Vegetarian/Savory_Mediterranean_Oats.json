@@ -1,0 +1,86 @@
+{
+    "title": "Savory Mediterranean Oats",
+    "keywords": "Quick & Easy,Vegetarian,Breakfast and Brunch",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Vegetarian",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/481-diabetic-breakfast-Savory-Mediterranean-Oats_With-or-without-meat_071019.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "low sodium vegetable broth (low-sodium)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "large sun-dried tomato (halves, not oil-packed, thinly sliced (do not rehydrate))",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Pinch sea salt, or to taste",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "freshly ground black pepper, or to taste",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "old-fashioned rolled oats",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fresh chives (minced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt (fat-free)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "fresh basil (thinly sliced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "soft goat cheese (crumbled)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Bring the broth, sun-dried tomatoes, salt, and pepper to a boil in a small saucepan.",
+        "Stir in the oats and chives, and reduce heat to medium. Stir, until the oats are fully cooked, about 5 minutes. Remove from the heat and stir in the yogurt. Adjust seasoning.",
+        "Transfer to a bowl, sprinkle with the basil and goat cheese, and serve."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mediterranean",
+        "Quick & Easy",
+        "Vegetarian",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "5g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "360mg",
+        "total_carbohydrate": "37g",
+        "fiber": "6g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/savory-mediterranean-oats"
+}

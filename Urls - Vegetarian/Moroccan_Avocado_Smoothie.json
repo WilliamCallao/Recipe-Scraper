@@ -1,0 +1,63 @@
+{
+    "title": "Moroccan Avocado Smoothie",
+    "keywords": "Vegan,Gluten-Free,Foodie,Beverages,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegan",
+        "Gluten-Free",
+        "Foodie",
+        "Beverages",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Diabetic-moroccan-avocado-smoothie_Med-ckbk_DFMayJun19_040219.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "ripe avocado (pitted and peeled)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "overripe banana",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "unsweetened almond milk or orange juice",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "ice",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Place the avocado, banana, milk, and ice into a blender. Blend until there are no pieces of avocado remaining and the mixture is smooth and frothy. Divide into chilled glasses and enjoy."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Mediterranean",
+        "Vegan",
+        "Gluten-Free",
+        "Foodie",
+        "Beverages",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "6g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "35mg",
+        "total_carbohydrate": "11g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/moroccan-avocado-smoothie"
+}

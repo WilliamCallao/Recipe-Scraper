@@ -1,0 +1,74 @@
+{
+    "title": "Sautéed Cinnamon Apples",
+    "keywords": "Dessert,Gluten-Free,Quick & Easy,Vegetarian",
+    "prep_time": "PT7M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dessert",
+        "Gluten-Free",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/476-diabetic-sauteed-cinnamon-apples_AdobeStock152026201_012521.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "margarine (trans-fat-free)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "large Granny Smith apples (peeled and chopped)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "water",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "honey or 2 packets artificial sweetener",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Heat margarine in a sauté pan over medium-high heat. Add apples and sauté for 3 minutes, stirring frequently.",
+        "Add remaining ingredients. Reduce heat to low and simmer for 12 minutes, stirring occasionally."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Kid Friendly",
+        "Dessert",
+        "Gluten-Free",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "25mg",
+        "total_carbohydrate": "18g",
+        "fiber": "2g",
+        "sugar": "15g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sauteed-cinnamon-apples"
+}

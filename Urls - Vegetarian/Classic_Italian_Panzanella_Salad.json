@@ -1,0 +1,101 @@
+{
+    "title": "Classic Italian Panzanella Salad",
+    "keywords": "Dinner,Holidays & Entertaining,Lunch,Salads,Sides,Vegetarian",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/nov12_panzanella_salad_istock20619682_279x200.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "medium tomatoes (cut into 1-inch cubes (or 2 cups cherry tomatoes, halved))",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "fine sea salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Italian bread (good quality such as multigrain Ciabatta)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "cucumber(s) (quartered lengthwise and thinly sliced (about 1/2 an English cucumber))",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "celery (sliced 1/2-inch thick)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "small red onion (cut in half and thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "red wine vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "fresh basil leaves (torn into strips)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "flat Italian parsley leaves (roughly chopped)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Place tomatoes in large salad bowl and sprinkle with salt. Let stand 5 minutes.",
+        "Break up bread and add to tomatoes. Add remaining salad ingredients and mix well."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Italian",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "8g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "455mg",
+        "total_carbohydrate": "20g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/classic-italian-panzanella-salad"
+}

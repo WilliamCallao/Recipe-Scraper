@@ -1,0 +1,89 @@
+{
+    "title": "Grilled Corn with Chile and Lime",
+    "keywords": "Vegetarian,Vegan,Sides,Gluten-Free",
+    "prep_time": "PT40M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/23Sides_Grilledcornwithchileandlime.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "fresh cilantro (chopped, for garnish)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "part-skim mozzarella (for garnish)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "lime (zest and juice)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "smoked paprika",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "ears corn (husked)",
+            "us_amount": "4 med",
+            "metric_amount": "4 med"
+        }
+    ],
+    "instructions": [
+        "Preheat the grill to medium-high heat.",
+        "In a small bowl, whisk together olive oil, chili powder, smoked paprika, lime zest, lime juice and salt.",
+        "Brush the ears of corn with the marinade, making sure to coat them evenly.",
+        "Allow the corn to marinate for at least 30 minutes.",
+        "Place the marinated corn on the preheated grill. Grill for about 15 minutes, turning occasionally, until the corn is charred and cooked through.",
+        "Remove the grilled corn from the heat.",
+        "Transfer the corn to a serving platter and sprinkle with cotija and fresh chopped cilantro."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Mexican/Southwestern",
+        "Grilling",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "4g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "20g",
+        "fiber": "4g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-corn-chile-and-lime"
+}

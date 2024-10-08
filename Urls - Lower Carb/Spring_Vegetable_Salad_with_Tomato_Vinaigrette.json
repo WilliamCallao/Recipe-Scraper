@@ -1,0 +1,113 @@
+{
+    "title": "Spring Vegetable Salad with Tomato Vinaigrette",
+    "keywords": "Foodie,Salads,Sides,Vegan,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Foodie",
+        "Salads",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Diabetic-mixed-vegetable-salad-tomato-dijon-olive-vinaigrette_Med-ckbk_DFMayJun19_040219.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "cleaned and chopped romaine lettuce",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "trimmed green beans",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "trimmed asparagus",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "frozen peas (thawed and drained)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "sugar snap peas (trimmed)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        },
+        {
+            "name": "cherry tomatoes (quartered)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "pitted and chopped Nicoise olives",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sugar (optional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 500°F.",
+        "Place the green beans, asparagus, peas, and snap peas in a medium saucepan. Cover with water. Bring to a boil over high heat, then reduce the heat to low. Simmer for 5 to 10 minutes, until tender. Drain the vegetables and immediately submerge them in a bowl of ice water.",
+        "Pour the balsamic vinegar into a small bowl. Whisk in the mustard until well incorporated, then whisk in the olive oil until smooth. Season with the salt and pepper, to taste.",
+        "Place the cherry tomatoes in a single layer on a baking sheet. Roast for 5 minutes or until charred and soft.",
+        "Stir the tomatoes and olives into the vinaigrette.",
+        "Drain the vegetables well, then place them in the serving bowl with the lettuce. Toss with the vinaigrette and serve."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Mediterranean",
+        "Foodie",
+        "Salads",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "9g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "9g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spring-vegetable-salad-tomato-vinaigrette"
+}

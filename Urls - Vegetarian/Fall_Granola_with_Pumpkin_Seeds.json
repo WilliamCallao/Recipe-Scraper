@@ -1,0 +1,86 @@
+{
+    "title": "Fall Granola with Pumpkin Seeds",
+    "keywords": "Quick & Easy,Snacks,Vegetarian,Breakfast and Brunch,Dessert",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Snacks",
+        "Vegetarian",
+        "Breakfast and Brunch",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/oct13-fall-trail-mix-with-pumpkin-seeds_279x200.jpg",
+    "servings": "14 Servings",
+    "ingredients": [
+        {
+            "name": "agave nectar",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "low-calorie brown sugar substitute",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "old-fashioned rolled oats",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ground nutmeg",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "roasted pumpkin (pepita) seeds",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "cranberries (dried)",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "walnuts (chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 300 degrees F. Line a baking sheet with parchment paper.",
+        "In a small bowl, whisk together agave nectar and Splenda Brown Sugar blend.",
+        "In a medium bowl, mix together all remaining ingredients. Pour agave nectar over mixture and stir to coat.",
+        "Spread oat mixture on baking sheet and bake for 30 minutes. Let cool and store in airtight container."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Kid Friendly",
+        "Quick & Easy",
+        "Snacks",
+        "Vegetarian",
+        "Breakfast and Brunch",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "6g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "23g",
+        "fiber": "2g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fall-granola-pumpkin-seeds"
+}

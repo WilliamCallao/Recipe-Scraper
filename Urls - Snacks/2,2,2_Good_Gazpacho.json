@@ -1,0 +1,101 @@
+{
+    "title": "2,2,2 Good Gazpacho",
+    "keywords": "Vegan,Snacks,Gluten-Free,Vegetarian,Lunch,No Cook",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegan",
+        "Snacks",
+        "Gluten-Free",
+        "Vegetarian",
+        "Lunch",
+        "No Cook"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/036-diabetic-Good-Gazpacho_iStock-115808676.jpg",
+        "2",
+        "2 Good Gazpacho\" loading=\"lazy\" />"
+    ],
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "ripe tomatoes",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "medium zucchini",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "large cucumbers (unpeeled (English or hothouse))",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "small red onion",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (peeled)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "large red bell pepper",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "vegetable juice",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Dash salt",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Dash pepper",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "In a food processor finely chop the vegetables and garlic in batches. Place into a large glass bowl.",
+        "Add balsamic vinegar, vegetable juice, salt, and pepper. Chill for at least an hour."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Mediterranean",
+        "Vegan",
+        "Snacks",
+        "Gluten-Free",
+        "Vegetarian",
+        "Lunch",
+        "No Cook"
+    ],
+    "nutrition": {
+        "calories": "85",
+        "total_fat": "0.5g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "110mg",
+        "total_carbohydrate": "19g",
+        "fiber": "4g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/222-good-gazpacho"
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Sautéed Asparagus, Peppers and Mushrooms",
+    "keywords": "Gluten-Free,Vegetarian,Sides,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Gluten-Free",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/475-Diabetic-Sauteed-Asparagus_179129885_073118.jpg",
+        "Peppers and Mushrooms\" loading=\"lazy\" />"
+    ],
+    "servings": "7 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "asparagus (trimmed and cut into thirds)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "red onion (sliced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cremini (baby bella) mushrooms (sliced)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "medium red bell pepper (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        }
+    ],
+    "instructions": [
+        "Heat olive oil in a large sauté pan or wok over medium-high heat. Add asparagus, onion, mushrooms and red pepper and cook for 15-18 minutes, stirring frequently.",
+        "Add garlic to pan and cook for 1 minute. Stir vegetables and garlic to incorporate."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Low Sodium",
+        "Gluten-Free",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "3g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sauteed-asparagus-peppers-and-mushrooms"
+}

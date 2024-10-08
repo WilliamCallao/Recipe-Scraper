@@ -1,0 +1,78 @@
+{
+    "title": "Crunchy Quinoa Stuffed Zucchini",
+    "keywords": "Sides,Foodie",
+    "prep_time": "PT10M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Sides",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_681_Secrets%20Healthy%20Cooking_CrunchyQuinoaStuffedZucchini_022618.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "uncooked quinoa (rinsed)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "zucchini (each weighing about 1/2 pound)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pancetta (chopped)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "onion(s) (chopped, about 1 medium)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "large garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "grape or cherry tomatoes (halved or quartered if large)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 425°F convection or 450°F traditional oven.",
+        "Place quinoa in medium saucepan with 1 cup water. Bring to a boil, reduce heat to low, cover, and cook 15–20 minutes until tender.",
+        "Cut zucchini in half lengthwise. Using a paring knife, cut a V shape into each half and remove the center, creating a channel for the stuffing. Chop the zucchini that has been removed and save it for use in the stuffing.",
+        "In the meantime, place the olive oil in a large sauté pan. Add pancetta, onion, garlic, and chopped zucchini. Sauté until pancetta is browned. Remove pan from heat and add tomatoes. Add cooked quinoa and mix well.",
+        "Stuff each zucchini half with 1/2 cup quinoa mixture and place on parchment-lined baking sheet.",
+        "Bake 20–25 minutes until zucchini are fork tender. Stuffing will be nicely browned."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Comfort Food",
+        "Mediterranean",
+        "Sides",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "125",
+        "total_fat": "5g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "17g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crunchy-quinoa-stuffed-zucchini"
+}

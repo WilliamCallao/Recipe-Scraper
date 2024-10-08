@@ -1,0 +1,157 @@
+{
+    "title": "Curried Chickpea Stew with Roasted Vegetables",
+    "keywords": "Dinner,Foodie,Gluten-Free,Lunch,Main Dish,One Pot,Soup,Vegan,Vegetarian",
+    "prep_time": "PT20M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Gluten-Free",
+        "Lunch",
+        "Main Dish",
+        "One Pot",
+        "Soup",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Diabetic%20chickpea%20curry%20soup.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "sweet potatoes (peeled and diced, for the roasted veggies)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "red bell pepper (diced, for the roasted veggies)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cauliflower florets (for the roasted veggies)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "olive oil (for the roasted veggies)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt (for the roasted veggies)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper (for the roasted veggies)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "onion(s) (diced)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "curry powder",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "ground turmeric",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "no-salt-added canned diced tomatoes",
+            "us_amount": "14 oz",
+            "metric_amount": "396 ml"
+        },
+        {
+            "name": "lite unsweetened coconut milk",
+            "us_amount": "1 1/4 cup",
+            "metric_amount": "296 ml"
+        },
+        {
+            "name": "low sodium vegetable broth",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "canned chickpeas (rinsed and drained)",
+            "us_amount": "15 oz",
+            "metric_amount": "425 ml"
+        },
+        {
+            "name": "salt and pepper to taste",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh cilantro (chopped, for garnish)",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400 degrees F. Line a baking sheet with parchment paper.",
+        "In a large bowl, toss the sweet potato, red bell pepper, and cauliflower florets with 1 tablespoon of olive oil, salt, and pepper.",
+        "Spread the vegetables in a single layer on the prepared baking sheet. Roast in the preheated oven for 20–25 minutes until they are tender and slightly caramelized.",
+        "In a large pot or Dutch oven, heat 2 teaspoons of olive oil over medium heat. Add the diced onion and minced garlic, and sauté until they become fragrant and translucent.",
+        "Add the curry powder, turmeric, salt, and pepper to the pot. Stir well to coat the onions and garlic with the spices.",
+        "Pour in the diced tomatoes (with their juice), coconut milk, and vegetable broth. Stir to combine. Add the rinsed chickpeas to the pot and stir everything together. Bring the mixture to a boil.",
+        "Reduce the heat to low and let the stew simmer uncovered for about 15–20 minutes, allowing the flavors to meld together. Stir occasionally.",
+        "Remove the roasted vegetables from the oven and add them to the pot. Stir gently to incorporate them into the stew. Serve the curried chickpea stew in bowls, garnished with fresh cilantro."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Asian",
+        "Indian",
+        "Dinner",
+        "Foodie",
+        "Gluten-Free",
+        "Lunch",
+        "Main Dish",
+        "One Pot",
+        "Soup",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "280",
+        "total_fat": "12g",
+        "saturated_fat": "4.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "480mg",
+        "total_carbohydrate": "34g",
+        "fiber": "9g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/curried-chickpea-stew-roasted-vegetables"
+}

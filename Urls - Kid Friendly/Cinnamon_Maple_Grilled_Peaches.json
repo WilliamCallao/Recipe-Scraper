@@ -1,0 +1,63 @@
+{
+    "title": "Cinnamon Maple Grilled Peaches",
+    "keywords": "Dessert,Sides",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dessert",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_183_Cinnamon_Maple_Grilled_Peaches_ThinkstockPhotos-489567710_04112018%20.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "peaches or nectarines (still firm but ripe)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Juice of 1 lemon",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ground nutmeg",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "maple syrup",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat grill to medium high. Cook for 3-4 minutes, turning once, until golden brown on the outside, and just warmed through inside."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Grilling",
+        "Kid Friendly",
+        "Dessert",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "75",
+        "total_fat": "0g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "18g",
+        "fiber": "2g",
+        "sugar": "16g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cinnamon-maple-grilled-peaches"
+}

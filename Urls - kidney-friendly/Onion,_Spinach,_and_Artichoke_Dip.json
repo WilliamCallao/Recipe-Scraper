@@ -1,0 +1,99 @@
+{
+    "title": "Onion, Spinach, and Artichoke Dip",
+    "keywords": "Appetizers,Gluten-Free,Holidays & Entertaining,Snacks,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Appetizers",
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/1704-diabetic-Onion-Spinach-Artichoke-Dip_Diabetes-Superfoods-Cookbook_010319.jpg",
+        "Spinach",
+        "and Artichoke Dip\" loading=\"lazy\" />"
+    ],
+    "servings": "20 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "onion(s) (finely diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "artichoke hearts (drained and rinsed)",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "dried thyme",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "spinach (coarsely chopped)",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "light mayonnaise",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "light spreadable cheese wedges (such as laughing cow)",
+            "us_amount": "4 wedges",
+            "metric_amount": "4 wedges"
+        },
+        {
+            "name": "freshly grated parmesan cheese (divided)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lemon (juiced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350 degrees F.",
+        "In a large skillet, heat olive oil over medium heat. Add onion and saute for 5 minutes, stirring frequently. Add artichokes and thyme and cook for an additional 3 minutes or until veggies begin to brown. Add spinach and cook for an additional 1-2 minutes until spinach is wilted. Remove skillet from heat.",
+        "In a microwave-safe bowl, combine light mayonnaise, cheese wedges, and 1 tbsp Parmesan cheese. Heat in microwave for 30 seconds to soften, then mix well. If needed, heat mixture in 15-second increments until cheeses are softened and easily mixed with mayonnaise.",
+        "Add cheese mixture and lemon juice to sauteed vegetables and mix well. Spread dip into a small baking dish, top with remaining 1 tbsp of Parmesan cheese, and bake in the oven for 5 minutes. Serve warm."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Comfort Food",
+        "Appetizers",
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "35",
+        "total_fat": "2g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "2mg",
+        "sodium": "115mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/onion-spinach-and-artichoke-dip"
+}

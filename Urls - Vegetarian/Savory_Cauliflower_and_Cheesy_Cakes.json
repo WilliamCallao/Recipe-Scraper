@@ -1,0 +1,79 @@
+{
+    "title": "Savory Cauliflower and Cheesy Cakes",
+    "keywords": "Gluten-Free,Vegetarian,Sides,Quick & Easy,Snacks,Appetizers",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Gluten-Free",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "Snacks",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/jan2015-cauliflower-cakes.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "cauliflower head ((about 2 pounds) cut into florets)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "extra light sharp cheddar (shredded)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Parmesan cheese (freshly grated)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 375 degrees F. Line a muffin tin with paper liners.",
+        "Place the cauliflower florets in a food processor and pulse until you get a fine texture similar to rice.",
+        "In a medium bowl, mix together the cauliflower and remaining ingredients.",
+        "Scoop about 1/4 cup cauliflower mixture into each muffin cup. Bake for 30-35 minutes until the cakes are lightly golden on top."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Gluten-Free",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "Snacks",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "2g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "35mg",
+        "sodium": "120mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/savory-cauliflower-and-cheesy-cakes"
+}

@@ -1,0 +1,96 @@
+{
+    "title": "Air Fryer Buttermilk Fried Chicken",
+    "keywords": "Dinner,Quick & Easy,Main Dish",
+    "prep_time": "PT25M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Quick & Easy",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1811-diabetic-air-fryer-buttermilk-fried-chicken_air-fryer-ckbk_062819.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "low-fat buttermilk",
+            "us_amount": "1/3 cup",
+            "metric_amount": "79 ml"
+        },
+        {
+            "name": "hot sauce",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "boneless, skinless chicken breasts (cut in half lengthwise to make 4 equal portions)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "corn flakes",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        },
+        {
+            "name": "stone-ground cornmeal",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "paprika",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        }
+    ],
+    "instructions": [
+        "In a small, deep bowl, stir together the buttermilk and hot sauce. Place the chicken in the buttermilk mixture. Allow to stand 15 minutes.",
+        "Place the cornflakes into the work bowl of a food processor. Process until coarse crumbs form. Add the cornmeal, garlic powder, paprika, salt, and pepper and pulse until evenly mixed. Pour the crumbs into a shallow bowl. (if you don't have a food processor, you can crush the cornflakes in a plastic bag with a rolling pin.)",
+        "Drain the chicken, allowing the excess buttermilk to drip back into bowl. Coat the chicken pieces evenly in the cornflake mixture. Place the coated chicken pieces on a wire rack.",
+        "Place the chicken in the air fryer basket. Spray with nonstick cooking spray for 2 seconds (do not crowd the chicken; cook in batches if all the chicken doesn't fit). Set the temperature to 375°F and air fry for 7 minutes.",
+        "Turn the chicken pieces. Air fry for an additional 7–10 minutes or until the chicken is done and a meat thermometer inserted in the center registers 165°F."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Kid Friendly",
+        "Comfort Food",
+        "Dinner",
+        "Quick & Easy",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "7g",
+        "fiber": "1g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/air-fryer-buttermilk-fried-chicken"
+}

@@ -1,0 +1,96 @@
+{
+    "title": "Meat Lover's Breakfast Cups",
+    "keywords": "Breakfast and Brunch,Quick & Easy",
+    "prep_time": "Desconocido",
+    "cook_time": "PT19M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1330-diabetic-meat-lovers-breakfast-cups_MFTK-weeknight-favorites_092718_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Monterey jack cheese",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "turkey bacon",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "egg substitute",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "light sour cream",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "precooked turkey breakfast sausage patties ( thawed and diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "onion(s) (finely chopped)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "frozen hash browns (thawed)",
+            "us_amount": "1 1/4 cup",
+            "metric_amount": "296 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400 F. Coat a six-cup muffin tin with nonstick cooking spray. Evenly divide the hash browns among the muffin cups and press firmly into the bottom and up the sides of each cup.",
+        "In a large skillet, heat the oil over medium heat. Sauté the onion until tender. Add the garlic and sausage; cook for 1 minute more. Remove the skillet from the heat; stir in the sour cream.",
+        "In a medium bowl, beat the egg substitute with the salt and black pepper, then pour it evenly into the potato-lined muffin cups. Top each cup with some of the sausage mixture, bacon, and cheese.",
+        "Bake 15 to 18 minutes, or until the eggs are set. Serve immediately, or freeze for later."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Kid Friendly",
+        "Comfort Food",
+        "Breakfast and Brunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "5g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "340mg",
+        "total_carbohydrate": "9g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/meat-lovers-breakfast-cups"
+}

@@ -1,0 +1,102 @@
+{
+    "title": "Watermelon Quinoa Salad",
+    "keywords": "Dinner,Lunch,Quick & Easy,Salads,Sides,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/diabetic%20watermelon%20salad.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "low sodium vegetable broth",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "quinoa (rinsed)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "baby arugula",
+            "us_amount": "5 oz",
+            "metric_amount": "142 ml"
+        },
+        {
+            "name": "watermelon (medium diced)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "avocado (medium diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salted pumpkin seeds",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "fresh mint (leaves torn)",
+            "us_amount": "1/2 oz",
+            "metric_amount": "14 ml"
+        },
+        {
+            "name": "reduced-fat feta cheese",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "lime (zested and juiced)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "honey",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Bring broth to boil in a small saucepan. Add quinoa and cover, reduce heat to low. Cook for 15 minutes, or until broth is absorbed. Spread quinoa onto a large baking sheet pan into a thin layer to cool.",
+        "Once the quinoa has cooled to room temperature, arrange the arugula on a large serving platter. Top with quinoa, watermelon, avocado, pumpkin seeds, mint, and feta.",
+        "Combine the lime zest and juice, oil, and honey in a small bowl. Whisk to combine and drizzle the dressing over the salad. Add salt and pepper if desired."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mediterranean",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "340",
+        "total_fat": "21g",
+        "saturated_fat": "4.6g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "350mg",
+        "total_carbohydrate": "30g",
+        "fiber": "6g",
+        "sugar": "9g",
+        "added_sugar": "1g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/watermelon-quinoa-salad"
+}

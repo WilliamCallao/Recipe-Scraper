@@ -1,0 +1,105 @@
+{
+    "title": "Southwestern Coleslaw",
+    "keywords": "Vegetarian,Holidays & Entertaining,Quick & Easy,Salad Dressings & Condiments,Salads,Sides,No Cook",
+    "prep_time": "PT25M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Salad Dressings & Condiments",
+        "Salads",
+        "Sides",
+        "No Cook"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/southwestern-coleslaw-May15.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "pecans",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "salt-free chipotle seasoning",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "honey",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "fresh lime juice",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Apple Cider Vinegar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "jalapeño pepper (minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "green onion (scallion) (minced)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "red bell pepper (seeded, cored, and diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "carrot(s) (peeled and grated)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "head green cabbage (outer leaves removed, shredded)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "In a large salad bowl, combine the cabbage, carrots, red pepper, scallions, and jalapeño pepper and toss well.",
+        "In a small bowl, whisk together the vinegar, lime juice, honey, and chipotle seasoning. Add the olive oil in a thin stream, whisking to emulsify. Pour the dressing on the cabbage mixture and mix well. Garnish the coleslaw with the toasted pecans."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "Lower Carb",
+        "Mexican/Southwestern",
+        "Vegetarian",
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Salad Dressings & Condiments",
+        "Salads",
+        "Sides",
+        "No Cook"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "11g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "35mg",
+        "total_carbohydrate": "10g",
+        "fiber": "3g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/southwestern-coleslaw"
+}

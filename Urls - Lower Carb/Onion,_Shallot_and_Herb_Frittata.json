@@ -1,0 +1,91 @@
+{
+    "title": "Onion, Shallot and Herb Frittata",
+    "keywords": "Breakfast and Brunch,Holidays & Entertaining,Lunch,Main Dish,Vegetarian",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Breakfast and Brunch",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/novdec2014-onion-shallot-herb.jpg",
+        "Shallot and Herb Frittata\" loading=\"lazy\" />"
+    ],
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil (divided)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "onion(s) (chopped)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "shallots (minced)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "egg whites",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "fresh basil (minced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salt and pepper to taste",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Parmesan or Romano cheese (freshly grated)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350 degrees F. Heat 1 Tsp. of the olive oil in a large nonstick ovenproof skillet over medium heat. Add the onion and shallot and sauté for about 7 to 8 minutes. Remove the onion mixture from the skillet and set aside.",
+        "Beat the eggs, egg whites, basil, and salt and pepper. Fold in the onion mixture.",
+        "In the remaining 1 Tsp. of oil, heat the egg mixture on medium low in the skillet. Cook without stirring for about 8 minutes.",
+        "Transfer the skillet to the oven, sprinkle with the cheese, and bake for about 10 minutes until top is no longer runny. Cook an additional 5 minutes if necessary. Cut into wedges to serve.",
+        "*Note: The nutrition facts above do not include any added salt."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Italian",
+        "Breakfast and Brunch",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "4g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "75mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/onion-shallot-and-herb-frittata"
+}

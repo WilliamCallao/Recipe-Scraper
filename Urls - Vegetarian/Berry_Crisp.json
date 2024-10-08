@@ -1,0 +1,106 @@
+{
+    "title": "Berry Crisp",
+    "keywords": "Quick & Easy,Dessert,Vegetarian,Holidays & Entertaining",
+    "prep_time": "PT15M",
+    "cook_time": "PT55M",
+    "categories": [
+        "Quick & Easy",
+        "Dessert",
+        "Vegetarian",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/084-diabetic-dessert-berry-crisp_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "strawberries (sliced)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "blueberries",
+            "us_amount": "1 pints",
+            "metric_amount": "480 ml"
+        },
+        {
+            "name": "lemon zest",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "low-calorie sugar substitute (divided use)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Cornstarch",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "old-fashioned rolled oats",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "brown sugar substitute",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "pecans (chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "trans-fat-free margarine (diced)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350 degrees F. Spray a 9-inch pie pan with cooking spray.",
+        "In a medium bowl combine the berries, lemon zest, lemon juice, 2 Tbsps. Splenda® Sugar blend, corn starch and cinnamon. Mix well and pour into pie pan.",
+        "In another medium bowl, combine the oats, remaining 1 tbsp Splenda sugar blend, brown sugar blend, pecans, and margarine. Work the margarine into the dry ingredients with your hands until it is crumbly.",
+        "Sprinkle the crisp topping mixture evenly over the berries. Bake for 55 minutes or until the top is brown and the fruit is bubbly. Serve warm."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Dialysis",
+        "Comfort Food",
+        "Kid Friendly",
+        "Quick & Easy",
+        "Dessert",
+        "Vegetarian",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "11g",
+        "saturated_fat": "1.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "50mg",
+        "total_carbohydrate": "24g",
+        "fiber": "4g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/berry-crisp"
+}

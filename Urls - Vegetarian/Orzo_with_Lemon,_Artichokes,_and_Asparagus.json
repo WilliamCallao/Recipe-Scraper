@@ -1,0 +1,92 @@
+{
+    "title": "Orzo with Lemon, Artichokes, and Asparagus",
+    "keywords": "Vegetarian,Sides,Lunch",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Lunch"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/1795-diabetic-Orzo-Lemon-Artichokes-Asparagus_MediterraneanCkbk_050119.jpg",
+        "Artichokes",
+        "and Asparagus\" loading=\"lazy\" />"
+    ],
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "dry orzo pasta or small gluten-free pasta",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "fresh or frozen asparagus (trimmed into 1-inch peices)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "frozen artichoke hearts (thawed)",
+            "us_amount": "1 (14-oz) package",
+            "metric_amount": "1 (14-oz) package"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "zest of 1 lemon",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Pecorino Romano cheese (grated)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Bring a large pot of water to a boil over high heat. Add 1/4 tsp salt and reduce heat to medium.",
+        "Add orzo and stir. Cook orzo until tender, but still al dente. Drain orzo when done and return to pot.",
+        "Meanwhile, bring a medium-size pot of water to a boil over high heat. Add asparagus and cook until tender (about 5 minutes), then drain.",
+        "Add asparagus, artichoke hearts, lemon juice, lemon zest, additional 1/4 tsp salt (if desired), freshly ground pepper, and olive oil into the pot with the orzo and stir.",
+        "Taste and adjust seasoning, if necessary. Garnish with cheese and serve hot."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mediterranean",
+        "Vegetarian",
+        "Sides",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "5g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "140mg",
+        "total_carbohydrate": "26g",
+        "fiber": "5g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/orzo-lemon-artichokes-and-asparagus"
+}

@@ -1,0 +1,109 @@
+{
+    "title": "Bibb and Bean Burrito Bowl",
+    "keywords": "Dinner,Lunch,Main Dish,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/619-diabetic-vegetarian-bibb-bean-burrito-bowl_With-or-without-meat_101718_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "bibb or boston lettuce",
+            "us_amount": "12 leaves",
+            "metric_amount": "12 leaves"
+        },
+        {
+            "name": "canned beans, such as a black, pinto, and/or kidney beans (drained and rinsed)",
+            "us_amount": "2 1/2 cup",
+            "metric_amount": "592 ml"
+        },
+        {
+            "name": "grape tomatoes (quartered lengthwise)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "corn (frozen, thawed)",
+            "us_amount": "1 1/4 cup",
+            "metric_amount": "296 ml"
+        },
+        {
+            "name": "green onion (scallion) (green and white parts, very thinly sliced on the diagonal)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "Monterey jack cheese (finely diced)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "cilantro (chopped fresh)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ground cumin (or to taste)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "chili powder (or to taste)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Hass avocado (peeled, pitted, and diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "medium or hot tomatillo salsa (salsa verde)",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "sea salt ((optional))",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "lime wedges",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "Divide the lettuce leaves among 4 dinner plates or pasta bowls, loosely forming a “bowl” with the leaves.",
+        "Stir together the beans, tomatoes, corn, scallions, cheese, cilantro, cumin, and chili powder in a medium bowl. Add the avocado, salsa, and salt (if using), and gently stir just to combine. Adjust seasoning.",
+        "Evenly divide the bean mixture among the 4 lettuce “bowls,” and serve with the lime wedges on the side."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "360",
+        "total_fat": "11g",
+        "saturated_fat": "3.5g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "580mg",
+        "total_carbohydrate": "44g",
+        "fiber": "11g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/bibb-and-bean-burrito-bowl"
+}

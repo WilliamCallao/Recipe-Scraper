@@ -1,0 +1,87 @@
+{
+    "title": "Fig and Walnut Yogurt Tarts",
+    "keywords": "Vegetarian,Snacks,Quick & Easy,No Cook,Holidays & Entertaining,Foodie,Dessert,Appetizers",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Snacks",
+        "Quick & Easy",
+        "No Cook",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dessert",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1701-diabetic-dessert-Fig-Walnut-Yogurt-Tart_Diabetes-Superfoods-Cookbook_010319.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "crumbled goat cheese",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "nonfat, plain Greek yogurt",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "freshly squeezed orange or clementine juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "2 tbsp"
+        },
+        {
+            "name": "mini phyllo dough shells",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "fresh mint (each cut into 3 pieces)",
+            "us_amount": "4 leaves",
+            "metric_amount": "4 leaves"
+        },
+        {
+            "name": "walnut halves",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "large fresh figs (each cut into 3 pieces)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "In a small mixing bowl, combine goat cheese, yogurt, and orange juice together.",
+        "Fill each phyllo shell with 1 tbsp of cheese mixture. Top each with 1 piece of mint leaf, a walnut half, and a fig piece. Keep refrigerated until ready to serve."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Vegetarian",
+        "Snacks",
+        "Quick & Easy",
+        "No Cook",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dessert",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "7g",
+        "saturated_fat": "1.7g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "60mg",
+        "total_carbohydrate": "14g",
+        "fiber": "2g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fig-and-walnut-yogurt-tarts"
+}

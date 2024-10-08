@@ -1,0 +1,117 @@
+{
+    "title": "Spiced Turkey Breast With Apple Chutney",
+    "keywords": "Dinner,Foodie,Holidays & Entertaining,Main Dish",
+    "prep_time": "PT20M",
+    "cook_time": "PT1H15M",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/v66n11_p68a.jpg",
+    "servings": "16 Servings",
+    "ingredients": [
+        {
+            "name": "turkey breast",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "orange juice",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "fresh ginger (peeled and grated, divided use)",
+            "us_amount": "2 1/2 tsp",
+            "metric_amount": "12 g"
+        },
+        {
+            "name": "ground cinnamon (divided use)",
+            "us_amount": "1 1/4 tsp",
+            "metric_amount": "6 g"
+        },
+        {
+            "name": "ground cloves (divided use)",
+            "us_amount": "1 1/4 tsp",
+            "metric_amount": "6 g"
+        },
+        {
+            "name": "ground allspice",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "red onion (minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "brown sugar",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "rice vinegar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "raisins",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "diced apples",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400 degrees. Pat the turkey breast dry and place on a rack set in a shallow roasting pan. Loosen the skin by inserting your fingers, gently pushing between the skin and the meat.",
+        "In a small bowl, combine the orange juice, 2 tsp of the ginger, 1 tsp of the cinnamon, 1 tsp of the cloves, allspice, salt, and black pepper. Rub this mixture on the breast meat, under the skin. Insert a meat thermometer into the meaty part of the breast, making sure it doesn’t touch the breastbone. Roast the breast uncovered for about 1 hour, 15 minutes, or until the meat thermometer registers 170 degrees. Check the turkey every 15 minutes or so as it roasts to avoid any overbrowning. Cover with foil if the breast meat starts to get too brown. After 30 minutes of roasting, you may also lower the oven to 350 degrees if the turkey is cooking too quickly.",
+        "Meanwhile, prepare the chutney. In a saucepan, combine the red onion, brown sugar, rice vinegar, raisins, remaining 1/2 tsp ginger, remaining 1/4 tsp cinnamon, remaining 1/4 tsp cloves, and crushed red pepper, and bring to boiling. Cover, reduce the heat, and simmer for 5 minutes. Remove the pan from the heat and cool for 10 minutes. Fold in the apples.",
+        "Remove the turkey breast to a platter and let it stand, loosely covered with foil, for about 10 minutes before serving.",
+        "To serve, slice the turkey, discard the skin, and serve with the chutney. Store the remaining 1 cup chutney, covered, in the refrigerator for up to three days."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "145",
+        "total_fat": "0.5g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "75mg",
+        "sodium": "85mg",
+        "total_carbohydrate": "6g",
+        "fiber": "0g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spiced-turkey-breast-apple-chutney"
+}

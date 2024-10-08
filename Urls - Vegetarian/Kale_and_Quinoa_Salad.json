@@ -1,0 +1,115 @@
+{
+    "title": "Kale and Quinoa Salad",
+    "keywords": "Holidays & Entertaining,Foodie,Vegetarian,Salads,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Foodie",
+        "Vegetarian",
+        "Salads",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/329-diabetic-kale-quinoa-salad_AdobeStock134505119.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "quinoa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "white balsamic or white raspberry balsamic vinegar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic (grated or minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "honey or 2 packets artificial sweetener",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chopped fresh parsley",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "fresh kale leaves (chopped)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "dried cranberries",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sunflower seeds",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "reduced fat feta cheese (crumbled)",
+            "us_amount": "3 oz",
+            "metric_amount": "85 ml"
+        }
+    ],
+    "instructions": [
+        "Rinse the dry quinoa in a strainer under cold running water. Combine the rinsed quinoa and water in a medium sauce pan and bring to a boil. Reduce to a simmer and cover. Cook the quinoa for 12-15 minutes until all the liquid is absorbed. Turn off the heat and leave the lid on for 10 minutes to steam. Spread the quinoa on a sheet pan to cool.",
+        "In a large salad bowl, whisk together the vinegar, garlic, mustard, honey, parsley, salt (optional), and pepper. Add the olive oil and whisk until emulsified.",
+        "In the same bowl, toss together the kale, cranberries, sunflower seeds, feta cheese and cooled quinoa until coated with dressing."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Vegetarian",
+        "Salads",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "8g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "260mg",
+        "total_carbohydrate": "19g",
+        "fiber": "2g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/kale-and-quinoa-salad"
+}

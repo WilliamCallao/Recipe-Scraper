@@ -1,0 +1,94 @@
+{
+    "title": "Cheese and Veggie Pitas",
+    "keywords": "Lunch,Dinner,Vegetarian,Snacks,Holidays & Entertaining,Sandwiches",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Dinner",
+        "Vegetarian",
+        "Snacks",
+        "Holidays & Entertaining",
+        "Sandwiches"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/151-diabetic-pita-sandwich_278775227_121218.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "large tomato (cut into 4 equal slices)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Swiss cheese (reduced-fat)",
+            "us_amount": "2 1/4 oz",
+            "metric_amount": "64 ml"
+        },
+        {
+            "name": "medium red onion (thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "light mayonnaise",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "romaine lettuce leaves",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "sunflower seeds",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "whole wheat pita",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "hummus",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "medium cucumber",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Slice one side of each pita to open pocket, but do not cut all the way through. Set aside.",
+        "Spread 1/2 Tbsp. of mayonnaise in each pita.",
+        "Slice Swiss cheese into 4 even slices. Spread 2 Tbsps. of hummus on each cheese slice and sprinkle 1 Tbsp. of sunflower seeds on top.",
+        "Layer lettuce leaf, onion slices, tomato slices, and cucumber slices on top of hummus.",
+        "Stuff each pita with sandwich filling and cut in half."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mediterranean",
+        "Lunch",
+        "Dinner",
+        "Vegetarian",
+        "Snacks",
+        "Holidays & Entertaining",
+        "Sandwiches"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "6g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "275mg",
+        "total_carbohydrate": "23g",
+        "fiber": "4g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cheese-and-veggie-pitas"
+}

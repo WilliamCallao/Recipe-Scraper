@@ -1,0 +1,103 @@
+{
+    "title": "Smoky Chicken and Three Bean Salad",
+    "keywords": "Budget Friendly,Dinner,Lunch,Main Dish,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1693-diabetic-smokey-chicken-three-bean-salad_12-week-diabetes-cookbook_DFJanFeb2018_121018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "smoked paprika",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "cumin",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "honey",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "olive oil spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "boneless, skinless chicken thighs (visible fat removed)",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        },
+        {
+            "name": "fresh or frozen green beans (trimmed and cut into 1 inch pieces)",
+            "us_amount": "1/2 lb",
+            "metric_amount": "1/2 lb"
+        },
+        {
+            "name": "low sodium canned chickpeas (rinsed and drained)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "low-sodium canned kidney beans (rinsed and drained)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "reduced-fat oil-and-vinegar dressing",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "romaine lettuce or other salad green",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        }
+    ],
+    "instructions": [
+        "In a small bowl, mix the smoked paprika, cumin, and honey together to form a smooth, thick paste. Set aside.",
+        "Heat a large nonstick skillet over medium-high heat. Mist the skillet with olive oil spray. Add the chicken, smooth side down. Brown for 2 minutes. Flip and brown for 2 more minutes.",
+        "Spoon the honey mixture over the chicken. Cover the skillet with a lid, lower the heat to medium, and cook for 5 minutes, until the chicken reaches an internal temperature of 170° F.",
+        "While the chicken finishes cooking, place the green beans in a large microwave-safe bowl and microwave on high for 2 minutes.",
+        "When the chicken is done cooking, chop into 1-inch pieces. Mix the chicken with the cooked green beans, chickpeas, kidney beans, and dressing. Toss well. Add the pepper and toss again.",
+        "Divide the chicken-and-bean salad mixture into 4 servings (3 cups each) and spoon onto individual romaine leaves to create lettuce “boats.” Or place 1 cup of chopped romaine on each plate, topping each with 3 cups of the chicken mixture."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "390",
+        "total_fat": "13g",
+        "saturated_fat": "3.1g",
+        "trans_fat": "0g",
+        "cholesterol": "155mg",
+        "sodium": "340mg",
+        "total_carbohydrate": "35g",
+        "fiber": "9g",
+        "sugar": "13g",
+        "added_sugar": "0g",
+        "protein": "36g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/smoky-chicken-and-three-bean-salad"
+}

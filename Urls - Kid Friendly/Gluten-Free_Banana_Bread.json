@@ -1,0 +1,90 @@
+{
+    "title": "Gluten-Free Banana Bread",
+    "keywords": "Quick & Easy,Dessert,Holidays & Entertaining,Gluten-Free,Breakfast and Brunch",
+    "prep_time": "PT15M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Quick & Easy",
+        "Dessert",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/254-diabetic-gluten-free-banana-bread_AdobeStock_303468548_012121.jpg",
+    "servings": "16 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "very ripe bananas (mashed)",
+            "us_amount": "4 med",
+            "metric_amount": "4 med"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "low-fat buttermilk (low-fat)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "egg whites",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sugar substitute",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "all-purpose Gluten-Free Baking Mix",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "ground flax seed",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350 degrees. Spray a 8x4-inch loaf pan with cooking spray.",
+        "In a large bowl, combine bananas, oil, buttermilk, egg whites, vanilla and Splenda Sugar Blend; mix well.",
+        "Add gluten-free baking mix and flaxseed and mix until blended. Pour batter into loaf pan. Bake for 30-35 minutes or until toothpick inserted in center comes out clean."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Comfort Food",
+        "Quick & Easy",
+        "Dessert",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "3g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "240mg",
+        "total_carbohydrate": "25g",
+        "fiber": "3g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/gluten-free-banana-bread"
+}

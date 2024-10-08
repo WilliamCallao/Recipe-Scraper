@@ -1,0 +1,59 @@
+{
+    "title": "Panko Ranch Chicken Strips with Dipping Sauce",
+    "keywords": "Main Dish,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_781_Panko%20Ranch%20Chicken%20Strips%20with%20Grilley%20Soy%20Pepper%20petites_4IngredientCookbook_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "chicken tenderloins (about 1 pound total)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "yogurt ranch dressing (divided use)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "panko bread crumbs",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        }
+    ],
+    "instructions": [
+        "Place chicken in a medium bowl with 1/4 cup of the ranch dressing; toss until well coated. Place the breadcrumbs in a shallow pan, such as a pie pan. Coat chicken pieces, one at a time with the breadcrumbs and set aside.",
+        "Heat oil in a large skillet over medium-high heat. Add the chicken and immediately reduce to medium-low heat, cook 12 minutes or until golden and no longer pink in center, gently turning occasionally.",
+        "Remove from skillet, sprinkle with 1/8 teaspoon salt. Serve with remaining 1/2 cup ranch for dipping."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Comfort Food",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "340",
+        "total_fat": "16g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "85mg",
+        "sodium": "390mg",
+        "total_carbohydrate": "17g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "30g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/panko-ranch-chicken-strips-dipping-sauce"
+}

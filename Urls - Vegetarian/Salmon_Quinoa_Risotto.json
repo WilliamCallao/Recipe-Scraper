@@ -1,0 +1,89 @@
+{
+    "title": "Salmon Quinoa Risotto",
+    "keywords": "Dinner,Main Dish,Vegetarian",
+    "prep_time": "PT25M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Dinner",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_823_Salmon%20Quinoa%20Risotto_DiabetesComfortFood_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "tablespoons olive oil (divided)",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "medium onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "quinoa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "organic vegetable stock (divided)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "garlic (finely chopped)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "leaves of kale (stems removed and cut into ribbons)",
+            "us_amount": "7",
+            "metric_amount": "7"
+        },
+        {
+            "name": "salmon (poached and flaked)",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "salt, to taste",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pepper, to taste",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "To poach salmon—Fill a 4-quart saucepan with water and put salmon filet into the water. Place saucepan over high heat until water boils. Once water boils, remove pan from heat and let sit for 10 minutes. Remove fish from water and flake. Set aside.",
+        "In a 4-quart saucepan, heat 1 tablespoon of olive oil over medium-high heat. When oil is shimmering, add diced onion. Sauté onion until transparent. Add quinoa to onion mixture and stir—to toast—for 2 minutes.",
+        "Add 1 cup of vegetable stock to quinoa and onion. Stir until stock is absorbed. Once stock is absorbed, add another 1 cup of stock. Continue stirring until stock is absorbed. Add remaining stock in 1/2-cup intervals, stirring until all stock is absorbed. Remove from heat.",
+        "While preparing the onion quinoa mixture, heat 1/2 tablespoon of oil over medium-high heat in a sauté pan with chopped garlic. Once garlic is sizzling, add chopped kale to the pan. Turn kale to coat with oil and garlic. Turn kale mixture until fragrant, approximately 2 minutes. Remove kale mixture from heat.",
+        "Once quinoa is complete, add kale and salmon. Stir to combine and add salt and pepper to taste."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Comfort Food",
+        "Italian",
+        "Dinner",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "390",
+        "total_fat": "13g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "195mg",
+        "total_carbohydrate": "39g",
+        "fiber": "5g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/salmon-quinoa-risotto"
+}

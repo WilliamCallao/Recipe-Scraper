@@ -1,0 +1,91 @@
+{
+    "title": "Lemon Chicken with Rosemary and Garlic",
+    "keywords": "Easy Pantry Recipes,Quick & Easy,Main Dish,Lunch,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT13M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1908-diabetic-lemon-chicken-rosemary-garlic_create-your-plate_022020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "juice and zest of 1 lemon",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "white wine",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Cornstarch",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "chicken tenderloins",
+            "us_amount": "1 1/4 lbs",
+            "metric_amount": "567 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "fresh rosemary",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "In a small bowl, whisk together the lemon juice, wine, and cornstarch. Set aside.",
+        "Sprinkle both sides of the chicken with the salt, black pepper, and lemon zest.",
+        "Heat the olive oil in a medium skillet over medium heat. Add the rosemary and garlic and cook until fragrant, 30 seconds. Add the chicken and cook until a thermometer inserted into a chicken tender reaches 165°F, 5 minutes on each side. Add the lemon juice mixture and toss to coat. Continue cooking for 3 minutes; the liquid will slightly thicken. Serve warm."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Kidney-Friendly",
+        "CKD Dialysis",
+        "Easy Pantry Recipes",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "10g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "80mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "3g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "30g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/lemon-chicken-rosemary-and-garlic"
+}

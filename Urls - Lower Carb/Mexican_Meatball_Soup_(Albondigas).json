@@ -1,0 +1,116 @@
+{
+    "title": "Mexican Meatball Soup (Albondigas)",
+    "keywords": "Dinner,Lunch,Main Dish,Soup",
+    "prep_time": "PT20M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Soup"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/diabetic-albondigas-mexican-meatball-soup-tex-mex-diabetes-cooking_080318_1021x779.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "ground sirloin or lean ground beef",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "long-grain white rice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "large egg",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh oregano",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1 3/4 tsp",
+            "metric_amount": "9 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "onion(s) (diced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "red bell pepper (cored, seeded, and diced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "low-sodium beef broth",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "tomato paste",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "zucchini (chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fresh cilantro (minced)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "In a large bowl, combine meat, rice, and egg. Mix in oregano, salt, and pepper. Roll into 1-inch balls. Cover and set aside.",
+        "In a large pot, heat oil over medium-low heat. Add onion and bell pepper, and cook, stirring, until softened, 3–5 minutes. Add garlic and cook, stirring, for 2 minutes.",
+        "Increase heat to medium-high, add broth and tomato paste, and bring to a boil.",
+        "Reduce heat to a simmer, add zucchini, and cook until zucchini is soft, 10–12 minutes.",
+        "Gently add meatballs to simmering broth. Cover, reduce heat to low, and simmer until meatballs are no longer pink inside and rice is tender, about 30 minutes.",
+        "Ladle soup and meatballs into individual bowls. Garnish with cilantro"
+    ],
+    "tags": [
+        "Lower Carb",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Soup"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "5g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0.1g",
+        "cholesterol": "130mg",
+        "sodium": "450mg",
+        "total_carbohydrate": "7g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mexican-meatball-soup-albondigas"
+}

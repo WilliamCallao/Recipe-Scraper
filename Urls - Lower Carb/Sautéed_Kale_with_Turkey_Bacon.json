@@ -1,0 +1,73 @@
+{
+    "title": "Sautéed Kale with Turkey Bacon",
+    "keywords": "Gluten-Free,Holidays & Entertaining,Quick & Easy,Sides",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/novdec2014-sauteed-kale-tky.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "turkey bacon (cut into 1-inch pieces)",
+            "us_amount": "6 slice",
+            "metric_amount": "6 slice"
+        },
+        {
+            "name": "kale (chopped)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "low sodium chicken broth (fat-free, reduced sodium)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "red wine vinegar",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "Heat a large pot over medium-high heat. Add the turkey bacon and cook for 4-5 minutes until done.",
+        "Add the kale and chicken broth to the pan; mix well. Cover and cook for 5 minutes.",
+        "Remove the lid from the pot and stir in the black pepper and red wine vinegar."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Veggie Rich",
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "240mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sauteed-kale-turkey-bacon"
+}

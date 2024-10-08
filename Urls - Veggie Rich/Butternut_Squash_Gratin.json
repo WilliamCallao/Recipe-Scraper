@@ -1,0 +1,92 @@
+{
+    "title": "Butternut Squash Gratin",
+    "keywords": "Sides,Vegetarian,Foodie,Holidays & Entertaining",
+    "prep_time": "PT15M",
+    "cook_time": "PT70M",
+    "categories": [
+        "Sides",
+        "Vegetarian",
+        "Foodie",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_138_ButternutSquashGratin_505520341_050118.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "butternut squash",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "all-purpose flour",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "half-and-half (fat-free)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Parmesan cheese (shredded, divided)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "fresh thyme (chopped)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 375 degrees F. Cut the squash in half lengthwise and place it face down in a 9x13-inch baking dish. Pour the water over the squash and bake for 45 minutes.",
+        "Remove the squash from the pan and drain the water. Coat the baking dish with cooking spray.",
+        "Remove the seeds and scoop the flesh of the squash out of the skin. Add the squash flesh back to the prepared baking dish, breaking it up into even sized pieces.",
+        "Add oil to a sauté pan over medium heat. Add the flour and stir to combine. Cook the oil and flour mixture for two minutes then whisk in the fat-free half and half. Bring to a boil, whisking frequently.",
+        "Stir in 1/4 cup of the parmesan cheese, the ground black pepper and the thyme. Stir until cheese is melted.",
+        "Pour the sauce over the butternut squash and sprinkle the remaining 1/4 cup of cheese over the top. Bake for 25 minutes or until golden brown and bubbling."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Comfort Food",
+        "Sides",
+        "Vegetarian",
+        "Foodie",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "95",
+        "total_fat": "3g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "100mg",
+        "total_carbohydrate": "14g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/butternut-squash-gratin"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Toasted Nut & Cranberry Trail Mix",
+    "keywords": "Snacks,Vegetarian,Gluten-Free,Holidays & Entertaining",
+    "prep_time": "PT10M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Snacks",
+        "Vegetarian",
+        "Gluten-Free",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2083-diabetic-low-carb-toasted-nut-cranberry-trail-mix_low-carb-brissette_050721.jpg",
+    "servings": "15 Servings",
+    "ingredients": [
+        {
+            "name": "raw unsalted cashews",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "raw unsalted almonds",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "raw unsalted pecans",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "raw unsalted pistachios (shells removed)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "unsweetened dried cranberries",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "erythritol (or other sugar substitute)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "egg white",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat your oven to 350 degrees F. Line two rimmed baking sheets with parchment paper and spray with cooking spray. Spread the cashews, almonds, pecans and pistachios evenly on the baking sheets and bake for 6 minutes. Remove the nuts from the oven and let them cool. Lower the heat to 225 degrees F.",
+        "In a large bowl, mix the cooled roasted nuts, cranberries, egg white, cinnamon, vanilla and salt until coated.",
+        "Spread the trail mix onto the same baking sheets. Bake for 45 minutes, stirring every 15 minutes.",
+        "Let cool, then store in an airtight container."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Snacks",
+        "Vegetarian",
+        "Gluten-Free",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "13g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "45mg",
+        "total_carbohydrate": "8g",
+        "fiber": "3g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/toasted-nut-cranberry-trail-mix"
+}

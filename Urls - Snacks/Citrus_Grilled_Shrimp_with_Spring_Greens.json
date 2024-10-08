@@ -1,0 +1,107 @@
+{
+    "title": "Citrus Grilled Shrimp with Spring Greens",
+    "keywords": "Dinner,Snacks,Salads,Gluten-Free,Lunch",
+    "prep_time": "PT5M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Dinner",
+        "Snacks",
+        "Salads",
+        "Gluten-Free",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/185-diabetic-citrus-grilled-shrimp_468306506_092618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "clementine oranges (juiced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "lime (juiced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Dash hot sauce",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "large shrimp (raw)",
+            "us_amount": "16",
+            "metric_amount": "16"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "spring mix salad",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "clementine oranges (peeled and sectioned)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "clementine oranges (juice)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "In a medium bowl, whisk together orange and lime juice, hot sauce, garlic and pepper. Add shrimp to bowl and place in refrigerator to marinate for 20 minutes.",
+        "Prepare an indoor or outdoor grill to medium. Spray grill rack with cooking spray.",
+        "Place shrimp on skewers and grill for 2-3 minutes on each side or until shrimp are done.",
+        "Serve shrimp on top of spring mix salad with clementine slices.",
+        "Whisk together dressing ingredients and pour over shrimp and salad."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Grilling",
+        "Dinner",
+        "Snacks",
+        "Salads",
+        "Gluten-Free",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "45mg",
+        "total_carbohydrate": "13g",
+        "fiber": "2g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/citrus-grilled-shrimp-spring-greens"
+}

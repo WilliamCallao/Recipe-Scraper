@@ -1,0 +1,96 @@
+{
+    "title": "Low Carb Chicken and Zucchini Casserole",
+    "keywords": "Main Dish,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT50M",
+    "categories": [
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/zucchini%20chicken%20casserole%20diabetic.png",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Butter Flavored Cooking Spray (for greasing the baking dish)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zucchini (thinly sliced)",
+            "us_amount": "4 med",
+            "metric_amount": "4 med"
+        },
+        {
+            "name": "onion(s) (thinly sliced)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "grated mozzarella cheese",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "boneless, skinless chicken breasts (cooked and shredded)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "fat-free half-and-half",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "butter",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "ground coriander",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat your oven to 375 degrees F (190 degrees C).",
+        "Grease a 9x13 baking dish with cooking spray or butter. Arrange a layer of sliced zucchinis at the bottom of the dish, slightly overlapping. Sprinkle a portion of the sliced onions over the zucchinis. Sprinkle a bit of the grated cheese over the onions. Repeat the layers until all zucchinis, onions, and half of the cheese are used.",
+        "Sprinkle the cooked chicken evenly over the layered zucchinis and cheese.",
+        "In a small saucepan, melt the butter over medium heat. Stir in the heavy cream, dried coriander, salt, and pepper. Heat the mixture until it's warmed through.",
+        "Pour the cream mixture evenly over the layered zucchinis, onions, cheese, and chicken. Sprinkle the remaining cheese on top.",
+        "Cover the baking dish with aluminum foil and bake in the preheated oven for 30 minutes.",
+        "Remove the foil and continue baking for an additional 15–20 minutes, or until the zucchinis are tender, the chicken is heated through, and the cheese is melted and golden. Let the casserole rest for a few minutes before serving."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Kid Friendly",
+        "Italian",
+        "Comfort Food",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "9g",
+        "saturated_fat": "4.8g",
+        "trans_fat": "0.1g",
+        "cholesterol": "90mg",
+        "sodium": "480mg",
+        "total_carbohydrate": "10g",
+        "fiber": "2g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "33g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/low-carb-chicken-and-zucchini-casserole"
+}

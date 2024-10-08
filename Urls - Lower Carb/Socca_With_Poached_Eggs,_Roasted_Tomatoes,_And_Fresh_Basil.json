@@ -1,0 +1,101 @@
+{
+    "title": "Socca With Poached Eggs, Roasted Tomatoes, And Fresh Basil",
+    "keywords": "Vegetarian,Lunch,Breakfast and Brunch",
+    "prep_time": "PT1H",
+    "cook_time": "PT10M",
+    "categories": [
+        "Vegetarian",
+        "Lunch",
+        "Breakfast and Brunch"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/RecId_840_SoccaWithPoachedEggs_WholeCooking_022618.jpg",
+        "Roasted Tomatoes",
+        "And Fresh Basil\" loading=\"lazy\" />"
+    ],
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "chickpea flour",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cumin",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "fine sea salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "warm water",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Extra Virgin Olive Oil (divided)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "white wine vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "large eggs",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "fire-roasted tomatoes",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "fresh basil (chopped)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Place a 10-inch cast-iron skillet about 12 inches from your oven’s heating element and set the oven to “Broil.”",
+        "In a small bowl, whisk together chickpea flour, cumin, and salt. Slowly stream in water, whisking quickly to eliminate lumps, then stir in 1 tablespoon of the olive oil. Cover the bowl and set aside for at least 15 minutes. (Or store it in the refrigerator for up to 12 hours.) The batter should be a thin, pancake batter–like consistency.",
+        "After the batter has rested, carefully remove the hot skillet from the oven. Add the remaining 1 tablespoon of olive oil to the skillet and pour in the socca batter. Broil for 8–10 minutes, or until the edges of the socca are browned and the center is set.",
+        "Meanwhile, set a metal strainer in the bottom of a large pot, fill the pot 2/3 full with water, and add the vinegar. Crack each egg into a small prep bowl. Place the pot over medium-high heat and bring the vinegar and water to a simmer. Using a long-handled spoon, stir the water in a wide, circular motion to create a whirlpool. Quickly, while the whirlpool is still going, slide in the eggs, one by one. Once all the eggs are in the water, poach them without stirring until the whites are set and the yolks are no longer runny, about 4–6 minutes. Using tongs, carefully lift the strainer out of the water with the eggs.",
+        "Remove socca from the oven and cut it into 8 wedges. To serve, place a socca wedge on each of 8 plates and top each serving with 1 poached egg, 2 tablespoons roasted tomatoes, and 2 tablespoons chopped basil. Season servings with pepper."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Italian",
+        "French",
+        "Vegetarian",
+        "Lunch",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "11g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "185mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "9g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/socca-poached-eggs-roasted-tomatoes-and-fresh-basil"
+}

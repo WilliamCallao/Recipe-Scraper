@@ -1,0 +1,78 @@
+{
+    "title": "Marinated Grilled Salmon - Foodie Recipe",
+    "keywords": "Lunch,Dinner,Foodie",
+    "prep_time": "PT30M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Dinner",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/ThinkstockPhotos-509422213.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "lower sodium soy sauce",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "small hot chile pepper (Serrano or other, equivalent of 1 Tbsp. minced chile pepper)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh ginger (grated)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lemongrass (minced, if you can’t find lemongrass, sub with 1 Tbsp. lime juice)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "low-calorie brown sugar substitute",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salmon filets (4-ounces each, skinless)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "Prepare an indoor or outdoor grill.",
+        "Whisk together all ingredients in a medium sized bowl except salmon.",
+        "Pour marinade over salmon, coating both sides. Marinate in the refrigerator for 30 minutes.",
+        "Remove slamon from marinade. Grill filets 4-6 minutes on each side and discard leftover marinade."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Grilling",
+        "Seafood",
+        "Lunch",
+        "Dinner",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "225",
+        "total_fat": "12g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "80mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "2g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/marinated-grilled-salmon-foodie-recipe"
+}

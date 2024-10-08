@@ -1,0 +1,89 @@
+{
+    "title": "Mini Vegetable Frittata",
+    "keywords": "Vegetarian,Quick & Easy,Gluten-Free,Breakfast and Brunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Vegetarian",
+        "Quick & Easy",
+        "Gluten-Free",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1763-diabetic-breakfast-mini-vegetable-frittate_MedCkbk2_031419.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "medium yellow onion (cut into very thin slices)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "shiitake mushrooms (stemmed and cut into very thin slices)",
+            "us_amount": "1 pints",
+            "metric_amount": "480 ml"
+        },
+        {
+            "name": "large zucchini (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "small leeks (white and light green parts rinsed and finely chopped)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "large eggs (beaten until foamy)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "basil leaves (hand torn)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "grated pecorino romano cheese",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350 degrees F.",
+        "Heat olive oil in a large, wide, ovenproof skillet over medium-high heat. Add the onion and saute, stirring occasionally, until softened and golden (about 4 minutes). Add the mushrooms and zucchini, and cook until browned (about 4 minutes). Add the leeks, stir, and cook for another 4 minutes. Remove from heat, and set aside until cooled.",
+        "In a large bowl, whisk together the beaten eggs, basil leaves, and pecorino cheese. Add the cooled vegetables to the egg mixture and stir to combine.",
+        "Grease a 12-hole muffin tin with nonstick cooking spray and distribute the egg and vegetable mixture evenly into the holes, filling each 1/2-3/4 of the way. Put muffin tin in the oven and bake until the frittata tops are golden and the eggs are set, about 8-10 minutes. Allow to cool slightly and serve."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Mediterranean",
+        "Vegetarian",
+        "Quick & Easy",
+        "Gluten-Free",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "14g",
+        "saturated_fat": "3.6g",
+        "trans_fat": "0g",
+        "cholesterol": "125mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "8g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mini-vegetable-frittata"
+}

@@ -1,0 +1,88 @@
+{
+    "title": "Shaved Asparagus, Radish and Parmesan Salad",
+    "keywords": "Foodie,Vegetarian,Sides,Salads",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Foodie",
+        "Vegetarian",
+        "Sides",
+        "Salads"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_162418913.jpg",
+        "Radish and Parmesan Salad\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "small radishes",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "Parmesan cheese (grated)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "garlic (grated or minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lemon (zested and juiced (about 1/4 cup juice))",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "large asparagus spears ((1 lb))",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        }
+    ],
+    "instructions": [
+        "In a large salad bowl, whisk together lemon zest, lemon juice, Dijon mustard, garlic, ground black pepper, Parmesan cheese and olive oil.",
+        "Trim woody ends off of asparagus and discard. Trim heads off asparagus and toss in the bowl with the salad dressing.",
+        "Using a vegetable peeler, shave asparagus stalks lengthwise and toss with the dressing in the bowl (or slice the asparagus using a slicing blade on a food processor).",
+        "Shave radishes with the peeler, mandolin or slicing blade on the food processor. Toss with rest of salad ingredients."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Foodie",
+        "Vegetarian",
+        "Sides",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "8g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "130mg",
+        "total_carbohydrate": "5g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/shaved-asparagus-radish-and-parmesan-salad"
+}

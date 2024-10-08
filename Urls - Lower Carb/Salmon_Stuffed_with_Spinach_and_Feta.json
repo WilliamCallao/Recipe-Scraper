@@ -1,0 +1,86 @@
+{
+    "title": "Salmon Stuffed with Spinach and Feta",
+    "keywords": "Dinner,Foodie,Main Dish",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/salmon-and-spinach_recipe.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "feta cheese (reduced-fat, crumbled)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "frozen spinach (16-ounce, thawed and drained well)",
+            "us_amount": "1 package",
+            "metric_amount": "1 package"
+        },
+        {
+            "name": "Extra Virgin Olive Oil (divided)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "salt, to taste",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Pepper, to taste",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "dried mint",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salmon fillets (3.5-ounce each, skinned)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "vegetable stock (fat-free, low-sodium)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Juice of 1 lemon",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350 degrees Fahrenheit. Heat 1 Tbsp. olive oil in skillet over medium heat. And spinach, and stir to coat. Add feta, salt, pepper, and mint. Stir to combine, and remove from heat.",
+        "Grease bottom of a baking dish with remaining 1 Tbsp. oil.",
+        "Place fillets on a work surface, and cover with 1/2 cup spinach mixture on each. Roll fillets up, and stand on one end. Place in baking dish, and turn to coat in olive oil. Season with salt and pepper. Pour stock into the bottom of the baking dish. Pour lemon juice on the top of the fillets. Cover with foil. Bake for 20 minutes or until salmon is cooked through."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Dinner",
+        "Foodie",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "285",
+        "total_fat": "17g",
+        "saturated_fat": "2.9g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "275mg",
+        "total_carbohydrate": "7g",
+        "fiber": "4g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/salmon-stuffed-spinach-and-feta"
+}

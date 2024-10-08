@@ -1,0 +1,115 @@
+{
+    "title": "Valencian Seafood Paella",
+    "keywords": "Dinner,Foodie,Main Dish,One Pot",
+    "prep_time": "PT10M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Main Dish",
+        "One Pot"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1781-diabetic-Valencian-Seafood-Paella_Mediterranean-Ckbk_041819.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "yellow onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "jumbo shrimp (peeled and deveined)",
+            "us_amount": "1/4 lbs",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "baby squid (cleaned and sliced into rings)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "boneless white fish fillets, such as cod or swai",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "medium-grain Spanish rice",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "frozen lima beans (thawed and drained)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "saffron",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "sweet paprika",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "garlic (chopped)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "finely chopped fresh parsley",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "fish or seafood stock",
+            "us_amount": "5 cup",
+            "metric_amount": "1 l 183 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "jarred pimiento peppers",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Cook paella, uncovered, for 30–40 minutes or until all liquid is absorbed, stirring occasionally. When paella is done, allow to stand at room temperature for 10 minutes. Garnish with pimientos, and serve warm.",
+        "Heat oil in a large, wide skillet over medium heat. Add onion, and cook until golden brown (about 5 minutes). Add shrimp, squid, and fish to pan. Cook until barely opaque. Add rice and lima beans, and stir in saffron, paprika, garlic, and parsley. Pour the stock over the top of the mixture, and add salt. Increase heat to high to bring to a boil, then reduce heat to low, and stir."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Mediterranean",
+        "Seafood",
+        "Dinner",
+        "Foodie",
+        "Main Dish",
+        "One Pot"
+    ],
+    "nutrition": {
+        "calories": "280",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "145mg",
+        "sodium": "240mg",
+        "total_carbohydrate": "39g",
+        "fiber": "3g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/valencian-seafood-paella"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Sweet Potato Masala",
+    "keywords": "Holidays & Entertaining,Foodie,Vegetarian,Vegan,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Foodie",
+        "Vegetarian",
+        "Vegan",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/sweet-potato-masala-2-may16.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Parchment Paper",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cayenne pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "garam masala",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "sweet potatoes (peeled and cut into 1/2-inch cubes)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 425 F. Add the sweet potatoes to a bowl. In a small bowl, mix together the garam masala, cayenne pepper, salt, and black pepper. Sprinkle the spice mixture over the sweet potatoes.",
+        "Add the olive oil to the bowl and toss to coat. Line a baking sheet with parchment paper. Spread the sweet potatoes in a single layer on the baking sheet. Roast the sweet potatoes for 35 minutes, until golden brown."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Indian",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Vegetarian",
+        "Vegan",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "65mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-potato-masala"
+}

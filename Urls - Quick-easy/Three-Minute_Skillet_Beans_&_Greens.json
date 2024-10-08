@@ -1,0 +1,94 @@
+{
+    "title": "Three-Minute Skillet Beans & Greens",
+    "keywords": "Vegetarian,Vegan,Sides,Quick & Easy,One Pot,Main Dish,Lunch,Gluten-Free,Easy Pantry Recipes,Dinner,Cooking for 1 or 2,Budget Friendly",
+    "prep_time": "PT5M",
+    "cook_time": "PT3M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Quick & Easy",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Gluten-Free",
+        "Easy Pantry Recipes",
+        "Dinner",
+        "Cooking for 1 or 2",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1953-diabetic-quick-Skillet-Beans-Greens_Clean-and-simple_042920.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "no-salt-added garbanzo beans (drained)",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "curry powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ground ginger",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "fresh baby spinach",
+            "us_amount": "1 (5-oz) package",
+            "metric_amount": "1 (5-oz) package"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "In a large skillet, heat the oil over medium heat. Add the garbanzo beans, curry powder, ginger, and pepper, and stir to coat. Add the spinach and salt, and cook while gently stirring until the beans are heated through and the spinach is just wilted, about 2 1/2 minutes. Serve."
+    ],
+    "tags": [
+        "High in Fiber",
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Quick & Easy",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Gluten-Free",
+        "Easy Pantry Recipes",
+        "Dinner",
+        "Cooking for 1 or 2",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "155",
+        "total_fat": "6g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "170mg",
+        "total_carbohydrate": "21g",
+        "fiber": "7g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/three-minute-skillet-beans-greens"
+}

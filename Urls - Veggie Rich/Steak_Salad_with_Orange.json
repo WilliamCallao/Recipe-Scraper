@@ -1,0 +1,134 @@
+{
+    "title": "Steak Salad with Orange",
+    "keywords": "Salads,Main Dish,Gluten-Free,Dinner",
+    "prep_time": "PT45M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Salads",
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/60main_flatironsteaksaladwithoranges%20%281%29.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "sirloin steak (sliced into 1/2 inch thick slices, all visible fat removed)",
+            "us_amount": "15 oz",
+            "metric_amount": "425 ml"
+        },
+        {
+            "name": "olive oil (divided)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "dried rosemary",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Kosher Salt",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "baby spinach",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "orange (segmented)",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "red onion (sliced)",
+            "us_amount": "1/2 small",
+            "metric_amount": "1/2 small"
+        },
+        {
+            "name": "shelled edamame",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "balsamic vinegar (for the dressing)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "Dijon Mustard (for the dressing)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic (minced, for the dressing)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "honey (for the dressing)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Extra Virgin Olive Oil (for the dressing)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Kosher Salt (for the dressing)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "In a bowl, whisk together two tablespoons olive oil, balsamic vinegar, minced garlic, dried rosemary, kosher salt, and black pepper to create the steak marinade.",
+        "Place the steak in a shallow dish and pour the marinade over it. Ensure the steak is coated evenly.",
+        "Let the steak marinate in the refrigerator for at least 30 minutes.",
+        "While the steak marinates, make the dressing. In a small bowl, whisk the balsamic vinegar, mustard, garlic, honey, and seasoning. Continue whisking and slowly add the olive oil and whisk until the dressing is emulsified.",
+        "Preheat the grill to high heat and heat the remaining one tablespoon of oil.",
+        "Remove the steak from the marinade and cook for approximately 4–5 minutes.",
+        "In a large salad bowl, combine spinach, oranges, red onions, and edamame. Drizzle half the dressing on the salad and toss to coat. (Reserve remaining dressing for another use.)",
+        "Arrange the steak on top of the salad."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "High in Fiber",
+        "Salads",
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "13g",
+        "saturated_fat": "3g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "460mg",
+        "total_carbohydrate": "12g",
+        "fiber": "3g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/steak-salad-orange"
+}

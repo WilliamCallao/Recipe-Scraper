@@ -1,0 +1,87 @@
+{
+    "title": "Zucchini With Corn and Peppers",
+    "keywords": "Vegetarian,Vegan,Sides,Quick & Easy",
+    "prep_time": "PT25M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/zucchini-corn-peppers.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ears corn (husked, silks removed, kernels sliced off cob (1 1/2 cups kernels))",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "zucchini (thinly sliced)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "jalapeño pepper (seeded and minced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "red bell pepper (cored, seeded, and diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "onion(s) (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        }
+    ],
+    "instructions": [
+        "In a large skillet, heat the oil over medium heat. Add the onion and sauté for 5 minutes. Add the garlic and red and jalapeño peppers and sauté for 2 minutes.",
+        "Add the zucchini and sauté for 3 to 4 minutes. Add the corn to the skillet and sauté for 2 to 4 minutes. Season with the salt and black pepper."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "75",
+        "total_fat": "3g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "145mg",
+        "total_carbohydrate": "11g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/zucchini-corn-and-peppers"
+}

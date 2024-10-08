@@ -1,0 +1,95 @@
+{
+    "title": "Peanut Butter Banana Oat Bites",
+    "keywords": "Vegetarian,Gluten-Free,Breakfast and Brunch,Quick & Easy,Snacks",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Gluten-Free",
+        "Breakfast and Brunch",
+        "Quick & Easy",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/383_diabetic-peanut-butter-banana-oat-bites_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "24 Servings",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "banana(s) (mashed)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "peanut butter (heated in microwave for 30 seconds)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "low-calorie brown sugar substitute",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "old-fashioned rolled oats (gluten-free if needed)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "baking soda",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ground flax seed",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350 degrees. Line a baking sheet with parchment paper.",
+        "In a medium bowl whisk together peanut butter, banana, egg, vanilla and Splenda Brown Sugar blend.",
+        "In a small bowl mix together oats, baking soda and salt. Add milled flaxseed.",
+        "Add oat mixture to peanut butter mixture and mix well.",
+        "Scoop batter into 1 Tbsp. balls and place on baking sheet. Bake for 10-12 minutes. Cool on wire rack."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Kid Friendly",
+        "Vegetarian",
+        "Gluten-Free",
+        "Breakfast and Brunch",
+        "Quick & Easy",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "4g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "130mg",
+        "total_carbohydrate": "7g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/peanut-butter-banana-oat-bites"
+}

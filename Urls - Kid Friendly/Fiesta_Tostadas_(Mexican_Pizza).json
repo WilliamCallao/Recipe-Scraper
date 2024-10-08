@@ -1,0 +1,78 @@
+{
+    "title": "Fiesta Tostadas (Mexican Pizza)",
+    "keywords": "Dinner,Main Dish",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_696_FiestaTostadas_SixOClockScramble_022618.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "large whole-wheat tortillas",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "refried beans",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "canned black beans (low-sodium, drained and rinsed)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "avocado (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "frozen corn kernels (no need to thaw)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sliced back olives (Alternatively you could use sausage, pepperoni, or chorizo.)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "cheddar cheese, or use Mexican blend, Monterey Jack, or pepper jack (shredded)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "DO AHEAD OR DELEGATE: Slice the olives or sausage if using, and shred the cheddar cheese if necessary, and refrigerate.",
+        "Preheat the oven to 425°F. Line 2 large baking sheets with silicone baking mats or nonstick cooking spray. Put the tortillas on the baking sheets, spread a thin layer of refried beans on each (about 2 tablespoon per tortilla), and top each tortilla with about 1 tablespoon beans, 1 tablespoon avocado, 1 teaspoon corn, 1 teaspoon olives, and 1 tablespoon cheese (we like them best when spread lightly with the refried beans and not overloaded with toppings).",
+        "Bake for about 10 minutes until the tortillas get browned and crunchy. (Meanwhile, make the ranch dressing and cut up the vegetables, if you are serving them.) Serve the tostadas immediately."
+    ],
+    "tags": [
+        "High in Fiber",
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Kid Friendly",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "225",
+        "total_fat": "9g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0.1g",
+        "cholesterol": "5mg",
+        "sodium": "385mg",
+        "total_carbohydrate": "32g",
+        "fiber": "7g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fiesta-tostadas-mexican-pizza"
+}

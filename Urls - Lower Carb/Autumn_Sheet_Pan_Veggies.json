@@ -1,0 +1,94 @@
+{
+    "title": "Autumn Sheet Pan Veggies",
+    "keywords": "Vegetarian,Vegan,Sides,Gluten-Free",
+    "prep_time": "PT15M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/3490_Autumn%20Sheet-Pan%20Veggies.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "butternut squash (peeled, seeded and cut into ¾-inch cubes)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "brussels sprouts (halved)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "red onion (cut into ½-inch slices)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "Splenda® Monk Fruit Granulated Sweetener",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground nutmeg",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Honeycrisp apple (seeded and cut into 1-inch pieces)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pecans (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "fresh parsley (chopped)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 400°F and line a rimmed baking sheet with parchment paper or aluminum foil.",
+        "In a large bowl, toss butternut squash, Brussels sprouts, onion, Splenda Monk Fruit Sweetener, olive oil, cinnamon and nutmeg together until coated.",
+        "Arrange vegetables in a single layer on prepared baking sheet. Bake until vegetables are crisp-tender, about 15 minutes. Remove from oven.",
+        "Add apples, and flip vegetables over. Continue to bake until vegetables are tender and light golden brown, about 10-15 minutes. Top with pecans and parsley. Serve and enjoy."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "15mg",
+        "total_carbohydrate": "13g",
+        "fiber": "4g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/autumn-sheet-pan-veggies"
+}

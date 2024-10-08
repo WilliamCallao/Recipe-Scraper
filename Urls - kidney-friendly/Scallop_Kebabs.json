@@ -1,0 +1,80 @@
+{
+    "title": "Scallop Kebabs",
+    "keywords": "Appetizers,Dinner,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Appetizers",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_828_Scallop%20Kebabs_SmartShopperCkbk_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "wooden skewers",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "panko bread crumbs",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Parmesan cheese (grated)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "garlic (very finely minced, almost to a paste)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "Italian seasoning",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "large sea scallops (fresh or frozen, thawed and patted dry)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "Olive oil cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Add the wooden skewers to a pan of hot water. Set aside for 1–2 hours.",
+        "Cover a broiler pan with aluminum foil. Coat the foil with cooking spray. Preheat the oven broiler to high with the rack set about 5 inches from the heat source.",
+        "Combine the breadcrumbs, Parmesan cheese, garlic, and Italian seasoning together on a plate. Roll each scallop in the breadcrumb mixture.",
+        "Remove the wooden skewers from the hot water. Using two skewers per kebab, thread the scallops onto the skewers so the scallops are lying flat through the skewer.",
+        "Place the skewers on the prepared broiler pan. Coat each skewer with olive oil cooking spray. Broil the scallops for about 4 minutes per side until cooked through."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Seafood",
+        "Appetizers",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "105",
+        "total_fat": "1.5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "405mg",
+        "total_carbohydrate": "10g",
+        "fiber": "0g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/scallop-kebabs"
+}

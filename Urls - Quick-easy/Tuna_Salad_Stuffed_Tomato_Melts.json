@@ -1,0 +1,76 @@
+{
+    "title": "Tuna Salad Stuffed Tomato Melts",
+    "keywords": "Easy Pantry Recipes,Main Dish,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/tuna-salad-stuffed-tomato-melts.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pepper Jack cheese (2/3 oz per slice)",
+            "us_amount": "4 slice",
+            "metric_amount": "4 slice"
+        },
+        {
+            "name": "celery salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "shallots (minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "celery (small diced)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "mayonnaise (made with olive oil)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "tuna packed in water (chunk-light, drained)",
+            "us_amount": "2 can",
+            "metric_amount": "2 can"
+        },
+        {
+            "name": "tomato(es)",
+            "us_amount": "4 large",
+            "metric_amount": "4 large"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to broil (500 degrees F). Line a baking sheet with parchment paper or aluminum foil (spritz with baking spray) and set aside",
+        "Slice the tops off the tomatoes and carefully cut around the inner edge to release the core. Use a spoon to remove the seeds and membrane of the tomatoes to create hollow tomatoes.",
+        "In a medium bowl, combine tuna, mayonnaise, celery, shallot, and celery salt.",
+        "Stuff tomatoes with the tuna mixture and top with a slice of cheese.",
+        "Place tomatoes on the baking sheet and broil for 3–5 minutes, until the cheese melts and begins to brown."
+    ],
+    "tags": [
+        "Easy Pantry Recipes",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "13g",
+        "saturated_fat": "4.5g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "480mg",
+        "total_carbohydrate": "7g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "2g",
+        "protein": "15g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tuna-salad-stuffed-tomato-melts"
+}

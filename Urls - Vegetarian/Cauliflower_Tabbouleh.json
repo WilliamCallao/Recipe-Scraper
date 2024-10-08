@@ -1,0 +1,89 @@
+{
+    "title": "Cauliflower Tabbouleh",
+    "keywords": "Salads,Gluten-Free,Foodie,Vegetarian,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Gluten-Free",
+        "Foodie",
+        "Vegetarian",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/149-diabetic-cauliflower-tabbouleh_AdobeStock213578031_012121.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "packed parsley leaves",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "packed mint leaves",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "small head cauliflower (or 16-oz frozen cauliflower rice) (leaves and stem removed)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "roma (plum) tomatoes (seeded and diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lemon juice (freshly squeezed)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Mince the parsley and mint leaves (or grind in a food processor) and add to a large bowl.",
+        "Grate the cauliflower using a box grater and stir together with the parsley and mint.",
+        "Add the diced tomato and stir it into the salad.",
+        "Drizzle the salad with the olive oil and lemon juice, and sprinkle with the salt (optional) and black pepper. Stir to coat.",
+        "Cover and let the tabbouleh marinate for 30 minutes before serving."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Low Sodium",
+        "Mediterranean",
+        "Salads",
+        "Gluten-Free",
+        "Foodie",
+        "Vegetarian",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "130mg",
+        "total_carbohydrate": "6g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cauliflower-tabbouleh"
+}

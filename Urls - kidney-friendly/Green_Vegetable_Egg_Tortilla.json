@@ -1,0 +1,105 @@
+{
+    "title": "Green Vegetable Egg \"Tortilla\"",
+    "keywords": "Vegetarian,Main Dish,Breakfast and Brunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Vegetarian",
+        "Main Dish",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_721_Green_Veg_Egg_Tortilla_SaboresDeCuba_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "green onion (finely sliced)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "broccoli (finely sliced (about 1 cup))",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "roma (plum) tomatoes (washed and cubed)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "spinach (washed and thinly sliced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Kosher Salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "dried oregano (dried)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "black pepper (cracked)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "smoked paprika",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "eggs (whisked)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "milk (fat-free)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350°F.",
+        "To a bowl, add green onion, broccoli, tomato, spinach, salt, garlic powder, oregano, pepper, and smoked paprika. Toss ingredients well to make sure greens are covered with the spices.",
+        "Preheat an ovenproof nonstick pan over medium heat. Add vegetables from the bowl and sauté until ingredients are cooked through, about 2 minutes.",
+        "Add milk to the bowl with whisked eggs and whisk briefly to combine. Add egg mixture to pan and stir with a wooden or plastic spoon. Make sure all ingredients are evenly spread out.",
+        "Place pan in the middle rack of your oven and cook for 10 minutes. To check if the tortilla (egg and vegetable mixture) is done, insert a toothpick in the middle; if it comes out clean, the tortilla is cooked through.",
+        "Remove from oven and let it rest on the stovetop for 1-2 minutes so eggs settle and don’t fall apart when serving. Enjoy!"
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Latin American",
+        "Caribbean",
+        "Vegetarian",
+        "Main Dish",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "5g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "185mg",
+        "sodium": "340mg",
+        "total_carbohydrate": "7g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/green-vegetable-egg-tortilla"
+}

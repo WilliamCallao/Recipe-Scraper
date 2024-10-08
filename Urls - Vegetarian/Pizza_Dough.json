@@ -1,0 +1,78 @@
+{
+    "title": "Pizza Dough",
+    "keywords": "Vegetarian,Holidays & Entertaining,Foodie,Dinner,Lunch",
+    "prep_time": "PT2H5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/pizza-dough-new.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "active dry yeast",
+            "us_amount": "1 packet",
+            "metric_amount": "1 packet"
+        },
+        {
+            "name": "whole wheat flour",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "all-purpose flour",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        }
+    ],
+    "instructions": [
+        "Place all dry ingredients in the bowl of your food processor. Pulse a few times to blend well.",
+        "With the machine running, add 1 cup of water in a slow and steady stream. The dough should form a ball and clean the sides of the food processor. If it seems too dry, add more water, 1 tablespoon at a time. The dough is perfect when it is no longer sticky and feels smooth. If it is too sticky or wet, you can add more flour 1 tablespoon at a time.",
+        "Place dough in a large bowl with extra virgin olive oil. Turn dough to completely cover with oil and then cover tightly with plastic wrap and a cloth towel.",
+        "Let dough rise in a warm place for at least one hour. A good place to rise is in the oven with the oven off and the oven light on.",
+        "After the dough doubles in size, punch it down and let it rise again for as long as possible, at least one hour. I am a huge fan of the longer rise for lighter dough, especially when using whole-wheat flour."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Italian",
+        "Comfort Food",
+        "Vegetarian",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "115",
+        "total_fat": "1g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "185mg",
+        "total_carbohydrate": "21g",
+        "fiber": "2g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pizza-dough"
+}

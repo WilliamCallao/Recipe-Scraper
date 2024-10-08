@@ -1,0 +1,76 @@
+{
+    "title": "OK Oatmeal with Strawberries and Almonds",
+    "keywords": "Breakfast and Brunch,Gluten-Free,Vegetarian",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Breakfast and Brunch",
+        "Gluten-Free",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/383-OatmealStrawberriesDiabetic_155758846_041018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "old-fashioned rolled oats (gluten-free)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "raspberry fruit spread (slightly melted)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "almond extract",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "strawberries (quartered)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "slivered almonds (toasted)",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        }
+    ],
+    "instructions": [
+        "Combine water, oats, and salt in a medium-size pan. Bring to a boil, reduce heat, and simmer 10 minutes uncovered. Remove from heat and let stand 2 minutes.",
+        "Place the fruit spread in a small microwave-safe bowl and cook on high setting for 15 seconds or until slightly melted. Remove from heat and stir in the extract.",
+        "Spoon equal amounts of the oatmeal in 4 bowls. Top with 1 Tbsp. fruit spread, 1/2 cup berries, and 1 Tbsp. almonds."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Kid Friendly",
+        "Breakfast and Brunch",
+        "Gluten-Free",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "205",
+        "total_fat": "6g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "33g",
+        "fiber": "5g",
+        "sugar": "12g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ok-oatmeal-strawberries-and-almonds"
+}

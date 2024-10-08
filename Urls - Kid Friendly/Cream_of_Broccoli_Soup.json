@@ -1,0 +1,80 @@
+{
+    "title": "Cream of Broccoli Soup",
+    "keywords": "Sides,Lunch",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_514630984.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "whole wheat flour",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "onions (small dice)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "chicken stock",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        },
+        {
+            "name": "broccoli (chopped)",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        },
+        {
+            "name": "fat free half-and-half",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "white pepper",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Wash the broccoli thoroughly. Using a vegetable peeler, remove the tough outer layer from the broccoli stalks. Chop broccoli and set aside 1 cup of florets for garnish.",
+        "Bring chicken stock to a simmer and add chopped broccoli. Cook for a few minutes or until broccoli is tender, making sure the color does not become dull.",
+        "Puree cooked broccoli and 1 cup of chicken stock in a food processor. Set aside.",
+        "Add olive oil and onions to a pot and gently cook. Sprinkle flour and stir to mix. On low heat, continue cooking, making sure flour is absorbed and slightly turns color. Slowly whisk hot chicken stock into flour mixture and bring to a simmer. Add broccoli puree and half & half; bring to a simmer, stirring to combine ingredients. Season with salt and peper and garnish with florets. Serve hot."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Kid Friendly",
+        "Sides",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "6g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "350mg",
+        "total_carbohydrate": "11g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cream-broccoli-soup"
+}

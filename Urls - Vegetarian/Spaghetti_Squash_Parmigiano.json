@@ -1,0 +1,81 @@
+{
+    "title": "Spaghetti Squash Parmigiano",
+    "keywords": "Vegetarian,Sides,Gluten-Free",
+    "prep_time": "PT10M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2031-diabetic-Squash-Spaghetti-Parmigiano_DaVita_040821.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "spaghetti squash",
+            "us_amount": "1 (about 5 lbs)",
+            "metric_amount": "1 (about 5 lbs)"
+        },
+        {
+            "name": "olive oil (divided use)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "shallot (minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "grated Parmesan cheese",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 375º F.",
+        "Pierce spaghetti squash with a fork. Microwave for 5 minutes to soften. Cut the spaghetti squash in half and remove seeds and membranes.",
+        "Rub cut squash all over with 2 tbsp olive oil. Place squash cut side down on a lightly greased baking sheet and bake for 50 minutes. Remove squash from oven and set aside to cool enough to be easily handled.",
+        "Heat remaining 2 tablespoons olive oil in a skillet over medium heat. Add garlic and shallot; cook and stir until fragrant, 2-3 minutes. Turn off heat.",
+        "Use a large spoon or fork to scrape the stringy flesh from the squash into the skillet. Add  Parmesan cheese, black pepper and red pepper chili flakes; stir to combine. Serve warm."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Veggie Rich",
+        "Vegetarian",
+        "Sides",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "9g",
+        "saturated_fat": "2.6g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "70mg",
+        "total_carbohydrate": "9g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spaghetti-squash-parmigiano"
+}

@@ -1,0 +1,85 @@
+{
+    "title": "Gluten-Free Chicken Salad Wrap",
+    "keywords": "Lunch,Gluten-Free,Dinner,Sandwiches,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Gluten-Free",
+        "Dinner",
+        "Sandwiches",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/256-Gluten-Free-Chicken-Salad-Wrap_114239215_04112018%20.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "cooked chicken breast (shredded)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "light mayonnaise",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "original hummus",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "celery (diced)",
+            "us_amount": "3 stalks",
+            "metric_amount": "3 stalks"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "dried thyme",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "whole-grain wraps (gluten-free, (such as LaTortilla Factory Gluten-Free Wrap))",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "field greens",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        }
+    ],
+    "instructions": [
+        "In a medium bowl, mix together the chicken, mayonnaise, hummus, celery, pepper, and thyme.",
+        "Spread 1/2 cup chicken salad in the middle of 1 wrap. Top with 1 cup field greens. Fold left and right sides of the wrap in until they touch, and roll from the bottom to make a wrap.",
+        "Repeat procedure for remaining 3 wraps."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner",
+        "Sandwiches",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "360",
+        "total_fat": "12g",
+        "saturated_fat": "1.8g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "560mg",
+        "total_carbohydrate": "35g",
+        "fiber": "5g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/gluten-free-chicken-salad-wrap"
+}

@@ -1,0 +1,80 @@
+{
+    "title": "Easy Chicken and Vegetable Casserole",
+    "keywords": "Easy Pantry Recipes,Dinner,Lunch,One Pot,Quick & Easy,Main Dish,Budget Friendly",
+    "prep_time": "PT5M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Dinner",
+        "Lunch",
+        "One Pot",
+        "Quick & Easy",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1956-diabetic-chicken-rice-vegetable-casserole_Clean-and-simple_AdobeStock179950044_050120.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "brown rice (cooked)",
+            "us_amount": "2 1/2 cup",
+            "metric_amount": "592 ml"
+        },
+        {
+            "name": "cooked chicken (chopped)",
+            "us_amount": "1 lb (about 3 cups)",
+            "metric_amount": "1 lb (about 3 cups)"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "nonstarchy vegetables like broccoli, asparagus, zucchini, etc. (fresh, frozen, or precooked)",
+            "us_amount": "1 lb (about 3 1/2 cups)",
+            "metric_amount": "1 lb (about 3 1/2 cups)"
+        },
+        {
+            "name": "creamy mushroom or broccoli soup  (*not condensed—see note)",
+            "us_amount": "2 1/2 cup",
+            "metric_amount": "592 ml"
+        },
+        {
+            "name": "cheddar cheese (or use jack or Gruyére cheese)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 375°F.",
+        "In a 2-quart baking dish, evenly layer the rice and then chicken. Sprinkle with the salt. Layer with the vegetables.",
+        "Slowly and evenly pour the soup on top. Sprinkle with the cheese. *Be sure to use a ready-to-eat creamy soup, not condensed. If all you have is condensed, thin it out with milk, broth, or water before adding to the casserole.",
+        "Bake uncovered until steaming hot, about 30 minutes, and serve."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Comfort Food",
+        "Easy Pantry Recipes",
+        "Dinner",
+        "Lunch",
+        "One Pot",
+        "Quick & Easy",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "7g",
+        "saturated_fat": "2.7g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "300mg",
+        "total_carbohydrate": "23g",
+        "fiber": "5g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/easy-chicken-and-vegetable-casserole"
+}

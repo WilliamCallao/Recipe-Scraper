@@ -1,0 +1,105 @@
+{
+    "title": "Oven-Barbecued Chicken",
+    "keywords": "Holidays & Entertaining,Budget Friendly,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Holidays & Entertaining",
+        "Budget Friendly",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_89920273.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "white vinegar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "corn oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ketchup",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Worcestershire sauce",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "onion(s) (finely diced)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "brown sugar ((light or dark))",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "mustard powder",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "coarse ground black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "chicken breasts (6-ounce each, boneless, skinless)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350° F. Combine all sauce ingredients in a small saucepan and simmer for 15 minutes over medium-low heat, stirring occasionally.",
+        "Place chicken in a 9x13-inch baking dish coated with cooking spray. Cover chicken evenly with 1 cup barbecue sauce.",
+        "Back for 20-25 minutes, baste with remaining sauce, and cook another 5-10 minutes (or until chicken is tender and no longer pink)."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Holidays & Entertaining",
+        "Budget Friendly",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "4g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "370mg",
+        "total_carbohydrate": "9g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/oven-barbecued-chicken"
+}

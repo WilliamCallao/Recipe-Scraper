@@ -1,0 +1,97 @@
+{
+    "title": "Lemony Tilapia And Asparagus Grill",
+    "keywords": "Dinner,Main Dish,Quick & Easy,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "PT6M",
+    "categories": [
+        "Dinner",
+        "Main Dish",
+        "Quick & Easy",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_760_Lemony_Tilapia_and_Asparagus_Grill_DiabetesHeartHealthy_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "red wine vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt-free lemon pepper (divided use)",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "garlic powder (divided use)",
+            "us_amount": "1 1/4 tsp",
+            "metric_amount": "6 g"
+        },
+        {
+            "name": "asparagus spears (about 24, trimmed)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "cayenne pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "tilapia (patted dry)",
+            "us_amount": "4 (4-oz) fillets",
+            "metric_amount": "4 (4-oz) fillets"
+        },
+        {
+            "name": "medium lemon (cut into 4 wedges)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Lightly spray the grill rack with cooking spray. Preheat the grill on medium high.",
+        "Meanwhile, in a small bowl, whisk together the oil, vinegar, 1/2 teaspoon lemon pepper, and 1/2 teaspoon garlic powder. Pour into a large shallow casserole dish. Add the asparagus, turning several times to coat.",
+        "In a small bowl, stir together the chili powder, cayenne, salt, and the remaining 1 teaspoon lemon pepper and 3/4 teaspoon garlic powder. Sprinkle over both sides of the fish. Using your fingertips, gently press the mixture so it adheres to the fish. Lightly spray both sides of the fish with cooking spray.",
+        "Drain the asparagus, discarding the marinade.",
+        "Place the fish and asparagus lengthwise so they are perpendicular to the grates of the grill. (For the fish, you can also use a grill basket lightly sprayed with cooking spray.) Grill the fish for 3 minutes on each side, or until it flakes easily when tested with a fork. Grill the asparagus for 4–5 minutes, or until tender, turning frequently. Transfer both to a platter. Serve with the lemon wedges."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Lower Carb",
+        "Grilling",
+        "Seafood",
+        "Dinner",
+        "Main Dish",
+        "Quick & Easy",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "6g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "9g",
+        "fiber": "5g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/lemony-tilapia-and-asparagus-grill"
+}

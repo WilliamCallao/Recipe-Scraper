@@ -1,0 +1,115 @@
+{
+    "title": "Shakshuka",
+    "keywords": "Quick & Easy,Lunch,Dinner,Vegetarian,Breakfast and Brunch",
+    "prep_time": "Desconocido",
+    "cook_time": "PT30M",
+    "categories": [
+        "Quick & Easy",
+        "Lunch",
+        "Dinner",
+        "Vegetarian",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/379-Shakshuka-Diabetic_532255108_060118.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "large yellow onion (halved and thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "medium zucchini (halved and thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (thinly sliced)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "paprika",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cayenne, to taste (1/8 to 1/4 tsp, to taste)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "whole plum tomatoes with their juices (coarsely chopped)",
+            "us_amount": "28 oz",
+            "metric_amount": "792 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "feta cheese (crumbled (about 1 cup))",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "fresh cilantro or basil (chopped, for serving)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 375°F.",
+        "Heat the oil in a large heavy skillet, preferably cast iron, over medium heat. Add the onions and zucchini, and sauté for 8–10 minutes until tender. Add the garlic and cook for 1 minute, then add the cumin, paprika and cayenne, and cook for 1 more minute.",
+        "Add the tomatoes, salt and pepper and simmer until the tomatoes have thickened, about 10 minutes. Stir in the cheese.",
+        "Gently crack the eggs into the skillet, spreading them evenly over the tomatoes. Season with a pinch of coarse salt, if desired. Transfer the skillet to the oven and bake until eggs are just set, 7–8 minutes (they will continue to cook for a couple of minutes after you remove them from the oven). Sprinkle with the fresh herbs and serve immediately.",
+        "Do Ahead Or Delegate: Halve and slice the onion and zucchini, slice the garlic, combine the dry spices, chop the tomatoes, or fully prepare the recipe without the eggs and refrigerate or freeze it.",
+        "Flavor Booster: Use smoked paprika instead of regular paprika. Serve with hot pepper sauce such as Tabasco, sriracha or harissa, if you have it."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Veggie Rich",
+        "Mediterranean",
+        "Comfort Food",
+        "Quick & Easy",
+        "Lunch",
+        "Dinner",
+        "Vegetarian",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "10g",
+        "saturated_fat": "3.2g",
+        "trans_fat": "0g",
+        "cholesterol": "190mg",
+        "sodium": "315mg",
+        "total_carbohydrate": "10g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/shakshuka"
+}

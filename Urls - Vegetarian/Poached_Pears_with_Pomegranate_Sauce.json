@@ -1,0 +1,86 @@
+{
+    "title": "Poached Pears with Pomegranate Sauce",
+    "keywords": "Vegetarian,Vegan,Quick & Easy,Dessert,Cooking for 1 or 2",
+    "prep_time": "PT10M",
+    "cook_time": "PT6M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Quick & Easy",
+        "Dessert",
+        "Cooking for 1 or 2"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2012-diabetic-Poached-Pears-Pomegranate_KDBH-bookazine_012821.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "100% pomegranate juice",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "sugar",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "pear (peeled, cut in half, and cored)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Cornstarch",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lemon zest",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sliced almonds (toasted, crumbled)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "In a small saucepan, stir together the pomegranate juice and sugar. Add the pear halves with the cut side down. Bring to a boil over high heat. Reduce the heat and simmer, covered, for 5 minutes, or until tender, turning occasionally. Remove from the heat. Leaving the liquid in the pan, transfer the pear halves with the cut side up to dessert plates.",
+        "Put the cornstarch in a small bowl. Add the water, stirring to dissolve the cornstarch. Pour into the saucepan. Bring to a boil over medium-high heat, whisking constantly. Boil for 1 minute. Remove from the heat. Stir in the lemon zest and vanilla. Spoon over the pears. Sprinkle with the almonds."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Vegetarian",
+        "Vegan",
+        "Quick & Easy",
+        "Dessert",
+        "Cooking for 1 or 2"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "3g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "22g",
+        "fiber": "3g",
+        "sugar": "17g",
+        "added_sugar": "4g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/poached-pears-pomegranate-sauce"
+}

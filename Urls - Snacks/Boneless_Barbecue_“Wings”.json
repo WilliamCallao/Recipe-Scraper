@@ -1,0 +1,93 @@
+{
+    "title": "Boneless Barbecue “Wings”",
+    "keywords": "Lunch,Main Dish,Snacks,Appetizers",
+    "prep_time": "PT15M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Lunch",
+        "Main Dish",
+        "Snacks",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_624_Boneless_Barbecue_Wings_DiabetesHeartHealthy_022518.jpg",
+    "servings": "14 Servings",
+    "ingredients": [
+        {
+            "name": "whole-wheat flour or all-purpose flour",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "seasoned pepper blend (salt-free)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "low-fat buttermilk (low-fat)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "red hot-pepper sauce",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "corn flake cereal (crushed, (about 2 1/2 cups flakes))",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "chicken breasts (boneless, skinless, all visible fat discarded, cut into 28 strips)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "barbeque sauce (lowest sodium available)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "cider vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "honey",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350°F. Lightly spray a baking sheet with cooking spray.",
+        "In a medium shallow dish, stir together the flour and seasoned pepper blend. In a second shallow dish, whisk together the buttermilk and hot-pepper sauce. Put the corn flake crumbs in a third shallow dish. Set the dishes and baking sheet in a row, assembly-line fashion. Working in batches, dip the chicken in the flour mixture, then in the buttermilk mixture, and finally in the corn flake mixture, turning to coat at each step and gently shaking off any excess. Using your fingertips, gently press the coating mixture so it adheres to the chicken.",
+        "Arrange the chicken in a single layer on the baking sheet. Lightly spray the top of the chicken with cooking spray.",
+        "Bake for 25 minutes, or until the chicken is no longer pink in the center and the coating is crisp.",
+        "Meanwhile, in a medium bowl, whisk together the barbecue sauce, vinegar, and honey.",
+        "Add the chicken to the sauce, stirring gently to coat, or serve the sauce on the side."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Comfort Food",
+        "Lunch",
+        "Main Dish",
+        "Snacks",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "75",
+        "total_fat": "1g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "90mg",
+        "total_carbohydrate": "8g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "2g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/boneless-barbecue-wings"
+}

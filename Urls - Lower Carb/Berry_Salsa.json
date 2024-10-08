@@ -1,0 +1,99 @@
+{
+    "title": "Berry Salsa",
+    "keywords": "Snacks,Sauces,Quick & Easy,Holidays & Entertaining,Foodie,Appetizers,Vegetarian,Vegan",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Snacks",
+        "Sauces",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Appetizers",
+        "Vegetarian",
+        "Vegan"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/strawberry-blueberry-ingredient-Dec14.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "chili powder",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "lime (juiced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "fresh cilantro (minced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "red onion (diced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "avocado (diced)",
+            "us_amount": "1/4",
+            "metric_amount": "1/4"
+        },
+        {
+            "name": "frozen strawberries (thawed and drained)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "frozen blueberries (no sugar added, thawed and drained)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Combine all ingredients in a small bowl and serve immediately or chill in the refrigerator for 30 minutes to allow the flavors to blend before serving."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Mexican/Southwestern",
+        "Kid Friendly",
+        "Snacks",
+        "Sauces",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Appetizers",
+        "Vegetarian",
+        "Vegan"
+    ],
+    "nutrition": {
+        "calories": "30",
+        "total_fat": "1.5g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "110mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/berry-salsa"
+}

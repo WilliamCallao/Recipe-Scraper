@@ -1,0 +1,73 @@
+{
+    "title": "Fruit and Cheese Kababs",
+    "keywords": "Appetizers,Quick & Easy,Snacks,Vegetarian,Gluten-Free",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "Quick & Easy",
+        "Snacks",
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/245-diabetic-fruit-cheese-kabobs_082818_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "kiwi(s) (peeled and sliced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "strawberries (hulled and cut in half)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "grapes",
+            "us_amount": "16",
+            "metric_amount": "16"
+        },
+        {
+            "name": "light string cheese sticks (each cut into 4 pieces)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "wooden skewers",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "To make skewers, alternate strawberries, grapes, kiwi slices, and cheese on one skewer (4 strawberry halves, 4 grapes, 2-3 kiwi slices and 3 pieces cheese per skewer).",
+        "Repeat the process for the remaining 3 skewers."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Kid Friendly",
+        "Appetizers",
+        "Quick & Easy",
+        "Snacks",
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "2g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "115mg",
+        "total_carbohydrate": "12g",
+        "fiber": "2g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fruit-and-cheese-kababs"
+}

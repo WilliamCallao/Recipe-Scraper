@@ -1,0 +1,87 @@
+{
+    "title": "Cocoa-Peppermint Power Pudding, Plant-Based",
+    "keywords": "Vegetarian,Vegan,Snacks,No Cook,Dessert",
+    "prep_time": "PT4H",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Snacks",
+        "No Cook",
+        "Dessert"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/Cocoa%20Peppermint%20Pudding%20Diabetics.png",
+        "Plant-Based\" loading=\"lazy\" />"
+    ],
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "canned no-added-salt chickpeas  (do not drain)",
+            "us_amount": "15 oz",
+            "metric_amount": "425 ml"
+        },
+        {
+            "name": "pitted dates (about 15 dates—varies based on size)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "unsweetened cocoa powder (packed)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "fresh peppermint leaves (divided)",
+            "us_amount": "12 leaves",
+            "metric_amount": "12 leaves"
+        },
+        {
+            "name": "pure vanilla extract",
+            "us_amount": "1 1/4 tsp",
+            "metric_amount": "6 g"
+        },
+        {
+            "name": "peppermint extract",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sea salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "unsweetened plant-based milk of choice",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        }
+    ],
+    "instructions": [
+        "Add the chickpeas with all the chickpea liquid (aquafaba), dates, cocoa powder, 6 of the peppermint leaves, the extracts, salt, and plant-based milk to a blender and purée on high speed until velvety smooth and warm, about 4 minutes.",
+        "Spoon the pudding into small dessert dishes, juice glasses, or mini jars. Chill in the refrigerator for at least 4 hours or overnight. Garnish with the remaining 6 peppermint leaves to serve."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Kid Friendly",
+        "Vegetarian",
+        "Vegan",
+        "Snacks",
+        "No Cook",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "28g",
+        "fiber": "7g",
+        "sugar": "15g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cocoa-peppermint-power-pudding-plant-based"
+}

@@ -1,0 +1,71 @@
+{
+    "title": "Corn Bhutta (Roasted Corn on the Cob)",
+    "keywords": "Sides,Vegan,Vegetarian",
+    "prep_time": "PT30M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_671_CornBhutta_IndianCuisine_050318.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "large (7¾-9-inch-long) ears corn (husks on)",
+            "us_amount": "5",
+            "metric_amount": "5"
+        },
+        {
+            "name": "cayenne pepper",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cumin (ground)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sea salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "fresh limes (halved)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        }
+    ],
+    "instructions": [
+        "Soak the corn (husks on) in large bowl or pot of water for 30 minutes.",
+        "Remove the husks and silk from the corn. (Or you can roast corn with husks still on and remove the husks after roasting. This allows the corn to caramelize rather than char while roasting.)",
+        "Roast corn on a grill or over an open gas flame (gas stove) on medium-high heat. Rotate each ear every 30 seconds or so, so the corn gets roasted evenly. (You will hear some kernels pop while cooking.) Remove roasted ears from the grill or flame and set aside.",
+        "Mix cayenne, cumin, and salt in a bowl.",
+        "Carefully remove the husks and silk from corn if you have not done so already. Dip lime halves into the spice mix to pick up the spices and rub all over corn, making sure to squeeze lime juice while doing so. Serve."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Indian",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "1g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "110mg",
+        "total_carbohydrate": "13g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/corn-bhutta-roasted-corn-cob"
+}

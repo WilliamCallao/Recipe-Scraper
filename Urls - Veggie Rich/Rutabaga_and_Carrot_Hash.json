@@ -1,0 +1,82 @@
+{
+    "title": "Rutabaga and Carrot Hash",
+    "keywords": "Sides,Holidays & Entertaining",
+    "prep_time": "PT30M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2016-11-rutabaga-and-carrot-hash.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "rutabaga (peeled, quartered and thinly sliced)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "baking potatoes (peeled and thinly sliced)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "carrot(s) (peeled and thinly sliced)",
+            "us_amount": "1 1/2",
+            "metric_amount": "1 1/2"
+        },
+        {
+            "name": "garlic (peeled)",
+            "us_amount": "5 diente",
+            "metric_amount": "5 diente"
+        },
+        {
+            "name": "bay leaves",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salt and pepper to taste",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "low sodium chicken broth (reduced-sodium, low-fat)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "In a large saucepan combine the rutabaga, potatoes, carrots, garlic, bay leaf, salt and pepper to taste, broth and water. Bring to a boil over medium heat, reduce to a simmer, cover, and cook for 30 minutes until tender. Drain the vegetables, reserving 1/2 cup liquid. Remove and discard the bay leaf.",
+        "With a potato masher, mas the vegetables with the reserved cooking liquid and the olive oil. Readjust seasonings if necessary and serve."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Sides",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "65",
+        "total_fat": "1.5g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "90mg",
+        "total_carbohydrate": "12g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/rutabaga-and-carrot-hash"
+}

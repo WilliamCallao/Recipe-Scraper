@@ -1,0 +1,93 @@
+{
+    "title": "Herbed Panko Asparagus Spears",
+    "keywords": "Vegetarian,Sides,Appetizers,Quick & Easy",
+    "prep_time": "PT7M",
+    "cook_time": "PT7M",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Appetizers",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_742_CarbControl_Asparagus_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "panko bread crumbs",
+            "us_amount": "1/3 cup",
+            "metric_amount": "79 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "asparagus spears (trimmed)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "sour cream (fat-free)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "light mayonnaise",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "milk (fat-free)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "prepared mustard",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "dried tarragon (dried)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Heat the oil in a large skillet over medium-high heat. Add the breadcrumbs and cook 1–2 minutes or until golden, stirring constantly. Set aside on separate plate.",
+        "Bring the water to a boil in the skillet over medium-high heat. Add the asparagus, return to a boil, reduce heat, cover, and simmer 3 minutes or until just tender. Drain well, discarding water. Place the asparagus on a serving plate.",
+        "Meanwhile, in a small bowl, whisk together the sour cream, mayonnaise, milk, mustard, tarragon, and salt. Place in the skillet over medium-low heat and cook 1 minute or until heated, stirring constantly. Spoon over the asparagus and sprinkle with the breadcrumbs."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Comfort Food",
+        "Vegetarian",
+        "Sides",
+        "Appetizers",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "300mg",
+        "total_carbohydrate": "15g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/herbed-panko-asparagus-spears"
+}

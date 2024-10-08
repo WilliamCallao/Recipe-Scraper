@@ -1,0 +1,89 @@
+{
+    "title": "Zucchini and Fresh Corn Succotash",
+    "keywords": "Sides,Vegetarian,Foodie,Gluten-Free",
+    "prep_time": "PT20M",
+    "cook_time": "PT13M",
+    "categories": [
+        "Sides",
+        "Vegetarian",
+        "Foodie",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_598_Zucchini_and_Fresh_Corn_Succotash_PNCImages_03012018.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "medium onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "medium zucchini (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "medium ears of fresh corn on the cob (cooked and kernels cut off the cob)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "black beans (drained and rinsed)",
+            "us_amount": "1 (14.5-ounce) can",
+            "metric_amount": "1 (14.5-ounce) can"
+        },
+        {
+            "name": "fresh parsley (chopped)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Add the olive oil to a large skillet over medium-high heat. Add the onion and sauté for 5-6 minutes or until the onions start to turn clear.",
+        "Add the garlic and zucchini and sauté for 4-5 more minutes until the zucchini is just starting to soften.",
+        "Add the corn and sauté for 2-3 minutes. Then add remaining ingredients until heated through."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "High in Fiber",
+        "Sides",
+        "Vegetarian",
+        "Foodie",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "27g",
+        "fiber": "6g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/zucchini-and-fresh-corn-succotash"
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Low-Carb Easy Tiramisu",
+    "keywords": "Quick & Easy,Holidays & Entertaining,Gluten-Free,Dessert",
+    "prep_time": "PT15M",
+    "cook_time": "PT3M",
+    "categories": [
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2074-diabetic-low-carb-easy-tiramisu_low-carb-brissette_050721.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "almond flour",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "erythritol or other sugar substitute (divided use)",
+            "us_amount": "1/4 cup plus 1 1/2 tbsp",
+            "metric_amount": "1/4 cup plus 1 1/2 tbsp"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "espresso or strong coffee",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "mascarpone cheese",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "dark rum",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "orange zest",
+            "us_amount": "2 tsp (from 1 orange)",
+            "metric_amount": "2 tsp (from 1 orange)"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cocoa powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "In a medium skillet over medium heat, toast the almond flour for 3 minutes or until golden, stirring often to avoid burning.",
+        "In a small bowl, mix the toasted almond flour, 1 1/2 tbsp of the erythritol, cinnamon and salt. Add the espresso and stir. Divide between 6 serving glasses (about 1 heaping tablespoon each).",
+        "In a medium bowl, mix the yogurt with the mascarpone, remaining 1/4 cup erythritol, rum, orange zest and vanilla. Spoon about 1/3 cup on top of the coffee-almond base in each of the serving glasses. Dust each tiramisu lightly with cocoa powder just before serving."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "8g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "15mg",
+        "sodium": "130mg",
+        "total_carbohydrate": "6g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/low-carb-easy-tiramisu"
+}

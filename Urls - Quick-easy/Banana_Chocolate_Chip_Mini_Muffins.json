@@ -1,0 +1,93 @@
+{
+    "title": "Banana Chocolate Chip Mini Muffins",
+    "keywords": "Gluten-Free,Breakfast and Brunch,Budget Friendly,Dessert,Quick & Easy,Snacks",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Gluten-Free",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Dessert",
+        "Quick & Easy",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2124_Banana%20Choc%20Chip%20Mini%20Muffins%20-%20Original%20Photo.jpg",
+    "servings": "18 Servings",
+    "ingredients": [
+        {
+            "name": "banana(s) (overly ripe)",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "Splenda® Stevia Sweetener Jar",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "Kosher Salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Gluten-Free Rolled Oats",
+            "us_amount": "2 1/2 cup",
+            "metric_amount": "592 ml"
+        },
+        {
+            "name": "baking powder",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "baking soda",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Stevia Sweetened Dark Chocolate Chips",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 400 degrees °F. Prepare a mini-muffin tin by spraying with non-stick cooking spray.",
+        "In a blender or food processor, combine the bananas, Splenda® Stevia Jar, Greek yo-gurt, eggs, and salt until smooth.",
+        "Add in oats, baking powder, and baking soda, and blend again until smooth. Sprinkle in dark chocolate chips and stir in the blender with a spatula, scraping down the sides of the blender as well.",
+        "Scoop batter into a mini-muffin tin, filling each 3/4 of the way full. Bake for 12 minutes, until muffins are done. Remove, let cool, and enjoy!",
+        "Note: Muffins will keep in an air-tight container for up to 3 days."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Gluten-Free",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Dessert",
+        "Quick & Easy",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "2.5g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "105mg",
+        "total_carbohydrate": "19g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/banana-chocolate-chip-mini-muffins"
+}

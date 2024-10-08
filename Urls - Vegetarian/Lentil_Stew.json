@@ -1,0 +1,110 @@
+{
+    "title": "Lentil Stew",
+    "keywords": "Foodie,Lunch,Dinner,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Foodie",
+        "Lunch",
+        "Dinner",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/339-Lentil-Stew-Diabetic_177008607_04112018%20.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "onion(s) (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "celery (diced)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "small or 2 medium carrots (peeled and diced)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "jalapeño pepper (seeded and minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "lentils",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "low sodium vegetable broth",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "bay leaves",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "baby spinach",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        }
+    ],
+    "instructions": [
+        "Add oil to a soup pot over medium high heat. Add the onion, celery, carrots, and jalapeno pepper and sauté until the onions turn clear, about 5 minutes.",
+        "Add the garlic and sauté 1 additional minute.",
+        "Stir in the lentils and add the vegetable broth and water.",
+        "Add the bay leaf, salt (optional), and ground black pepper. Bring to a boil. Then, reduce to a simmer. Simmer, covered, for 40 minutes.",
+        "Remove the bay leaf and stir in the spinach until the spinach is wilted."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mediterranean",
+        "Foodie",
+        "Lunch",
+        "Dinner",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "165",
+        "total_fat": "3g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "330mg",
+        "total_carbohydrate": "26g",
+        "fiber": "9g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/lentil-stew"
+}

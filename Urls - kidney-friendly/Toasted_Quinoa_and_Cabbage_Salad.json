@@ -1,0 +1,106 @@
+{
+    "title": "Toasted Quinoa and Cabbage Salad",
+    "keywords": "Dinner,Lunch,Salads,Quick & Easy,Sides,Foodie",
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Salads",
+        "Quick & Easy",
+        "Sides",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/556-diabetic-quinoa-cabbage-slaw_AdobeStock267630719_012521.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "quinoa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "low sodium vegetable broth",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "rice wine vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "dried dill",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "packaged coleslaw mix",
+            "us_amount": "1 (14-oz) bag",
+            "metric_amount": "1 (14-oz) bag"
+        },
+        {
+            "name": "chickpeas (garbanzo beans) (drained and rinsed)",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        }
+    ],
+    "instructions": [
+        "Thoroughly rinse the quinoa in a fine mesh sieve under cold running water.",
+        "Add the quinoa to a medium sauce pan over medium-high heat. Sauté until all water evaporates (about 5 minutes) and the quinoa begins to pop. Add the chicken or vegetable broth and bring to a boil. Reduce to a simmer and cover. Cook for 15 minutes or until all water is absorbed. Set the quinoa aside to cool.",
+        "In a large bowl, whisk together the yogurt, olive oil, rice wine vinegar, dry dill, garlic powder, salt (optional), and pepper.",
+        "Add quinoa and remaining ingredients. Toss to coat."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Veggie Rich",
+        "Dinner",
+        "Lunch",
+        "Salads",
+        "Quick & Easy",
+        "Sides",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "27g",
+        "fiber": "6g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/toasted-quinoa-and-cabbage-salad"
+}

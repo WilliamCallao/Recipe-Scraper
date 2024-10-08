@@ -1,0 +1,62 @@
+{
+    "title": "Double-Duty Banana Pancakes",
+    "keywords": "Quick & Easy,Breakfast and Brunch",
+    "prep_time": "PT7M",
+    "cook_time": "PT6M",
+    "categories": [
+        "Quick & Easy",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_688_Banana%20Pancakes_4IngredientCookbook_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "banana(s) (thinly sliced)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "buckwheat pancake mix",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "skim milk",
+            "us_amount": "2 3/4 cup",
+            "metric_amount": "651 ml"
+        },
+        {
+            "name": "pancake syrup (light)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Mash one half of the banana slices and place in a medium bowl with the pancake mix and the milk. Stir until just blended.",
+        "Place a large nonstick skillet over medium heat until hot. (To test, sprinkle with a few drops of water. If the water drops “dance” or jump in the pan, it’s hot enough.) Coat the skillet with nonstick cooking spray, add two scant 1/4 cup measures of batter, and cook the pancakes until puffed and dry around the edges, about 1 minute.",
+        "Flip the pancakes and cook until golden on the bottom. Place on a plate and cover to keep warm.",
+        "Recoat the skillet with nonstick cooking spray, add three scant 1/4 cup measures of batter, and cook as directed. Repeat with the remaining batter.",
+        "Place 2 pancakes on each of 4 dinner plates, top with equal amounts of banana slices, and drizzle evenly with the syrup. If you like, place the dinner plates in a warm oven and add the pancakes as they are cooked."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Kid Friendly",
+        "Comfort Food",
+        "Quick & Easy",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "0.5g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "140mg",
+        "total_carbohydrate": "23g",
+        "fiber": "2g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/double-duty-banana-pancakes"
+}
