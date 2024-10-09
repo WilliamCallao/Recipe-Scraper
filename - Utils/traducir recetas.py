@@ -1,69 +1,55 @@
 import os
+import csv
 import json
 from googletrans import Translator
-import re
 from concurrent.futures import ThreadPoolExecutor
+import shutil
 
-# Crear una instancia del traductor
 translator = Translator()
 
+def load_title_translations(csv_file):
+    title_dict = {}
+    try:
+        with open(csv_file, newline='', encoding='utf-8') as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                english_title = row["Inglés"].strip()
+                spanish_title = row["Español"].strip()
+                title_dict[english_title] = spanish_title
+    except Exception as e:
+        print(f"Error al cargar el archivo CSV '{csv_file}': {e}")
+    return title_dict
+
 def translate_text(text, dest_language="es"):
-    """
-    Traduce un texto al idioma deseado.
-    """
     try:
         translated = translator.translate(text, dest=dest_language)
         return translated.text
     except Exception as e:
         print(f"Error al traducir el texto: {e}")
-        return None
+        return text
 
-def format_filename(file_name):
-    """
-    Formatea el nombre del archivo reemplazando guiones bajos por espacios antes de traducirlo.
-    """
-    # Reemplazar guiones bajos por espacios
-    formatted_name = file_name.replace('_', ' ')
-    # Traducir el nombre al español
-    translated_name = translate_text(formatted_name)
-    return translated_name if translated_name else file_name
-
-def translate_recipe(input_file, output_file, fail_folder):
-    """
-    Traduce el contenido relevante de un archivo JSON de recetas.
-    Si falla, guarda el archivo en la carpeta de fallos correspondiente.
-    """
+def translate_recipe(input_file, output_file, fail_folder, title_dict):
     try:
         with open(input_file, 'r', encoding='utf-8') as f:
             recipe = json.load(f)
         
-        # Traducir el título
         if "title" in recipe:
-            translated_title = translate_text(recipe["title"])
-            if translated_title:
-                recipe["title"] = translated_title
+            english_title = recipe["title"].strip()
+            if english_title in title_dict:
+                recipe["title"] = title_dict[english_title]
             else:
-                raise Exception("Fallo al traducir el título.")
+                raise ValueError(f"Título no encontrado en el archivo CSV: {english_title}")
         
-        # Traducir los ingredientes
         if "ingredients" in recipe:
             for ingredient in recipe["ingredients"]:
                 if "name" in ingredient:
                     translated_name = translate_text(ingredient["name"])
-                    if translated_name:
-                        ingredient["name"] = translated_name
-                    else:
-                        raise Exception("Fallo al traducir un ingrediente.")
+                    ingredient["name"] = translated_name
         
-        # Traducir las instrucciones
         if "instructions" in recipe:
             translated_instructions = [translate_text(instruction) for instruction in recipe["instructions"]]
-            if all(translated_instructions):
-                recipe["instructions"] = translated_instructions
-            else:
-                raise Exception("Fallo al traducir las instrucciones.")
+            recipe["instructions"] = translated_instructions
         
-        # Guardar el archivo traducido
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(recipe, f, ensure_ascii=False, indent=4)
         print(f"Receta traducida guardada en '{output_file}'")
@@ -76,36 +62,53 @@ def translate_recipe(input_file, output_file, fail_folder):
         shutil.copy(input_file, fail_output_file)
         print(f"Archivo fallido guardado en '{fail_output_file}'")
 
-def translate_folder(input_folder, output_folder, fail_folder):
-    """
-    Traduce todos los archivos JSON en la carpeta de entrada y los guarda en la carpeta de salida.
-    Si falla, guarda el archivo en la carpeta de fallos correspondiente.
-    """
+def translate_folder(input_folder, output_folder, fail_folder, title_dict):
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
     
     def process_file(file_name):
         if file_name.endswith('.json'):
             input_file = os.path.join(input_folder, file_name)
-            output_file_name = format_filename(os.path.splitext(file_name)[0]) + '.json'
-            output_file = os.path.join(output_folder, output_file_name)
-            translate_recipe(input_file, output_file, fail_folder)
+            with open(input_file, 'r', encoding='utf-8') as f:
+                recipe = json.load(f)
+            english_title = recipe["title"].strip()
+            if english_title in title_dict:
+                output_file_name = title_dict[english_title] + '.json'
+                output_file = os.path.join(output_folder, output_file_name)
+                translate_recipe(input_file, output_file, fail_folder, title_dict)
+            else:
+                print(f"Título no encontrado en el archivo CSV: {english_title}")
+                fail_output_folder = os.path.join(fail_folder, os.path.basename(os.path.dirname(input_file)))
+                if not os.path.exists(fail_output_folder):
+                    os.makedirs(fail_output_folder)
+                fail_output_file = os.path.join(fail_output_folder, os.path.basename(input_file))
+                shutil.copy(input_file, fail_output_file)
+                print(f"Archivo fallido guardado en '{fail_output_file}'")
     
     with ThreadPoolExecutor(max_workers=20) as executor:
         executor.map(process_file, os.listdir(input_folder))
 
 def main():
-    base_dir = os.getcwd()
+    base_dir = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir))
     fail_folder = os.path.join(base_dir, "fail")
     if not os.path.exists(fail_folder):
         os.makedirs(fail_folder)
     
     for folder_name in os.listdir(base_dir):
-        if folder_name.startswith("Recipes - "):
-            input_folder = os.path.join(base_dir, folder_name)
-            translated_folder_name = translate_text(folder_name)
-            output_folder = os.path.join(base_dir, translated_folder_name)
-            translate_folder(input_folder, output_folder, fail_folder)
+        folder_path = os.path.join(base_dir, folder_name)
+        if os.path.isdir(folder_path) and folder_name.startswith("Recipes - "):
+            csv_file = os.path.join(base_dir, f"Titles -  {folder_name.split(' - ')[1].strip()}.csv")
+            if os.path.exists(csv_file):
+                title_dict = load_title_translations(csv_file)
+                if title_dict:
+                    print(f"Archivo CSV encontrado y cargado: {csv_file}")
+                    translated_folder_name = "Recetas - " + folder_name.split(' - ')[1]
+                    output_folder = os.path.join(base_dir, translated_folder_name)
+                    translate_folder(folder_path, output_folder, fail_folder, title_dict)
+                else:
+                    print(f"Archivo CSV encontrado pero vacío o con errores: {csv_file}")
+            else:
+                print(f"Archivo CSV no encontrado: {csv_file}")
 
 if __name__ == "__main__":
     main()
