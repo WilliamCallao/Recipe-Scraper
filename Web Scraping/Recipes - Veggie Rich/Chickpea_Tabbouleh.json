@@ -1,0 +1,108 @@
+{
+    "title": "Chickpea Tabbouleh",
+    "keywords": "Holidays & Entertaining,Quick & Easy,Salads,Sides,Snacks,Vegetarian",
+    "prep_time": "PT30M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/mar2015-chickpeatabbouleh.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "bulgur wheat",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "hot water (to cover and soak bulgur)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh parsley ((about 1/2 pound), thick stems removed)",
+            "us_amount": "2 bunch",
+            "metric_amount": "2 bunch"
+        },
+        {
+            "name": "fresh mint (minced)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "cucumber(s) (peeled, seeded, and diced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "green onion (scallion) (finely minced (about 1/2 cup))",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "small tomatoes ((about 1 pound), diced (about 2 1/2 cups))",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "medium red bell pepper (seeded and diced (about 1/2 cup))",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "canned chickpeas (garbanzos) (drained and rinsed)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "fresh lemon juice",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tbsp",
+            "metric_amount": "4 ml"
+        }
+    ],
+    "instructions": [
+        "Rinse the bulgur wheat and add it to a small bowl. Pour hot water over the bulgur, cover, and let soak for about 20 minutes, until doubled in size. Drain excess liquid, if any, and place the bulgur in a large bowl.",
+        "Chop the parsley to a medium-fine consistency. It should have some texture left in it and should not look pureed. Add the parsley to the bulgur wheat, and add all the remaining salad ingredients. Cover and set aside.",
+        "For the vinaigrette, in a small bowl, whisk together the ingredients. Add to the salad; taste and adjust any seasonings. Add more lemon juice if desired. Turn the tabbouleh out onto a platter to serve."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Mediterranean",
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "95",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "110mg",
+        "total_carbohydrate": "12g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chickpea-tabbouleh"
+}

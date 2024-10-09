@@ -1,0 +1,77 @@
+{
+    "title": "Mushroom Burger",
+    "keywords": "Lunch,Dinner,Budget Friendly",
+    "prep_time": "PT5M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/376-diabetic-turkey-burger-mushroom_AdobeStock31133722_022221.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "lean ground turkey",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "whole wheat hamburger buns (about 1 1/2 oz. each)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "white (button) mushrooms (sliced)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "romaine lettuce",
+            "us_amount": "4 leaves",
+            "metric_amount": "4 leaves"
+        },
+        {
+            "name": "tomato slices",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "Prepare an indoor or outdoor grill.",
+        "In a medium bowl, mix together turkey, garlic powder and black pepper. Divide turkey into four equal portions, shaping into a patty.",
+        "Place patties on grill rack; grill 3-4 minutes per side or until juice run clear.",
+        "In a medium sauté pan, heat margarine over medium-high heat. Add mushrooms and sauté for 5 minutes until soft. Place each burger on bun, top with mushrooms. lettuce, and tomato.",
+        "This recipe can be made gluten-free by using gluten-free bread and verify all other ingredients are gluten-free."
+    ],
+    "tags": [
+        "Grilling",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "330",
+        "total_fat": "13g",
+        "saturated_fat": "3.3g",
+        "trans_fat": "0.1g",
+        "cholesterol": "85mg",
+        "sodium": "330mg",
+        "total_carbohydrate": "25g",
+        "fiber": "4g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mushroom-burger"
+}

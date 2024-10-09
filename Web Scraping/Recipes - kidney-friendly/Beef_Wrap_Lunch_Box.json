@@ -1,0 +1,96 @@
+{
+    "title": "Beef Wrap Lunch Box",
+    "keywords": "Cooking for 1 or 2,Lunch,No Cook,Quick & Easy,Sandwiches",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Lunch",
+        "No Cook",
+        "Quick & Easy",
+        "Sandwiches"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2030-diabetic-Tortilla-Beef-Rollup-Lunch-Box_DaVita_040821.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "cooked deli roast beef (sliced)",
+            "us_amount": "2 1/2 oz",
+            "metric_amount": "71 ml"
+        },
+        {
+            "name": "red onion",
+            "us_amount": "1 slice",
+            "metric_amount": "1 slice"
+        },
+        {
+            "name": "red bell pepper (thinly sliced)",
+            "us_amount": "1/4",
+            "metric_amount": "1/4"
+        },
+        {
+            "name": "cucumber",
+            "us_amount": "4 slice",
+            "metric_amount": "4 slice"
+        },
+        {
+            "name": "romaine lettuce",
+            "us_amount": "1 leaf",
+            "metric_amount": "1 leaf"
+        },
+        {
+            "name": "6-inch flour tortilla",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "whipped cream cheese",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt-free herb seasoning, such as Ms. Dash",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "grapes",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "unsalted almonds",
+            "us_amount": "10",
+            "metric_amount": "10"
+        }
+    ],
+    "instructions": [
+        "Place rollup, grapes and almonds on a plate or in divided lunch container.",
+        "To prepare the beef rollup, spread cream cheese on the tortilla. Layer roast beef slices and vegetables on top. Sprinkle with herb seasoning. Roll tortilla up like a jelly roll and cut into 4 pieces."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Kid Friendly",
+        "Cooking for 1 or 2",
+        "Lunch",
+        "No Cook",
+        "Quick & Easy",
+        "Sandwiches"
+    ],
+    "nutrition": {
+        "calories": "400",
+        "total_fat": "16g",
+        "saturated_fat": "2g",
+        "trans_fat": "0.1g",
+        "cholesterol": "65mg",
+        "sodium": "285mg",
+        "total_carbohydrate": "37g",
+        "fiber": "4g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/beef-wrap-lunch-box"
+}

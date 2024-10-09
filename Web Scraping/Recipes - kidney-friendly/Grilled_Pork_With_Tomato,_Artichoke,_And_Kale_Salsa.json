@@ -1,0 +1,103 @@
+{
+    "title": "Grilled Pork With Tomato, Artichoke, And Kale Salsa",
+    "keywords": "Main Dish,Dinner,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Main Dish",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/RecId_734_2Step_GrilledPorkWithTomatoKalamataAndKaleSalsa_022618.jpg",
+        "Artichoke",
+        "And Kale Salsa\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pork chops (boneless)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "tomato(es) (diced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "canned, quartered artichoke hearts (chopped)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "fresh kale (finely chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "red onion (finely chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "dried oregano (or 1 tbsp fresh oregano)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cider vinegar",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Heat a grill or grill pan coated with cooking spray over medium-high heat. Sprinkle both sides of the pork chops with salt and pepper and cook 4 minutes on each side or until slightly pink in center.",
+        "Meanwhile, combine salsa ingredients in a medium bowl. Serve with pork."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Mediterranean",
+        "Grilling",
+        "Main Dish",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "8g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "415mg",
+        "total_carbohydrate": "8g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-pork-tomato-artichoke-and-kale-salsa"
+}

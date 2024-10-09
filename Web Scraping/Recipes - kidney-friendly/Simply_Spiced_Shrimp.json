@@ -1,0 +1,75 @@
+{
+    "title": "Simply Spiced Shrimp",
+    "keywords": "Dinner,Holidays & Entertaining,Lunch,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "PT3M",
+    "categories": [
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/simply-spiced-shrimp-Oct14.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "lemon juice",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "olive oil (divided)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "smoked paprika",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "garlic (finely minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "shrimp (peeled and deveined)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "In a bowl, mix together the shrimp, garlic, paprika, and chili powder, tossing to coat. Add 1 tsp. of the olive oil and the lemon juice. Let stand 3 minutes.",
+        "In a large skillet, heat the remaining 2 tsp. oil over medium-high heat. Add the shrimp and sauté on both sides for a total of 3 minutes, or until the shrimp is just opaque and cooked through."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Seafood",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "185mg",
+        "sodium": "465mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/simply-spiced-shrimp"
+}

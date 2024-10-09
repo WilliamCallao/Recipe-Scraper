@@ -1,0 +1,149 @@
+{
+    "title": "Tofu Bahn Mi Bowl",
+    "keywords": "Cooking for 1 or 2,Dinner,Lunch,Main Dish,Vegetarian",
+    "prep_time": "PT30M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2076-diabetic-low-carb-korean-tofu-bahn-mi-bowl_low-carb-brissette_050721.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "shredded carrot",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "grated daikon radish (or regular red radish)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "jalapeño pepper (thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "rice vinegar (divided use)",
+            "us_amount": "1/2 cup plus 1/2 tbsp",
+            "metric_amount": "1/2 cup plus 1/2 tbsp"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "extra firm tofu",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "lime juice (divided use)",
+            "us_amount": "2 tbsp plus 2 tsp",
+            "metric_amount": "2 tbsp plus 2 tsp"
+        },
+        {
+            "name": "reduced sodium tamari (divided use)",
+            "us_amount": "2 tbsp plus 1 tsp",
+            "metric_amount": "2 tbsp plus 1 tsp"
+        },
+        {
+            "name": "sriracha",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "mayonnaise",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sesame oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "shredded red cabbage",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "shredded Napa cabbage",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "thinly sliced cucumber",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "chopped fresh cilantro",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "chopped fresh basil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "chopped unsalted peanuts",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Prepare the pickled vegetables: Add the carrot, radish, jalapeno, 1/2 cup of the vinegar, water and salt to a small bowl. Cover and put in the fridge for 20 minutes.",
+        "Drain the tofu: Line a plate with a clean dish towel or 4 layers of paper towels. Set the tofu on top of the towel(s) and fold the rest of the towel(s) on top of the tofu to cover. Put another plate on top of those towels and place something heavy on the top of the stack. Let sit for at least a few minutes to remove some of the water from the tofu.",
+        "Marinate the tofu: After it has drained, cut the tofu into 8 slices and add to a medium bowl. Add the lime juice, 2 tbsp of the tamari and sriracha. Cover and let marinate for 10 minutes.",
+        "Prepare the dressing: in small bowl, whisk together the mayonnaise, remaining 1/2 tbsp rice vinegar, remaining 2 tsp lime juice, remaining 1 tsp tamari, sesame oil, garlic powder, and pepper.",
+        "Cook the tofu: Heat the avocado oil in a medium skillet over medium-high heat. Drain the tofu and discard the excess marinade. Add the tofu slices to the skillet in a single layer (cook in batches if needed). Cook for 6 minutes per side or until golden.",
+        "Prepare the bowls: Divide the cabbages between two large bowls. Top each with half the cucumber slices and 4 slices tofu. Drain the pickled carrot and radish, and top each bowl with half the pickled vegetables. Drizzle half the dressing over each bowl, then garnish each with cilantro, basil, and peanuts."
+    ],
+    "tags": [
+        "Lower Carb",
+        "High in Fiber",
+        "Asian",
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "360",
+        "total_fat": "27g",
+        "saturated_fat": "3.5g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "740mg",
+        "total_carbohydrate": "18g",
+        "fiber": "5g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tofu-bahn-mi-bowl"
+}

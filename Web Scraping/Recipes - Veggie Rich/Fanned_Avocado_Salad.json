@@ -1,0 +1,96 @@
+{
+    "title": "Fanned Avocado Salad",
+    "keywords": "Quick & Easy,Salads,Vegetarian",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Salads",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_692_Fanned_Avacado_Salad_DiabetesHeartHealthy_022518.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "fresh lime juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "fresh lemon juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "red hot-pepper sauce",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "medium spinach leaves",
+            "us_amount": "18",
+            "metric_amount": "18"
+        },
+        {
+            "name": "medium cucumber (peeled and sliced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "medium tomato (sliced crosswise and halved)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "medium avocado (thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh cilantro (chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "feta cheese (fat-free, crumbled)",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        }
+    ],
+    "instructions": [
+        "In a small bowl, whisk together the lemon juice, lime juice, hot sauce, salt, and pepper.",
+        "On a platter, decoratively arrange the spinach, cucumber, tomato, and avocado like a fan or an accordion. Pour the dressing over all. Sprinkle with the cilantro and feta. Serve immediately for peak flavor and so the spinach doesn’t wilt."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "Lower Carb",
+        "Quick & Easy",
+        "Salads",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "5g",
+        "fiber": "3g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fanned-avocado-salad"
+}

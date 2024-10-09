@@ -1,0 +1,124 @@
+{
+    "title": "Braised Moroccan Chicken",
+    "keywords": "Main Dish,Gluten-Free,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-09/35main_braisedmoroccanchicken.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "avocado oil (divided)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "chicken thighs (skinless)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "Kosher Salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "yellow onion (diced)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "ground coriander",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "smoked paprika",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "turmeric",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "cayenne pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "low sodium chicken stock",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "canned diced tomatoes (no salt added)",
+            "us_amount": "2 can",
+            "metric_amount": "2 can"
+        },
+        {
+            "name": "white (button) mushrooms (sliced)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "red bell pepper (sliced)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "lemon (zested)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        }
+    ],
+    "instructions": [
+        "Heat 2 tablespoons of oil in a Dutch oven or large pot on medium high heat.",
+        "Pat the chicken dry and season both sides with kosher salt and pepper. Place them in the pot (in batches if needed) and brown on both sides, transferring them to a plate or bowl as when they're done searing.",
+        "Add the onion to the skillet and cook until slightly softened and translucent, about 5 minutes. Sprinkle in garlic, coriander, cumin, paprika, turmeric and cayenne pepper and stir to combine. Cook for 1 minute or until the spices are aromatic and lightly toasted.",
+        "Return the chicken to the pot and stir to coat with the spice mixture.",
+        "Pour in diced tomatoes and enough chicken stock to cover the chicken pieces two thirds of the way.",
+        "Bring the liquid to a simmer, cover and simmer on medium low heat for 15 to 20 minutes.",
+        "Add the mushrooms, sliced red peppers, and lemon zest. Cover and cook for an additional 10-15 minutes, until the sauce has slightly reduced."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "13g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "320mg",
+        "total_carbohydrate": "14g",
+        "fiber": "5g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/braised-moroccan-chicken"
+}

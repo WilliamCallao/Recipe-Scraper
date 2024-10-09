@@ -1,0 +1,63 @@
+{
+    "title": "Roasted Rainbow Carrots",
+    "keywords": "Vegetarian,Vegan,Sides,Holidays & Entertaining",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1674-diabetic-roasted-rainbow-carrots_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "rainbow carrots",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "ground black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 425° F. Spray a baking sheet with cooking spray.",
+        "Peel and cut the carrots into equal-size rounds and wedges, each about 1/2 inch in size.",
+        "Place the carrots on the baking sheet. Drizzle the olive oil over the carrots and mix well. Sprinkle with pepper.",
+        "Bake for 30 minutes, until soft and crinkly. Remove to a bowl or platter and serve."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "95mg",
+        "total_carbohydrate": "13g",
+        "fiber": "4g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-rainbow-carrots"
+}

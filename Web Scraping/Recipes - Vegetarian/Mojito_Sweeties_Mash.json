@@ -1,0 +1,79 @@
+{
+    "title": "Mojito Sweeties Mash",
+    "keywords": "Vegan,Vegetarian,Dinner,Foodie,Holidays & Entertaining,Lunch,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Vegan",
+        "Vegetarian",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/IngridHoffmann_mojio-sweeties-mash-closeup.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chopped fresh mint",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lime juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sweet potatoes (unpeeled)",
+            "us_amount": "2 large (about 1 1/2 lbs)",
+            "metric_amount": "2 large (about 1 1/2 lbs)"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Put the whole sweet potatoes in a large saucepan and add enough cold water to cover. Bring the potatoes to a boil over high heat. Reduce the heat to medium-low and simmer until tender, 30–35 minutes. Drain the potatoes and rinse under cold water until they're easy to handle.",
+        "Meanwhile, warm the oil in a small saucepan over high heat until warm, about 1 minute. (Or microwave the oil in a microwavable bowl on high until the oil is warm, about 30 seconds.) Add the mint leaves and crush with the handle of a wooden spoon or a pestle. Set aside.",
+        "Peel the sweet potatoes and return them to the saucepan. Add the mint mixture, lime juice, salt, and pepper. Mash the potatoes with a potato masher until smooth and creamy. Transfer the potatoes to a serving bowl, garnish with the mint sprigs, and serve hot."
+    ],
+    "tags": [
+        "Caribbean",
+        "Comfort Food",
+        "Vegan",
+        "Vegetarian",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "145",
+        "total_fat": "4g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "157mg",
+        "total_carbohydrate": "27g",
+        "fiber": "4g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mojito-sweeties-mash"
+}

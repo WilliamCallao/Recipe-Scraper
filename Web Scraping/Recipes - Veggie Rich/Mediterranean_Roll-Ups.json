@@ -1,0 +1,82 @@
+{
+    "title": "Mediterranean Roll-Ups",
+    "keywords": "Lunch,Vegetarian,Sandwiches,Quick & Easy,No Cook,Cooking for 1 or 2",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Vegetarian",
+        "Sandwiches",
+        "Quick & Easy",
+        "No Cook",
+        "Cooking for 1 or 2"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_352_MedRollUps_588601440_060518.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "whole wheat flour tortillas (10-inch)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "ready-made hummus",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ready-made tabouli",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "romaine lettuce leaves (whole or chopped)",
+            "us_amount": "10",
+            "metric_amount": "10"
+        },
+        {
+            "name": "alfalfa or bean sprouts",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "large tomatoes (chopped)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        }
+    ],
+    "instructions": [
+        "Lay out flour tortilla on a flat surface.",
+        "Spread hummus and tabouli in a long row, side by side on tortilla.",
+        "Add romaine lettuce generously.",
+        "Add sprouts and tomatoes as desired.",
+        "Get ready to roll! Starting from the edge of a long side, roll it up. Cut in half.",
+        "Eat immediately or wrap in plastic wrap to enjoy later.",
+        "To eat as an appetizer, wrap it in plastic wrap and let “set” in the refrigerator for 2 or 3 hours.  Cut the rolls into 1’ slices, using a sawing motion. Serve cut side up on a platter."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Mediterranean",
+        "Lunch",
+        "Vegetarian",
+        "Sandwiches",
+        "Quick & Easy",
+        "No Cook",
+        "Cooking for 1 or 2"
+    ],
+    "nutrition": {
+        "calories": "187",
+        "total_fat": "6g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "364mg",
+        "total_carbohydrate": "29g",
+        "fiber": "5g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mediterranean-roll-ups"
+}

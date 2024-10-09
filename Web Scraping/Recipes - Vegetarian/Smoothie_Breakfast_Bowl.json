@@ -1,0 +1,74 @@
+{
+    "title": "Smoothie Breakfast Bowl",
+    "keywords": "Breakfast and Brunch,Vegetarian,Gluten-Free,Cooking for 1 or 2,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Vegetarian",
+        "Gluten-Free",
+        "Cooking for 1 or 2",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/274-diabetic-green-smoothie-breakfast-bowl_Diabetes-cookbook_DFJanFeb2019_121018.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "unsweetened almond milk",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "non-fat plain Greek yogurt",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "frozen mixed fruit",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "baby spinach",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "frozen banana (sliced)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "KIND Maple Glazed Pecan & Sea Salt bar OR 1/2 cup low sugar granola (crumbled)",
+            "us_amount": "1 bar",
+            "metric_amount": "1 bar"
+        }
+    ],
+    "instructions": [
+        "Combine all ingredients except KIND bar in a blender. Purée until smooth and thick, stopping to stir mixture in between blending at times. (Add a little more almond milk if needed.)",
+        "Pour smoothie mixture into 2 bowls. Top each bowl with half of the crumbled KIND bar."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Kid Friendly",
+        "Breakfast and Brunch",
+        "Vegetarian",
+        "Gluten-Free",
+        "Cooking for 1 or 2",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "10g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "34g",
+        "fiber": "7g",
+        "sugar": "19g",
+        "added_sugar": "2g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/smoothie-breakfast-bowl"
+}

@@ -1,0 +1,73 @@
+{
+    "title": "Lemon Herbed Chicken",
+    "keywords": "Main Dish,Budget Friendly",
+    "prep_time": "PT30M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/61main_lemonherbedchicken.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "fresh thyme",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "olive oil (divided use)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Juice of Lemon (juiced and zested)",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "lemon (sliced)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "boneless, skinless chicken breasts",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "Prep the Marinade: In a small pot, warm the lemon zest, lemon juice, 2 tablespoons of olive oil, minced garlic, chopped thyme, kosher salt, and black pepper to create the sauce.",
+        "Heat the remaining tablespoon of oil in a skillet over medium-high heat. Add the chicken and lemon slices to the skillet. Cook the chicken until it’s golden brown and reaches an internal temperature of 165°F (74°C), about 5 minutes a side.",
+        "Serve the chicken and lemon slices with the warm sauce and garnish with additional fresh herbs."
+    ],
+    "tags": [
+        "Mediterranean",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "12g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "80mg",
+        "sodium": "270mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/lemon-herbed-chicken"
+}

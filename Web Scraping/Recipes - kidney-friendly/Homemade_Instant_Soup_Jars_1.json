@@ -1,0 +1,100 @@
+{
+    "title": "Homemade Instant Soup Jars",
+    "keywords": "Vegetarian,Soup,Quick & Easy,Lunch,Gluten-Free,Easy Pantry Recipes",
+    "prep_time": "PT10M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Vegetarian",
+        "Soup",
+        "Quick & Easy",
+        "Lunch",
+        "Gluten-Free",
+        "Easy Pantry Recipes"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2053-diabetic-Asian-Soup-Jar_DaVita_040821.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "frozen chopped veggie mix, such as broccoli, cauliflower, and carrots",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cooked brown rice",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "shredded cabbage",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "shredded carrot",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "coconut aminos",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sesame oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "fresh grated ginger",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "crushed red pepper flakes (optional)",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "hard-boiled egg",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Layer rice, frozen vegetables, cabbage, and carrot in a 16 oz glass jar with lid.",
+        "In a small bowl mix coconut aminos, sesame oil, ginger, garlic powder and red pepper flakes. Pour over rice and vegetables. Top with a lid and refrigerate.",
+        "Remove jar from refrigerator at least 15 minutes before you are ready to eat.",
+        "Pour 5 ounces boiling water into the jar, close the lid and shake to combine. Let ingredients steep in unopened jar for 2 minutes.",
+        "Peel and slice the hard-boiled egg, and add to the soup. Pour contents from jar into a bowl, or enjoy straight from the jar!"
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Vegetarian",
+        "Soup",
+        "Quick & Easy",
+        "Lunch",
+        "Gluten-Free",
+        "Easy Pantry Recipes"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "11g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "190mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "32g",
+        "fiber": "4.6g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/homemade-instant-soup-jars"
+}

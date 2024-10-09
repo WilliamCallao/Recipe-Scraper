@@ -1,0 +1,87 @@
+{
+    "title": "Turkey and Mozzarella Snack Skewers",
+    "keywords": "Snacks,Easy Pantry Recipes,Gluten-Free,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Snacks",
+        "Easy Pantry Recipes",
+        "Gluten-Free",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1902-diabetic-turkey-mozzarella-snack-skewers_create-your-plate_022020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "low sodium turkey breast",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "small skewers or toothpicks",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "English cucumber(s) (cut into 12 half moons)",
+            "us_amount": "1/4",
+            "metric_amount": "1/4"
+        },
+        {
+            "name": "cherry tomatoes",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "fresh mozzarella balls",
+            "us_amount": "24 (about 2 ounces)",
+            "metric_amount": "24 (about 2 ounces)"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Cut the turkey into 12 (1-inch) cubes.",
+        "Thread each skewer with 1 slice of cucumber, 1 turkey cube, 1 tomato, and 2 mozzarella pearls.",
+        "Place the skewers in a single layer on a large plate. Drizzle with the olive oil and balsamic vinegar and sprinkle with the salt and black pepper."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Snacks",
+        "Easy Pantry Recipes",
+        "Gluten-Free",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "7g",
+        "saturated_fat": "2.6g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "260mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/turkey-and-mozzarella-snack-skewers"
+}

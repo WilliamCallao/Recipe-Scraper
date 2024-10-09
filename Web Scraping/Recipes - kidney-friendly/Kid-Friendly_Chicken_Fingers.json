@@ -1,0 +1,90 @@
+{
+    "title": "Kid-Friendly Chicken Fingers",
+    "keywords": "Quick & Easy,Dinner,Gluten-Free",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Quick & Easy",
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/332-diabetic-kid-friendly-chicken-fingers_Diabetes-Ckbk_DFMayJun19_040219.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cornmeal",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "dried thyme",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "egg",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "egg white",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "hot sauce",
+            "us_amount": "1 dash",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "boneless, skinless chicken tenderloins (cut into 10 strips)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350 degrees F. Spray a baking sheet with cooking spray",
+        "In a shallow dish, mix together the cornmeal, garlic powder, black pepper, and thyme.",
+        "In another shallow baking dish, whisk together the egg, egg whites, and hot sauce.",
+        "Dip a chicken breast strip in the egg mixture, and then drench in the cornmeal mixture. Coat well and place on baking sheet. Repeat procedure for the rest of the chicken strips.",
+        "Bake for 30 minutes or until done (internal temperature of 165 degrees F). Turn chicken pieces over half way through cooking time."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Kid Friendly",
+        "Quick & Easy",
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "3.5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "90mg",
+        "sodium": "75mg",
+        "total_carbohydrate": "17g",
+        "fiber": "1g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "23g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/kid-friendly-chicken-fingers"
+}

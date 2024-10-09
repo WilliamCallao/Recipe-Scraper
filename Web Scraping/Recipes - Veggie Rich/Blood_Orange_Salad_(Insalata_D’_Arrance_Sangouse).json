@@ -1,0 +1,78 @@
+{
+    "title": "Blood Orange Salad (Insalata D’ Arrance Sangouse)",
+    "keywords": "Lunch,Salads,Sides",
+    "prep_time": "PT5M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Lunch",
+        "Salads",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_621_%20Beet_BloodOrange_RedPepperTomaotArtichoke_Salads_ItalianDiabetesCookbook_022618.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "blood oranges (about 1 pound total), peeled and sliced into rounds",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "green onions, finely chopped",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Juice of 1 orange",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "extra virgin olive oil (preferably first cold-pressed and unfiltered)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "unrefined sea salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "crushed red chile flakes",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        }
+    ],
+    "instructions": [
+        "Place orange slices on a large platter and scatter green onions over the top.",
+        "In a small bowl, whisk orange juice and olive oil together, and season with salt, pepper, and crushed red chile flakes. Drizzle over the salad, and serve immediately."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Veggie Rich",
+        "Italian",
+        "Lunch",
+        "Salads",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "100mg",
+        "total_carbohydrate": "11g",
+        "fiber": "2g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/blood-orange-salad-insalata-d-arrance-sangouse"
+}

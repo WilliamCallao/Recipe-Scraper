@@ -1,0 +1,131 @@
+{
+    "title": "Zuppa Toscana with Cauliflower and Kale",
+    "keywords": "Soup,One Pot,Main Dish,Lunch,Budget Friendly,Dinner,Gluten-Free",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Soup",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Budget Friendly",
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2085-diabetic-low-carb-zuppa-toscana-cauliflower-kale_low-carb-Brissette_050721.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "avocado oil (divided use)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ground chicken",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "low sodium beef broth",
+            "us_amount": "5 cup",
+            "metric_amount": "1 l 183 ml"
+        },
+        {
+            "name": "onion(s) (diced)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "head cauliflower (cut into florets)",
+            "us_amount": "1/2 head (or 3 cups florets)",
+            "metric_amount": "1/2 head (or 3 cups florets)"
+        },
+        {
+            "name": "chopped kale",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "paprika",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "fennel seeds",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "dried parsley",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "dried oregano",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "dried basil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "grated parmesan cheese",
+            "us_amount": "1 tbsp (1/2 tsp per serving)",
+            "metric_amount": "1 tbsp (1/2 tsp per serving)"
+        }
+    ],
+    "instructions": [
+        "In a Dutch oven, heat half of the oil over medium heat. Add the ground chicken and cook until browned.",
+        "Remove the chicken from the dutch oven and set aside in a bowl or plate. Add the rest of the oil to the dutch oven, then add the onions and garlic. Sautee until browned, about 2 minutes.",
+        "Add the beef broth, cauliflower and herbs and spices. Cover and cook on medium heat for about 10 minutes, or until the cauliflower is tender.",
+        "Add the kale and the cooked chicken. Stir and cook uncovered for about 3 minutes, or until the kale wilts.",
+        "Remove from heat and stir in the Greek yogurt. Serve with a sprinkle of parmesan cheese on top."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Italian",
+        "Soup",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Budget Friendly",
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "9g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "170mg",
+        "total_carbohydrate": "6g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/zuppa-toscana-cauliflower-and-kale"
+}

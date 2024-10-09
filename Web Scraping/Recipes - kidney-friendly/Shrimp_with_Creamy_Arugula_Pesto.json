@@ -1,0 +1,98 @@
+{
+    "title": "Shrimp with Creamy Arugula Pesto",
+    "keywords": "Foodie,Quick & Easy,Lunch,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT6M",
+    "categories": [
+        "Foodie",
+        "Quick & Easy",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/490-diabetic-shrimp-creamy-arugula-pesto_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "water",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "salt-free seasoning such as Salt-Free Spike or Mrs. Dash",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "medium shrimp (peeled and deveined)",
+            "us_amount": "1 1/4 lbs",
+            "metric_amount": "567 ml"
+        },
+        {
+            "name": "arugula",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "unsalted cashews",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Parmesan cheese (shredded)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Bring water and salt-free seasoning to a boil in a medium saucepan. Reduce heat to just barely a simmer and add shrimp. Cook 6 minutes or until shrimp are pink and just cooked through.",
+        "While shrimp is cooking, add the arugula, yogurt, garlic, olive oil, cashews, Parmesan cheese and black pepper to a blender or food processor. Blend until smooth.",
+        "Drain shrimp and toss with the pesto while shrimp are still hot."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Seafood",
+        "Italian",
+        "Foodie",
+        "Quick & Easy",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "6g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "115mg",
+        "sodium": "100mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/shrimp-creamy-arugula-pesto"
+}

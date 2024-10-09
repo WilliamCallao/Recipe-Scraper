@@ -1,0 +1,83 @@
+{
+    "title": "Cubano Roasted Broccoli Florets",
+    "keywords": "Vegetarian,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Vegetarian",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/214-diabetic-cubano-roasted-broccoli_KDBH-Bookazine_Sabores_012821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "garlic (peeled and thinly sliced)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "lime juice",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Spanish onion (thinly sliced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "avocado oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "broccoli florets",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "Parchment Paper",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350°F.",
+        "In a bowl combine the garlic, cumin, lime juice, pepper and onion. Toss ingredients well so the seasoning spreads evenly. Add avocado oil and broccoli florets to bowl and toss again.",
+        "Place all ingredients on a parchment paper-lined baking sheet and roast for 25 minutes.",
+        "Remove from oven, and grab a fork so you can enjoy this delicious dish."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Latin American",
+        "Caribbean",
+        "Vegetarian",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "3g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "40mg",
+        "total_carbohydrate": "10g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cubano-roasted-broccoli-florets"
+}

@@ -1,0 +1,80 @@
+{
+    "title": "Grilled Angel Food Cake With Melted Berries",
+    "keywords": "Vegetarian,Dessert",
+    "prep_time": "PT15M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Vegetarian",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_722_GrilledAngelCakewithMeltedBerries_SizzleSmoke_022618.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "mixed berries (such as strawberries, blueberries, blackberries, and raspberries)",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "low-calorie sugar substitute",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "maple syrup",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cardamom (ground)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        },
+        {
+            "name": "angel food cake, cut into eight (1-inch-thick slices)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "vegetable oil",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Line a medium bowl with a large piece of aluminum foil, pressing the foil into the sides of the bowl well.",
+        "Add the berries, Splenda, maple syrup, cardamom, and balsamic vinegar over all.",
+        "Wrap the foil up, forming a package, and twist the top so the liquid doesn’t escape.",
+        "Preheat the grill over medium-high heat and place the berry package on the grill.",
+        "Grill for 5–6 minutes, turning and shaking the package occasionally. Spray the cake slices lightly with vegetable oil to prevent sticking and add the cake slices to the grill to mark. Grill gently for 2–3 minutes, place on a serving dish and pour the melted berries over the cake.",
+        "If desired, serve with sugar-free whipped cream or low- or no-fat Greek yogurt."
+    ],
+    "tags": [
+        "Low Sodium",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Grilling",
+        "Comfort Food",
+        "Vegetarian",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "145mg",
+        "total_carbohydrate": "26g",
+        "fiber": "2g",
+        "sugar": "15g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-angel-food-cake-melted-berries"
+}

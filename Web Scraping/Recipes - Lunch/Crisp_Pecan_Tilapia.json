@@ -1,0 +1,84 @@
+{
+    "title": "Crisp Pecan Tilapia",
+    "keywords": "Quick & Easy,Dinner,Lunch,Cooking for 1 or 2",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Dinner",
+        "Lunch",
+        "Cooking for 1 or 2"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_204_Crisp_Pecan_Tilapia_PNCImages_02272018.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "yellow cornmeal",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "panko or plain dried bread crumbs",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Cornstarch",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "lemon pepper (salt-free)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "tilapia (about 4-ounces each, rinsed and patted dry)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "fresh lemon juice",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "pecans (coarsely chopped, dry-roasted)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "fresh Italian (flat-leaf) parsley (snipped)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the broiler. Lightly spray an 11x7x2-inch baking pan with cooking spray.",
+        "In a shallow dish, stir together the cornmeal, panko, cornstarch, and lemon pepper. Add the fish, turning to coat, shaking off any excess. Transfer to the baking pan. Lightly spray both sides of the fish with cooking spray.",
+        "Broil for 3-4 minutes on each side, or until the fish flakes easily when tested with a fork. Transfer to plates. Drizzle with the lemon juice. Sprinkle with the pecans and parsley."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Seafood",
+        "Quick & Easy",
+        "Dinner",
+        "Lunch",
+        "Cooking for 1 or 2"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "8g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "75mg",
+        "sodium": "35mg",
+        "total_carbohydrate": "7g",
+        "fiber": "1g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crisp-pecan-tilapia"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Kale Parmesan Pesto Rigatoni",
+    "keywords": "Main Dish,Dinner",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/kale%20parm.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "grape tomatoes ((halved))",
+            "us_amount": "1 pints",
+            "metric_amount": "480 ml"
+        },
+        {
+            "name": "whole wheat penne pasta ((or variety whole wheat pasta))",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "lemon ((juiced/squeezed))",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Parmesan cheese ((grated))",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "garlic",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "walnuts ((chopped))",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "kale ((pack the cups, chopped))",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "Cook the pasta according to package directions. Toss cooked pasta with halved tomatoes and garnish with Parmesan cheese if desired.",
+        "Place the kale, walnuts, garlic, freshly grated parmesan, salt, pepper, and lemon juice in a food processor. Process until smooth, pouring the olive oil into the bowl in a steady stream. Use a spatula to push down the sides of the pesto and continue blending until smooth. Taste and adjust seasonings if necessary."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "390",
+        "total_fat": "20g",
+        "saturated_fat": "3.2g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "46g",
+        "fiber": "6g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/kale-parmesan-pesto-rigatoni"
+}

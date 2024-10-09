@@ -1,0 +1,94 @@
+{
+    "title": "Edamame and Pasta with Feta",
+    "keywords": "Lunch,Dinner,Vegetarian,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Dinner",
+        "Vegetarian",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_226327975.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "uncooked whole-grain penne or rotini pasta",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "fresh or frozen shelled edamame",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "grape tomatoes (quartered)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "Kalamata olives (pitted, coarsely chopped)",
+            "us_amount": "16",
+            "metric_amount": "16"
+        },
+        {
+            "name": "chopped fresh basil leaves, or 2 Tsps. dried basil leaves",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "rosemary leaves (crumbled (optional))",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "medium garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "crushed red pepper flakes (optional)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "medium lemon (halved, optional)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "feta cheese (reduced-fat, crumbled)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        }
+    ],
+    "instructions": [
+        "Cook the pasta according to the package directions, omitting any salt or fats and adding the edamame during the last 2 minutes of cooking time.",
+        "In a small bowl, combine the tomatoes, olives, basil, rosemary (optional), garlic, and pepper flakes. Toss to blend and set aside.",
+        "Drain the pasta and edamame in a colander, place on a serving platter or pasta bowl, squeeze lemon over all, top with feta, and mound the tomato mixture in the center."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Italian",
+        "Mediterranean",
+        "Lunch",
+        "Dinner",
+        "Vegetarian",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "235",
+        "total_fat": "7g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "340mg",
+        "total_carbohydrate": "32g",
+        "fiber": "7g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/edamame-and-pasta-feta"
+}

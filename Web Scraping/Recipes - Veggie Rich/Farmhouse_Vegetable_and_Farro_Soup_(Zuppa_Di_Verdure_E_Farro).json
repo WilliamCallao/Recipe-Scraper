@@ -1,0 +1,116 @@
+{
+    "title": "Farmhouse Vegetable and Farro Soup (Zuppa Di Verdure E Farro)",
+    "keywords": "Sides,Lunch",
+    "prep_time": "PT15M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Sides",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/233-Farmhouse-Vegetable-and-Farro-Soup-Diabetic-510872502_04112018.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "leek (chopped)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "onion(s) (chopped)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "carrot(s) (chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "uncooked farro (rinsed and drained)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "chicken stock (14.5-ounce, reduced-sodium)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "bay leaves",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "fresh thyme",
+            "us_amount": "1 sprig",
+            "metric_amount": "1 sprig"
+        },
+        {
+            "name": "spinach (chopped)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "cooked cannellini beans",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "tomato(es) (14.5-ounce, diced, undrained, reduced-sodium)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "parmigiano-reggiano cheese (grated, 1 ounce)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Heat oil in dutch oven over medium-high heat. Add onion, leek, carrot and garlic. Sauté for 5 minutes, stirring frequently.",
+        "Stir in 2 cups water, farro, salt, pepper, stock, bay leaves, and thyme, and bring to a boil. Cover, reduce heat and simmer for 30 minutes.",
+        "Add spinach, beans and tomatoes, and bring to a boil. Reduce heat and simmer for 5 minutes. Discard bay leaves and serve. Garnish each serving with cheese."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Italian",
+        "Comfort Food",
+        "Sides",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "3g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "42g",
+        "fiber": "8g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/farmhouse-vegetable-and-farro-soup-zuppa-di-verdure-e-farro"
+}

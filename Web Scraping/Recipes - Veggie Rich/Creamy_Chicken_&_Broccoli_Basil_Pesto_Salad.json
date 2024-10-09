@@ -1,0 +1,90 @@
+{
+    "title": "Creamy Chicken & Broccoli Basil Pesto Salad",
+    "keywords": "Salads,Quick & Easy,Lunch,Budget Friendly",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Quick & Easy",
+        "Lunch",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recipe%20Size_4.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Juice of small lemon",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "shallots (minced)",
+            "us_amount": "1/2 small",
+            "metric_amount": "1/2 small"
+        },
+        {
+            "name": "cooked chicken (chopped)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "fresh broccoli (chopped)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "pesto sauce",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "olive oil mayonnaise",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "mixed greens",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "cherry tomatoes (halved)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Juice the lemon into a small bowl with the shallot. Let sit for about 10 minutes.",
+        "Combine the chicken and broccoli in a medium bowl.",
+        "Add the pesto, mayo, salt, and pepper to the bowl with the shallot and lemon juice. Whisk to combine and pour into the bowl with the chicken and broccoli.",
+        "Serve the chicken salad over mixed greens and cherry tomatoes."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Comfort Food",
+        "Salads",
+        "Quick & Easy",
+        "Lunch",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "14g",
+        "saturated_fat": "2.7g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "420mg",
+        "total_carbohydrate": "9g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/creamy-chicken-broccoli-basil-pesto-salad"
+}

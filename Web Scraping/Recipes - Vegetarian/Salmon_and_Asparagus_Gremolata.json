@@ -1,0 +1,90 @@
+{
+    "title": "Salmon and Asparagus Gremolata",
+    "keywords": "Cooking for 1 or 2,Dinner,Foodie,Main Dish,Quick & Easy,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Foodie",
+        "Main Dish",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1717-diabetic-salmon-asparagus-gremolata_Diab-Heart-Healthy-for-Two_012819.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salmon fillet with skin (cut into 2 servings)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "shallot (thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "asparagus spears (Trimmed and cut into 1-inch pieces)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "fresh parsley",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic",
+            "us_amount": "1/2 diente",
+            "metric_amount": "1/2 diente"
+        },
+        {
+            "name": "lemon zest",
+            "us_amount": "3/4 tsp",
+            "metric_amount": "4 g"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 425 degrees F",
+        "Cut off a 15 x 10-inch sheet of cooking parchment and fold in half to for a 7.5 x 10-inch rectangle. Starting at the bottom of the fold, cut into a half-heart shape. Open and spray with cooking spray. Repeat with a second sheet. Place one filet of salmon skin side down centered on half of each parchment heart. Top each filet with half of the shallots, pepper, and asparagus.",
+        "Fold the other heart halves over the fish and asparagus. Seal each packet by forming a small fold at the top of the heart and continuing to fold the edge until reaching the bottom. Twist the point to shut tightly. Place the sealed packets on a baking sheet, and bake for 10 minutes.",
+        "Meanwhile, make the gremolata: finely chop the parsley and garlic together. Add the lemon zest, and continue chopping until well blended.",
+        "Remove the parchment packets from the oven. Let stand for 3 minutes. Being careful to prevent steam burns, cut an X in the center of each packet. Test to be sure the salmon flakes easily when tested with a fork. If necessary, return the packets to the oven for 1 to 2 minutes to finish cooking.",
+        "Transfer packets to a plate and open the rest of the way. Sprinkle each with 2 teaspoons of gremolata."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Foodie",
+        "Main Dish",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "165",
+        "total_fat": "6g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "50mg",
+        "total_carbohydrate": "5g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/salmon-and-asparagus-gremolata"
+}

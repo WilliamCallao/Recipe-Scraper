@@ -1,0 +1,105 @@
+{
+    "title": "Shrimp Scampi Spaghetti with Zucchini Noodles and Fresh Tomatoes",
+    "keywords": "Lunch,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Lunch",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shrimp-scampi-spaghetti-with-zucchini-noodles-fresh-tomatoes.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "cooked spaghetti (thin)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "zucchini",
+            "us_amount": "2 large",
+            "metric_amount": "2 large"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "yellow onion (minced)",
+            "us_amount": "1/2 large",
+            "metric_amount": "1/2 large"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "shrimp (large, fresh [never frozen], raw, peeled and deveined)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "Italian parsley (chopped)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lemon",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper (or to taste)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cherry tomatoes (halved)",
+            "us_amount": "1 pints",
+            "metric_amount": "480 ml"
+        },
+        {
+            "name": "Parmesan cheese (grated)",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        }
+    ],
+    "instructions": [
+        "Boil spaghetti according to package instructions. Drain and set aside in a large bowl.",
+        "Use a spiralizer or Julienne peeler to create zucchini noodles, set aside.",
+        "Heat olive oil in a large skillet over medium heat. Add onion, garlic and red pepper flakes. When the onion is translucent, add shrimp and cook until pink.",
+        "Remove from heat, stir in the parsley and toss to combine. Juice lemon over the shrimp (Note: If possible, use fresh [never frozen] shrimp or shrimp free of preservatives.) and season with salt and pepper. Pour the shrimp and liquid over the spaghetti. Add the zucchini noodles and tomatoes and toss until the zucchini wilts slightly.",
+        "Garnish with parmesan cheese."
+    ],
+    "tags": [
+        "Seafood",
+        "Lunch",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "510",
+        "total_fat": "17g",
+        "saturated_fat": "3.4g",
+        "trans_fat": "0g",
+        "cholesterol": "175mg",
+        "sodium": "370mg",
+        "total_carbohydrate": "55g",
+        "fiber": "5g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "35g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/shrimp-scampi-spaghetti-zucchini-noodles-and-fresh-tomatoes"
+}

@@ -1,0 +1,104 @@
+{
+    "title": "Garlicky Tomato Salad",
+    "keywords": "Lunch,Salads,Vegan,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Salads",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_708_GarlickyTomatoSalad_PerfectComfortCollection_022618.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "large head butter lettuce (large leaves torn into smaller pieces)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "small roma tomatoes (or 2 large) (sliced)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "cherry tomatoes (halved)",
+            "us_amount": "20",
+            "metric_amount": "20"
+        },
+        {
+            "name": "large garlic (very finely chopped)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "red wine vinegar",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Kosher Salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "fresh basil leaves (thinly sliced)",
+            "us_amount": "16",
+            "metric_amount": "16"
+        },
+        {
+            "name": "toasted pumpkin seeds",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sunflower seeds",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Place a layer of lettuce leaves on a serving platter or on four plates and arrange the sliced tomatoes. Place the cherry tomatoes on top.",
+        "Whisk together the garlic, vinegar, mustard, oil, salt, and pepper and pour over the tomatoes.",
+        "Scatter the basil leaves and the pumpkin and sunflower seeds over the tomatoes and serve at once."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Comfort Food",
+        "Mediterranean",
+        "Lunch",
+        "Salads",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "9g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "140mg",
+        "total_carbohydrate": "8g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/garlicky-tomato-salad"
+}

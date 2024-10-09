@@ -1,0 +1,97 @@
+{
+    "title": "Budget-Friendly Salmon Burgers",
+    "keywords": "Sandwiches,Budget Friendly,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Sandwiches",
+        "Budget Friendly",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/130-diabetic-salmon-burgers_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "small onion (chopped)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "garlic (chopped)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "red bell pepper (seeded and chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Thai red curry paste",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salmon (skinless, cut into chunks)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh cilantro",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "lettuce leaves",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "green onion (scallion) (thinly sliced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 475 degrees F. Coat a baking sheet with cooking spray and set aside.",
+        "Place the onion, garlic, bell pepper, and Thai curry paste in a large food processor and blend until smooth.",
+        "Add the salmon and puree until smooth. Add the egg and cilantro and puree until incorporated.",
+        "Scoop the mixture in 1/2 cup portions onto the baking sheet and press lightly to form a patty. Repeat to make 6 patties.",
+        "Spray the top of each patty with cooking spray and bake for 15 minutes.",
+        "Serve each salmon burger in a lettuce leaf and top each with 1 Tbsp. sliced scallions."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Lower Carb",
+        "Seafood",
+        "Sandwiches",
+        "Budget Friendly",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "7g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-salmon-burgers"
+}

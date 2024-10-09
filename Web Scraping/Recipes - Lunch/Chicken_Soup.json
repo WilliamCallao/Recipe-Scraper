@@ -1,0 +1,111 @@
+{
+    "title": "Chicken Soup",
+    "keywords": "One Pot,Main Dish,Lunch,Dinner,Soup",
+    "prep_time": "PT20M",
+    "cook_time": "PT2H",
+    "categories": [
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Soup"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/chicken%20soup.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "whole chicken (fresh or thawed)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "celery",
+            "us_amount": "4 stalks",
+            "metric_amount": "4 stalks"
+        },
+        {
+            "name": "onion(s)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "garlic",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "carrot(s)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "zucchini or yellow summer squash",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "jalapeño pepper",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ears corn",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "water",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "bay leaves",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "lime (juiced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "cilantro (chopped)",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        }
+    ],
+    "instructions": [
+        "Make the broth first: In a large stock pot, add 8 cups of water, whole chicken, 2 of the celery sticks, ½ of the onion, 2 of the garlic cloves, 1 teaspoon salt, pepper to taste.",
+        "Cover and bring to a boil. Reduce heat and let simmer for 1 hour.",
+        "While the broth is simmering, dice the remaining celery sticks, the other half of the onion, the carrots, and the squash. Finely mince the remaining garlic cloves and jalapeño. Chop the ears of corn into 3-inch pieces.",
+        "When the broth is done simmering, remove the chicken and set aside to cool. Strain broth and reserve the liquid in a bowl or other container (discard strained ingredients). Skim the fat off the top of the broth.",
+        "Once the chicken is cool enough to handle, remove skin and discard. Remove meat from the bones and roughly chop.",
+        "In the same pot, add all of the chopped vegetables, the chopped chicken, salt and pepper to taste, and bay leaves.",
+        "Add the broth. The broth should cover everything in the pot by 2 inches. If not, add water and more salt.",
+        "Cover and cook for 1 hour on low heat.",
+        "Remove bay leaves before serving.",
+        "Serve and top with cilantro"
+    ],
+    "tags": [
+        "Comfort Food",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Soup"
+    ],
+    "nutrition": {
+        "calories": "310",
+        "total_fat": "14g",
+        "saturated_fat": "3.5g",
+        "trans_fat": "0g",
+        "cholesterol": "90mg",
+        "sodium": "410mg",
+        "total_carbohydrate": "11g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "36g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-soup"
+}

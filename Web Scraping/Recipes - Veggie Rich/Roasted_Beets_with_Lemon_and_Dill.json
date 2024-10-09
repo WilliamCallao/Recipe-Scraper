@@ -1,0 +1,92 @@
+{
+    "title": "Roasted Beets with Lemon and Dill",
+    "keywords": "Dinner,Gluten-Free,Lunch,Sides,Vegan,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1893-diabetic-roasted-beets-with-lemon-and-dill_CYP_DFMarApr20_021020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "black pepper",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "fresh dill",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "red onion (finely chopped)",
+            "us_amount": "1/4 med",
+            "metric_amount": "1/4 med"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "1/2 tbsp",
+            "metric_amount": "7 ml"
+        },
+        {
+            "name": "lemon",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "fresh beets (without greens)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 450° F. Coat a baking dish with nonstick cooking spray.",
+        "Wash the beets, then pierce each beet several times with a fork and place in the prepared baking dish. Cover with aluminum foil and bake until a fork can pierce the beets with ease, about 1 hour. Remove the baking dish from the oven and allow the beets to cool for 15 minutes. Remove the skin and cut the beets into ¼-inch slices.",
+        "Zest the lemon half (set the zest aside), then use a paring knife to remove the remaining skin and pith (white part) of the halved lemon. Cut in between the membranes to release the lemon segments, and then chop.",
+        "In a medium bowl, combine the canola oil and cumin. Add the beets, lemon zest, chopped lemon, onion, dill, salt, and pepper and gently toss together. Transfer to a serving dish and serve warm."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "2g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "12g",
+        "fiber": "2g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-beets-lemon-and-dill"
+}

@@ -1,0 +1,68 @@
+{
+    "title": "Chili Lime Corn on the Cob",
+    "keywords": "Quick & Easy,Sides,Vegetarian,Gluten-Free",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_173_ChiliLimeCornonCob_180253287_050318.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "lime (zested and juiced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "light trans-fat-free margarine (softened)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "medium ears corn on the cob (shucked)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "Preheat the grill to medium-high.",
+        "In a small bowl, mix together the lime juice, lime zest, margarine, and chili powder.",
+        "Using a spoon and your hands, spread the margarine mixture evenly over the 4 ears of corn.",
+        "Wrap the corn individually in aluminum foil. Grill 20 minutes, turning frequently. Serve hot."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Grilling",
+        "Mexican/Southwestern",
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "4g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "50mg",
+        "total_carbohydrate": "23g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chili-lime-corn-cob"
+}

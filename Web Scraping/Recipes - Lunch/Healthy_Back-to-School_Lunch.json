@@ -1,0 +1,89 @@
+{
+    "title": "Healthy Back-to-School Lunch",
+    "keywords": "Quick & Easy,Lunch",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_301_Healthy_Back_to_school_Lunch_MG_4918-Edit-%28ZF-5661-35964-1-133%29_20282018.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "mustard",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "whole-grain dinner roll",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lower sodium deli-style turkey breast",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "reduced-fat cheddar cheese",
+            "us_amount": "1/2 oz",
+            "metric_amount": "14 ml"
+        },
+        {
+            "name": "romaine lettuce leaf",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "hummus",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cucumber(s)",
+            "us_amount": "4 slices",
+            "metric_amount": "4 slices"
+        },
+        {
+            "name": "sunflower seeds",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "blueberries and sliced strawberries",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Greek yogurt tube",
+            "us_amount": "1 (2-oz) packet",
+            "metric_amount": "1 (2-oz) packet"
+        }
+    ],
+    "instructions": [
+        "Spread mustard on the roll. Top it with turkey, cheese, and lettuce to make a sandwich.",
+        "Spread 1/2 Tsp. hummus on 1 cucumber slice. Top it with 1/2 Tsp. sunflower seeds and top again with another cucumber slice to make a sandwich. Repeat the process.",
+        "Assemble all meal components in a divided lunch container."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Kid Friendly",
+        "Quick & Easy",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "310",
+        "total_fat": "9g",
+        "saturated_fat": "3.1g",
+        "trans_fat": "0g",
+        "cholesterol": "55mg",
+        "sodium": "460mg",
+        "total_carbohydrate": "34g",
+        "fiber": "5g",
+        "sugar": "15g",
+        "added_sugar": "0g",
+        "protein": "30g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/healthy-back-school-lunch"
+}

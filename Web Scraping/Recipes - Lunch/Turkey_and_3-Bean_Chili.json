@@ -1,0 +1,109 @@
+{
+    "title": "Turkey and 3-Bean Chili",
+    "keywords": "Dinner,Easy Pantry Recipes,Holidays & Entertaining,Lunch,One Pot,Quick & Easy,Soup",
+    "prep_time": "Desconocido",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Holidays & Entertaining",
+        "Lunch",
+        "One Pot",
+        "Quick & Easy",
+        "Soup"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Turkey-3-bean-chili-Mar15.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "hot sauce",
+            "us_amount": "1 dash",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "red bell pepper (cut into 3/4-inch pieces)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "green bell pepper (cut into 3/4-inch pieces)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "picante sauce",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "frozen corn",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "beef broth",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "pinto beans (undrained)",
+            "us_amount": "30 oz",
+            "metric_amount": "849 ml"
+        },
+        {
+            "name": "kidney beans (undrained)",
+            "us_amount": "15 oz",
+            "metric_amount": "425 ml"
+        },
+        {
+            "name": "black beans (drained and rinsed)",
+            "us_amount": "15 oz",
+            "metric_amount": "425 ml"
+        },
+        {
+            "name": "onion(s) (chopped)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "Italian turkey sausage (casing removed)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "In a large saucepan or Dutch oven, heat the oil over medium-high heat. Break up the sausage and sauté with the onion until the sausage is browned and the onion is tender; drain fat. Add the remaining ingredients to the pan and bring to boiling.",
+        "Reduce heat to low and simmer, uncovered, for 20 minutes, stirring occasionally. Serve immediately."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Comfort Food",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Holidays & Entertaining",
+        "Lunch",
+        "One Pot",
+        "Quick & Easy",
+        "Soup"
+    ],
+    "nutrition": {
+        "calories": "280",
+        "total_fat": "7g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "530mg",
+        "total_carbohydrate": "33g",
+        "fiber": "9g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/turkey-and-3-bean-chili"
+}

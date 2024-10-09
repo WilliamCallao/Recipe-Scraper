@@ -1,0 +1,82 @@
+{
+    "title": "Ratatouille",
+    "keywords": "Sides,Vegetarian,Holidays & Entertaining",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Vegetarian",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/novdec13_ratatouille_istock21554264_279x200.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "medium eggplant (cubed)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "small zucchini (sliced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "green bell pepper (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "canned tomatoes (crushed)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Heat oil in a large nonstick skillet over medium-high heat. Add garlic and sauté 30 seconds.",
+        "Add remaining ingredients and cook 10-15 minutes, stirring occasionally, until vegetables are tender."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Low Sodium",
+        "Veggie Rich",
+        "French",
+        "Sides",
+        "Vegetarian",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "60mg",
+        "total_carbohydrate": "11g",
+        "fiber": "5g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ratatouille"
+}

@@ -1,0 +1,144 @@
+{
+    "title": "Shrimp Creole and Cauliflower Grits",
+    "keywords": "Dinner,Main Dish",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Shrimp%20Creole%20and%20Cauliflower%20Grits.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "green onion (scallion) (sliced, for garnish)",
+            "us_amount": "1 stalks",
+            "metric_amount": "1 stalks"
+        },
+        {
+            "name": "cauliflower (trimmed and grated)",
+            "us_amount": "approximately 2 lbs.",
+            "metric_amount": "approximately 2 lbs."
+        },
+        {
+            "name": "olive oil (for grits)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "garlic (minced, for grits)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "low-sodium white beans (drained and rinsed)",
+            "us_amount": "1/2 can",
+            "metric_amount": "1/2 can"
+        },
+        {
+            "name": "lower-sodium chicken broth",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "finely grated parmesan cheese (optional)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "onion powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "olive oil (divided, for grits)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "large shrimp (peeled and deveined)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "celery (diced)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "yellow onion (diced)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "green bell pepper (diced)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "garlic powder (minced, for grits)",
+            "us_amount": "3 cloves",
+            "metric_amount": "3 cloves"
+        },
+        {
+            "name": "salt-free Creole seasoning",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "canned diced tomatoes",
+            "us_amount": "14 oz",
+            "metric_amount": "396 ml"
+        },
+        {
+            "name": "low sodium chicken broth (for grits)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "bay leaves",
+            "us_amount": "1 leaves",
+            "metric_amount": "1 leaves"
+        },
+        {
+            "name": "Worcestershire sauce",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "For the grits: Heat oil in a medium pot over medium-high heat. Add the cauliflower and cook until softened and lightly browned, about 10 minutes. Add the garlic and heat until fragrant, about 1 minute.",
+        "Add the beans, broth, and water. Cook for 5 minutes. Turn off the heat. Add the Parmesan and onion powder. Using a masher or blender, mix until just creamy with a little texture remaining. Add more water as needed. Season with pepper. Cover to keep warm until serving.",
+        "For the shrimp: Pat the shrimp dry with a paper towel. Heat 1½ tsp oil in a large skillet over medium-high heat and add the shrimp in a single layer. Lightly sear on one side until curled and lightly charred. Remove shrimp to a plate and add the remaining oil to the pan.",
+        "Add the celery, onion, and bell pepper to the pan. Reduce heat to medium and cook, stirring occasionally until tender but not overly browned, about 7 minutes. If the pan gets too dry while the vegetables cook, add water as needed.",
+        "Add the garlic and seasoning and heat until fragrant, about 1 minute. Add the tomatoes, broth, and bay leaf. Use a spoon to scrape any bits stuck to the bottom of the pan. Bring to a boil and then reduce heat to a simmer. Cook for 10 minutes until thickened, stir frequently to prevent the bottom from burning.",
+        "Serve on top of cauliflower “grits” and garnish with onions and hot sauce.",
+        "Serve on top of cauliflower “grits” and garnish with onions and hot sauce."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Seafood",
+        "Caribbean",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "7g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "130mg",
+        "sodium": "340mg",
+        "total_carbohydrate": "24g",
+        "fiber": "8g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/shrimp-creole-and-cauliflower-grits"
+}

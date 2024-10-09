@@ -1,0 +1,65 @@
+{
+    "title": "Deviled Eggs",
+    "keywords": "Appetizers,Holidays & Entertaining,Snacks",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_219_Devilled_Eggs_iStock-186883800._02282018jpg.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "large eggs",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "light mayonnaise (plus 1 tsp)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "mustard powder (dry)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Pinch of salt",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Place the eggs in a small saucepan so that they won’t bounce or move around and crack. Cover with water. Bring to a boil. Immediately turn off and cover. Let sit for 15-18 minutes to continue cooking. Pour out the hot water. Shake the eggs in the pan to crack the shells. Add cold water and let sit. (This will make them easier to peel.)",
+        "Peel the eggs and cut them in half vertically. Remove yolks, place them in a small bowl, and mash with a fork. Add mayo, mustard, salt and pepper. Fill egg whites with mixture. Garnish with sliced grape tomatoes, sliced olives, sliced radishes, sliced scallions, or a drop of caviar or truffle paste. (Garnishes are optional.)"
+    ],
+    "tags": [
+        "Lower Carb",
+        "Low Sodium",
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "45",
+        "total_fat": "3g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "70mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/deviled-eggs"
+}

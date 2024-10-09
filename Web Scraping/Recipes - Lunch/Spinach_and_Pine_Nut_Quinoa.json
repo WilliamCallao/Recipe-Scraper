@@ -1,0 +1,82 @@
+{
+    "title": "Spinach and Pine Nut Quinoa",
+    "keywords": "Quick & Easy,Lunch,Gluten-Free,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Lunch",
+        "Gluten-Free",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/514-diabetic-spinach-pine-nut-quinoa_AdobeStock224300330_012221.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "quinoa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "low sodium vegetable broth",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "baby spinach leaves",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "pine nuts (toasted)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Parmesan (freshly grated)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Cook quinoa according to package directions with chicken broth.",
+        "Heat olive oil in a sauté pan over medium-high heat. Add garlic and sauté for 30 seconds. Add spinach and sauté for about 5 minutes.",
+        "Pour cooked quinoa in a medium bowl; add spinach and remaining ingredients and mix well."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Quick & Easy",
+        "Lunch",
+        "Gluten-Free",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "8g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "90mg",
+        "total_carbohydrate": "22g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spinach-and-pine-nut-quinoa"
+}

@@ -1,0 +1,96 @@
+{
+    "title": "Pumpkin-Banana Muffins",
+    "keywords": "Easy Pantry Recipes,Breakfast and Brunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recipe%20Size_3.png",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "white whole wheat flour",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "brown sugar",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "baking soda",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pumpkin pie spice",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "pumpkin puree",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "banana(s) (mashed)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "walnuts (finely chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350 degrees F and line a muffin tin with liners.",
+        "Mix flour, sugar, baking soda, salt, pumpkin pie spice in a large bowl.",
+        "In a small bowl, mix together the eggs, pumpkin puree, oil, banana, and vanilla.",
+        "Pour the wet ingredients into the dry ingredients and stir to combine. Gently fold in the walnuts.",
+        "Scoop the batter into muffin tins and bake for 18-20 minutes, until a toothpick comes out clean."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Comfort Food",
+        "Easy Pantry Recipes",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "6g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "20g",
+        "fiber": "3g",
+        "sugar": "7g",
+        "added_sugar": "5g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pumpkin-banana-muffins"
+}

@@ -1,0 +1,86 @@
+{
+    "title": "Masala Omelette with Mixed Veggies",
+    "keywords": "",
+    "prep_time": "PT0M",
+    "cook_time": "PT10M",
+    "categories": [],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_765_MasalaOmeletteWithMixedVeggies_IndianCuisine_050318.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "sunflower oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "medium red onion (finely minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh green chili (finely minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (finely chopped)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "turmeric (ground)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "small ripe tomato (finely minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "large eggs ( beaten)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "chopped fresh cilantro",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Heat oil in a cast iron frying pan over medium-high heat. Add red onion, chili, garlic, and turmeric and sauté until soft.",
+        "Reduce heat to medium and add cumin and tomato. Sauté for 2 minutes, stirring occasionally.",
+        "Add the beaten eggs, swirling the pan to help the eggs set on the bottom. Cook for about 2-3 minutes.",
+        "When eggs are cooked through, fold the omelet and sprinkle with salt and fresh cilantro. Serve hot."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "10g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "185mg",
+        "sodium": "370mg",
+        "total_carbohydrate": "13g",
+        "fiber": "2g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/masala-omelette-mixed-veggies"
+}

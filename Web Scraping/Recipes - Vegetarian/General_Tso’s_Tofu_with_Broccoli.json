@@ -1,0 +1,128 @@
+{
+    "title": "General Tso’s Tofu with Broccoli",
+    "keywords": "Foodie,Dinner,Vegan,Main Dish,Lunch,Vegetarian",
+    "prep_time": "PT35M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Foodie",
+        "Dinner",
+        "Vegan",
+        "Main Dish",
+        "Lunch",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/019-diabetic-chinese-tofu-broccoli_AdobeStock404612949_012221.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "extra firm tofu (drained and cut into 1-inch chunks)",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "lower sodium soy sauce (divided use)",
+            "us_amount": "1 tbsp plus 1 tsp",
+            "metric_amount": "1 tbsp plus 1 tsp"
+        },
+        {
+            "name": "rice vinegar (divided use)",
+            "us_amount": "1 tbsp plus 2 tsp",
+            "metric_amount": "1 tbsp plus 2 tsp"
+        },
+        {
+            "name": "vegetable oil (divided use)",
+            "us_amount": "3 tsp",
+            "metric_amount": "15 g"
+        },
+        {
+            "name": "garlic (minced, divided use)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "grated ginger (divided use)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Cornstarch (divided use)",
+            "us_amount": "1 tbsp plus 2 tsp",
+            "metric_amount": "1 tbsp plus 2 tsp"
+        },
+        {
+            "name": "low sodium vegetable broth",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "honey or 2 packets artificial sweetener",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "tomato paste",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "sesame oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Asian-style hot sauce (such as sambal oelek)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "green onion (scallion) (sliced thinly)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "broccoli (steamed)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350° F, and a coat baking sheet with cooking spray. Set aside.",
+        "Pat tofu dry with a paper towel.",
+        "Marinate the tofu: Combine 1 tsp soy sauce, 2 tsp rive vinegar, 1 tsp oil, half of the minced garlic and half of the grated ginger in a bowl. Add tofu and toss to coat. Marinate 30 minutes.",
+        "Sprinkle 1 tbsp cornstarch over tofu and turn to coat evenly. Spread tofu on the baking sheet in a single layer. Bake 30 minutes, turning frequently, or until brown all sides.",
+        "While the tofu is baking, whisk together broth, honey, remaining 1 tbsp soy sauce, remaining tbsp vinegar, sesame oil, remaining 2 tsp cornstarch, tomato paste and hot sauce in small bowl. Set aside.",
+        "Add remaining 2 tsp vegetable oil to a large sauté pan or wok over medium-high heat. Add scallions and the rest of the garlic and ginger, and stir-fry 1 minute. Add sauce mixture and cook 2-3 minutes, or until thickened.",
+        "Stir the baked tofu and broccoli into the sauce and serve."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Asian",
+        "Foodie",
+        "Dinner",
+        "Vegan",
+        "Main Dish",
+        "Lunch",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "11g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "280mg",
+        "total_carbohydrate": "17g",
+        "fiber": "3g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/general-tsos-tofu-broccoli"
+}

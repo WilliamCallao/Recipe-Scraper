@@ -1,0 +1,109 @@
+{
+    "title": "Cider Braised Chicken",
+    "keywords": "Dinner,One Pot,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Dinner",
+        "One Pot",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recipe%20Size%20%284%29.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "bacon (chopped)",
+            "us_amount": "1 slice",
+            "metric_amount": "1 slice"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "boneless skinless chicken thighs",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "shallots (diced)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Pink Lady apple (sliced)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "Apple Cider Vinegar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "low sodium chicken broth",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "fresh thyme (chopped)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "swiss chard (chopped)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Heat bacon in a Dutch oven over medium heat, stirring frequently. Remove to a dish once fully cooked and golden brown.",
+        "Drain the fat from the pan and add the oil. Increase the heat to medium-high and add the chicken thighs. Sear each side until browned but not cooked through, about 2 minutes each side.",
+        "Remove the thighs to the dish with the bacon. Add the shallot and garlic. Heat until fragrant, about 2 minutes.",
+        "Add the vinegar, broth, mustard, pepper and thyme. Use the back of a spoon to scrape up any browned bits stuck to the bottom of the pan.",
+        "Stir in the apples and chard. Add the thighs and bacon back into the pot. Make sure the chicken is covered in liquid.",
+        "Bring to a boil and then reduce the heat to a simmer. Cover and cook for 20 minutes and the chicken reaches 165 F on a thermometer.",
+        "Turn off the heat and stir in the yogurt. Enjoy!"
+    ],
+    "tags": [
+        "Comfort Food",
+        "Dinner",
+        "One Pot",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "9g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "105mg",
+        "sodium": "290mg",
+        "total_carbohydrate": "9g",
+        "fiber": "2g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cider-braised-chicken"
+}

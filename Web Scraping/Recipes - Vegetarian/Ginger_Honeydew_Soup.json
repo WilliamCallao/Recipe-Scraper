@@ -1,0 +1,77 @@
+{
+    "title": "Ginger Honeydew Soup",
+    "keywords": "Soup,Vegetarian,Sides,Foodie,Appetizers,Dinner,Lunch",
+    "prep_time": "PT5M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Soup",
+        "Vegetarian",
+        "Sides",
+        "Foodie",
+        "Appetizers",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_710_Ginger%20Honeydew%20Soup_SmartShopperCkbk_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "honeydew melon ((from the salad bar or fresh-cut melon))",
+            "us_amount": "2 1/2 cup",
+            "metric_amount": "592 ml"
+        },
+        {
+            "name": "pure maple syrup",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "fresh lemon juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "grated fresh ginger",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "plain yogurt (non-fat)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "79 ml"
+        },
+        {
+            "name": "crystallized ginger (finely minced)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "Puree the honeydew melon, maple syrup, lemon juice, and fresh ginger in a blender or food processor until smooth. Pour into a bowl, cover, and refrigerate 1 hour.",
+        "For each serving, swirl in some yogurt and sprinkle with crystallized ginger."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Soup",
+        "Vegetarian",
+        "Sides",
+        "Foodie",
+        "Appetizers",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "0g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "35mg",
+        "total_carbohydrate": "20g",
+        "fiber": "1g",
+        "sugar": "18g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ginger-honeydew-soup"
+}

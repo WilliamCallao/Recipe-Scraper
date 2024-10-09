@@ -1,0 +1,88 @@
+{
+    "title": "Spinach Pesto Halibut",
+    "keywords": "Quick & Easy,Dinner,Gluten-Free",
+    "prep_time": "PT15M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Quick & Easy",
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/518-diabetic-spinach-pesto-fish_AdobeStock323286966_012221.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "halibut or other firm white fish",
+            "us_amount": "4 (4-oz) fillets",
+            "metric_amount": "4 (4-oz) fillets"
+        },
+        {
+            "name": "baby spinach leaves (divided use)",
+            "us_amount": "5 cup",
+            "metric_amount": "1 l 183 ml"
+        },
+        {
+            "name": "pine nuts (toasted)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "light mayonnaise",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Parmesan (freshly grated)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Spray grill with cooking spray. Preheat grill and cook halibut over medium high heat for 4 or 5 minutes on each side.",
+        "Place 1 cup of spinach, pine nuts, lemon juice and mayonnaise in a food processor and lightly pulse. While processing, slowly add olive oil until the mixture is creamy.",
+        "Pour the pesto mixture in a bowl and add Parmesan cheese and pepper.",
+        "Put 1 cup of spinach on each of 4 plates; top with a grilled halibut fillet.",
+        "Spread pesto mixture evenly over grilled halibut filets."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Quick & Easy",
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "17g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "130mg",
+        "total_carbohydrate": "2g",
+        "fiber": "1g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spinach-pesto-halibut"
+}

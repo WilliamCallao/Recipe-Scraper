@@ -1,0 +1,99 @@
+{
+    "title": "Roasted Winter Vegetables",
+    "keywords": "Vegan,Vegetarian,Holidays & Entertaining,Sides",
+    "prep_time": "PT30M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Vegan",
+        "Vegetarian",
+        "Holidays & Entertaining",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/nov12-roasted-winter-root.jpg",
+    "servings": "14 Servings",
+    "ingredients": [
+        {
+            "name": "carrots (peeled and sliced into 1-inch rounds)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "sweet onion (chopped)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "turnips (peeled and cut into 1 1/2-inch cubes)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "parsnips (peeled and sliced into 1-inch thick rounds)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "rutabaga (peeled and cut into 1-inch cubes)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "butternut squash (peeled and cubed)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "garlic (peeled)",
+            "us_amount": "12 diente",
+            "metric_amount": "12 diente"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "minced fresh thyme",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chopped fresh parsley",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400 degrees. In a large bowl, combine all the ingredients except the parsley and thyme.",
+        "Divide the vegetables between 2 large baking sheets, and spread them in a single layer on each sheet. Roast the vegetables for 45 to 60 minutes, turning and stirring them halfway through, until they are tender and lightly browned.",
+        "Add the vegetables to a serving bowl, and mix in the parsley and thyme."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "Comfort Food",
+        "Vegan",
+        "Vegetarian",
+        "Holidays & Entertaining",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "75",
+        "total_fat": "2g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "95mg",
+        "total_carbohydrate": "14g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-winter-vegetables"
+}

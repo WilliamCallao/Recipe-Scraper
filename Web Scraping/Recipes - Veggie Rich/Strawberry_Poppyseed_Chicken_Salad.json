@@ -1,0 +1,103 @@
+{
+    "title": "Strawberry Poppyseed Chicken Salad",
+    "keywords": "Salads,Main Dish,Budget Friendly,Dinner",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Salads",
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2127_Strawberry%20Poppyseed%20Chicken%20Salad%20-%20Shutterstock.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Splenda® Stevia Sweetener Jar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Apple Cider Vinegar",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Ground Mustard",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Kosher Salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Poppy Seeds",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Spring Salad Mix",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "boneless, skinless chicken breasts (grilled)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "Fresh Strawberries (sliced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Fresh Blueberries",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Canned, No Sugar Added Mandarin Oranges (drained)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Toasted Pecans",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "In a blender, combine all dressing ingredients (except for poppy seeds) and blend until well combined.",
+        "Add poppy seeds and pulse a few times until they’re incorporated throughout the dressing.",
+        "In a large bowl, gently toss salad mix and dressing. Divide among 4 plates or salad bowls.",
+        "Top each salad evenly with remaining ingredients. Enjoy!"
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Salads",
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "8g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "19g",
+        "fiber": "3g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/strawberry-poppyseed-chicken-salad"
+}

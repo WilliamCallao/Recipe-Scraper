@@ -1,0 +1,75 @@
+{
+    "title": "Spinach Sautéed in Garlic and Oil",
+    "keywords": "Vegetarian,Sides,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_343494077.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "spinach (trimmed, well washed and dried)",
+            "us_amount": "2 1/4 lbs",
+            "metric_amount": "1 l 21 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "crushed red chile flakes",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "Kosher Salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "lemon (halved)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Heat the oil over high heat in a very large skillet until very hot. Add the spinach (you may need to work in batches) and cook, stirring, for about 1-2 minutes; the spinach should turn bright green and wilt slightly. Add the garlic and red chile flakes and continue to cook, stirring constantly, until the garlic begins to release its aroma, approximately 30 seconds.",
+        "Remove the spinach from the heat, and season with salt and pepper. Toss well to combine, and serve with lemon on the side (for squeezing juice over the spinach)."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "8g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "11g",
+        "fiber": "6g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spinach-sauteed-garlic-and-oil"
+}

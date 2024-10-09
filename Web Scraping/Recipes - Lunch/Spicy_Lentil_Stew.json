@@ -1,0 +1,109 @@
+{
+    "title": "Spicy Lentil Stew",
+    "keywords": "Dinner,Foodie,Lunch",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_359686775.jpg",
+    "servings": "9 Servings",
+    "ingredients": [
+        {
+            "name": "celery (medium dice)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "spicy chicken sausage (jalapeno or andouille)",
+            "us_amount": "14 oz",
+            "metric_amount": "396 ml"
+        },
+        {
+            "name": "medium onion (medium dice)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "carrot(s) (medium dice)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "red bell pepper (medium dice)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "water",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "low sodium chicken broth (14.5-ounce, reduced-sodium, fat-free)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "lentils (dried)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "bay leaves",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh parsley (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Coat a large soup pot with cooking spray. Over medium-high heat sauté sausage until lightly brown.",
+        "Add celery, onions, carrots and red bell pepper to pot and sauté over medium-high heat for approximately 4 minutes or until onions begin to turn clear.",
+        "Add the water, broth, lentils, salt, pepper and bay leaf. Bring to a boil; reduce heat and low simmer for 1 hour.",
+        "Remove bay leaf, add parsley and serve."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mediterranean",
+        "Comfort Food",
+        "Indian",
+        "Dinner",
+        "Foodie",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "155",
+        "total_fat": "4g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "390mg",
+        "total_carbohydrate": "18g",
+        "fiber": "6g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spicy-lentil-stew"
+}

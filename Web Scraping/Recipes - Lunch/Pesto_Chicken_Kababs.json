@@ -1,0 +1,97 @@
+{
+    "title": "Pesto Chicken Kababs",
+    "keywords": "Budget Friendly,Dinner,Lunch,Quick & Easy",
+    "prep_time": "PT20M",
+    "cook_time": "PT7M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/402-diabetic-mediterranean-pesto-chicken-kababs_AdobeStock117846457_012621.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pine nuts (toasted)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "fresh packed basil leaves ((1 bunch of basil))",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "bamboo skewers",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "Parmesan cheese (freshly grated)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "boneless, skinless chicken breasts (cut into 24 cubes)",
+            "us_amount": "1 1/4 lbs",
+            "metric_amount": "567 ml"
+        },
+        {
+            "name": "zucchini (cut into 24 pieces)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "cherry tomatoes",
+            "us_amount": "24 whole",
+            "metric_amount": "24 whole"
+        }
+    ],
+    "instructions": [
+        "Soak the bamboo skewers in warm water for at least 30 minutes.",
+        "Preheat an indoor or outdoor grill.",
+        "While the skewers are soaking, blend the olive oil, garlic, basil, pine nuts, black pepper, and parmesan cheese in a blender or food processor.",
+        "Thread alternating pieces of chicken, zucchini, and tomato onto the soaked skewers, using 3 pieces of chicken, 3 pieces of zucchini, and 3 tomatoes.",
+        "Brush the kabobs with the basil mixture, coating well.",
+        "Grill the kabobs about 7 minutes, brushing with the basil mixture until it is all used. Turn the kabobs frequently until the chicken is cooked through and reaches 165 degrees F."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Mediterranean",
+        "Grilling",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "300",
+        "total_fat": "13g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "105mg",
+        "sodium": "120mg",
+        "total_carbohydrate": "9g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "36g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pesto-chicken-kababs"
+}

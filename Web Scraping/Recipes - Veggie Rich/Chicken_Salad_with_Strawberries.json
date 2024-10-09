@@ -1,0 +1,64 @@
+{
+    "title": "Chicken Salad with Strawberries",
+    "keywords": "Lunch,Quick & Easy,Salads",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Quick & Easy",
+        "Salads"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/ThinkstockPhotos-177525756.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "organic baby spinach (5.5 oz bag)",
+            "us_amount": "1 package",
+            "metric_amount": "1 package"
+        },
+        {
+            "name": "raw almonds (sliced)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "strawberries (sliced)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "cooked chicken breast (diced)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "light poppy seed dressing",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        }
+    ],
+    "instructions": [
+        "In a salad bowl, mix together all salad ingredients",
+        "Pour dressing over salad and toss to coat."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lunch",
+        "Quick & Easy",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "265",
+        "total_fat": "10.5g",
+        "saturated_fat": "1.7g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "16g",
+        "fiber": "3g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-salad-strawberries"
+}

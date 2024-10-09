@@ -1,0 +1,106 @@
+{
+    "title": "Ingrid Hoffmann's Chicken Tinga Poblana",
+    "keywords": "Main Dish,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT33M",
+    "categories": [
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1654-diabetic-chicken-tinga-poblana_latin-comfort-foods_092618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "boneless, skinless chicken breasts",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "bay leaves",
+            "us_amount": "2 leaves",
+            "metric_amount": "2 leaves"
+        },
+        {
+            "name": "no-salt-added petite diced tomatoes",
+            "us_amount": "1 14.5 ounce can",
+            "metric_amount": "1 14.5 ounce can"
+        },
+        {
+            "name": "fresh cilantro (chopped and divided)",
+            "us_amount": "1/4 cup plus 2 tbsp",
+            "metric_amount": "1/4 cup plus 2 tbsp"
+        },
+        {
+            "name": "chipotle chili in adobo",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "adobo sauce from the chipotles",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Apple Cider Vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic (chopped)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "dried thyme",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "dried marjoram or dried oregano",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "onion(s) (thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Place the chicken, bay leaves, and enough cold water to cover in a medium saucepan; bring to a simmer. Cover and simmer until the chicken is cooked through, about 15 minutes; drain. Discard the bay leaves. Transfer the chicken to a cutting board. Let cool, then shred with two forks. Set aside.",
+        "Meanwhile, puree the tomatoes, 1/4 cup cilantro, chipotle chilies, adobo sauce, vinegar, garlic, thyme, marjoram, and salt in a food processor or blender.",
+        "Heat the oil in a large nonstick skillet over medium-high heat. Add the onion and cook, stirring occasionally, until the onion is softened, about 8 minutes. Add the tomato mixture and the shredded chicken. Cook, over medium heat, stirring occasionally, until the flavors are blended and the chicken is heated through, about 10 minutes. Sprinkle with the remaining 2 tbsp cilantro."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Mexican/Southwestern",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "9g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ingrid-hoffmanns-chicken-tinga-poblana"
+}

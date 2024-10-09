@@ -1,0 +1,76 @@
+{
+    "title": "Roasted Cherry Tomatoes with Rosemary & Garlic",
+    "keywords": "Appetizers,Holidays & Entertaining,Vegan,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Rosemary%20Tomatoes%20%20Garlic%20on%20Toast%20diabetic%20recipe.png",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "cherry tomatoes",
+            "us_amount": "24 oz",
+            "metric_amount": "679 ml"
+        },
+        {
+            "name": "fresh rosemary (chopped)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "garlic (peel removed and top cut off)",
+            "us_amount": "1 head",
+            "metric_amount": "1 head"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "whole wheat bread (toasted and cut into quarters)",
+            "us_amount": "6 slice",
+            "metric_amount": "6 slice"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400 degrees F.",
+        "Place tomatoes, rosemary, salt, and garlic in a round baking dish.",
+        "Add the oil and stir to combine. Place in the oven and cook for 45–60 minutes, until garlic is golden brown and softened and the tomatoes burst.",
+        "Squeeze garlic cloves out of bulb and mix with tomatoes. Garlic cloves will be soft and creamy.",
+        "Top each quarter of toast with tomato mixture. One serving is 3 quarter slices of toast with ¼ cup tomatoes."
+    ],
+    "tags": [
+        "Lower Carb",
+        "French",
+        "Mediterranean",
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "14g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "14g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-cherry-tomatoes-rosemary-garlic"
+}

@@ -1,0 +1,68 @@
+{
+    "title": "Roasted Asparagus Salad",
+    "keywords": "Cooking for 1 or 2,Quick & Easy,Salads,Sides,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_1382794232.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "medium asparagus spears (trimmed and patted very dry)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "walnuts (chopped)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "light balsamic vinaigrette",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Pepper, to taste (coarsely ground preferred)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 425 degrees F. Line a baking sheet with aluminum foil. Lightly spray with cooking spray.",
+        "Arrange the asparagus in a single layer on the baking sheet. Sprinkle the walnuts around the asparagus. Lightly spray the asparagus with cooking spray. Roll back and forth to coat.",
+        "Roast for 5 minutes. Using tongs, turn the asparagus over gently. Roast for 4 minutes, or until the walnuts begin to brown. Transfer to a plate.",
+        "Spoon the vinaigrette over the asparagus and walnuts. Roll back and forth to coat. Sprinkle with the pepper. Let stand for 10 minutes so the flavors blend.",
+        "Cook’s Tip: Be sure to dry the asparagus thoroughly before cooking or it will not brown properly."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Low Sodium",
+        "Veggie Rich",
+        "Cooking for 1 or 2",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "45",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "85mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-asparagus-salad"
+}

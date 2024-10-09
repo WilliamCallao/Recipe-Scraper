@@ -1,0 +1,78 @@
+{
+    "title": "Grilled Trout With Fresh Herbs And Lemon Slices",
+    "keywords": "Dinner,Main Dish",
+    "prep_time": "PT12M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_735_GrilledTroutWithFreshHerbsAndLemonSlices_SixOClockScramble_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "fresh mint (finely chopped)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "fresh rosemary (finely chopped)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lemon",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "whole trout ((about 7 ounces), cleaned, gutted, and heads removed (the fishmonger can do this for you))",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Kosher Salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "DO AHEAD OR DELEGATE: Zest and juice the lemons.",
+        "Preheat the grill to medium heat and oil the grates to prevent the fish from sticking. (Alternatively, bake the trout at 400°F for about 25 minutes.) In a small bowl, combine the chopped herbs, the zest of 1 1/2 lemons, and the juice of 1 lemon. Cut the other lemon into thin slices.",
+        "Lay the trout on a cutting board, skin side up, and brush the skin with olive oil to coat. Flip the fish and rub the lemon-herb mixture over the flesh of the trout, season with the salt and pepper, and lay the lemon slices on top of one half of each trout. Close the trout around the herbs and lemon slices, and transfer the fish to the grill.",
+        "Grill the fish with the lid closed, without flipping, for 8 minutes or until the flesh is opaque and flaky. Using a spatula, carefully transfer the trout to a plate to serve. Garnish the plate with a few fresh mint leaves and sprigs of rosemary, if desired.",
+        "SLOW COOKER DIRECTIONS: Place each piece of fish on an individual piece of foil, stuff each with the spices and lemon. Close the trout around the herbs and lemon slices, and fold the foil into a packet to completely surround the fish. Place the packets in the slow cooker and cook on low for 8–10 hours or on high for 4–5 hours. (Slow cooker cooking times may vary—get to know your slow cooker and, if necessary, adjust cooking times accordingly.)",
+        "FLAVOR BOOSTER Season the fish with freshly ground black pepper or lemon-pepper seasoning at the table."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Grilling",
+        "Seafood",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "12g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "80mg",
+        "sodium": "305mg",
+        "total_carbohydrate": "5g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "29g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-trout-fresh-herbs-and-lemon-slices"
+}

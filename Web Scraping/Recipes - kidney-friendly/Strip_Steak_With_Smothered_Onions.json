@@ -1,0 +1,90 @@
+{
+    "title": "Strip Steak With Smothered Onions",
+    "keywords": "Dinner,Lunch,Quick & Easy,Main Dish,Holidays & Entertaining",
+    "prep_time": "PT5M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Main Dish",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/strip-steak-with-smothered-onions-Mar16.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "brown sugar",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "dried thyme",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sweet onion (peeled and halved, thinly sliced)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "olive oil (divided)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "lean strip steak",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "Sprinkle the steak with the salt and pepper.",
+        "Heat 1/2 Tbsp of the oil in a large cast-iron skillet over high heat. Add the steak and sear for about 3 minutes.",
+        "Turn the steak over, reduce the heat to medium, and cook for 4 to 6 minutes, or longer as desired for doneness. Remove the steak from the pan and keep it warm.",
+        "Add the remaining oil to the pan. Add the onions and sauté over medium heat for 5 minutes.",
+        "Add the water, thyme, and brown sugar, cover the pan, and simmer over medium-low heat for 10 minutes, until the onions are very soft.",
+        "Slice the steak. Serve the slices covered with the onions."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Main Dish",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "6g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "9g",
+        "fiber": "1g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/strip-steak-smothered-onions"
+}

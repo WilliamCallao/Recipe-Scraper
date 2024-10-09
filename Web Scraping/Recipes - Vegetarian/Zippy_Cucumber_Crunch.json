@@ -1,0 +1,83 @@
+{
+    "title": "Zippy Cucumber Crunch",
+    "keywords": "Vegetarian,Sides",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/jul13_cuc_crunch_istock9017754_279x200.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "large cucumbers (peeled and sliced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ice water",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "green onion (scallion) (thinly sliced)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "small green bell pepper ( chopped)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "sour cream (reduced-fat)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "white vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sugar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "In a large bowl, combine the cucumbers, salt, and ice water. Cover and chill for 1 hour, then drain and return the cucumbers to the bowl.",
+        "Add the remaining ingredients and mix until well combined. Cover and chill for at least 2 hours before serving."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Vegetarian",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "30",
+        "total_fat": "1g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "2mg",
+        "sodium": "104mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/zippy-cucumber-crunch"
+}

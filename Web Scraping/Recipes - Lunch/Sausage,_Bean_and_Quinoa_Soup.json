@@ -1,0 +1,112 @@
+{
+    "title": "Sausage, Bean and Quinoa Soup",
+    "keywords": "Lunch,Sides,Gluten-Free,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Lunch",
+        "Sides",
+        "Gluten-Free",
+        "Quick & Easy"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/ThinkstockPhotos-494807562.jpg",
+        "Bean and Quinoa Soup\" loading=\"lazy\" />"
+    ],
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "onion(s) (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "green pepper (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lean smoked turkey sausage (sliced in half lengthwise and cut into 1-inch pieces)",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "tomato(es) (14.5-ounce, no-salt-added, diced)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "canned kidney beans (no-salt-added, rinsed and drained)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "low sodium chicken broth (fat-free, reduced-sodium)",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "dried thyme",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "quinoa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "hot water",
+            "us_amount": "2 1/2 cup",
+            "metric_amount": "592 ml"
+        }
+    ],
+    "instructions": [
+        "Add oil to a large soup pot or Dutch oven and heat over medium-high. Add onion and green pepper and sauté over medium-high heat for 5 minutes. Add garlic and sauté for 30 seconds.",
+        "Remove onion and pepper mixture from pot and set aside. Spray pot with cooking spray. Add sausage and sauté for 3-5 minutes until brown.",
+        "Add onion and peppers back to pot. Add tomatoes, kidney beans, chicken broth, black pepper, cayenne pepper if desired and thyme. Bring to a boil. Add quinoa, reduce heat to low and cover. Simmer for 15 minutes.",
+        "Remove lid and add water. Simmer for 5 more minutes.",
+        "Choices: 1 Starch, 1 Nonstarchy Vegetable, 1 Lean Protein, 1/2 Fat"
+    ],
+    "tags": [
+        "High in Fiber",
+        "Lunch",
+        "Sides",
+        "Gluten-Free",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "370mg",
+        "total_carbohydrate": "24g",
+        "fiber": "5g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sausage-bean-and-quinoa-soup"
+}

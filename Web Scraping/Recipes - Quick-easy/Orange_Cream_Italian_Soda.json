@@ -1,0 +1,60 @@
+{
+    "title": "Orange Cream Italian Soda",
+    "keywords": "Cooking for 1 or 2,Beverages,Quick & Easy",
+    "prep_time": "PT0M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Beverages",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/3473_Orange%20Cream%20Italian%20Soda.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "sparkling water",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "Splenda® Mandarin Orange Liquid Water Enhancer",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ice",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "fat-free half-and-half",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "In a tall glass, combine sparkling water and Splenda Liquid Water Enhancer. Add ice.",
+        "Float half-and half on top and enjoy!"
+    ],
+    "tags": [
+        "Lower Carb",
+        "Kid Friendly",
+        "Cooking for 1 or 2",
+        "Beverages",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "10",
+        "total_fat": "0g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "20mg",
+        "total_carbohydrate": "2g",
+        "fiber": "0g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/orange-cream-italian-soda"
+}

@@ -1,0 +1,89 @@
+{
+    "title": "Parsley Dill Ricotta Dip",
+    "keywords": "Appetizers,Gluten-Free,Holidays & Entertaining,No Cook,Quick & Easy,Sides,Snacks",
+    "prep_time": "PT1H",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "No Cook",
+        "Quick & Easy",
+        "Sides",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Diabetic%20parsley%20ricotta%20dip.png",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "low-fat ricotta cheese",
+            "us_amount": "15 oz",
+            "metric_amount": "425 ml"
+        },
+        {
+            "name": "lemon (zest and juice from lemon)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "flat leaf parsley (finely chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fresh dill (finely chopped)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "green onion (scallion) (sliced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Combine the ricotta and lemon zest and juice in a medium bowl. Stir to combine.",
+        "Add the parsley, dill, green onions, olive oil, salt, and pepper. Stir to combine.",
+        "Chill for an hour before serving."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Mediterranean",
+        "Appetizers",
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "No Cook",
+        "Quick & Easy",
+        "Sides",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "4g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "15mg",
+        "sodium": "120mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/parsley-dill-ricotta-dip"
+}

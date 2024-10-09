@@ -1,0 +1,124 @@
+{
+    "title": "Shrimp Lettuce Wraps",
+    "keywords": "Foodie,Lunch,Sandwiches",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Foodie",
+        "Lunch",
+        "Sandwiches"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/jul13_foodie_shrimp_wrap_istock18822293_279x200.jpg",
+    "servings": "7 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sesame oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "orange or red bell pepper (seeded and small dice)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "small onion (small dice)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "deveined shrimp (peeled)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "soy sauce (reduced sodium)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "low-calorie brown sugar substitute",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Thai-style chili garlic paste",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "grated ginger",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "small lime (zested and juiced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "low sodium chicken broth (reduced sodium, fat-free)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "peanut butter",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "fresh chives (chopped)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Boston lettuce leaves",
+            "us_amount": "7",
+            "metric_amount": "7"
+        },
+        {
+            "name": "avocado (diced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        }
+    ],
+    "instructions": [
+        "Add cooking spray and sesame oil to a medium sauté pan over medium-high heat.",
+        "Add bell pepper and onion and sauté until vegetables are softened and onions are clear.",
+        "Add shrimp and sauté for 2-3 minutes, or until shrimp is partially cooked through.",
+        "In a small bowl, whisk together soy sauce, Splenda Brown Sugar, chili garlic paste, ginger, garlic, lime zest, lime juice, chicken broth and peanut butter. Pour over shrimp and simmer until sauce begins to thicken and shrimp is cooked through.",
+        "Add chopped chives and stir.",
+        "Portion 1/4 cup of shrimp mixture in a lettuce leaf cup and top with diced avocado. Repeat for remaining 6 wrap, dividing avocado evenly among the 7 wraps."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Foodie",
+        "Lunch",
+        "Sandwiches"
+    ],
+    "nutrition": {
+        "calories": "105",
+        "total_fat": "4g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "470mg",
+        "total_carbohydrate": "7g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/shrimp-lettuce-wraps"
+}

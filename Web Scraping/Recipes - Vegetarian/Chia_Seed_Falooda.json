@@ -1,0 +1,86 @@
+{
+    "title": "Chia Seed Falooda",
+    "keywords": "Vegetarian,Dessert,Breakfast and Brunch",
+    "prep_time": "PT8H",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Dessert",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_642_ChiaiSeedFalooda_IndianCuisine_050318.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "chia seeds",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "low fat milk",
+            "us_amount": "2 1/2 cup",
+            "metric_amount": "592 ml"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "raspberries",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "maple syrup",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "rose water",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "cooked soba noodles (rinsed in cold water)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pomegranate seeds",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "In a large bowl, combine chia seeds and milk. Soak chia seeds for 8 hours or overnight in the refrigerator.",
+        "After chia seeds have soaked, add vanilla extract. Mix well and set aside.",
+        "In a medium bowl, combine the raspberries, maple syrup, rose water, and lemon. Stir gently to combine and set aside.",
+        "In a short glass, add a layer of chia seed mixture, a thin layer of raspberry mixture, and a thin layer of soba noodles. Repeat for each serving and garnish each serving with pomegranate seeds."
+    ],
+    "tags": [
+        "Indian",
+        "Vegetarian",
+        "Dessert",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "5g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "40mg",
+        "total_carbohydrate": "15g",
+        "fiber": "5g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chia-seed-falooda"
+}

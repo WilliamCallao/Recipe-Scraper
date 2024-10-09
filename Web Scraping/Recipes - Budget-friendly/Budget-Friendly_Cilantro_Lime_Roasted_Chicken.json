@@ -1,0 +1,87 @@
+{
+    "title": "Budget-Friendly Cilantro Lime Roasted Chicken",
+    "keywords": "Gluten-Free,Dinner,Main Dish,Budget Friendly",
+    "prep_time": "PT5M",
+    "cook_time": "PT50M",
+    "categories": [
+        "Gluten-Free",
+        "Dinner",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/119-diabetic-cilantro-lime-chicken-budget-friendly_090618_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "whole chicken (cut into 8 pieces)",
+            "us_amount": "1 (about 2 1/2 lbs)",
+            "metric_amount": "1 (about 2 1/2 lbs)"
+        },
+        {
+            "name": "cilantro (chopped)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lime (zested and juiced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "honey",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 375 degrees F. Coat a baking dish with cooking spray.",
+        "Remove the skin from the chicken and arrange in a single layer in the baking pan.",
+        "In a small bowl, whisk together the cilantro, lime zest, lime juice, honey, garlic, ground black pepper and salt. Pour the mixture evenly over the chicken and bake for 45-50 minutes or until the internal temperature of the largest piece of chicken is 165 degrees."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Mexican/Southwestern",
+        "Gluten-Free",
+        "Dinner",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "4.5g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "55mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "4g",
+        "fiber": "0g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-cilantro-lime-roasted-chicken"
+}

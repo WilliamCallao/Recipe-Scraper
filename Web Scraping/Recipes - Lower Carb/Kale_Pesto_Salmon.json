@@ -1,0 +1,94 @@
+{
+    "title": "Kale Pesto Salmon",
+    "keywords": "Holidays & Entertaining,Foodie,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/330-Kale-Pesto-Salmon-Diabetic_148314400_04112018%20.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "kale leaves (chopped)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "walnuts (toasted)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Parmesan cheese (grated)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salmon fillets (4-ounce each)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 375 degrees F. Coat a baking sheet with cooking spray and set aside.",
+        "In a blender or food processor, blend the kale, walnuts, garlic, olive oil, water, lemon juice, Parmesan cheese, and pepper until smooth.",
+        "Lay the salmon filets skin side down on the baking sheet. Spread the top of each salmon filet with 1/4 of the pesto.",
+        "Bake the salmon for 20 minutes."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Seafood",
+        "Italian",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "300",
+        "total_fat": "19g",
+        "saturated_fat": "2.9g",
+        "trans_fat": "0g",
+        "cholesterol": "80mg",
+        "sodium": "95mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "28g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/kale-pesto-salmon"
+}

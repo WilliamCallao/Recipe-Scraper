@@ -1,0 +1,105 @@
+{
+    "title": "Pork Tacos",
+    "keywords": "Holidays & Entertaining,Foodie,Dinner",
+    "prep_time": "PT45M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/411-diabetic-pork-tacos_AdobeStock162493729_022321.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "lime (juiced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "cumin",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "dried oregano",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pork tenderloin",
+            "us_amount": "20 oz",
+            "metric_amount": "566 ml"
+        },
+        {
+            "name": "small flour or corn tortillas (warmed)",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "tomato(es) (diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "lettuce (shredded)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "reduced-fat, shredded cheddar cheese",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "In a large bowl combine lime juice, garlic, chili powder, cumin, oregano, salt and pepper. Add pork and coat well. Marinate in refrigerator for 30 minutes up to 4 hours.",
+        "Preheat oven to 375 degrees. Place tenderloins in a shallow baking dish and bake for 30 minutes or until pork is done.",
+        "Remove pork from oven and let rest for 10 minutes. Cut pork into 1-inch chunks.",
+        "Serve pork in warm tortillas topped with tomatoes, 2 Tbsps. of lettuce and 1 1/3 Tbsps. cheese."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Mexican/Southwestern",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "6g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "410mg",
+        "total_carbohydrate": "13g",
+        "fiber": "8g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pork-tacos"
+}

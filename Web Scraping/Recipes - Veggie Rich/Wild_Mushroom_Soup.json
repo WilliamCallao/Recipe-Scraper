@@ -1,0 +1,101 @@
+{
+    "title": "Wild Mushroom Soup",
+    "keywords": "Sides,Foodie",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Sides",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/590-diabetic-wild-mushroom-soup_Diabetes-Ckbk_DFNovDec19_101019.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "onion(s) (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "celery (diced)",
+            "us_amount": "1 stalks",
+            "metric_amount": "1 stalks"
+        },
+        {
+            "name": "assorted mushrooms ((cremini, shitake, oyster, white), sliced)",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "flour",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "low sodium, fat-free chicken broth",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "bay leaves",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "evaporated skim milk",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "additional sauteed and sliced mushrooms (optional, for garnish)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Add the oil to a soup pot over medium-high heat. Add the onion and celery and sauté until the onions turn clear, about 5 minutes.",
+        "Add the mushrooms and sauté until soft and all the liquid is evaporated, about 10 to 12 minutes. Add the garlic and sauté 1 more minute.",
+        "Add the flour to the mushrooms and sauté for 2 minutes, then add the broth and stir well, scraping up the bits at the bottom of the pan.",
+        "Add the bay leaf, salt (optional), and ground black pepper. Bring to a boil, then reduce it to a simmer for 10 minutes.",
+        "Add the evaporated milk and simmer for 1 minute. Remove the bay leaf and then puree the soup with an immersion blender or in batches in a stand blender. Ladle into bowls and garnish with additional sauteed sliced mushrooms, if desired."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Sides",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "1g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "11g",
+        "fiber": "1g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/wild-mushroom-soup"
+}

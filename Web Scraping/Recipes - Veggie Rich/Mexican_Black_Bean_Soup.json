@@ -1,0 +1,106 @@
+{
+    "title": "Mexican Black Bean Soup",
+    "keywords": "Sides,Lunch,Dinner,Snacks,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Sides",
+        "Lunch",
+        "Dinner",
+        "Snacks",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_356_Mexican_Black_Bean_Soup_ThinkstockPhotos-170134458_02282018.jpg",
+    "servings": "7 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "onion (diced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "boneless, skinless chicken breast (cut into 1/2-inch cubes)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "Adobo seasoning (divided use)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "fire-roasted tomatoes",
+            "us_amount": "1 (14.5-oz) can",
+            "metric_amount": "1 (14.5-oz) can"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cumin",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "frozen corn",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "black beans (rinsed and drained)",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "low sodium chicken broth",
+            "us_amount": "40 oz",
+            "metric_amount": "1 l 132 ml"
+        }
+    ],
+    "instructions": [
+        "Spray a large soup pot with cooking spray. Add oil and onion and sauté over medium-high heat for 3 minutes or until clear.",
+        "Add chicken and season with 1/4 Tsp. Adobo seasoning and pepper. Cook chicken until slightly brown, about 6-7 minutes.",
+        "Add remaining ingredients (including the other 1/4 Tsp. Adobo seasoning). Reduce heat and simmer for 15 minutes."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Sides",
+        "Lunch",
+        "Dinner",
+        "Snacks",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "420mg",
+        "total_carbohydrate": "15g",
+        "fiber": "5g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mexican-black-bean-soup"
+}

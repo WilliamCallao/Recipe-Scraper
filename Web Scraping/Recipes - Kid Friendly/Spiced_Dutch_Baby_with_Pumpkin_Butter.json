@@ -1,0 +1,115 @@
+{
+    "title": "Spiced Dutch Baby with Pumpkin Butter",
+    "keywords": "Dessert",
+    "prep_time": "PT20M",
+    "cook_time": "PT50M",
+    "categories": [
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Diabetic%20pumpkin%20spice%20dutch%20baby.png",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "pumpkin puree (15 ounces)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "apple cider",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ground cinnamon (divided use)",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "salt (divided use)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Apple Cider Vinegar",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pumpkin spice flavored stevia drops",
+            "us_amount": "30 drops",
+            "metric_amount": "30 drops"
+        },
+        {
+            "name": "eggs (at room temperature)",
+            "us_amount": "3 large",
+            "metric_amount": "3 large"
+        },
+        {
+            "name": "skim milk (at room temperature)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "whole wheat flour",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "coconut sugar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "freshly grated nutmeg",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground cardamom",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "unsalted butter",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "chopped toasted walnuts (for serving)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "powdered sugar (for serving)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Make the pumpkin butter:A. In a small saucepan combine the pumpkin purée, apple cider, 1/2 tsp cinnamon, 1/4 tsp salt, and apple cider vinegar. Heat over medium while stirring often.B. Once the mixture is bubbling, lower the heat to medium-low and cook, stirring frequently and scraping down the sides until the mixture has darkened in color and the canned pumpkin ﬂavor has cooked off, about 30 minutes.C. Remove the pumpkin butter from heat and stir in the pumpkin spice sweet drops. The pumpkin butter can be made ahead of time and will keep in the fridge for 7–10 days.",
+        "Preheat the oven to 425 degrees F. Place a 10” cast iron pan in the preheating oven.",
+        "In a small bowl mix the whole wheat ﬂour, coconut sugar, nutmeg, cardamom, cinnamon, and salt.",
+        "Put the eggs into a blender and blend on low for a minute, until smooth and frothy. Add the milk and one tablespoon of the butter and blend until combined.",
+        "Add the ﬂour mixture and blend on low until just combined. If you don’t have a blender, the batter may be mixed by hand.",
+        "Place the remaining tablespoon of butter in the preheated cast iron pan. Swirl the butter around until it has completely melted and coated the pan. Pour the batter into the pan, return the pan to the oven, and bake for 20 minutes.",
+        "Remove the pancake from the oven, slice into wedges, and serve immediately. Top each slice with a spoonful of the pumpkin butter, a scoop of the walnuts, and a light dusting of powdered sugar, if desired."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "9g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0.1g",
+        "cholesterol": "75mg",
+        "sodium": "140mg",
+        "total_carbohydrate": "11g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "1g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spiced-dutch-baby-pumpkin-butter"
+}

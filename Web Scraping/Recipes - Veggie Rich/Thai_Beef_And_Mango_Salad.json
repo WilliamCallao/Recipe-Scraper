@@ -1,0 +1,91 @@
+{
+    "title": "Thai Beef And Mango Salad",
+    "keywords": "Salads,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Salads",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_877_ThaiBeefAndMangoSalad_SixOClockScramble_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "lime (juice only (1/3–1/2 cup))",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "brown sugar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "soy sauce (reduced-sodium, (use wheat/gluten-free if needed))",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "vegetable oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lean top sirloin steak ((or use boneless, skinless chicken breasts or meatless chicken or steak strips))",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "green onion (scallion) (thinly sliced)",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "shredded carrots (matchstick cut)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "fresh cilantro or basil (chopped (optional))",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "mango (peeled and diced)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "Boston lettuce leaves (torn into bite-sized pieces)",
+            "us_amount": "1 head",
+            "metric_amount": "1 head"
+        }
+    ],
+    "instructions": [
+        "DO AHEAD OR DELEGATE: Make the marinade and marinate the meat in the refrigerator, slice the scallions, shred the carrots, if necessary, peel and dice the mango, and tear the lettuce.",
+        "In a medium bowl, whisk together the lime juice, sugar, soy sauce, and oil. Lay the steak in a flat dish with sides. Pour half the marinade over it and flip the meat to coat it thoroughly. Set it aside and reserve the remaining marinade to use as a dressing for the salad.",
+        "In a salad bowl, combine the scallions, carrots, cilantro or basil (optional), mango, and lettuce.",
+        "(Warm the rolls now, if you are serving them.) Heat a heavy skillet over medium-high heat. Remove the steak from the marinade, discard the marinade, and cook for about 5 minutes per side until it is just cooked to desired doneness. If the outside of the steak is cooking too quickly, reduce the heat and partially cover the pan. Transfer the steak to a cutting board, allow it to cool slightly, and slice it across the grain into 1/2- inch wide strips. Dress the salad with the reserved marinade (not the marinade you used for the steak) and serve the salad topped with slices of steak.",
+        "FLAVOR BOOSTER Add 1/2 teaspoon Asian chili garlic sauce to the marinade and/or serve the salad with Thai sweet chili sauce. Sprinkle the salad with fresh lime juice and chopped peanuts."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Asian",
+        "Salads",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "275",
+        "total_fat": "10g",
+        "saturated_fat": "2.6g",
+        "trans_fat": "0.1g",
+        "cholesterol": "40mg",
+        "sodium": "450mg",
+        "total_carbohydrate": "22g",
+        "fiber": "3g",
+        "sugar": "16g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/thai-beef-and-mango-salad"
+}

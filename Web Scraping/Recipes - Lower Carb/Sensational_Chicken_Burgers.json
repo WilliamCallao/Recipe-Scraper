@@ -1,0 +1,85 @@
+{
+    "title": "Sensational Chicken Burgers",
+    "keywords": "Sandwiches,Main Dish,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Sandwiches",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_831_Secrets%20Healthy%20Cooking_StevesSensationalChickenBurgers_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "ground chicken breast",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "ground chicken (mixed light and dark)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "sun-dried tomatoes (chopped, not in oil)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "onion(s) (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "fresh basil (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "fresh flat Italian parsley (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "fine sea salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper (freshly cracked)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Mix all ingredients together and form 4 patties.",
+        "Grill 3–4 minutes on each side and serve with guacamole."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Grilling",
+        "Sandwiches",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "165",
+        "total_fat": "6g",
+        "saturated_fat": "1.7g",
+        "trans_fat": "0g",
+        "cholesterol": "80mg",
+        "sodium": "400mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sensational-chicken-burgers"
+}

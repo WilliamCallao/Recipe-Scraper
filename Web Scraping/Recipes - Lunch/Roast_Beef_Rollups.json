@@ -1,0 +1,87 @@
+{
+    "title": "Roast Beef Rollups",
+    "keywords": "Lunch,Dinner,Sandwiches,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Dinner",
+        "Sandwiches",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/440-diaabetic-Roast-Beef-Rollups_smart-shopper-diabetes-cookbook_071119.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "whole wheat flour tortillas (10-inch)",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "large romaine lettuce leaves",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "cooked deli roast beef (thinly sliced)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "tomato(es) (diced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "red bell pepper (diced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "red wine vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cumin",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "For each rollup, tear a 15-inch piece of either waxed paper or foil. Place the tortilla flat on the paper or foil. Place a romaine lettuce leaf on top of each tortilla. Divide the beef onto the lettuce leaves.",
+        "Combine the tomatoes, red peppers, oil, vinegar, cumin, and pepper. Divide the tomato mixture over the beef.",
+        "Roll the paper or foil over the tortilla to encase the filling. Roll until the sandwich is completely rolled up. Fold the excess paper or foil over the top and bottom of each rollup. To eat, peel back the paper or foil."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Lunch",
+        "Dinner",
+        "Sandwiches",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "295",
+        "total_fat": "6g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "595mg",
+        "total_carbohydrate": "43g",
+        "fiber": "6g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roast-beef-rollups"
+}

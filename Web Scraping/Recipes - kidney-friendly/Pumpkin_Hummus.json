@@ -1,0 +1,95 @@
+{
+    "title": "Pumpkin Hummus",
+    "keywords": "Appetizers,Foodie,Lunch,Quick & Easy,Sides,Snacks,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "Foodie",
+        "Lunch",
+        "Quick & Easy",
+        "Sides",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1831-diabetic-pumpkin-hummus_Clean-Simple-Ckbk_DFNovDec19_101019.jpg",
+    "servings": "7 Servings",
+    "ingredients": [
+        {
+            "name": "chickpeas (garbanzo beans) (drained and rinsed)",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "canned pumpkin",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "tahini",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "smoked paprika",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        },
+        {
+            "name": "pumpkin seeds (optional)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Add all of the ingredients except the pumpkin seeds to a food processor or blender and blend until smooth.",
+        "Garnish with a sprinkling of pumpkin seeds, if desired. Serve with pita chips or fresh vegetables, such as celery, sugar snap peas, or carrots."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Mediterranean",
+        "Appetizers",
+        "Foodie",
+        "Lunch",
+        "Quick & Easy",
+        "Sides",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "70mg",
+        "total_carbohydrate": "13g",
+        "fiber": "4g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pumpkin-hummus"
+}

@@ -1,0 +1,67 @@
+{
+    "title": "5 Ingredient Blueberry Protein Muffins",
+    "keywords": "Quick & Easy,Breakfast and Brunch,Budget Friendly,Foodie,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Quick & Easy",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Foodie",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/5%20ingredient%20blueberry%20muffins%20diabetic.png",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "banana(s)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "quinoa (cooked)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Greek vanilla yogurt (nonfat)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "almond butter",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "blueberries (fresh)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 375˚F. Spray 6 muffin cups with cooking spray. In large bowl, stir together banana, quinoa, nonfat yogurt and almond butter until blended. Fold in blueberries.",
+        "Spoon batter into prepared muffin cups. Bake for 20 to 25 minutes or until golden brown and set in center. Let cool completely."
+    ],
+    "tags": [
+        "Quick & Easy",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Foodie",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "30mg",
+        "total_carbohydrate": "14g",
+        "fiber": "3g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/5-ingredient-blueberry-protein-muffins"
+}

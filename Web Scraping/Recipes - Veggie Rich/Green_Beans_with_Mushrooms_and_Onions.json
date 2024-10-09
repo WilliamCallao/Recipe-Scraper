@@ -1,0 +1,85 @@
+{
+    "title": "Green Beans with Mushrooms and Onions",
+    "keywords": "Vegetarian,Vegan,Sides,Budget Friendly,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Budget Friendly",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2009-Green-Beans-Mushrooms-Onions_KDBH-bookazine_012821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "fresh green beans (trimmed)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "mushrooms, such as button, cremini, or portobello (sliced)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "thinly sliced onion",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        }
+    ],
+    "instructions": [
+        "Fill a medium saucepan three-fourths full with water. Bring to a boil, covered, over high heat. Cook the green beans, uncovered, for 5 minutes, or until tender-crisp. Drain well in a colander.",
+        "Meanwhile, in a medium nonstick skillet, heat the oil over medium-high heat, swirling to coat the bottom. Cook the mushrooms, onion, garlic, and salt for 5 minutes, or until the mushrooms are soft and lightly browned, stirring frequently.",
+        "Stir in the lemon juice, pepper, and cooked green beans."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Budget Friendly",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "2.5g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "80mg",
+        "total_carbohydrate": "8g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/green-beans-mushrooms-and-onions"
+}

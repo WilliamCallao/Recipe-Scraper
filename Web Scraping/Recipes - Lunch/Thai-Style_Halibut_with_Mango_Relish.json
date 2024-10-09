@@ -1,0 +1,91 @@
+{
+    "title": "Thai-Style Halibut with Mango Relish",
+    "keywords": "Dinner,Lunch,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT18M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2016-1-thai-style-halibut.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "grapeseed oil (divided)",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "green onion (scallion) (thinly sliced, green and white parts divided)",
+            "us_amount": "3 whole",
+            "metric_amount": "3 whole"
+        },
+        {
+            "name": "Thai chile pepper or 1/2 small jalapeño pepper (minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "mango (firm and ripe, peeled, pitted, and cut into 1/2-inch cubes (2 cups))",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "soy sauce (naturally brewed, reduced-sodium)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Juice of 1/2 lime",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "halibut (5-ounces each, patted dry)",
+            "us_amount": "4 whole",
+            "metric_amount": "4 whole"
+        },
+        {
+            "name": "sea salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper (freshly ground)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "fresh cilantro or basil (chopped fresh)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Heat 1/2 tablespoon of the oil in a medium nonstick skillet over medium heat. Add the white part of the scallions and the chile pepper and sauté until the scallions begin to caramelize, about 3 1/2 minutes. Add the mango and soy sauce and cook, while stirring, until the mango is softened, about 7 minutes. Stir in the lime juice and green part of the scallions, transfer to a bowl, and set aside.",
+        "Season the fish with the salt and pepper. Heat the remaining 1 tablespoon oil in a large nonstick skillet over medium-high heat. Add the fillets and sauté until cooked through and lightly browned, about 3 minutes per side. (Note: Prepare in batches, if necessary.)",
+        "Top the fillets with the mango relish, sprinkle with the cilantro, and serve."
+    ],
+    "tags": [
+        "Asian",
+        "Seafood",
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "430mg",
+        "total_carbohydrate": "13g",
+        "fiber": "2g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/thai-style-halibut-mango-relish"
+}

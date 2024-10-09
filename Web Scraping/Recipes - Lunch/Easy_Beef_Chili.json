@@ -1,0 +1,133 @@
+{
+    "title": "Easy Beef Chili",
+    "keywords": "Easy Pantry Recipes,Soup,Main Dish,Lunch,Dinner,Budget Friendly",
+    "prep_time": "PT15M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Soup",
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1909-diabetic-easy-beef-chili_create-your-plate_022020.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "onion (chopped)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "jalapeño pepper (seeds removed, minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lean ground beef",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "low-sodium kidney beans (rinsed and drained)",
+            "us_amount": "1 (15.5-oz) can",
+            "metric_amount": "1 (15.5-oz) can"
+        },
+        {
+            "name": "low-sodium cannellini or great northern beans (rinsed and drained)",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "low-sodium black beans (rinsed and drained)",
+            "us_amount": "1 (15.5-oz) can",
+            "metric_amount": "1 (15.5-oz) can"
+        },
+        {
+            "name": "no-added-salt fire-roasted diced tomatoes",
+            "us_amount": "1 (14.5-oz) can",
+            "metric_amount": "1 (14.5-oz) can"
+        },
+        {
+            "name": "low-sodium tomato paste",
+            "us_amount": "1 (6-oz) can",
+            "metric_amount": "1 (6-oz) can"
+        },
+        {
+            "name": "low-sodium beef broth",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ground oregano",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "stevia brown sugar blend (such as Truvia)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cayenne pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Heat the olive or canola oil in a medium pot over medium heat. When the oil is shimmering, add the onion, garlic, and jalapeño and cook until the onion is translucent and the garlic is fragrant, 3 minutes.",
+        "Add the ground beef and cook until browned, 8 minutes, breaking up the pieces using the back of a wooden spoon while cooking.",
+        "Add the remaining ingredients to the pot and stir to combine. Raise the heat to high and bring the mixture to a boil. Then lower the heat to medium low and simmer, covered, until the beef is cooked through and the flavors combine, 30 minutes. Stir occasionally during cooking time.",
+        "Remove the chili from the heat and allow to cool for 10 minutes before serving."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Comfort Food",
+        "Easy Pantry Recipes",
+        "Soup",
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "290",
+        "total_fat": "8g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0.2g",
+        "cholesterol": "35mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "34g",
+        "fiber": "9g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/easy-beef-chili"
+}

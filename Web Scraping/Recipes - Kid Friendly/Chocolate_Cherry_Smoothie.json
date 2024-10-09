@@ -1,0 +1,72 @@
+{
+    "title": "Chocolate Cherry Smoothie",
+    "keywords": "Beverages",
+    "prep_time": "PT5M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Beverages"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2153_2.2%20Chocolate%20Cherry%20Smoothie.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "frozen dark sweet cherries (no sugar added)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Splenda® Monk Fruit Granulated Sweetener",
+            "us_amount": "3 packet",
+            "metric_amount": "3 packet"
+        },
+        {
+            "name": "unsweetened cocoa powder",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "unsweetened almond milk",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "vanilla protein powder (or chocolate)",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "chia seeds",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ice",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "In a blender, add cherries, Splenda Monk Fruit Sweetener, cocoa powder, unsweetened nut milk, and protein powder if using. Blend on high until smooth and creamy, adding a splash more of nut milk if needed. Taste for sweetness level and add another packet of monk fruit sweetener if desired. Add ice and blend again until smooth.",
+        "Add in chia seeds and pulse blender. Pour smoothie into two glasses.",
+        "Sprinkle smoothies with a dusting of cocoa powder and enjoy!",
+        "NOTE: Swap out cherries for strawberries for a Chocolate Strawberry Smoothie. To meal prep ahead for the week, place ingredients for smoothie, with exception of nut milk, in a plastic baggie and store in the freezer. In the morning, empty contents into the blender, add milk, and blend until smooth."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Beverages"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "3g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "100mg",
+        "total_carbohydrate": "18g",
+        "fiber": "5g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chocolate-cherry-smoothie"
+}

@@ -1,0 +1,96 @@
+{
+    "title": "Roasted Beet, Apple and Queso Fresco Salad",
+    "keywords": "Lunch,Salads,Sides,Vegetarian",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/2016-10-roasted-beet-apple-and-queso-fresco-salad.jpg",
+        "Apple and Queso Fresco Salad\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "lime juice (freshly squeezed)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "avocado oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "beets (about 12 ounces total)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "Kosher Salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper (cracked)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Golden Delicious apples (peeled and cubed (1/2-inch cubes))",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "cilantro (finely chopped)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "queso fresco (crumbled)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "yellow onion (sliced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 400°F.",
+        "Rub canola oil on beets, making sure to cover the whole surface. Pierce a few holes in beets so heat can circulate and speed up the cooking process. Place beets in a small baking dish and cover tightly with foil. Roast beets for 1 hour 10 minutes, until you can easily pierce the flesh of the beet with a fork. Remove from oven and place beets directly into a bowl with ice water. This will cool down the beets rapidly, stop the cooking process, and make removing the skins that much easier. When beets are cooled, peel off skins with a paper towel. Put beets into 1/2-inch cubes and set aside.",
+        "Add avocado oil, lime juice, salt, and black pepper to a bowl and whisk briskly for 30 seconds to create your dressing. Set aside.",
+        "In a separate bowl, add apples, 2 cups beet cubes, cilantro, queso fresco, and onions, and toss gently. Add dressing and toss once more. Now it’s ready to serve. Enjoy!"
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lunch",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "1g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "18g",
+        "fiber": "3g",
+        "sugar": "13g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-beet-apple-and-queso-fresco-salad"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Maple-Thyme Roasted Brussel Sprouts",
+    "keywords": "Budget Friendly,Dinner,Foodie,Holidays & Entertaining,Lunch,Quick & Easy,Sides,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/maple-thyme-roasted-brussel-sprouts.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "fresh Brussels sprouts",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "fresh thyme (small bunch)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "garlic (cloves, minced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "olive oil (extra-virgin)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "maple syrup",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 450 degrees F.",
+        "Trim and halve Brussels sprouts; add to a medium bowl.",
+        "Remove thyme leaves from the stems and add to the bowl.",
+        "Add garlic, olive oil, maple syrup, salt, and pepper to the bowl and toss to combine.",
+        "Spread out in a single layer on a baking sheet. Place in the oven and roast until the sprouts are fork-tender and beginning to brown, 20–25 minutes."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Budget Friendly",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "4g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "100mg",
+        "total_carbohydrate": "11g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "2g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/maple-thyme-roasted-brussel-sprouts"
+}

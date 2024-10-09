@@ -1,0 +1,121 @@
+{
+    "title": "Slow-Cooker Ratatouille with White Beans",
+    "keywords": "Vegetarian,Vegan,Slow Cooker,One Pot,Main Dish,Lunch,Dinner,Budget Friendly",
+    "prep_time": "PT15M",
+    "cook_time": "PT6H",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Slow Cooker",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1913-diabetic-slow-cooker-ratatouille-white-beans_create-your-plate_022020.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "low-sodium great northern or cannellini beans (drained and rinsed)",
+            "us_amount": "2 (15-oz) cans",
+            "metric_amount": "2 (15-oz) cans"
+        },
+        {
+            "name": "no-added-salt fire-roasted diced tomatoes",
+            "us_amount": "1 (14.5-oz) can",
+            "metric_amount": "1 (14.5-oz) can"
+        },
+        {
+            "name": "low-sodium tomato sauce",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "low sodium vegetable broth",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "eggplant (diced with skin on)",
+            "us_amount": "1/2 med",
+            "metric_amount": "1/2 med"
+        },
+        {
+            "name": "shredded green cabbage",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "red bell pepper (sliced into 1-inch strips)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "Apple Cider Vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "dried oregano",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "bay leaves",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp plus 1/8 tsp",
+            "metric_amount": "1/4 tsp plus 1/8 tsp"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Brush the inside of the slow cooker with the olive oil. Add the remaining ingredients to the slow cooker; stir to combine.",
+        "Cover and cook on low for 6 hours, until the vegetables and beans soften. Remove and discard the bay leaves before serving."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Mediterranean",
+        "Vegetarian",
+        "Vegan",
+        "Slow Cooker",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "30g",
+        "fiber": "10g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/slow-cooker-ratatouille-white-beans"
+}

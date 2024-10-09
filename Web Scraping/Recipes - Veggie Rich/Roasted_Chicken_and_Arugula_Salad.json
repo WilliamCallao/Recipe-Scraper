@@ -1,0 +1,107 @@
+{
+    "title": "Roasted Chicken and Arugula Salad",
+    "keywords": "Salads,Main Dish,Budget Friendly,Lunch,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Salads",
+        "Main Dish",
+        "Budget Friendly",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_449_Roasted_Chicken_and_Arugula_Salad_02282018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "bone-in, skin-on chicken breasts",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "all purpose seasoning (like Mrs. Dash or Salt-Free Spike seasoning, salt-free)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic (minced or grated)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "honey or 2 packets artificial sweetener",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "arugula",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        },
+        {
+            "name": "small onion (thinly sliced (equivalent to 1/2 cup))",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "golden raisins",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 375 degrees F. Lay the chicken breasts skin side up on a sheet pan and season with the salt-free seasoning.",
+        "Roast the chicken for 30 minutes or until the internal temperature is 165 degrees F. Set the chicken aside to cool.",
+        "In a large salad bowl, whisk together the balsamic vinegar, garlic, dijon mustard, honey, olive oil, salt (optional), and pepper.",
+        "Peel the skin off the chicken and remove the bone (discard the skin and bone). Cut the chicken into 1-inch chunks.",
+        "Toss the chicken, arugula, onion, and golden raisins in the dressing and serve.",
+        "Serve with: Warm whole wheat dinner rolls spread lightly with trans-fat-free margarine."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Salads",
+        "Main Dish",
+        "Budget Friendly",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "320",
+        "total_fat": "11g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "480mg",
+        "total_carbohydrate": "18g",
+        "fiber": "1g",
+        "sugar": "13g",
+        "added_sugar": "0g",
+        "protein": "36g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-chicken-and-arugula-salad"
+}

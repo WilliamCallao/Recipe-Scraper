@@ -1,0 +1,81 @@
+{
+    "title": "Collard Greens with Yellow Squash",
+    "keywords": "Dinner,Gluten-Free,One Pot,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Dinner",
+        "Gluten-Free",
+        "One Pot",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1907-diabetic-collard-greens-yellow-squash_create-your-plate_022020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "collard greens (washed and dried)",
+            "us_amount": "1 bunch (about 8 oz)",
+            "metric_amount": "1 bunch (about 8 oz)"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "turkey bacon",
+            "us_amount": "2 slices",
+            "metric_amount": "2 slices"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "yellow squash (cut into half moons)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "low sodium vegetable broth",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Remove the woody stems that run down the center of the collard leaves. Neatly pile several leaves and tightly roll them up, then slice into ribbons. Repeat for the remaining collard greens.",
+        "Heat 1 tablespoon of the olive oil in a medium sauté pan over medium heat. When the oil is shimmering, add the turkey bacon and cook until golden brown, 3 minutes on each side. Remove the bacon and set aside to slightly cool. Dice the bacon once cool.",
+        "Heat the remaining 1 tablespoon of olive oil in the same sauté pan over medium heat. When the oil is shimmering, add the garlic and cook until fragrant, 30 seconds. Add the collard greens and squash and cook until the collards have wilted and the squash begins to soften, about 5 minutes. Add the vegetable broth and bring the mixture to a boil. Lower the heat and simmer, covered, until the vegetables are cooked through, 10 minutes.",
+        "Add 1/8 teaspoon salt (optional),* the black pepper, and cooked turkey bacon and toss to combine.  *Optional salt not included in nutrition analysis; 1/8 teaspoon salt adds 75 mg of sodium per serving."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Comfort Food",
+        "Dinner",
+        "Gluten-Free",
+        "One Pot",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "8g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "8mg",
+        "sodium": "130mg",
+        "total_carbohydrate": "5g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/collard-greens-yellow-squash"
+}

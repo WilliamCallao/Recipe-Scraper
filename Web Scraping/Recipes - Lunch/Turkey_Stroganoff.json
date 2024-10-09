@@ -1,0 +1,102 @@
+{
+    "title": "Turkey Stroganoff",
+    "keywords": "Holidays & Entertaining,Dinner,Lunch,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_566_Turkey_Stroganoff_ThinkstockPhotos-547246446_03012018.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "egg noodles",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "poppy seed",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "turkey breast (fresh roasted, cut into 2 x 1/2-inch strips)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "salt, to taste",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Portobello mushrooms (4 ounces each)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "small red onion (thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "butter",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "all-purpose flour",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "beef broth (reduced-sodium)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "sour cream (reduced-fat)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        }
+    ],
+    "instructions": [
+        "Cook noodles according to package directions. Toss noodles with poppy seeds and return to empty cooking pot to keep warm. Sprinkle turkey strips with salt and pepper; toss to coat. Remove and discard stems from mushrooms. Cut mushroom caps into quarters and thinly slice.",
+        "Meanwhile, lightly coat large nonstick skillet with nonstick cooking spray and set over medium-high heat. Sauté onion 2 minutes. Add mushrooms and sauté until mushrooms are tender, about 5-6 minutes. Transfer to large bowl.",
+        "Melt butter in skillet over medium heat. Add flour and cook for 1 minute, continuously stirring. Gradually whisk in broth. Cook, stirring with wooden spoon, until sauce thickens and boils, about 4 minutes.",
+        "Reduce heat to low. Blend in sour cream and mustard. Return turkey and reserved vegetables with accumulated juices to skillet. Cook until heated through (do not boil). Divide noodles among plates and spoon stroganoff on top."
+    ],
+    "tags": [
+        "Holidays & Entertaining",
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "285",
+        "total_fat": "7g",
+        "saturated_fat": "3.2g",
+        "trans_fat": "0g",
+        "cholesterol": "90mg",
+        "sodium": "205mg",
+        "total_carbohydrate": "31g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/turkey-stroganoff"
+}

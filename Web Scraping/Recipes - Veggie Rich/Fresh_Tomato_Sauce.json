@@ -1,0 +1,75 @@
+{
+    "title": "Fresh Tomato Sauce",
+    "keywords": "Sauces",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Sauces"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/018-diabetic-Fresh-Tomato-Sauce_Italian-diabetes-cookbook_Thinkstock-03012018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil (extra virgin )",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "garlic (finely chopped)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "sea salt (unrefined)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper (freshly ground )",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "roma (plum) tomatoes (fresh, approximately 2-2 1/2 lb)",
+            "us_amount": "10",
+            "metric_amount": "10"
+        },
+        {
+            "name": "basil or parsley, or a combination (finely chopped)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Peel the tomatoes by scoring the skin of each one with a sharp knife from the top about 1/4 of the way down, in an “x” pattern. Then place scored tomatoes in a pot full of boiling water and boil until their skins begin to crack, approximately 2 minutes.",
+        "Remove tomatoes and plunge into ice-cold water. When tomatoes are cool enough to touch, peel them. If you want a chunky sauce, dice the tomatoes and set them aside. If you want a smooth sauce, pass the tomatoes through a food mill to create a seedless purée.",
+        "Heat the olive oil in a large saucepan over medium heat. When it is hot, add the garlic and crushed red chile flakes. Cook just until the garlic begins to release its aroma.",
+        "Add the tomatoes, salt, pepper and basil and/or parsley. Stir well to combine, cover and reduce heat to low. Simmer for 20 minutes.",
+        "Serve sauce immediately or allow to cool to room temperature before storing. This sauce will keep in an airtight container in the refrigerator for one week, or in the freezer for one month."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "Italian",
+        "Sauces"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "60mg",
+        "total_carbohydrate": "10g",
+        "fiber": "3g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fresh-tomato-sauce"
+}

@@ -1,0 +1,94 @@
+{
+    "title": "Sicilian Olive Salad",
+    "keywords": "Snacks,Quick & Easy,No Cook,Holidays & Entertaining,Appetizers",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Snacks",
+        "Quick & Easy",
+        "No Cook",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1816-diabetic-sicilian-olive-salad_mediterranean-diabetes-cookbook_073019.jpg",
+    "servings": "16 Servings",
+    "ingredients": [
+        {
+            "name": "large green olives (rinsed well, drained, and rubbed dry)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "celery (diced)",
+            "us_amount": "5 stalks",
+            "metric_amount": "5 stalks"
+        },
+        {
+            "name": "carrots (peeled and diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "small red onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "dried oregano",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "extra-virgin olive oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Place olives on a cutting board. Cover with a clean kitchen towel and smash them lightly with a meat hammer or the back of a skillet. (The objective is to slightly crush the olives.)",
+        "Place olives in a bowl and stir together with remaining ingredients.",
+        "Marinate salad for an hour at room temperature, or cover and chill in refrigerator for at least 1 day and up to 3 days. Bring salad to room temperature before serving."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Mediterranean",
+        "Italian",
+        "Snacks",
+        "Quick & Easy",
+        "No Cook",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "6g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sicilian-olive-salad"
+}

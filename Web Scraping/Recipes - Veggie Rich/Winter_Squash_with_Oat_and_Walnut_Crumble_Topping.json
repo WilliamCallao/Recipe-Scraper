@@ -1,0 +1,74 @@
+{
+    "title": "Winter Squash with Oat and Walnut Crumble Topping",
+    "keywords": "Vegetarian,Sides,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/oct2014-butternut-squash-oat.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "packages frozen mashed winter squash (2 (12-ounce) packages, thawed)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "walnuts, chopped (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "old-fashioned rolled oats",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "margarine (trans-fat-free, diced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "low-calorie brown sugar substitute",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400 degrees F.",
+        "In a small bowl mix together the squash and cinnamon.",
+        "In another small bowl, mix together the crumble topping, using your hands.",
+        "Pour the squash into a round baking dish. Spread the crumble topping evenly over the squash.",
+        "Bake for 20 minutes."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Comfort Food",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "105",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "15mg",
+        "total_carbohydrate": "18g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/winter-squash-oat-and-walnut-crumble-topping"
+}

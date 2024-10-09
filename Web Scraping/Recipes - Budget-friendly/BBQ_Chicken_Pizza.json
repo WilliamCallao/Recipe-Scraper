@@ -1,0 +1,111 @@
+{
+    "title": "BBQ Chicken Pizza",
+    "keywords": "Holidays & Entertaining,Main Dish,Dinner,Lunch,Budget Friendly",
+    "prep_time": "PT25M",
+    "cook_time": "PT50M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Main Dish",
+        "Dinner",
+        "Lunch",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_76_BBQ_Chicken_Pizza_iStock-484653761_02262018.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "boneless, skinless chicken breast",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sugar-free apricot preserves",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "barbeque sauce",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "hot sauce",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "12-inch prepackaged whole-wheat pizza crust",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "shredded carrots",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "medium red onion (thinly sliced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "reduced-fat shredded Italian-style cheese",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "dried oregano",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 375 degrees F. Spray a baking sheet with cooking spray.",
+        "Season the chicken with salt and pepper on both sides.",
+        "Place the chicken on the prepared baking sheet and bake for 25 minutes or until the juices run clear. Remove the chicken from the oven and chop into half-inch pieces.",
+        "In a small saucepan, combine the sugar-free apricot preserves, barbeque sauce, and hot sauce. Bring to a boil.",
+        "Spoon the sauce over the pizza crust. Top the crust with cooked chicken, sliced onion, carrot, and cheese. Sprinkle the cheese with the dried oregano.",
+        "Bake the pizza for 20-25 minutes or until the cheese is melted and bubbly."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Italian",
+        "Comfort Food",
+        "Holidays & Entertaining",
+        "Main Dish",
+        "Dinner",
+        "Lunch",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "3.5g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "400mg",
+        "total_carbohydrate": "23g",
+        "fiber": "4g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/bbq-chicken-pizza"
+}

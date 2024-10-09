@@ -1,0 +1,70 @@
+{
+    "title": "Dairy-Free Chocolate Ice Cream",
+    "keywords": "Vegan,Dessert,Foodie,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegan",
+        "Dessert",
+        "Foodie",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/218-DiabeticChocolateIceCream_484895717_061118.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "ripe medium-size bananas",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "medium-size avocados (ripe)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "lite coconut milk",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "cocoa powder",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "low calorie sugar substitute",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Add all of the ingredients to a food processor or blender and blend until completely smooth, stopping occasionally to scrap the sides of the food processor.",
+        "If you have a homemade ice cream maker, blend the mixture in the ice cream maker for 10 minutes, then pack into a container and freeze. If you do not have an ice cream maker, just pack and freeze.",
+        "To serve, bring the ice cream out of the freezer about 20 minutes before serving to slightly thaw so it’s easier to scoop."
+    ],
+    "tags": [
+        "Low Sodium",
+        "High in Fiber",
+        "Comfort Food",
+        "Kid Friendly",
+        "Vegan",
+        "Dessert",
+        "Foodie",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "125",
+        "total_fat": "7g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "5mg",
+        "total_carbohydrate": "19g",
+        "fiber": "5g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/dairy-free-chocolate-ice-cream"
+}

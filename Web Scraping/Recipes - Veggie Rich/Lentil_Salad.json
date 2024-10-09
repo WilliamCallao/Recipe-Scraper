@@ -1,0 +1,99 @@
+{
+    "title": "Lentil Salad",
+    "keywords": "Salads,Quick & Easy,Sides,Vegetarian,Gluten-Free,Lunch",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian",
+        "Gluten-Free",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_338_Lentil_Salad_MG_4799-%28ZF-5661-35964-1-011%2902282018.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "lentils (sorted and rinsed)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "garlic (sliced in half)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "green onion (sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "green pepper (diced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "grape tomatoes (halved)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Juice of 1 lemon",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "parsley (dried)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Combine lentils, water and garlic in a pot over medium heat. Simmer for 15 minutes until the lentils are tender. Drain lentils and run under cold water. Discard the garlic.",
+        "While the lentils are cooking, whisk together the dressing ingredients.",
+        "In a salad bowl, add lentils, green onion, green pepper and tomatoes. Drizzle dressing over lentils and mix to combine. Refrigerate until serving."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "High in Fiber",
+        "Mediterranean",
+        "Salads",
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian",
+        "Gluten-Free",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "5mg",
+        "total_carbohydrate": "21g",
+        "fiber": "8g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/lentil-salad"
+}

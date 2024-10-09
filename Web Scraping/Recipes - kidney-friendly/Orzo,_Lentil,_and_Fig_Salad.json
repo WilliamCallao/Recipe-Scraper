@@ -1,0 +1,126 @@
+{
+    "title": "Orzo, Lentil, and Fig Salad",
+    "keywords": "Vegetarian,Salads,Main Dish,Lunch,Holidays & Entertaining,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Vegetarian",
+        "Salads",
+        "Main Dish",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Dinner"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/RecId_778_Orzo%2C%20Lentil%20and%20Fig%20Salad_StressFreeKitchen_022618.jpg",
+        "Lentil",
+        "and Fig Salad\" loading=\"lazy\" />"
+    ],
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Orzo (rice shaped pasta), or the pasta shape of your choice (uncooked)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "lentils (uncooked, preferably French or small dark green)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "oil-cured black olives (pitted and chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "mission figlets (dried, sliced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "feta cheese (crumbled, fat-free)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "pignoli nuts (pine nuts) (toasted)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "white balsamic vinegar",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "extra virgin olive oil",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "dried oregano (fresh, chopped)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "fresh basil leaves (fresh, torn)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "sea salt (Fine)",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "black pepper (Freshly ground)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Additional herbs for garnish (basil)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Cook orzo according to package directions, approximately 9 minutes.",
+        "Cook lentils in 3 cups water until tender, approximately 20 minutes.",
+        "Place balsamic vinegar in bowl. Add garlic, oregano, basil, a pinch of sea salt, and a few grindings of pepper. Slowly whisk in olive oil. Set aside.",
+        "Mix orzo, lentils, olives, figs, cheese, and nuts together. Add dressing. Taste and adjust seasonings.",
+        "Garnish with fresh herbs before serving."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Mediterranean",
+        "Vegetarian",
+        "Salads",
+        "Main Dish",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "395",
+        "total_fat": "20g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "435mg",
+        "total_carbohydrate": "44g",
+        "fiber": "8g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/orzo-lentil-and-fig-salad"
+}

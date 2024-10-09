@@ -1,0 +1,99 @@
+{
+    "title": "Spinach and Mushroom Quesadillas",
+    "keywords": "Budget Friendly,Lunch,Quick & Easy,Vegetarian,Dinner,Gluten-Free",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Budget Friendly",
+        "Lunch",
+        "Quick & Easy",
+        "Vegetarian",
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/512-diabetic-spinach-mushroom-quesadilla_AdobeStock379371649_022221.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil (divided use)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "white (button) mushrooms (diced)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "baby spinach",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "reduced-fat, shredded mozzarella cheese",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "gluten-free tortillas or whole-wheat flour tortillas",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "lime juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "honey or 2 packets artificial sweetener",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chopped romaine lettuce",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        }
+    ],
+    "instructions": [
+        "Heat 1 tbsp of the olive oil in a non-stick pan over medium-high heat. Add the mushrooms and spinach, and sauté for about 5 minutes, until the spinach wilts and most of the liquid has cooked off. Add the garlic and sauté for 30 seconds. Remove the mixture from the pan and set aside in a bowl.",
+        "Spray the pan with cooking spray. Place 1 tortilla in the pan and spread 1/4 of the spinach-mushroom mixture on one half of the tortilla. Mix the two types of cheese together and spread 1/4 cup cheese over the spinach-mushroom mixture. Fold the tortilla in half. Cook for 1-2 minutes. Flip the tortilla and cook for 1-2 more minutes, until golden brown. Cut your quesadilla into triangles.",
+        "Repeat procedure for remaining 3 quesadillas.",
+        "Prepare the salad: Whisk together the remaining 3 tbsp olive oil, lime juice, and honey (or combine in a shaker). Toss the dressing in a large bowl with the romaine lettuce. Serve each quesadilla along with 2 cups salad."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Budget Friendly",
+        "Lunch",
+        "Quick & Easy",
+        "Vegetarian",
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "390",
+        "total_fat": "22g",
+        "saturated_fat": "4.7g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "480mg",
+        "total_carbohydrate": "44g",
+        "fiber": "6g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spinach-and-mushroom-quesadillas"
+}

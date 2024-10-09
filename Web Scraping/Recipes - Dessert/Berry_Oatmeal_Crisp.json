@@ -1,0 +1,86 @@
+{
+    "title": "Berry Oatmeal Crisp",
+    "keywords": "Dessert",
+    "prep_time": "PT15M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2064_DiabetesFoodHub_Berry%20Oatmeal%20Crisp.jpg",
+    "servings": "9 Servings",
+    "ingredients": [
+        {
+            "name": "rolled oats",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cold unsalted butter (cut into small pieces)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "almond butter",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "all-purpose flour (divided use)",
+            "us_amount": "1/2 cup plus 1 tbsp",
+            "metric_amount": "1/2 cup plus 1 tbsp"
+        },
+        {
+            "name": "Splenda® Granulated Sweetener (divided use)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "salt (divided use)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "strawberries (sliced)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "blueberries",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "raspberries",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350°F and lightly coat an 8×8-inch baking pan with nonstick cooking spray.",
+        "In a food processor, pulse rolled oats, butter, almond butter, 1/2 cup flour, 2 tablespoons Splenda Sweetener and 1/2 teaspoon kosher salt until mixture is crumbly. Set aside.",
+        "In a large bowl, whisk together remaining tablespoon of flour, 1 tablespoon sweetener, 1/2 teaspoon kosher salt. Add strawberries, blueberries, raspberries, and vanilla extract. Toss to combine.",
+        "Transfer fruit to prepared baking dish and top with reserved topping mixture. Bake for 40 to 45 minutes, or until bubbling and golden brown. Let cool at least 20 minutes before serving. Optional: top with non-fat whipped topping to serve (check product nutrition facts to determine nutrition information)."
+    ],
+    "tags": [
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "5g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0.1g",
+        "cholesterol": "5mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "20g",
+        "fiber": "4g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/berry-oatmeal-crisp"
+}

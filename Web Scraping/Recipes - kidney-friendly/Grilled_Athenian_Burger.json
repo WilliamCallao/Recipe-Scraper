@@ -1,0 +1,84 @@
+{
+    "title": "Grilled Athenian Burger",
+    "keywords": "Dinner,Holidays & Entertaining,Main Dish,Sandwiches",
+    "prep_time": "PT10M",
+    "cook_time": "PT13M",
+    "categories": [
+        "Dinner",
+        "Holidays & Entertaining",
+        "Main Dish",
+        "Sandwiches"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_724_GrilledAthenianBurger_SizzleSmoke_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "ground beef (95% lean)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "Greek yogurt (fat-free)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "fresh leaf oregano",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "fresh leaf parsley (chopped)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lemon zest (lemon peel, grated)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "In a large mixing bowl combine all ingredients and mix until just combined.",
+        "Divide mixture into 4 equal parts and form 4 burgers. Place on a plate and refrigerate until ready for grilling.",
+        "Spray grill or stove-top grill pan with high- heat olive or canola oil spray. Heat grill to high temperature (450–500°F).",
+        "Grill burgers for approximately 6–8 minutes. Turn and repeat process for an additional 4–5 minutes. Check for doneness with a thermometer. Internal temperature should be about 160°F as they will continue to cook for a few minutes.",
+        "Top with fresh romaine leaves, sliced tomatoes, and red onion on a whole-grain bun or wrapped in a pita."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Comfort Food",
+        "Grilling",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Main Dish",
+        "Sandwiches"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "6g",
+        "saturated_fat": "2.7g",
+        "trans_fat": "0.1g",
+        "cholesterol": "70mg",
+        "sodium": "70mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-athenian-burger"
+}

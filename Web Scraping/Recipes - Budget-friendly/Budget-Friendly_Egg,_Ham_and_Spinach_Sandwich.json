@@ -1,0 +1,92 @@
+{
+    "title": "Budget-Friendly Egg, Ham and Spinach Sandwich",
+    "keywords": "Sandwiches,Dinner,Lunch,Breakfast and Brunch,Budget Friendly",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sandwiches",
+        "Dinner",
+        "Lunch",
+        "Breakfast and Brunch",
+        "Budget Friendly"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/Recid_121_Budget-Friendly%20Egg_Ham_and_Spinach_Sandwich_PNCImages_02272018.jpg",
+        "Ham and Spinach Sandwich\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "deli-style smoked ham ((2 ounces total))",
+            "us_amount": "4 slice",
+            "metric_amount": "4 slice"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "baby spinach",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "fresh ground black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Parmesan cheese (freshly grated)",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        },
+        {
+            "name": "whole wheat sandwich thins (1-1/2 oz each, toasted)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "Spray a nonstick oven-proof skillet with cooking spray and heat over medium heat. Add ham slices and cook for 1 minute per side. Remove from pan and set aside.",
+        "Add olive oil to pan and add spinach to pan, sprinkle with garlic powder and pepper. Sauté until spinach is wilted; remove from pan and set aside.",
+        "Crack the eggs into pan; break yolk with spatula to make it run. Cook until egg starts to firm about 30-60 seconds and flip egg. Sprinkle each egg with 1 Tsp. Parmesan cheese. Cook until done and top each egg with 1 ham slice and spoonful of cooked spinach. Place each egg (topped with ham and spinach) on whole-wheat sandwich thin and top with other slice of sandwich thin."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Sandwiches",
+        "Dinner",
+        "Lunch",
+        "Breakfast and Brunch",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "234",
+        "total_fat": "10g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "195mg",
+        "sodium": "430mg",
+        "total_carbohydrate": "24g",
+        "fiber": "6g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-egg-ham-and-spinach-sandwich"
+}

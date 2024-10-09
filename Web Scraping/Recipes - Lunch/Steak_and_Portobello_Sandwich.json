@@ -1,0 +1,84 @@
+{
+    "title": "Steak and Portobello Sandwich",
+    "keywords": "Sandwiches,Main Dish,Lunch,Dinner",
+    "prep_time": "PT5M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Sandwiches",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1679-diabetic-steak-portobello-sandwich_12-week-diabetes-cookbook_DF_101918_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "garlic (crushed)",
+            "us_amount": "6 diente",
+            "metric_amount": "6 diente"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "strip, flank, or skirt steak",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        },
+        {
+            "name": "olive oil spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Portobello mushrooms",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "whole-wheat hoagie rolls",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Mix the garlic and balsamic vinegar in a small bowl. Set aside.",
+        "Remove visible fat from the steak. Heat a skillet to medium-high heat. Place the steak in the skillet and sear for 2 minutes. Turn the steak over and cook for 2 more minutes, or until they reach desired doneness. Remove from the skillet and set aside.",
+        "Coat the skillet with the olive oil spray. Add the mushrooms and cook for 5 minutes, turning over once. Remove the mushrooms to a cutting board.",
+        "Add the garlic-vinegar mixture to the skillet and boil for 3 to 4 minutes, until reduced by half. Divide the sauce among 4 small bowls and set aside.",
+        "Slice open the rolls, then mist each side with the olive oil spray. Toast the rolls in a toaster oven for 1 minute.",
+        "Slice the steak and mushrooms into thin strips. Arrange about 5 oz of steak and 3/4 cup of mushrooms on the bottom half of each roll. Top with salt and pepper. Cover each sandwich with the top half of the roll, cut in half, and serve with the dipping sauce."
+    ],
+    "tags": [
+        "Sandwiches",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "490",
+        "total_fat": "14g",
+        "saturated_fat": "4.9g",
+        "trans_fat": "0g",
+        "cholesterol": "110mg",
+        "sodium": "690mg",
+        "total_carbohydrate": "43g",
+        "fiber": "5g",
+        "sugar": "15g",
+        "added_sugar": "0g",
+        "protein": "46g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/steak-and-portobello-sandwich"
+}

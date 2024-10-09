@@ -1,0 +1,109 @@
+{
+    "title": "Broccoli Cheese Soup",
+    "keywords": "Sides,Lunch",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_749322709.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "canola or corn oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "small onion (finely chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "medium garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "broccoli florets (chopped (about 4 cups))",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "chicken or vegetable broth (fat-free, low-sodium)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "mustard powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "red hot-pepper sauce (optional)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt (or 1/16 tsp)",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "milk (fat-free)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "all-purpose flour",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "fat free half-and-half",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cheddar cheese (low-fat, sliced or shredded)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "Parmesan (shredded or grated)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "In a large saucepan, heat the oil over medium heat, swirling to coat the bottom. Cook the onion and garlic for 3-4 minutes, or until the onion is almost soft, stirring frequently.",
+        "Stir in the broccoli, broth, mustard, pepper, hot-pepper sauce, and salt. Increase the heat to medium high and bring to a simmer. Reduce the heat and simmer for 5 minutes, or until the broccoli is tender, stirring occasionally.",
+        "In a medium bowl, whisk together the milk and flour. Stir into the soup. Simmer for 2-3 minutes, or until the mixture has thickened, stirring occasionally.",
+        "Stir in the half-and-half, cheddar, and Parmesan. Cook over medium-low heat for 1-2 minutes, or until the cheeses have melted, stirring occasionally."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Sides",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "2.5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "16g",
+        "fiber": "2g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/broccoli-cheese-soup"
+}

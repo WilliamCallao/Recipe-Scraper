@@ -1,0 +1,80 @@
+{
+    "title": "Chicken and Black Bean Burritos",
+    "keywords": "Lunch,Quick & Easy,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Quick & Easy",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/154-diabetic-chicken-black-bean-burrito_AdobeStock123460054_021921.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "avocado (mashed)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "large low-carb whole wheat tortillas",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "pico de gallo or salsa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "shredded cooked chicken breast",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "black beans (rinsed and drained )",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "reduced-fat shredded cheddar cheese",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        },
+        {
+            "name": "shredded lettuce",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "diced tomatoes",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Spread 3 Tbsp. mashed avocado on 1 tortilla. Top with 2 Tbsp. pico de gallo, 1/2 cup chicken, 1/4 cup black beans, 1 1/2 Tbsp. cheese, 1/4 cup lettuce and 1/4 cup diced tomatoes.",
+        "Fold into burrito. Repeat procedure for remaining 3 burritos."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Lunch",
+        "Quick & Easy",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "370",
+        "total_fat": "14g",
+        "saturated_fat": "3g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "500mg",
+        "total_carbohydrate": "36g",
+        "fiber": "19g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "37g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-and-black-bean-burritos"
+}

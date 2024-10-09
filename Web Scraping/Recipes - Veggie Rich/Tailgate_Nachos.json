@@ -1,0 +1,115 @@
+{
+    "title": "Tailgate Nachos",
+    "keywords": "Holidays & Entertaining,Budget Friendly,Snacks",
+    "prep_time": "PT30M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Budget Friendly",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_549_Tailgate_Nachos_PNCImages_03012018.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "black beans (rinsed and drained)",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "garlic (peeled and smashed)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "medium yellow onion (peeled and chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "baked tortilla chips",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "fat-free, low-sodium chicken broth or water",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cooked cooked chicken breast",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "salsa (heat level to taste)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "reduced fat shredded Mexican cheese blend",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "shredded lettuce",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "diced tomatoes",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 375 degrees F. Coat a 9x13-inch baking dish with cooking spray. Layer the chips in the bottom of the pan; set aside.",
+        "Add the oil to a saute pan over medium heat. Add the onions and garlic and sauté for about 5 minutes, until the onions start to turn clear.",
+        "Add the onion mixture, black beans, pepper, and chicken broth to a blender and puree until smooth. Pour the bean mixture evenly over the chips.",
+        "In a small bowl, mix the salsa and chicken together. then spoon the chicken mixture evenly over the top of the bean mixture.",
+        "Top with the cheese and bake for 20 minutes. Remove the pan from oven and top the nachos with shredded lettuce and diced tomato.",
+        "Divide the nachos among 6 serving plates and top each serving with 4 Tsp. Greek yogurt."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Holidays & Entertaining",
+        "Budget Friendly",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "300",
+        "total_fat": "8g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "400mg",
+        "total_carbohydrate": "32g",
+        "fiber": "6g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tailgate-nachos"
+}

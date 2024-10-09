@@ -1,0 +1,107 @@
+{
+    "title": "Plum Muffins",
+    "keywords": "Dessert,Foodie,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dessert",
+        "Foodie",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Plum%20Muffin%20diabetic%20diabetes%20food%20hub.png",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "whole wheat flour",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "baking sugar substitute",
+            "us_amount": "5 tbsp",
+            "metric_amount": "74 ml"
+        },
+        {
+            "name": "baking powder",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "baking soda",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "unsweetened applesauce",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "skim milk",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "eggs (beaten)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "vegetable oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "plums (small diced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 375 degrees F. Grease a muffin tin or line with paper liners.",
+        "In a large bowl, combine flour, sugar substitute, baking powder, baking soda, cinnamon, and salt.",
+        "In another bowl, mix applesauce, milk, eggs, oil, and vanilla.",
+        "Add wet ingredients to dry ingredients and stir until just combined. Fold in chopped plums. Spoon batter into muffin cups, filling two-thirds full.",
+        "Bake for 15–20 minutes or until a toothpick comes out clean. Allow to cool for 5 minutes in the pan, then transfer to a wire rack to cool completely."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Kid Friendly",
+        "Dessert",
+        "Foodie",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "6g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "23g",
+        "fiber": "3g",
+        "sugar": "8g",
+        "added_sugar": "5g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/plum-muffins"
+}

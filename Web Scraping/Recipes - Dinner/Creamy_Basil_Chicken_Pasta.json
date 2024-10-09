@@ -1,0 +1,118 @@
+{
+    "title": "Creamy Basil Chicken Pasta",
+    "keywords": "Main Dish,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/creamy%20basil%20chicken%20pasta%20diabetic.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "baby spinach",
+            "us_amount": "5 oz",
+            "metric_amount": "142 ml"
+        },
+        {
+            "name": "fresh basil leaves",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "flat leaf parsley (packed)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "half-and-half",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "olive oil (divided)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "onion powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "flour",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "fat-free milk",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "reduced-fat Italian cheese",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "no-salt-added Italian seasoning",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "boneless, skinless chicken breasts (halved lengthwise into thin filets)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "whole wheat penne pasta (cooked)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Parmesan cheese (grated)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "fresh basil (julienned)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Bring a large pot of water to a boil.  Add baby spinach to the pot and blanch for 1 minute. Use a slotted spoon to remove the spinach to a bowl of ice water. Add parsley and packed basil to the pot and blanch for 15 seconds. Remove and add to the bowl of ice water. Drain water and squeeze out as much liquid from the greens as possible.",
+        "Add spinach, parsley, and basil to a food processor. Add half and half to the food processor, then purée. Set aside.",
+        "Heat a saucepan over medium heat. Add 2 tablespoons of olive oil, garlic, and onion powder. Add flour and whisk for 1 minute. Add milk and whisk until smooth.",
+        "Add cheese, Italian seasoning, salt (optional), and pepper. Stir until sauce is thickened.  Add puréed greens and stir to combine.",
+        "Add puréed greens and stir to combine.",
+        "Meanwhile, heat a large skillet over medium heat. Add remaining olive oil. Cook chicken for 3–4 minutes per side, until golden brown and cooked through.",
+        "To serve, divide chicken and pasta between plates. Top with sauce, Parmesan, and fresh julienned basil."
+    ],
+    "tags": [
+        "Italian",
+        "Comfort Food",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "430",
+        "total_fat": "19g",
+        "saturated_fat": "5.2g",
+        "trans_fat": "0g",
+        "cholesterol": "85mg",
+        "sodium": "300mg",
+        "total_carbohydrate": "37g",
+        "fiber": "4g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "41g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/creamy-basil-chicken-pasta"
+}

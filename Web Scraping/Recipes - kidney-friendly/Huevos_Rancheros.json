@@ -1,0 +1,84 @@
+{
+    "title": "Huevos Rancheros",
+    "keywords": "Vegetarian,Breakfast and Brunch,Lunch",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Breakfast and Brunch",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/jan2015-huevos-rancheros.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "corn tortillas",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "tomato(es) (14.5-ounce, no-salt-added, diced, drained)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cayenne pepper (optional)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "large eggs",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "part-skim mozzarella (shredded)",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "cilantro (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 425°F.",
+        "Place tortillas on baking sheet and bake 3 minutes on each side.",
+        "Meanwhile, place the tomatoes, cumin, cayenne, and salt in a medium nonstick skillet and bring to a boil over medium-high heat. Reduce heat to medium low and cook, covered, 3 minutes or until slightly thickened. Break one egg into a measuring cup. Carefully slide egg onto the tomato mixture. Repeat with the remaining eggs. Simmer gently over medium heat, covered, 2 1/2 to 3 minutes or until whites are completely set and yolks just begin to thicken slightly.",
+        "Place a tortilla on each of four dinner plates. Top with the tomato mixture and eggs. Sprinkle with cheese and cilantro."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Mexican/Southwestern",
+        "Vegetarian",
+        "Breakfast and Brunch",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "7g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "190mg",
+        "sodium": "330mg",
+        "total_carbohydrate": "15g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/huevos-rancheros"
+}

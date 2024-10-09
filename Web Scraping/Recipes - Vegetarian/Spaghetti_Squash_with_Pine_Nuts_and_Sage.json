@@ -1,0 +1,102 @@
+{
+    "title": "Spaghetti Squash with Pine Nuts and Sage",
+    "keywords": "Dinner,Lunch,Gluten-Free,Vegetarian,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Gluten-Free",
+        "Vegetarian",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/oct2014-spaghetti-squash-w.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "medium spaghetti squash (halved and seeded)",
+            "us_amount": "1 (about 2 lbs)",
+            "metric_amount": "1 (about 2 lbs)"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "onion(s) (minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "large shallot (minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "pine nuts",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Pecorino Romano cheese (freshly grated)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "minced fresh sage",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "crushed red pepper flakes (crushed)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sea salt",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400°F. Place the squash halves cut-side down on a parchment paper–lined baking sheet and roast for about 50 minutes, or until tender.",
+        "Meanwhile, heat the olive oil in a skillet over medium heat. Add the onion, shallot, and garlic and sauté for 4 minutes. Add in the pine nuts and cook for 2 minutes until the pine nuts are lightly browned. Set aside.",
+        "When the squash is cooked, turn over squash to cut side up. With a pasta rake or large spoon, scoop the flesh from the squash shell. The flesh will come out like strands of spaghetti. Add the squash to a large serving bowl and rake through the strands to keep them separated. Add in the pine nut mixture, cheese, sage, crushed red pepper flakes, salt, and pepper. Toss well and serve."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Comfort Food",
+        "Italian",
+        "Dinner",
+        "Lunch",
+        "Gluten-Free",
+        "Vegetarian",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "95",
+        "total_fat": "6g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "35mg",
+        "total_carbohydrate": "9g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spaghetti-squash-pine-nuts-and-sage"
+}

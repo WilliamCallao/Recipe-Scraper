@@ -1,0 +1,98 @@
+{
+    "title": "Black Bean, Mango and Chicken Quesadillas with Salad",
+    "keywords": "Budget Friendly,Dinner,Lunch,Main Dish,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/sep2014-chicken-mango-blk.jpg",
+        "Mango and Chicken Quesadillas with Salad\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "canned black beans (rinsed and drained)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cooked chicken (diced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "red onion (diced)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cumin",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "mango (diced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "corn tortillas",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "reduced-fat shredded cheddar cheese",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "chopped romaine lettuce",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "Light Fiesta-Salsa Ranch Salad Dressing",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Spray a pan with cooking spray and heat it over medium-high. Add the black beans, chicken, red onions, and cumin; sauté for about 5 minutes. Add the mango and sauté for 1 minute. Remove the mixture from the pan and set aside in a bowl.",
+        "Spray the pan with cooking spray. Place 1 tortilla in the pan and spread 2 Tbsps. cheese on top of the tortilla. Add 1/2 cup chicken/black bean mixture, and place another tortilla on top. Cook for 1-2 minutes, flip, and cook for 1-2 more minutes; until the cheese is melted.",
+        "Repeat this procedure for the remaining 3 quesadillas. Cut the quesadillas into triangles.",
+        "Serve one quesadilla over 2 cups lettuce salad and top with 1 Tbsp. salad dressing. Repeat this procedure for the remaining 3 salads."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "340",
+        "total_fat": "10g",
+        "saturated_fat": "3.3g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "335mg",
+        "total_carbohydrate": "43g",
+        "fiber": "9g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/black-bean-mango-and-chicken-quesadillas-salad"
+}

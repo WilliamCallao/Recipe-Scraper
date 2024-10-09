@@ -1,0 +1,82 @@
+{
+    "title": "Whole Roasted Cauliflower with Lemon Vinaigrette",
+    "keywords": "Budget Friendly,Dinner,Holidays & Entertaining,Main Dish,Sides,Vegan,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Main Dish",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2020-diabetic-whole-roasted-cauliflower_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil (divided use)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "cauliflower (leaves and stem trimmed)",
+            "us_amount": "1 whole head (about 2 1/2 lbs)",
+            "metric_amount": "1 whole head (about 2 1/2 lbs)"
+        },
+        {
+            "name": "lemon (juiced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "dried parsley",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 425°F.",
+        "In a small bowl mix together 2 tbsp of the olive oil and salt. Place cauliflower, cut side down, in a large baking dish. Pour olive oil evenly over cauliflower and use your hands to rub the oil and salt mixture into the cauliflower.",
+        "Place on the middle oven rack, and roast 1 hour (if cauliflower starts getting too dark, then cover with aluminum foil).",
+        "While cauliflower is roasting, whisk together the lemon juice, remaining 2 tbsp olive oil, parsley, and black pepper in a small bowl.",
+        "When cauliflower is finished roasting, pour vinaigrette evenly over entire head.",
+        "To serve, cut whole cauliflower in half, then cut each half into 4 pieces."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Veggie Rich",
+        "Budget Friendly",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Main Dish",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "170mg",
+        "total_carbohydrate": "4g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/whole-roasted-cauliflower-lemon-vinaigrette"
+}

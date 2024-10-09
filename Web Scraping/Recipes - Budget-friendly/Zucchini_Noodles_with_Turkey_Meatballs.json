@@ -1,0 +1,92 @@
+{
+    "title": "Zucchini Noodles with Turkey Meatballs",
+    "keywords": "Dinner,Budget Friendly",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/600-diabetic-meatballs-zoodles_AdobeStock178886216_012121.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lean ground turkey",
+            "us_amount": "1 1/4 lbs",
+            "metric_amount": "567 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "dried oregano",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "fresh Italian parsley (finely chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "dried minced onion",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "eggs (slightly beaten )",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "almond flour",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "lower-sodium marinara sauce",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "medium zucchini",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 375 degrees F. Coat a baking sheet with cooking spray.",
+        "Mix the turkey, garlic, oregano, parsley, dried onion, parmesan cheese, egg, and oatmeal in a bowl and mix well.",
+        "Scoop the meat mixture into 12 meatballs and lay them on the baking sheet.",
+        "Bake the meatballs for 25-30 minutes or until cooked through and they reach an internal temperature of 165 degrees F.",
+        "While the meatballs are cooking, use a julienne peeler, a spiralizer, or mandolin set on the julienne setting and cut the zucchini into “noodles”. Place the noodles in a large microwave dish with a lid and microwave for 2 minutes.",
+        "Heat the marinara sauce in a large sauce pan. Add the cooked meatballs to the hot sauce and pour over zucchini noodles."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Italian",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "400",
+        "total_fat": "20g",
+        "saturated_fat": "4.4g",
+        "trans_fat": "0.2g",
+        "cholesterol": "155mg",
+        "sodium": "420mg",
+        "total_carbohydrate": "19g",
+        "fiber": "4g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "35g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/zucchini-noodles-turkey-meatballs"
+}

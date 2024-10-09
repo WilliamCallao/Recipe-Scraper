@@ -1,0 +1,70 @@
+{
+    "title": "Ricotta and Blackberry Jam Crostini",
+    "keywords": "Vegetarian,Quick & Easy,Lunch,Breakfast and Brunch,Appetizers",
+    "prep_time": "PT8M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Vegetarian",
+        "Quick & Easy",
+        "Lunch",
+        "Breakfast and Brunch",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1832-diabetic-ricotta-and-blackberry-jam-crostini_clean-simple-ckbk_DFNovDec19_101019.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "whole grain hoagie or submarine roll",
+            "us_amount": "1 (4-oz)",
+            "metric_amount": "1 (4-oz)"
+        },
+        {
+            "name": "part-skim ricotta cheese",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "fruit-sweetened blackberry jam",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "fresh or thawed frozen blackberries",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "sea salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Using a bread knife, trim off the rounded ends of the roll. Cut the roll into 12 slices, about 1/2 inch thick each. Toast the bread slices in a toaster until golden brown.",
+        "Top each slice with 1 Tbsp of the ricotta cheese, then 1 tsp of the jam. Evenly top with the blackberries, then sprinkle with the salt. Arrange on a platter and serve."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Vegetarian",
+        "Quick & Easy",
+        "Lunch",
+        "Breakfast and Brunch",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "3.5g",
+        "saturated_fat": "1.7g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "18g",
+        "fiber": "2g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ricotta-and-blackberry-jam-crostini"
+}

@@ -1,0 +1,79 @@
+{
+    "title": "Nuts for Pine Nuts Pizza",
+    "keywords": "Main Dish,Budget Friendly,Dinner,Lunch,Quick & Easy",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Nuts%20for%20Pine%20Nuts%20Pizza%20for%20Diabetes.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "cauliflower pizza crust",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "hummus",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "pine nuts (Toasted)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Mushrooms (of your choice) (Sliced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "red pepper (Sliced Lengthwise)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "spinach",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 425 degrees F.",
+        "Remove your cauliflower pizza crust from the box and the plastic wrapping and place on a clean surface.",
+        "Spread hummus evenly on the crust.",
+        "Top with pine nuts, mushrooms, red pepper, and spinach.",
+        "Place pizza in the oven and bake for 13–16 minutes.",
+        "Remove from oven, allow to cool, and serve."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Italian",
+        "Comfort Food",
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "14g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "310mg",
+        "total_carbohydrate": "31g",
+        "fiber": "5g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/nuts-pine-nuts-pizza"
+}

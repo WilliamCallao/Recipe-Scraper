@@ -1,0 +1,127 @@
+{
+    "title": "Crab Cake Burger",
+    "keywords": "Dinner,Lunch,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_197_Crab_Cake_Burger_ThinkstockPhotos-463699143_04112018%20.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "onion(s) (minced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "lump crabmeat (6-ounce, drained)",
+            "us_amount": "2 can",
+            "metric_amount": "2 can"
+        },
+        {
+            "name": "bread crumbs",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "egg white",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "hot sauce",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "light mayonnaise",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt (non-fat)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "adobo sauce from chipotle pepper can",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "frozen corn kernels (thawed)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "large lettuce leaves",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "lettuce (shredded)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "ripe tomato (cut into 6 slices)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ripe avocado (seeded, peeled and sliced into 12 slices)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Coat a small non-stick skillet with cooking spray over medium-high heat. Add onion and sauté 2-3 minutes or until onions are clear. Set aside to cool.",
+        "In a medium bowl combine crabmeat, breadcrumbs, egg, egg white, hot sauce, salt and pepper. Mix well until all ingredients are incorporated. Stir in cooled onion.",
+        "Add oil and a generous amount of cooking spray to a large non-stick skillet over medium-high heat. Form crab mixture into 1/2-inch thick patties using a heaping 1/4 cup. Fry about 4-5 minutes on each side or until golden brown.",
+        "In a small bowl, whisk together mayonnaise, yogurt, adobo sauce and corn.",
+        "Place each crab cake on a lettuce leaf. Place 1/4 cup lettuce, 1 tomato slice and 2 avocado slices on top of each crab cake and top with 2 Tbsp. of sauce."
+    ],
+    "tags": [
+        "Seafood",
+        "Dinner",
+        "Lunch",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "195",
+        "total_fat": "10g",
+        "saturated_fat": "1.7g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "370mg",
+        "total_carbohydrate": "17g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crab-cake-burger"
+}

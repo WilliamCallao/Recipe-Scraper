@@ -1,0 +1,104 @@
+{
+    "title": "Grilled Pork and Cheese Quesadillas",
+    "keywords": "Appetizers,Holidays & Entertaining,Lunch,Main Dish,Sandwiches,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Sandwiches",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_732_Grilled%20Pork%20and%20Cheese%20Quesadilla_DiabetesComfortFood_022518.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "onion(s) (minced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "pork loin (ground)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "corn or whole-wheat tortillas",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "Mexican cheese blend (reduced-fat)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "green onion (scallion) (thinly sliced)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "canned green chiles (3-ounce can chopped mild or hot)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "nonfat Greek yogurt",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "salsa (prepared mild or hot)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "tomato(es) (diced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Prepare an outdoor grill for medium heat. Heat the oil in a large skillet over medium heat. Add the onion and sauté for 3 minutes. Add the garlic and sauté for 1 minute. Add the pork and sauté for 5–6 minutes. Drain any excess fat.",
+        "On two baking sheets, lay out 4 tortillas. Spray tops lightly with oil. Flip over. Spread 1/2 cup of pork evenly over the tortilla. Sprinkle with cheese, scallions, and chilies. Top all the tortillas with the remaining tortillas to form a quesadilla and press together lightly. Spray lightly with oil.",
+        "When the grill is hot, place quesadillas on the grill. Grill for 5–7 minutes on each side. During some of this time, you may cover the grill to help melt the cheese and brown the quesadillas. When the first side is golden, flip over and grill the other side. Cut into wedges and serve with yogurt, salsa, and tomatoes."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Grilling",
+        "Kid Friendly",
+        "Mexican/Southwestern",
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Sandwiches",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "185",
+        "total_fat": "6g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "265mg",
+        "total_carbohydrate": "16g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-pork-and-cheese-quesadillas"
+}

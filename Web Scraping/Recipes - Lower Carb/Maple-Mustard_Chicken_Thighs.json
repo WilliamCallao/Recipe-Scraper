@@ -1,0 +1,78 @@
+{
+    "title": "Maple-Mustard Chicken Thighs",
+    "keywords": "Budget Friendly,Dinner,Main Dish",
+    "prep_time": "PT5M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/diabetic-Maple-Mustard-Chicken-Thighs_MFTK-comfort-favorites_040219.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "coarse Dijon mustard",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "maple syrup",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "boneless, skinless chicken thighs",
+            "us_amount": "8 (about 1 1/2 lbs total)",
+            "metric_amount": "8 (about 1 1/2 lbs total)"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 375° F. Coat a 9-by-13-inch baking dish with cooking spray.",
+        "In a small bowl, combine the mustard, syrup, and garlic. Mix well; set aside.",
+        "Evenly sprinkle both sides of the chicken with the salt substitute and pepper.",
+        "Dip the chicken lightly into the mustard mixture and place in the baking dish. Spoon the remaining mustard mixture on top of each chicken thigh.",
+        "Bake for 35 to 40 minutes, or until the juices run clear and no pink remains in the center of the chicken. Serve hot."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Comfort Food",
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "7g",
+        "saturated_fat": "1.8g",
+        "trans_fat": "0g",
+        "cholesterol": "160mg",
+        "sodium": "330mg",
+        "total_carbohydrate": "7g",
+        "fiber": "0g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "33g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/maple-mustard-chicken-thighs"
+}

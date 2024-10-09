@@ -1,0 +1,91 @@
+{
+    "title": "Chicken, Pasta, And Spinach Soup",
+    "keywords": "Dinner,Main Dish,Sides,Soup",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Main Dish",
+        "Sides",
+        "Soup"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/RecId_650_CarbControl_Soup_022518.jpg",
+        "Pasta",
+        "And Spinach Soup\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "low sodium chicken broth",
+            "us_amount": "1 (14-oz) can",
+            "metric_amount": "1 (14-oz) can"
+        },
+        {
+            "name": "canned diced tomatoes",
+            "us_amount": "1 (14.5-oz) can",
+            "metric_amount": "1 (14.5-oz) can"
+        },
+        {
+            "name": "whole grain or multigrain pasta (such as rotini)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "diced cooked chicken breast",
+            "us_amount": "2 cups",
+            "metric_amount": "2 cups"
+        },
+        {
+            "name": "packed baby spinach",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "chopped fresh basil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "extra virgin olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "grated parmesan cheese",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "In a medium saucepan, combine the broth and tomatoes and their liquid and bring to a boil over high heat. Stir in the pasta, return to a boil, reduce heat, cover, and simmer 6 minutes or until pasta is just tender.",
+        "Remove from heat and stir in the remaining ingredients, except the cheese. Let stand, covered, 5 minutes to absorb flavors and heat through. Serve topped with cheese."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mediterranean",
+        "Dinner",
+        "Main Dish",
+        "Sides",
+        "Soup"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "10g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "430mg",
+        "total_carbohydrate": "15g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-pasta-and-spinach-soup"
+}

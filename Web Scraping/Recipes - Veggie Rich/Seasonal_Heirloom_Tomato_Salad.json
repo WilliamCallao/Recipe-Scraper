@@ -1,0 +1,80 @@
+{
+    "title": "Seasonal Heirloom Tomato Salad",
+    "keywords": "Salads,Vegetarian,Sides,No Cook,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Vegetarian",
+        "Sides",
+        "No Cook",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/seasonal-heirloom-tomato-salad-MJ17.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "fresh basil (thinly sliced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "red onion (thinly sliced)",
+            "us_amount": "1/2 whole",
+            "metric_amount": "1/2 whole"
+        },
+        {
+            "name": "tomato(es) (thinly sliced (about 10-12 slices each))",
+            "us_amount": "4 med",
+            "metric_amount": "4 med"
+        }
+    ],
+    "instructions": [
+        "Arrange the tomatoes on a platter in an overlapping style. Scatter the onion on top of the tomatoes.",
+        "In a small bowl or liquid measuring cup, whisk the vinegar and oil. Drizzle the vinaigrette over the tomatoes. Sprinkle with the salt, pepper, and basil, and serve."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Italian",
+        "Salads",
+        "Vegetarian",
+        "Sides",
+        "No Cook",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "165mg",
+        "total_carbohydrate": "10g",
+        "fiber": "2g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/seasonal-heirloom-tomato-salad"
+}

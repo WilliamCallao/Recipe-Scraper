@@ -1,0 +1,84 @@
+{
+    "title": "Herb-Roasted Turkey",
+    "keywords": "Holidays & Entertaining,Dinner,Main Dish",
+    "prep_time": "PT25M",
+    "cook_time": "PT1H20M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/311-diabetic-thanksgiving-herb-roasted-turkey_shutterstock1283064418_102419.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "unsalted butter (softened)",
+            "us_amount": "5 tsp",
+            "metric_amount": "25 g"
+        },
+        {
+            "name": "fresh minced sage (divided)",
+            "us_amount": "3 tsp",
+            "metric_amount": "15 g"
+        },
+        {
+            "name": "fresh minced thyme (divided)",
+            "us_amount": "3 tsp",
+            "metric_amount": "15 g"
+        },
+        {
+            "name": "fresh rosemary (minced, divided)",
+            "us_amount": "3 tsp",
+            "metric_amount": "15 g"
+        },
+        {
+            "name": "salt and pepper to taste",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "low sodium chicken broth (low-fat, reduced-sodium)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "white wine (dry)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "turkey breast (skin on, washed and patted dry)",
+            "us_amount": "5 lbs",
+            "metric_amount": "2 l 268 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350 degrees F. Line a large roasting pan with foil. Set a rack inside the roasting pan and coat it with cooking spray. Set aside.",
+        "In a small bowl, combine the butter with 2 Tsps.. each of the sage, thyme, and rosemary, plus salt and pepper. Reserve the remaining 1 Tsp. of each of the herbs.",
+        "In a small saucepan, combine the chicken broth and wine, and bring to a gentle boil. Add the reserved herbs and lower to a simmer.",
+        "With your hands, separate the turkey breast skin from the breast meat, creating a pocket without removing the skin. Rube the butter herb mixture all over the breast meat. Place the skin back down on the breast.",
+        "Set the turkey on the prepared rack in the pan. (You can also add veggies like peeled carrots, peeled parsnips, onions, or small potatoes to the pan; they will cook along with the turkey.) Roast the turkey for about 1 hour, 20 minutes to 1 hour, 40 minutes until the internal temperature reaches 170 degrees F and the juices run clear. Baste every 15-20 minutes with the mixture of chicken broth and white wine.",
+        "Remove the turkey from the oven, cover loosely with foil, and let stand for 15 minutes before slicing. Discard the skin and serve."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Holidays & Entertaining",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "165",
+        "total_fat": "2.5g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "75mg",
+        "total_carbohydrate": "0g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "33g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/herb-roasted-turkey"
+}

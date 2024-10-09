@@ -1,0 +1,131 @@
+{
+    "title": "Pumpkin Shrimp Vegetable Curry Soup",
+    "keywords": "Dinner,Sides,Soup",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Sides",
+        "Soup"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/pumpkin-shrimp-vegetable-curry-soup.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "fresh ginger (minced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "green onion (scallion) (sliced thin)",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        },
+        {
+            "name": "carrots (peeled and thinly sliced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "red bell pepper (diced)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "head cauliflower (chopped into bite-sized pieces)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "curry powder",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "turmeric",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "lite coconut milk",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "pumpkin puree (canned)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "low sodium chicken broth",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "peanut butter",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "soy sauce (lowest sodium available)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper (ground)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "shrimp (fresh (not frozen), preservative-free, peeled and deveined)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "fresh cilantro (small, minced)",
+            "us_amount": "1/2 bunch",
+            "metric_amount": "1/2 bunch"
+        }
+    ],
+    "instructions": [
+        "Add curry powder, turmeric, coconut milk, pumpkin puree, broth, peanut butter, soy sauce, salt, and pepper. Stir to combine. Add shrimp and simmer on low for 5–6 minutes, until shrimp are cooked through.",
+        "Preheat a large pot over medium heat. Add olive oil, garlic, and ginger. Cook for 1 minute, then add in green onion, carrots, red bell pepper, and cauliflower. Cook, stirring occasionally, until veggies begin to soften, 5–6 minutes.",
+        "Divide between bowls and top with fresh cilantro."
+    ],
+    "tags": [
+        "Indian",
+        "Seafood",
+        "Dinner",
+        "Sides",
+        "Soup"
+    ],
+    "nutrition": {
+        "calories": "310",
+        "total_fat": "10g",
+        "saturated_fat": "5g",
+        "trans_fat": "0g",
+        "cholesterol": "170mg",
+        "sodium": "470mg",
+        "total_carbohydrate": "27g",
+        "fiber": "10g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "33g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pumpkin-shrimp-vegetable-curry-soup"
+}

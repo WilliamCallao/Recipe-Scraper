@@ -1,0 +1,90 @@
+{
+    "title": "Harvest Salad",
+    "keywords": "Vegetarian,Vegan,Sides,Salads",
+    "prep_time": "PT7M",
+    "cook_time": "PT2M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Salads"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/harvest-salad.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "black pepper (freshly ground, to taste)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pomegranate seeds",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pepitas (toasted)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sugar snap peas (cut into 1/2-inch pieces)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "radishes (thinly sliced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "mixed greens (1 bag, mixed baby)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "olive oil (up to 4 tbsp)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "fresh mint (leaves, finely chopped plus more for garnish)",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Apple Cider Vinegar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "To make the apple cider vinaigrette: Pour the apple cider vinegar into a small jar with lid or bowl; add a generous pinch of salt and shake or whisk to combine. Taste—the acidity of the vinegar should be balanced a bit with sweet; adjust with more salt if needed. Add the Dijon mustard and olive oil, put the lid on the jar and shake vigorously (or whisk it well in the bowl). Taste again and adjust with more olive oil or mustard, to taste. Add the freshly chopped mint right before dressing the salad (otherwise it will turn brown).",
+        "Put together the salad: In a large bowl, toss together the greens, radishes, sugar snap peas, half of the pepitas, and half of the pomegranate seeds. Add a few tablespoons of the dressing and toss. You want the greens to be just barely coated with the dressing. Taste and season with freshly ground black pepper as needed. Garnish with the remaining pepitas and pomegranate seeds before serving."
+    ],
+    "tags": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "17g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "5g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/harvest-salad"
+}

@@ -1,0 +1,91 @@
+{
+    "title": "Hummus de Lentejas rojas",
+    "keywords": "Budget Friendly,One Pot,Quick & Easy,Sauces,Sides",
+    "prep_time": "PT20M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Budget Friendly",
+        "One Pot",
+        "Quick & Easy",
+        "Sauces",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/DFH_Hummus-cropped_1.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "water",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        },
+        {
+            "name": "red lentils (dried)",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "tahini",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "En una sartén pequeña, combina agua y las lentejas rojas escurridas y lleva a ebullición a fuego medio alto.",
+        "Reduce el fuego a bajo y cocina a fuego lento, cubierto, revolviendo ocasionalmente, por unos 30 minutos o hasta que las lentejas se hayan separado y estén suaves. Deja enfriar y transfiérelas a un procesador de alimentos.",
+        "Añade aceite de oliva, tahini, jugo de limón, ajo cortado en trocitos, comino, sal y pimienta negra y procesa por 30 a 60 segundos o hasta que esté suave, deteniendo para raspar los lados según sea necesario.",
+        "Transfiere la mezcla a un recipiente hermético y almacénala en el refrigerador por hasta 5 días hasta que sea la hora de servir."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Mediterranean",
+        "Budget Friendly",
+        "One Pot",
+        "Quick & Easy",
+        "Sauces",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "3g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "75mg",
+        "total_carbohydrate": "5g",
+        "fiber": "2g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/hummus-de-lentejas-rojas"
+}

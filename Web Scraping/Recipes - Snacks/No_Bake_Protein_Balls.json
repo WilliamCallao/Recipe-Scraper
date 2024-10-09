@@ -1,0 +1,84 @@
+{
+    "title": "No Bake Protein Balls",
+    "keywords": "Dessert,Snacks",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dessert",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/3471_No-Bake%20Protein%20Balls_0.jpg",
+    "servings": "13 Servings",
+    "ingredients": [
+        {
+            "name": "stevia-sweetened or sugar-free chocolate chips",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "unsweetened coconut flakes",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ground flax seed",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chia seeds",
+            "us_amount": "1/2 tbsp",
+            "metric_amount": "7 ml"
+        },
+        {
+            "name": "vanilla protein powder",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Kosher Salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Splenda® Stevia Sweetener",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "unsweetened peanut butter",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "quick cooking oats",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        }
+    ],
+    "instructions": [
+        "Spread oats onto a small baking sheet and toast them at 350 degrees F for 10 minutes.",
+        "In a microwave-safe bowl, add peanut butter and warm for 20 seconds.",
+        "Stir in sweetener and salt. Add toasted oats, protein powder, chia seeds, flaxseed, and coconut flakes. Let mixture cool completely. Stir in chocolate chips. Refrigerate the mixture if needed before rolling into balls.",
+        "Roll mixture into balls about 2 tablespoons in size. Place no-bake protein balls in an air-tight container and store in the refrigerator. Enjoy within a week!"
+    ],
+    "tags": [
+        "Lower Carb",
+        "Dessert",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "9g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "70mg",
+        "total_carbohydrate": "7g",
+        "fiber": "2g",
+        "sugar": "7g",
+        "added_sugar": "1g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/no-bake-protein-balls"
+}

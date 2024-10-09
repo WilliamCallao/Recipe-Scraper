@@ -1,0 +1,80 @@
+{
+    "title": "Scalloped Potatoes",
+    "keywords": "Holidays & Entertaining,Vegetarian,Sides",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Holidays & Entertaining",
+        "Vegetarian",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/483-scalloped-potatoes-diabetes_91824395_111418.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "medium russet potatoes",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "medium yellow onion (cut into thin strips)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "fat free half-and-half",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cheddar cheese (reduced-fat, shredded sharp, divided)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 400 degrees F. Peel potatoes and slice into thin rounds.",
+        "Coat a large nonstick skillet with cooking spray and sauté onions and potatoes over medium-high heat until the onions turn clear.",
+        "Spray a pie pan or 8-inch round cake pan with cooking spray.",
+        "Place a thick layer (about half) of the potatoes and onions in the bottom of pan.",
+        "Add salt and pepper to half-and-half. Pour 1/2 cup of the half-and-half over the potatoes. Sprinkle 1/4 cup of the cheese on top.",
+        "Add remaining potatoes and pour 1/2 cup half-and-half over the potatoes and top with remaining cheese.",
+        "Bake for 40 minutes or until potatoes are soft."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Comfort Food",
+        "Holidays & Entertaining",
+        "Vegetarian",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "2.5g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "120mg",
+        "total_carbohydrate": "29g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/scalloped-potatoes"
+}

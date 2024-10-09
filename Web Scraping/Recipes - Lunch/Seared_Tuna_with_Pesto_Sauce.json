@@ -1,0 +1,59 @@
+{
+    "title": "Seared Tuna with Pesto Sauce",
+    "keywords": "Main Dish,Dinner,Quick & Easy,Lunch",
+    "prep_time": "PT5M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Main Dish",
+        "Dinner",
+        "Quick & Easy",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/485-seared-tuna-diabetic-pesto_421676326_060419.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "tuna filets (divided into 4 4-oz portions)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "jarred pesto sauce",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Heat the olive oil in a skillet over medium-high heat.",
+        "Lay the tuna fillets in the hot oil and sear for 3-4 minutes on one side. Flip the tuna and apply 1 Tbsp. pesto sauce to each filet. Cook for additional 3-4 minutes."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Italian",
+        "Mediterranean",
+        "Main Dish",
+        "Dinner",
+        "Quick & Easy",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "255",
+        "total_fat": "15g",
+        "saturated_fat": "2.9g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "185mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "28g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/seared-tuna-pesto-sauce"
+}

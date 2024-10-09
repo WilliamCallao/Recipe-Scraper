@@ -1,0 +1,104 @@
+{
+    "title": "Shrimp and Avocado Taco Bowls",
+    "keywords": "Main Dish,Lunch,Foodie,Dinner,Salads,Quick & Easy,Cooking for 1 or 2",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Main Dish",
+        "Lunch",
+        "Foodie",
+        "Dinner",
+        "Salads",
+        "Quick & Easy",
+        "Cooking for 1 or 2"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shrimp-avocado-taco-bowls-JF17.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "fresh cilantro (optional)",
+            "us_amount": "2 sprig",
+            "metric_amount": "2 sprig"
+        },
+        {
+            "name": "salsa",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "bibb lettuce",
+            "us_amount": "2 head",
+            "metric_amount": "2 head"
+        },
+        {
+            "name": "jalapeño pepper (sliced, optional)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Fresh Pineapple (finely diced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "green onion (scallion) (minced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "tomato(es) (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "avocado (peeled and diced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "shrimp (peeled, deveined, tails removed)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        }
+    ],
+    "instructions": [
+        "Combine the shrimp, avocado, tomato, scallions, and pineapple (and jalapeño, if desired). Remove a few of the central leaves from each lettuce head to make a bowl. Divide the shrimp mixture between the lettuce heads.",
+        "Stir the chili powder into the Greek yogurt.",
+        "Top each “taco” bowl with the Greek yogurt mixture and salsa. Sprinkle chopped fresh cilantro on top, if desired."
+    ],
+    "tags": [
+        "Seafood",
+        "Mexican/Southwestern",
+        "Main Dish",
+        "Lunch",
+        "Foodie",
+        "Dinner",
+        "Salads",
+        "Quick & Easy",
+        "Cooking for 1 or 2"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "6g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "215mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "16g",
+        "fiber": "4g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "31g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/shrimp-and-avocado-taco-bowls"
+}

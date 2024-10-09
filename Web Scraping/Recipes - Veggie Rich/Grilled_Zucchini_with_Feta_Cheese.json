@@ -1,0 +1,60 @@
+{
+    "title": "Grilled Zucchini with Feta Cheese",
+    "keywords": "Quick & Easy,Sides,Vegetarian,Gluten-Free",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/299-diabetic-grilled-zucchini-feta_AdobeStock144864124_012121.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "zucchini (split in half lengthwise (ends trimmed))",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "reduced-fat crumbled feta cheese",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the grill to medium-high.",
+        "Drizzle the olive oil evenly over the zucchini halves. Grill the zucchini 4-5 minutes per side, until tender.",
+        "Remove the zucchini from the grill and sprinkle each with feta cheese."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Low Sodium",
+        "Grilling",
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "45",
+        "total_fat": "3g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "80mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-zucchini-feta-cheese"
+}

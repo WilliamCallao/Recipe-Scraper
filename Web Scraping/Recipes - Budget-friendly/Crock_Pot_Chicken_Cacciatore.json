@@ -1,0 +1,77 @@
+{
+    "title": "Crock Pot Chicken Cacciatore",
+    "keywords": "Budget Friendly,Dinner,Slow Cooker,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Slow Cooker",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_615926258.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "onion(s) (sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "green bell pepper (seeded and sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "tomato paste (6-ounce, no salt added)",
+            "us_amount": "2 can",
+            "metric_amount": "2 can"
+        },
+        {
+            "name": "tomato(es) (14.5-ounce, diced)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "Italian seasoning",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "medium chicken thighs (skins removed)",
+            "us_amount": "6",
+            "metric_amount": "6"
+        }
+    ],
+    "instructions": [
+        "Place all the ingredients in a crock pot.",
+        "Cook on high for 4 hours.",
+        "Serve the chicken over whole wheat rotini pasta if desired."
+    ],
+    "tags": [
+        "Italian",
+        "Budget Friendly",
+        "Dinner",
+        "Slow Cooker",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "5g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "18g",
+        "fiber": "4g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crock-pot-chicken-cacciatore"
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Broccoli-Stuffed Sweet Potatoes",
+    "keywords": "Quick & Easy,Gluten-Free,Sides,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Quick & Easy",
+        "Gluten-Free",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/0104-diabetic-broccoli-stuffed-potato_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "medium sweet potatoes",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "broccoli florets",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "margarine (trans-fat-free)",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        },
+        {
+            "name": "slivered almonds (toasted)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Pierce each sweet potato with a fork in a few spots. Arrange the potatoes on a microwave-safe plate and microwave until soft, about 12 minutes.",
+        "Place 3/4 to 1 inch of water in a saucepan with a steamer and bring to a boil. (If you don’t have a steamer, you can simply put the broccoli directly into 1 inch of boiling water.) Add the broccoli to the steamer and cover; reduce the heat to medium and let it cook for 6 minutes.",
+        "Using a knife, slit each sweet potato in half and pinch the sides to open it up. Fill each sweet potato with 1 Tsp. margarine, 2/3 cup broccoli and 1 Tbsp. toasted almonds."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Low Sodium",
+        "Veggie Rich",
+        "Quick & Easy",
+        "Gluten-Free",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "7g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "85mg",
+        "total_carbohydrate": "28g",
+        "fiber": "6g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/broccoli-stuffed-sweet-potatoes"
+}

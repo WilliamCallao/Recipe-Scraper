@@ -1,0 +1,118 @@
+{
+    "title": "Whole Wheat Hot Pockets",
+    "keywords": "Vegetarian,Sandwiches,Foodie,Dinner,Lunch",
+    "prep_time": "PT1H30M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Vegetarian",
+        "Sandwiches",
+        "Foodie",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/whole_wheat_hot_pocket.png",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "warm water (around 100 degrees F)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "low-calorie brown sugar substitute",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "active dry yeast",
+            "us_amount": "1 packet",
+            "metric_amount": "1 packet"
+        },
+        {
+            "name": "whole wheat flour",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "white (button) mushrooms (diced)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "cooked spinach",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "salt (optional, divided use)",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "mozzarella cheese (reduced fat)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "eggs (beaten with 1 Tbsp. water)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Set up a mixer fitted with the dough hook attachment. If you do not have a mixer, set up a food processor.",
+        "Add warm water, Splenda Brown Sugar, and yeast to the mixing bowl or food processor bowl and let the yeast bloom for 5 minutes. The yeast should begin to get frothy.",
+        "Add the flour and salt (optional) and mix on low until flour is incorporated. If using a mixer with the dough hook attachment, turn the speed up to medium and knead the dough for 5 minutes. If using a food processor, turn the dough onto a clean, floured board or counter top and knead by hand for 5-7 minutes. If the dough is too sticky, add a Tbsp. of flour at a time until it forms a smooth dough.",
+        "Add kneaded dough to a large bowl coated with cooking spray, cover and put in a warm place for one hour to rise.",
+        "While the dough is rising, preheat the oven to 400 degrees F. Coat a baking sheet with cooking spray. Set aside.",
+        "In a medium sauté pan, heat olive oil over medium-high heat. Add mushrooms and sauté until softened and all of the liquid from them is evaporated.",
+        "In a medium bowl, combine mushrooms, spinach, garlic, salt (optional), pepper and mozzarella cheese. Set aside.",
+        "Divide the dough into eight balls and let rest, covered with plastic wrap, for about 15 minutes.",
+        "Roll out each dough round to 1/4 inch thickness. Add 1/8 of filling (about 1/2 cup) to each round. Fold over to form a calzone and press the edges to seal. Repeat this process for the remaining 8 hot pockets and place on the baking sheet.",
+        "Brush each hot pocket with egg wash and bake for 25 minutes or until golden brown."
+    ],
+    "tags": [
+        "Low Sodium",
+        "High in Fiber",
+        "Kid Friendly",
+        "Vegetarian",
+        "Sandwiches",
+        "Foodie",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "165",
+        "total_fat": "4g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "100mg",
+        "total_carbohydrate": "26g",
+        "fiber": "5g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/whole-wheat-hot-pockets"
+}

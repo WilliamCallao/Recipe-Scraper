@@ -1,0 +1,87 @@
+{
+    "title": "Black Beans And Tomatoes With Lime",
+    "keywords": "Easy Pantry Recipes,Salads,Sides,Appetizers,Lunch,Snacks",
+    "prep_time": "PT5M",
+    "cook_time": "PT7M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Salads",
+        "Sides",
+        "Appetizers",
+        "Lunch",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_620_CarbControl_BlackBeanLime__022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Extra Virgin Olive Oil (divided use)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "onion(s) (diced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "green bell pepper or poblano chili peppers (diced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "black beans (no-salt-added, rinsed and drained)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "grape tomatoes (quartered)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "lime juice",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Heat 1 Tsp. of the oil in a medium skillet over medium-high heat. Add the onions and peppers and cook 3 minutes or until onions are just beginning to brown, stirring occasionally.",
+        "Add the beans, tomatoes, and cumin. Cook 3 minutes or until tomatoes are just tender, stirring occasionally. Remove from heat.",
+        "Sprinkle with the salt and spoon the lime juice and remaining oil evenly over all. Do NOT stir."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Easy Pantry Recipes",
+        "Salads",
+        "Sides",
+        "Appetizers",
+        "Lunch",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "15g",
+        "fiber": "4g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/black-beans-and-tomatoes-lime"
+}

@@ -1,0 +1,118 @@
+{
+    "title": "Chicken or Turkey Pot Pie",
+    "keywords": "Dinner,Foodie,Holidays & Entertaining,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_645_Chicken%20or%20Turkey%20Pot%20Pie_StressFreeKitchen_022618.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Extra Virgin Olive Oil (divided use)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "onion(s) (chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "celery (sliced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "carrot(s) (sliced 1/4-inch thick)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "butter (unsalted)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "all-purpose flour",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "chicken stock (low-sodium, plus additional, if desired)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "cooked chicken (or used cooked turkey, or leftover chicken/turkey)",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "baby peas (frozen)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Italian parsley (chopped)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sea salt (fine)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper (freshly ground)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sheets frozen phyllo dough (thawed)",
+            "us_amount": "5",
+            "metric_amount": "5"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 375°F.",
+        "Place 1 tablespoon olive oil in saucepan. Add onion and garlic and cook 2–3 minutes until it begins to soften. Add celery and carrot and cook 5 minutes to soften. Set aside.",
+        "Place 1 tablespoon of olive oil and butter in 4-quart saucepan. Melt butter. Whisk in flour and mix well. (Mixture will be dry.) Gradually add 1 cup stock to saucepan. Cook 2–3 minutes until mixture begins to thicken and takes on a golden color.",
+        "Add chicken, peas, parsley, and additional stock to achieve desired consistency (some like it soupy, some like it thick). Season with salt and pepper to taste. Place mixture in baking dish.",
+        "Spray each sheet of phyllo with olive oil mister and place on top of baking dish. Trim edges.",
+        "Bake for approximately 25 minutes or until crust is golden and pie is bubbly."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Comfort Food",
+        "Kid Friendly",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "280",
+        "total_fat": "10g",
+        "saturated_fat": "2.6g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "390mg",
+        "total_carbohydrate": "23g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-or-turkey-pot-pie"
+}

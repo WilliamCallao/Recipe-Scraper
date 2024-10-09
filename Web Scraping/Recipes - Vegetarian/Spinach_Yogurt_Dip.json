@@ -1,0 +1,71 @@
+{
+    "title": "Spinach Yogurt Dip",
+    "keywords": "Appetizers,Easy Pantry Recipes,Foodie,Vegetarian,Sides,Snacks,Quick & Easy,Holidays & Entertaining",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "Easy Pantry Recipes",
+        "Foodie",
+        "Vegetarian",
+        "Sides",
+        "Snacks",
+        "Quick & Easy",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/521-diabetic-spinach-yogurt-dip_96297700_083018.jpg",
+    "servings": "24 Servings",
+    "ingredients": [
+        {
+            "name": "cottage cheese (low-fat (1% milk fat))",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt (non-fat)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "frozen spinach (thawed and squeezed dry, chopped)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "ranch-flavored salad dressing powder mix",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "In a food processor or blender, puree the cottage cheese. Add to a medium bowl.",
+        "Add the yogurt, spinach and ranch dressing powder and whisk together. Refrigerate for at least 30 minutes, up to overnight.",
+        "Serve with assorted vegetables for dipping."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Appetizers",
+        "Easy Pantry Recipes",
+        "Foodie",
+        "Vegetarian",
+        "Sides",
+        "Snacks",
+        "Quick & Easy",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "15",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "115mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spinach-yogurt-dip"
+}

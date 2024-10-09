@@ -1,0 +1,75 @@
+{
+    "title": "Melon Coolers",
+    "keywords": "Beverages,Cooking for 1 or 2,Dessert,Holidays & Entertaining,One Pot,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Beverages",
+        "Cooking for 1 or 2",
+        "Dessert",
+        "Holidays & Entertaining",
+        "One Pot",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_767_Shrimp%20and%20Bell%20Pepper%20Tacos_Melon%20Coolers_SmartShopperCkbk_022618.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "honeydew melon (or cantaloupe, cut into chunks)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "orange juice",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "lime",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sugar",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "ice cubes",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "fresh mint (optional)",
+            "us_amount": "2 sprig",
+            "metric_amount": "2 sprig"
+        }
+    ],
+    "instructions": [
+        "Blend all the ingredients together in a blender and process for 30 seconds to 1 minute until smooth. Pour into tall glasses and serve. Garnish each glass with a sprig of fresh mint."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Kid Friendly",
+        "Beverages",
+        "Cooking for 1 or 2",
+        "Dessert",
+        "Holidays & Entertaining",
+        "One Pot",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "0g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "25mg",
+        "total_carbohydrate": "24g",
+        "fiber": "2g",
+        "sugar": "22g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/melon-coolers"
+}

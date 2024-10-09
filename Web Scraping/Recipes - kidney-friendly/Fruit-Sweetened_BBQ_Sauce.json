@@ -1,0 +1,74 @@
+{
+    "title": "Fruit-Sweetened BBQ Sauce",
+    "keywords": "No Cook,One Pot,Quick & Easy,Sauces,Vegan,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "No Cook",
+        "One Pot",
+        "Quick & Easy",
+        "Sauces",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1867-diabetic-no-sugar-added-barbecue-sauce_clean-and-simple_shutterstock430101628_121119.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "no-sugar-added ketchup",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "unsweetened applesauce",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Apple Cider Vinegar",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "smoked paprika",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "In a liquid measuring cup, stir together all ingredients. Serve, or store in a sealed jar in the refrigerator for up to 1 week."
+    ],
+    "tags": [
+        "Low Sodium",
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Comfort Food",
+        "Grilling",
+        "No Cook",
+        "One Pot",
+        "Quick & Easy",
+        "Sauces",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "15",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "105mg",
+        "total_carbohydrate": "4g",
+        "fiber": "0g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fruit-sweetened-bbq-sauce"
+}

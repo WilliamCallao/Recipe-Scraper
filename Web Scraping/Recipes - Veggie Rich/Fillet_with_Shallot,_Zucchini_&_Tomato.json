@@ -1,0 +1,95 @@
+{
+    "title": "Fillet with Shallot, Zucchini & Tomato",
+    "keywords": "Main Dish,Dinner,Lunch",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Main Dish",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_109707932.jpg",
+        "Zucchini & Tomato\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "thick white fillet of fish (cut into 4 portions (cod, snapper, thick flounder, or thick tilapia))",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "fine sea salt",
+            "us_amount": "3/4 tsp",
+            "metric_amount": "4 g"
+        },
+        {
+            "name": "ground black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "shallots (minced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "small zucchini (4-6 inches long, sliced into 1/4-inch rounds)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "dry white wine or chicken or fish stock",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "very ripe plum tomatoes (chopped)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "fresh basil (chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Heat sauté pan and lightly film with olive oil. Sauté shallot and garlic until shallot starts to become translucent. Add zucchini and sauté 1-2 minutes. Remove from pan.",
+        "Add fish and sauté until golden on each side. Add white wine or stock to deglaze pan. Add chopped tomatoes and fresh basil. Heat thoroughly.",
+        "Serve with a pasta, rice, couscous, or crusty whole-grain Italian bread."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Seafood",
+        "Main Dish",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "195",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "35mg",
+        "sodium": "520mg",
+        "total_carbohydrate": "10g",
+        "fiber": "3g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fillet-shallot-zucchini-tomato"
+}

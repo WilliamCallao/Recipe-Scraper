@@ -1,0 +1,82 @@
+{
+    "title": "Berry Almond Oatmeal",
+    "keywords": "Breakfast and Brunch,Cooking for 1 or 2,Easy Pantry Recipes,One Pot,Quick & Easy,Vegan,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Cooking for 1 or 2",
+        "Easy Pantry Recipes",
+        "One Pot",
+        "Quick & Easy",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2060_diabetic-Berry-Almond-Oatmeal_Splenda_042721.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "water",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "old-fashioned rolled oats",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Splenda® Original Sweetener",
+            "us_amount": "3 packet",
+            "metric_amount": "3 packet"
+        },
+        {
+            "name": "fresh or frozen blueberries",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sliced almonds",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "almond extract",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "In a saucepan, bring water to a boil. Stir in oats and salt. Cook over medium heat, stirring occasionally, 5 minutes. Stir in sweetener, fruit, almonds, and extract.",
+        "Notes: For creamier oatmeal substitute milk for water (this will change the nutrition information per serving)."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Breakfast and Brunch",
+        "Cooking for 1 or 2",
+        "Easy Pantry Recipes",
+        "One Pot",
+        "Quick & Easy",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "7g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "290mg",
+        "total_carbohydrate": "33g",
+        "fiber": "5g",
+        "sugar": "4g",
+        "added_sugar": "1g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/berry-almond-oatmeal"
+}

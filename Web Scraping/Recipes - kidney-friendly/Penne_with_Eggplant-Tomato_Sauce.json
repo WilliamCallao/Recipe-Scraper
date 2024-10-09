@@ -1,0 +1,101 @@
+{
+    "title": "Penne with Eggplant-Tomato Sauce",
+    "keywords": "Vegetarian,Lunch,Dinner,Budget Friendly",
+    "prep_time": "PT5M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Vegetarian",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1817-diabetic-Penne-Pasta-Eggplant-Tomato-Sauce_mediterranean-diabetes-cookbook_073019.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "large eggplants",
+            "us_amount": "2 (about 2 lb total)",
+            "metric_amount": "2 (about 2 lb total)"
+        },
+        {
+            "name": "olive oil (divided)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "no-salt-added strained tomatoes or tomato puree",
+            "us_amount": "1 (26-oz) box or can",
+            "metric_amount": "1 (26-oz) box or can"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "fresh basil (roughly torn)",
+            "us_amount": "6 leaves",
+            "metric_amount": "6 leaves"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        },
+        {
+            "name": "dried whole-wheat penne rigate, or gluten-free pasta",
+            "us_amount": "3/4 lbs",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "grated pecorino Romano cheese",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat broiler. Using a sharp knife, slice eggplant into 1/4-inch slices, and place on a baking sheet. Brush the eggplant with 2 Tbsp olive oil, then broil for 5–7 minutes per side until they are dark gold and cooked through. Set aside to cool. (This step can be done a day in advance.)",
+        "Heat remaining olive oil in a large saucepan over medium heat. Add garlic and cook until it begins to release its aroma, but do not allow garlic to turn color.",
+        "Pour in tomatoes, and stir. Add crushed red pepper, basil, salt, and freshly ground pepper. Cover, reduce heat to low, and simmer for 20 minutes.",
+        "When eggplant is cool enough to handle, stack three slices together, and chop into dime-size pieces. Repeat until all eggplant is chopped.",
+        "While sauce is still cooking, bring a gallon of water to a boil over high heat. Add pasta and cook until al dente.",
+        "After sauce has cooked for 20 minutes, turn off heat, remove lid, and add eggplant pieces and cheese. Stir well. Cover, and simmer sauce over medium heat until pasta is done cooking (10–12 minutes).",
+        "Drain pasta. Toss in sauce to coat. Serve hot garnished with chopped basil (if desired)."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Mediterranean",
+        "Italian",
+        "Vegetarian",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "300",
+        "total_fat": "90g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "45g",
+        "fiber": "9g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/penne-eggplant-tomato-sauce"
+}

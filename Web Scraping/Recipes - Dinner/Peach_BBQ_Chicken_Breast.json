@@ -1,0 +1,114 @@
+{
+    "title": "Peach BBQ Chicken Breast",
+    "keywords": "Main Dish,Dinner",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/3476_Peach%20BBQ%20Chicken%20Breast.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "red onion (sliced, for the salad)",
+            "us_amount": "1/4 small",
+            "metric_amount": "1/4 small"
+        },
+        {
+            "name": "baby arugula (packed, for the salad)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "black pepper (for the salad)",
+            "us_amount": "1/8",
+            "metric_amount": "1/8"
+        },
+        {
+            "name": "Kosher Salt (divided use)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Splenda® Monk Fruit Granulated Sweetener (divided use)",
+            "us_amount": "1/4 cup & 2 tsp",
+            "metric_amount": "1/4 cup & 2 tsp"
+        },
+        {
+            "name": "lemon (juiced, for the salad)",
+            "us_amount": "1/2 small",
+            "metric_amount": "1/2 small"
+        },
+        {
+            "name": "olive oil (divided use)",
+            "us_amount": "2 1/2 tbsp",
+            "metric_amount": "37 ml"
+        },
+        {
+            "name": "peaches (halved and pitted, for the salad)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "thin sliced boneless, skinless chicken breasts",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "garlic powder (for the BBQ sauce)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Worcestershire sauce (for the BBQ sauce)",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "Apple Cider Vinegar (for the BBQ sauce)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sugar-free ketchup (for the BBQ sauce)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "fresh or frozen peaches (peeled, pitted, and chopped, for the BBQ sauce)",
+            "us_amount": "peaches",
+            "metric_amount": "peaches"
+        },
+        {
+            "name": "yellow onion (minced, for the BBQ sauce)",
+            "us_amount": "1/2 small",
+            "metric_amount": "1/2 small"
+        }
+    ],
+    "instructions": [
+        "To make the peach BBQ sauce:Heat 1 1/2 tsp oil in medium saucepan over medium heat. Add onion and cook until softened, about 2–3 minutes. Stir in peaches and cook for 5 minutes. Add ketchup, apple cider vinegar, 1/4 cup sweetener, Worcestershire sauce, 1/4 tsp salt, and garlic powder and bring to a boil. Reduce heat to medium-low and simmer until peaches break down and sauce begins to thicken, about 10–15 minutes. Carefully transfer peach mixture to blender and blend until smooth, about 1 minute.",
+        "To make the chicken:Heat grill to medium and brush grates with oil. Pat chicken dry with paper towels. Grill chicken, flipping occasionally and brushing with peach BBQ sauce until fully cooked and a meat thermometer reaches 165 degrees F, about 8–10 minutes. Transfer to plate and let rest for 5 minutes before slicing and serving.",
+        "To make the salad:Grill peach halves, cut side down, until char marks appear, about 1–2 minutes. Slice peach halves into ½-inch thick slices.",
+        "Whisk 2 tbsp olive oil, lemon juice, 2 tsp sweetener, 1/8 tsp salt, and pepper together in large bowl until combined. Add grilled peach slices, arugula, and red onion and toss to coat. Serve grilled chicken with salad and enjoy."
+    ],
+    "tags": [
+        "Grilling",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "300",
+        "total_fat": "12g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "550mg",
+        "total_carbohydrate": "20g",
+        "fiber": "3g",
+        "sugar": "14g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/peach-bbq-chicken-breast"
+}

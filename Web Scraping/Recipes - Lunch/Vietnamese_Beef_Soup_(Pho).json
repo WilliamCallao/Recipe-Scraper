@@ -1,0 +1,86 @@
+{
+    "title": "Vietnamese Beef Soup (Pho)",
+    "keywords": "Lunch,Main Dish,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/oct_pho_istock5969395_279x200.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "basil ((Thai basil if you can find it), thinly sliced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cilantro (chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "lime (quartered into wedges)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "serrano pepper ((or other hot chili), seeded and minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "green onion (scallion) ((white and green parts), thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "brown rice angel hair pasta",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "beef broth (fat-free, reduced sodium)",
+            "us_amount": "5 1/2 cup",
+            "metric_amount": "1 l 301 ml"
+        },
+        {
+            "name": "Chinese five-spice powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "beef tenderloin fillet (sliced very thin)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "Cook angel hair pasta according to package directions, omitting salt. Divide cooked noodles among 4 soup bowls.",
+        "Top each bowl of noodles with 1/4 sliced scallion, 1/4 cup basil, 2 Tbsp. cilantro, 1/4 of sliced chili and one lime wedge.",
+        "In a soup pot, bring beef broth to a boil. Whisk in five spice powder and reduce heat to a low simmer. Add beef for 1 minute just to cook through.",
+        "Divide broth and beef evenly among the four bowls. Serve immediately."
+    ],
+    "tags": [
+        "Asian",
+        "Lunch",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "375",
+        "total_fat": "7g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "600mg",
+        "total_carbohydrate": "47g",
+        "fiber": "3g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "30g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/vietnamese-beef-soup-pho"
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Gluten-Free Chocolate Banana Muffins",
+    "keywords": "Quick & Easy,Vegetarian,Gluten-Free,Dessert",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Vegetarian",
+        "Gluten-Free",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/257-Gluten-Free-Chocolate-Banana-Muffins_180972131_04112018%20.jpg",
+    "servings": "14 Servings",
+    "ingredients": [
+        {
+            "name": "canola oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sugar",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "medium ripe bananas (mashed)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "all-purpose Gluten-Free Baking Mix ((such as King Arthur Baking Mix))",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "quinoa flakes",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cocoa powder",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "mini chocolate chips",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350 degrees F. Line muffin tins with muffin papers and spray the papers with cooking spray.",
+        "In a large bowl, mix together the oil, sugar, and vanilla. Add the bananas and eggs one at a time. Mix well.",
+        "Stir in the baking mix, quinoa flakes, cocoa powder, and water",
+        "Spoon the batter into 14 muffin cups. Top each muffin with mini chocolate chips (distribute evenly over all muffins.)",
+        "Bake for 20-22 minutes or until a toothpick inserted in the center comes out clean.",
+        "Remove from the oven and let the muffins cool in the pan for 10 minutes. Remove the muffins from the pan and cool completely on a wire rack."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Kid Friendly",
+        "Comfort Food",
+        "Quick & Easy",
+        "Vegetarian",
+        "Gluten-Free",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "155",
+        "total_fat": "6g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "80mg",
+        "total_carbohydrate": "25g",
+        "fiber": "3g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/gluten-free-chocolate-banana-muffins"
+}

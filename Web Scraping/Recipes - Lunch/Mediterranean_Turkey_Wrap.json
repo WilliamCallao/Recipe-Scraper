@@ -1,0 +1,70 @@
+{
+    "title": "Mediterranean Turkey Wrap",
+    "keywords": "Sandwiches,Quick & Easy,Lunch",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sandwiches",
+        "Quick & Easy",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_355_Mediterranean_Turkey_Wrap_MG_5769-%28ZF-5661-35964-1-018%29_02282018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "hummus",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "whole-wheat (wraps, heated)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "lower sodium deli turkey",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "large cucumber (peeled and diced (about 1 cup))",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "roma (plum) tomatoes (diced (about 1 cup))",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "reduced-fat crumbled feta cheese",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Spread 2 Tbsps. hummus on wrap. Top with 3 ounces turkey, 1/4 cup cucumber, 1/4 cup tomatoes, 1 Tbsp. feta cheese and 1 diced olive. Fold wrap to close.",
+        "Repeat procedure for remaining 3 wraps."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mediterranean",
+        "Sandwiches",
+        "Quick & Easy",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "6g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "490mg",
+        "total_carbohydrate": "30g",
+        "fiber": "10g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "28g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mediterranean-turkey-wrap"
+}

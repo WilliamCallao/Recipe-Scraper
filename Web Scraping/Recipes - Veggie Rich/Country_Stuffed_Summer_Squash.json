@@ -1,0 +1,68 @@
+{
+    "title": "Country Stuffed Summer Squash",
+    "keywords": "Appetizers,Sides,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Appetizers",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_672_CountrySquash_4-IngredientCookbook_021418.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "large summer squash (halved lengthwise (12 ounces total; use any variety, such as yellow, scallop, or zucchini))",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "red or green bell pepper (chopped)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "no-trans-fat margarine ((35% vegetable oil))",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cornbread stuffing mix (dry)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350°F.",
+        "Scoop out and coarsely chop the squash pulp.",
+        "Place a medium nonstick skillet over medium-high heat until hot. Coat the skillet with nonstick cooking spray and add the squash pulp and bell pepper. Cook 4 minutes or until the pepper is tender-crisp, stirring frequently.",
+        "Remove the skillet from the heat and stir in the water and margarine. Add the stuffing mix and stir gently with a fork. Spoon 1/2 cup stuffing into each squash half. Press down gently so the stuffing will adhere.",
+        "Recoat the skillet with nonstick cooking spray, arrange the stuffed squash in the skillet, cover tightly, and bake 30 minutes or until the squash is tender when pierced with a fork."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Comfort Food",
+        "Appetizers",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "16g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/country-stuffed-summer-squash"
+}

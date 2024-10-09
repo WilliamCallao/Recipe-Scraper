@@ -1,0 +1,105 @@
+{
+    "title": "Slow-Cooker Chicken Fajita Burritos",
+    "keywords": "Quick & Easy,Dinner,Lunch,Slow Cooker,Main Dish",
+    "prep_time": "PT10M",
+    "cook_time": "PT6H",
+    "categories": [
+        "Quick & Easy",
+        "Dinner",
+        "Lunch",
+        "Slow Cooker",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/497-diabetic-slow-cooker-chicken-burrito_AdobeStock_270329086_022621.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "boneless, skinless chicken breast (cut into strips)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "green bell pepper (sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "red bell pepper (sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "medium onion (sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cumin",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salsa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "black beans (rinsed and drained)",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "large whole-wheat low-carb tortillas",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "reduced fat shredded cheddar cheese",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Place chicken breast strips in a slow-cooker. Top with remaining ingredients except for tortillas and cheese.",
+        "Cover and cook on low for 6 hours or until done. Shred chicken with fork, if needed.",
+        "Scoop 1/2 cup chicken and bean mixture on each tortilla and top with 2 Tbsps. cheese. Fold into a burrito."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Quick & Easy",
+        "Dinner",
+        "Lunch",
+        "Slow Cooker",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "7g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "500mg",
+        "total_carbohydrate": "33g",
+        "fiber": "16g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "29g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/slow-cooker-chicken-fajita-burritos"
+}

@@ -1,0 +1,100 @@
+{
+    "title": "Barley, Mushroom, and Herb Risotto",
+    "keywords": "Sides,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/2015-diabetic-barley-mushroom-herb-risotto_diabetes-cookbook_030121.jpg",
+        "Mushroom",
+        "and Herb Risotto\" loading=\"lazy\" />"
+    ],
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "low sodium chicken broth",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "olive oil (divided use)",
+            "us_amount": "3 tsp",
+            "metric_amount": "15 g"
+        },
+        {
+            "name": "small onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pearled barley",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "sliced mushrooms",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "fresh parsley",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "fresh chives",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "grated Parmesan cheese",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "In a saucepan, bring chicken broth and water to a simmer over medium heat. Set aside but keep warm on low heat.",
+        "In a separate medium saucepan, add 1 teaspoon olive oil over medium heat. Sauté onion until clear. Add barley and sauté 2 minutes.",
+        "Ladle 1/2 cup hot broth into barley mixture and stir constantly until liquid is absorbed. Continue to add broth, one 1/2 cup at a time, until the barley is cooked and has a creamy texture.",
+        "Add 2 teaspoons olive oil to a medium sauté pan over medium-high heat. Add mushrooms and sauté until all the liquid from the mushrooms is expelled and mushrooms begin to brown. Add garlic and sauté 1 minute.",
+        "Add sautéed mushrooms and garlic to barley mixture; then stir in parsley, chives, pepper, and parmesan cheese. Serve immediately.",
+        "If the barley risotto gets too thick, add more hot broth, stirring until creamy."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "4mg",
+        "sodium": "430mg",
+        "total_carbohydrate": "32g",
+        "fiber": "6g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/barley-mushroom-and-herb-risotto"
+}

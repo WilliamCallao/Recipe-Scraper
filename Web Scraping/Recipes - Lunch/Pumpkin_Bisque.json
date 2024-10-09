@@ -1,0 +1,113 @@
+{
+    "title": "Pumpkin Bisque",
+    "keywords": "Foodie,Holidays & Entertaining,Lunch,Soup",
+    "prep_time": "PT10M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Soup"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/pumpkin-bisque-Nov14.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "fresh chives (minced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pumpkin seeds",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "fat-free half-and-half",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "canned pumpkin",
+            "us_amount": "15 oz",
+            "metric_amount": "425 ml"
+        },
+        {
+            "name": "low sodium chicken broth",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cayenne pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground coriander",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "curry powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "onion(s) (minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "low-calorie sugar substitute",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "black pepper (freshly ground preferred)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "In a large saucepan, heat the oil over medium heat. Add the onion and sauté for 5 to 7 minutes, until soft. Add the garlic, curry powder, coriander, cayenne, salt, and pepper and sauté for 1 minute.",
+        "Add the broth and bring to boiling. Lower the heat and simmer, uncovered, for 20 minutes.",
+        "Add the pumpkin and simmer for 10 minutes. Using an immersion blender, process the soup until smooth. Or carefully add the hot soup (in batches) to a blender and process until smooth; return the soup to the pot.",
+        "Add the half-and-half and sugar-stevia sweetener and simmer on low for 2 minutes. Ladle into individual serving bowls. Garnish each bowl with generous pinches of pumpkin seeds and chives."
+    ],
+    "tags": [
+        "French",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Soup"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "5g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "390mg",
+        "total_carbohydrate": "14g",
+        "fiber": "3g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pumpkin-bisque"
+}

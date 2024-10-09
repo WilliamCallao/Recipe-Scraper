@@ -1,0 +1,92 @@
+{
+    "title": "Lasagna Cupcakes",
+    "keywords": "Dinner,Foodie,Main Dish,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/recId_757_LasagneCupcakes_PerfectComfortCollection_022618.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "wonton wrappers",
+            "us_amount": "24",
+            "metric_amount": "24"
+        },
+        {
+            "name": "ricotta cheese (low-fat)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "mozzarella cheese (shredded, part-skim)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "eggs (beaten)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "dried oregano (dried)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "fresh basil",
+            "us_amount": "24 leaves",
+            "metric_amount": "24 leaves"
+        },
+        {
+            "name": "jarred marinara sauce (low-sodium)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Parmesan cheese (grated)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 375°F. Coat a 12-cup standard muffin pan with cooking spray.",
+        "Add one wonton wrapper to the bottom of each cup, pressing down into the center with the pointed ends set up.",
+        "Mix together the ricotta and mozzarella cheeses, egg, dried oregano, and black pepper. Add a scant tablespoon of the cheese mixture over the wonton wrapper. Lay a basil leaf on top of the cheese. Add a tablespoon of the marinara sauce over the basil leaf. Repeat all the layers one more time ending with sauce. Sprinkle the top of each muffin with Parmesan.",
+        "Bake the lasagna muffins for 18-20 minutes until bubbly and browned. Remove from the oven and let cool for 5 minutes. Run a knife around each cup to loosen. Remove from the pan and serve."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Comfort Food",
+        "Italian",
+        "Dinner",
+        "Foodie",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "3g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "14g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/lasagna-cupcakes"
+}

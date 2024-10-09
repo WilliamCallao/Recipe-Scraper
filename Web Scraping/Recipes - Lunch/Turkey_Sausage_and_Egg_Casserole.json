@@ -1,0 +1,94 @@
+{
+    "title": "Turkey Sausage and Egg Casserole",
+    "keywords": "Breakfast and Brunch,Main Dish,Lunch,Holidays & Entertaining",
+    "prep_time": "PT10M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Breakfast and Brunch",
+        "Main Dish",
+        "Lunch",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/564-diabetic-turkey-sausage-egg-breakfast-casserole_AdobeStock283104194_043021.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "green onions (chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "nonfat milk",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "mustard powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "egg substitute",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "whole wheat bread (cut into 1/2–inch cubes)",
+            "us_amount": "4 slice",
+            "metric_amount": "4 slice"
+        },
+        {
+            "name": "precooked turkey breakfast sausage patties (diced)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "reduced-fat, shredded cheddar cheese",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350 degree F. Coat a 9x13 baking dish with cooking spray.",
+        "In a medium bowl, whisk together nonfat milk, green onions, dry mustard, salt (optional), pepper, and egg substitute.",
+        "Place bread cubes and sausage on the bottom of the baking dish, pour egg mixture evenly over bread and sausage. Top with cheddar cheese.",
+        "Cover pan with aluminum foil and bake for 20 minutes. Remove foil and bake for an additional 40 minutes.",
+        "Remove from oven and let cool for 20 minutes, then cut into 10 equal slices."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Breakfast and Brunch",
+        "Main Dish",
+        "Lunch",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "15mg",
+        "sodium": "295mg",
+        "total_carbohydrate": "8g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/turkey-sausage-and-egg-casserole"
+}

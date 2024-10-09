@@ -1,0 +1,99 @@
+{
+    "title": "Tofu and Vegetable Skewers",
+    "keywords": "Dinner,Vegetarian,Vegan,Main Dish",
+    "prep_time": "PT40M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Vegetarian",
+        "Vegan",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/09Vmain_TofuandVegetableSkewers.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "lower sodium soy sauce",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "rice vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sesame oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "maple syrup",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "fresh ginger (grated)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "firm tofu (pressed and cut into cubes)",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "red onion (cut into chunks)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "bell peppers (cut into chunks)",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "yellow squash (sliced into rounds)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        }
+    ],
+    "instructions": [
+        "In a bowl, whisk together soy sauce, rice vinegar, sesame oil, maple syrup or agave nectar, minced garlic, and grated ginger to create the marinade.",
+        "Cut the pressed tofu into cubes and place them in a shallow dish. Pour half of the marinade over the tofu, ensuring each piece is coated. Let it marinate for at least 30 minutes.",
+        "While the tofu is marinating, prepare the vegetables. Thread the marinated tofu, red onion chunks, bell pepper chunks, and yellow squash rounds onto skewers, alternating between the ingredients.",
+        "Preheat the grill or grill pan over medium-high heat.",
+        "Grill the skewers for about 10–15 minutes, turning occasionally, until the tofu is golden and the vegetables are charred and tender. Baste the skewers with the remaining marinade during grilling for extra flavor.",
+        "Once cooked, remove the skewers from the grill and let them rest for a few minutes."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "High in Fiber",
+        "Grilling",
+        "Asian",
+        "Dinner",
+        "Vegetarian",
+        "Vegan",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "14g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "457mg",
+        "total_carbohydrate": "21g",
+        "fiber": "6g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tofu-and-vegetable-skewers"
+}

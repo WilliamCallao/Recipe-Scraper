@@ -1,0 +1,106 @@
+{
+    "title": "Eggs Benedict Florentine",
+    "keywords": "Vegetarian,Foodie,Breakfast and Brunch",
+    "prep_time": "PT15M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Vegetarian",
+        "Foodie",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/231-Eggs-Benedict-Florentine-91696231_04112018%20.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "baby spinach",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "eggs (poached)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "egg yolk",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "low sodium vegetable broth",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "fat-free plain yogurt",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Dash of ground black pepper",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "whole-wheat English muffins (split and lightly toasted)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        }
+    ],
+    "instructions": [
+        "To poach eggs, bring about 3 inches of water to boil in a large, shallow skillet over high heat. Turn off the heat and add eggs at once by breaking them directly into the water. Immediately cover pan with a tight-fitting lid. Allow eggs to cook undisturbed until done as desired, about 4 minutes. Remove the eggs with a perforated spatula or large slotted spoon and drain on paper towels.",
+        "Add the cooking spray and oil to a sauté pan over medium heat. Sauté the spinach until wilted. Stir in the garlic and sauté 1 additional minute.",
+        "Prepare a double boiler with a heat-proof bowl. Add the egg yolk, lemon juice, and vegetable broth, whisking constantly until hot but not curdled. Remove from heat and whisk in yogurt, salt (optional), and pepper.",
+        "Top each English muffin half with 1/4 of spinach mixture, one poached egg, and 2 Tbsps. sauce."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "High in Fiber",
+        "French",
+        "Comfort Food",
+        "Vegetarian",
+        "Foodie",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "8g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "230mg",
+        "sodium": "330mg",
+        "total_carbohydrate": "16g",
+        "fiber": "5g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/eggs-benedict-florentine"
+}

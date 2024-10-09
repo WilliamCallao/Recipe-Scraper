@@ -1,0 +1,101 @@
+{
+    "title": "Blueberry Almond Pancakes",
+    "keywords": "Breakfast and Brunch,Gluten-Free",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1661-diabetic-breakfast-blueberry-almond-pancakes_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "egg whites",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "light ricotta cheese",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "unsweetened vanilla almond milk",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "large ripe banana",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lemon (juiced and zested)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "almond flour",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "ground flax seed",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "baking powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "blueberries",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Add the eggs, egg whites, ricotta cheese, vanilla, almond milk, banana, lemon juice, and lemon zest to a blender. Blend until smooth.",
+        "In a small bowl, combine the almond flour, ground flax seed, and baking powder. Add the dry mixture to the liquid mixture in the blender and blend until smooth.",
+        "Coat a nonstick saute pan with cooking spray and place over medium heat. Scoop a scant 1/3 cup of the pancake batter into the pan and top with 4-5 blueberries. Let cook until the edges begin to brown (2-3 minutes); then flip the pancake to continue to cook an additional 2-3 minutes. Remove from the pan and repeat the process for the remaining 5 pancakes."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Breakfast and Brunch",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "16g",
+        "saturated_fat": "2.6g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "16g",
+        "fiber": "6g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/blueberry-almond-pancakes"
+}

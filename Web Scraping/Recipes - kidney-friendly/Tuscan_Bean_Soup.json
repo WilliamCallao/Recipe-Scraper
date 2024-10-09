@@ -1,0 +1,97 @@
+{
+    "title": "Tuscan Bean Soup",
+    "keywords": "Main Dish,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT28M",
+    "categories": [
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_890_TuscanBeanSoup_PerfectComfortCollection_022618.jpg",
+    "servings": "9 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "onion(s) (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "celery (diced)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "carrot(s) (diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "fresh rosemary (minced)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "chicken stock (low-sodium)",
+            "us_amount": "5 cup",
+            "metric_amount": "1 l 183 ml"
+        },
+        {
+            "name": "tomato(es) (chopped)",
+            "us_amount": "1 (14-ounce) can",
+            "metric_amount": "1 (14-ounce) can"
+        },
+        {
+            "name": "chickpeas (garbanzo beans) (rinsed and drained)",
+            "us_amount": "2 (16-ounce) cans",
+            "metric_amount": "2 (16-ounce) cans"
+        },
+        {
+            "name": "basil (minced)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        }
+    ],
+    "instructions": [
+        "In a saucepot over medium heat, heat the olive oil. Add the onions, celery, and carrots and sauté for 5 minutes. Add the garlic and rosemary and sauté 1 minute. Add the remaining ingredients, except the fresh basil and vinegar. Bring to a boil. Reduce heat and simmer, partially covered for 20 minutes.",
+        "Add the vinegar and basil and cook for 2 minutes. Top each bowl with fresh grated Parmesan cheese, if desired."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Italian",
+        "Comfort Food",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "3g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "22g",
+        "fiber": "6g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tuscan-bean-soup"
+}

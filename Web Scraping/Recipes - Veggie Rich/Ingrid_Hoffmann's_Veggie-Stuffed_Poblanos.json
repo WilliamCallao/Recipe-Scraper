@@ -1,0 +1,94 @@
+{
+    "title": "Ingrid Hoffmann's Veggie-Stuffed Poblanos",
+    "keywords": "Dinner,Vegetarian,Main Dish",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Vegetarian",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1659-diabetic-vegetable-stuffed-poblano_latin-comfort-foods_092618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "large poblano peppers",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "white (button) mushrooms (coarsely chopped)",
+            "us_amount": "1 package",
+            "metric_amount": "1 package"
+        },
+        {
+            "name": "carrots (shredded)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "green onion (scallion) (thinly sliced)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "chopped fresh basil leaves, or 2 Tsps. dried basil leaves (chopped)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "queso fresco (crumbled)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the broiler. Line a broiler pan with foil. Lightly spray the foil with nonstick spray. Place the poblanos on the pan and broil, 4 inches from the heat, turning occasionally, until the poblanos are tender and slightly charred in spots, about 8 minutes.",
+        "Place the poblanos in a zip-close plastic bag; squeeze out the air and seal the bag. Let stand 15 minutes. Leave the broiler on.",
+        "Heat the oil in a large nonstick skillet over medium-high heat. Add the mushrooms, carrots, scallions, garlic, and salt and cook, stirring occasionally, until the vegetables are tender, about 8 minutes. Remove from the heat. Stir in the basil until well mixed.",
+        "Meanwhile, peal the poblanos. Make one slit to create a pocket and remove the seeds. Stuff each pepper with one-quarter of the mushroom mixture and top with 1 Tbsp of cheese.",
+        "Broil the stuffed peppers, 4 inches from the heat, until the filling is hot and the cheese begins to melt, about 4 minutes."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Latin American",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Vegetarian",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "6g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0.1g",
+        "cholesterol": "5mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "13g",
+        "fiber": "3g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ingrid-hoffmanns-veggie-stuffed-poblanos"
+}

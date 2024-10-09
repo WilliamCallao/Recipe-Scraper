@@ -1,0 +1,107 @@
+{
+    "title": "Low Carb Apple Spice Muffins",
+    "keywords": "Breakfast and Brunch,Foodie,Vegetarian,Snacks,Gluten-Free",
+    "prep_time": "PT8M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2066-diabetic-low-carb-apple-spice-muffins_low-carb-brissette_050721.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "avocado oil cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "almond flour",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "coconut flour",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "erythritol or other sugar substitute",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "baking powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "ground nutmeg",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ground cloves",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "avocado oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "large eggs",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "unsweetened vanilla almond milk",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "small apple (peeled, cored, and finely diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Preheat your oven to 350 degrees F. Spray a muffin tin with cooking spray.",
+        "In a medium bowl, combine the almond flour, coconut flour, erythritol, baking powder, cinnamon, nutmeg, cloves, salt. In another medium bowl, combine the oil, eggs, and almond milk.",
+        "Pour the wet ingredients into the dry ingredients and mix. Add the apple and stir.",
+        "Fill the muffin tins. Bake for 20-25 minutes or until a fork or toothpick comes out clean.",
+        "To freeze: let the muffins cool completely, then remove them from the muffin pan. Arrange them in a single layer on a sheet pan and freeze for at least 2 hours. Once they are frozen solid, store them together in a freezer-safe ziptop bag. Or, wrap each muffin well in aluminum foil to store individually."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Breakfast and Brunch",
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "16g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "115mg",
+        "total_carbohydrate": "9g",
+        "fiber": "4g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/low-carb-apple-spice-muffins"
+}

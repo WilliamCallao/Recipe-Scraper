@@ -1,0 +1,60 @@
+{
+    "title": "Hummus & Red Pepper Celery Logs",
+    "keywords": "Easy Pantry Recipes,Quick & Easy,Snacks,Vegan,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Quick & Easy",
+        "Snacks",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2040-diabetic-Hummus-Red-Pepper-Celery-Logs_DaVita_040821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "celery",
+            "us_amount": "4 ribs",
+            "metric_amount": "4 ribs"
+        },
+        {
+            "name": "hummus",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "red bell pepper (cut into 1/4-inch square pieces)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        }
+    ],
+    "instructions": [
+        "Fill each celery rib with 1 tablespoon of hummus, then cut each rib into 3 equal pieces. Place 2 pieces of red bell pepper on each piece of celery."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Kid Friendly",
+        "Easy Pantry Recipes",
+        "Quick & Easy",
+        "Snacks",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "40",
+        "total_fat": "2g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "90mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1.6g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/hummus-red-pepper-celery-logs"
+}

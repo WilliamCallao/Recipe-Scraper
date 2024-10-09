@@ -1,0 +1,82 @@
+{
+    "title": "Arugula, Pear, Walnut & Pecorino Salad",
+    "keywords": "Lunch,Salads,Sides",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Salads",
+        "Sides"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/RecId_608_Arugula%2C%20Pear%2C%20Walnut%20and%20Pecorino%20Salad_HealthyHome_022618.jpg",
+        "Pear",
+        "Walnut & Pecorino Salad\" loading=\"lazy\" />"
+    ],
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "arugula",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "pear",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "walnut halves",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Pecorino Romano cheese (cold (only 1/2 ounce used))",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Place the arugula in a large salad bowl. Slice the pear as thinly as possible and place on top of the arugula. Sprinkle with walnut halves. Using a vegetable peeler, shave 1/2 ounce of the Pecorino over the salad bowl.",
+        "Sprinkle balsamic vinegar over the salad. Sprinkle extra virgin olive oil over the salad. Add pepper. Toss well. Serve."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Veggie Rich",
+        "Italian",
+        "Lunch",
+        "Salads",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "105",
+        "total_fat": "8g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "55mg",
+        "total_carbohydrate": "7g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/arugula-pear-walnut-pecorino-salad"
+}

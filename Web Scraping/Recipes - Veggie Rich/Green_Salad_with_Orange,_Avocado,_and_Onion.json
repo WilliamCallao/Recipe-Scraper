@@ -1,0 +1,109 @@
+{
+    "title": "Green Salad with Orange, Avocado, and Onion",
+    "keywords": "Vegetarian,Vegan,Sides,Salads,Quick & Easy,Lunch,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Salads",
+        "Quick & Easy",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/1906-diabetic-green-salad-orange-avocado-onion_create-your-plate_022020.jpg",
+        "Avocado",
+        "and Onion\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "lime juice",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "red wine vinegar",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "zero-calorie sweetener (such as Truvia or Splenda)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "oranges",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "mixed greens",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "avocado (pitted and flesh cubed)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "red onion (chopped)",
+            "us_amount": "1/4 small",
+            "metric_amount": "1/4 small"
+        },
+        {
+            "name": "chopped fresh cilantro",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "In a small bowl, whisk together the lime juice, olive oil, red wine vinegar, sweetener, kosher salt, and black pepper.",
+        "Remove the peel and the white pith from around the oranges. Using a paring knife, cut in between the membranes to release the orange segments, and slice them into thirds. Place the orange pieces into a medium bowl.",
+        "Add the mixed greens, avocado cubes, and red onion to the bowl and drizzle with the lime juice mixture. Toss to combine. Sprinkle with the cilantro and serve."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "High in Fiber",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Salads",
+        "Quick & Easy",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "9g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "135mg",
+        "total_carbohydrate": "14g",
+        "fiber": "5g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/green-salad-orange-avocado-and-onion"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Roasted Cabbage Steaks",
+    "keywords": "Vegetarian,Vegan,Sides,Gluten-Free,Easy Pantry Recipes,Dinner,Budget Friendly",
+    "prep_time": "PT5M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Gluten-Free",
+        "Easy Pantry Recipes",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2051-diabetic-Cabbage-Steaks_DaVita_040821.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "fresh dill (chopped)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt-free all-purpose seasoning blend, such as Ms. Dash",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "green cabbage",
+            "us_amount": "1 head",
+            "metric_amount": "1 head"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350° F. Cut cabbage head into six 1\" thick slices.",
+        "Arrange cabbage slices on a baking sheet and drizzle with olive oil. Sprinkle seasoning blend and dill weed over cabbage. Cover with aluminum foil.",
+        "Bake for 45 minutes. Remove foil and let cabbage steaks brown in oven for 15 minutes longer."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Veggie Rich",
+        "Lower Carb",
+        "Low Sodium",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Gluten-Free",
+        "Easy Pantry Recipes",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "25mg",
+        "total_carbohydrate": "9g",
+        "fiber": "3.6g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-cabbage-steaks"
+}

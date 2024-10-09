@@ -1,0 +1,81 @@
+{
+    "title": "Roasted Fall Vegetables",
+    "keywords": "Holidays & Entertaining,Quick & Easy,Sides,Vegetarian,Gluten-Free",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/452-diabetic-roasted-fall-vegetables_shutterstock-782689867_111418.jpg",
+    "servings": "11 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cauliflower (cut into small florets)",
+            "us_amount": "1 head (about 1 lb)",
+            "metric_amount": "1 head (about 1 lb)"
+        },
+        {
+            "name": "fresh Brussels sprouts (trimmed and cut in half)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "baby carrots",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400 degrees F. Spray a baking sheet with the cooking spray.",
+        "In a large bowl, mix together all ingredients. Pour the vegetables onto the prepared baking sheet.",
+        "Bake on the lower oven rack for 25 minutes."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Low Sodium",
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "4g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "140mg",
+        "total_carbohydrate": "7g",
+        "fiber": "3g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-fall-vegetables"
+}

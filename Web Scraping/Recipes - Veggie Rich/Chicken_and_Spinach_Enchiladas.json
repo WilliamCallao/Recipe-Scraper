@@ -1,0 +1,100 @@
+{
+    "title": "Chicken and Spinach Enchiladas",
+    "keywords": "Dinner,Quick & Easy,Main Dish,Lunch",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_157_Chicken_and_Spinach_Enchiladas_PNCImages_02272018.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cooked chicken breast (shredded)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "frozen spinach (chopped, thawed and drained)",
+            "us_amount": "9 oz",
+            "metric_amount": "255 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "cumin",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "fresh cilantro",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cheddar cheese (reduced-fat, shredded)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Parmesan cheese (freshly grated)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "corn tortillas (6-inch, heated)",
+            "us_amount": "10",
+            "metric_amount": "10"
+        },
+        {
+            "name": "canned green enchilada sauce",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350 degrees F. Spray a large metal or glass baking dish with cooking spray.",
+        "In a small bowl, combine spinach, garlic, cumin, cilantro, pepper, cheddar cheese, and parmesan cheese; mix to incorporate. Add shredded chicken; mix to incorporate.",
+        "Scoop 1/4 cup chicken-spinach mixture into a tortilla. Roll tortilla and place seam side down in a baking dish. Repeat process for remaining 9 tortillas.",
+        "Pour enchilada sauce over tortillas. Bake 25 minutes."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "7g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "455mg",
+        "total_carbohydrate": "29g",
+        "fiber": "5g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "23g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-and-spinach-enchiladas"
+}

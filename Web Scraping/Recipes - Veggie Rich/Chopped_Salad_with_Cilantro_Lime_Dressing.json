@@ -1,0 +1,115 @@
+{
+    "title": "Chopped Salad with Cilantro Lime Dressing",
+    "keywords": "Dinner,Holidays & Entertaining,Lunch,Salads,Vegetarian",
+    "prep_time": "PT25M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Salads",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/oct2014-chopped-salad-w.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "romaine lettuce (thinly sliced)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "carrot(s) (peeled and diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "celery stalks (diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "roma (plum) tomatoes (seeded and diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "cucumber(s) (peeled and diced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "canned black beans (drained)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cider vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lime juice (fresh)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cilantro (chopped )",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "honey",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "sea salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pumpkin or sunflower seeds (toasted)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Place the lettuce on a shallow platter. In rows, arrange the carrots, celery, plum tomatoes, cucumber, and black beans.",
+        "Prepare the salad dressing. Whisk together the cider vinegar, lime juice, cilantro, honey, salt, and pepper. Slowly drizzle in the oil, whisking to incorporate.",
+        "Drizzle on the dressing. Top with toasted pumpkin or sunflower seeds."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Salads",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "9g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "11g",
+        "fiber": "4g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chopped-salad-cilantro-lime-dressing"
+}

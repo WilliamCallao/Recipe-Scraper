@@ -1,0 +1,122 @@
+{
+    "title": "Chana (Chickpea) Masala",
+    "keywords": "Vegetarian,Vegan,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_640_ChannaMasala_IndianCuisine_050318.jpg",
+    "servings": "3 Servings",
+    "ingredients": [
+        {
+            "name": "sunflower oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cumin seeds",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "fresh ginger (peeled and grated)",
+            "us_amount": "1-inch piece",
+            "metric_amount": "1-inch piece"
+        },
+        {
+            "name": "garlic (grated)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "medium red onion (finely diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "smoked paprika (smoked)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "amchoor (mango) powder",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "ground turmeric",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground coriander",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "medium tomato (finely diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "tomato paste",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "chickpeas (garbanzo beans) (drained and rinsed)",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "Juice of 1/2 lemon",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "finely minced cilantro leaves",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Heat oil in a heavy-bottomed pan over medium-high heat and add the cumin seeds. When seeds start to splutter, add the ginger and garlic and sauté for 1 minute. Add onion and sauté until the onion is golden brown, about 2 minutes.",
+        "Add the paprika, amchoor powder, turmeric, coriander, tomato, and tomato paste to the onion mixture. Reduce heat to medium and saute, stirring constantly, until the masala comes together, about 2 minutes.",
+        "Add chickpeas and stir to coat in the masala. Add 1 cup / 240 mL water and mix well. Simmer for 20 minutes.",
+        "Once the sauce thickens, remove from heat and add lemon juice, salt, and the cilantro. Serve hot."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Indian",
+        "Vegetarian",
+        "Vegan",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "11g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "26g",
+        "fiber": "6g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chana-chickpea-masala"
+}

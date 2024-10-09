@@ -1,0 +1,112 @@
+{
+    "title": "Chicken and Wild Rice Soup",
+    "keywords": "Dinner,Lunch,Quick & Easy",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/mar2014-chicken-wild-rice.jpg",
+    "servings": "9 Servings",
+    "ingredients": [
+        {
+            "name": "margarine (trans-fat-free)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "medium onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "carrot(s) (diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "celery (diced)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "white (button) mushrooms (diced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "low sodium chicken broth (fat-free, reduced-sodium)",
+            "us_amount": "44 oz",
+            "metric_amount": "1 l 245 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "dried thyme (dried)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Cornstarch",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cold water",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "wild rice",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cooked chicken (diced)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "Melt the margarine in a large soup pot over medium-high heat. Add the onion and sauté for 3 minutes or until clear. Add the carrots, celery, and mushrooms, and sauté for 5 minutes.",
+        "Add the chicken broth, water, thyme, black pepper, and salt.",
+        "In a small cup, mix together the corn starch and 1 Tbsp. cold water. Add the mixture to the soup.",
+        "Bring to a boil and stir in the rice.",
+        "Reduce heat, cover, and simmer for 45 minutes. Add the cooked chicken and stir well."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "2g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "395mg",
+        "total_carbohydrate": "15g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-and-wild-rice-soup"
+}

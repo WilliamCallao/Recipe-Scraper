@@ -1,0 +1,118 @@
+{
+    "title": "Cowboy Caviar",
+    "keywords": "Sides,Snacks",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Sides",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-08/61024_splenda_dfh_779x590_cowboycaviar.jpg",
+    "servings": "20 Servings",
+    "ingredients": [
+        {
+            "name": "black beans (15 ounces, drained & rinsed)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "corn (7.5 ounces, drained)",
+            "us_amount": "1/2 can",
+            "metric_amount": "1/2 can"
+        },
+        {
+            "name": "white corn (7.5 ounces, drained)",
+            "us_amount": "1/2 can",
+            "metric_amount": "1/2 can"
+        },
+        {
+            "name": "kidney beans (15 ounces can, drained & rinsed)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "cherry tomatoes (halved)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "red onion (diced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "bell peppers (diced)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "jalapeño pepper (diced)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "avocado (diced)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "Splenda® Stevia Sweetener (for the dressing)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "red wine vinegar (for the dressing)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "lime (for the dressing, zest and juice)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "ground cumin (for the dressing)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "chili powder (for the dressing)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "garlic (for the dressing, grated)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "In a large bowl, add beans, corn, kidney beans, black eyed peas, tomatoes, onion, pepper, and jalapeño.  Gently toss together.",
+        "In another bowl whisk dressing.  Pour over Cowboy Caviar mixture.  Refrigerate until serving.",
+        "Just before serving, fold in avocado.  Enjoy!"
+    ],
+    "tags": [
+        "Mexican/Southwestern",
+        "Sides",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "2g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "45mg",
+        "total_carbohydrate": "25g",
+        "fiber": "9g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cowboy-caviar"
+}

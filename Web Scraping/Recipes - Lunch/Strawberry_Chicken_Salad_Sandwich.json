@@ -1,0 +1,86 @@
+{
+    "title": "Strawberry Chicken Salad Sandwich",
+    "keywords": "Dinner,Lunch,Main Dish,Sandwiches",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Sandwiches"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/strawberry-chicken-salad-sandwich.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "light mayonnaise",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "lemon (juiced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "honey",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Poppy Seeds",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cooked chicken (shredded)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Fresh Strawberries (diced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "celery (chopped)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "green onion (scallion) (chopped)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "whole wheat sandwich thins",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "Mix mayonnaise, lemon juice, honey, and poppy seeds together in a medium bowl.",
+        "Add chicken, strawberries, celery, green onions. Toss to combine.",
+        "Season with salt and pepper, if desired."
+    ],
+    "tags": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Sandwiches"
+    ],
+    "nutrition": {
+        "calories": "330",
+        "total_fat": "13g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "460mg",
+        "total_carbohydrate": "30g",
+        "fiber": "7g",
+        "sugar": "8g",
+        "added_sugar": "2g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/strawberry-chicken-salad-sandwich"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Creamy Cheesy Cauliflower",
+    "keywords": "Dinner,Holidays & Entertaining,Sides,Vegetarian",
+    "prep_time": "PT25M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Dinner",
+        "Holidays & Entertaining",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/nov_creamy_cheesy_caul_279x200.jpg",
+    "servings": "16 Servings",
+    "ingredients": [
+        {
+            "name": "cauliflower florets (coarsely chopped, about 2 heads)",
+            "us_amount": "10 cup",
+            "metric_amount": "2 l 366 ml"
+        },
+        {
+            "name": "butter",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "large onions (chopped)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "all-purpose flour",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "1% milk",
+            "us_amount": "3 1/2 cup",
+            "metric_amount": "828 ml"
+        },
+        {
+            "name": "salt and pepper to taste",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Parmesan cheese (freshly grated)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "parsley (finely minced)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        }
+    ],
+    "instructions": [
+        "Add 4 quarts of water to a 6-quart saucepan. Bring the water to a boil. Add the cauliflower, and cook for about 10 to 12 minutes or until tender. Drain. Set aside.",
+        "In a large skillet, melt the butter over medium-high heat. Add the onions and garlic, and sauté for 6 to 7 minutes until soft, making sure the onions and garlic do not turn brown. Combine the flour and milk, and whisk until very smooth. Add to the onions and garlic, bring to a simmer, and cook for 2 minutes. Season with salt and pepper. Whisk in the cheese, and fold in the cauliflower. Garnish with parsley."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Kid Friendly",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "2.5g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "80mg",
+        "total_carbohydrate": "12g",
+        "fiber": "2g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/creamy-cheesy-cauliflower"
+}

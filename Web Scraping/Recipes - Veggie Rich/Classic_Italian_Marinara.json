@@ -1,0 +1,83 @@
+{
+    "title": "Classic Italian Marinara",
+    "keywords": "Sauces",
+    "prep_time": "PT7M",
+    "cook_time": "PT33M",
+    "categories": [
+        "Sauces"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_662_ClassicItalianMarinara_PerfectComfortCollection_022618.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "5 diente",
+            "metric_amount": "5 diente"
+        },
+        {
+            "name": "canned tomatoes (good-quality, preferably packed in its own juice, drained, reserve liquid)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh basil leaves with stems (sliced, or you may leave whole)",
+            "us_amount": "5",
+            "metric_amount": "5"
+        },
+        {
+            "name": "whole-wheat shaped pasta (penne, shells, fusilli)",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "Kosher Salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground red pepper flakes (optional)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Parmesan or Romano cheese (freshly grated)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Heat the olive oil and garlic in a large skillet with a lid over low heat (do not use a deep pot, you want the water to quickly evaporate and the sauce to become thick). Cook the garlic for about 6-7 minutes, but do not brown, stirring occasionally.",
+        "Meanwhile, add the drained tomatoes to a deep bowl. Crush the tomatoes with your hands until coarse. Add the tomatoes and basil to the skillet and simmer for 20-25 minutes until thick. Add some of the reserved liquid from the can of tomatoes, if necessary, if the sauce is too thick.",
+        "Meanwhile bring a 3-5-quart pot of lightly salted water (fill the pot 2/3 full) to a rolling boil. Add the pasta and stir for the first minute. Continue to cook the pasta approximately 7-8 minutes until al dente. Drain, do not rinse.",
+        "Add in the salt, pepper, and crushed red pepper, if using, to the tomato sauce. Add the pasta to the sauce, cover, and let the pasta sit in the sauce for 1-2 minutes. Add the pasta to a warmed bowl and sprinkle with cheese. (The sauce can also be frozen. Freeze in a quart container and store for 3-4 months.)"
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Italian",
+        "Sauces"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "25g",
+        "fiber": "3g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/classic-italian-marinara"
+}

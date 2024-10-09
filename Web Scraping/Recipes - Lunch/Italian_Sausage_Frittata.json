@@ -1,0 +1,110 @@
+{
+    "title": "Italian Sausage Frittata",
+    "keywords": "Dinner,Lunch,Breakfast and Brunch,Quick & Easy,Main Dish,Cooking for 1 or 2",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Breakfast and Brunch",
+        "Quick & Easy",
+        "Main Dish",
+        "Cooking for 1 or 2"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/323-Italian-Sausage-Frittata-Diabetic_481358922_04112018%20.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "Italian turkey sausage",
+            "us_amount": "1/4 lbs",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "russet or baking potatoes (cut into 1/2-inch cubes (about 1 1/2 cups))",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "onion(s) (sliced)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "ready-to-eat spinach (washed)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "sliced baby bella mushrooms",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "large eggs",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "large egg whites",
+            "us_amount": "5",
+            "metric_amount": "5"
+        },
+        {
+            "name": "milk (non-fat)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "fresh basil",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the broiler. Cut the sausage into 1/2-inch slices.",
+        "Heat the oil in a medium, ovenproof, nonstick skillet over medium-high heat. Add the potatoes and sauté 3 minutes. Add the sausage, onion, and spinach and sauté 3 minutes, stirring several times. Add the mushrooms and garlic. Continue to cook 1 to 2 minutes.",
+        "Meanwhile, whish the whole eggs, egg whites, and milk together. Tear the basil into small pieces and add to the egg mixture along with the black pepper.",
+        "Pour egg mixture into the skillet and gently stir vegetables to make sure the egg mixture spreads throughout the pan. Press the sausage and vegetables into the egg mixture. Turn the heat to low and cook 10 minutes. Frittata will be mostly cooked through.",
+        "Place the frittata under the broiler for 1 to 2 minutes to brown. Watch to make sure the top doesn’t brown too much.",
+        "To serve, loosen frittata around edges, cut in half, and slip each half onto an individual plate."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Italian",
+        "Dinner",
+        "Lunch",
+        "Breakfast and Brunch",
+        "Quick & Easy",
+        "Main Dish",
+        "Cooking for 1 or 2"
+    ],
+    "nutrition": {
+        "calories": "420",
+        "total_fat": "15g",
+        "saturated_fat": "3.5g",
+        "trans_fat": "0g",
+        "cholesterol": "230mg",
+        "sodium": "600mg",
+        "total_carbohydrate": "45g",
+        "fiber": "6g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "35g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/italian-sausage-frittata"
+}

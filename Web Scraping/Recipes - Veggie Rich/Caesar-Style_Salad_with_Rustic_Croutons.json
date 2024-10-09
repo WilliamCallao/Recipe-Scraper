@@ -1,0 +1,73 @@
+{
+    "title": "Caesar-Style Salad with Rustic Croutons",
+    "keywords": "Sides,Salads,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Sides",
+        "Salads",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_142_CaesarSaladRustic_465795565_050118.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "whole wheat bread or French bread (torn into 1/2-inch pieces)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "reduced-fat mayonnaise",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "fat-free or low-fat buttermilk",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Parmesan cheese (grated)",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "prepackaged mixed greens",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350 degrees F.",
+        "In a small mixing bowl, whisk together the buttermilk, mayonnaise, garlic powder, salt (optional) and pepper (optional) to taste. Cover with plastic wrap and refrigerate at least 1 hour in order to thicken slightly.",
+        "Meanwhile, place the bread pieces on a baking sheet and bake 8 minutes or until slightly firm. Remove from heat and cool slightly.",
+        "Place mixed greens in a salad bowl, add dressing and cheese, and toss gently, yet thoroughly to coat. Season lightly with salt and pepper, if desired. Add croutons, toss gently and serve immediately.",
+        "*Note: Optional salt and pepper is not included in the nutrition information above."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Italian",
+        "Sides",
+        "Salads",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "95",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "215mg",
+        "total_carbohydrate": "12g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/caesar-style-salad-rustic-croutons"
+}

@@ -1,0 +1,94 @@
+{
+    "title": "Ingrid Hoffmann's Carnitas Baked Chimichangas",
+    "keywords": "Dinner,Main Dish",
+    "prep_time": "PT5M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1655-diabetic-carnitas-baked-chimichanga_latin-comfort-foods_092618_1021x779.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Nonstick olive oil spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Kosher Salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pork tenderloin",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "refried beans",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "reduced-fat shredded cheddar cheese",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "whole wheat flour tortillas (6-inch)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        }
+    ],
+    "instructions": [
+        "Line a broiler pan with foil. Lightly spray with nonstick spray and preheat the broiler.",
+        "In a small bowl, mix the cumin, chili powder, salt, ground pepper, and oil. Rub the spice mixture all over the pork. Place the pork in the pan and broil, 6 inches from the source of heat, turning occasionally, until an instant-read thermometer reads 145 degrees F when inserted into the thickest part of the pork, about 15 minutes. Transfer the pan to a wire rack and let the pork rest for 10 minutes.",
+        "Preheat the oven to 400 degrees F.",
+        "Chop the tenderloin and pour the juices from the baking sheet over it. In a medium bowl, mix the pork, refried beans, and cheddar cheese.",
+        "Wrap the tortillas in a damp paper bowl and microwave for 30 seconds. Fill each tortilla with scant 1/2 cup of the pork mixture. Fold like a burrito.",
+        "Preheat a baking sheet for 5 minutes in the oven. Remove with oven mittens and place the chimichangas, seam-side down, on the baking sheet. Spray with nonstick spray. Bake for 15 minutes, until golden brown."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "7g",
+        "saturated_fat": "2.6g",
+        "trans_fat": "0g",
+        "cholesterol": "35mg",
+        "sodium": "430mg",
+        "total_carbohydrate": "19g",
+        "fiber": "4g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ingrid-hoffmanns-carnitas-baked-chimichangas"
+}

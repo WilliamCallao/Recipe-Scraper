@@ -1,0 +1,84 @@
+{
+    "title": "Beet and Arugula Salad with Feta",
+    "keywords": "Cooking for 1 or 2,Dinner,Lunch,Salads,Sides,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Lunch",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/feb13_fillet_rosemary_istock16564190_279x200_1.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "medium beets (trimmed, peeled, each cut into eighths)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "olive oil (divided use)",
+            "us_amount": "3 tsp",
+            "metric_amount": "15 g"
+        },
+        {
+            "name": "pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "white wine vinegar",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "arugula (packed about 1 1/2 cups)",
+            "us_amount": "1 1/2 oz",
+            "metric_amount": "42 ml"
+        },
+        {
+            "name": "feta cheese (fat-free, crumbled)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400 degrees F.",
+        "Put the beets in a single layer on a rimmed baking sheet. Drizzle the beets with 1 Tsp. oil. Sprinkle the pepper over the beets.",
+        "Roast for 20-25 minutes, or until tender when tested with a fork. Let cook on the baking sheet for 10 minutes.",
+        "Meanwhile, in a large bowl, whisk together the remaining 2 Tsps.. oil, vinegar, and mustard. Add the arugula, swirling the leaves in the dressing (tongs work well for this). Add the cooled beets. Sprinkle with the feta. Toss to combine.",
+        "Cook’s Tip: Most recipes advise roasting beets whole, then peeling them after cooking. To cut cooking time considerably, peel them raw (a vegetable peeler works well) and cut them into quarters or eighths before roasting. Beets can stain clothes, so you may want to wear an apron and a pair of disposable plastic gloves before handling the beets."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Veggie Rich",
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Lunch",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "105",
+        "total_fat": "7g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "280mg",
+        "total_carbohydrate": "8g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/beet-and-arugula-salad-feta"
+}

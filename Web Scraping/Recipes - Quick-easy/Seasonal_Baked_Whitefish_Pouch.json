@@ -1,0 +1,82 @@
+{
+    "title": "Seasonal Baked Whitefish Pouch",
+    "keywords": "One Pot,Main Dish,Gluten-Free,Budget Friendly,Dinner,Quick & Easy",
+    "prep_time": "PT12M",
+    "cook_time": "PT18M",
+    "categories": [
+        "One Pot",
+        "Main Dish",
+        "Gluten-Free",
+        "Budget Friendly",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1838-diabetic-seasonal-baked-whitefish-pouch_clean-simple-ckbk_DFNovDec19_101019.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "bite-size nonstarchy vegetables, such as broccoli, peppers, yellow squash, and zucchini",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "extra virgin olive oil (divided)",
+            "us_amount": "6 tsp",
+            "metric_amount": "29 g"
+        },
+        {
+            "name": "sea salt (divided)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "white fish such as halibut or cod (divided into 4 (4-oz) fillets)",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "shallot (finely chopped, divided)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "lemon juice (divided)",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        },
+        {
+            "name": "dried herbs, such as rosemary or oregano",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 425° F. Cut a sheet of parchment paper or aluminum foil into 4 (12-inch) square pieces.",
+        "Top the right half of each square with, in order: 1 cup vegetables, 1½ tsp oil, a dash (about 1/ 16 tsp) of salt, 1 fish fillet, 1 Tbsp shallot, 1 tsp lemon juice, ¼ tsp herbs, and a dash of salt.",
+        "Fold the left side of each square over the ingredients. Seal the edges well. Place on a baking sheet. Bake for 18 minutes, until the vegetables are tender and the fish is flaky, with an internal temperature of at least 145° F.",
+        "Let the fish stand for about 5 minutes, then carefully open the pouches and serve, in or out of the pouch."
+    ],
+    "tags": [
+        "Lower Carb",
+        "One Pot",
+        "Main Dish",
+        "Gluten-Free",
+        "Budget Friendly",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "10g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "35mg",
+        "sodium": "350mg",
+        "total_carbohydrate": "6g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/seasonal-baked-whitefish-pouch"
+}

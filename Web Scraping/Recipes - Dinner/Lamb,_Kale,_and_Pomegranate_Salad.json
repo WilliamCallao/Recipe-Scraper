@@ -1,0 +1,136 @@
+{
+    "title": "Lamb, Kale, and Pomegranate Salad",
+    "keywords": "Salads,Main Dish,Holidays & Entertaining,Foodie,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Salads",
+        "Main Dish",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/1790-diabetic-lamb-kale-pomegranate-salad_MediterraneanCkbk_042419.jpg",
+        "Kale",
+        "and Pomegranate Salad\" loading=\"lazy\" />"
+    ],
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "pomegranate seeds or sliced red grapes",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fennel bulb (thinly sliced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "baby kale",
+            "us_amount": "5 cup",
+            "metric_amount": "1 l 183 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pomegranate balsamic vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "leg of lamb (deboned, butterflied, and trimmed of visible fat)",
+            "us_amount": "1 (about 4-lb)",
+            "metric_amount": "1 (about 4-lb)"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ground ginger",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic (chopped)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "pomegranate juice",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "fresh green beans (blanched)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "Gorgonzola cheese",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "walnut halves (toasted)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Combine the pomegranate juice, 3 tbsp olive oil, garlic, ginger, cinnamon, cumin, salt, and pepper in a large resealable plastic bag. Add lamb and place in refrigerator for 8 hours or overnight.",
+        "Remove lamb from marinade, pat dry, and set on tray. On gas grill, turn all burners to high, close lid, and heat until hot, about 15 minutes. Scrape grates clean and brush with oil.",
+        "Grill lamb, fat-side down, over medium-high heat for 25–35 minutes total depending on desired doneness, turning halfway through cooking. Aim for an internal temperature of about 145°F for medium-rare and 160°F for medium. Remove from grill and loosely cover with foil. Let rest about 15 minutes, then thinly slice. While resting, prepare salad.",
+        "In large bowl, whisk together the mustard, vinegar, and 1/4 cup olive oil. Season with salt and pepper (if desired). Add kale, fennel, pomegranate seeds or grapes, and toss to coat. Arrange dressed salad on platter and top with sliced lamb, green beans, gorgonzola cheese, and toasted walnuts."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Grilling",
+        "Mediterranean",
+        "Salads",
+        "Main Dish",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "380",
+        "total_fat": "21g",
+        "saturated_fat": "5.1g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "240mg",
+        "total_carbohydrate": "16g",
+        "fiber": "5g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "32g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/lamb-kale-and-pomegranate-salad"
+}

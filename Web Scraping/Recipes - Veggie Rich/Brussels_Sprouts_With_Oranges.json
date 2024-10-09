@@ -1,0 +1,85 @@
+{
+    "title": "Brussels Sprouts With Oranges",
+    "keywords": "Dinner,Foodie,Holidays & Entertaining,Lunch,Sides,Vegan,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/brussels-sprouts-oranges-Nov16.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "brussels sprouts (trimmed and halved)",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "shallots (peeled and thinly sliced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "olive oil (divided)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "walnuts (coarsely chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "orange",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Zest the orange and add the zest to a small ramekin. Peel and section the orange, cutting each section in half; set aside. Add the walnuts to a small skillet and toast over medium heat for 3 to 4 minutes, or until lightly browned.",
+        "In a large skillet over medium-high heat, heat 1 Tbsp of the oil. Add the shallots and sauté for 4 to 5 minutes, until slightly browned. Remove the shallots with a slotted spoon; set aside. Add the remaining oil to the pan and then add the sprouts. Sauté the sprouts for 10 to 15 minutes, until browned and cooked through. Add the orange sections, orange zest, and sautéed shallots and cook for 2 minutes.",
+        "Season the sprouts with salt and pepper and place in a large serving bowl. Top with the walnuts and serve."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "4g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "65mg",
+        "total_carbohydrate": "8g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/brussels-sprouts-oranges"
+}

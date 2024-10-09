@@ -1,0 +1,89 @@
+{
+    "title": "Power Granola",
+    "keywords": "Foodie,Vegetarian,Snacks,Breakfast and Brunch,Dessert",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Breakfast and Brunch",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/414-Diabetic-power-granola_AdobeStock_182490289_022621.jpg",
+    "servings": "22 Servings",
+    "ingredients": [
+        {
+            "name": "unsalted cashews (chopped)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "unsalted raw pumpkin seeds (pepitas)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "unsalted pecans (chopped )",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "unsalted sunflower seeds",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "old-fashioned rolled oats",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "peanut butter",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "low-calorie brown sugar substitute",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat an oven to 300 degrees.",
+        "Line a baking sheet with parchment paper or foil. Coat with non-stick cooking spray and set aside.",
+        "In a bowl, combine cashews, pumpkin seeds, pecans, sunflower seeds and oats. Set aside.",
+        "In the microwave, melt peanut butter, oil, and Splenda Brown Sugar together. Stir to combine.",
+        "Pour peanut butter mixture over oat mixture and stir to coat.",
+        "Spread granola in a packed, single layer onto prepared baking sheet. Bake for 40-45 minutes, stirring every 10 minutes to ensure even browning.",
+        "Remove from oven and let cool completely. Break up granola and store in an air-tight container."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Low Sodium",
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Breakfast and Brunch",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "17g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "8g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/power-granola"
+}

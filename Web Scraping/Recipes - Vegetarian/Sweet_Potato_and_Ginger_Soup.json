@@ -1,0 +1,62 @@
+{
+    "title": "Sweet Potato and Ginger Soup",
+    "keywords": "Vegetarian,Sides,Gluten-Free,Dinner,Lunch",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Gluten-Free",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/oct_sweet_pot_istock17842183_279x200.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "large sweet potatoes (peeled and diced)",
+            "us_amount": "3 whole",
+            "metric_amount": "3 whole"
+        },
+        {
+            "name": "filtered water",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "fresh ginger (grated and juiced (about 2 Tbsps.))",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "salt (low-sodium)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "In a medium pot over medium heat, add the sweet potatoes, water, ginger juice, and salt. Cook until sweet potatoes are tender.",
+        "Working in batches, transfer potatoes and cooking water to a blender or food processor and process to a smooth consistency."
+    ],
+    "tags": [
+        "Vegetarian",
+        "Sides",
+        "Gluten-Free",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "85",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "165mg",
+        "total_carbohydrate": "19g",
+        "fiber": "3g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-potato-and-ginger-soup"
+}

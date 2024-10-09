@@ -1,0 +1,91 @@
+{
+    "title": "Easy Spinach Ricotta Enchiladas",
+    "keywords": "Dinner,Meal Kit Recipes,Quick & Easy,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Meal Kit Recipes",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Easy%20Spinach%20Ricotta%20Enchilada.png",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "yellow onion (diced)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "frozen spinach (thawed and excess water squeezed)",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "low-fat ricotta cheese",
+            "us_amount": "15 oz",
+            "metric_amount": "425 ml"
+        },
+        {
+            "name": "corn tortillas (6 inches)",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "canned red enchilada sauce",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "Monterey jack cheese (shredded)",
+            "us_amount": "3 oz",
+            "metric_amount": "85 ml"
+        },
+        {
+            "name": "green onion (scallion) (sliced)",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400 degrees F.",
+        "Heat a large skillet over medium heat. Add oil, onion, and pepper. Cook, stirring occasionally, until onion softened, 4–5 minutes.",
+        "Transfer cooked onions to a large bowl. Add spinach and ricotta and stir to combine.",
+        "Wrap the tortillas in a wet paper towel and microwave for 30 seconds.",
+        "Spray a baking dish with cooking spray. Divide spinach filling equally between tortillas. Roll and place seam side down in the baking dish.",
+        "Pour enchilada sauce over the tortillas. Top with shredded cheese. Bake for 10–15 minutes, until the cheese is melted and bubbly.",
+        "Divide enchiladas between plates and top with green onions, and a dollop of Greek yogurt if desired."
+    ],
+    "tags": [
+        "Mexican/Southwestern",
+        "Dinner",
+        "Meal Kit Recipes",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "300",
+        "total_fat": "12g",
+        "saturated_fat": "4.9g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "560mg",
+        "total_carbohydrate": "37g",
+        "fiber": "6g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/easy-spinach-ricotta-enchiladas"
+}

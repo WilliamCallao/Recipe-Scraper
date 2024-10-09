@@ -1,0 +1,143 @@
+{
+    "title": "Grilled Seafood and Quinoa Salad with Mango and Avocado",
+    "keywords": "Dinner,Lunch,Main Dish,Salads",
+    "prep_time": "PT30M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Salads"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2016-06-grilled-seafood-and-quinoa-salad-with-mango-and-avocado.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "cayenne pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "quinoa (dry, rinsed well)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "medium shrimp (peeled and devined)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "scallops",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "Olive oil (for marinating and brushing)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cooked black beans or edamame",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "jalapeño pepper (stemmed and finely chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "red bell pepper (chopped)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "roma (plum) tomatoes (seeded and chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "small scallions (chopped)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "mango (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "avocado (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cilantro leaves (chopped)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Juice of 1 lime",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lime juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "orange juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "honey",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "extra virgin olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Sea salt, to taste",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Combine all citrus dressing ingredients well in a small mixing bowl.",
+        "Cook the quinoa according to directions in water. Fluff quinoa with a fork. If any liquid remains, continue simmering until it is absorbed. Let the quinoa cool completely.",
+        "Toss the shrimp and scallops with the olive oil in a bowl.",
+        "Heat a grill pan or sauté pan over medium-high heat. Add the shrimp and scallops and sear until pink and just cooked through, about 2 minutes per side. Remove from the pan and let cool.",
+        "Place the cooled quinoa in a large bowl and add the shrimp and scallops, beans, jalapeno, bell pepper, tomato, scallions, mango and avocado. Pour the dressing over the mixture and toss gently to combine.",
+        "Divide the salad among four plates or bowls and scatter cilantro leaves over each."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Grilling",
+        "Seafood",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "470",
+        "total_fat": "16g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "110mg",
+        "sodium": "315mg",
+        "total_carbohydrate": "56g",
+        "fiber": "10g",
+        "sugar": "16g",
+        "added_sugar": "0g",
+        "protein": "30g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-seafood-and-quinoa-salad-mango-and-avocado"
+}

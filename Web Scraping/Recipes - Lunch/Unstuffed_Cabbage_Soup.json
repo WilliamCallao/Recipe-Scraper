@@ -1,0 +1,92 @@
+{
+    "title": "Unstuffed Cabbage Soup",
+    "keywords": "Lunch,Dinner,Quick & Easy,Sides,Budget Friendly",
+    "prep_time": "PT5M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Lunch",
+        "Dinner",
+        "Quick & Easy",
+        "Sides",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_572_Unstuffed_Cabbage_Soup_PNCImages_03012018.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "medium onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lean ground turkey",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "green cabbage (chopped)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "canned tomatoes (crushed)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "unsalted chicken broth",
+            "us_amount": "32 oz",
+            "metric_amount": "906 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cayenne pepper (optional)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "instant brown rice",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Heat the olive oil in a large soup pot over medium-high heat. Add the onion and sauté 2-3 minutes or until the onions turn clear. Add the ground turkey and cook for 5-7 minutes until the turkey browns. Add the cabbage and cook for an additional 4 minutes.",
+        "Add all remaining ingredients, except for the brown rice. Simmer the soup for 7 minutes. Bring the soup to a boil; add the brown rice. Reduce the heat to a simmer and cover the pot for 5 minutes."
+    ],
+    "tags": [
+        "Lunch",
+        "Dinner",
+        "Quick & Easy",
+        "Sides",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "255",
+        "total_fat": "10g",
+        "saturated_fat": "2.7g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "285mg",
+        "total_carbohydrate": "23g",
+        "fiber": "4g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/unstuffed-cabbage-soup"
+}

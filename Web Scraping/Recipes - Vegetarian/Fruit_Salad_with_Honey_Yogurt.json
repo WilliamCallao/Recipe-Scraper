@@ -1,0 +1,78 @@
+{
+    "title": "Fruit Salad with Honey Yogurt",
+    "keywords": "Gluten-Free,Vegetarian,Snacks,Sides,Dessert,Holidays & Entertaining,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Gluten-Free",
+        "Vegetarian",
+        "Snacks",
+        "Sides",
+        "Dessert",
+        "Holidays & Entertaining",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/246-diabetic-fruit-salad-yogurt_AdobeStock82846887_012521.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "strawberries (hulled and sliced)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "watermelon (cut into small chunks)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "cantaloupe (cut into small chunks)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "green grapes",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "blueberries",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "fat-free honey-flavored Greek yogurt",
+            "us_amount": "2 (6-oz) containers",
+            "metric_amount": "2 (6-oz) containers"
+        }
+    ],
+    "instructions": [
+        "In a large bowl, mix together all fruit.",
+        "Place 1 cup fruit salad in individual bowl or parfait dish. Top each fruit salad with 1 1/2 ounces Greek yogurt."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Kid Friendly",
+        "Gluten-Free",
+        "Vegetarian",
+        "Snacks",
+        "Sides",
+        "Dessert",
+        "Holidays & Entertaining",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "25mg",
+        "total_carbohydrate": "20g",
+        "fiber": "2g",
+        "sugar": "17g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fruit-salad-honey-yogurt"
+}

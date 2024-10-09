@@ -1,0 +1,89 @@
+{
+    "title": "Tomato Basil Frittata",
+    "keywords": "Breakfast and Brunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_880_Tomato%20Basil%20Frittata_HealthyHome_022618.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "us_amount": "3 large",
+            "metric_amount": "3 large"
+        },
+        {
+            "name": "egg whites",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "fine sea salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ground black pepper or crushed red pepper flakes",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "fresh basil leaves (chopped)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "fresh oregano leaves (chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "parmigiano-reggiano cheese (grated)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "grape or cherry tomatoes (sliced)",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "cooked spaghetti",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "olive oil cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Whisk eggs and egg whites in large mixing bowl. Add salt, pepper, basil, oregano, and Parmigiano. Mix well. Add tomatoes and spaghetti and mix well.",
+        "Spray sauté pan lightly with extra virgin olive oil spray. Add egg mixture. Cook on medium-high heat about 7 minutes until the bottom is golden. Place dinner plate on top of sauté pan. Turn the pan over so that the frittata is bottom side up on the plate. Slide frittata back into the sauté pan and cook until the second side is golden, about 4-5 minutes. You can cover it to cook it more quickly.",
+        "Once done, sprinkle with grated cheese. Cover to melt cheese and keep warm. Cut into wedges and serve."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Italian",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "5g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "100mg",
+        "sodium": "335mg",
+        "total_carbohydrate": "17g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tomato-basil-frittata"
+}

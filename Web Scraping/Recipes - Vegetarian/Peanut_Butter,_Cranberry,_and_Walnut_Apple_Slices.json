@@ -1,0 +1,75 @@
+{
+    "title": "Peanut Butter, Cranberry, and Walnut Apple Slices",
+    "keywords": "Easy Pantry Recipes,Vegetarian,Vegan,No Cook,Quick & Easy,Snacks",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Vegetarian",
+        "Vegan",
+        "No Cook",
+        "Quick & Easy",
+        "Snacks"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/1903-diabetic-snack-peanut-butter-cranberry-walnnut-apples_create-your-plate_022020.jpg",
+        "Cranberry",
+        "and Walnut Apple Slices\" loading=\"lazy\" />"
+    ],
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "apples (cored and cut into 6 slices each)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "creamy peanut butter",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "dried cranberries",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "chopped walnuts",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "unsweetened coconut flakes",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Lay the 12 slices of apples on a flat surface. Spread each slice with 1 teaspoon of peanut butter.",
+        "In a small bowl, mix together the cranberries, walnuts, and coconut flakes.",
+        "Evenly sprinkle each apple with about 1 tablespoon of the cranberry mixture."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Easy Pantry Recipes",
+        "Vegetarian",
+        "Vegan",
+        "No Cook",
+        "Quick & Easy",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "9g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "50mg",
+        "total_carbohydrate": "13g",
+        "fiber": "3g",
+        "sugar": "9g",
+        "added_sugar": "3g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/peanut-butter-cranberry-and-walnut-apple-slices"
+}

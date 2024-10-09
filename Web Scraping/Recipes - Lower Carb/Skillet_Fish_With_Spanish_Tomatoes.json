@@ -1,0 +1,76 @@
+{
+    "title": "Skillet Fish With Spanish Tomatoes",
+    "keywords": "Quick & Easy,Main Dish,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_838_2Step_SkilletFishWithSpanishTomatoes_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Extra Virgin Olive Oil (divided use)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "tilapia fillets or any other lean white fish fillet (rinsed and patted dry)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "tomato(es) (no-salt-added, diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "green bell pepper (diced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "pimiento-stuffed green olives (about 12 olives, coarsely chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fresh oregano leaves (dried)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Heat 1 teaspoon oil in a large nonstick skillet over medium-high heat. Cook fish 5 minutes on each side or until it flakes with a fork. Set aside on separate plate.",
+        "Add the remaining ingredients to the skillet, reduce the heat to medium, cover, and cook 5 minutes or until thickened slightly. Spoon over fish. Serve in shallow bowls, if desired."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Comfort Food",
+        "Quick & Easy",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "175",
+        "total_fat": "7g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "300mg",
+        "total_carbohydrate": "5g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "23g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/skillet-fish-spanish-tomatoes"
+}

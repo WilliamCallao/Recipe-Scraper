@@ -1,0 +1,115 @@
+{
+    "title": "Ham and Edamame Chop Salad",
+    "keywords": "Lunch,Main Dish,Quick & Easy,Salads,Appetizers,Dinner,No Cook,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Salads",
+        "Appetizers",
+        "Dinner",
+        "No Cook",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_736_CarbControl_ChopSalad__022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "light mayonnaise",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sour cream (fat-free)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "medium garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "cider vinegar",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "dried dill (dried)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "romaine lettuce (chopped)",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        },
+        {
+            "name": "fresh shelled edamame",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "extra-lean ham (diced)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "medium cucumber (peeled and chopped)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "green bell pepper (diced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "red onion (diced)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "Swiss cheese (very thinly sliced, reduced-fat, torn in small pieces)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "large hard boiled eggs (peeled and halved)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        }
+    ],
+    "instructions": [
+        "In a small bowl, stir together the dressing ingredients.",
+        "In a large bowl, combine the salad ingredients, except the eggs. Cut the eggs in half, discard two yolk halves, and chop the remaining eggs. Add eggs to the salad with the dressing and toss until well coated."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Comfort Food",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Salads",
+        "Appetizers",
+        "Dinner",
+        "No Cook",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "9g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "530mg",
+        "total_carbohydrate": "15g",
+        "fiber": "4g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ham-and-edamame-chop-salad"
+}

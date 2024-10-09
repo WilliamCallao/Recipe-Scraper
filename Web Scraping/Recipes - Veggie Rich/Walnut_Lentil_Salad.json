@@ -1,0 +1,114 @@
+{
+    "title": "Walnut Lentil Salad",
+    "keywords": "Sides,Salads,Lunch,Gluten-Free,Foodie,Dinner,Vegetarian,Quick & Easy",
+    "prep_time": "PT20M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Sides",
+        "Salads",
+        "Lunch",
+        "Gluten-Free",
+        "Foodie",
+        "Dinner",
+        "Vegetarian",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/581-diabetic-walnut-lentil-salad_AdobeStock192364505_012521.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "water",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        },
+        {
+            "name": "lentils (can use any color)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "large lemon (Zest and juice)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced or grated)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "fresh parsley (minced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sweet curry powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "honey",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "medium orange or yellow bell pepper (seeded and diced )",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "grape tomatoes (halved)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "walnuts (toasted chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "mesclun or mixed baby field greens",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "Rinse the lentils in a fine mesh sieve under cold running water until the water runs clear.",
+        "Add the lentils and 6 cups of water to a large stock pot and bring the water to a boil. Once boiling, reduce the heat and simmer for 10 minutes. Drain the lentils, run under cold water to cool, and drain well.",
+        "In a large salad bowl, whisk together the lemon zest and juice, garlic, parsley, curry powder, honey, and olive oil.",
+        "Add the remaining ingredients and toss to coat."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "High in Fiber",
+        "Mediterranean",
+        "Sides",
+        "Salads",
+        "Lunch",
+        "Gluten-Free",
+        "Foodie",
+        "Dinner",
+        "Vegetarian",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "290",
+        "total_fat": "12g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "15mg",
+        "total_carbohydrate": "34g",
+        "fiber": "12g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/walnut-lentil-salad"
+}

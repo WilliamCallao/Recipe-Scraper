@@ -1,0 +1,81 @@
+{
+    "title": "Herb-Crusted Pork Chops",
+    "keywords": "Gluten-Free,Dinner,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Gluten-Free",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_310_Herb-Crusted_Pork%20_Chops_iStock-176061173_02282018.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "dried rosemary",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "dried oregano (dried)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "dried thyme",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pork loin boneless chops (about 1/2-inch thick)",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        }
+    ],
+    "instructions": [
+        "In a small bowl, combine rosemary, oregano, thyme, garlic powder, chili powder, and black pepper. Mix well.",
+        "Add olive oil to a large sauté pan and heat over medium-high heat. Season pork chops on both sides with herb blend.",
+        "Saute pork chops for about 5 minutes per side or until done."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Gluten-Free",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "6g",
+        "saturated_fat": "1.8g",
+        "trans_fat": "0g",
+        "cholesterol": "55mg",
+        "sodium": "70mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/herb-crusted-pork-chops"
+}

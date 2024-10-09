@@ -1,0 +1,89 @@
+{
+    "title": "Spiced Lemon Yogurt Chicken Tenders",
+    "keywords": "Quick & Easy,Main Dish,Lunch,Dinner",
+    "prep_time": "PT8H",
+    "cook_time": "PT6M",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_852_2Step_SpicedLemonYogurtChickenTenders_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "chicken tenderloins ((about 1 pound))",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "Greek yogurt (non-fat, plain)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Grated rind and juice of a large lemon",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "paprika",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "gingerroot (grated)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "medium lemon (quartered (optional))",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Combine all ingredients, except the lemon quarters, in a gallon resealable plastic bag. Seal tightly and toss back and forth until well coated. Refrigerate 8 hours.",
+        "Heat a grill pan liberally coated with cooking spray over medium-high heat. Remove chicken from marinade, discarding marinade, and grill 3 minutes on each side or until no longer pink in center. Serve with the quartered lemon, if desired."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Grilling",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "175",
+        "total_fat": "3g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "375mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "30g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spiced-lemon-yogurt-chicken-tenders"
+}

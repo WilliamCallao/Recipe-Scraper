@@ -1,0 +1,93 @@
+{
+    "title": "Caprese Turkey Burger",
+    "keywords": "Sandwiches,Lunch,Dinner,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sandwiches",
+        "Lunch",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_144_Caprese_Turkey_Burger_PNCImages_02272018.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "lean ground turkey",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "whole wheat sandwich thins",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "ketchup",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "tomato(es) (cut into 6 thick slices)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "fresh mozzarella (cut into 6 thin slices)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "fresh basil leaves",
+            "us_amount": "18",
+            "metric_amount": "18"
+        }
+    ],
+    "instructions": [
+        "Prepare an indoor or outdoor grill.",
+        "In a medium bowl, mix together turkey, garlic powder and black pepper. Divide turkey into six equal portions, shaping into a patty.",
+        "Place patties on grill rack; grill 3-4 minutes per side or until juices run clear.",
+        "In a small bowl, whisk together ketchup and balsamic vinegar.",
+        "Place burger on sandwich thin and top with 1 Tbsp. ketchup mixture, 1 tomato slice, 1 slice cheese and 3 basil leaves. Repeat process for remaining 5 burgers."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Grilling",
+        "Mediterranean",
+        "Sandwiches",
+        "Lunch",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "9g",
+        "saturated_fat": "3g",
+        "trans_fat": "0.1g",
+        "cholesterol": "65mg",
+        "sodium": "420mg",
+        "total_carbohydrate": "27g",
+        "fiber": "6g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/caprese-turkey-burger"
+}

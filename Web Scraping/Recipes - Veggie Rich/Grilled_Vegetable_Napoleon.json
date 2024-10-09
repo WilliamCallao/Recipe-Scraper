@@ -1,0 +1,114 @@
+{
+    "title": "Grilled Vegetable Napoleon",
+    "keywords": "Sides,Vegetarian,Dinner,Foodie",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Vegetarian",
+        "Dinner",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/295-diabetic-grilled-vegetable-napoleon_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "medium zucchini (sliced lengthwise into 4 slices)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "medium yellow squash (sliced lengthwise into 4 slices)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "orange bell pepper (sliced into 4 slices)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "small eggplant (sliced lengthwise into 4 slices)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "goat cheese (chevre) (softened)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "garlic (minced or grated)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "minced fresh oregano",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "chopped fresh basil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat an indoor or outdoor grill.",
+        "In a large bowl, whisk together olive oil, balsamic vinegar and ground black pepper.",
+        "Add sliced zucchini, squash, bell pepper and eggplant to marinade and let sit for 5 minutes.",
+        "Grill the vegetables about 2-3 minutes on both sides.",
+        "Once grilled, cut the zucchini, eggplant and squash in half width-wise so that you have 8 pieces of each and set aside to cool.",
+        "In a medium bowl, whisk together goat cheese, yogurt, garlic, oregano and ground black pepper.",
+        "Lay 1 piece of eggplant on a plate, top with 1 heaping Tbsp. of cheese mixture, top that with two slices of zucchini, then top with another heaping Tbsp. of cheese mixture. Top that with 1 slice of bell pepper then another heaping Tbsp. of cheese mixture. Top that with two slices of yellow squash, then another heaping Tbsp. of cheese mixture and then the other slice of eggplant. Sprinkle with 1 Tbsp. chopped fresh basil. Repeat process for three more Napoleons."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "French",
+        "Grilling",
+        "Sides",
+        "Vegetarian",
+        "Dinner",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "7g",
+        "saturated_fat": "2.8g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "80mg",
+        "total_carbohydrate": "19g",
+        "fiber": "4g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-vegetable-napoleon"
+}

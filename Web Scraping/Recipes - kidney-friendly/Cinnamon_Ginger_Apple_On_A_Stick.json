@@ -1,0 +1,80 @@
+{
+    "title": "Cinnamon Ginger Apple On A Stick",
+    "keywords": "Dessert,Vegetarian,Snacks",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dessert",
+        "Vegetarian",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2016-06-cinnamon-ginger-apple-on-a-stick.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "apple ( (Granny Smith, Fuji, Rome, or Gala), peeled, halved, and core removed)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "Juice of 1 lemon",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh ginger root (minced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "honey",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "walnuts or pecans (crushed)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "wooden or metal skewers",
+            "us_amount": "6",
+            "metric_amount": "6"
+        }
+    ],
+    "instructions": [
+        "Marinate apple halves in all ingredients except walnuts.",
+        "Preheat grill to medium high. Cook as per directions for direct heat method for 5–6 minutes, turning once until golden brown on the outside and just warmed through on the inside.",
+        "Remove apples from the grill, cool for a few minutes, and roll in crushed walnuts. Press gently.",
+        "Place a skewer in each apple half and serve."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Kid Friendly",
+        "Grilling",
+        "Dessert",
+        "Vegetarian",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "75",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "13g",
+        "fiber": "1g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cinnamon-ginger-apple-stick"
+}

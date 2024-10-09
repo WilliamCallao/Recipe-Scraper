@@ -1,0 +1,85 @@
+{
+    "title": "Succulent Salmon With Caramelized Onions",
+    "keywords": "Dinner,Holidays & Entertaining,Lunch,Main Dish,Slow Cooker",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Slow Cooker"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/succulent-salmon-and-farro-with-lemon-and-green-beans_1.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "salmon",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "lemon (halved top to bottom and thinly sliced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "dried dill",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground ginger",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sweet onion (halved top to bottom and thinly sliced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 350° F. Heat the olive oil in a large, heavy ovenproof skillet over medium heat, and add the onions. Cook for 8 to 10 minutes, stirring occasionally, until they are golden.",
+        "Meanwhile, in a small bowl, combine the ginger, dill, salt, and pepper; set aside. Top the onions with the lemon slices and then the salmon, and top the salmon evenly with the spices. Transfer the skillet to the oven and cook the salmon for about 20 minutes, until it is cooked through. Remove from the oven and serve immediately. Green Beans With Lemon and Garlic make a great side dish for the salmon.",
+        "Slow Cooker Directions: Cut the salmon fillet into pieces that will fit into the slow cooker. Combine the onions in the bottom of the slow cooker. Place each piece of salmon onto a separate piece of aluminum foil large enough to fold into a packet. Sprinkle the spices evenly over the salmon pieces and top with lemon slices. Fold the foil into a packet, and place the packets into the slow cooker on top of the onions, stacking as needed. Cook on low for 6 to 8 hours or on high for 3 to 4 hours (for thinner fillets check for doneness sooner). Remove the salmon from the packets, then top with the onions before serving."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Slow Cooker"
+    ],
+    "nutrition": {
+        "calories": "215",
+        "total_fat": "11g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "7g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/succulent-salmon-caramelized-onions"
+}

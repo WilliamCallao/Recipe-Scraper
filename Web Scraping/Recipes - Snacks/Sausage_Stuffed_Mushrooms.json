@@ -1,0 +1,81 @@
+{
+    "title": "Sausage Stuffed Mushrooms",
+    "keywords": "Appetizers,Holidays & Entertaining,Sides,Snacks",
+    "prep_time": "PT20M",
+    "cook_time": "PT14M",
+    "categories": [
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Sides",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2016-11-12-sausage-stuffed.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "large cremini mushrooms",
+            "us_amount": "18",
+            "metric_amount": "18"
+        },
+        {
+            "name": "plain dry bread crumbs (divided)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "Parmesan cheese (grated)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "chicken sausage links (casings removed)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "large onion (finely chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "small red bell pepper (finely chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "parsley (fresh minced)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 400°F. Remove stems from mushrooms and finely chop stems. Mix 2 Tbsps. bread crumbs and Parmesan in small bowl.",
+        "Lightly coat large nonstick skillet with nonstick cooking spray and set over medium heat. Cook sausages until they begin to brown, about 5 minutes, breaking up with side of spoon. Stir in onion, red pepper, mushroom stems and parsley and cook until vegetables are soft, about 5 minutes. Stir in remaining bread crumbs and black pepper. Remove from heat. Add 1 Tsp. of water at a time until you have s tuffing that is moist enough to mound.",
+        "Mound stuffing in mushrooms and arrange, stuffing-side up, in 13 x 9-inch baking dish. Sprinkly with Parmesan mixture. Bake until heated through, about 9 minutes."
+    ],
+    "tags": [
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Sides",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "115",
+        "total_fat": "3g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "195mg",
+        "total_carbohydrate": "17g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sausage-stuffed-mushrooms"
+}

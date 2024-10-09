@@ -1,0 +1,72 @@
+{
+    "title": "Sweet and Smoky Baked Eggs",
+    "keywords": "Main Dish,Foodie,Breakfast and Brunch",
+    "prep_time": "PT5M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Main Dish",
+        "Foodie",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_869_Budget-Friendly%20Sweet_and_Smokey_Baked_Eggs_BudgetFriendlyCookbook_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "large ripe beefsteak or heirloom tomatoes",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "ground black pepper",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cumin",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "eggs (medium)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Parmesan cheese (grated reduced-fat)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350°F.",
+        "Wash tomatoes and cut in half. Scoop out the pulp and seeds, leaving about a 1/2-inch rim of tomato.",
+        "Place cut-side up in a greased glass baking dish.",
+        "Sprinkle each tomato half with pepper and cumin. Break an egg into each tomato “shell.” Sprinkle each egg with 1/2 tsp of the cheese.",
+        "Bake until the eggs are set, roughly 25 minutes."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Comfort Food",
+        "Caribbean",
+        "Main Dish",
+        "Foodie",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "85",
+        "total_fat": "4.5g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "165mg",
+        "sodium": "85mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-and-smoky-baked-eggs"
+}

@@ -1,0 +1,96 @@
+{
+    "title": "Budget-Friendly Hearty Cabbage Soup",
+    "keywords": "Budget Friendly,Lunch,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Budget Friendly",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/123-diabetic-hearty-cabbage-soup_AdobeStock117553723_121820.jpg",
+    "servings": "9 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "carrots (diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "celery stalks (diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cabbage (roughly chopped)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "lean turkey breakfast sausage (crumbled)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "low sodium chicken broth (fat-free, low-sodium)",
+            "us_amount": "40 oz",
+            "metric_amount": "1 l 132 ml"
+        },
+        {
+            "name": "canned diced tomatoes",
+            "us_amount": "1 (14.5-oz) can",
+            "metric_amount": "1 (14.5-oz) can"
+        },
+        {
+            "name": "Great Northern beans (rinsed and drained)",
+            "us_amount": "9 (15.5-oz) can",
+            "metric_amount": "9 (15.5-oz) can"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "dried oregano (dried)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Spray a large soup pot with cooking spray. Add celery, onion and carrots and sauté over medium-high heat for 3 minutes or onions until clear. Remove from pan and set aside.",
+        "Add turkey sausage and cook until brown, about 6-7 minutes. Add celery, onions and carrots back to pan and mix.",
+        "Add remaining ingredients and bring to a boil. Reduce heat and simmer for 30 minutes."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Budget Friendly",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "360mg",
+        "total_carbohydrate": "15g",
+        "fiber": "5g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-hearty-cabbage-soup"
+}

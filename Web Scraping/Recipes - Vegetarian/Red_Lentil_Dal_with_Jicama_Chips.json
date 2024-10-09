@@ -1,0 +1,92 @@
+{
+    "title": "Red Lentil Dal with Jicama \"Chips\"",
+    "keywords": "Dinner,Foodie,Lunch,Sides,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Lunch",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2016-2-red-lentil-dal-with.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "small onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "fresh ginger (grated)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "dry red lentils",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "low sodium vegetable broth (low-sodium)",
+            "us_amount": "3 1/2 cup",
+            "metric_amount": "828 ml"
+        },
+        {
+            "name": "soy sauce (reduced-sodium)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "green onion (scallion) (chopped)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "jicama",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Add olive oil to a saucepan over medium heat. Sauté onion, garlic and ginger until onions turn clear (about 4 minutes).",
+        "Add lentils and stir to coat with oil. Add the broth and soy sauce. Bring to a boil and reduce to a simmer. Simmer, covered, for 20 minutes.",
+        "Pureé the lentils using an immersion blender or food processor and stir in scallions.",
+        "Peel the jicama and slice into nine rounds. Cut each round into quarters. Use the raw jicama to dip into the dal."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Low Sodium",
+        "Indian",
+        "Dinner",
+        "Foodie",
+        "Lunch",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "1g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "90mg",
+        "total_carbohydrate": "25g",
+        "fiber": "10g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/red-lentil-dal-jicama-chips"
+}

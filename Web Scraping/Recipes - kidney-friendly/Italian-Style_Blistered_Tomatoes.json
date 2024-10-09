@@ -1,0 +1,75 @@
+{
+    "title": "Italian-Style Blistered Tomatoes",
+    "keywords": "Vegan,Sides,Quick & Easy,Gluten-Free,Dinner,Budget Friendly",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Vegan",
+        "Sides",
+        "Quick & Easy",
+        "Gluten-Free",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/diabetic-Italian-Style-Blistered-Tomatoes_MFTK-comfort-favorites_040219.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "grape or cherry tomatoes",
+            "us_amount": "1 (12 oz) container",
+            "metric_amount": "1 (12 oz) container"
+        },
+        {
+            "name": "garlic (slivered)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sugar substitute",
+            "us_amount": "equal to 2 tsp sugar",
+            "metric_amount": "equal to 2 tsp sugar"
+        }
+    ],
+    "instructions": [
+        "In a large skillet over high heat, heat the oil until it’s hot. Sauté the tomatoes for 4 to 5 minutes, or until their skins begin to brown and blister.",
+        "Stir in the garlic and cook for 1 minute. Add the balsamic vinegar and sugar substitute and continue to cook for 1 to 2 minutes, or until the mixture begins to thicken. Serve hot or at room temperature."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Veggie Rich",
+        "Italian",
+        "Vegan",
+        "Sides",
+        "Quick & Easy",
+        "Gluten-Free",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "5mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/italian-style-blistered-tomatoes"
+}

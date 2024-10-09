@@ -1,0 +1,91 @@
+{
+    "title": "Mandarin, Greens, and Protein Bowl",
+    "keywords": "Budget Friendly,Cooking for 1 or 2,Dinner,Easy Pantry Recipes,Lunch,Main Dish,No Cook,Quick & Easy,Salads",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Budget Friendly",
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Lunch",
+        "Main Dish",
+        "No Cook",
+        "Quick & Easy",
+        "Salads"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/1958-diabetic-orange-greens-chicken-salad_clean-and-simple_AdobeStock187667404_050120.jpg",
+        "Greens",
+        "and Protein Bowl\" loading=\"lazy\" />"
+    ],
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "mandarin oranges  (fresh or canned)",
+            "us_amount": "2 whole or 1 small can",
+            "metric_amount": "2 whole or 1 small can"
+        },
+        {
+            "name": "grated fresh ginger",
+            "us_amount": "1 tsp (or 1/4 tsp ground ginger)",
+            "metric_amount": "1 tsp (or 1/4 tsp ground ginger)"
+        },
+        {
+            "name": "Apple Cider Vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "toasted sesame oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "baby spinach or other salad greens",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "cooked protein of choice  (such as chicken, shrimp, or canned tuna)",
+            "us_amount": "3 oz (about 1/2 cup)",
+            "metric_amount": "3 oz (about 1/2 cup)"
+        },
+        {
+            "name": "roasted, salted peanuts",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Place half the orange pieces into a blender with the ginger, vinegar, and oil (set the other orange pieces aside for later). Cover and purée.",
+        "Arrange the spinach, protein, and reserved orange pieces in a bowl. Drizzle with the orange-sesame dressing. Sprinkle with peanuts. Serve."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Budget Friendly",
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Lunch",
+        "Main Dish",
+        "No Cook",
+        "Quick & Easy",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "390",
+        "total_fat": "19g",
+        "saturated_fat": "2.7g",
+        "trans_fat": "0g",
+        "cholesterol": "160mg",
+        "sodium": "310mg",
+        "total_carbohydrate": "31g",
+        "fiber": "7g",
+        "sugar": "20g",
+        "added_sugar": "0g",
+        "protein": "29g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mandarin-greens-and-protein-bowl"
+}

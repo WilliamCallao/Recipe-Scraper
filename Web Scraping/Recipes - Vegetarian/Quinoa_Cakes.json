@@ -1,0 +1,134 @@
+{
+    "title": "Quinoa Cakes",
+    "keywords": "Appetizers,Dinner,Foodie,Holidays & Entertaining,Lunch,Sides,Snacks,Vegetarian",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Sides",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/quinoa-foodie_279x200_istoc.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "quinoa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "red onion (minced )",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "black beans (15-ounce, rinsed and drained)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "cilantro (minced and divided)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "medium carrot (grated (yield about 1 cup))",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "all-purpose flour",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "baking powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "egg white",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "remaining cilantro (minced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "plain Greek style yogurt (non-fat)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "lime juice",
+            "us_amount": "2",
+            "metric_amount": "2"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 400°F. Coat a large baking sheet with Cooking Spray.",
+        "Cook quinoa according to package directions. Fluff with a fork and set aside to cool.",
+        "In a large bowl, combine cooked quinoa with onion, garlic, black beans, 1 Tbsp. cilantro, carrot, flour, baking powder, egg, salt (optional) and pepper.",
+        "Form mixture into eight patties (press firmly to form patty) and place onto prepared baking sheet. Spray the top of the cakes with Cooking Spray.",
+        "Bake the cakes for 15 minutes, then flip. Respray them with the cooking spray. Continue cooking for 15 more minutes or until lightly golden brown.",
+        "While the cakes are baking, combine the remaining cilantro, yogurt and lime juice in small bowl. Serve the sauce with the warm quinoa cakes."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Low Sodium",
+        "Appetizers",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Sides",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "2g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "125mg",
+        "total_carbohydrate": "28g",
+        "fiber": "5g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/quinoa-cakes"
+}

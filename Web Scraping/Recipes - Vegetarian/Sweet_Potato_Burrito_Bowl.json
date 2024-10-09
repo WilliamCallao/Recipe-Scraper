@@ -1,0 +1,111 @@
+{
+    "title": "Sweet Potato Burrito Bowl",
+    "keywords": "Dinner,Vegetarian,Main Dish,Foodie,Gluten-Free,Lunch",
+    "prep_time": "PT15M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Dinner",
+        "Vegetarian",
+        "Main Dish",
+        "Foodie",
+        "Gluten-Free",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_544_Sweet_Potato_Burrito_Bowl_PNCImages_03010218%29.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "small sweet potatoes",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "frozen cauliflower rice",
+            "us_amount": "1 (12-oz) bag",
+            "metric_amount": "1 (12-oz) bag"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "small onion (small dice (about 3/4 cup))",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced or grated)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "black beans (drained and rinsed)",
+            "us_amount": "1 (15.5-oz) can",
+            "metric_amount": "1 (15.5-oz) can"
+        },
+        {
+            "name": "salsa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "shredded Mexican cheese blend",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "shredded lettuce",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Plain Nonfat Greek yogurt",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "diced tomatoes",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400 degrees F. Coat a baking sheet with cooking spray. Scrub and dry the potatoes and place them on the baking sheet. Bake the potatoes 45 minutes-1 hour until very tender.",
+        "While the potatoes are cooking, cook the instant brown rice according to the package directions. Set the cooked rice aside but keep warm.",
+        "Add the olive oil to a nonstick pan over medium heat. Add the onions and garlic and sauté 5 minutes or until the onions start to soften.",
+        "Add the beans and salsa, and simmer to heat the beans through. Set the bean and salsa mixture aside but keep warm.",
+        "When the potatoes are done cooking, let them cool slightly, then peel and large dice the cooked potato.",
+        "To build one burrito bowl, add 1/2 cup cooked rice to the bottom of the bowl. Top with 1/4 of sweet potatoes. Top with 1/2 cup bean and salsa mixture, then top with 2 Tbsp cheese. Repeat the process for the remaining three bowls.",
+        "Right before serving, top one bowl with 1/2 cup shredded lettuce, 1 Tbsp. Greek yogurt and 1/4 cup tomatoes."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Vegetarian",
+        "Main Dish",
+        "Foodie",
+        "Gluten-Free",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "7g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "530mg",
+        "total_carbohydrate": "43g",
+        "fiber": "9g",
+        "sugar": "14g",
+        "added_sugar": "0g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-potato-burrito-bowl"
+}

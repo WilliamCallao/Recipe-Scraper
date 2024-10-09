@@ -1,0 +1,79 @@
+{
+    "title": "Grilled Chicken Wraps",
+    "keywords": "Cooking for 1 or 2,Dinner,Lunch,Sandwiches",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Lunch",
+        "Sandwiches"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/july_chicken_wraps_279x200_1.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "chicken thighs (boneless, skinless)",
+            "us_amount": "3/4 lbs",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "salt and pepper to taste",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "onion slices (1/4-inch, about 1/2 cup)",
+            "us_amount": "2 slice",
+            "metric_amount": "2 slice"
+        },
+        {
+            "name": "barbeque sauce (low-sugar, low-sodium)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "whole wheat flour tortillas (8-inch)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "lettuce (shredded)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fresh tomatoes (diced)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat a stove-top grill",
+        "Remove visible fat from chicken, and season with salt and pepper to taste.",
+        "Place chicken and onion slices on the grill. Cook 5 minutes. Turn chicken and onions over and grill 3 minutes. Spoon barbecue sauce over chicken and onion, and grill 2 minutes. A meat thermometer should reach 165 degrees F. Transfer to a plate. Using two forks, shred the chicken. Separate the onions into rings.",
+        "Meanwhile, wrap the tortillas in foil and add to the grill for 3 minutes to warm through. Fill each tortilla with some of the chicken and onions, and roll into a wrap.",
+        "Divide lettuce between two plates, and top with diced tomatoes. Serve."
+    ],
+    "tags": [
+        "Grilling",
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Lunch",
+        "Sandwiches"
+    ],
+    "nutrition": {
+        "calories": "363",
+        "total_fat": "8g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "138mg",
+        "sodium": "335mg",
+        "total_carbohydrate": "33g",
+        "fiber": "3.5g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "38g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-chicken-wraps"
+}

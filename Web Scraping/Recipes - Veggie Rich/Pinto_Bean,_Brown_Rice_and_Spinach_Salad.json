@@ -1,0 +1,86 @@
+{
+    "title": "Pinto Bean, Brown Rice and Spinach Salad",
+    "keywords": "Quick & Easy,Vegetarian,Foodie,Lunch,Salads",
+    "prep_time": "PT15M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Quick & Easy",
+        "Vegetarian",
+        "Foodie",
+        "Lunch",
+        "Salads"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/RecID_406_PintoBeanBrownRiceSalad_PNC_040418.jpg",
+        "Brown Rice and Spinach Salad\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "yellow bell pepper (seeded and diced)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "cucumber(s) (seeded and diced)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "baby spinach (5-ounce, 4 lightly packed cups)",
+            "us_amount": "1 package",
+            "metric_amount": "1 package"
+        },
+        {
+            "name": "pinto beans (cooked and cooled)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "brown rice (cooked and cooled)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "queso fresco (crumbled)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Garlicky Cilantro Lime Dressing (Link to recipe in instructions)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        }
+    ],
+    "instructions": [
+        "Make the Garlicky Cilantro Lime Dressing.",
+        "Add all ingredients and the dressing to a large salad bowl and toss together.",
+        "Bulk Cooking Dry Pinto Beans: Add 1 lb (16 oz.) dry pinto beans to a large pot of boiling water (at least 6 cups of water). Boil rapidly for 2 minutes. Remove from heat and cover. Let sit for 1 hour.  Drain and rinse beans. Add 6 fresh cups of water. Bring to a boil, then reduce to a simmer for one hour or until the beans are soft but not split. Makes 5 cups cooked beans. These beans can be used in any recipe calling for cooked or canned beans. Store in an airtight container in the refrigerator for 7 days or package in freezer bags in one cup increments for up to 6 months.",
+        "Bulk Cooking Brown Rice: Add 1 lb (16 oz.) of long grain (not instant) brown rice to a large soup pot with 5 cups of water. Bring to a boil then reduce to a simmer. Cover and simmer for 45 minutes or until all liquid is absorbed. Makes 10 cups cooked brown rice. This rice can be used in any recipe calling for cooked brown rice. Store in an airtight container in the refrigerator for 7 days or package in freezer bags in one cup increments for up to 6 months."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Low Sodium",
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Quick & Easy",
+        "Vegetarian",
+        "Foodie",
+        "Lunch",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "3g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "90mg",
+        "total_carbohydrate": "28g",
+        "fiber": "6g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pinto-bean-brown-rice-and-spinach-salad"
+}

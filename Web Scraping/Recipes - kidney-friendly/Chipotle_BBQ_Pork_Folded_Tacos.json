@@ -1,0 +1,89 @@
+{
+    "title": "Chipotle BBQ Pork Folded Tacos",
+    "keywords": "Slow Cooker,Sandwiches,Main Dish,Lunch,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "PT6H",
+    "categories": [
+        "Slow Cooker",
+        "Sandwiches",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1681-diabetic-chipotle-bbq-pork-soft-tacos_tex-mex-diabetes-cookbook_DF_101918_1021x779.jpg",
+    "servings": "16 Servings",
+    "ingredients": [
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "reduced-sugar barbecue sauce",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "chipotle chili peppers in adobo sauce (pureed )",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "pork shoulder (trimmed)",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "smoked paprika",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "low-carb whole-wheat tortillas",
+            "us_amount": "16",
+            "metric_amount": "16"
+        },
+        {
+            "name": "shredded cabbage",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "diced onion (about 2 medium onions)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        }
+    ],
+    "instructions": [
+        "In a medium bowl, combine the garlic, barbecue sauce, and chipotles. Blend well, then set aside in the refrigerator.",
+        "Place the pork in a 3- to 6-quart slow cooker. Cover and cook on low for 8 to 10 hours, or on high for 4 to 6 hours.",
+        "Transfer the cooked pork to a cutting board. Shred the pork with two forks, discarding the excess fat. Return the pork to the slow cooker. Sprinkle the paprika over the shredded pork, then add the barbecue mixture. Cover and cook on low for 1 hour. Skim off any excess fat.",
+        "To build the tacos, place a heaping spoonful of pork (about 1/4 cup) on a warmed tortilla. Top with cabbage and onions, and serve. Place any leftover pork in an airtight container and store in the refrigerator for up to 3 days."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Mexican/Southwestern",
+        "Latin American",
+        "Slow Cooker",
+        "Sandwiches",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "7g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "350mg",
+        "total_carbohydrate": "15g",
+        "fiber": "8g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "15g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chipotle-bbq-pork-folded-tacos"
+}

@@ -1,0 +1,107 @@
+{
+    "title": "Greek Orzo Salad with Peas, Lemon and Kalamata Olives",
+    "keywords": "Salads,Sides,Vegetarian,Dinner,Lunch",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Sides",
+        "Vegetarian",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/Recid_267_Greek_Orzo_Salad_with%20Peas_Lemon_and_Kalamata_Olives_PNCImages_02272018.jpg",
+        "Lemon and Kalamata Olives\" loading=\"lazy\" />"
+    ],
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "whole-wheat orzo (cooked al dente, drained and rinsed under cold water)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "English cucumber (diced 1/2 inch)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "tomato(es) (chopped)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "red onion (chopped (half a medium onion))",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Kalamata olives (pitted and chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "fresh dill (freshly minced)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "feta cheese (reduced-fat, crumbled)",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "frozen peas (defrosted)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "lemon juice (fresh)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Extra Virgin Olive Oil",
+            "us_amount": "2 1/2 tbsp",
+            "metric_amount": "37 ml"
+        },
+        {
+            "name": "dried oregano (dried)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "baby spinach leaves (heaping)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Combine all ingredients except spinach leaves in a large bowl. Marinate at least one hour in refrigerator, covered, before serving. Add spinach leaves just before serving."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Mediterranean",
+        "Salads",
+        "Sides",
+        "Vegetarian",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "11g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "350mg",
+        "total_carbohydrate": "34g",
+        "fiber": "5g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/greek-orzo-salad-peas-lemon-and-kalamata-olives"
+}

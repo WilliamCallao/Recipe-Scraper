@@ -1,0 +1,130 @@
+{
+    "title": "Meatball Minestrone",
+    "keywords": "Lunch,Sides,One Pot,Main Dish,Dinner,Cooking for 1 or 2",
+    "prep_time": "PT25M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Sides",
+        "One Pot",
+        "Main Dish",
+        "Dinner",
+        "Cooking for 1 or 2"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_349_Meatball_Minestrone_iStock-470835723_02282018.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "fennel seeds",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "dried oregano (dried)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "lean ground beef (95% fat-free)",
+            "us_amount": "1/4 lbs",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "yellow onion (sliced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "celery (sliced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "canned tomatoes (low-sodium, no-sugar-added, diced, drained)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "low sodium chicken broth (fat-free, low-sodium)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "whole-wheat spaghetti or linguine (broken into small pieces (2 ounces))",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ready-to-eat spinach (washed, (10 ounces))",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "canned small navy beans (rinsed and drained)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Parmesan cheese (freshly grated)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Mix fennel seeds and oregano into ground beef. Roll into meatballs about 1 inch diameter to make 8 meatballs.",
+        "Heat oil in a medium, nonstick saucepan over medium-high heat. Brown meatballs on all sides, about 5 minutes. Remove to a plate.",
+        "Add onion and celery to the saucepan. Sauté 3 minutes without browning the vegetables, stirring once or twice. Add the garlic, diced tomatoes, chicken broth and water. Bring to a boil.",
+        "Add pasta and cook gently for 8-9 minutes, stirring once to make sure the pasta rolls freely in the liquid. Add spinach and beans.",
+        "Lower heat to medium and return meatballs to the soup and cook to heat through, about 2 minutes. Add salt and pepper.",
+        "Serve in 2 large soup bowls with parmesan cheese sprinkled on top."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Italian",
+        "Lunch",
+        "Sides",
+        "One Pot",
+        "Main Dish",
+        "Dinner",
+        "Cooking for 1 or 2"
+    ],
+    "nutrition": {
+        "calories": "460",
+        "total_fat": "13g",
+        "saturated_fat": "3g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "490mg",
+        "total_carbohydrate": "60g",
+        "fiber": "14g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "32g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/meatball-minestrone"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Strawberries With Balsamic Glaze, Black Pepper, and Tarragon",
+    "keywords": "Sides,Quick & Easy,No Cook,Holidays & Entertaining,Foodie,Dessert,Vegetarian,Snacks,Vegan",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Quick & Easy",
+        "No Cook",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dessert",
+        "Vegetarian",
+        "Snacks",
+        "Vegan"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/Jun14_strawberries_balsamic_glaze.jpg",
+        "Black Pepper",
+        "and Tarragon\" loading=\"lazy\" />"
+    ],
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "fresh tarragon",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "balsamic glaze",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "strawberries (stemmed and halved)",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        }
+    ],
+    "instructions": [
+        "In a large serving bowl, combine the strawberries and balsamic glaze. Grind the black pepper on top and gently mix. Garnish with sprigs of tarragon.",
+        "* Balsamic glaze (sometimes called balsamic syrup) can be found where vinegars are sold. To make your own, heat 3 Tbsp. of balsamic vinegar in a saucepan. Bring to lightly boiling and cook, stirring occasionally, until the vinegar is thickened and reduced to half its volume."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Mediterranean",
+        "Italian",
+        "Sides",
+        "Quick & Easy",
+        "No Cook",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dessert",
+        "Vegetarian",
+        "Snacks",
+        "Vegan"
+    ],
+    "nutrition": {
+        "calories": "20",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/strawberries-balsamic-glaze-black-pepper-and-tarragon"
+}

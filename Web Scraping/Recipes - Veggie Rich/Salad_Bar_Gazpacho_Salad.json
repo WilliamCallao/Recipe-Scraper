@@ -1,0 +1,107 @@
+{
+    "title": "Salad Bar Gazpacho Salad",
+    "keywords": "Vegetarian,Sides,Quick & Easy,Salads",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "Salads"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_468_Salad_Bar_Gazpacho_Salad_02282018.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "chickpeas, red kidney beans, or black beans (from salad bar or canned, drained and rinsed)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "tomato(es) (diced)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "corn",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "cucumber(s) (diced)",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "red onion (diced)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "cilantro (minced)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "tomato juice (low-sodium)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "fresh lime juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chili powder (mild or hot)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "mixed greens",
+            "us_amount": "5 cup",
+            "metric_amount": "1 l 183 ml"
+        }
+    ],
+    "instructions": [
+        "Combine the beans, tomato, corn, cucumber, red onion, and cilantro.",
+        "In a small bowl, whisk together the tomato juice, lime juice, olive oil, chili powder, salt, and pepper. Pour over the salad and mix gently. Serve over the mixed greens."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "25g",
+        "fiber": "6g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/salad-bar-gazpacho-salad"
+}

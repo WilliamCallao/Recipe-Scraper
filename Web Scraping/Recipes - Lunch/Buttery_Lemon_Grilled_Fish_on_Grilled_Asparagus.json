@@ -1,0 +1,65 @@
+{
+    "title": "Buttery Lemon Grilled Fish on Grilled Asparagus",
+    "keywords": "Dinner,Lunch,Quick & Easy,Main Dish",
+    "prep_time": "PT5M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_633_buttery%20lemon%20grilled%20fish%20on%20asparagus_4IngredientCookbook_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "asparagus spears (ends trimmed)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "cod filets (4-ounce each, rinsed and patted dry)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Juice and zest of a medium lemon",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "light butter with canola oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Heat a grill or grill pan over medium-high heat. Coat the asparagus with cooking spray and cook 6–8 minutes or until just tender-crisp, turning occasionally. Set aside on a rimmed serving platter and cover to keep warm.",
+        "Coat both sides of the fish with cooking spray, sprinkle with 1/4 teaspoon black pepper, if desired, and cook 3 minutes on each side or until opaque in center.",
+        "Meanwhile, combine the light butter, lemon zest and 1/4 teaspoon salt, if desired, in a small bowl.",
+        "Spoon the butter mixture over the asparagus and spread over all. Top with the fish and squeeze lemon juice over fish."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Grilling",
+        "Seafood",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "6g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "6g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "23g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/buttery-lemon-grilled-fish-grilled-asparagus"
+}

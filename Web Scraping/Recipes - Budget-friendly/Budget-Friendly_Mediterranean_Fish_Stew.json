@@ -1,0 +1,108 @@
+{
+    "title": "Budget-Friendly Mediterranean Fish Stew",
+    "keywords": "Budget Friendly,Dinner,One Pot",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "One Pot"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/novdec13_med_fish_stew_istock11676747_279x200.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "medium onion (diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "red bell pepper (seeded and diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "celery (diced)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "basil (dried)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "dried oregano (dried)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "tomato(es) ( 28 oz, no salt added, crushed)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "low sodium vegetable broth (low-sodium)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "cod filets (cut into 1-inch chunks)",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "medium shrimp (peeled and deveined and chopped)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Add olive oil to a soup pot over medium heat. Add onion, bell pepper, celery, garlic, basil and oregano. Sauté until onions begin to turn clear.",
+        "Add crushed tomato and vegetable broth. Bring to a boil, then reduce to a simmer for 10 minutes or until vegetables are soft.",
+        "Gently stir in cod and shrimp and cook for 5 minutes or until seafood is cooked through."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Comfort Food",
+        "Mediterranean",
+        "Seafood",
+        "Budget Friendly",
+        "Dinner",
+        "One Pot"
+    ],
+    "nutrition": {
+        "calories": "215",
+        "total_fat": "5g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "475mg",
+        "total_carbohydrate": "19g",
+        "fiber": "6g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-mediterranean-fish-stew"
+}

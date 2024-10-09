@@ -1,0 +1,84 @@
+{
+    "title": "Ronaldo's Apple Pie",
+    "keywords": "Vegetarian,Vegan,Gluten-Free,Dessert,Cooking for 1 or 2,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free",
+        "Dessert",
+        "Cooking for 1 or 2",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/espanol-diabetic-tarta-manzana-ronaldo_sabores-de-cuba_013019_2959761669.jpg",
+    "servings": "3 Servings",
+    "ingredients": [
+        {
+            "name": "apples such as Gala or Fuji",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "lime juice (divided)",
+            "us_amount": "2 tbsp plus 1/2 tsp",
+            "metric_amount": "2 tbsp plus 1/2 tsp"
+        },
+        {
+            "name": "almond butter",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground nutmeg",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pumpkin pie spice",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350°F.",
+        "Core the apples, making sure to leave the bottoms intact. Cut off the top of each apple, about 1/4 inch from the top.",
+        "In a medium bowl, combine 2 tablespoons lime juice and 2 cups water. Soak the apples in the water for about 5 minutes to prevent browning.",
+        "In another bowl, add almond butter, cinnamon, nutmeg, vanilla extract, remaining lime juice, and pumpkin spice. Mix together.",
+        "Remove apples from water and pat dry. Stuff each apple with 1 tablespoon almond butter mixture. Once all apples are stuffed, place them in a deep baking dish. Add about 1/2 inch water to the baking dish, and make sure apples are upright in the water. (The water keeps the apples from drying out.) Bake for 1 hour. While the apples bake, keep an eye on the water level; add more water if needed.",
+        "Once apples are fork tender, remove from baking dish and serve."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free",
+        "Dessert",
+        "Cooking for 1 or 2",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "10g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "40mg",
+        "total_carbohydrate": "40g",
+        "fiber": "8g",
+        "sugar": "28g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ronaldos-apple-pie"
+}

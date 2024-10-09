@@ -1,0 +1,41 @@
+{
+    "title": "Romaine Lettuce",
+    "keywords": "Salads,Vegan,Vegetarian",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/romaine%20lettuce%20nutrition%20information.png",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "Romaine Lettuce",
+            "us_amount": "1 package",
+            "metric_amount": "1 package"
+        }
+    ],
+    "instructions": [],
+    "tags": [
+        "Veggie Rich",
+        "Salads",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "8",
+        "total_fat": "0.1g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "4mg",
+        "total_carbohydrate": "1.5g",
+        "fiber": "1g",
+        "sugar": "0.6g",
+        "added_sugar": "0g",
+        "protein": "0.6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/romaine-lettuce"
+}

@@ -1,0 +1,105 @@
+{
+    "title": "Cheesy Chicken, Brussel Sprouts & Mushroom Bake",
+    "keywords": "Budget Friendly,Dinner,Lunch,Main Dish,Quick & Easy,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/cheesy-chicken-brussel-sprouts-mushroom-bake.jpg",
+        "Brussel Sprouts & Mushroom Bake\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil (extra-virgin)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "yellow onion (small, diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh Brussels sprouts (trimmed and halved)",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        },
+        {
+            "name": "chicken breasts (cut into bite-size pieces)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "cremini (baby bella) mushrooms (thinly sliced)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "Italian seasoning",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "heavy cream",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "mozzarella cheese (shredded)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Parmesan cheese (freshly grated)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 375 degrees F.",
+        "Heat a large oven-proof skillet to medium heat and add olive oil. Add onion, Brussels, chicken, mushrooms, Italian seasoning, salt, and pepper. Cook, stirring occasionally, until vegetables are tender and chicken is almost cooked through, about 10 minutes.",
+        "Remove from heat and drizzle with heavy cream and top with cheeses.",
+        "Place the skillet in the oven and bake until the cheese bubbles, 10-15 minutes"
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "340",
+        "total_fat": "15g",
+        "saturated_fat": "4.9g",
+        "trans_fat": "0.1g",
+        "cholesterol": "80mg",
+        "sodium": "540mg",
+        "total_carbohydrate": "19g",
+        "fiber": "6g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "35g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cheesy-chicken-brussel-sprouts-mushroom-bake"
+}

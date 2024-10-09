@@ -1,0 +1,147 @@
+{
+    "title": "Citrus-Tarragon Chicken Kabobs",
+    "keywords": "Dinner,Lunch,Main Dish",
+    "prep_time": "PT2H",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/kabobs.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "orange (zested and juiced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lemon (zested and juiced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lime (zested and juiced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "fresh tarragon (minced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "soy sauce",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "vegetable oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "chicken breasts (boneless, skinless, cut into 1-inch cubes)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "green bell pepper",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "red bell pepper",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "white onion",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cherry tomatoes",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "small button mushrooms",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "zucchini or yellow summer squash (cut into 12 slices)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "baby golden potatoes",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "ears corn (cut into 12 rounds)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "balsamic vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "If using bamboo skewers, soak them in water for 1 hour to keep from burning.",
+        "Whisk together orange, lemon, lime zest and juice, minced garlic, tarragon, soy sauce, oil, salt, and pepper.",
+        "Toss the chicken in the mixture until evenly coated. Cover and marinate in refrigerator for 2 hours.",
+        "Cut bell pepper and onion into bite-sized pieces.",
+        "Whisk together oil and balsamic vinegar.",
+        "Assemble kabobs: divide chicken evenly between 12 kabobs. On each skewer, add 1-2 pieces bell pepper, 1-2 pieces onion, 1 cherry tomato, 1 mushroom, 1 slice zucchini, 1 baby potato, one round of corn and some pieces of chicken.",
+        "Baste kabobs with balsamic vinaigrette.",
+        "Grill kabobs directly over heat for about 10 to 15 minutes, turning 1/4 rotation every 2 to 3 minutes, or until the chicken is cooked through."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Comfort Food",
+        "Grilling",
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "340",
+        "total_fat": "18g",
+        "saturated_fat": "2.7g",
+        "trans_fat": "0.1g",
+        "cholesterol": "100mg",
+        "sodium": "470mg",
+        "total_carbohydrate": "19g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/citrus-tarragon-chicken-kabobs"
+}

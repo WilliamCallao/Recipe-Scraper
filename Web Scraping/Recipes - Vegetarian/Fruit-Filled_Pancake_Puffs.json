@@ -1,0 +1,95 @@
+{
+    "title": "Fruit-Filled Pancake Puffs",
+    "keywords": "Breakfast and Brunch,Cooking for 1 or 2,Dessert,Quick & Easy,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Cooking for 1 or 2",
+        "Dessert",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1718-diabetic-fruit-pancake-puff-breakfast-dessert_Diab-Heart-Healthy-for-Two_012819.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "egg substitute",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "flour",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "skim milk",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "raspberries",
+            "us_amount": "2 1/2 oz",
+            "metric_amount": "71 ml"
+        },
+        {
+            "name": "strawberries (sliced)",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "mixed berry yogurt",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 400 degree F. Lightly coat two 8-oz ramekins (4-inch diameter) with cooking spray. Set aside.",
+        "In a medium bowl, whisk together the egg substitute, flour, milk, oil, vanilla, and salt until smooth. Pour half the batter into each ramekin. Set the filled ramekins on a baking sheet.",
+        "Bake for 20 to 25 minutes, or until golden brown and puffy. Remove from the oven. Using the tip of a knife, gently pierce each pancake in one place. Allow to stand for 5 minutes so you don't burn your fingers when handling the ramekins.",
+        "Meanwhile, in a small bowl, gently stir together the raspberries and strawberries. Spoon half of the berries over each cooled pancake, then dollop each with 1 tablespoon yogurt."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Breakfast and Brunch",
+        "Cooking for 1 or 2",
+        "Dessert",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "5g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "225mg",
+        "total_carbohydrate": "10g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fruit-filled-pancake-puffs"
+}

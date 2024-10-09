@@ -1,0 +1,113 @@
+{
+    "title": "Pastelón (Plantain Shepherd's Pie)",
+    "keywords": "Lunch,Dinner,Main Dish",
+    "prep_time": "PT20M",
+    "cook_time": "PT1H18M",
+    "categories": [
+        "Lunch",
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1656-diabetic-plantain-shepherds-pie-pastelon_latin-comfort-foods_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Nonstick olive oil spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "very ripe plantains (peeled and cut into chunks)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "diced red onion",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "green bell pepper (finely chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "lean ground beef (7% or less fat)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "frozen mixed vegetables",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "tomato sauce",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Adobo seasoning",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "part-skim shredded mozzarella cheese",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "paprika",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "fresh flat-leaf parsley (chopped)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 375 degrees F. Spray an 8x8-inch baking dish with nonstick spray.",
+        "Bring the plantains and enough water to cover to a boil in a large saucepan. Reduce the heat to medium low and simmer, until the plantains are very tender, about 25 minutes. Drain, reserving 1 cup of the cooking liquid. Return the plantains to the pot and mash with a vegetable masher, adding the salt and the cooking liquid, 1/2 cup at a time, until the mixture is smooth.",
+        "Heat the oil in a large nonstick skillet over medium-high heat. Add the onion, bell pepper, and garlic. Cook, stirring occasionally, until the vegetables are tender, about 8 minutes.",
+        "Add the beef, and cook, breaking it apart with a wooden spoon, until browned, about 10 minutes. Add the mixed vegetables, tomato sauce, and adobo seasoning. Cook, stirring occasionally, until the flavors are blended, about 10 minutes.",
+        "Spread half of the plantain mixture evenly onto the bottom of the baking dish. Spoon the beef mixture evenly over the plantain mixture. Place the remaining plantain mixture over the beef. Top with the cheese and sprinkle with paprika. Bake until the filling is hot and the cheese is melted and browned around the edges, about 25 minutes."
+    ],
+    "tags": [
+        "Latin American",
+        "Mexican/Southwestern",
+        "Lunch",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "310",
+        "total_fat": "9g",
+        "saturated_fat": "3.5g",
+        "trans_fat": "0.3g",
+        "cholesterol": "55mg",
+        "sodium": "310mg",
+        "total_carbohydrate": "39g",
+        "fiber": "4g",
+        "sugar": "17g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pastelon-plantain-shepherds-pie"
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Margherita Pizza (Cloud Bread)",
+    "keywords": "Appetizers,Quick & Easy,Snacks",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Appetizers",
+        "Quick & Easy",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/margherita-pizza-dfh-crop.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Cloudbread (cheddar rounds)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "jarred pizza sauce (or marinara)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "fresh mozzarella (diced)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "red onion (sliced into rings)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "black olives (or kalamata, sliced)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "fresh basil (julienned)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [],
+    "tags": [
+        "Italian",
+        "Appetizers",
+        "Quick & Easy",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "6g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "280mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/margherita-pizza-cloud-bread"
+}

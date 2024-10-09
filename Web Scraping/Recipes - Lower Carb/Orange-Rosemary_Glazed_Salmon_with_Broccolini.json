@@ -1,0 +1,106 @@
+{
+    "title": "Orange-Rosemary Glazed Salmon with Broccolini",
+    "keywords": "Dinner,Main Dish",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Orange-Rosemary%20Salmon%20diabetic%20recipe.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "whole flax seeds",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Cornstarch",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "fresh rosemary (minced)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "brown sugar substitute",
+            "us_amount": "1 tbsp and 2 teaspoons",
+            "metric_amount": "1 tbsp and 2 teaspoons"
+        },
+        {
+            "name": "low sodium chicken broth",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "orange (juiced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "orange (zest)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salmon filets (6 oz. each)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "broccolini (1 lb. total)",
+            "us_amount": "2 bunch",
+            "metric_amount": "2 bunch"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400 degrees F. Line a baking sheet with parchment paper or foil",
+        "Place broccolini on one side of the baking sheet and drizzle with olive oil.",
+        "Pat salmon dry with paper towels and place on the other side of the baking sheet.",
+        "Combine the orange zest, orange juice, broth, brown sugar, garlic, rosemary, cornstarch, and flaxseed in a small saucepan over medium heat. Cook, whisking occasionally, until the sauce reduces by half and thickens, 8–10 minutes. It should cling to a spoon.",
+        "Brush sauce over the salmon. Place the baking sheet in the oven and bake until salmon reaches an internal temperature of 145 degrees F and the broccolini is tender, 6–10 minutes."
+    ],
+    "tags": [
+        "Asian",
+        "Caribbean",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "390",
+        "total_fat": "17g",
+        "saturated_fat": "3.4g",
+        "trans_fat": "0g",
+        "cholesterol": "90mg",
+        "sodium": "300mg",
+        "total_carbohydrate": "21g",
+        "fiber": "2g",
+        "sugar": "10g",
+        "added_sugar": "5g",
+        "protein": "38g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/orange-rosemary-glazed-salmon-broccolini"
+}

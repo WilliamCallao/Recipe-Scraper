@@ -1,0 +1,98 @@
+{
+    "title": "Chicken Satay",
+    "keywords": "Appetizers,Holidays & Entertaining,Snacks,Foodie",
+    "prep_time": "PT1H",
+    "cook_time": "PT10M",
+    "categories": [
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Snacks",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/167-diabetic-chicken-satay_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "bamboo skewers",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "boneless, skinless chicken breasts",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "low-calorie brown sugar substitute (divided use)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lower sodium soy sauce (divided use)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "garlic (minced, divided use)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "minced fresh ginger",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "lime juice",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Asian-style hot sauce, such as sriracha",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "creamy peanut butter",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "unsweetened coconut milk beverage",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Soak bamboo skewers in warm water for at least 30 minutes. While skewers are soaking, slice chicken breasts into eight strips lengthwise.",
+        "In a medium bowl, whisk together 1 tbsp Splenda Brown Sugar, 1 tbsp soy sauce, half the minced garlic, ginger, lime juice and hot sauce. Add chicken to the marinade and marinate chicken strips in the refrigerator for 1 hour.",
+        "Prepare an indoor or outdoor grill.",
+        "While the chicken is marinating, whisk together the remaining tbsp Splenda brown sugar blend, remaining tbsp soy sauce, remaining minced garlic, peanut butter, and coconut milk in a microwave safe bowl. Set aside.",
+        "Thread chicken strips lengthwise onto the soaked bamboo skewers. Grill chicken for 4-5 minutes one each side.",
+        "Right before serving, microwave sauce for 30 seconds. Remove from microwave and whisk again to combine. Serve two skewers with 2 Tbsps. of sauce."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Asian",
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Snacks",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "7g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "380mg",
+        "total_carbohydrate": "10g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-satay"
+}

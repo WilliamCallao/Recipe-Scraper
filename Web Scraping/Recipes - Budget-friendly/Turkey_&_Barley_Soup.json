@@ -1,0 +1,102 @@
+{
+    "title": "Turkey & Barley Soup",
+    "keywords": "Appetizers,Main Dish,Sides,Soup,Budget Friendly,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Appetizers",
+        "Main Dish",
+        "Sides",
+        "Soup",
+        "Budget Friendly",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1672-diabetic-turkey-barley-soup_Diabetes-Cookbook_DF_101818_1021x779.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "medium onion (peeled and diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "medium carrots (diced (about 1 1/2 cups))",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "stalks celery (diced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "sliced mushrooms",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "quick cooking barley",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fat-free low-sodium chicken broth",
+            "us_amount": "4 cups",
+            "metric_amount": "4 cups"
+        },
+        {
+            "name": "water",
+            "us_amount": "2 cups",
+            "metric_amount": "2 cups"
+        },
+        {
+            "name": "cooked turket breast (shredded or diced)",
+            "us_amount": "2 cups (about 10 oz)",
+            "metric_amount": "2 cups (about 10 oz)"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ground black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Add the olive oil to a soup pot over medium-high heat.",
+        "Add the onion, carrots, celery, and mushrooms to the pot. Sauté for 8 to 10 minutes, or until the onions start to turn clear.",
+        "Add the barley, broth, and water. Bring to a boil, then reduce the heat and simmer for 15 minutes.",
+        "Add the turkey. Season with the salt and pepper. Cook until the turkey is heated, then serve."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Appetizers",
+        "Main Dish",
+        "Sides",
+        "Soup",
+        "Budget Friendly",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "440mg",
+        "total_carbohydrate": "21g",
+        "fiber": "4g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/turkey-barley-soup"
+}

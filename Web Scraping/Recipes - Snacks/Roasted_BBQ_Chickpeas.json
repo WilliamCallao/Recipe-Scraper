@@ -1,0 +1,58 @@
+{
+    "title": "Roasted BBQ Chickpeas",
+    "keywords": "Appetizers,Snacks",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Appetizers",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2160_Roasted%20BBQ%20Chickpeas%20-%20Shutterstock.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "canned chickpeas (rinsed and drained)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "BBQ spice blend",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Splenda® Stevia Sweetener",
+            "us_amount": "2 packet",
+            "metric_amount": "2 packet"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350 degrees F.",
+        "With paper towel, pat chickpeas until completely dry. Spread on a rimmed baking sheet. Drizzle with olive oil and toss to coat. Spread into an even layer.",
+        "Bake for 35–45 minutes or until dry. Cool to room temperature.",
+        "In a bowl, combine spice blend and Splenda Stevia Sweetener. Add roasted chickpeas and toss to coat well. Let dry overnight."
+    ],
+    "tags": [
+        "Appetizers",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "115mg",
+        "total_carbohydrate": "6g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-bbq-chickpeas"
+}

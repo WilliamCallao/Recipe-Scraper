@@ -1,0 +1,87 @@
+{
+    "title": "Eye Of Round Roast With Garlic Onions",
+    "keywords": "Dinner,Main Dish,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Dinner",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_691_2Step_EyeOfRoundRoastWithGarlicOnions_022618.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "instant coffee granules",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "eye-of-round roast (trimmed)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "onion(s) (cut in 1/4-inch thick wedges)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "whole head garlic (about 12–16 cloves, peeled only)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "water",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 475°F. Combine the coffee granules, chili powder, salt, and pepper and press the mixture on all sides of the beef. Place the roast in the center of a 13 × 9-inch baking pan, arrange onions and garlic around, and drizzle with oil. Bake 20 minutes, turning the beef and stirring the onion mixture after 10 minutes.",
+        "Reduce oven temperature to 300°F (do not remove roast from oven). Bake 30 minutes or until a thermometer registers 120°F. Turn off oven. Place the roast on a cutting board and let stand 10 minutes before thinly slicing against the grain. Stir the water into the onion mixture in the pan, scraping the bottom and sides of the pan, and place in oven while the beef is resting. Serve with beef."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Comfort Food",
+        "Dinner",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "185",
+        "total_fat": "6g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "335mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/eye-round-roast-garlic-onions"
+}

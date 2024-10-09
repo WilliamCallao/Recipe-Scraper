@@ -1,0 +1,91 @@
+{
+    "title": "Mojo-Marinated Pork Tenderloin (Pernil)",
+    "keywords": "Dinner,Main Dish",
+    "prep_time": "PT25M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/372-mojo-marinated-diabetic-pork_sabores-de-cuba_013019.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "navel oranges (peeled and cut in half)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "lemon (peeled)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Kosher Salt",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "black pepper (cracked)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "distilled vinegar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "fresh thyme (leaves removed from stem)",
+            "us_amount": "2 sprig",
+            "metric_amount": "2 sprig"
+        },
+        {
+            "name": "pork tenderloin",
+            "us_amount": "20 oz",
+            "metric_amount": "566 ml"
+        },
+        {
+            "name": "Nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 400°F.",
+        "Grab your blender to make the mojo marinade. Add oranges, lemons, salt, pepper, cumin, garlic powder, vinegar, and fresh thyme leaves into the blender. Pulsate the mixture 4 times, then purée for 1 minute. Set aside 4 ounces mojo and add the rest to a resealable plastic bag.",
+        "Remove the silver skin from the pork tenderloin. Add pork tenderloin to the resealable plastic bag with the mojo. Marinate pork for at least 20 minutes in the fridge.",
+        "Remove the pork tenderloin from the bag (discarding the marinade in the bag) and pat dry with a paper towel. Preheat an ovenproof sauté pan over medium heat, spray with nonstick cooking spray, and wait 10 seconds for oil to come up to temperature. Brown both sides of pork tenderloin in the pan, then place pan in the oven for 15-20 minutes. Internal temperature of cooked pork should read 145°F.",
+        "Remove pork from oven and let it rest for a few minutes so juices redistribute. Drizzle some of the reserved mojo marinade on the pork, and serve."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Caribbean",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "3g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "75mg",
+        "sodium": "450mg",
+        "total_carbohydrate": "10g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mojo-marinated-pork-tenderloin-pernil"
+}

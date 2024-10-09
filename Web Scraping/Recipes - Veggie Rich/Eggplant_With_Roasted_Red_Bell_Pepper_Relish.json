@@ -1,0 +1,85 @@
+{
+    "title": "Eggplant With Roasted Red Bell Pepper Relish",
+    "keywords": "Dinner,Sides,Vegan,Vegetarian",
+    "prep_time": "PT8M",
+    "cook_time": "PT28M",
+    "categories": [
+        "Dinner",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_689_Eggplant_Roasted_Red_Bell_Pepper_Relish_DiabetesHeartHealthy_022518.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "eggplant (unpeeled, cut into 12 slices, each 1/2 inch)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "olive oil (divided use)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "roasted red peppers (drained if bottled, chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "chopped fresh parsley or 1/4 teaspoon dried oregano, thyme, or basil (crumbled)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "red wine vinegar",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "small garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Pinch of pepper",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 425°F. Lightly spray a large baking dish with cooking spray.",
+        "Lightly brush both sides of the eggplant slices with 2 teaspoons oil. Sprinkle the salt over the top of the slices. Arrange in a single layer in the baking dish.",
+        "Roast for 18–20 minutes, or until the eggplant is lightly browned on the bottom. Turn over. Roast for 8 minutes, or until browned on the bottom. Transfer the eggplant to plates.",
+        "Meanwhile, in a small bowl, stir together the remaining ingredients, including the remaining 1 teaspoon oil. Spoon over the eggplant."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Indian",
+        "Mediterranean",
+        "Dinner",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "3g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "7g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/eggplant-roasted-red-bell-pepper-relish"
+}

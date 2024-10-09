@@ -1,0 +1,88 @@
+{
+    "title": "Grilled Chicken with Plums and Zucchini Skewers",
+    "keywords": "Dinner,Holidays & Entertaining,Main Dish",
+    "prep_time": "PT1H5M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Holidays & Entertaining",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/grilled%20chicken%20skewers%20plum%20diabetic.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "lower sodium soy sauce",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "honey",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "fresh ginger (grated)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "boneless, skinless chicken breasts (cut into chunks)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "plums (pitted and quartered)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "zucchini (cut into ½ inch rounds)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "wooden or metal skewers",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "In a bowl, whisk together soy sauce, olive oil, honey, garlic, and ginger.",
+        "Place chicken, plums, and zucchini in a large resealable bag or shallow dish and pour the marinade over them. Seal and refrigerate for at least 1 hour, up to overnight.",
+        "Preheat the grill (or indoor grill pan) to medium-high heat. Thread chicken, plums, and zucchini onto skewers. Discard leftover marinade.",
+        "Grill for 10–15 minutes, turning occasionally, until chicken is cooked through and plums are tender."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Grilling",
+        "Kid Friendly",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "8g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "440mg",
+        "total_carbohydrate": "14g",
+        "fiber": "2g",
+        "sugar": "12g",
+        "added_sugar": "1g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-chicken-plums-and-zucchini-skewers"
+}

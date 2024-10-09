@@ -1,0 +1,103 @@
+{
+    "title": "Veggie Chili",
+    "keywords": "Dinner,Easy Pantry Recipes,Lunch,Quick & Easy,Sides,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Lunch",
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/576-diabetic-vegetarian-chili_AdobeStock126991574_100719.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "canola oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "medium onion (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "carrot(s) (sliced)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "green bell pepper (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zucchini (chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "kidney beans (16-ounce, rinsed and drained)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "black beans (16-ounce, rinsed and drained)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "tomato sauce (15-ounce)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "tomato(es) (14.5 ounce, in juice, no-salt-added, diced)",
+            "us_amount": "2 can",
+            "metric_amount": "2 can"
+        }
+    ],
+    "instructions": [
+        "Heat oil in a large soup pot over medium-high heat.",
+        "Add onion and carrots and sauté 5 minutes. Add green pepper and zucchini and sauté another 2 minutes.",
+        "Add garlic and sauté 30 seconds. Add chili powder and all remaining ingredients; bring to a boil.",
+        "Cover, reduce heat, and simmer 30-35 minutes or until the vegetables are tender."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Lunch",
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "179",
+        "total_fat": "3g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "492mg",
+        "total_carbohydrate": "33g",
+        "fiber": "10g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/veggie-chili"
+}

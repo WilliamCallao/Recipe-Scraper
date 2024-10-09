@@ -1,0 +1,111 @@
+{
+    "title": "Pumpkin-Vanilla Pudding",
+    "keywords": "Dessert,Foodie,Holidays & Entertaining,Snacks,Vegetarian",
+    "prep_time": "PT1H10M",
+    "cook_time": "PT7M",
+    "categories": [
+        "Dessert",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/pumpkin-vanilla-pudding-Nov15.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "low-calorie sugar substitute",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Cornstarch",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "1% milk",
+            "us_amount": "1 3/4 cup",
+            "metric_amount": "414 ml"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "canned pumpkin",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ground cloves",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground ginger",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground nutmeg",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "vanilla bean",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pecans",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "whipped topping",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "In a 3-quart saucepan, whisk together the sweetener and the corn starch.",
+        "In a small bowl, whisk together the milk and egg yolks. Over medium heat, slowly whisk the egg mixture into the sweetener mixture. Bring to boiling, continuing to whisk the mixture until it thickens, about 3 to 5 minutes.",
+        "Add the pumpkin, cinnamon, cloves, ginger, and nutmeg. Mix well and cook on low heat for 3 minutes. Add the vanilla bean seeds and cook 1 minute more.",
+        "Remove the saucepan from the stove. Place the pudding in a bowl and cover with plastic wrap. Refrigerate for 1 hour before serving. To serve, spoon the pudding into individual dishes, top each dish with 1/2 Tbsp pecans, and dust with cinnamon. If desired, dollop with whipped topping."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Lower Carb",
+        "Low Sodium",
+        "Kid Friendly",
+        "Comfort Food",
+        "Dessert",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "85",
+        "total_fat": "4g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "30mg",
+        "total_carbohydrate": "9g",
+        "fiber": "1g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pumpkin-vanilla-pudding"
+}

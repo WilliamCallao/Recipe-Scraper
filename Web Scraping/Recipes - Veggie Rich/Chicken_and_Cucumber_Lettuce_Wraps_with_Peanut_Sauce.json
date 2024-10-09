@@ -1,0 +1,117 @@
+{
+    "title": "Chicken and Cucumber Lettuce Wraps with Peanut Sauce",
+    "keywords": "Main Dish,Lunch,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/10main_ChickenandCucumberLettuceWrapswithPeanutSauce.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "reduced-fat peanut butter",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "lower sodium soy sauce",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "honey",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "rice vinegar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sesame oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "fresh ginger (grated)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "water (or more to reach desired consistency)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "boneless, skinless chicken breasts (cooked and sliced)",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "cucumber(s) (julienned (cut into thin strips about the size of matchsticks))",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "carrots (julienned)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "fresh cilantro (chopped)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "lettuce",
+            "us_amount": "8 leaves",
+            "metric_amount": "8 leaves"
+        },
+        {
+            "name": "green onion (scallion) (thinly sliced)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "sesame seeds (toasted, for garnish)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "In a small bowl, whisk together peanut butter, soy sauce, honey, rice vinegar, sesame oil, minced garlic, and grated ginger. Add water gradually until you reach the desired sauce consistency.",
+        "Assemble the lettuce wraps by laying out large lettuce leaves, placing chicken on each leaf, and topping with cucumber and carrots.",
+        "Drizzle peanut sauce over the chicken and top with cilantro, scallions, and sesame seeds."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Asian",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "303",
+        "total_fat": "11.8g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "73mg",
+        "sodium": "437mg",
+        "total_carbohydrate": "17g",
+        "fiber": "3g",
+        "sugar": "9g",
+        "added_sugar": "5g",
+        "protein": "33g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-and-cucumber-lettuce-wraps-peanut-sauce"
+}

@@ -1,0 +1,111 @@
+{
+    "title": "Smoky Shrimp Tostadas with Chipotle Mango Slaw",
+    "keywords": "Dinner,Lunch,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1754-espanol-diabetic-tostadas-camarones-ahumados-ensalad-chipotle-mango_latin-comfort-foods_13020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "6-inch corn tortillas",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "reduced-fat mayonnaise",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "lime (zested and juiced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chopped chipotle chilies in adobo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "adobo sauce from chipotle pepper can",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "honey",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "packaged coleslaw mix",
+            "us_amount": "1 (10-oz) bag",
+            "metric_amount": "1 (10-oz) bag"
+        },
+        {
+            "name": "ripe medium mango (cut into 1/2-inch chunks)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh cilantro",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "wild, never frozen, medium shrimp (peeled and deveined)",
+            "us_amount": "1/2 lb (about 20 shrimp)",
+            "metric_amount": "1/2 lb (about 20 shrimp)"
+        },
+        {
+            "name": "chipotle powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Heat a small nonstick skillet over medium heat. Add the tortillas, one at a time, and cook until lightly toasted and crisp, about 3 minutes on each side. Remove from the skillet and set aside.",
+        "Whisk together the mayonnaise, lime zest, lime juice, chipotle chilies, adobo sauce, honey, and salt in a large bowl. Add the coleslaw, mango, and cilantro; toss to coat well.",
+        "Sprinkle the shrimp with the chili powder. Heat the oil in a medium nonstick skillet over medium-high heat. Add the shrimp, in batches, and cook, turning occasionally, until just opaque in center, 2–3 minutes.",
+        "Place the tortillas on each of 4 plates. Top each with one-fourth of the coleslaw mixture and one-fourth of the shrimp. Serve at once."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Latin American",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "460mg",
+        "total_carbohydrate": "29g",
+        "fiber": "5g",
+        "sugar": "12g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/smoky-shrimp-tostadas-chipotle-mango-slaw"
+}

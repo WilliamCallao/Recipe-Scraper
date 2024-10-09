@@ -1,0 +1,93 @@
+{
+    "title": "Corn and Cheese Phyllo Empanadas",
+    "keywords": "Vegetarian,Snacks,Sides,Appetizers",
+    "prep_time": "PT20M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Vegetarian",
+        "Snacks",
+        "Sides",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1745-espanol-diabetic-empanadas-hojaldre-rellenas-maiz-queso_latin-comfort-foods_13020.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "onion (finely chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh, frozen, or canned corn kernels (thawed if frozen)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "roasted red peppers (drained and thinly sliced)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "green onion (scallion) (thinly sliced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "low-fat half-and-half",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "part-skim shredded mozzarella cheese",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "nonstick olive oil spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "frozen phyllo dough (at room temperature)",
+            "us_amount": "8 (9x14-inch) sheets",
+            "metric_amount": "8 (9x14-inch) sheets"
+        }
+    ],
+    "instructions": [
+        "Heat the oil in a large nonstick skillet over medium-high heat. Add the onion and cook, stirring occasionally, until the onion is softened, about 6 minutes. Add the corn, roasted red peppers, and scallions; cook 2 minutes. Add the half-andhalf, stirring, until the liquid is almost evaporated, about 2 minutes. Remove from the heat; stir in the cheese. Let cool slightly.",
+        "Preheat the oven to 375°F. Spray a large baking sheet with nonstick spray.",
+        "Place one sheet of phyllo lengthwise on a work surface (cover the remaining phyllo with plastic wrap to keep from drying out). Lightly spray the phyllo sheet with nonstick spray; top with a second phyllo sheet and lightly spray with nonstick spray. With a sharp knife, cut the layered sheets in half lengthwise. Repeat this layering and cutting process with the remaining phyllo sheets to make a total of 8 strips of dough.",
+        "Place a heaping Tbsp of filling to the left on the bottom end of one strip of phyllo. Fold one corner of the phyllo strip up and over the filling, then continue folding and overlapping, flag-fashion, to form a triangle. Place on the baking sheet and repeat with the remaining phyllo sheets and filling to make a total of 8 empanadas.",
+        "Lightly spray the empanadas with nonstick spray. Bake until the empanadas are golden brown, 15–20 minutes. Let cool 10 minutes before serving."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Latin American",
+        "Vegetarian",
+        "Snacks",
+        "Sides",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "4g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "105mg",
+        "total_carbohydrate": "14g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/corn-and-cheese-phyllo-empanadas"
+}

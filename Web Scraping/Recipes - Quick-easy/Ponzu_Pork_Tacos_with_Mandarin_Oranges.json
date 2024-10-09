@@ -1,0 +1,114 @@
+{
+    "title": "Ponzu Pork Tacos with Mandarin Oranges",
+    "keywords": "Dinner,Lunch,Main Dish,Quick & Easy",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Ponzu%20tacos%20diabetic%20recipe.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "thin boneless pork loin chops (sliced into strips)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "lower sodium soy sauce (for the Ponzu sauce)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "orange (juice from 1/2 orange, for the Ponzu sauce)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "lemon (juice from 1/2 lemon, for the Ponzu sauce)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "garlic (minced, for the Ponzu sauce)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "fresh ginger (minced, for the Ponzu sauce)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "rice wine (mirin) (for the Ponzu sauce)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Cornstarch (for the Ponzu sauce)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "crushed red pepper flakes (for the Ponzu sauce)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "corn tortillas (6\" corn tortillas)",
+            "us_amount": "8 small",
+            "metric_amount": "8 small"
+        },
+        {
+            "name": "butter lettuce (shredded)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "water- or juice-packed mandarin oranges (drained)",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "dried sesame noodles (lightly crushed)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat a large skillet over medium heat. Add olive oil and pork. Cook, stirring occasionally, until no longer pink, 4–5 minutes.",
+        "Meanwhile, in a small bowl, whisk together the ingredients for the Ponzu sauce.",
+        "Pour Ponzu sauce into the skillet and cook for 2–3 minutes, until the sauce thickens slightly and coats the pork. Remove from heat.",
+        "To assemble, divide pork between tortillas. Top with lettuce, oranges, and crunchy noodles."
+    ],
+    "tags": [
+        "Asian",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "370",
+        "total_fat": "13g",
+        "saturated_fat": "3.5g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "480mg",
+        "total_carbohydrate": "38g",
+        "fiber": "4g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ponzu-pork-tacos-mandarin-oranges"
+}

@@ -1,0 +1,121 @@
+{
+    "title": "Green Bell Pepper Enchiladas",
+    "keywords": "Budget Friendly,Dinner,Main Dish,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recipe%20Size_1.png",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "green bell pepper (diced)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "jalapeño pepper (minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "green onion (scallion) (sliced)",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "cooked chicken (shredded)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "olive oil (for the sauce)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "all-purpose flour (for the sauce)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "low sodium chicken broth (for the sauce)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "salt (for the sauce)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground coriander (for the sauce)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "light sour cream (for the sauce)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Shredded Monterey jack cheese, reduced-fat",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "whole wheat flour tortillas",
+            "us_amount": "8 small",
+            "metric_amount": "8 small"
+        }
+    ],
+    "instructions": [
+        "Heat a large skillet over medium heat. Add 1 tablespoon of olive oil, green bell pepper, jalapeño, green onions (reserving a small handful for garnish), garlic, and salt. Cook, stirring occasionally, until veggies soften, 4–5 minutes. Transfer cooked vegetables to a bowl. Add chicken to the bowl with the veggies and toss to combine. Set aside.",
+        "Preheat the oven to 350 degrees F.",
+        "Return the skillet to medium heat. Add 3 tablespoons of olive oil, then add the flour. Whisk, cooking for one minute. Slowly pour in the broth and whisk until thickened, 3–4 minutes. Remove from heat and stir in the salt, coriander, and sour cream.",
+        "Pour a small amount of the sauce into the bottom of a baking dish, spread to coat.",
+        "Divide chicken mixture evenly between tortillas and roll tightly. Place seam side down into the baking dish. Pour remaining sauce over the tortillas and top with cheese",
+        "Place the baking dish in the oven and bake until the cheese is melted and bubbly, 15–20 minutes. Serve with a sprinkle of remaining green onion."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Mexican/Southwestern",
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "300",
+        "total_fat": "16g",
+        "saturated_fat": "4.9g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "500mg",
+        "total_carbohydrate": "21g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/green-bell-pepper-enchiladas"
+}

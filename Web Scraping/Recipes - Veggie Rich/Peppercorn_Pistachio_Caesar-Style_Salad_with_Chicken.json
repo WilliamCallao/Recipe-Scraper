@@ -1,0 +1,109 @@
+{
+    "title": "Peppercorn Pistachio Caesar-Style Salad with Chicken",
+    "keywords": "Dinner,Lunch,Main Dish,Salads",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Salads"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/may2014-peppercorn-pistachio.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "chicken thighs (3-ounces each, boneless, skinless)",
+            "us_amount": "4 whole",
+            "metric_amount": "4 whole"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "sea salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "hummus",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "unsweetened green tea (chilled)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Parmesan-Reggiano cheese (grated)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "garlic (large cloves)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Worcestershire sauce",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "lemon juice",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "black peppercorns (freshly cracked, divided)",
+            "us_amount": "1 1/4 tsp",
+            "metric_amount": "6 g"
+        },
+        {
+            "name": "mixed greens (8 ounces)",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "pistachios (roasted, shelled, chopped, lightly salted)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat a grill or grill pan. Brush the chicken with the oil and sprinkle with salt. Grill over direct medium heat until fully cooked and grill marks form. Set aside.",
+        "Add the hummus, tea, cheese, garlic, mustard, Worcestershire sauce, lemon juice, and 1 Tsp. peppercorns to a blender. Cover and puree.",
+        "When ready to serve toss the dressing with the greens in a large mixing bowl. Transfer to 4 separate bowls or plate, top with grilled chicken, sprinkle with pistachios and the remaining 1/4 Tsp. peppercorns, and serve."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Grilling",
+        "Italian",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "13g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "55mg",
+        "sodium": "510mg",
+        "total_carbohydrate": "11g",
+        "fiber": "4g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/peppercorn-pistachio-caesar-style-salad-chicken"
+}

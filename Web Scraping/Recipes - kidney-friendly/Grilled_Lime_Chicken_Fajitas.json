@@ -1,0 +1,112 @@
+{
+    "title": "Grilled Lime Chicken Fajitas",
+    "keywords": "Holidays & Entertaining,Main Dish,Quick & Easy,Dinner,Gluten-Free,Lunch",
+    "prep_time": "PT30M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Main Dish",
+        "Quick & Easy",
+        "Dinner",
+        "Gluten-Free",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/282-diabetic-grilled-fajitas_TheDiabetesCookbook_102518.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "large lime (zested and juiced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "honey or 2 packets artificial sweetener",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chopped fresh cilantro",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cumin",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "garlic powder",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "chicken tenderloins",
+            "us_amount": "1 1/4 lbs",
+            "metric_amount": "567 ml"
+        },
+        {
+            "name": "large onion (sliced into strips)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "green bell peppers (seeded and sliced into strips)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "corn tortillas (or low-carb tortillas) (6-inch)",
+            "us_amount": "10",
+            "metric_amount": "10"
+        },
+        {
+            "name": "salsa",
+            "us_amount": "10 tbsp",
+            "metric_amount": "148 ml"
+        }
+    ],
+    "instructions": [
+        "In a medium bowl, mix together the lime juice and zest, honey, cilantro, cumin, chili powder, garlic powder, and pepper. Add the chicken breast tenderloins and marinate in the refrigerator for 20-60 minutes.",
+        "Preheat a grill to medium heat. Place the onions and green peppers in a grill basket. Grill the vegetables in the basket, stirring occasionally, about 15-20 minutes until slightly charred.",
+        "Add the chicken directly to the grill and cook 10-12 minutes, until done, turning once.",
+        "Divide the chicken, green peppers and onions evenly among 10 tortillas. Top each fajita with 1 Tbsp. salsa."
+    ],
+    "tags": [
+        "Low Sodium",
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Mexican/Southwestern",
+        "Grilling",
+        "Holidays & Entertaining",
+        "Main Dish",
+        "Quick & Easy",
+        "Dinner",
+        "Gluten-Free",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "4g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "35mg",
+        "sodium": "370mg",
+        "total_carbohydrate": "22g",
+        "fiber": "10g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-lime-chicken-fajitas"
+}

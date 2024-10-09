@@ -1,0 +1,79 @@
+{
+    "title": "Mediterranean Chicken Pita",
+    "keywords": "Quick & Easy,No Cook,Main Dish,Lunch,Dinner,Budget Friendly,Easy Pantry Recipes,Sandwiches",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "No Cook",
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly",
+        "Easy Pantry Recipes",
+        "Sandwiches"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1759-diabetic-mediterranean-chicken-pita_Superfoods_DFMarApr19_020519.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "cubed cooked chicken",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "low-fat tzatziki sauce or nonfat plain Greek yogurt",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "whole grain pocket style pitas (cut in half to make 4 pita pockets)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "diced cucumber",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "diced tomato",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "unsalted, sliced dry-roasted almonds",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "In a medium mixing bowl, mix together the chicken and tzatziki sauce. Stuff ½ cup of the chicken mixture into each pita pocket.",
+        "Top each filled pita pocket with ¼ cup cucumbers, ¼ cup tomatoes, and 2 Tbsp sliced almonds."
+    ],
+    "tags": [
+        "Mediterranean",
+        "Quick & Easy",
+        "No Cook",
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly",
+        "Easy Pantry Recipes",
+        "Sandwiches"
+    ],
+    "nutrition": {
+        "calories": "310",
+        "total_fat": "13g",
+        "saturated_fat": "2.7g",
+        "trans_fat": "0.1g",
+        "cholesterol": "85mg",
+        "sodium": "490mg",
+        "total_carbohydrate": "25g",
+        "fiber": "4g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mediterranean-chicken-pita"
+}

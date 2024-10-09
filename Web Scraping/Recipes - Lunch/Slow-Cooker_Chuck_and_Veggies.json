@@ -1,0 +1,99 @@
+{
+    "title": "Slow-Cooker Chuck and Veggies",
+    "keywords": "Cooking for 1 or 2,Dinner,Lunch,Main Dish,One Pot,Quick & Easy,Slow Cooker",
+    "prep_time": "PT15M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "One Pot",
+        "Quick & Easy",
+        "Slow Cooker"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/diabetic-slow-cooker-chuck-and-veggies_designed%20for%20one_071118.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "boneless lean chuck roast (trim any visible fat)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "frozen pepper stir-fry",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "whole mushrooms",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "fresh green beans (trimmed, about 1 1/4 cups total)",
+            "us_amount": "5 oz",
+            "metric_amount": "142 ml"
+        },
+        {
+            "name": "dry red wine",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "dried bay leaf",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "instant coffee granules",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Worcestershire sauce",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salt",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Combine all the ingredients, except the salt, in a 3 1/2-4 quart slow cooker. Cover and cook on high setting for 4 1/2 hours or on low setting for 9 hours or until beef is very tender. Gently stir in the salt.",
+        "Remove the beef and vegetables with a slotted spoon and place in 2 shallow bowls.",
+        "Pour the liquid in the slow cooker into a medium skillet. Bring to a boil over medium-high heat and cook 1 1/2 minutes or until the liquid reduces to 1/4 cup. Spoon evenly over the beef and vegetables. Remove bay leaf before serving."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Comfort Food",
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "One Pot",
+        "Quick & Easy",
+        "Slow Cooker"
+    ],
+    "nutrition": {
+        "calories": "215",
+        "total_fat": "5g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "380mg",
+        "total_carbohydrate": "17g",
+        "fiber": "5g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/slow-cooker-chuck-and-veggies"
+}

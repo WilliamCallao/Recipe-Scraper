@@ -1,0 +1,113 @@
+{
+    "title": "Grilled Shrimp Tacos",
+    "keywords": "Lunch,Budget Friendly,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Lunch",
+        "Budget Friendly",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/020-grilled-shrimp-tacos-DFH-MJ20.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Greek yogurt (plain, non-fat)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "light mayonnaise",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "chili powder",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "shrimp (peeled and deveined)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "long bamboo skewers (soaked in warm water)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garlic (minced or grated)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "lime (juiced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper (ground )",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "corn tortillas (6-inch)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "lettuce (shredded)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "salsa verde (tomatillo salsa)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cotija or feta cheese",
+            "us_amount": "2 1/2 tbsp",
+            "metric_amount": "37 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat an indoor or outdoor grill.",
+        "In a small bowl, whisk together the yogurt, mayonnaise, and chili powder. Cover and keep in the refrigerator until needed.",
+        "Skewer 3 ounces of shrimp on each skewer.",
+        "In a small bowl, whisk together olive oil, garlic, lime juice, salt (optional) and pepper. Brush the shrimp with the marinade and grill for 3-4 minutes on each side until the shrimp are pink and just firm. Continue to brush with the marinade while grilling, using all of the marinade.",
+        "Heat the corn tortillas briefly on the grill. Remove the shrimp from one skewer and place in a tortilla. Top the shrimp with 1/4 cup shredded lettuce, a heaping tablespoon of the reserved yogurt sauce, and 2 tablespoons of salsa verde, and about 2 teaspoons cheese. Repeat for the remaining three tacos."
+    ],
+    "tags": [
+        "Mexican/Southwestern",
+        "Grilling",
+        "Lunch",
+        "Budget Friendly",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "8g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "150mg",
+        "sodium": "390mg",
+        "total_carbohydrate": "17g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "23g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-shrimp-tacos"
+}

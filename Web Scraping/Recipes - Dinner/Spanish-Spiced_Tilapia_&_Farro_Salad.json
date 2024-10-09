@@ -1,0 +1,128 @@
+{
+    "title": "Spanish-Spiced Tilapia & Farro Salad",
+    "keywords": "Cooking for 1 or 2,Dinner,Foodie,Main Dish,Meal Kit Recipes",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Foodie",
+        "Main Dish",
+        "Meal Kit Recipes"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1939-diabetic-spanish-spiced-tilapia-farro-salad_blue-apron_031220.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "semi-pearled farro",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "red onion",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresh green beans",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "navel orange",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "castelvetrano olives",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "sweet piquante peppers",
+            "us_amount": "1/2 oz",
+            "metric_amount": "14 ml"
+        },
+        {
+            "name": "olive oil (divided use)",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        },
+        {
+            "name": "water (divided use)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sweet paprika",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ground cumin",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground coriander",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "dried oregano",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cayenne pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "tilapia",
+            "us_amount": "2 (5-oz) fillets",
+            "metric_amount": "2 (5-oz) fillets"
+        },
+        {
+            "name": "golden raisins",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        }
+    ],
+    "instructions": [
+        "Cook the farro: Fill a medium pot 3/4 of the way up with salted water; cover and heat to boiling on high. Once boiling, add the farro and cook, uncovered, 18 to 20 minutes, or until tender. Turn off the heat. Drain thoroughly.",
+        "Prepare the ingredients: Meanwhile, wash and dry fresh produce. Halve, peel, and medium dice the onion. Cut off and discard the stem ends of the green beans; halve crosswise. Peel and medium dice the orange. Pit and roughly chop the olives. Roughly chop the peppers.",
+        "Cook the green beans: In a medium pan (nonstick, if you have one), heat 1 teaspoon of olive oil on medium-high until hot. Add the halved green beans and half the diced onion in an even layer; season with salt (optional) and pepper. Cook, without stirring, 3 to 4 minutes, or until lightly browned. Continue to cook, stirring frequently, 2 to 3 minutes, or until browned. Add 2 tablespoons of water (carefully, as the liquid may splatter). Cook, stirring frequently, 1 to 2 minutes, or until the green beans are softened and the liquid has cooked off. Transfer to a large bowl; cover with foil to keep warm. Wipe out the pan.",
+        "Cook the fish: Combine the spices (paprika, cumin, coriander, oregano, cayenne, and cinnamon) in a small bowl. Pat the fish dry with paper towels; season on both sides with salt (optional), pepper, and enough of the spice blend to coat (you may have extra). In the same pan, heat 1 tablespoon of olive oil on medium-high until hot. Add the seasoned fish. Cook 3 to 4 minutes per side, or until lightly browned and cooked through.* Leaving any browned bits (or fond) in the pan, transfer to a plate. * An instant-read thermometer should register 145°F.",
+        "Make the pan sauce & serve your dish: Add the remaining diced onion and 1 teaspoon of olive oil to the pan of reserved fond; season with salt (optional) and pepper. Cook on medium-high, stirring occasionally, 2 to 3 minutes, or until softened. Add the raisins, diced orange, and 2 tablespoons of water (carefully, as the liquid may splatter). Cook, stirring frequently and scraping up any fond, 2 to 3 minutes, or until combined and most of the liquid has cooked off. Turn off the heat. To the bowl of cooked green beans, add the cooked farro, chopped olives, chopped peppers, and 1 teaspoon of olive oil. Season with salt (optional) and pepper; stir to combine. Serve the finished farro topped with the cooked fish and pan sauce. Enjoy!"
+    ],
+    "tags": [
+        "High in Fiber",
+        "Seafood",
+        "Mediterranean",
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Foodie",
+        "Main Dish",
+        "Meal Kit Recipes"
+    ],
+    "nutrition": {
+        "calories": "570",
+        "total_fat": "22g",
+        "saturated_fat": "4g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "320mg",
+        "total_carbohydrate": "60g",
+        "fiber": "10g",
+        "sugar": "20g",
+        "added_sugar": "1g",
+        "protein": "36g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spanish-spiced-tilapia-farro-salad"
+}

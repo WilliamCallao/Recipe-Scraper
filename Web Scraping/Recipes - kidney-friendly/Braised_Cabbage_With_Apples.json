@@ -1,0 +1,107 @@
+{
+    "title": "Braised Cabbage With Apples",
+    "keywords": "Sides,Salads,Lunch,Holidays & Entertaining,Foodie,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Sides",
+        "Salads",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1035-diabetic-braised-red-cabbage-apples_DFImport_AdobeStock120290181_092920.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "butter",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "onion (diced)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "Granny Smith or other tart apple (unpeeled and diced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "caraway seeds",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sugar",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "shredded red cabbage",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "low sodium chicken broth",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "apple juice",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "apple cider vinegar or lemon juice",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salt and pepper to taste (not included in nutrition analysis)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Heat the oil and butter in a large skillet over medium heat. Add the onion and apple, and sauté for about 3 to 4 minutes, just until the apple begins to soften. Add in the caraway seeds and sugar, and sauté for 1 minute.",
+        "Add in the cabbage and toss with tongs, coating the cabbage with the apples and onion. Sauté for about 3 to 4 minutes.",
+        "Add in the broth and apple juice, cover, and cook over medium heat for about 8 to 10 minutes, or until the cabbage is cooked through but tender. Sprinkle in the cider vinegar or lemon juice, and season with salt and pepper."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Comfort Food",
+        "Sides",
+        "Salads",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "40",
+        "total_fat": "1.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "30mg",
+        "total_carbohydrate": "7g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/braised-cabbage-apples"
+}

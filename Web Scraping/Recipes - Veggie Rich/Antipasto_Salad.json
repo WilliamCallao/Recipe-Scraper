@@ -1,0 +1,108 @@
+{
+    "title": "Antipasto Salad",
+    "keywords": "Dinner,Gluten-Free,No Cook,Salads,Lunch,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Gluten-Free",
+        "No Cook",
+        "Salads",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_40_Antipasto_Salad_%20PNC_022318_MG_2179-%28ZF-5661-35964-1-110%29.jpg_022318.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "chopped romaine lettuce",
+            "us_amount": "1 (10-oz) bag",
+            "metric_amount": "1 (10-oz) bag"
+        },
+        {
+            "name": "deli turkey (cut into strips)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "reduced fat provolone cheese (cut into 1/2-inch strips )",
+            "us_amount": "2 slice",
+            "metric_amount": "2 slice"
+        },
+        {
+            "name": "Parmesan cheese (freshly grated)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "green olives (pitted and chopped )",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sun-dried tomatoes",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "jarred roasted red peppers (cut into 1/2-inch strips)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "red wine vinegar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Dijon Mustard",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "freshly ground black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "shallots (minced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "In a salad bowl, toss together the lettuce, turkey, cheeses, olives, tomatoes, and red peppers.",
+        "In a small bowl, whisk together the vinegar, oil, mustard, pepper, and shallots. Pour over salad and toss to coat."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Italian",
+        "Mediterranean",
+        "Dinner",
+        "Gluten-Free",
+        "No Cook",
+        "Salads",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "11g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "390mg",
+        "total_carbohydrate": "9g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/antipasto-salad"
+}
