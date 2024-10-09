@@ -1,0 +1,101 @@
+{
+    "title": "Asado de Cerdo Estilo Griego y Tzatziki con Verduras al Limón y Ajo",
+    "keywords": "Meal Kit Recipes,Main Dish,Foodie,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Meal Kit Recipes",
+        "Main Dish",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1882-diabetic-Pork-Lemony-Potatoes_BA_012520.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "romero fresco",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        },
+        {
+            "name": "aceite de oliva (dividido)",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        },
+        {
+            "name": "cerdo lejos",
+            "us_amount": "24 oz",
+            "metric_amount": "679 ml"
+        },
+        {
+            "name": "papas doradas bebes",
+            "us_amount": "1 1/4 lbs",
+            "metric_amount": "567 ml"
+        },
+        {
+            "name": "brócoli",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "Orégano seco",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "limón",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimientos picantes dulces",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "chirivías (peladas y picadas)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Sal y pimienta al gusto",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "salsa tzatziki baja en grasas",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Prepara el aceite de romero y empieza a cocinar el cerdo: Precalienta el horno a 450 °F. Lava y seca los productos frescos. Quita las hojas de romero de los tallos; pica finamente las hojas. En un tazón grande, combina las hojas de romero picadas y 1 cucharada de aceite de oliva. Cubre una bandeja para horno con papel de aluminio. Seca el cerdo con toallas de papel; sazona con sal (opcional) y pimienta. Agrega el cerdo sazonado al tazón de aceite de romero; voltea para cubrir. Transfiere a un lado de la bandeja para horno. Asa durante 20 minutos. Deja el horno encendido, retira del horno.",
+        "Prepara las verduras: Mientras tanto, corta las patatas en rodajas de 1,25 cm de grosor. Corta y desecha el 1,25 cm inferior del tallo del brócoli; corta el brócoli en floretes pequeños.",
+        "Asar las papas: colocar las rodajas de papa en una placa para horno aparte. Rociar con 1/2 cucharadita de aceite de oliva y sazonar con sal (opcional), pimienta y orégano. Revolver para cubrir y colocar en una capa uniforme. Asar durante 26 a 28 minutos, o hasta que estén doradas y tiernas al pincharlas con un tenedor. Retirar del horno.",
+        "Terminar el cerdo y asar el brócoli: Mientras tanto, colocar los floretes de brócoli en un bol grande. Rociar con 1/2 cucharadita de aceite de oliva y sazonar con sal y pimienta. Revolver para cubrir. Reservar el bol, transferir con cuidado al otro lado de la bandeja para horno con el cerdo parcialmente asado y colocar en una capa uniforme. Asar durante 16 a 18 minutos, o hasta que el brócoli esté tierno al pincharlo con un tenedor y el cerdo esté dorado y cocido (un termómetro de lectura instantánea debe registrar 145 °F). Retirar del horno. Transfiera el cerdo asado a una tabla de cortar; dejar reposar al menos 5 minutos.",
+        "Termina y sirve tu plato: Mientras tanto, corta el limón por la mitad en forma transversal; exprime el jugo en el tazón grande reservado, colando las semillas. Pica los pimientos en trozos grandes. Pela 1 diente de ajo; con un rallador, ralla finamente hasta formar una pasta (o usa el lado pequeño de un rallador de caja). Al tazón de jugo de limón, agrega los pimientos picados y la cantidad de pasta de ajo que desees. Revuelve para combinar. Transfiere las papas asadas y el brócoli al tazón de la mezcla de limón y ajo. Mezcla para cubrir. Encuentra las líneas de músculo (o veta) en la carne de cerdo reposada; corta en rodajas finas en forma transversal en contra de la veta. Sirve la carne de cerdo en rodajas con las verduras terminadas. Cubre la carne de cerdo con el tzatziki. ¡Disfruta!"
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mediterranean",
+        "Comfort Food",
+        "Meal Kit Recipes",
+        "Main Dish",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "460",
+        "total_fat": "15g",
+        "saturated_fat": "3.5g",
+        "trans_fat": "0g",
+        "cholesterol": "115mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "37g",
+        "fiber": "6g",
+        "sugar": "6g",
+        "added_sugar": "1g",
+        "protein": "47g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/greek-style-pork-roast-tzatziki-lemon-garlic-vegetables"
+}

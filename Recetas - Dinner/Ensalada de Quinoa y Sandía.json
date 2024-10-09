@@ -1,0 +1,102 @@
+{
+    "title": "Ensalada de Quinoa y Sandía",
+    "keywords": "Dinner,Lunch,Quick & Easy,Salads,Sides,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/diabetic%20watermelon%20salad.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "caldo de verduras bajo en sodio",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "quinua (enjuagada)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "rúcula bebé",
+            "us_amount": "5 oz",
+            "metric_amount": "142 ml"
+        },
+        {
+            "name": "Sandía (cortada en cubitos medianos)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "aguacate (cortado en cubitos medianos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "semillas de calabaza saladas",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "menta fresca (hojas arrancadas)",
+            "us_amount": "1/2 oz",
+            "metric_amount": "14 ml"
+        },
+        {
+            "name": "queso feta bajo en grasa",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "Lima (rallada y exprimida)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Ponga a hervir el caldo en una cacerola pequeña. Agregue la quinua y cubra, reduzca el fuego a mínimo. Cocine durante 15 minutos o hasta que se absorba el caldo. Extienda la quinua en una bandeja para hornear grande en una capa fina para que se enfríe.",
+        "Una vez que la quinua se haya enfriado a temperatura ambiente, dispón la rúcula en una fuente grande para servir. Cúbrela con quinua, sandía, aguacate, semillas de calabaza, menta y queso feta.",
+        "Combine la ralladura y el jugo de lima, el aceite y la miel en un tazón pequeño. Bata para mezclar y rocíe el aderezo sobre la ensalada. Agregue sal y pimienta si lo desea."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mediterranean",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "340",
+        "total_fat": "21g",
+        "saturated_fat": "4.6g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "350mg",
+        "total_carbohydrate": "30g",
+        "fiber": "6g",
+        "sugar": "9g",
+        "added_sugar": "1g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/watermelon-quinoa-salad"
+}

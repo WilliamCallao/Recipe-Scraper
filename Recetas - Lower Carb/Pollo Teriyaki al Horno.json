@@ -1,0 +1,86 @@
+{
+    "title": "Pollo Teriyaki al Horno",
+    "keywords": "Dinner,Easy Pantry Recipes,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2061_DiabetesFoodHub_Baked%20Teriyaki%20Chicken.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "Maicena",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "agua fría",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Corte los aguacates por la mitad y quíteles el hueso. En el centro de cada aguacate, coloque una cucharada de frijoles, una cucharada de yogur griego y una cucharada de salsa y espolvoree con una cucharadita de queso. Espolvoree la sal uniformemente sobre los aguacates. Sirva cada mitad de aguacate con una rodaja de limón para exprimir sobre el plato.",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "salsa de soja baja en sodio",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Vinagre de sidra de manzana",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Jengibre molido",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel",
+            "us_amount": "3 lbs",
+            "metric_amount": "1 l 361 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425 °F. Rocíe una fuente para hornear de 13” x 9” con aceite en aerosol.",
+        "Cocine al vapor, en microondas o asado el brócoli según las instrucciones del paquete.",
+        "Coloque el pollo en una fuente para horno preparada y pincele con salsa teriyaki. Dé vuelta el pollo y pincele nuevamente.",
+        "Hornee durante 15 minutos. Dé vuelta el pollo y hornéelo hasta que ya no esté rosado y los jugos salgan transparentes al pincharlo con la punta de un cuchillo para pelar (tiempo total de cocción de 20 a 30 minutos, según el tamaño). Pinte con salsa cada 10 minutos durante la cocción."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "3.5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "80mg",
+        "sodium": "440mg",
+        "total_carbohydrate": "3g",
+        "fiber": "0g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "30g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/baked-teriyaki-chicken"
+}

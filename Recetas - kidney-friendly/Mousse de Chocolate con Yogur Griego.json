@@ -1,0 +1,85 @@
+{
+    "title": "Mousse de Chocolate con Yogur Griego",
+    "keywords": "Vegetarian,Holidays & Entertaining,Foodie,Dessert,Quick & Easy,Snacks",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dessert",
+        "Quick & Easy",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/271-diabetic-dessert-greek-yogurt-chocolate-mousse_Diabetes-Cookbook_DF_101818_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Mini barras de chocolate negro sin azúcar (picadas)",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "Yogur griego natural sin grasa (sin grasa)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Miel o 4 paquetes de edulcorante artificial",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "leche desnatada",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        },
+        {
+            "name": "Frambuesas frescas",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "Añade el chocolate picado a un recipiente apto para microondas. Calienta el chocolate en el microondas a máxima potencia durante 1 minuto y luego revuelve. Si no se ha derretido por completo, caliéntalo en el microondas durante 30 segundos más y luego revuelve hasta que se hayan derretido todos los trozos. Si aún no se ha derretido, caliéntalo en el microondas otros 30 segundos y continúa revolviendo hasta que se hayan derretido todos los trozos del chocolate. No lo cocines demasiado.",
+        "En un bol mediano, bate el yogur griego con una batidora eléctrica hasta que quede esponjoso. Añade la miel, la vainilla y la leche y bate un poco más. Luego, añade el chocolate, una pequeña cantidad a la vez, batiendo entre cada adición.",
+        "Una vez que todo el chocolate esté mezclado con el yogur, divida la mousse en 6 porciones y cubra cada porción con 1/3 de taza de frambuesas y 1 cucharada de crema batida."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Kid Friendly",
+        "Comfort Food",
+        "Vegetarian",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dessert",
+        "Quick & Easy",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "4g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "35mg",
+        "total_carbohydrate": "17g",
+        "fiber": "3g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/greek-yogurt-chocolate-mousse"
+}

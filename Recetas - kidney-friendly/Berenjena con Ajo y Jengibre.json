@@ -1,0 +1,95 @@
+{
+    "title": "Berenjena con Ajo y Jengibre",
+    "keywords": "Quick & Easy,Vegetarian,Vegan,Sides,Main Dish,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Quick & Easy",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2041-diabetic-Eggplant-Garlic-Ginger_DaVita_040821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de sésamo",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Berenjenas japonesas (cortadas en trozos de 1 pulgada)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "jengibre fresco picado",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "champiñones picados",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "brotes frescos de frijol mungo",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "albahaca fresca (picada)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salsa hoisin",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite de sésamo en una sartén grande. Agrega la berenjena, el jengibre, el ajo, los hongos y los brotes de soja. Saltea a fuego medio-alto hasta que la berenjena comience a ablandarse, de 4 a 6 minutos.",
+        "Agregue albahaca, hojuelas de chile picante y salsa hoisin a la berenjena. Continúe cocinando durante 1 o 2 minutos. Retire del fuego y sirva."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Veggie Rich",
+        "Lower Carb",
+        "Asian",
+        "Quick & Easy",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "80mg",
+        "total_carbohydrate": "6g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "1g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/garlicky-ginger-eggplant"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Filetes de Pescado con Cobertura de Limón y Perejil",
+    "keywords": "Lunch,Gluten-Free,Dinner,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Gluten-Free",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_361043897.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Filetes de pescado blanco magro (de 6 onzas cada uno, como tilapia, pargo o platija, enjuagados y secados)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Calabacín (rallado grueso (no escurrir))",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Ralladura de limón",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Perejil (picado finamente)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "eneldo seco (seco)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "limón mediano (cortado por la mitad)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 grados F.",
+        "Cubre una bandeja para hornear con papel de aluminio, rocíalo con aceite en aerosol, coloca los filetes sobre el papel y espolvorea uniformemente con pimentón. Sazona ligeramente con sal y pimienta, si lo deseas. Hornea durante 10 minutos o hasta que el pescado esté opaco en el centro.",
+        "Mientras se cocina el pescado, combine los ingredientes restantes, excepto las mitades de limón, en un tazón pequeño y reserve.",
+        "claras de huevo"
+    ],
+    "tags": [
+        "Lower Carb",
+        "Low Sodium",
+        "Kid Friendly",
+        "Seafood",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "285",
+        "total_fat": "17g",
+        "saturated_fat": "3g",
+        "trans_fat": "0g",
+        "cholesterol": "75mg",
+        "sodium": "75mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "33g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fish-fillets-lemon-parsley-topping"
+}

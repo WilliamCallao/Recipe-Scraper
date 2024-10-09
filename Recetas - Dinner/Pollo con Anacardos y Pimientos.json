@@ -1,0 +1,105 @@
+{
+    "title": "Pollo con Anacardos y Pimientos",
+    "keywords": "Dinner,Main Dish,Quick & Easy,Gluten-Free,One Pot",
+    "prep_time": "PT5M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Main Dish",
+        "Quick & Easy",
+        "Gluten-Free",
+        "One Pot"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2071-diabetic-low-carb-cashew-chicken-bell-pepper_low-carb-brissette_050721.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de aguacate (dividido)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Muslos de pollo deshuesados ​​y sin piel (cortados en trozos del tamaño de un bocado)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "cebolla mediana (cortada en cubitos)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "pimientos morrones (cualquier mezcla de colores) (cortados en trozos de 1 pulgada)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "ajo picado",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "jengibre fresco picado",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "vinagre de arroz",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Tamari reducido en sodio",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "pasta de chile",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Anacardos sin sal (tostados)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "aceite de sésamo",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "semillas de sésamo",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "En una sartén grande o wok a fuego medio-alto, calienta la mitad del aceite. Agrega el pollo y saltéalo durante 6 minutos o hasta que esté bien cocido. Retíralo de la sartén y reserva.",
+        "Añade la otra mitad del aceite a la sartén. Añade la cebolla a la sartén y saltea durante 2 minutos. Añade los pimientos morrones, el ajo y el jengibre, el vinagre de arroz, el tamari y la pasta de chile. Saltea durante 3 minutos o hasta que los pimientos estén tiernos.",
+        "Añade el pollo cocido y los anacardos a la sartén y revuelve para calentar, aproximadamente 2 minutos.",
+        "Retirar del fuego y agregar el aceite de sésamo. Decorar con semillas de sésamo."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Dinner",
+        "Main Dish",
+        "Quick & Easy",
+        "Gluten-Free",
+        "One Pot"
+    ],
+    "nutrition": {
+        "calories": "300",
+        "total_fat": "17g",
+        "saturated_fat": "3.5g",
+        "trans_fat": "0g",
+        "cholesterol": "105mg",
+        "sodium": "470mg",
+        "total_carbohydrate": "15g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cashew-chicken-bell-peppers"
+}

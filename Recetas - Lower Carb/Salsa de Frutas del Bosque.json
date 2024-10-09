@@ -1,0 +1,99 @@
+{
+    "title": "Salsa de Frutas del Bosque",
+    "keywords": "Snacks,Sauces,Quick & Easy,Holidays & Entertaining,Foodie,Appetizers,Vegetarian,Vegan",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Snacks",
+        "Sauces",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Appetizers",
+        "Vegetarian",
+        "Vegan"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/strawberry-blueberry-ingredient-Dec14.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "polvo de chile",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Lima (jugo)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "Variación de la freidora de aire: Prepare el pollo como se indica, hasta el paso 2. Rocíe la canasta de la freidora de aire con aceite en aerosol durante 2 segundos. Coloque el pollo en la canasta de la freidora de aire. Ajuste la temperatura a 375 °F y fría con aire durante 7 minutos. Gire los trozos de pollo. Rocíe con aceite en aerosol durante 1 segundo. Fría con aire durante 7 a 10 minutos más o hasta que el pollo esté listo y un termómetro para carne insertado en el centro registre 165 °F. No amontone el pollo. Si la canasta de su freidora de aire es más pequeña, es mejor cocinar la mitad del pollo y luego repetir con el pollo restante.",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sal (kosher)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4",
+            "metric_amount": "1/4"
+        },
+        {
+            "name": "fresas congeladas (descongeladas y escurridas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "salsa picante",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Combine todos los ingredientes en un tazón pequeño y sirva inmediatamente o enfríe en el refrigerador durante 30 minutos para permitir que los sabores se mezclen antes de servir."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Mexican/Southwestern",
+        "Kid Friendly",
+        "Snacks",
+        "Sauces",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Appetizers",
+        "Vegetarian",
+        "Vegan"
+    ],
+    "nutrition": {
+        "calories": "30",
+        "total_fat": "1.5g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "110mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/berry-salsa"
+}

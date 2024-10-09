@@ -1,0 +1,87 @@
+{
+    "title": "Frittata de Jamón y Brócoli",
+    "keywords": "Quick & Easy,Main Dish,Budget Friendly,Breakfast and Brunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Budget Friendly",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1986-diabetic-Ham-Broccoli-Frittata_KDBH-bookazine_012821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Patatas hash brown envasadas o patatas ralladas frescas",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Precaliente la parrilla o la sartén. Escurra la marinada de los filetes.",
+            "us_amount": "9 oz",
+            "metric_amount": "255 ml"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "claras de huevo",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Jamón bajo en sodio y grasa (cortado en cubos de 1/4 de pulgada)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "leche desnatada",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400°F.",
+        "Rocíe ligeramente una sartén mediana apta para horno con aceite en aerosol. Caliéntela a fuego medio. Retire del fuego. Coloque las papas en la sartén. Rocíe ligeramente con aceite en aerosol. Cocine durante 4 a 5 minutos o hasta que las papas estén doradas, revolviendo de vez en cuando.",
+        "Coloque el brócoli en un recipiente apto para microondas. Cocínelo en el microondas, tapado, a potencia máxima (alta) durante 4 a 5 minutos, o hasta que esté tierno pero crujiente. Escúrralo en un colador. Incorpore el brócoli a las papas.",
+        "En un bol mediano, bate las claras de huevo y los huevos. Incorpora el jamón, la leche y la pimienta. Vierte la mezcla sobre las patatas y el brócoli, revolviendo bien.",
+        "aceite de canola"
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Comfort Food",
+        "Quick & Easy",
+        "Main Dish",
+        "Budget Friendly",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "6g",
+        "saturated_fat": "1.7g",
+        "trans_fat": "0g",
+        "cholesterol": "195mg",
+        "sodium": "290mg",
+        "total_carbohydrate": "14g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "1g",
+        "protein": "15g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ham-and-broccoli-frittata"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Huevos Rancheros",
+    "keywords": "Vegetarian,Breakfast and Brunch,Lunch",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Breakfast and Brunch",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/jan2015-huevos-rancheros.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "tortillas de maiz",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "tomate(s) (14,5 onzas, sin sal añadida, cortado en cubitos, escurrido)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Hornee durante 15 a 18 minutos o hasta que los huevos estén listos (no deben moverse al agitar suavemente la frittata). Deje enfriar durante al menos 10 minutos y luego córtela en 4 porciones iguales.",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "huevos grandes",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "cebolla verde finamente picada",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "cilantro (picado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425°F.",
+        "Coloque las tortillas en una bandeja para hornear y hornee durante 3 minutos de cada lado.",
+        "Mientras tanto, coloca los tomates, el comino, la pimienta de cayena y la sal en una sartén antiadherente mediana y ponlos a hervir a fuego medio-alto. Reduce el fuego a medio-bajo y cocina, tapado, durante 3 minutos o hasta que espese un poco. Rompe un huevo en una taza medidora. Desliza con cuidado el huevo sobre la mezcla de tomate. Repite el proceso con los huevos restantes. Cocina a fuego medio, tapado, durante 2 1/2 a 3 minutos o hasta que las claras estén completamente listas y las yemas comiencen a espesarse un poco.",
+        "guisantes dulces"
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Mexican/Southwestern",
+        "Vegetarian",
+        "Breakfast and Brunch",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "7g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "190mg",
+        "sodium": "330mg",
+        "total_carbohydrate": "15g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/huevos-rancheros"
+}

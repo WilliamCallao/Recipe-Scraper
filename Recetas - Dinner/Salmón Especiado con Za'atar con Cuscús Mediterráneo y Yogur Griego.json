@@ -1,0 +1,101 @@
+{
+    "title": "Salmón Especiado con Za'atar con Cuscús Mediterráneo y Yogur Griego",
+    "keywords": "Cooking for 1 or 2,Dinner,Foodie,Main Dish,Meal Kit Recipes",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Foodie",
+        "Main Dish",
+        "Meal Kit Recipes"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1966-diabetic-zaatar-spiced-salmon_blue-apron_050820.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "col rizada",
+            "us_amount": "1 bunch (about 12 oz)",
+            "metric_amount": "1 bunch (about 12 oz)"
+        },
+        {
+            "name": "dátiles secos sin hueso",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "En una cacerola grande, combine la carne, la cebolla cortada en cuartos, la hoja de laurel y el agua. Lleve a hervor lento. Reduzca el fuego a medio bajo. Cubra y cocine a fuego lento hasta que la carne esté tierna, aproximadamente 1 hora y 10 minutos. Transfiera la carne a una tabla de cortar y deje enfriar. Para guardar el caldo para otro uso, retire la grasa y cuélelo, desechando la hoja de laurel. Refrigere hasta por 1 semana o congélelo hasta por 1 mes.",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "pimientos rojos asados",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "ajo",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "agua (uso dividido)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "aceite de oliva (uso dividido)",
+            "us_amount": "1 tbsp plus 5 tsp",
+            "metric_amount": "1 tbsp plus 5 tsp"
+        },
+        {
+            "name": "salsa verde",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "Filetes de salmón con piel (divididos en 4 filetes (5 oz))",
+            "us_amount": "20 oz",
+            "metric_amount": "566 ml"
+        },
+        {
+            "name": "condimento za'atar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Yogur griego natural sin grasa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Prepara los ingredientes: lava y seca la col rizada, separa las hojas de los tallos, desecha los tallos y pica las hojas. Quita el hueso y pica los dátiles. Pela y pica 2 dientes de ajo. Pica los pimientos en trozos grandes.",
+        "Cocine el cuscús: en una olla mediana, combine el cuscús, los dátiles picados y 1 taza de agua; sazone con sal (opcional) y pimienta. Caliente a fuego alto hasta que hierva. Una vez que hierva, apague el fuego. Cubra y deje reposar de 6 a 8 minutos, o hasta que el agua se haya absorbido y el cuscús esté tierno. Revuelva con un tenedor. Rocíe con 2 cucharaditas de aceite de oliva. Cubra para mantener caliente.",
+        "Cocina y aliña la col rizada: Mientras tanto, en una sartén grande (antiadherente, si tienes una), calienta 1 cucharada de aceite de oliva a fuego medio-alto hasta que esté caliente. Agrega el ajo picado; sazona con sal (opcional) y pimienta. Cocina, revolviendo constantemente, de 30 segundos a 1 minuto, o hasta que se ablande. Agrega la col rizada picada. Cocina, revolviendo con frecuencia, de 3 a 4 minutos, o hasta que la col rizada se marchite un poco. Agrega 1/2 taza de agua (con cuidado, ya que el líquido puede salpicar). Sazona con sal (opcional) y pimienta. Cocina, sin revolver, de 3 a 4 minutos, o hasta que la col rizada se marchite y el agua se haya evaporado. Transfiere a un tazón grande. Agrega la salsa verde y los pimientos picados. Cubre con papel de aluminio para mantener caliente. Limpia la sartén.",
+        "Cocine el pescado: seque el pescado con toallas de papel. Sazone ambos lados con pimienta y suficiente za'atar para cubrirlos (puede que le sobre). En la misma sartén, caliente 2 cucharaditas de aceite de oliva a fuego medio hasta que esté caliente. Agregue el pescado sazonado, con la piel hacia abajo. Cocine de 5 a 7 minutos del primer lado o hasta que esté ligeramente dorado. Dé vuelta y cocine de 1 a 2 minutos o hasta que esté dorado y bien cocido. ** Apague el fuego. ** Un termómetro de lectura instantánea debe registrar 145 °F.",
+        "Termina de preparar el cuscús y sirve el plato: Mientras tanto, añade el cuscús cocido al bol de col rizada aliñada. Rocía con 1 cucharadita de aceite de oliva y sazona con sal (opcional) y pimienta. Revuelve para mezclar. Sazona el yogur con sal y pimienta. Sirve el pescado cocido sobre el cuscús terminado. Cubre el pescado con el yogur sazonado. ¡Disfruta!"
+    ],
+    "tags": [
+        "Seafood",
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Foodie",
+        "Main Dish",
+        "Meal Kit Recipes"
+    ],
+    "nutrition": {
+        "calories": "640",
+        "total_fat": "37g",
+        "saturated_fat": "7g",
+        "trans_fat": "0g",
+        "cholesterol": "80mg",
+        "sodium": "620mg",
+        "total_carbohydrate": "41g",
+        "fiber": "7g",
+        "sugar": "16g",
+        "added_sugar": "0g",
+        "protein": "37g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/zaatar-spiced-salmon-mediterranean-couscous-and-greek-yogurt"
+}

@@ -1,0 +1,85 @@
+{
+    "title": "Sheet Pan Zucchini and Red Pepper \"Stir-Fry\"",
+    "keywords": "Vegetarian,Vegan,One Pot,Main Dish,Budget Friendly,Dinner,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "One Pot",
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1871-diabetic-Sheet-Pan-Zucchini-Red-Pepper-Tofu-Stir-Fry_Clean-and-Simple_121319.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "red bell pepper (cut into 1-inch strips)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "zucchini (cut into 1/2 thick rounds)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "toasted sesame oil",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "rice vinegar",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "lower sodium soy sauce",
+            "us_amount": "2 tbsp plus 2 tsp",
+            "metric_amount": "2 tbsp plus 2 tsp"
+        },
+        {
+            "name": "fresh ginger (grated)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "extra firm tofu",
+            "us_amount": "1 (14-oz) package",
+            "metric_amount": "1 (14-oz) package"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 450°F. Line a large rimmed baking sheet with unbleached parchment paper.",
+        "Pat or squeeze the tofu of excess liquid, if necessary. Cut the tofu into (3/4-inch) cubes.",
+        "In a large bowl, whisk together the ginger, tamari, vinegar, and oil. Add the zucchini and bell pepper pieces to the sauce mixture; toss by hand to coat.",
+        "Arrange the zucchinis and peppers in a single layer on the baking sheet (fill 2/3 of the sheet), letting excess sauce drip back into the bowl.",
+        "Add the tofu to the bowl with the remaining sauce mixture; toss to coat. Arrange the tofu in a single layer on the baking sheet (fill the rest of the sheet). Drizzle tofu with any remaining sauce.",
+        "Roast until the tofu and vegetables are browned, about 30 minutes; no stirring needed. Serve."
+    ],
+    "tags": [
+        "Vegetarian",
+        "Vegan",
+        "One Pot",
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "11g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "350mg",
+        "total_carbohydrate": "10g",
+        "fiber": "3g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sheet-pan-zucchini-and-red-pepper-stir-fry"
+}

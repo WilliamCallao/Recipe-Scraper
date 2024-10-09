@@ -1,0 +1,72 @@
+{
+    "title": "Tazas de Huevo y Tomate al Horno",
+    "keywords": "Budget Friendly,Breakfast and Brunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Budget Friendly",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/945-diabetic-breakfast-baked-egg-tomato-cup_082418_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pechuga de pollo deshuesada y sin piel (dividida en 4 porciones (4 oz))",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "espárragos (cortados en trozos del tamaño de un bocado)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pak choi bebé (picado)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "queso parmesano bajo en grasa (rallado)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Kielbasa de pavo (cortada en cubitos)",
+            "us_amount": "2 slice",
+            "metric_amount": "2 slice"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F. Cubra una fuente para hornear de 9x13 pulgadas con aceite en aerosol.",
+        "Corte 1/4 de pulgada de la parte superior de cada tomate. Saque la pulpa y las semillas, dejando una cáscara de aproximadamente 1/2 pulgada de espesor. (Reserve la pulpa de tomate para otro uso o deséchela). Coloque el lado cortado hacia arriba en una fuente para horno. Espolvoree uniformemente los tomates con 1/4 de cucharadita de pimienta y la mezcla de condimentos.",
+        "pimienta negra"
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Comfort Food",
+        "Budget Friendly",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "7g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "195mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "7g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/baked-egg-n-tomato-cups"
+}

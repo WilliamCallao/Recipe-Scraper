@@ -1,0 +1,105 @@
+{
+    "title": "Tazones de Tofu y Arroz con Chipotle Picante, Aguacate y Verduras Marinadas",
+    "keywords": "Vegetarian,Meal Kit Recipes,Main Dish,Dinner,Cooking for 1 or 2",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Vegetarian",
+        "Meal Kit Recipes",
+        "Main Dish",
+        "Dinner",
+        "Cooking for 1 or 2"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1951-diabetic-vegetarian-chipotle-tofu-taco-bowl_Blue-Apron_040120.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "tofu firme",
+            "us_amount": "14 oz",
+            "metric_amount": "396 ml"
+        },
+        {
+            "name": "arroz integral",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ajo",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "repollo verde",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "nabo morado",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "caldo de verduras bajo en sodio",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "palta",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "pasta de tomate",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pasta de chipotle",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Yogur griego natural sin grasa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Presione el tofu: Llene una olla mediana con agua hasta 3/4 de su capacidad. Caliente a fuego alto hasta que hierva. Escurra el tofu y colóquelo sobre una superficie de trabajo cubierta con toallas de papel. Coloque varias capas de toallas de papel encima y luego coloque una olla (o sartén) de fondo grueso aparte sobre las toallas de papel. Déjela a un lado para que suelte el exceso de líquido, al menos durante 10 minutos.",
+        "Cocine el arroz: Mientras tanto, agregue el arroz a la olla con agua hirviendo y cocínelo, sin tapar, durante 16 a 18 minutos o hasta que esté tierno. Escúrralo bien.",
+        "Una vez que las zanahorias estén cocidas, use una licuadora de inmersión para hacer un puré con la sopa hasta que quede suave. Otra opción es pasar la sopa con cuidado a una licuadora y procesarla hasta que quede suave, luego regrésela a la olla.",
+        "Dorar el tofu: mientras se marinan las verduras, pasar el tofu prensado a una tabla de cortar; cortar en dados medianos. En una sartén mediana (antiadherente, si tiene una), calentar 2 cucharaditas de aceite de oliva a fuego medio-alto hasta que esté caliente. Agregar el tofu cortado en dados en una capa uniforme. Cocinar, sin revolver, de 3 a 4 minutos, o hasta que esté ligeramente dorado. Sazonar con sal (opcional) y pimienta. Continuar cocinando, revolviendo ocasionalmente, de 1 a 2 minutos, o hasta que esté ligeramente dorado por todos lados.",
+        "Termina de cocinar el tofu y sirve el plato: mueve el tofu chamuscado a un lado de la sartén. Al otro lado, agrega la pasta de tomate, el ajo picado y la cantidad de pasta de chile que desees, según qué tan picante quieras que sea el plato. Cocina, revolviendo constantemente, de 30 segundos a 1 minuto, o hasta que se mezclen bien. Agrega 1/2 taza de agua (con cuidado, ya que el líquido puede salpicar); sazona con sal (opcional) y pimienta. Cocina, revolviendo ocasionalmente, de 3 a 4 minutos, o hasta que el tofu esté cubierto y la salsa se espese. Apaga el fuego. Sazona el yogur con sal (opcional) y pimienta. Sirve el arroz cocido cubierto con el tofu terminado, las verduras marinadas, el aguacate en rodajas y el yogur condimentado. ¡Disfruta!"
+    ],
+    "tags": [
+        "Vegetarian",
+        "Meal Kit Recipes",
+        "Main Dish",
+        "Dinner",
+        "Cooking for 1 or 2"
+    ],
+    "nutrition": {
+        "calories": "640",
+        "total_fat": "24g",
+        "saturated_fat": "3.5g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "170mg",
+        "total_carbohydrate": "75g",
+        "fiber": "11g",
+        "sugar": "12g",
+        "added_sugar": "0g",
+        "protein": "31g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spicy-chipotle-tofu-rice-bowls-avocado-and-marinated-vegetables"
+}

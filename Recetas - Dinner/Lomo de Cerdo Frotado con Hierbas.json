@@ -1,0 +1,82 @@
+{
+    "title": "Lomo de Cerdo Frotado con Hierbas",
+    "keywords": "Dinner,Main Dish",
+    "prep_time": "PT2H",
+    "cook_time": "PT25M",
+    "categories": [
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2036-diabetic-Pork-Tenderloin_DaVita_040821.jpg",
+    "servings": "7 Servings",
+    "ingredients": [
+        {
+            "name": "romero seco",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "tomillo seco",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cebollas verdes picadas",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "ajo (finamente picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "mostaza de dijon",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Solomillo de cerdo",
+            "us_amount": "2 tenderloins (about 24 oz total)",
+            "metric_amount": "2 tenderloins (about 24 oz total)"
+        },
+        {
+            "name": "2% yogur griego natural",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        }
+    ],
+    "instructions": [
+        "Combine el romero, el tomillo, la albahaca, el perejil y la pimienta negra en un tazón pequeño. Agregue la mostaza y el ajo y mezcle bien. Frote la mezcla de hierbas sobre los filetes de cerdo de manera uniforme. Cubra los filetes y déjelos reposar en el refrigerador durante al menos dos horas.",
+        "Precaliente el horno a 400° F.",
+        "En un bol pequeño, mezcle el ajo picado (reserve aproximadamente 1/2 cucharadita para la tapenade), 1 1/2 cucharadita de tomillo, pimienta y sal. Espolvoree sobre la carne. Con las yemas de los dedos, presione suavemente la mezcla para que se adhiera a la carne.",
+        "Hornee los solomillos durante 20 minutos o hasta que el termómetro para carne registre entre 160 °F (medio) y 170 °F (bien cocido).",
+        "Deje reposar los solomillos durante 10 a 15 minutos antes de cortarlos para permitir que los jugos se distribuyan por toda la carne."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "165",
+        "total_fat": "7g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "140mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0.4g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/herb-rubbed-pork-tenderloin"
+}

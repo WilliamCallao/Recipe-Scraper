@@ -1,0 +1,102 @@
+{
+    "title": "Hoppin’ John de Cebada con Kielbasa de Pavo",
+    "keywords": "Holidays & Entertaining,Main Dish,Budget Friendly,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/072-diabetic-barley-hoppin-john_AdobeStock74313386_022321.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "cebolla amarilla (picada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "espinaca",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Avena laminada sin gluten",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/4 tsp or to taste",
+            "metric_amount": "1/4 tsp or to taste"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "guisantes de ojo negro (escurridos y enjuagados)",
+            "us_amount": "1 (15-oz can)",
+            "metric_amount": "1 (15-oz can)"
+        },
+        {
+            "name": "Calienta en el microondas la mezcla de verduras congeladas para saltear en la configuración de descongelación durante 3 a 4 minutos para descongelarla.",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Cebolleta (cortada en rodajas finas, partes verdes y blancas)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        }
+    ],
+    "instructions": [
+        "Añade aceite a una sartén grande a fuego medio. Agrega la cebolla, el pimiento morrón y el ajo. Saltea durante 5 minutos. Agrega la kielbasa y saltea otros 2 minutos.",
+        "Agregue el caldo de pollo y la salsa picante. Procese hasta que se mezclen. Vierta en un recipiente grande para servir y agregue el cilantro picado y la leche. (Use más o menos para lograr la consistencia deseada).",
+        "Cubrir con cebolletas en rodajas.",
+        "sal"
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Comfort Food",
+        "Holidays & Entertaining",
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "450mg",
+        "total_carbohydrate": "25g",
+        "fiber": "6g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/barley-hoppin-john-turkey-kielbasa"
+}

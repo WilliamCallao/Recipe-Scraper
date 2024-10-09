@@ -1,0 +1,93 @@
+{
+    "title": "Bacalao Glaseado con Miso",
+    "keywords": "Lunch,Quick & Easy,Dinner,Budget Friendly",
+    "prep_time": "PT15M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Lunch",
+        "Quick & Easy",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_369_Miso_Glazed_Cod_MG_9163-Edit-%28ZF-5661-35964-1-008%29_02282018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pescado blanco (como el bacalao, la lubina o el reloj anaranjado)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "aceite de sésamo tostado (dividido)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Mezcla de sopa de miso instantánea en polvo (solo en polvo)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "repollo napa rallado (rallado)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "guisantes (en rodajas)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Salsa picante estilo asiático",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno para asar. Coloque una rejilla en el medio del horno. Rocíe una bandeja para hornear con aceite en aerosol.",
+        "Corte el pescado en 4 porciones de 4 oz y colóquelas en la bandeja para hornear preparada.",
+        "En un bol pequeño, mezcle 1 1/2 cucharadita de aceite de sésamo y el polvo de sopa de miso para formar una pasta. Pincele las partes superiores de cada uno de los filetes de pescado con el glaseado (la capa será muy fina). Rocíe cada filete con aceite en aerosol y coloque la bandeja para hornear en la rejilla central del horno. Asar durante 6 minutos.",
+        "Mientras se asa el pescado, agregue la cucharadita y media restante de aceite de sésamo y más aceite en aerosol para cocinar en un wok o una sartén grande a fuego alto. Saltee el repollo, el ajo, los guisantes y la salsa picante durante 4 minutos, hasta que se ablanden pero aún estén ligeramente crujientes.",
+        "Retire el pescado de la bandeja para hornear y sírvalo sobre 3/4 de taza de verduras salteadas."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Seafood",
+        "Asian",
+        "Lunch",
+        "Quick & Easy",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "8g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/miso-glazed-cod"
+}

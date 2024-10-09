@@ -1,0 +1,85 @@
+{
+    "title": "Kebabs de Pavo con Aguacate y Tomate",
+    "keywords": "Dinner,Main Dish",
+    "prep_time": "PT20M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_888_Turkey%20Kebabs%20w%20Avocado%20and%20Tomato_StressFreeKitchen_022618.jpg",
+    "servings": "9 Servings",
+    "ingredients": [
+        {
+            "name": "Jugo de 1 lima, más jugo adicional para terminar.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sal marina (fina)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra (recién molida)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cebolla mediana (cortada en cuartos)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Solomillo de pavo o medallones de pavo (cortados en 36 cubos de 1 pulgada)",
+            "us_amount": "3/4 lbs",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "Tomates cherry",
+            "us_amount": "9",
+            "metric_amount": "9"
+        },
+        {
+            "name": "aguacate (maduro)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "cebolla picada",
+        "Cortar los tomates por la mitad verticalmente. Cortar el aguacate en 18 trozos.",
+        "Queso feta griego (cortado en trozos pequeños o desmenuzado)",
+        "Ensarte los kebabs de la siguiente manera: 1 trozo de pavo, 1 trozo de tomate, 1 trozo de pavo y 1 trozo de aguacate.",
+        "Exprime limón sobre los kebabs y sírvelos con un chorrito de salsa de mango, página 29 (opcional)."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Comfort Food",
+        "Grilling",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "75",
+        "total_fat": "3g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/turkey-kebabs-avocado-tomato"
+}

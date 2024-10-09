@@ -1,0 +1,99 @@
+{
+    "title": "Tazón de Arroz Frito con Verduras Bajo en Carbohidratos",
+    "keywords": "Quick & Easy,Main Dish,Lunch,Easy Pantry Recipes,Dinner,Cooking for 1 or 2,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Easy Pantry Recipes",
+        "Dinner",
+        "Cooking for 1 or 2",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1960-diabetic-cauliflower-Fried-Rice-Bowl_magee_050120.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de canola u otro aceite vegetal",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Combine la mezcla de azúcar Splenda, el agua, el tomillo, la ralladura de limón y el jugo de limón en una cacerola pequeña. Caliente hasta que hierva y luego retire del fuego para enfriar. Retire la ramita de tomillo.",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cebolletas picadas u otra cebolla",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "tomate(s) (picado)",
+            "us_amount": "3/4 tsp",
+            "metric_amount": "4 g"
+        },
+        {
+            "name": "ajo picado",
+            "us_amount": "1/2 tsp (about 1 diente)",
+            "metric_amount": "1/2 tsp (about 1 diente)"
+        },
+        {
+            "name": "Verduras variadas, picadas en trozos pequeños (cocidas o crudas)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "huevo (batido)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Maicena",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Coloca el pescado y los espárragos a lo largo, de manera que queden perpendiculares a las rejillas de la parrilla. (Para el pescado, también puedes usar una canasta para parrilla rociada ligeramente con aceite en aerosol). Asa el pescado durante 3 minutos de cada lado, o hasta que se desmenuce fácilmente al pincharlo con un tenedor. Asa los espárragos durante 4 a 5 minutos, o hasta que estén tiernos, dándoles vuelta con frecuencia. Pasa ambos a una fuente. Sirve con las rodajas de limón.",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Derretir la mantequilla en una olla grande a fuego moderado. Agregar la cebolla y cocinar durante unos minutos, hasta que la cebolla se ablande y quede transparente.",
+        "Agregue la carne de cangrejo. Cocine durante 2 a 3 minutos, revolviendo constantemente.",
+        "Espolvoree la salsa teriyaki y el cilantro por encima y revuelva suavemente para mezclar los sabores (aproximadamente 1 minuto más). Pruebe y agregue más salsa teriyaki si lo desea. ¡Divida en dos tazones y sirva!"
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Easy Pantry Recipes",
+        "Dinner",
+        "Cooking for 1 or 2",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "12g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "140mg",
+        "sodium": "410mg",
+        "total_carbohydrate": "11g",
+        "fiber": "4g",
+        "sugar": "6g",
+        "added_sugar": "1g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/low-carb-veggie-fried-rice-bowl"
+}

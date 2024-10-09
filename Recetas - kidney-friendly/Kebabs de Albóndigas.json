@@ -1,0 +1,110 @@
+{
+    "title": "Kebabs de Albóndigas",
+    "keywords": "Lunch,Dinner,Gluten-Free",
+    "prep_time": "PT20M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Lunch",
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1677-diabetic-meatball-kebabs_Diabetes-Cookbook_DF_101818_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "claras de huevo grandes o 1 taza de sustituto de huevo",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "queso parmesano rallado",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Ralladura de limón",
+            "us_amount": "20 oz",
+            "metric_amount": "566 ml"
+        },
+        {
+            "name": "Para servir, coloque 1/3 de taza de pudín en un tazón pequeño con 1/2 taza de frambuesas.",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "brochetas de bambú",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "tomates uva o cherry",
+            "us_amount": "24",
+            "metric_amount": "24"
+        },
+        {
+            "name": "Hongos cremini (baby bella) (cortados por la mitad si es necesario para hacer 12 piezas)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "cebolla(s) (cortada en cuartos, luego cada cuarto cortado en tercios (12 trozos de cebolla en total))",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375 grados F. Rocíe una bandeja para hornear con aceite en aerosol. Déjela a un lado.",
+        "Combine las claras de huevo, el queso parmesano, el ajo, el pavo, la sal y la pimienta. Mezcle bien y forme 24 albóndigas. Refrigere las albóndigas durante al menos 30 minutos.",
+        "Ensarte 2 albóndigas, 2 tomates, 1 trozo de champiñón y 1 trozo de cebolla alternando en cada brocheta.",
+        "En un tazón pequeño, bata el vinagre y el aceite de oliva.",
+        "Coloque las brochetas en la bandeja para hornear y pincele las brochetas con la mezcla de vinagre y aceite de oliva. Reserve la marinada.",
+        "Hornee las brochetas durante 10 minutos. Pinte nuevamente todos los lados con la marinada y hornee durante 10 a 15 minutos más. Las albóndigas deben cocinarse a una temperatura interna de al menos 165 grados F."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Lunch",
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "8g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0.1g",
+        "cholesterol": "75mg",
+        "sodium": "310mg",
+        "total_carbohydrate": "7g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/meatball-kebabs"
+}

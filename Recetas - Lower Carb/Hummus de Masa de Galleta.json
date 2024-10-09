@@ -1,0 +1,89 @@
+{
+    "title": "Hummus de Masa de Galleta",
+    "keywords": "Dessert,Gluten-Free,No Cook,Quick & Easy,Snacks,Vegan,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dessert",
+        "Gluten-Free",
+        "No Cook",
+        "Quick & Easy",
+        "Snacks",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/3492_Cookie%20Dough%20Hummus.jpg",
+    "servings": "14 Servings",
+    "ingredients": [
+        {
+            "name": "garbanzos (escurridos y enjuagados bien)",
+            "us_amount": "1 (15-ounce)",
+            "metric_amount": "1 (15-ounce)"
+        },
+        {
+            "name": "vinagre de arroz",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "leche de almendras sin azúcar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Sustituto de azúcar moreno bajo en calorías",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "extracto de almendra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Mezcle el café expreso, la cebolla en polvo, el pimentón, el chile en polvo y el azúcar moreno. Extienda la mezcla sobre ambos lados del filete, presionándola contra la carne.",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chips de chocolate sin azúcar añadido",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Edulcorante granulado Splenda®",
+        "huevos"
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "Lower Carb",
+        "Kid Friendly",
+        "Dessert",
+        "Gluten-Free",
+        "No Cook",
+        "Quick & Easy",
+        "Snacks",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "3.5g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "55mg",
+        "total_carbohydrate": "9g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "2g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cookie-dough-hummus"
+}

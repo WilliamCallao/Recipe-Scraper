@@ -1,0 +1,64 @@
+{
+    "title": "Batido de Superalimentos",
+    "keywords": "Quick & Easy,Vegetarian,Gluten-Free,Breakfast and Brunch,Snacks",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Vegetarian",
+        "Gluten-Free",
+        "Breakfast and Brunch",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/533-diabetic-super-food-smoothie_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "leche de almendras sin azúcar",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "arándanos congelados",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "espinaca bebé",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "banana",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Combine todos los ingredientes en una licuadora y haga puré hasta que quede suave y espeso."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Low Sodium",
+        "Kid Friendly",
+        "Quick & Easy",
+        "Vegetarian",
+        "Gluten-Free",
+        "Breakfast and Brunch",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "2g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "115mg",
+        "total_carbohydrate": "26g",
+        "fiber": "4g",
+        "sugar": "14g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/superfood-smoothie"
+}

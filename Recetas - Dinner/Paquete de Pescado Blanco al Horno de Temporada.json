@@ -1,0 +1,82 @@
+{
+    "title": "Paquete de Pescado Blanco al Horno de Temporada",
+    "keywords": "One Pot,Main Dish,Gluten-Free,Budget Friendly,Dinner,Quick & Easy",
+    "prep_time": "PT12M",
+    "cook_time": "PT18M",
+    "categories": [
+        "One Pot",
+        "Main Dish",
+        "Gluten-Free",
+        "Budget Friendly",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1838-diabetic-seasonal-baked-whitefish-pouch_clean-simple-ckbk_DFNovDec19_101019.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Verduras sin almidón del tamaño de un bocado, como brócoli, pimientos, calabaza amarilla y calabacín",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "aceite de oliva virgen extra (dividido)",
+            "us_amount": "6 tsp",
+            "metric_amount": "29 g"
+        },
+        {
+            "name": "salmón",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pescado blanco como el fletán o el bacalao (dividido en 4 filetes (4 oz))",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "chalota (finamente picada, dividida)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "jugo de limón (dividido)",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        },
+        {
+            "name": "Hierbas secas, como el romero o el orégano.",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425° F. Corte una hoja de papel pergamino o papel de aluminio en 4 trozos cuadrados (de 12 pulgadas).",
+        "Cubra la mitad derecha de cada cuadrado con, en orden: 1 taza de verduras, 1½ cucharadita de aceite, una pizca (aproximadamente 1/16 de cucharadita) de sal, 1 filete de pescado, 1 cucharada de chalota, 1 cucharadita de jugo de limón, ¼ de cucharadita de hierbas y una pizca de sal.",
+        "queso de cabra",
+        "Deje reposar el pescado durante unos 5 minutos, luego abra con cuidado las bolsas y sirva, dentro o fuera de la bolsa."
+    ],
+    "tags": [
+        "Lower Carb",
+        "One Pot",
+        "Main Dish",
+        "Gluten-Free",
+        "Budget Friendly",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "10g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "35mg",
+        "sodium": "350mg",
+        "total_carbohydrate": "6g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/seasonal-baked-whitefish-pouch"
+}

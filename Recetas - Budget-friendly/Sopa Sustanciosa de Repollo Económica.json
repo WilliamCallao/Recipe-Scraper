@@ -1,0 +1,96 @@
+{
+    "title": "Sopa Sustanciosa de Repollo Económica",
+    "keywords": "Budget Friendly,Lunch,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Budget Friendly",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/123-diabetic-hearty-cabbage-soup_AdobeStock117553723_121820.jpg",
+    "servings": "9 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pan de trigo entero",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Recorta y corta las coles de Bruselas en tiras finas; añádelas al bol con el aderezo.",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "cebolla (cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "repollo (picado grueso)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "Picar o desmenuzar la lechuga en trozos del tamaño de un bocado y añadir al bol; mezclar para combinar la ensalada.",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "Servir con una pizca de semillas de lino tostadas.",
+            "us_amount": "40 oz",
+            "metric_amount": "1 l 132 ml"
+        },
+        {
+            "name": "tomates cortados en cubitos enlatados",
+            "us_amount": "1 (14.5-oz) can",
+            "metric_amount": "1 (14.5-oz) can"
+        },
+        {
+            "name": "Frijoles blancos grandes (enjuagados y escurridos)",
+            "us_amount": "9 (15.5-oz) can",
+            "metric_amount": "9 (15.5-oz) can"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Orégano seco (seco)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Rocíe una olla grande para sopa con aceite en aerosol. Agregue el apio, la cebolla y las zanahorias y saltee a fuego medio-alto durante 3 minutos o hasta que las cebollas estén transparentes. Retire de la olla y reserve.",
+        "Agregue la salchicha de pavo y cocine hasta que se dore, aproximadamente de 6 a 7 minutos. Agregue el apio, las cebollas y las zanahorias nuevamente a la sartén y mezcle.",
+        "Añade los ingredientes restantes y deja que hierva. Reduce el fuego y cocina a fuego lento durante 30 minutos."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Budget Friendly",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "360mg",
+        "total_carbohydrate": "15g",
+        "fiber": "5g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-hearty-cabbage-soup"
+}

@@ -1,0 +1,94 @@
+{
+    "title": "Chili de Pavo Fácil",
+    "keywords": "Easy Pantry Recipes,Dinner,Lunch,One Pot,Main Dish,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Dinner",
+        "Lunch",
+        "One Pot",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1926-easy-turkey-chili-diabetic_AS_295317171_040220.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "comino",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Descongelar el brócoli y escurrirlo.",
+            "us_amount": "1 14.5-ounce can",
+            "metric_amount": "1 14.5-ounce can"
+        },
+        {
+            "name": "cebolla amarilla (pelada y cortada en cubitos)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "Coloque los floretes en la bandeja para hornear preparada, dejando espacio entre ellos. Descarte el adobo restante.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Rocíe nuevamente la sartén con aceite en aerosol antiadherente, agregue tres cucharadas de masa de 1/4 de taza y cocine según las instrucciones. Repita el procedimiento con la masa restante.",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Sirva caliente o frío a temperatura ambiente, luego guárdelo en un recipiente hermético en el refrigerador por hasta una semana o envuélvalo en bolsas para congelador en incrementos de una taza por hasta 3 meses.",
+        "sustituto de azúcar moreno",
+        "Prepara un bol grande con agua helada. Con una espumadera, transfiere los huevos al baño de agua helada y déjalos enfriar durante 15 a 20 minutos. Retira con cuidado cada huevo del agua helada y golpea suavemente la cáscara hasta que se rompa por completo (pero no la peles). Vuelve a colocar los huevos rotos en el baño de agua helada (prepara un nuevo baño de hielo si es necesario) durante 10 minutos. Retira los huevos del agua helada y hazlos rodar suavemente entre las palmas de las manos. Las cáscaras deberían desprenderse fácilmente. Desecha las cáscaras."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Mexican/Southwestern",
+        "Kid Friendly",
+        "Comfort Food",
+        "Easy Pantry Recipes",
+        "Dinner",
+        "Lunch",
+        "One Pot",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "9g",
+        "saturated_fat": "2.6g",
+        "trans_fat": "0.1g",
+        "cholesterol": "85mg",
+        "sodium": "440mg",
+        "total_carbohydrate": "10g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "23g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/easy-turkey-chili"
+}

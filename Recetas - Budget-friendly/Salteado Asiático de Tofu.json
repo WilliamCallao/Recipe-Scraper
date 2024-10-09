@@ -1,0 +1,81 @@
+{
+    "title": "Salteado Asiático de Tofu",
+    "keywords": "Easy Pantry Recipes,Vegetarian,Vegan,Quick & Easy,Main Dish,Dinner,Budget Friendly",
+    "prep_time": "PT5M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Vegetarian",
+        "Vegan",
+        "Quick & Easy",
+        "Main Dish",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/003-diabetic-Asian-Tofu-Stir-Fry-thinkstock_03012018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        },
+        {
+            "name": "pimentón ahumado",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "Mezcla de condimentos de hierbas y ajo sin sal, como Mrs. Dash",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "24 oz",
+            "metric_amount": "679 ml"
+        },
+        {
+            "name": "caldo de pollo o verduras (sin grasa, bajo en sodio)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "arroz integral cocido",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "En una sartén antiadherente grande o un wok, calienta 2 cucharaditas de aceite de oliva a fuego medio-alto. Agrega el tofu y saltea hasta que se dore por todos lados. Agrega 1 cucharada de salsa de soja y saltea durante 1 minuto más. Retira de la sartén.",
+        "Añade las 2 cucharaditas restantes de aceite de oliva a la sartén y caliéntala. Añade las verduras y la cucharada restante de salsa de soja a la sartén y saltea durante 4 minutos.",
+        "Coloque la marinada en una cacerola pequeña. Llévela a ebullición; reduzca el fuego y cocine a fuego lento durante unos 2 minutos. Coloque las chuletas de cerdo en una fuente para servir y vierta la marinada cocida sobre ellas.",
+        "Sirva sobre arroz integral."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Asian",
+        "Easy Pantry Recipes",
+        "Vegetarian",
+        "Vegan",
+        "Quick & Easy",
+        "Main Dish",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "280",
+        "total_fat": "9g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "380mg",
+        "total_carbohydrate": "37g",
+        "fiber": "7g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "15g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/asian-tofu-stir-fry"
+}

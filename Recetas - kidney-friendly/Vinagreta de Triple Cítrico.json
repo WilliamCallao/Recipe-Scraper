@@ -1,0 +1,79 @@
+{
+    "title": "Vinagreta de Triple Cítrico",
+    "keywords": "Salad Dressings & Condiments",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salad Dressings & Condiments"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1653-diabetic-triple-citrus-vinaigrette-salad-dressing_090718_1021x779.jpg",
+    "servings": "16 Servings",
+    "ingredients": [
+        {
+            "name": "jengibre fresco (pelado y rallado)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "chiles jalapeños medianos-grandes",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "mostaza de dijon",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "condimento de hierbas sin sal, como Ms. Dash",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "jugo de toronja",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "jugo de naranja recién exprimido",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "aceite de oliva",
+        "Añade la quinua a una cacerola mediana a fuego medio-alto. Saltea hasta que se evapore toda el agua (unos 5 minutos) y la quinua empiece a estallar. Añade el caldo de pollo o de verduras y deja que hierva. Reduce el fuego y tapa. Cocina durante 15 minutos o hasta que se absorba toda el agua. Deja la quinua a un lado para que se enfríe."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Salad Dressings & Condiments"
+    ],
+    "nutrition": {
+        "calories": "20",
+        "total_fat": "1g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "55mg",
+        "total_carbohydrate": "2g",
+        "fiber": "0g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/triple-citrus-vinaigrette"
+}

@@ -1,0 +1,104 @@
+{
+    "title": "Cerdo con Especias Toscano y Puré de Papas con Ejotes y Aderezo de Tomate Asado",
+    "keywords": "Cooking for 1 or 2,Dinner,Foodie,Meal Kit Recipes",
+    "prep_time": "PT15M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Foodie",
+        "Meal Kit Recipes"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1922-diabetic-tuscan-spiced-pork-mashed-potatoes-green-beans_Blue-Apron_021920.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "patatas doradas",
+            "us_amount": "3/4 lbs",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "ajo",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "judías verdes frescas",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "almendras en rodajas",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "vinagre de vino tinto",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aceite de oliva (uso dividido)",
+            "us_amount": "4 1/2 tsp",
+            "metric_amount": "22 g"
+        },
+        {
+            "name": "salsa marinara en frasco",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "semillas de hinojo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "romero molido",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salvia molida",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "chuletas de cerdo deshuesadas",
+            "us_amount": "2 (6 oz each)",
+            "metric_amount": "2 (6 oz each)"
+        }
+    ],
+    "instructions": [
+        "Prepara los ingredientes y empieza a preparar el aderezo: coloca una rejilla de horno en el centro del horno y precaliéntala a 450 °F. Llena una olla mediana con agua hasta 3/4 de su capacidad; tápala y caliéntala a fuego alto hasta que hierva. Lava y seca los productos frescos. Corta las papas en cubitos medianos. Pela 2 dientes de ajo. Con un rallador, ralla finamente 1 diente hasta formar una pasta (o usa el lado pequeño de un rallador de caja). Con el lado plano de tu cuchillo, aplasta una vez el diente restante. Corta y desecha los extremos del tallo de las judías verdes. Pica las almendras en trozos grandes. En un tazón grande, combina las almendras picadas, el vinagre, 2 cucharaditas de aceite de oliva y la cantidad de pasta de ajo que desees; sazona con sal (opcional) y pimienta. Combina el hinojo molido, las semillas de hinojo, el romero molido y la salvia molida en un tazón pequeño.",
+        "Cocine y haga puré las papas: agregue las papas cortadas en cubitos y el diente de ajo machacado a la olla con agua hirviendo. Cocine durante 16 a 18 minutos o hasta que estén tiernas al pincharlas con un tenedor. Apague el fuego. Escurra bien y vuelva a colocarlas en la olla. Agregue el caldo. Con un tenedor o un machacador de papas, haga puré hasta obtener la consistencia deseada. Pruebe y luego sazone con sal y pimienta si lo desea. Cubra para mantener el calor.",
+        "Sustituto vegano de carne molida",
+        "Cocine el cerdo: Mientras tanto, seque el cerdo con toallas de papel; sazone ambos lados con pimienta y suficiente mezcla de especias para cubrirlos (puede que le sobre). En una sartén mediana (antiadherente, si tiene una), caliente 1 cucharadita de aceite de oliva a fuego medio-alto hasta que esté caliente. Agregue el cerdo sazonado. Cocine de 2 a 3 minutos por lado, o hasta que esté dorado y bien cocido.* Transfiera a un plato y deje reposar al menos 5 minutos. * Un termómetro de lectura instantánea debe registrar 145 °F.",
+        "Aliñe las judías verdes y sirva el plato: mientras el cerdo reposa, transfiera con cuidado los tomates asados ​​al recipiente del aderezo. Con un tenedor, aplaste los tomates para que suelten el líquido. Revuelva para mezclar. Agregue las judías verdes asadas y revuelva para cubrirlas. Sirva el cerdo reposado con el puré de papas y las judías verdes aderezadas. ¡Disfrute!"
+    ],
+    "tags": [
+        "High in Fiber",
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Foodie",
+        "Meal Kit Recipes"
+    ],
+    "nutrition": {
+        "calories": "440",
+        "total_fat": "18g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "43g",
+        "fiber": "9g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "31g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tuscan-spiced-pork-mashed-potatoes-green-beans-and-roasted-tomato-dressing"
+}

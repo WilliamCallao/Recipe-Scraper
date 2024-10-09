@@ -1,0 +1,67 @@
+{
+    "title": "Sándwiches Abiertos de Pimiento a la Parrilla y Queso de Cabra",
+    "keywords": "Vegetarian,Main Dish,Lunch,Dinner",
+    "prep_time": "PT5M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Vegetarian",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_777_Open-Faced%20Grilled%20Peppers%20and%20Goat%20Cheese%20sandwich_4IngredientCookbook_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pimientos rojos grandes (cortados a lo largo por la mitad)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "pan integral (cortado por la mitad a lo largo)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "queso de cabra (chevre) (desmenuzado)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta la parrilla o la sartén a fuego medio-alto. Aplana las mitades de pimiento con la palma de la mano. Rocía ambos lados con aceite en aerosol y cocina durante 20 minutos o hasta que estén tiernos, dándoles vuelta con frecuencia. Colócalos sobre una tabla de cortar y pícalos en trozos grandes. Combina los pimientos con el vinagre y 1/8 de cucharadita de sal, si lo deseas. Cubre para mantenerlos calientes.",
+        "Rocíe ambos lados del pan con aceite en aerosol y cocínelo durante 1 minuto y medio a 2 minutos de cada lado o hasta que esté ligeramente dorado. Corte cada mitad de pan transversalmente en 4 pedazos.",
+        "Cubra cada rebanada de pan con 1/4 taza de mezcla de pimientos y espolvoree el queso uniformemente sobre toda la superficie."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Veggie Rich",
+        "Grilling",
+        "Vegetarian",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "7g",
+        "saturated_fat": "3.3g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "280mg",
+        "total_carbohydrate": "33g",
+        "fiber": "7g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/open-faced-grilled-pepper-goat-cheese-sandwiches"
+}

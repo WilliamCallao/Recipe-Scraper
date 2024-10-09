@@ -1,0 +1,91 @@
+{
+    "title": "Frittata de Cebolla, Chalota y Hierbas",
+    "keywords": "Breakfast and Brunch,Holidays & Entertaining,Lunch,Main Dish,Vegetarian",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Breakfast and Brunch",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/novdec2014-onion-shallot-herb.jpg",
+        "Shallot and Herb Frittata\" loading=\"lazy\" />"
+    ],
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva (dividido)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Queso parmesano (recién rallado)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "chalotes (picados)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "claras de huevo",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "albahaca fresca (picada)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Sal y pimienta al gusto",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Especias para pastel de calabaza",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F. Caliente 1 cucharadita de aceite de oliva en una sartén antiadherente grande para horno a fuego medio. Agregue la cebolla y la chalota y saltee durante aproximadamente 7 a 8 minutos. Retire la mezcla de cebolla de la sartén y reserve.",
+        "Batir los huevos, las claras, la albahaca, la sal y la pimienta. Incorporar la mezcla de cebolla.",
+        "En la cucharadita de aceite restante, calienta la mezcla de huevos a fuego medio bajo en la sartén. Cocina sin revolver durante unos 8 minutos.",
+        "Transfiera la sartén al horno, espolvoree con el queso y hornee durante aproximadamente 10 minutos hasta que la superficie ya no esté líquida. Cocine 5 minutos más si es necesario. Corte en gajos para servir.",
+        "Especias para pastel de calabaza"
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Italian",
+        "Breakfast and Brunch",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "4g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "75mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/onion-shallot-and-herb-frittata"
+}

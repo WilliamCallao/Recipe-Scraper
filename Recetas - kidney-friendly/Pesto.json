@@ -1,0 +1,58 @@
+{
+    "title": "Pesto",
+    "keywords": "",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_792_Healthy%20Home_Pesto__031318.jpg.jpg",
+    "servings": "16 Servings",
+    "ingredients": [
+        {
+            "name": "ajo",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "taza de piñones",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "hojas de albahaca fresca (reserva 1 o más ramitas (para decorar))",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "queso parmesano-reggiano (recién rallado)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Lima (jugo)"
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly"
+    ],
+    "nutrition": {
+        "calories": "75",
+        "total_fat": "7g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "25mg",
+        "total_carbohydrate": "1g",
+        "fiber": "1g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pesto"
+}

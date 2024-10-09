@@ -1,0 +1,87 @@
+{
+    "title": "Frascos de Huevo y Verduras en Microondas",
+    "keywords": "Quick & Easy,Cooking for 1 or 2,Budget Friendly,Breakfast and Brunch",
+    "prep_time": "PT15M",
+    "cook_time": "PT2M",
+    "categories": [
+        "Quick & Easy",
+        "Cooking for 1 or 2",
+        "Budget Friendly",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-Microwave-Breakfast-Cups_DaVita_040121.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Sumerge ligeramente el pollo en la mezcla de mostaza y colócalo en la fuente para horno. Coloca con una cuchara el resto de la mezcla de mostaza sobre cada muslo de pollo.",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "Corazones de alcachofa (escurridos y picados)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "aceitunas negras (2,25 oz, en rodajas, escurridas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "brócoli (picado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Champiñones blancos (cortados en cubitos)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "queso cheddar (rallado)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "aceite de sésamo tostado (dividido)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "8 large",
+            "metric_amount": "8 large"
+        }
+    ],
+    "instructions": [
+        "Cocine la salchicha de pavo en una sartén pequeña hasta que se dore. Córtela en migas mientras se cocina.",
+        "spray antiadherente para cocinar",
+        "Prepara los frascos rociando el interior con aceite en aerosol. Agrega 1/4 de taza de salchicha, 1 cucharada de queso, 1/4 de taza de la mezcla de verduras cortadas en cubitos y 2 o 3 rodajas de chile jalapeño (si las usas) a cada frasco.",
+        "Mezcla de pudín de vainilla instantáneo sin azúcar (caja de 1 onza (28 g))",
+        "aceite de oliva"
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Quick & Easy",
+        "Cooking for 1 or 2",
+        "Budget Friendly",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "18g",
+        "saturated_fat": "5.5g",
+        "trans_fat": "0g",
+        "cholesterol": "430mg",
+        "sodium": "410mg",
+        "total_carbohydrate": "3g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/microwave-egg-and-veggie-jars"
+}

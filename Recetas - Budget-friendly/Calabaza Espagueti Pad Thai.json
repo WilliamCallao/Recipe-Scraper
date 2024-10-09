@@ -1,0 +1,98 @@
+{
+    "title": "Calabaza Espagueti Pad Thai",
+    "keywords": "Main Dish,Lunch,Dinner,Budget Friendly",
+    "prep_time": "PT15M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/023-diabetic-Pad-Thai-Spaghetti-Squash-491621512.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Calabaza espagueti mediana (2,5 libras)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla verde (cebolleta) (picada)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "zanahoria(s) (cortadas en cubitos finos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "calabacín (cortado en cubitos finos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "champiñones blancos (de botón) (picados)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Jengibre molido",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Salsa Pad Thai (preparada)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Camarones (cocidos, pelados y sin cola)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "cilantro (picado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente la parrilla. Con un cuchillo afilado, corte la berenjena en rodajas de 1/4 de pulgada y colóquelas en una bandeja para hornear. Pinte la berenjena con 2 cucharadas de aceite de oliva y luego ásela durante 5 a 7 minutos por cada lado hasta que adquiera un color dorado oscuro y esté bien cocida. Déjela enfriar. (Este paso se puede realizar con un día de anticipación).",
+        "Calienta el resto del aceite de oliva en una cacerola grande a fuego medio. Agrega el ajo y cocina hasta que comience a desprender su aroma, pero no dejes que el ajo se dore.",
+        "Utilice un tenedor para sacar los espaguetis de calabaza. Agregue los “fideos” de espaguetis de calabaza y los camarones a la sartén con las verduras. Caliente durante otros 2 minutos y mezcle bien. Cubra con cilantro picado."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Asian",
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "105mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "19g",
+        "fiber": "4g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pad-thai-spaghetti-squash"
+}

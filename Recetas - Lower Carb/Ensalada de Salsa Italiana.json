@@ -1,0 +1,99 @@
+{
+    "title": "Ensalada de Salsa Italiana",
+    "keywords": "Vegetarian,Salads,Quick & Easy,No Cook",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Salads",
+        "Quick & Easy",
+        "No Cook"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1992-diabetic-Italian-Salsa-Salad_KDBH-bookazine_012821.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        },
+        {
+            "name": "Orégano seco",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "albahaca seca",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Vinagre de sidra de manzana",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "alcaparras (enjuagadas y escurridas)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Perejil fresco picado",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cebolla roja picada",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "pimiento verde (picado)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "tomates uva o cherry (cortados por la mitad)",
+            "us_amount": "10 oz (about 2 cups)",
+            "metric_amount": "10 oz (about 2 cups)"
+        }
+    ],
+    "instructions": [
+        "En un recipiente mediano, mezcle suavemente todos los ingredientes. Deje reposar durante 10 minutos antes de servir."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Low Sodium",
+        "Mediterranean",
+        "Italian",
+        "Vegetarian",
+        "Salads",
+        "Quick & Easy",
+        "No Cook"
+    ],
+    "nutrition": {
+        "calories": "40",
+        "total_fat": "2.5g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "120mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/italian-salsa-salad"
+}

@@ -1,0 +1,98 @@
+{
+    "title": "Camarones con Pesto Cremoso de Rúcula",
+    "keywords": "Foodie,Quick & Easy,Lunch,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT6M",
+    "categories": [
+        "Foodie",
+        "Quick & Easy",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/490-diabetic-shrimp-creamy-arugula-pesto_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "agua",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "condimento sin sal como Salt-Free Spike o Mrs. Dash",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "camarones medianos (pelados y desvenados)",
+            "us_amount": "1 1/4 lbs",
+            "metric_amount": "567 ml"
+        },
+        {
+            "name": "Rúcula",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "chuletas de cerdo magras y deshuesadas",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ajo",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "anacardos sin sal",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Queso parmesano (rallado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Ponga a hervir el agua y el condimento sin sal en una cacerola mediana. Reduzca el fuego a fuego lento y agregue los camarones. Cocine durante 6 minutos o hasta que los camarones estén rosados ​​y apenas cocidos.",
+        "Habas peladas y secas, remojadas en agua hirviendo durante 1 hora y escurridas",
+        "Aceitunas verdes rellenas de pimiento (unas 12 aceitunas, picadas en trozos grandes)"
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Seafood",
+        "Italian",
+        "Foodie",
+        "Quick & Easy",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "6g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "115mg",
+        "sodium": "100mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/shrimp-creamy-arugula-pesto"
+}

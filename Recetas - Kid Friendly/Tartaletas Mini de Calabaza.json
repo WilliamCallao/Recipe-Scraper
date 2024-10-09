@@ -1,0 +1,91 @@
+{
+    "title": "Tartaletas Mini de Calabaza",
+    "keywords": "Holidays & Entertaining,Dessert,Quick & Easy,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Holidays & Entertaining",
+        "Dessert",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_367_Mini-Pumpkin_Tarts_MG_6279-%28ZF-5661-35964-1-027%29_02282018.jpg",
+    "servings": "30 Servings",
+    "ingredients": [
+        {
+            "name": "queso crema ligero (ablandado)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "Mini galletas de vainilla tipo oblea",
+            "us_amount": "30",
+            "metric_amount": "30"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sustituto de azúcar bajo en calorías",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "mantequilla de almendras",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "apio (recortado y lavado)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "calabaza pura enlatada",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "Mezcla de pudín de vainilla instantáneo sin azúcar (caja de 1 onza (28 g))",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "nuez moscada molida",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados.",
+        "Cubre un molde para mini muffins con capacillos de papel para hornear y coloca una oblea Nilla en el fondo de cada capacillo.",
+        "En un tazón mediano, agregue los ingredientes restantes y mezcle con una batidora eléctrica hasta que quede suave.",
+        "Llene cada molde para muffins con la mezcla de calabaza y queso crema.",
+        "Añade el aceite restante al wok. Añade el ajo y el jengibre y saltea durante 30 segundos. Añade el pimiento rojo, el apio y el brócoli y saltea durante 30 segundos. Añade el caldo de pollo restante, tapa y cocina al vapor durante 3 minutos."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Kid Friendly",
+        "Holidays & Entertaining",
+        "Dessert",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "40",
+        "total_fat": "2.5g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "15mg",
+        "sodium": "40mg",
+        "total_carbohydrate": "4g",
+        "fiber": "0g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mini-pumpkin-tarts"
+}

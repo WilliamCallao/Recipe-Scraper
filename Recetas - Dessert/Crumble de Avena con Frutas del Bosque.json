@@ -1,0 +1,86 @@
+{
+    "title": "Crumble de Avena con Frutas del Bosque",
+    "keywords": "Dessert",
+    "prep_time": "PT15M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2064_DiabetesFoodHub_Berry%20Oatmeal%20Crisp.jpg",
+    "servings": "9 Servings",
+    "ingredients": [
+        {
+            "name": "avena arrollada",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Edulcorante granulado Splenda®",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "harina para todo uso (uso dividido)",
+            "us_amount": "1/2 cup plus 1 tbsp",
+            "metric_amount": "1/2 cup plus 1 tbsp"
+        },
+        {
+            "name": "Edulcorante granulado Splenda® (uso dividido)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Avena laminada sin gluten",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "fresas (en rodajas)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "arándanos",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Frambuesas",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 °F y cubra ligeramente un molde para hornear de 8×8 pulgadas con aceite en aerosol antiadherente.",
+        "En un procesador de alimentos, mezcle la avena arrollada, la mantequilla, la mantequilla de almendras, 1/2 taza de harina, 2 cucharadas de edulcorante Splenda y 1/2 cucharadita de sal kosher hasta que la mezcla quede desmenuzada. Deje de lado.",
+        "En un bol grande, mezcle la cucharada restante de harina, 1 cucharada de edulcorante y 1/2 cucharadita de sal kosher. Agregue las fresas, los arándanos, las frambuesas y el extracto de vainilla. Mezcle.",
+        "Transfiera la fruta a una fuente para horno preparada y cubra con la mezcla de cobertura reservada. Hornee durante 40 a 45 minutos, o hasta que burbujee y se dore. Deje enfriar al menos 20 minutos antes de servir. Opcional: cubra con crema batida sin grasa para servir (consulte la información nutricional del producto para determinar la información nutricional)."
+    ],
+    "tags": [
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "5g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0.1g",
+        "cholesterol": "5mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "20g",
+        "fiber": "4g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/berry-oatmeal-crisp"
+}

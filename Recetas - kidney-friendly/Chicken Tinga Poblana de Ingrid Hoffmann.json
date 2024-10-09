@@ -1,0 +1,106 @@
+{
+    "title": "Chicken Tinga Poblana de Ingrid Hoffmann",
+    "keywords": "Main Dish,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT33M",
+    "categories": [
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1654-diabetic-chicken-tinga-poblana_latin-comfort-foods_092618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "hojas de laurel",
+            "us_amount": "2 leaves",
+            "metric_amount": "2 leaves"
+        },
+        {
+            "name": "Tomates cortados en cubitos pequeños sin sal añadida",
+            "us_amount": "1 14.5 ounce can",
+            "metric_amount": "1 14.5 ounce can"
+        },
+        {
+            "name": "cilantro fresco (picado y dividido)",
+            "us_amount": "1/4 cup plus 2 tbsp",
+            "metric_amount": "1/4 cup plus 2 tbsp"
+        },
+        {
+            "name": "chile chipotle en adobo",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "salsa adobo de los chipotles",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Vinagre de sidra de manzana",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "tomillo seco",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "mejorana seca u orégano seco",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla(s) (en rodajas finas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Coloque el pollo, las hojas de laurel y suficiente agua fría para cubrirlo en una cacerola mediana; deje hervir a fuego lento. Cubra y cocine a fuego lento hasta que el pollo esté bien cocido, aproximadamente 15 minutos; escurra. Descarte las hojas de laurel. Transfiera el pollo a una tabla de cortar. Deje enfriar y luego desmenúcelo con dos tenedores. Deje a un lado.",
+        "Mientras tanto, haga puré los tomates, 1/4 taza de cilantro, los chiles chipotle, la salsa de adobo, el vinagre, el ajo, el tomillo, la mejorana y la sal en un procesador de alimentos o licuadora.",
+        "Calienta el aceite en una sartén antiadherente grande a fuego medio-alto. Agrega la cebolla y cocina, revolviendo ocasionalmente, hasta que la cebolla se ablande, aproximadamente 8 minutos. Agrega la mezcla de tomate y el pollo desmenuzado. Cocina a fuego medio, revolviendo ocasionalmente, hasta que los sabores se mezclen y el pollo esté bien caliente, aproximadamente 10 minutos. Espolvorea con las 2 cucharadas restantes de cilantro."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Mexican/Southwestern",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "9g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ingrid-hoffmanns-chicken-tinga-poblana"
+}

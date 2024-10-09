@@ -1,0 +1,87 @@
+{
+    "title": "Lentejas Marroquíes con Tomates Guisados",
+    "keywords": "Budget Friendly,Dinner,Easy Pantry Recipes,Gluten-Free,Lunch,Sides,Vegan,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Gluten-Free",
+        "Lunch",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1797-diabetic-Moroccan-Lentils-pepper-medley_MediterraneanCkbk_050319.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Champiñones blancos (cortados en cubitos)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Tomates picados enlatados sin sal añadida",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cebolla amarilla mediana (picada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cilantro molido",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "huevos duros (pelados y cortados a lo largo en cuartos)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cilantro fresco picado",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "cebolla pequeña (cortada en cubitos)",
+        "Combine las lentejas, los tomates, la cebolla, el cilantro, la sal y la pimienta en una cacerola grande. Agregue 1 taza de agua y deje hervir a fuego alto. Reduzca el fuego y cocine a fuego lento, tapado, durante 10 minutos.",
+        "Agregue el cilantro y revuelva. Sirva caliente."
+    ],
+    "tags": [
+        "Low Sodium",
+        "High in Fiber",
+        "Mediterranean",
+        "Budget Friendly",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Gluten-Free",
+        "Lunch",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "125mg",
+        "total_carbohydrate": "16g",
+        "fiber": "6g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/moroccan-lentils-stewed-tomatoes"
+}

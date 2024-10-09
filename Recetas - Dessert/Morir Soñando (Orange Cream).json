@@ -1,0 +1,70 @@
+{
+    "title": "Morir Soñando (Orange Cream)",
+    "keywords": "Dessert",
+    "prep_time": "PT20M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1757-espanol-diabetic-morir-sonando_latin-comfort-foods_13020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "crepes preparados",
+            "us_amount": "2 (7-g) envelopes",
+            "metric_amount": "2 (7-g) envelopes"
+        },
+        {
+            "name": "jarabe de arce sin azúcar",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "leche descremada evaporada",
+            "us_amount": "1 (12-oz) can",
+            "metric_amount": "1 (12-oz) can"
+        },
+        {
+            "name": "Edulcorante granulado sin calorías (como la stevia) (uso dividido)",
+            "us_amount": "1 tbsp plus 2 tsp",
+            "metric_amount": "1 tbsp plus 2 tsp"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Ralladura de 1 clementina o naranja",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "jugo de naranja o clementina",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Para preparar la capa de crema de vainilla: espolvoree 1 paquete de gelatina sobre 1/2 taza de agua fría en una cacerola pequeña; deje reposar 1 minuto. Agregue la leche evaporada, 1 cucharada del sustituto de azúcar y la vainilla. Revuelva a fuego lento hasta que la gelatina se disuelva por completo, aproximadamente 5 minutos. Retire del fuego. Vierta, dividiendo uniformemente, en 4 vasos de postre (6 oz). Refrigere hasta que la mezcla esté lista pero no firme, aproximadamente 2 horas.",
+        "Para preparar la capa de naranja: espolvoree el paquete de gelatina restante sobre 1/2 taza de agua fría en una cacerola pequeña; deje reposar durante 1 minuto. Agregue la ralladura, el jugo y las 2 cucharaditas restantes de sustituto de azúcar. Revuelva a fuego lento hasta que la gelatina se disuelva por completo, aproximadamente 5 minutos. Retire del fuego; deje enfriar a temperatura ambiente. Vierta, dividiendo uniformemente, sobre la capa de crema de vainilla en los vasos de postre. Refrigere hasta que esté listo, aproximadamente 4 horas. Sirva cada uno cubierto con 2 cucharadas de crema batida sin grasa, sin azúcar y sin lácteos, si lo desea."
+    ],
+    "tags": [
+        "Latin American",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "2g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "2g",
+        "cholesterol": "5mg",
+        "sodium": "115mg",
+        "total_carbohydrate": "17g",
+        "fiber": "0g",
+        "sugar": "16g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/morir-sonando-orange-cream"
+}

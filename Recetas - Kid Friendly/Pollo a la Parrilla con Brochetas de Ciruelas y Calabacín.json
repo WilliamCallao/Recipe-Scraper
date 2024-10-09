@@ -1,0 +1,88 @@
+{
+    "title": "Pollo a la Parrilla con Brochetas de Ciruelas y Calabacín",
+    "keywords": "Dinner,Holidays & Entertaining,Main Dish",
+    "prep_time": "PT1H5M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Holidays & Entertaining",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/grilled%20chicken%20skewers%20plum%20diabetic.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "salsa de soja baja en sodio",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "jengibre fresco (rallado)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel (cortadas en trozos)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "ciruelas (sin hueso y cortadas en cuartos)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "calabacín (cortado en rodajas de ½ pulgada)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Ralladura de 1 limón",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "cilantro fresco (finamente picado)",
+        "Coloque el pollo, las ciruelas y el calabacín en una bolsa grande con cierre hermético o en un plato poco profundo y vierta la marinada sobre ellos. Selle y refrigere durante al menos 1 hora, hasta toda la noche.",
+        "Precaliente la parrilla (o la parrilla para interiores) a fuego medio-alto. Ensarte el pollo, las ciruelas y el calabacín en brochetas. Descarte la marinada sobrante.",
+        "Una vez que la parrilla esté caliente, cúbrala con aceite. Agregue el filete y cocínelo durante 6 a 8 minutos por lado, hasta que alcance el punto de cocción deseado. Retire del fuego y reserve en un plato; deje reposar durante 5 minutos antes de cortarlo en tiras finas."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Grilling",
+        "Kid Friendly",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "8g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "440mg",
+        "total_carbohydrate": "14g",
+        "fiber": "2g",
+        "sugar": "12g",
+        "added_sugar": "1g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-chicken-plums-and-zucchini-skewers"
+}

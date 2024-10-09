@@ -1,0 +1,120 @@
+{
+    "title": "Chili de Pavo y Verduras",
+    "keywords": "Easy Pantry Recipes,Dinner,Gluten-Free,Lunch,Budget Friendly,One Pot,Main Dish",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Budget Friendly",
+        "One Pot",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/561-diabetic-turkey-veggie-chili_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "cebolla pequeña (cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zanahorias medianas (cortadas en cubitos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Calabacín mediano (cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "En un tazón pequeño, mezcle la salsa de soja, el vinagre, el agua caliente, el aceite de oliva y el jengibre.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pavo molido magro",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "tomates cortados en cubitos enlatados",
+            "us_amount": "1 (14.5-oz) can",
+            "metric_amount": "1 (14.5-oz) can"
+        },
+        {
+            "name": "tomates triturados enlatados",
+            "us_amount": "1 (28-oz) can",
+            "metric_amount": "1 (28-oz) can"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1 (15.8-oz) can",
+            "metric_amount": "1 (15.8-oz) can"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Palitos de verduras variadas para mojar (zanahorias, pepinos, apio, pimiento morrón, etc.)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Rocíe una olla grande para sopa con aceite en aerosol. Agregue las cebollas, las zanahorias y el calabacín y saltee a fuego medio-alto durante 3 a 4 minutos o hasta que las cebollas se vuelvan transparentes. Agregue el ajo y saltee durante 30 segundos más.",
+        "Añade el pavo molido y cocina hasta que se dore. Añade el resto de los ingredientes; mezcla bien y lleva el chile a ebullición. Reduce el fuego y cocina a fuego lento durante 15 a 20 minutos."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Comfort Food",
+        "Mexican/Southwestern",
+        "Easy Pantry Recipes",
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Budget Friendly",
+        "One Pot",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "5g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0.1g",
+        "cholesterol": "45mg",
+        "sodium": "170mg",
+        "total_carbohydrate": "27g",
+        "fiber": "8g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/turkey-and-veggie-chili"
+}

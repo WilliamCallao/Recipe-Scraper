@@ -1,0 +1,101 @@
+{
+    "title": "Ensalada de Manzana, Remolacha y Zanahoria con Vinagreta de Naranja Roja",
+    "keywords": "Dinner,Gluten-Free,Lunch,No Cook,Quick & Easy,Salads,Sides,Vegan,Vegetarian",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "No Cook",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/1799-diabetic-apple-beet-carrot-slaw_MediterraneanCkbk_050319.jpg",
+        "Beet",
+        "and Carrot Slaw with blood Orange Vinaigrette\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "calabacín rallado",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "aguacate (en rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "nueces picadas",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Jugo de 1 naranja sanguina",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque las remolachas, las zanahorias y la manzana ralladas en un bol y mezcle. Agregue las nueces y las hierbas verdes sobre la mezcla y deje el bol a un lado.",
+        "En un bol pequeño, mezcle el jugo de naranja sanguina y la sal hasta que la sal se disuelva. Agregue 3 o 4 granos de pimienta molida y luego agregue el aceite. Vierta el aderezo sobre la ensalada y mezcle hasta que esté bien combinado y cubierto de manera uniforme. Sirva la ensalada dentro de 1 hora de haber combinado con las hierbas y el aderezo."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mediterranean",
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "No Cook",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "12g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "170mg",
+        "total_carbohydrate": "15g",
+        "fiber": "3g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/apple-beet-and-carrot-slaw-blood-orange-vinaigrette"
+}

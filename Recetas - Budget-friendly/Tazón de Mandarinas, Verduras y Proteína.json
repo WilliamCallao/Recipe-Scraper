@@ -1,0 +1,91 @@
+{
+    "title": "Tazón de Mandarinas, Verduras y Proteína",
+    "keywords": "Budget Friendly,Cooking for 1 or 2,Dinner,Easy Pantry Recipes,Lunch,Main Dish,No Cook,Quick & Easy,Salads",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Budget Friendly",
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Lunch",
+        "Main Dish",
+        "No Cook",
+        "Quick & Easy",
+        "Salads"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/1958-diabetic-orange-greens-chicken-salad_clean-and-simple_AdobeStock187667404_050120.jpg",
+        "Greens",
+        "and Protein Bowl\" loading=\"lazy\" />"
+    ],
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "mandarinas (frescas o enlatadas)",
+            "us_amount": "2 whole or 1 small can",
+            "metric_amount": "2 whole or 1 small can"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "1 tsp (or 1/4 tsp ground ginger)",
+            "metric_amount": "1 tsp (or 1/4 tsp ground ginger)"
+        },
+        {
+            "name": "Vinagre de sidra de manzana",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aceite de sésamo tostado",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "espinacas tiernas u otras verduras para ensalada",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Cuando la válvula baje, retira la tapa con cuidado y agrega el resto de los ingredientes. Deja reposar durante 5 minutos para que se mezclen los sabores. Sirve caliente.",
+            "us_amount": "3 oz (about 1/2 cup)",
+            "metric_amount": "3 oz (about 1/2 cup)"
+        },
+        {
+            "name": "pechuga de pollo cocida (picada)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque la mitad de los trozos de naranja en una licuadora junto con el jengibre, el vinagre y el aceite (deje los otros trozos de naranja a un lado para más tarde). Cubra y haga un puré.",
+        "Almendras tostadas en seco, en rodajas y sin sal"
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Budget Friendly",
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Lunch",
+        "Main Dish",
+        "No Cook",
+        "Quick & Easy",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "390",
+        "total_fat": "19g",
+        "saturated_fat": "2.7g",
+        "trans_fat": "0g",
+        "cholesterol": "160mg",
+        "sodium": "310mg",
+        "total_carbohydrate": "31g",
+        "fiber": "7g",
+        "sugar": "20g",
+        "added_sugar": "0g",
+        "protein": "29g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mandarin-greens-and-protein-bowl"
+}

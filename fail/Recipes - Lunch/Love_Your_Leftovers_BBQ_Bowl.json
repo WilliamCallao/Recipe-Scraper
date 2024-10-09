@@ -1,0 +1,79 @@
+{
+    "title": "\"Love Your Leftovers\" BBQ Bowl",
+    "keywords": "Budget Friendly,Cooking for 1 or 2,Easy Pantry Recipes,Lunch,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT1M",
+    "categories": [
+        "Budget Friendly",
+        "Cooking for 1 or 2",
+        "Easy Pantry Recipes",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1869-diabetic-Love-Your-Leftovers-BBQ-Bowl_clean-and-simple_120919.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "fresh baby spinach",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "cooked lean protein such as chicken (cut into bite-size pieces)",
+            "us_amount": "3 oz",
+            "metric_amount": "85 ml"
+        },
+        {
+            "name": "cooked whole grain such as quinoa, rice, or barley",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "cooked nonstarchy vegetables such as broccoli (cut into bite-sized pieces)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "no-sugar-added barbecue sauce",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "fresh cilantro",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lime wedge",
+            "us_amount": "1 or 2",
+            "metric_amount": "1 or 2"
+        }
+    ],
+    "instructions": [
+        "Add the spinach to a microwave-safe bowl. Arrange the lean protein, veggies, and whole grains on top. Drizzle with the barbecue sauce.",
+        "Heat in the microwave on high for 1 minute 15 seconds, or until hot. Adjust seasoning.",
+        "Sprinkle with the cilantro and serve with the lime wedge(s)."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Budget Friendly",
+        "Cooking for 1 or 2",
+        "Easy Pantry Recipes",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "340",
+        "total_fat": "6g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "420mg",
+        "total_carbohydrate": "38g",
+        "fiber": "11g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "37g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/love-your-leftovers-bbq-bowl"
+}

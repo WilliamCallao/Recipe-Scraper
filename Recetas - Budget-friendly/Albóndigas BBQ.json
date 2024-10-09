@@ -1,0 +1,112 @@
+{
+    "title": "Albóndigas BBQ",
+    "keywords": "Appetizers,Holidays & Entertaining,Sides,Dinner,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Sides",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_77_BBQ_Meatballs_iStock-457291949_02262018.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "espárragos (cortados en trozos del tamaño de un bocado)",
+            "us_amount": "20 oz",
+            "metric_amount": "566 ml"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "avena laminada a la antigua usanza",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ajo (picado o rallado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salsa picante",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "condimento para bistec (sin sal)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salsa barbacoa (reducida en azúcar)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "frijoles negros enlatados (enjuagados y escurridos)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Caldo de pollo bajo en sodio (sin grasa, bajo en sodio)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salsa picante (opcional)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 grados F. Rocíe una bandeja para hornear con aceite en aerosol. Déjela a un lado.",
+        "En un recipiente grande, mezcle el pavo, el huevo, la avena, el ajo, la mostaza, la salsa picante, el condimento para bistec y la pimienta negra. Mezcle bien.",
+        "Coloque albóndigas del tamaño de una cucharada colmada en la bandeja para hornear, una al lado de la otra de manera que se toquen, para formar 25 albóndigas. Rocíe la parte superior de las albóndigas con aceite en aerosol y hornee durante 20 minutos o hasta que la temperatura interna sea de 165 grados F.",
+        "Mientras se hornean las albóndigas, mezcle la salsa barbacoa, la salsa de arándanos, el caldo de pollo y la salsa picante (opcional). Lleve a ebullición. Reduzca el fuego y cocine a fuego lento hasta que espese.",
+        "vinagre balsámico"
+    ],
+    "tags": [
+        "Comfort Food",
+        "Kid Friendly",
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Sides",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "10g",
+        "saturated_fat": "3g",
+        "trans_fat": "0g",
+        "cholesterol": "125mg",
+        "sodium": "325mg",
+        "total_carbohydrate": "15g",
+        "fiber": "1g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/bbq-meatballs"
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Chili Rápido para Congelador en Instant Pot",
+    "keywords": "Budget Friendly,Dinner,Easy Pantry Recipes,Gluten-Free,Main Dish,One Pot,Quick & Easy,Slow Cooker,Soup",
+    "prep_time": "PT5M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Gluten-Free",
+        "Main Dish",
+        "One Pot",
+        "Quick & Easy",
+        "Slow Cooker",
+        "Soup"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1686-diabetic-instant-pot-freezer-fix-chili_Instant-Pot-Diabetes-Ckbk_052819.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "pavo molido magro congelado",
+            "us_amount": "1 lb",
+            "metric_amount": "1 lb"
+        },
+        {
+            "name": "maíz congelado (o 1 lata (15 oz) de frijoles rojos, enjuagados)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "Vuelve a poner la sartén a fuego medio. Agrega 3 cucharadas de aceite de oliva y luego la harina. Bate y cocina durante un minuto. Vierte lentamente el caldo y bate hasta que espese, durante 3 o 4 minutos. Retira del fuego y agrega la sal, el cilantro y la crema agria.",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "Tomates cortados en cubitos con albahaca, ajo y orégano",
+            "us_amount": "1 (14.5 oz) can",
+            "metric_amount": "1 (14.5 oz) can"
+        },
+        {
+            "name": "Yogur griego de frutos rojos (sin grasa)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "jamón de charcutería reducido en sodio",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "comino",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimentón ahumado",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "3/4 tsp",
+            "metric_amount": "4 g"
+        }
+    ],
+    "instructions": [
+        "Coloque el pavo molido congelado en la olla a presión. Cubra con el resto de los ingredientes.",
+        "Cierre la tapa, cierre la válvula y configure el botón manual en 25 minutos. Utilice un dispositivo de liberación rápida de presión.",
+        "Cuando la válvula baje, retire con cuidado la tapa y revuelva, desmenuzando el pavo."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Comfort Food",
+        "Kid Friendly",
+        "Budget Friendly",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Gluten-Free",
+        "Main Dish",
+        "One Pot",
+        "Quick & Easy",
+        "Slow Cooker",
+        "Soup"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "7g",
+        "saturated_fat": "1.8g",
+        "trans_fat": "0.1g",
+        "cholesterol": "55mg",
+        "sodium": "400mg",
+        "total_carbohydrate": "22g",
+        "fiber": "5g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/instant-pot-freezer-fix-chili"
+}

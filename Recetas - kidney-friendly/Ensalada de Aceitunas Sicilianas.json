@@ -1,0 +1,94 @@
+{
+    "title": "Ensalada de Aceitunas Sicilianas",
+    "keywords": "Snacks,Quick & Easy,No Cook,Holidays & Entertaining,Appetizers",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Snacks",
+        "Quick & Easy",
+        "No Cook",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1816-diabetic-sicilian-olive-salad_mediterranean-diabetes-cookbook_073019.jpg",
+    "servings": "16 Servings",
+    "ingredients": [
+        {
+            "name": "aceitunas verdes grandes (bien enjuagadas, escurridas y frotadas hasta secar)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "apio (cortado en cubitos)",
+            "us_amount": "5 stalks",
+            "metric_amount": "5 stalks"
+        },
+        {
+            "name": "zanahorias (peladas y cortadas en cubitos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Saca las tortitas del refrigerador y déjalas reposar 5 minutos. En una sartén grande, calienta el aceite a fuego medio. Agrega las tortitas a la sartén y saltéalas durante unos 5 minutos de cada lado, hasta que estén doradas.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "Orégano seco",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "aceite de oliva virgen extra",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Mientras tanto, en un tazón mediano, mezcle los ingredientes de la salsa.",
+        "Coloque las aceitunas en un bol y revuelva junto con el resto de los ingredientes.",
+        "Deje marinar la ensalada durante una hora a temperatura ambiente o tápela y enfríela en el refrigerador durante al menos 1 día y hasta 3 días. Deje que la ensalada alcance la temperatura ambiente antes de servir."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Mediterranean",
+        "Italian",
+        "Snacks",
+        "Quick & Easy",
+        "No Cook",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "6g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sicilian-olive-salad"
+}

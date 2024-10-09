@@ -1,0 +1,89 @@
+{
+    "title": "Tenders de Pollo con Yogur de Limón y Especias",
+    "keywords": "Quick & Easy,Main Dish,Lunch,Dinner",
+    "prep_time": "PT8H",
+    "cook_time": "PT6M",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_852_2Step_SpicedLemonYogurtChickenTenders_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "filetes de pollo (aproximadamente 1 libra)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "Yogur griego (desnatado, natural)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Ralladura y jugo de un limón grande",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "paprika",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "zumo de naranja",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Jengibre fresco (pelado y rallado, uso dividido)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "limón mediano (cortado en cuartos (opcional))",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Combine todos los ingredientes, excepto los cuartos de limón, en una bolsa de plástico con cierre hermético de un galón. Ciérrela bien y revuelva hasta que estén bien cubiertos. Refrigere durante 8 horas.",
+        "Calienta una sartén para parrilla cubierta generosamente con aceite en aerosol a fuego medio-alto. Retira el pollo de la marinada, desecha la marinada y ásalo durante 3 minutos de cada lado o hasta que ya no esté rosado en el centro. Sirve con el limón cortado en cuartos, si lo deseas."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Grilling",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "175",
+        "total_fat": "3g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "375mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "30g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spiced-lemon-yogurt-chicken-tenders"
+}

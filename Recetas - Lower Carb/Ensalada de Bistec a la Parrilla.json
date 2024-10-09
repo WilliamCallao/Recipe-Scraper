@@ -1,0 +1,105 @@
+{
+    "title": "Ensalada de Bistec a la Parrilla",
+    "keywords": "Budget Friendly,Dinner,Salads,Lunch",
+    "prep_time": "PT15M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Salads",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/290-diabetic-grilled-steak-salad_090718_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "filete de solomillo",
+            "us_amount": "9 oz",
+            "metric_amount": "255 ml"
+        },
+        {
+            "name": "condimento sin sal (como Mrs. Dash)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "mezcla de ensalada mesclum",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "cebolla roja (en rodajas finas)",
+            "us_amount": "1/4",
+            "metric_amount": "1/4"
+        },
+        {
+            "name": "Tomates cherry (cortados por la mitad a lo largo)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "mayonesa ligera",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Yogur griego natural sin grasa",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "suero de leche bajo en grasa",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ajo (picado o rallado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "queso azul desmenuzado",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta una parrilla interior o exterior. Sazona ambos lados del filete con el condimento sin sal.",
+        "Ase el filete durante 5 a 6 minutos por lado o hasta que esté bien cocido (145 grados de temperatura interna). Déjelo reposar cubierto sin apretar con papel de aluminio.",
+        "Prepare cada ensalada comenzando con 1 taza de lechuga romana, cubra con 1/4 de la cebolla en rodajas, 1/4 de taza del pepino en rodajas, el filete de salmón a la parrilla y 1/4 del aguacate en rodajas. Repita para las tres ensaladas restantes.",
+        "Corte el filete en rodajas finas y cubra cada ensalada con 2 onzas de filete.",
+        "En un bol pequeño, mezcle la mayonesa, el yogur, el suero de leche, el ajo, el queso azul y la pimienta. Cubra cada ensalada de filete con 3 cucharadas y media de aderezo."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Grilling",
+        "Budget Friendly",
+        "Dinner",
+        "Salads",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "7g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "260mg",
+        "total_carbohydrate": "8g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-steak-salad"
+}

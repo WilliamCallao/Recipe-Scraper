@@ -1,0 +1,86 @@
+{
+    "title": "Chuletas de Cerdo al Horno con Cítricos",
+    "keywords": "Budget Friendly,Dinner,Main Dish",
+    "prep_time": "PT10M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_660_Budget-Friendly%20Citrus_Baked_Pork_Chops_BudgetFriendlyCookbook_022518.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "chuletas de cerdo (magras, corte central)",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "pimienta limón (sin sal)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "limón (cortado en seis rodajas redondas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Retirar del fuego, rociar con crema espesa y cubrir con los quesos.",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Añade aceite a una olla sopera a fuego medio. Agrega la cebolla, las zanahorias, el apio y los champiñones. Saltea durante 5 minutos.",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "clara de huevo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Una pizca de sal",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375°F.",
+        "Espolvorear la carne con la pimienta y el limón.",
+        "Mientras el guiso hierve a fuego lento, mezcle todos los ingredientes de las albóndigas hasta formar una masa consistente. Deje de lado.",
+        "Escurre la grasa y colócalas en una fuente para horno. Coloca una rodaja de limón sobre cada chuleta.",
+        "ajo (cortado en rodajas finas)",
+        "Hornee hasta que esté tierno pero ya no rosado, aproximadamente 50 minutos."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Caribbean",
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "11g",
+        "saturated_fat": "3.1g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "305mg",
+        "total_carbohydrate": "5g",
+        "fiber": "0g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/citrus-baked-pork-chops"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Ensalada de Frutas con Yogur de Miel",
+    "keywords": "Gluten-Free,Vegetarian,Snacks,Sides,Dessert,Holidays & Entertaining,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Gluten-Free",
+        "Vegetarian",
+        "Snacks",
+        "Sides",
+        "Dessert",
+        "Holidays & Entertaining",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/246-diabetic-fruit-salad-yogurt_AdobeStock82846887_012521.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Fresas (sin tallo y cortadas en rodajas)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "sandía (cortada en trozos pequeños)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "melón (cortado en trozos pequeños)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "claras de huevo",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "arándanos",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Yogur griego sin grasa con sabor a miel",
+            "us_amount": "2 (6-oz) containers",
+            "metric_amount": "2 (6-oz) containers"
+        }
+    ],
+    "instructions": [
+        "Mientras se cocina el pescado, combine los ingredientes restantes, excepto las mitades de limón, en un tazón pequeño y reserve.",
+        "Con una espátula con ranuras, retira el pescado, colócalo en cuatro platos y exprime el jugo de limón uniformemente sobre todo. Cubre con la mezcla de perejil."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Kid Friendly",
+        "Gluten-Free",
+        "Vegetarian",
+        "Snacks",
+        "Sides",
+        "Dessert",
+        "Holidays & Entertaining",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "25mg",
+        "total_carbohydrate": "20g",
+        "fiber": "2g",
+        "sugar": "17g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fruit-salad-honey-yogurt"
+}

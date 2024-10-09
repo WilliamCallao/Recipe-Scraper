@@ -1,0 +1,113 @@
+{
+    "title": "Ensalada de Tomate y Durazno",
+    "keywords": "Salads,Sides,Vegetarian,Foodie,Holidays & Entertaining,Lunch,No Cook,Quick & Easy,Salad Dressings & Condiments",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Sides",
+        "Vegetarian",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "No Cook",
+        "Quick & Easy",
+        "Salad Dressings & Condiments"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Jun14_tomato_peach_salad.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Melocotones (sin hueso y cortados en gajos gruesos)",
+            "us_amount": "3 med",
+            "metric_amount": "3 med"
+        },
+        {
+            "name": "Tomates (cortados en trozos grandes)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "tomates cherry (cortados por la mitad)",
+            "us_amount": "1/2 pints",
+            "metric_amount": "240 ml"
+        },
+        {
+            "name": "cebolla roja (en rodajas finas)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "vinagre de jerez",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Asa las brochetas durante unos 10 a 15 minutos, dándoles vuelta de vez en cuando, hasta que el tofu esté dorado y las verduras estén carbonizadas y tiernas. Rocía las brochetas con el resto de la marinada mientras las asas para que tengan más sabor.",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Una vez cocidas, retiramos las brochetas de la parrilla y las dejamos reposar unos minutos.",
+        "En un tazón pequeño o taza medidora, mezcle el vinagre, el jugo de limón y la miel. Agregue lentamente el aceite en un chorro fino, batiendo para emulsionar. Agregue la sal y la pimienta negra.",
+        "Añade el aderezo a los duraznos y los tomates y revuelve suavemente. Incorpora las hojas de menta. Para servir, coloca la ensalada en una fuente grande."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Caribbean",
+        "Latin American",
+        "Mexican/Southwestern",
+        "Mediterranean",
+        "Salads",
+        "Sides",
+        "Vegetarian",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "No Cook",
+        "Quick & Easy",
+        "Salad Dressings & Condiments"
+    ],
+    "nutrition": {
+        "calories": "75",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "75mg",
+        "total_carbohydrate": "10g",
+        "fiber": "2g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tomato-and-peach-salad"
+}

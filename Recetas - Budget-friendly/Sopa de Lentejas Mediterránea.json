@@ -1,0 +1,100 @@
+{
+    "title": "Sopa de Lentejas Mediterránea",
+    "keywords": "Sides,Budget Friendly,Dinner,Lunch,Quick & Easy",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/351-Mediterranean-Lentil-Soup_466480757_04122018%20.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de canola",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "cebolla(s) (cortadas en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Salchicha de pavo italiana ((carne extraída de la tripa), cortada en rodajas)",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio (reducido en sodio, sin grasa)",
+            "us_amount": "32 oz",
+            "metric_amount": "906 ml"
+        },
+        {
+            "name": "tomate(s) (14 onzas, cortado en cubitos)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "agua",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "lentejas secas",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Orégano seco",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "hojas de laurel",
+            "us_amount": "1 leaves",
+            "metric_amount": "1 leaves"
+        }
+    ],
+    "instructions": [
+        "Cubra y guarde los frascos hasta por 4 días en el refrigerador, o en el congelador hasta por 3 meses. Si los va a guardar en el congelador, transfiera los frascos congelados al refrigerador la noche anterior a cuando planee consumirlos para que se descongelen.",
+        "Añade la salchicha italiana de pavo y cocina durante unos 8 minutos hasta que se dore. Añade el resto de los ingredientes.",
+        "Ponga la sopa a hervir; reduzca el fuego y cocine a fuego lento durante 15 minutos."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mediterranean",
+        "Sides",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "490mg",
+        "total_carbohydrate": "18g",
+        "fiber": "6g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mediterranean-lentil-soup"
+}

@@ -1,0 +1,105 @@
+{
+    "title": "Croquetas de Salmón con Salsa de Yogur y Rábano Picante",
+    "keywords": "Budget Friendly,Dinner,Lunch,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2004-diabetic-Salmon-Croquettes_KDBH-bookazine_012821.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "yogur natural sin grasa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Perejil fresco picado",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "rábano picante",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla rallada",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Salmón enlatado deshuesado y sin piel (escurrido y desmenuzado)",
+            "us_amount": "1 (14.5-oz) can",
+            "metric_amount": "1 (14.5-oz) can"
+        },
+        {
+            "name": "pimiento rojo picado",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "mantequilla sin sal",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "cebolla roja picada",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "huevo",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "eneldo fresco o 1/2 cucharadita de eneldo seco",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "En un bol pequeño, mezcle el yogur, el perejil, el rábano picante y la cebolla rallada. Cubra y refrigere.",
+        "filetes de pavo deshuesados ​​(cortados por la mitad)",
+        "Asar durante 15 minutos; retirar del horno y revolver. Continuar asando durante 10 minutos o hasta que la coliflor esté tierna y ligeramente dorada.",
+        "Transfiera las croquetas a los platos. Vierta la salsa a lo largo o sobre las croquetas."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Dialysis",
+        "Seafood",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "80mg",
+        "sodium": "360mg",
+        "total_carbohydrate": "15g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/salmon-croquettes-yogurt-horseradish-sauce"
+}

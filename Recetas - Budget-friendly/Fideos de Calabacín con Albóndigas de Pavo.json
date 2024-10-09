@@ -1,0 +1,92 @@
+{
+    "title": "Fideos de Calabacín con Albóndigas de Pavo",
+    "keywords": "Dinner,Budget Friendly",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/600-diabetic-meatballs-zoodles_AdobeStock178886216_012121.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pavo molido magro",
+            "us_amount": "1 1/4 lbs",
+            "metric_amount": "567 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Orégano seco",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "caldo de res bajo en sodio",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "huevos (ligeramente batidos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "harina de almendras",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "salsa marinara baja en sodio",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "calabacín mediano",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375 grados F. Cubra una bandeja para hornear con aceite en aerosol.",
+        "Mezcle el pavo, el ajo, el orégano, el perejil, la cebolla seca, el queso parmesano, el huevo y la avena en un tazón y mezcle bien.",
+        "Saque la mezcla de carne y forme 12 albóndigas y colóquelas en la bandeja para hornear.",
+        "Hornee las albóndigas durante 25 a 30 minutos o hasta que estén bien cocidas y alcancen una temperatura interna de 165 grados F.",
+        "Mientras se cocinan las albóndigas, use un pelador en juliana, un espiralizador o una mandolina en la posición juliana y corte el calabacín en “fideos”. Coloque los fideos en un recipiente grande para microondas con tapa y caliéntelos en el microondas durante 2 minutos.",
+        "Calienta la salsa marinara en una cacerola grande. Agrega las albóndigas cocidas a la salsa caliente y vierte sobre los fideos de calabacín."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Italian",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "400",
+        "total_fat": "20g",
+        "saturated_fat": "4.4g",
+        "trans_fat": "0.2g",
+        "cholesterol": "155mg",
+        "sodium": "420mg",
+        "total_carbohydrate": "19g",
+        "fiber": "4g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "35g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/zucchini-noodles-turkey-meatballs"
+}

@@ -1,0 +1,120 @@
+{
+    "title": "Estofado de Cerdo y Calabaza en Olla de Cocción Lenta",
+    "keywords": "Main Dish,Budget Friendly,Dinner,Slow Cooker",
+    "prep_time": "PT15M",
+    "cook_time": "PT4H",
+    "categories": [
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner",
+        "Slow Cooker"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/494-diabetic-pork-pumpkin-stew_511324717_031119.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "paleta de cerdo (limpia de toda la grasa visible, cortada en cubos de 1 pulgada)",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "condimento (sin sal, como Mrs. Dash)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aceite de oliva en aerosol",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "caldo de res (bajo en sodio)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cebolla(s) (pelada, cortada en cubos grandes)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "tallos de apio (dados grandes)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "guisantes (verdes, partidos)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "Calabaza pequeña para pastel o azúcar (pelada, sin semillas y cortada en dados grandes)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "tomillo fresco",
+            "us_amount": "4 sprig",
+            "metric_amount": "4 sprig"
+        },
+        {
+            "name": "hojas de laurel",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "frijoles negros ((14,5 onzas) escurridos y enjuagados)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        }
+    ],
+    "instructions": [
+        "Sazona la carne de cerdo cortada en cubos con la pimienta y el condimento sin sal.",
+        "Añade el aceite a una sartén grande a fuego alto y dora el cerdo, cocinándolo durante unos 8 minutos. Si usas una sartén pequeña, dora el cerdo en tandas para asegurar que se dore de manera uniforme.",
+        "Saque la carne de la sartén y déjela a un lado. Agregue la pasta de tomate, el caldo de res y la canela a la sartén y bata para incorporar los trocitos marrones del fondo de la sartén. Retire la sartén del fuego.",
+        "sal",
+        "Jengibre molido"
+    ],
+    "tags": [
+        "High in Fiber",
+        "Comfort Food",
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner",
+        "Slow Cooker"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "4g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "170mg",
+        "total_carbohydrate": "15g",
+        "fiber": "5g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/slow-cooker-pork-and-pumpkin-stew"
+}

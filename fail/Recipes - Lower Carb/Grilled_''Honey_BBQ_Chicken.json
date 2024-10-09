@@ -1,0 +1,108 @@
+{
+    "title": "Grilled ''Honey\" BBQ Chicken",
+    "keywords": "Main Dish,Dinner,Lunch",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Main Dish",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Splenda_Recipes_JUN_779x590.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Splenda® Multi-Use Syrup (For the \"Honey\" BBQ Sauce)",
+            "us_amount": "1/4",
+            "metric_amount": "1/4"
+        },
+        {
+            "name": "no sugar added ketchup (For the \"Honey\" BBQ Sauce)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Raw Apple Cider Vinegar (For the \"Honey\" BBQ Sauce)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Worcestershire sauce (For the \"Honey\" BBQ Sauce)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "liquid smoke (For the \"Honey\" BBQ Sauce)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "smoked paprika (For the \"Honey\" BBQ Sauce)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "garlic (grated, for the \"Honey\" BBQ Sauce)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "onion powder (For the \"Honey\" BBQ Sauce)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "kosher or sea salt (For the \"Honey\" BBQ Sauce)",
+            "us_amount": "1/4",
+            "metric_amount": "1/4"
+        },
+        {
+            "name": "boneless, skinless chicken breasts (5-6 ounces each)",
+            "us_amount": "6 whole",
+            "metric_amount": "6 whole"
+        },
+        {
+            "name": "olive oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Kosher Salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper (to taste)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "For the \"Honey\" BBQ Sauce, add all ingredients to a saucepan and stir together. Bring to a boil, then reduce heat to low. Simmer for 10 minutes, until sauce becomes thickened. Pour into a bowl to use for brushing on the chicken while it is grilling. Reserve a few tablespoons to drizzle on chicken after it's been cooked.",
+        "For the chicken, prepare the grill by brushing grates clean, spraying with a grill-safe nonstick cooking spray (or brush them carefully with a little oil), and heat grill to 400-450°F.",
+        "Place chicken on a platter and drizzle with olive oil, then sprinkle kosher salt and freshly ground black pepper on both sides.",
+        "Place each chicken breast on the hot grill, close the top and let cook for about 5 minutes, until they easily release from the grill grates. Then flip chicken, cooking about 5 more minutes on the other side. Brush chicken liberally with the BBQ sauce every couple of minutes. Flip chicken once again, brushing the opposite side with the sauce liberally as well.",
+        "Cook until the chicken breasts register an internal temperature of 160°F (they will reach the appropriate 165°F during carry-over cooking time). Be sure not to overcook so you have tender, juicy chicken. Remove from grill, add to platter and cover with foil. Let chicken rest 5 minutes to redistribute juices. Serve with reserved BBQ sauce and enjoy."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Kid Friendly",
+        "Main Dish",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "7g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "125mg",
+        "sodium": "500mg",
+        "total_carbohydrate": "18g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "38g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-honey-bbq-chicken"
+}

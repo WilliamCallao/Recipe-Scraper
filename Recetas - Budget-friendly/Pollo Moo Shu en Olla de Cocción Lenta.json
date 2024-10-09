@@ -1,0 +1,91 @@
+{
+    "title": "Pollo Moo Shu en Olla de Cocción Lenta",
+    "keywords": "Slow Cooker,Budget Friendly,Dinner,Main Dish,Foodie",
+    "prep_time": "PT10M",
+    "cook_time": "PT6H",
+    "categories": [
+        "Slow Cooker",
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/208-diabetic-slow-cooker-moo-shu-chicken_AdobeStock_199105969_022521.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "ensalada de brócoli",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "zanahorias (ralladas)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel (cortadas en rodajas finas)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "salsa hoisin",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "Exprime el limón y la chalota en un bol pequeño. Deja reposar durante unos 10 minutos.",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Combine el pollo y el brócoli en un tazón mediano.",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "4 leaves",
+            "metric_amount": "4 leaves"
+        }
+    ],
+    "instructions": [
+        "Rocíe ligeramente una olla holandesa con aceite en aerosol. Caliéntela a fuego medio-alto. Cocine el pollo durante unos 4 minutos o hasta que se dore por todos lados, dándole vuelta con frecuencia (el pollo no estará listo en este punto). Transfiera a un plato.",
+        "lechuga (rallada)",
+        "Sirve 1 1/2 tazas de la mezcla en cada hoja de lechuga."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Asian",
+        "Slow Cooker",
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "380mg",
+        "total_carbohydrate": "18g",
+        "fiber": "4g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "29g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crock-pot-moo-shu-chicken"
+}

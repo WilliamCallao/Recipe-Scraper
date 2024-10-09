@@ -1,0 +1,67 @@
+{
+    "title": "Salsa de Arándanos",
+    "keywords": "Breakfast and Brunch,Dessert,One Pot,Quick & Easy,Sauces",
+    "prep_time": "Desconocido",
+    "cook_time": "PT15M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Dessert",
+        "One Pot",
+        "Quick & Easy",
+        "Sauces"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1698-diabetic-blueberry-sauce_Diabetes-Superfoods-Cookbook_010319.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Batido de vainilla Splenda® Diabetes Care",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "mantequilla de almendras",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Edulcorante granulado Splenda® (uso dividido)",
+        "extracto de almendra"
+    ],
+    "tags": [
+        "Low Sodium",
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kid Friendly",
+        "Breakfast and Brunch",
+        "Dessert",
+        "One Pot",
+        "Quick & Easy",
+        "Sauces"
+    ],
+    "nutrition": {
+        "calories": "35",
+        "total_fat": "1g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "7g",
+        "fiber": "1g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/blueberry-sauce"
+}

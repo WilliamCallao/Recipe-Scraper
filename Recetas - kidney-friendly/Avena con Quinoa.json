@@ -1,0 +1,87 @@
+{
+    "title": "Avena con Quinoa",
+    "keywords": "Breakfast and Brunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1742-espanol-diabetic-cereal-avena-quinua_latin-comfort-foods_13020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "leche desnatada",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "avena laminada a la antigua usanza",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "quinoa",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "nueces pecanas",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Almendras en rodajas (tostadas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Combine la leche y el agua en una cacerola grande y lleve a hervor a fuego medio.",
+        "Añade la avena, la quinoa, la miel, la canela, la vainilla y la sal. Reduce el fuego a mínimo. Tapa y cocina, revolviendo de vez en cuando, hasta que la avena y la quinoa estén tiernas, unos 15 minutos. Sirve con las frambuesas y las almendras por encima."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "6g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "125mg",
+        "total_carbohydrate": "30g",
+        "fiber": "4g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/quinoa-oatmeal"
+}

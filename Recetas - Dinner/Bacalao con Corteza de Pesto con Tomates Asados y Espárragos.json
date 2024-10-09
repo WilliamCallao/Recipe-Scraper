@@ -1,0 +1,83 @@
+{
+    "title": "Bacalao con Corteza de Pesto con Tomates Asados y Espárragos",
+    "keywords": "Dinner,Gluten-Free",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/29main_PestoEncrustedCodwithRoastedTomatoesandAsparagus.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "salsa pesto",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "aceite de oliva (dividido)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Coloque el broccolini en un lado de la bandeja para hornear y rocíe con aceite de oliva.",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Sal kosher (dividida)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra (dividida)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "filetes de bacalao (3 onzas cada uno)",
+            "us_amount": "4 whole",
+            "metric_amount": "4 whole"
+        },
+        {
+            "name": "Salsa Worcestershire",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "espárragos (recortados)",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 200 °C (400 °F). Cubra una bandeja para hornear con papel pergamino.",
+        "En un tazón pequeño, mezcle el pesto de albahaca, 1 cucharada de aceite de oliva, ½ ralladura de limón, 1/4 de cucharadita de sal kosher y 1/4 de cucharadita de pimienta negra.",
+        "Coloque los filetes de bacalao en la placa para horno. Extienda una capa generosa de la mezcla de pesto sobre cada filete.",
+        "Mezcle los tomates cherry y los espárragos con la cucharada restante de aceite de oliva, el resto de la ralladura de limón, 1/4 de cucharadita de sal kosher y 1/4 de cucharadita de pimienta y colóquelos alrededor del bacalao rebozado en la bandeja para hornear.",
+        "Asar en el horno precalentado durante aproximadamente 20 minutos o hasta que el bacalao alcance una temperatura interna de 145 °F (63 °C) y se desmenuce fácilmente con un tenedor."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Italian",
+        "Mediterranean",
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "214",
+        "total_fat": "11g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "39mg",
+        "sodium": "615mg",
+        "total_carbohydrate": "10g",
+        "fiber": "4g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pesto-encrusted-cod-roasted-tomatoes-and-asparagus"
+}

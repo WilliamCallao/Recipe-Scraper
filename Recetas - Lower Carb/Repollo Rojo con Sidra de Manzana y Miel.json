@@ -1,0 +1,77 @@
+{
+    "title": "Repollo Rojo con Sidra de Manzana y Miel",
+    "keywords": "Dinner,Foodie,Holidays & Entertaining,Lunch,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/apple-cider-honey-red-cabbage-Nov15.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "tocino (magro)",
+            "us_amount": "2 slice",
+            "metric_amount": "2 slice"
+        },
+        {
+            "name": "Edulcorante granulado Splenda®",
+            "us_amount": "1/2 head",
+            "metric_amount": "1/2 head"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pan rallado panko de trigo integral",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Vinagre de sidra de manzana",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "tocino (cocido y desmenuzado)",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        }
+    ],
+    "instructions": [
+        "Para asar a la parrilla: precaliente la parrilla a fuego alto. Coloque la trucha directamente sobre la parrilla, con el filete hacia abajo. Cocine durante 4 minutos. Dé vuelta los filetes y cocínelos hasta que el pescado se desmenuce fácilmente con un tenedor, aproximadamente de 3 a 5 minutos.",
+        "Reduce el fuego a medio, agrega el repollo a la grasa de la sartén y saltea durante 7 a 8 minutos. Agrega la sal, la sidra de manzana, el vinagre y la miel. Reduce el fuego a medio-bajo y cocina durante 9 a 10 minutos, revolviendo de vez en cuando. Desmenuza el tocino en trozos. Cubre el repollo con el tocino y sirve caliente."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Veggie Rich",
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "3g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "145mg",
+        "total_carbohydrate": "8g",
+        "fiber": "1g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/apple-cider-honey-red-cabbage"
+}

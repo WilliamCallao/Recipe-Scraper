@@ -1,0 +1,96 @@
+{
+    "title": "Tazas de Desayuno para Amantes de la Carne",
+    "keywords": "Breakfast and Brunch,Quick & Easy",
+    "prep_time": "Desconocido",
+    "cook_time": "PT19M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1330-diabetic-meat-lovers-breakfast-cups_MFTK-weeknight-favorites_092718_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Queso Monterey Jack",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "tocino de pavo",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Queso parmesano (rallado)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sustituto de huevo",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "crema agria ligera",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Empanadas de salchicha de pavo precocidas para el desayuno (descongeladas y cortadas en cubitos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "cebolla(s) (finamente picada)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "papas fritas congeladas (descongeladas)",
+            "us_amount": "1 1/4 cup",
+            "metric_amount": "296 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 °F. Rocíe un molde para muffins con aceite en aerosol antiadherente. Divida las papas fritas en partes iguales entre los moldes para muffins y presione firmemente en el fondo y los costados de cada molde.",
+        "En una sartén grande, calienta el aceite a fuego medio. Saltea la cebolla hasta que esté tierna. Agrega el ajo y la salchicha; cocina durante 1 minuto más. Retira la sartén del fuego; agrega la crema agria.",
+        "pimiento rojo (cortado a lo largo)",
+        "Hornee durante 15 a 18 minutos o hasta que los huevos estén listos. Sirva inmediatamente o congélelo para más tarde."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Kid Friendly",
+        "Comfort Food",
+        "Breakfast and Brunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "5g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "340mg",
+        "total_carbohydrate": "9g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/meat-lovers-breakfast-cups"
+}

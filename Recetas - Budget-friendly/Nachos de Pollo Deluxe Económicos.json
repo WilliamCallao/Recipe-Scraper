@@ -1,0 +1,111 @@
+{
+    "title": "Nachos de Pollo Deluxe Económicos",
+    "keywords": "Budget Friendly,Lunch,Dinner,Quick & Easy,Appetizers,Holidays & Entertaining",
+    "prep_time": "PT30M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Budget Friendly",
+        "Lunch",
+        "Dinner",
+        "Quick & Easy",
+        "Appetizers",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/120-Diabetic-chicken-nachos-budget_468563590_091918.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "frijoles refritos (15 onzas, sin grasa)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio (bajo en sodio)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pechugas de pollo (sin hueso, sin piel, cocidas y desmenuzadas)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "Queso estilo mexicano (bajo en grasa, rallado)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "tomate(s) (sin semillas y cortado en cubitos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Salsa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "aguacate (sin semillas y cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lechuga (rallada)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Yogur griego natural sin grasa (sin grasa)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F. Cubra una bandeja para hornear grande o dos pequeñas con aceite en aerosol.",
+        "Coloque las tortillas de maíz cortadas en una sola capa sobre la(s) bandeja(s) para hornear. Rocíe la parte superior con aceite en aerosol. Espolvoree ligeramente con sal (opcional).",
+        "Hornee durante 20 minutos, revolviendo cada 5 minutos o hasta que las papas fritas estén ligeramente doradas y crujientes. Retire del horno y vierta en una fuente para horno cubierta con aceite en aerosol. Deje a un lado.",
+        "Mezcla los frijoles refritos sin grasa con el caldo de pollo y vierte sobre las tortillas horneadas.",
+        "aceite de oliva",
+        "Colóquelo en la rejilla superior del horno y hornee durante 10 a 15 minutos o hasta que el queso se derrita y comience a dorarse.",
+        "pimienta negra"
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Budget Friendly",
+        "Lunch",
+        "Dinner",
+        "Quick & Easy",
+        "Appetizers",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "245",
+        "total_fat": "7g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "530mg",
+        "total_carbohydrate": "25g",
+        "fiber": "6g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-deluxe-chicken-nachos"
+}

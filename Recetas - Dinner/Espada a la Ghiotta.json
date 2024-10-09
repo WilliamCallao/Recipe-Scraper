@@ -1,0 +1,102 @@
+{
+    "title": "Espada a la Ghiotta",
+    "keywords": "Quick & Easy,One Pot,Main Dish,Gluten-Free,Dinner",
+    "prep_time": "PT5M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Quick & Easy",
+        "One Pot",
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1780-diabetic-mediterranean-Swordfish-Alla-Ghiotta_MediterraneanCkbk_051019.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "apio (cortado en cubitos)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Tomates picados en caja sin sal agregada o tomates enlatados cortados en cubitos pequeños",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "albahaca recién picada",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "En un tazón, mezcle dos cucharadas de aceite de oliva, vinagre balsámico, ajo picado, romero seco, sal kosher y pimienta negra para crear la marinada del filete.",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "alcaparras (enjuagadas y bien escurridas)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "aceitunas verdes (enjuagadas, escurridas, sin hueso y picadas en trozos grandes)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Coloque las pechugas de pollo en el bol y cúbralas con la marinada.",
+            "us_amount": "4 (4 oz) fillets",
+            "metric_amount": "4 (4 oz) fillets"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite de oliva en una sartén grande a fuego medio. Agrega el apio y saltéalo hasta que esté tierno, aproximadamente 5 minutos, revolviendo de vez en cuando. Agrega el ajo y cocina hasta que suelte su aroma, pero no dejes que el ajo se dore.",
+        "Incorpore los tomates picados, la albahaca, la sal, la pimienta, el pimiento rojo triturado, las alcaparras y las aceitunas. Mezcle bien y cubra. Reduzca el fuego y cocine a fuego lento durante 5 minutos.",
+        "pechugas de pollo deshuesadas y sin piel",
+        "Transfiera el pescado a una fuente para servir, cubra con la salsa y sirva."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Mediterranean",
+        "Quick & Easy",
+        "One Pot",
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "9g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "450mg",
+        "total_carbohydrate": "8g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/swordfish-alla-ghiotta"
+}

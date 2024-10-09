@@ -1,0 +1,69 @@
+{
+    "title": "Latkes de Brócoli y Cebolla",
+    "keywords": "Appetizers,Holidays & Entertaining,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2039-diabetic-Latkes-Broccoli-Onion_DaVita_040821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "floretes de brócoli picados, frescos o congelados",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "cebolla cortada en cubitos",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "harina para todo uso",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Hervir el brócoli cortado en cubitos en una pequeña cantidad de agua durante 5 minutos, luego escurrir bien.",
+        "Rompa los huevos en un bol mediano y bátalos. Agregue la harina y mezcle bien. Agregue el brócoli y la cebolla y revuelva con la mezcla de harina y huevo hasta que estén bien mezclados.",
+        "Calienta el aceite de oliva en una sartén a fuego medio-alto. Echa la mezcla a cucharadas en el aceite caliente, formando 4 porciones iguales. Aplana con una espátula y cocina hasta que se doren por ambos lados (aproximadamente 3-4 minutos por lado).",
+        "Saque los latkes de la sartén y escúrralos sobre una toalla de papel para que absorban el exceso de aceite. Sírvalos calientes."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "135",
+        "total_fat": "9g",
+        "saturated_fat": "1.8g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "50mg",
+        "total_carbohydrate": "8g",
+        "fiber": "1.7g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/broccoli-onion-latkes"
+}

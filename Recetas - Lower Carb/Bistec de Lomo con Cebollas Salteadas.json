@@ -1,0 +1,90 @@
+{
+    "title": "Bistec de Lomo con Cebollas Salteadas",
+    "keywords": "Dinner,Lunch,Quick & Easy,Main Dish,Holidays & Entertaining",
+    "prep_time": "PT5M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Main Dish",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/strip-steak-with-smothered-onions-Mar16.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "azúcar morena",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "tomillo seco",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "cebolla dulce (pelada y cortada por la mitad, en rodajas finas)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "aceite de oliva (dividido)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Bistec de tira magro",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "Espolvorear el filete con sal y pimienta.",
+        "Calienta 1/2 cucharada de aceite en una sartén grande de hierro fundido a fuego alto. Agrega el filete y dóralo durante unos 3 minutos.",
+        "Dale la vuelta al filete, reduce el fuego a medio y cocínalo durante 4 a 6 minutos, o más tiempo según lo desees para que quede bien cocido. Retira el filete de la sartén y mantenlo caliente.",
+        "Añade el resto del aceite a la sartén. Añade las cebollas y saltéalas a fuego medio durante 5 minutos.",
+        "Añade el agua, el tomillo y el azúcar moreno, tapa la sartén y cocina a fuego medio-bajo durante 10 minutos, hasta que las cebollas estén muy blandas.",
+        "Cortar el filete en rodajas y servir las rodajas cubiertas con las cebollas."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Main Dish",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "6g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "9g",
+        "fiber": "1g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/strip-steak-smothered-onions"
+}

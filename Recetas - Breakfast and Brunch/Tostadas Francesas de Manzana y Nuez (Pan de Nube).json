@@ -1,0 +1,84 @@
+{
+    "title": "Tostadas Francesas de Manzana y Nuez (Pan de Nube)",
+    "keywords": "Breakfast and Brunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/apple-walnut-french-toast-cloud-bread-final-2_1.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "huevos",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "manzana (cortada en cubitos)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "harina de almendras",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "canela molida (más 1/2 cucharadita, dividida)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "nuez moscada",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "azúcar",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Pan de nube (redondos)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "queso mozzarella rallado y bajo en grasa (reducido en grasa y rallado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Precalienta una sartén antiadherente grande a fuego medio. Agrega 1 cucharada de mantequilla, manzanas y 1/2 cucharadita de canela. Cocina, revolviendo con frecuencia, hasta que las manzanas se ablanden, de 5 a 7 minutos. Transfiere las manzanas a un tazón pequeño y cúbrelas con papel de aluminio para mantenerlas calientes. Limpia la sartén con una toalla de papel y resérvala para más tarde.",
+        "En un tazón mediano, mezcle el sustituto de huevo, ½ cucharadita de canela, la nuez moscada y el azúcar.",
+        "Vuelve a poner la sartén a fuego medio. Agrega el resto de la mantequilla y remueve para cubrir el fondo.",
+        "Sumerge los círculos de pan nube en la mezcla de huevo, dándoles vuelta para cubrir ambos lados. Colócalos en la sartén y cocínalos durante 2-3 minutos por lado, hasta que los círculos comiencen a dorarse.",
+        "Divida los círculos en platos. Cubra con manzanas, nueces, jarabe de arce y una pizca de azúcar en polvo, si lo desea."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Kid Friendly",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "290",
+        "total_fat": "22g",
+        "saturated_fat": "4.8g",
+        "trans_fat": "0g",
+        "cholesterol": "120mg",
+        "sodium": "280mg",
+        "total_carbohydrate": "13g",
+        "fiber": "2g",
+        "sugar": "9g",
+        "added_sugar": "5g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/apple-walnut-french-toast-cloud-bread"
+}

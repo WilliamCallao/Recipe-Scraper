@@ -1,0 +1,118 @@
+{
+    "title": "Salmón Teriyaki y Verduras en Bandeja para Horno",
+    "keywords": "Main Dish,Dinner,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "PT50M",
+    "categories": [
+        "Main Dish",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/3488_Sheet%20Pan%20Teriyaki%20Salmon%20%26%20Vegetables.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de sésamo (uso dividido)",
+            "us_amount": "3 tsp",
+            "metric_amount": "15 g"
+        },
+        {
+            "name": "ajo (finamente rallado, para la salsa)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "filetes de salmón sin piel",
+            "us_amount": "1 (1/4-inch)",
+            "metric_amount": "1 (1/4-inch)"
+        },
+        {
+            "name": "agua (para la salsa)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "salsa de soja baja en sodio (para la salsa)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Endulzante Stevia Splenda® (para la salsa)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "semillas de sésamo (para la salsa)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "polvo de arrurruz (para la salsa)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "brócoli (cortado en floretes de 1 pulgada)",
+            "us_amount": "1/2 head",
+            "metric_amount": "1/2 head"
+        },
+        {
+            "name": "Lima (rallada y exprimida)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "pimiento amarillo (sin semillas y en rodajas)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "zanahorias (cortadas en diagonal en trozos de 1 pulgada)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "cebolla verde (cebolleta) (cortada en rodajas finas)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "filetes de salmón (4 oz cada uno)",
+            "us_amount": "4 whole",
+            "metric_amount": "4 whole"
+        }
+    ],
+    "instructions": [
+        "Para preparar la salsa teriyaki:Calienta 1 cucharadita de aceite de sésamo en una cacerola pequeña a fuego medio. Agrega el ajo y el jengibre y cocina, revolviendo con frecuencia, hasta que desprendan un aroma fragante, aproximadamente 30 segundos. Agrega el agua, la salsa de soja, el edulcorante y el vinagre y deja que hierva a fuego medio-alto. Hierve, revolviendo de vez en cuando, hasta que se reduzca a la mitad, aproximadamente de 8 a 10 minutos. Agrega las semillas de sésamo y la arrurruz y cocina hasta que espese, aproximadamente de 1 a 3 minutos. Retira del fuego.",
+        "Orégano seco",
+        "cilantro molido"
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Seafood",
+        "Asian",
+        "Main Dish",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "13g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "530mg",
+        "total_carbohydrate": "12g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sheet-pan-teriyaki-salmon-and-vegetables"
+}

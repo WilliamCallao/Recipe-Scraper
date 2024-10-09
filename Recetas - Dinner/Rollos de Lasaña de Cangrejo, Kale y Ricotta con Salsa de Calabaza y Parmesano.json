@@ -1,0 +1,172 @@
+{
+    "title": "Rollos de Lasaña de Cangrejo, Kale y Ricotta con Salsa de Calabaza y Parmesano",
+    "keywords": "Dinner,Lunch,Main Dish,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/crab-kale-ricotta-lasagna-rolls-with-parmesan-pumpkin-sauce.jpg",
+        "Kale & Ricotta Lasagna Rolls with Parmesan Pumpkin Sauce\" loading=\"lazy\" />"
+    ],
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva (para el relleno)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "pimentón ahumado",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "col rizada (manojo, sin costillas y con las hojas picadas en trozos grandes)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "ajo (picado [para el relleno])",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "queso ricotta (bajo en grasa)",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "Carne de cangrejo blanco (4 oz, escurrida)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "Queso parmesano (rallado [para el relleno])",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Golpear y rebozar el pollo: secarlo con papel de cocina. Colocarlo entre dos hojas de film transparente sobre una superficie de trabajo resistente. Con la base de una sartén pesada (o un mazo para carne), golpear el pollo hasta que tenga un grosor de ¼ de pulgada. Quitar el film transparente. Sazonar con sal (opcional) y pimienta por ambos lados. Colocar la harina y el pan rallado en dos platos grandes separados; sazonar cada uno con sal (opcional) y pimienta. Romper el huevo en un bol grande; añadir 2 cucharadas de agua y batir hasta que quede suave. Trabajar un trozo a la vez, cubrir bien el pollo sazonado con la harina sazonada (quitar el exceso), luego con el huevo batido (dejando que el exceso se escurra) y luego con el pan rallado sazonado (presionando para que se adhiera). Transferir a un plato aparte.",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra (para el relleno)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Pimiento rojo (cortado en cubitos, para las verduras asadas)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "floretes de coliflor (para las verduras asadas)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "pasta de tomate",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sal (para las verduras asadas)",
+            "us_amount": "15 oz",
+            "metric_amount": "425 ml"
+        },
+        {
+            "name": "leche desnatada",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "cebolla en polvo",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "albahaca seca",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sal (para la salsa)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "perejil seco (hojuelas)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimiento verde cortado en cubitos",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Queso parmesano (rallado [para la salsa])",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fideos de lasaña",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "queso mozzarella (rallado)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Perejil italiano (manojo, picado)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F.",
+        "cilantro fresco (picado, para decorar)",
+        "Para preparar el relleno: precalienta una cacerola grande a fuego medio. Agrega el aceite de oliva, la cebolla, la col rizada y el ajo. Cocina, revolviendo de vez en cuando, hasta que la cebolla y la col rizada se ablanden, de 5 a 6 minutos. Transfiere a un tazón grande. Agrega la ricota, la carne de cangrejo, el parmesano, el huevo, la sal y la pimienta. Revuelve para combinar y reserva.",
+        "Para preparar la salsa: Vuelva a poner la sartén a fuego medio. Agregue el aceite de oliva y el ajo. Cocine durante un minuto, luego agregue la pasta de tomate y cocine durante otro minuto, revolviendo con frecuencia. Agregue la calabaza, la leche y las especias. Revuelva para combinar y deje hervir a fuego lento durante unos minutos. Agregue el parmesano y retire del fuego.",
+        "Para armar: Agrega una taza de la salsa al fondo de una fuente grande para horno. Esparce ¼ de taza de relleno a lo largo de cada rollo de lasaña. Enrolla y coloca con la costura hacia abajo en la fuente. Vierte el resto de la salsa sobre los fideos y cubre cada rollo con queso mozzarella. Hornea durante 30 minutos, hasta que el queso se derrita y forme burbujas. Cubre con perejil fresco."
+    ],
+    "tags": [
+        "Italian",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "8g",
+        "saturated_fat": "3.7g",
+        "trans_fat": "0g",
+        "cholesterol": "55mg",
+        "sodium": "520mg",
+        "total_carbohydrate": "30g",
+        "fiber": "4g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crab-kale-ricotta-lasagna-rolls-parmesan-pumpkin-sauce"
+}

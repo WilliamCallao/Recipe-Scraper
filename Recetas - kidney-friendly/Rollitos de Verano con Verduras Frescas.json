@@ -1,0 +1,84 @@
+{
+    "title": "Rollitos de Verano con Verduras Frescas",
+    "keywords": "Vegetarian,Vegan,No Cook,Lunch,Holidays & Entertaining,Gluten-Free,Dinner,Appetizers",
+    "prep_time": "PT25M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "No Cook",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Dinner",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1989-diabetic-Fresh-Vegetable-Summer-Rolls_KDBH-bookazine_asian-falvors-ckbk_012821.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "Lechuga bibb o boston",
+            "us_amount": "12 leaves",
+            "metric_amount": "12 leaves"
+        },
+        {
+            "name": "Tofu extra firme (escurrido y cortado a lo largo en tiras de 12 1/2 pulgadas de espesor)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "zanahoria grande (pelada y cortada en trozos de 2 pulgadas de largo)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Pepino inglés o de invernadero (pelado, sin semillas y cortado en trozos de 5 cm de largo)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "brotes de frijol mungo o de trébol (blanqueados)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "menta fresca",
+            "us_amount": "24 leaves",
+            "metric_amount": "24 leaves"
+        }
+    ],
+    "instructions": [
+        "Tomates uva (cortados por la mitad)",
+        "Coloque 1 papel de arroz en el agua. Remójelo hasta que se vuelva flexible. Coloque el papel de arroz sobre el paño de cocina. Seque. El papel debe estar pegajoso, no resbaladizo. Apila los ingredientes de la siguiente manera, uno sobre el otro en el lado del papel más cercano a ti: 1 hoja de lechuga, 1 trozo de tofu, un poco de zanahoria, pepino, brotes y 2 hojas de menta, uno al lado del otro.",
+        "Dobla el lado del papel que está más alejado de ti sobre el relleno con fuerza. Ten cuidado de no romperlo. Dobla los lados hacia adentro y enrolla hasta el final. Repite este paso con el resto de los ingredientes."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Veggie Rich",
+        "Asian",
+        "Vegetarian",
+        "Vegan",
+        "No Cook",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Dinner",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "85",
+        "total_fat": "2g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "55mg",
+        "total_carbohydrate": "13g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fresh-vegetable-summer-rolls"
+}

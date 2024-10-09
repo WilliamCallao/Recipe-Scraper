@@ -1,0 +1,89 @@
+{
+    "title": "Mini Frittata de Verduras",
+    "keywords": "Vegetarian,Quick & Easy,Gluten-Free,Breakfast and Brunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Vegetarian",
+        "Quick & Easy",
+        "Gluten-Free",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1763-diabetic-breakfast-mini-vegetable-frittate_MedCkbk2_031419.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "cebolla amarilla mediana (cortada en rodajas muy finas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "mostaza de dijon",
+            "us_amount": "1 pints",
+            "metric_amount": "480 ml"
+        },
+        {
+            "name": "calabacín grande (cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "puerros pequeños (partes blancas y verdes claras enjuagadas y picadas finamente)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "huevos grandes (batidos hasta que estén espumosos)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "hojas de albahaca (cortadas a mano)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "queso pecorino romano rallado",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F.",
+        "ajo (picado)",
+        "En un bol grande, mezcle los huevos batidos, las hojas de albahaca y el queso pecorino. Agregue las verduras enfriadas a la mezcla de huevos y revuelva para combinar.",
+        "Engrase un molde para muffins de 12 agujeros con aceite en aerosol antiadherente y distribuya la mezcla de huevo y verduras de manera uniforme en los agujeros, llenando cada uno hasta la mitad o los tres cuartos. Coloque el molde para muffins en el horno y hornee hasta que las superficies de las frittatas estén doradas y los huevos estén listos, aproximadamente de 8 a 10 minutos. Deje enfriar un poco y sirva."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Mediterranean",
+        "Vegetarian",
+        "Quick & Easy",
+        "Gluten-Free",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "14g",
+        "saturated_fat": "3.6g",
+        "trans_fat": "0g",
+        "cholesterol": "125mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "8g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mini-vegetable-frittata"
+}

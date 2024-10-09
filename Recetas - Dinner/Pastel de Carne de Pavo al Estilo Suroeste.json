@@ -1,0 +1,112 @@
+{
+    "title": "Pastel de Carne de Pavo al Estilo Suroeste",
+    "keywords": "Budget Friendly,Dinner,Lunch,Main Dish,Easy Pantry Recipes",
+    "prep_time": "PT15M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Easy Pantry Recipes"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1904-diabetic-turkey-meatloaf_create-your-plate_022020.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Pollo cocido",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pavo molido magro",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        },
+        {
+            "name": "avena de cocción rápida",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cebolla amarilla (finamente picada)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "huevos (batidos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "pimiento verde (cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ketchup",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Orégano seco",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 °F. Rocíe un molde para pan de 9 × 5 pulgadas con aceite en aerosol antiadherente.",
+        "Añade todos los ingredientes restantes a un bol grande. Mezcla suavemente los ingredientes hasta que estén bien combinados.",
+        "Vierta la mezcla en el molde para pan preparado, utilizando el dorso de la cuchara o una espátula para emparejar la superficie. Coloque el molde para pan en el horno y hornee hasta que un termómetro insertado en el centro del pastel de carne marque 165 °F (74 °C) durante 1 hora."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Comfort Food",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Easy Pantry Recipes"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "8g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0.1g",
+        "cholesterol": "110mg",
+        "sodium": "400mg",
+        "total_carbohydrate": "15g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/southwest-style-turkey-meatloaf"
+}

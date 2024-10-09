@@ -1,0 +1,99 @@
+{
+    "title": "Burrito de Desayuno con Huevo y Jamón",
+    "keywords": "Gluten-Free,Quick & Easy,Lunch,Breakfast and Brunch",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Gluten-Free",
+        "Quick & Easy",
+        "Lunch",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/99-diabetic-breakfast-burrito_127230797_101119.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Reduce el fuego y vierte la mezcla de huevos en la sartén. Levanta con cuidado los huevos cocidos por los bordes con una espátula hasta que los lados estén firmes pero la parte superior todavía esté líquida, durante 3 o 4 minutos.",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "claras de huevo",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "En un tazón mediano, combine la leche, el extracto de vainilla, la calabaza, el aceite y el huevo.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "queso cheddar (bajo en grasa, rallado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "margarina (sin grasas trans)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Jamón de charcutería (reducido en sodio, picado (aproximadamente 3 onzas))",
+            "us_amount": "4 slice",
+            "metric_amount": "4 slice"
+        },
+        {
+            "name": "cebolla(s) (cortadas en cubitos)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pimiento verde (cortado en cubitos)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "tortillas de maíz (calentadas)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Salsa",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        }
+    ],
+    "instructions": [
+        "En un tazón mediano, bata los huevos, las claras de huevo, la salsa picante, la pimienta negra y el queso.",
+        "En un recipiente mediano, mezcle el agua, el jugo de limón, la vainilla, la canela y la nuez moscada. Agregue las manzanas y revuelva para cubrirlas de manera uniforme.",
+        "Añade las cebollas y los pimientos verdes a la sartén caliente y cocínalos durante unos 5 minutos. Vuelve a añadir el jamón a la sartén.",
+        "Reduce el fuego y añade los huevos a la sartén. Revuelve suavemente los huevos con una cuchara o espátula y continúa cocinando a fuego lento hasta que los huevos estén cocidos y cuajados.",
+        "Divida la mezcla de huevo en 4 porciones de manera uniforme. Vierta cada porción de la mezcla de huevo en una tortilla y cubra cada una con 1 cucharadita de salsa. Doble la tortilla para cerrarla."
+    ],
+    "tags": [
+        "Mexican/Southwestern",
+        "Gluten-Free",
+        "Quick & Easy",
+        "Lunch",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "8g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "200mg",
+        "sodium": "380mg",
+        "total_carbohydrate": "15g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/breakfast-egg-and-ham-burrito"
+}

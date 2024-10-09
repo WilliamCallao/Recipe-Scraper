@@ -1,0 +1,84 @@
+{
+    "title": "Jambalaya de Camarones",
+    "keywords": "One Pot,Main Dish,Lunch,Holidays & Entertaining,Dinner,Quick & Easy",
+    "prep_time": "PT20M",
+    "cook_time": "PT10M",
+    "categories": [
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shrimp-jambalaya.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Condimento cajún",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salsa de tomate",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "vinagre blanco",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cilantro fresco",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "camarones (pelados y desvenados)",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite en una sartén grande a fuego medio-alto y saltea los camarones, la cebolla y el pimiento morrón durante unos 5 minutos, hasta que los camarones estén rosados.",
+        "Incorpore el resto de los ingredientes y cocine durante unos 5 minutos, hasta que estén bien calientes."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Seafood",
+        "Comfort Food",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "4g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "140mg",
+        "sodium": "390mg",
+        "total_carbohydrate": "15g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/shrimp-jambalaya"
+}

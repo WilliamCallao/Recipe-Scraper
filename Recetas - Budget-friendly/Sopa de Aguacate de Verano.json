@@ -1,0 +1,102 @@
+{
+    "title": "Sopa de Aguacate de Verano",
+    "keywords": "Appetizers,Budget Friendly,Lunch,Sides,Soup",
+    "prep_time": "PT2H",
+    "cook_time": "PT10M",
+    "categories": [
+        "Appetizers",
+        "Budget Friendly",
+        "Lunch",
+        "Sides",
+        "Soup"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_610_Budget-Friendly%20Avocado_Summer_Soup_BudgetFriendlyCookbook_022518.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimienta negra (molida)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Yogur griego natural sin grasa",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "ajo (picado o rallado)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "jerez seco",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "¿Puedes caldo de pollo bajo en sodio (o 1½ taza de caldo de pollo casero)?",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salsa de pimienta picante",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cilantro (picado fresco)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "leche (baja en grasa)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Una pizca de sal kosher",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Añade las 2 cucharaditas restantes de aceite de oliva a una sartén grande a fuego medio-alto. Añade las chuletas de cerdo y dóralas durante unos 5 minutos por lado o hasta que estén listas. (Reserva la marinada para más adelante).",
+        "Pelar y trocear el aguacate. Hacer un puré en la licuadora o procesador de alimentos junto con la mezcla de cebolla y ajo, el jugo de limón y el jerez.",
+        "Agregue el caldo de pollo y la salsa picante. Procese hasta que se mezclen. Vierta en un recipiente grande para servir y agregue el cilantro picado y la leche. (Use más o menos para lograr la consistencia deseada).",
+        "Añade sal al gusto y deja enfriar durante 2 o 3 horas antes de servir.",
+        "salsa de barbacoa"
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Caribbean",
+        "Appetizers",
+        "Budget Friendly",
+        "Lunch",
+        "Sides",
+        "Soup"
+    ],
+    "nutrition": {
+        "calories": "125",
+        "total_fat": "9g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "50mg",
+        "total_carbohydrate": "9g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/avocado-summer-soup"
+}

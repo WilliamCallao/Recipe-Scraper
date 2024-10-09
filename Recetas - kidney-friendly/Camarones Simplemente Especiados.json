@@ -1,0 +1,75 @@
+{
+    "title": "Camarones Simplemente Especiados",
+    "keywords": "Dinner,Holidays & Entertaining,Lunch,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "PT3M",
+    "categories": [
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/simply-spiced-shrimp-Oct14.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "zumo de limón",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Limpia la bandeja para hornear con toallas de papel. Rocíala ligeramente con aceite en aerosol. Reduce la temperatura del horno a 400 °F.",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimentón ahumado",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ajo (finamente picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "camarones (pelados y desvenados)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "En un bol, mezcle los camarones, el ajo, el pimentón y el chile en polvo, revolviendo para cubrirlos. Agregue 1 cucharadita de aceite de oliva y el jugo de limón. Deje reposar 3 minutos.",
+        "En una sartén grande, calienta las 2 cucharaditas restantes de aceite a fuego medio-alto. Agrega los camarones y saltéalos de ambos lados durante un total de 3 minutos, o hasta que los camarones estén apenas opacos y bien cocidos."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Seafood",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "185mg",
+        "sodium": "465mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/simply-spiced-shrimp"
+}

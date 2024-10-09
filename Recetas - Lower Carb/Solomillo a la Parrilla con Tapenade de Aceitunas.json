@@ -1,0 +1,97 @@
+{
+    "title": "Solomillo a la Parrilla con Tapenade de Aceitunas",
+    "keywords": "Dinner,Gluten-Free,Main Dish,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Gluten-Free",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1998-diabetic-Grilled-Sirloin-Tapenade_KDBH-bookazine_012821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "filete de solomillo deshuesado",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        },
+        {
+            "name": "Ajo (picado, uso dividido)",
+            "us_amount": "5 diente",
+            "metric_amount": "5 diente"
+        },
+        {
+            "name": "Tomillo seco (uso dividido)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Precaliente la parrilla (o la parrilla para interiores) a fuego medio-alto. Ensarte el pollo, las ciruelas y el calabacín en brochetas. Descarte la marinada sobrante.",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "aceitunas kalamata picadas",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Trucha entera (aproximadamente 7 onzas), limpia, destripada y sin cabeza (el pescadero puede hacer esto por usted)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "alcaparras (escurridas y picadas)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Rocíe ligeramente la rejilla de la parrilla con aceite en aerosol. Precaliente la parrilla a temperatura media alta.",
+        "Rocíe ligeramente la carne con aceite en aerosol.",
+        "En un bol pequeño, mezcle el ajo picado (reserve aproximadamente 1/2 cucharadita para la tapenade), 1 1/2 cucharadita de tomillo, pimienta y sal. Espolvoree sobre la carne. Con las yemas de los dedos, presione suavemente la mezcla para que se adhiera a la carne.",
+        "Ase la carne, tapada, durante 10 minutos de cada lado para que quede a punto o hasta que alcance el punto de cocción deseado. Transfiera a una tabla de cortar. Cubra ligeramente con papel de aluminio. Deje reposar durante 5 minutos. Corte la carne en rodajas finas en diagonal a lo largo de la fibra.",
+        "Mientras tanto, en un recipiente pequeño aparte, mezcle las aceitunas, la mostaza, las alcaparras, la media cucharadita restante de tomillo y el ajo picado restante."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Grilling",
+        "Dinner",
+        "Gluten-Free",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "7g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "300mg",
+        "total_carbohydrate": "2g",
+        "fiber": "1g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-sirloin-olive-tapenade"
+}

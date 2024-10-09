@@ -1,0 +1,101 @@
+{
+    "title": "Ceviche de Camarones",
+    "keywords": "Appetizers,Dinner,Lunch,No Cook,Snacks,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "Dinner",
+        "Lunch",
+        "No Cook",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2032-diabetic-shrimp-ceviche_DaVita_040821.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "manzana",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "vinagre blanco",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "salsa de soja baja en sodio",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "piña picada",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "En una ensaladera grande, mezcle la ralladura de limón, el jugo de limón, la mostaza de Dijon, el ajo, la pimienta negra molida, el queso parmesano y el aceite de oliva.",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "Pimiento amarillo (picado grueso)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "tomate mediano (picado grueso)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebollas verdes (picadas en trozos grandes)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        }
+    ],
+    "instructions": [
+        "Coloque la mezcla en un recipiente para servir y agregue los camarones picados y el aceite de oliva. Enfríe durante 30 minutos o más antes de servir.",
+        "En un procesador de alimentos, agregue las cebollas verdes, el tomate, los pimientos, la piña y el cilantro; presione el botón de encendido y apagado para picar hasta obtener una consistencia muy gruesa. Se desea una textura grumosa. Agregue jugo de limón, vinagre y ajo en polvo a la mezcla."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Latin American",
+        "Seafood",
+        "Appetizers",
+        "Dinner",
+        "Lunch",
+        "No Cook",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "65",
+        "total_fat": "0g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "115mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/shrimp-ceviche"
+}

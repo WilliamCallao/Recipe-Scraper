@@ -1,0 +1,94 @@
+{
+    "title": "Avena Infundida con Jengibre",
+    "keywords": "Vegetarian,One Pot,Cooking for 1 or 2,Breakfast and Brunch",
+    "prep_time": "PT5M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Vegetarian",
+        "One Pot",
+        "Cooking for 1 or 2",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Ginger%20Infused%20Oatmeal%20Diabetic.png",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "avena laminada a la antigua usanza",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "leche desnatada",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "sustituto de azúcar moreno",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "jengibre fresco (rallado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "semillas de chia",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Frambuesas",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "arándanos",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "nueces (picadas)",
+            "us_amount": "1/8 cup",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "En una cacerola, ponga la leche a hervir a fuego lento.",
+        "Incorpore la avena, el sustituto de azúcar moreno, el jengibre recién rallado, las semillas de chía, la canela molida y la vainilla.",
+        "Cocine la mezcla a fuego medio, revolviendo ocasionalmente, hasta que la avena esté cremosa y el líquido se absorba (aproximadamente 5 a 7 minutos).",
+        "condimento para aves"
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Comfort Food",
+        "Vegetarian",
+        "One Pot",
+        "Cooking for 1 or 2",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "370",
+        "total_fat": "10g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "110mg",
+        "total_carbohydrate": "57g",
+        "fiber": "10g",
+        "sugar": "22g",
+        "added_sugar": "4g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ginger-infused-oatmeal"
+}

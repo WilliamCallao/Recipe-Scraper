@@ -1,0 +1,101 @@
+{
+    "title": "Ensalada de Pollo con Frutas",
+    "keywords": "Salads,Foodie,Lunch,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Salads",
+        "Foodie",
+        "Lunch",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_705_FruitedChickenSalad_PerfectComfortCollection_022618.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "pechuga de pollo cocida delicatessen",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "manzanas gala pequeñas (sin pelar y cortadas en cubitos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Uvas rojas sin semillas cortadas por la mitad",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "albaricoques secos (en rodajas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Cerezas dulces oscuras congeladas (secas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "tallos de apio (cortados en cubitos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "cebolla roja (picada)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "mayonesa baja en grasa",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Agregue albahaca, hojuelas de chile picante y salsa hoisin a la berenjena. Continúe cocinando durante 1 o 2 minutos. Retire del fuego y sirva.",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sal marina",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Cortar el pollo en cubos o rodajas.",
+        "En un tazón grande, combine el pollo con las manzanas, las uvas, los albaricoques, las cerezas, el apio y la cebolla.",
+        "Incorpore suavemente la mayonesa, el yogur, la sal y la pimienta. Cubra y refrigere durante 30 minutos para que se mezclen los sabores."
+    ],
+    "tags": [
+        "Low Sodium",
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Comfort Food",
+        "Salads",
+        "Foodie",
+        "Lunch",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "1.5g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "16g",
+        "fiber": "2g",
+        "sugar": "12g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fruited-chicken-salad"
+}

@@ -1,0 +1,80 @@
+{
+    "title": "Manzana con Canela y Jengibre en Palito",
+    "keywords": "Dessert,Vegetarian,Snacks",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dessert",
+        "Vegetarian",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2016-06-cinnamon-ginger-apple-on-a-stick.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "manzana ((Granny Smith, Fuji, Roma o Gala), pelada, cortada por la mitad y sin el corazón)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "Jugo de 1 limón",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "raíz de jengibre fresco (picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "nueces o pecanas (trituradas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "brochetas de madera o metal",
+            "us_amount": "6",
+            "metric_amount": "6"
+        }
+    ],
+    "instructions": [
+        "Marinar las mitades de manzana en todos los ingredientes excepto las nueces.",
+        "Precaliente la parrilla a fuego medio alto. Cocine según las instrucciones para el método de calor directo durante 5 a 6 minutos, dándole vuelta una vez hasta que se dore por fuera y esté apenas caliente por dentro.",
+        "Retira las manzanas de la parrilla, déjalas enfriar unos minutos y pásalas por las nueces trituradas. Presiona suavemente.",
+        "Coloque una brocheta en cada mitad de manzana y sirva."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Kid Friendly",
+        "Grilling",
+        "Dessert",
+        "Vegetarian",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "75",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "13g",
+        "fiber": "1g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cinnamon-ginger-apple-stick"
+}

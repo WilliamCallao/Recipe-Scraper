@@ -1,0 +1,67 @@
+{
+    "title": "Mocktail de Pepino y Albahaca",
+    "keywords": "Vegetarian,Vegan,Holidays & Entertaining,Beverages",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Holidays & Entertaining",
+        "Beverages"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/3528_CucumberBasilMocktail.jpeg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "Edulcorante líquido de stevia Splenda®",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Agua con gas",
+            "us_amount": "1 liter",
+            "metric_amount": "1 liter"
+        },
+        {
+            "name": "Lima (solo jugo)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "albahaca fresca",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "pepino(s) (en rodajas)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        }
+    ],
+    "instructions": [
+        "mayonesa ligera",
+        "Cuele el líquido en una jarra pequeña. Descarte los sólidos.",
+        "vinagre de vino blanco",
+        "Decorar con rodajas de pepino fresco y albahaca."
+    ],
+    "tags": [
+        "Vegetarian",
+        "Vegan",
+        "Holidays & Entertaining",
+        "Beverages"
+    ],
+    "nutrition": {
+        "calories": "5",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "45mg",
+        "total_carbohydrate": "2g",
+        "fiber": "0g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cucumber-basil-mocktail"
+}

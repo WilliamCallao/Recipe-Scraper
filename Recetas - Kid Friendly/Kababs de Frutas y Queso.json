@@ -1,0 +1,73 @@
+{
+    "title": "Kababs de Frutas y Queso",
+    "keywords": "Appetizers,Quick & Easy,Snacks,Vegetarian,Gluten-Free",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "Quick & Easy",
+        "Snacks",
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/245-diabetic-fruit-cheese-kabobs_082818_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "kiwi(s) (pelados y en rodajas)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "fresas (sin tallo y cortadas por la mitad)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "uvas",
+            "us_amount": "16",
+            "metric_amount": "16"
+        },
+        {
+            "name": "Palitos de queso ligero (cada uno cortado en 4 trozos)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "brochetas de madera",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "crema agria (sin grasa)",
+        "Repita el proceso para las 3 brochetas restantes."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Kid Friendly",
+        "Appetizers",
+        "Quick & Easy",
+        "Snacks",
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "2g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "115mg",
+        "total_carbohydrate": "12g",
+        "fiber": "2g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fruit-and-cheese-kababs"
+}

@@ -1,0 +1,101 @@
+{
+    "title": "Penne con Salsa de Berenjena y Tomate",
+    "keywords": "Vegetarian,Lunch,Dinner,Budget Friendly",
+    "prep_time": "PT5M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Vegetarian",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1817-diabetic-Penne-Pasta-Eggplant-Tomato-Sauce_mediterranean-diabetes-cookbook_073019.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "berenjenas grandes",
+            "us_amount": "2 (about 2 lb total)",
+            "metric_amount": "2 (about 2 lb total)"
+        },
+        {
+            "name": "aceite de oliva (uso dividido)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Tomates colados sin sal añadida o puré de tomate",
+            "us_amount": "1 (26-oz) box or can",
+            "metric_amount": "1 (26-oz) box or can"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "albahaca fresca (cortada en trozos grandes)",
+            "us_amount": "6 leaves",
+            "metric_amount": "6 leaves"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        },
+        {
+            "name": "pimienta negra (dividida)",
+            "us_amount": "3/4 lbs",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "queso pecorino romano rallado",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente la parrilla. Con un cuchillo afilado, corte la berenjena en rodajas de 1/4 de pulgada y colóquelas en una bandeja para hornear. Pinte la berenjena con 2 cucharadas de aceite de oliva y luego ásela durante 5 a 7 minutos por cada lado hasta que adquiera un color dorado oscuro y esté bien cocida. Déjela enfriar. (Este paso se puede realizar con un día de anticipación).",
+        "Calienta el resto del aceite de oliva en una cacerola grande a fuego medio. Agrega el ajo y cocina hasta que comience a desprender su aroma, pero no dejes que el ajo se dore.",
+        "Incorpora los tomates y revuelve. Agrega el pimiento rojo triturado, la albahaca, la sal y la pimienta recién molida. Tapa, reduce el fuego y cocina a fuego lento durante 20 minutos.",
+        "Cuando la berenjena esté lo suficientemente fría como para manipularla, apila tres rodajas y córtalas en trozos del tamaño de una moneda de diez centavos. Repite el proceso hasta que todas las berenjenas estén picadas.",
+        "Mientras la salsa todavía se está cocinando, ponga a hervir a fuego alto un galón de agua. Agregue la pasta y cocine hasta que esté al dente.",
+        "Después de que la salsa se haya cocinado durante 20 minutos, apaga el fuego, retira la tapa y agrega los trozos de berenjena y el queso. Revuelve bien. Tapa y cocina la salsa a fuego medio hasta que la pasta esté cocida (10 a 12 minutos).",
+        "Escurre la pasta. Mézclala con la salsa. Sírvela caliente adornada con albahaca picada (si lo deseas)."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Mediterranean",
+        "Italian",
+        "Vegetarian",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "300",
+        "total_fat": "90g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "45g",
+        "fiber": "9g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/penne-eggplant-tomato-sauce"
+}

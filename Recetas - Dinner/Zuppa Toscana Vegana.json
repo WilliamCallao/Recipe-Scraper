@@ -1,0 +1,103 @@
+{
+    "title": "Zuppa Toscana Vegana",
+    "keywords": "Vegan,Main Dish,Dinner",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegan",
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/vegan%20zuppa.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "anacardos ((crudos))",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "col rizada (aproximadamente 1 libra despalillada y picada)",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        },
+        {
+            "name": "papas rojas (aproximadamente 6 oz cada una, cortadas en rodajas finas de 1/8 de pulgada)",
+            "us_amount": "3 whole",
+            "metric_amount": "3 whole"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "condimento italiano",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "caldo de verduras bajo en sodio",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "frijoles cannellini ((15oz, escurridos y enjuagados))",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "cebolla amarilla ((mediana, picada))",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "ajo ((picado))",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Sustituto vegano de carne molida",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        }
+    ],
+    "instructions": [
+        "Retire la sopa del fuego, agregue la crema de anacardo a la olla y revuelva para combinar.",
+        "Mientras se cocina la sopa, cubra los anacardos con 1 taza de agua hirviendo. Deje reposar durante 15 minutos. Haga un puré con los anacardos y el agua en una licuadora hasta que quede una mezcla homogénea.",
+        "Una vez que hierva a fuego lento, agregue las papas y la col rizada. Reduzca el fuego y cocine a fuego lento durante 10 a 15 minutos, hasta que las papas estén tiernas al pincharlas con un tenedor.",
+        "Para servir, corte la coliflor entera por la mitad y luego corte cada mitad en 4 trozos.",
+        "Agregue el ajo y la cebolla a la olla y cocine, revolviendo ocasionalmente, hasta que se ablanden, 3 a 4 minutos.",
+        "Calienta el aceite en una olla grande a fuego medio. Agrega el sustituto de carne molida y cocina, revolviendo ocasionalmente, hasta que se dore y se desmorone, durante 6 a 7 minutos."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Vegan",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "320",
+        "total_fat": "9g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "670mg",
+        "total_carbohydrate": "42g",
+        "fiber": "11g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/vegan-zuppa-toscana"
+}

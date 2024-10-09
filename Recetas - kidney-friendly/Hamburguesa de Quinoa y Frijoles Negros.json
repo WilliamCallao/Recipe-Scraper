@@ -1,0 +1,106 @@
+{
+    "title": "Hamburguesa de Quinoa y Frijoles Negros",
+    "keywords": "Easy Pantry Recipes,Sandwiches,Gluten-Free,Dinner,Lunch",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Sandwiches",
+        "Gluten-Free",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/430_diabetic-quinoa-black-bean-burger_JulAug20DF_061720.jpg",
+    "servings": "9 Servings",
+    "ingredients": [
+        {
+            "name": "quinoa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Forme bolitas de 1 cucharada de masa y colóquelas en una placa para horno. Hornee durante 10 a 12 minutos. Deje enfriar sobre una rejilla.",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "frijoles negros (enjuagados y escurridos)",
+            "us_amount": "2 (15-oz) cans",
+            "metric_amount": "2 (15-oz) cans"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "salsa (uso dividido)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "harina de maíz",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "comino",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta de cayena (opcional)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "En otro recipiente, mezcle la compota de manzana, la leche, los huevos, el aceite y la vainilla.",
+            "us_amount": "9 leaves",
+            "metric_amount": "9 leaves"
+        },
+        {
+            "name": "Hornee durante 15-20 minutos, hasta que las zanahorias estén tiernas.",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        }
+    ],
+    "instructions": [
+        "salsa de tomate baja en sodio",
+        "Haga puré 1 lata de frijoles negros, 1/4 taza de salsa y el huevo en una licuadora o procesador de alimentos hasta que quede suave.",
+        "Vierta la quinua cocida en un tazón mediano; agregue los frijoles hechos puré, la lata restante de frijoles negros, la harina de maíz, el chile en polvo, el comino y la pimienta de cayena y mezcle hasta que estén bien mezclados.",
+        "Forme la mezcla de frijoles en nueve hamburguesas de 1/2 pulgada de espesor.",
+        "Rocíe una sartén grande o una parrilla con aceite en aerosol y caliéntela a fuego medio. Agregue las hamburguesas de frijoles negros y cocínelas a la parrilla durante 2 o 3 minutos por cada lado, hasta que estén ligeramente doradas.",
+        "sal"
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "High in Fiber",
+        "Kid Friendly",
+        "Easy Pantry Recipes",
+        "Sandwiches",
+        "Gluten-Free",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "4g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "380mg",
+        "total_carbohydrate": "34g",
+        "fiber": "11g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/quinoa-black-bean-burger"
+}

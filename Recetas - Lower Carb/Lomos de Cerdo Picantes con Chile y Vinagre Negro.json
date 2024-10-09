@@ -1,0 +1,82 @@
+{
+    "title": "Lomos de Cerdo Picantes con Chile y Vinagre Negro",
+    "keywords": "Main Dish,Dinner,Lunch",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Main Dish",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/ThinkstockPhotos-545680246.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "salsa de soja (reducida en sodio)",
+            "us_amount": "1/8 cup",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "aceite de sésamo (tostado oscuro)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Vinagre negro chino o vinagre de arroz",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "azúcar moreno claro",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chiles frescos, como serranos, jalapeños o chiles tailandeses (sin semillas y picados)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sal marina",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "vinagre balsámico blanco o vinagre de champán",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Solomillo de cerdo (limpio de grasa)",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        }
+    ],
+    "instructions": [
+        "Combine la salsa de soja, el aceite de sésamo, el vinagre, el azúcar moreno, la pimienta, el ajo y la raíz de jengibre en un recipiente mediano y colóquelos en una bolsa de plástico grande y bien cerrada. Déjelos marinar al menos 15 minutos a temperatura ambiente o durante la noche en el refrigerador para obtener mejores resultados.",
+        "Precaliente la parrilla a fuego medio-alto y colóquela sobre la rejilla. Cocine a fuego directo durante 15 a 18 minutos, dándole vuelta de vez en cuando hasta que esté bien cocida y forme una costra en el exterior."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Asian",
+        "Main Dish",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "175",
+        "total_fat": "5g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "80mg",
+        "sodium": "145mg",
+        "total_carbohydrate": "2g",
+        "fiber": "0g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "29g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spicy-pork-tenderloins-chili-and-black-vinegar"
+}

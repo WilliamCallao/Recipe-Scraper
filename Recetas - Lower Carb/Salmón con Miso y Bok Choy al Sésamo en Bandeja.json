@@ -1,0 +1,87 @@
+{
+    "title": "Salmón con Miso y Bok Choy al Sésamo en Bandeja",
+    "keywords": "Quick & Easy,Main Dish,Lunch,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2082-diabetic-low-carb-sheet-pan-miso-salmon-bok-choy_low-carb-brissette_050721.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Bate la albahaca, el sustituto de huevo, la leche descremada, la harina, la sal y la pimienta hasta obtener una mezcla suave y sin grumos.",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "vinagre de arroz",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "aceite de sésamo (dividido)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "tamari reducido en sodio",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salmón",
+            "us_amount": "4 (6-oz) fillets",
+            "metric_amount": "4 (6-oz) fillets"
+        },
+        {
+            "name": "bok choy bebé",
+            "us_amount": "4 heads",
+            "metric_amount": "4 heads"
+        },
+        {
+            "name": "semillas de sésamo",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "Cebolla roja pequeña (cortada en cubitos)",
+        "Precaliente el horno a 450 grados F. Cubra una bandeja para hornear con borde con papel pergamino.",
+        "Corte los extremos de la raíz del bok choy y corte cada uno por la mitad horizontalmente.",
+        "Retire los filetes de salmón de la marinada y colóquelos en un extremo de la bandeja para hornear preparada, con la piel hacia abajo. (Deseche cualquier resto de marinada).",
+        "En el otro extremo de la bandeja para hornear, coloque el bok choy con el lado cortado hacia abajo. Rocíe con la ½ cucharada restante de aceite de sésamo y tamari.",
+        "Asar durante 8 minutos o hasta que el salmón esté bien cocido y el bok choy esté tierno.",
+        "Coloque los filetes de salmón y el bok choy en el plato y espolvoree el bok choy con semillas de sésamo."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "320",
+        "total_fat": "17g",
+        "saturated_fat": "3.3g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "490mg",
+        "total_carbohydrate": "5g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "36g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sheet-pan-miso-salmon-and-sesame-bok-choy"
+}

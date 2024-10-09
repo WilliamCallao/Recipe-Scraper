@@ -1,0 +1,104 @@
+{
+    "title": "Ensalada Invernal con Vinagreta de Champán y Granada",
+    "keywords": "Salads,Vegetarian,Salad Dressings & Condiments,Lunch,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Vegetarian",
+        "Salad Dressings & Condiments",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/winter-salad-champagne-vinaigrette-pomegranate-Nov16.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "pistachos (picados)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "queso azul",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "semillas de granada",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ensalada verde",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        },
+        {
+            "name": "Calienta 1 cucharada de aceite en una sartén grande a fuego medio. Agrega la cebolla en rodajas y cocina a fuego medio, revolviendo ocasionalmente, hasta que la cebolla esté muy tierna y comience a caramelizarse, aproximadamente 10 minutos.",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "azúcar",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "vinagre de champán",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "aceite de nuez o de oliva",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "En un tazón pequeño, bata los ingredientes de la vinagreta y reserve.",
+        "Para la ensalada, reparte las verduras en 6 platos para servir. Espolvorea las verduras con las semillas de granada, el queso azul y los pistachos. Rocía con la vinagreta."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "French",
+        "Salads",
+        "Vegetarian",
+        "Salad Dressings & Condiments",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "11g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "140mg",
+        "total_carbohydrate": "6g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/winter-salad-champagne-vinaigrette-and-pomegranate"
+}

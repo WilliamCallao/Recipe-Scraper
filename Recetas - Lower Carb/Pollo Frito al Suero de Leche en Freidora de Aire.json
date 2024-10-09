@@ -1,0 +1,96 @@
+{
+    "title": "Pollo Frito al Suero de Leche en Freidora de Aire",
+    "keywords": "Dinner,Quick & Easy,Main Dish",
+    "prep_time": "PT25M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Quick & Easy",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1811-diabetic-air-fryer-buttermilk-fried-chicken_air-fryer-ckbk_062819.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "apio (lavado y recortado)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "79 ml"
+        },
+        {
+            "name": "salsa picante",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Margarina en tarro sin grasas trans (como I Can't Believe It's Not Butter)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "Copos de maíz",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        },
+        {
+            "name": "queso cheddar rallado bajo en grasa o queso estilo mexicano",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "paprika",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Corte los aguacates por la mitad y quíteles el hueso. En el centro de cada aguacate, coloque una cucharada de frijoles, una cucharada de yogur griego y una cucharada de salsa y espolvoree con una cucharadita de queso. Espolvoree la sal uniformemente sobre los aguacates. Sirva cada mitad de aguacate con una rodaja de limón para exprimir sobre el plato.",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        }
+    ],
+    "instructions": [
+        "Agrega los tomates, el pimiento morrón, la cebolla, el jalapeño y el cilantro a un tazón mediano. Agrega el jugo de limón, el aceite de oliva, la sal y la pimienta negra. Revuelve para cubrir uniformemente.",
+        "Coloca los copos de maíz en el bol de un procesador de alimentos. Procesa hasta que se formen migas gruesas. Agrega la harina de maíz, el ajo en polvo, el pimentón, la sal y la pimienta y procesa hasta que se mezclen de manera uniforme. Vierte las migas en un bol poco profundo. (Si no tienes un procesador de alimentos, puedes triturar los copos de maíz en una bolsa de plástico con un palo de amasar).",
+        "Escurre el pollo y deja que el exceso de suero de leche gotee en el bol. Cubre los trozos de pollo de manera uniforme con la mezcla de copos de maíz. Coloca los trozos de pollo cubiertos sobre una rejilla.",
+        "Coloca el pollo en la canasta de la freidora de aire. Rocía con aceite en aerosol antiadherente durante 2 segundos (no amontones el pollo; cocina en tandas si no cabe todo el pollo). Configura la temperatura a 375 °F y fríelo con aire durante 7 minutos.",
+        "Da vuelta los trozos de pollo. Fríelos con aire durante 7 a 10 minutos más o hasta que el pollo esté listo y un termómetro para carne insertado en el centro registre 165 °F."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Kid Friendly",
+        "Comfort Food",
+        "Dinner",
+        "Quick & Easy",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "7g",
+        "fiber": "1g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/air-fryer-buttermilk-fried-chicken"
+}

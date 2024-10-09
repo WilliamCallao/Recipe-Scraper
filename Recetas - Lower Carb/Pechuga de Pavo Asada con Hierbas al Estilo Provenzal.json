@@ -1,0 +1,102 @@
+{
+    "title": "Pechuga de Pavo Asada con Hierbas al Estilo Provenzal",
+    "keywords": "Lunch,Main Dish,Holidays & Entertaining,Foodie,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT1H30M",
+    "categories": [
+        "Lunch",
+        "Main Dish",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/841-diabetic-Provencal-Style-Herb-Roasted-Turkey-Breast_MediterraneanCkbk_050319.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "Aceite de Oliva Virgen Extra (dividido)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1 (about 3 1/2 lb)",
+            "metric_amount": "1 (about 3 1/2 lb)"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "albahaca fresca (picada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Hierbas de Provenza",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "condimento para aves",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "limón (cortado por la mitad)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "romero fresco",
+            "us_amount": "1 sprig",
+            "metric_amount": "1 sprig"
+        },
+        {
+            "name": "tomillo fresco",
+            "us_amount": "1 sprig",
+            "metric_amount": "1 sprig"
+        },
+        {
+            "name": "salvia fresca",
+            "us_amount": "1 sprig",
+            "metric_amount": "1 sprig"
+        }
+    ],
+    "instructions": [
+        "pimienta negra",
+        "Seque la pechuga de pavo con una toalla de papel y sazone con sal y pimienta. Coloque la pechuga de pavo con la piel hacia arriba en la sartén. Pinte el pavo con el aceite de oliva restante. Espolvoree hierbas provenzales y condimento para aves sobre el pavo y frótelo sobre la piel con las manos. Coloque la cabeza de ajo entera, la mitad de un limón, el romero, el tomillo y la salvia en la sartén. Exprima el jugo de limón de la mitad restante del limón sobre la parte superior del pavo.",
+        "Transfiera a un recipiente hermético y guárdelo en el refrigerador hasta 5 días hasta el momento de servir.",
+        "Cuele el líquido del fondo de la cacerola en otra cacerola. Exprima las 2 mitades de limón restantes, agréguelas a la cacerola y revuelva. Lleve a hervor a fuego alto y cocine durante 10 minutos o hasta que la salsa se haya reducido. Pruebe y ajuste la sazón si es necesario. Sirva la salsa en una salsera junto al pavo."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Mediterranean",
+        "French",
+        "Lunch",
+        "Main Dish",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "0g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/provencal-style-herb-roasted-turkey-breast"
+}

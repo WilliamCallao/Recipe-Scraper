@@ -1,0 +1,102 @@
+{
+    "title": "Sopa de Pavo y Cebada",
+    "keywords": "Appetizers,Main Dish,Sides,Soup,Budget Friendly,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Appetizers",
+        "Main Dish",
+        "Sides",
+        "Soup",
+        "Budget Friendly",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1672-diabetic-turkey-barley-soup_Diabetes-Cookbook_DF_101818_1021x779.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla mediana (pelada y cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zanahorias medianas (cortadas en cubitos (aproximadamente 1 1/2 taza))",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Dore las pechugas de pollo durante 4 minutos de cada lado o hasta que un termómetro para carne insertado en el pollo marque 165 °F. Retire el pollo de la sartén. (Si va a duplicar la cantidad de pollo, cocínelo en dos sartenes; deje enfriar la mitad del pollo y luego guárdelo en un recipiente hermético en el refrigerador hasta por 3 días).",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "champiñones en rodajas",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "cebada de cocción rápida",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio y sin grasa",
+            "us_amount": "4 cups",
+            "metric_amount": "4 cups"
+        },
+        {
+            "name": "agua",
+            "us_amount": "2 cups",
+            "metric_amount": "2 cups"
+        },
+        {
+            "name": "Pechuga de pavo cocida (desmenuzada o cortada en cubitos)",
+            "us_amount": "2 cups (about 10 oz)",
+            "metric_amount": "2 cups (about 10 oz)"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "cebolla grande (cortada en cubitos)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Añade el aceite de oliva a una olla sopera a fuego medio-alto.",
+        "Añade la cebolla, las zanahorias, el apio y los champiñones a la olla. Saltéalos durante 8 a 10 minutos o hasta que las cebollas comiencen a volverse transparentes.",
+        "Añade la cebada, el caldo y el agua. Lleva a ebullición, luego reduce el fuego y cocina a fuego lento durante 15 minutos.",
+        "Añade el pavo. Sazona con sal y pimienta. Cocina hasta que el pavo esté caliente y luego sirve."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Appetizers",
+        "Main Dish",
+        "Sides",
+        "Soup",
+        "Budget Friendly",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "440mg",
+        "total_carbohydrate": "21g",
+        "fiber": "4g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/turkey-barley-soup"
+}

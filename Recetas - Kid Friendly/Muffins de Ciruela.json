@@ -1,0 +1,107 @@
+{
+    "title": "Muffins de Ciruela",
+    "keywords": "Dessert,Foodie,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dessert",
+        "Foodie",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Plum%20Muffin%20diabetic%20diabetes%20food%20hub.png",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "Cheerios multigrano",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "sustituto de azúcar para hornear",
+            "us_amount": "5 tbsp",
+            "metric_amount": "74 ml"
+        },
+        {
+            "name": "Levadura en polvo",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "bicarbonato",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Puré de manzana sin azúcar",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "clavo molido",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Jengibre molido",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "aceite vegetal",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ciruelas (cortadas en cubitos pequeños)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375 grados F. Engrase un molde para muffins o cubra con envoltorios de papel.",
+        "Calienta la margarina en una sartén a fuego medio-alto. Agrega las manzanas y saltea durante 3 minutos, revolviendo con frecuencia.",
+        "En otro recipiente, mezcle la compota de manzana, la leche, los huevos, el aceite y la vainilla.",
+        "Añade los ingredientes húmedos a los secos y revuelve hasta que se integren. Incorpora las ciruelas picadas. Coloca la mezcla con una cuchara en moldes para muffins, llenando dos tercios de su capacidad.",
+        "Hornear durante 15-20 minutos o hasta que al insertar un palillo éste salga limpio. Dejar enfriar durante 5 minutos en el molde y luego transferir a una rejilla para que se enfríe por completo."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Kid Friendly",
+        "Dessert",
+        "Foodie",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "6g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "23g",
+        "fiber": "3g",
+        "sugar": "8g",
+        "added_sugar": "5g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/plum-muffins"
+}

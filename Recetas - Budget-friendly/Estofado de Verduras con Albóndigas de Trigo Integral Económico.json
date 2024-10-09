@@ -1,0 +1,159 @@
+{
+    "title": "Estofado de Verduras con Albóndigas de Trigo Integral Económico",
+    "keywords": "Lunch,Main Dish,Dinner,Foodie,Budget Friendly",
+    "prep_time": "PT20M",
+    "cook_time": "PT50M",
+    "categories": [
+        "Lunch",
+        "Main Dish",
+        "Dinner",
+        "Foodie",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/oct13_vegetable-stew-dumplings_279x200.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "bulbo de hinojo (cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla(s) (cortadas en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "apio (cortado en cubitos)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "Calabaza (cortada en cubitos)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "salvia molida",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio (bajo en sodio)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "sal (opcional)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "hojas de laurel",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "col rizada (picada, 1 manojo sin tallo y picada)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "harina de trigo integral",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "harina para todo uso",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "salvia molida",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sal (opcional)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "huevo grande",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Yogur griego natural sin grasa (sin grasa)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Añade aceite a una olla grande a fuego medio-alto.",
+        "Añade el hinojo, la cebolla y el apio al aceite y saltea hasta que la cebolla se vuelva transparente (alrededor de 4 a 5 minutos). Añade la calabaza, la salvia, el caldo de pollo, el agua, la sal (opcional), la pimienta negra y las hojas de laurel. Lleva a ebullición y reduce el fuego a fuego lento.",
+        "Espolvorear la carne con la pimienta y el limón.",
+        "Mientras el guiso hierve a fuego lento, mezcle todos los ingredientes de las albóndigas hasta formar una masa consistente. Deje de lado.",
+        "Después de que la col rizada hierva a fuego lento durante 10 minutos, retire la hoja de laurel.",
+        "Use una taza medidora de 1/4 para colocar los dumplings sobre el guiso y hacer 8 dumplings. No revuelva una vez que los dumplings se hayan agregado a la parte superior del guiso. Cubra y reduzca el fuego a fuego lento durante 10 minutos hasta que los dumplings estén bien cocidos y esponjosos."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Comfort Food",
+        "Lunch",
+        "Main Dish",
+        "Dinner",
+        "Foodie",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "3g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "470mg",
+        "total_carbohydrate": "31g",
+        "fiber": "6g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-vegetable-stew-whole-wheat-dumplings"
+}

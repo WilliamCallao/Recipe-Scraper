@@ -1,0 +1,87 @@
+{
+    "title": "Calabacín Mediterráneo",
+    "keywords": "Vegetarian,Sides,Quick & Easy,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2011-diabetic-Mediterranean-Zucchini_KDBH-bookazine_012821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "calabacín (cortado por la mitad a lo largo)",
+            "us_amount": "2 (5-6 oz each)",
+            "metric_amount": "2 (5-6 oz each)"
+        },
+        {
+            "name": "ajo (finamente picado)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Ralladura de limón",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "albahaca seca",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Orégano seco",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "queso parmesano rallado",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400°F.",
+        "Coloque los calabacines con el lado cortado hacia arriba en una bandeja para hornear. Rocíe el aceite sobre cada mitad.",
+        "Calienta el aceite de oliva en una sartén grande y ancha a fuego medio. Agrega los pimientos y cocina hasta que se doren.",
+        "Hornee durante 20 minutos o hasta que el calabacín esté tierno. Retire del horno. Espolvoree inmediatamente cada uno con 1 cucharadita de parmesano. Deje reposar durante 5 minutos antes de servir."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Lower Carb",
+        "Mediterranean",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "40",
+        "total_fat": "3g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "80mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mediterranean-zucchini"
+}

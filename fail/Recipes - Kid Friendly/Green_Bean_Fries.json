@@ -1,0 +1,87 @@
+{
+    "title": "Green Bean \"Fries\"",
+    "keywords": "Quick & Easy,Sides,Gluten-Free,Vegetarian,Snacks",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Sides",
+        "Gluten-Free",
+        "Vegetarian",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_272_Green_Bean_Fries_PNCImages_02272018.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "fresh green beans (trimmed)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "eggs",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "egg white",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "hot sauce",
+            "us_amount": "1 dash",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "cornmeal",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "garlic salt",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Parmesan cheese (freshly grated)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 425 degrees F.",
+        "In a shallow dish, whisk together the egg, egg white, and hot sauce.",
+        "In another shallow dish, mix together the remaining ingredients.",
+        "Dip each green bean in the egg mixture and then lightly coat in the cornmeal mixture.",
+        "Place the green beans on a baking sheet and bake for 25 minutes, until they are lightly golden. Serve with your favorite dipping sauce."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Kid Friendly",
+        "Quick & Easy",
+        "Sides",
+        "Gluten-Free",
+        "Vegetarian",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "2g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "185mg",
+        "total_carbohydrate": "14g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/green-bean-fries"
+}

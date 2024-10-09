@@ -1,0 +1,102 @@
+{
+    "title": "Mini Pasteles de Cangrejo al Horno",
+    "keywords": "Sides,Foodie,Lunch,Dinner,Appetizers",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Sides",
+        "Foodie",
+        "Lunch",
+        "Dinner",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/361-mini-baked-crab-cakes_AdobeStock55995367_012521.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "pan de trigo entero",
+            "us_amount": "1 slice",
+            "metric_amount": "1 slice"
+        },
+        {
+            "name": "sal",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "salsa de pimienta picante",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla verde (cebolleta) (picada)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Endulzante con Stevia Splenda® en frasco",
+            "us_amount": "2 (6-oz) cans",
+            "metric_amount": "2 (6-oz) cans"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salsa de soja baja en sodio",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Salsa de ajo y chile al estilo tailandés",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "mermelada de albaricoque sin azúcar añadido",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425 grados. Rocíe una bandeja para hornear con aceite en aerosol.",
+        "En un bol mediano, desmenuza el pan integral en trozos pequeños (del tamaño de un guisante). Añade las claras de huevo, la salsa picante, las cebolletas, la sal y la pimienta y mezcla bien hasta que el pan se ablande. Luego, incorpora la carne de cangrejo.",
+        "Coloca 10 hamburguesas en una bandeja para hornear. Rocíalas generosamente con aceite en aerosol y hornéalas en la rejilla superior del horno durante 5 minutos. Da vuelta las hamburguesas con la espátula y rocíalas nuevamente con aceite en aerosol. Hornea durante 5 minutos más.",
+        "sal",
+        "Mientras se enfrían las croquetas de cangrejo, prepare la salsa para untar: combine la mermelada de albaricoque, la salsa de chile y ajo y la salsa de soja en un tazón pequeño."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Sides",
+        "Foodie",
+        "Lunch",
+        "Dinner",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "1.5g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "450mg",
+        "total_carbohydrate": "14g",
+        "fiber": "1g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mini-baked-crab-cakes"
+}

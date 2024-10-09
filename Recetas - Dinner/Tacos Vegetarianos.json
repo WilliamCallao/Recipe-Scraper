@@ -1,0 +1,110 @@
+{
+    "title": "Tacos Vegetarianos",
+    "keywords": "Budget Friendly,Dinner,Lunch,Main Dish,No Cook,Quick & Easy,Vegan,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "No Cook",
+        "Quick & Easy",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2005-diabetic-Vegetarian-Tacos_KDBH-bookazine_012821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "farro semiperlado",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "maíz congelado (descongelado)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "condimento italiano",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "condimento italiano",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cilantro fresco picado",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lechuga mantecosa",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Calienta 1 cucharada de aceite en una sartén grande a fuego medio. Agrega la cebolla en rodajas y cocina a fuego medio, revolviendo ocasionalmente, hasta que la cebolla esté muy tierna y comience a caramelizarse, aproximadamente 10 minutos.",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "lechuga romana rallada",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "queso cheddar rallado bajo en grasa o queso estilo mexicano",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Salsa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cebollas verdes picadas",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "En un tazón pequeño, mezcle suavemente los frijoles, el maíz, el tomate, el aguacate, el cilantro, el jugo de limón y el chile en polvo.",
+        "Coloca 1/2 taza de la mezcla de frijoles en el centro de cada tortilla. Cubre con lechuga romana, queso cheddar, salsa y cebollas verdes. Dobla los lados de las tortillas sobre el relleno."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "No Cook",
+        "Quick & Easy",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "5g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "370mg",
+        "total_carbohydrate": "41g",
+        "fiber": "11g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/vegetarian-tacos"
+}

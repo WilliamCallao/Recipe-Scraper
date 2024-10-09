@@ -1,0 +1,114 @@
+{
+    "title": "Bacalao Provencal Económico",
+    "keywords": "Budget Friendly,Dinner,Foodie,Main Dish",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Foodie",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_667_Budget-Friendly%20Cod_Provencal_BudgetFriendlyCookbook_022518.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Spray antiadherente para cocinar (antiadherente)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "frijoles refritos (15 onzas, sin grasa)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "pimiento morrón grande (cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "anchoas en lata envasadas en aceite (picadas y escurridas pero no enjuagadas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Rocíe una olla grande para sopa con aceite en aerosol. Agregue el pollo y saltee a fuego medio durante 7 minutos o hasta que esté listo. Retire de la sartén.",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "semillas de hinojo",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Precaliente el horno a 375 grados F. Cubra una fuente para hornear con aceite en aerosol.",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "filetes de bacalao (sin espinas)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "rodajas de tomate",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Añade el tomillo, las hojuelas de pimiento rojo triturado, la pimienta negra molida y el ajo. Mezcla bien y saltea durante 1 o 2 minutos más.",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Orégano seco",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "pimienta negra",
+        "Prepare una fuente para hornear con aceite en aerosol antiadherente.",
+        "Calienta el aceite de oliva en una sartén pesada y agrega la cebolla, el ajo y el pimiento morrón, cocinando hasta que la cebolla esté tierna. Agrega las anchoas, las aceitunas, las semillas de hinojo y la pimienta negra. Revuelve para combinar.",
+        "Colocar 4 trozos de bacalao en una sola capa en la fuente para horno. Untar uniformemente con la mezcla de anchoas y aceitunas.",
+        "Cubrir cada trozo con otro, formando un “sándwich” de bacalao. Cubrir cada uno con una rodaja de tomate.",
+        "harina de trigo integral",
+        "Hornee durante 20 minutos hasta que el pescado esté tierno, rociándolo cada 5 minutos aproximadamente."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Seafood",
+        "Budget Friendly",
+        "Dinner",
+        "Foodie",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "7g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "80mg",
+        "sodium": "425mg",
+        "total_carbohydrate": "6g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "33g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-cod-provencale"
+}

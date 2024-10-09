@@ -1,0 +1,92 @@
+{
+    "title": "Ensalada Panzanella",
+    "keywords": "Salads,Main Dish,Budget Friendly,Dinner,Lunch,Quick & Easy",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1827-diabetic-panzanella-salad_12-week-diabetes-ckbk_DFSepOct19_081619.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pan integral (1-2 días de antigüedad)",
+            "us_amount": "6 large slices",
+            "metric_amount": "6 large slices"
+        },
+        {
+            "name": "cebolletas (en rodajas)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "mini pimientos dulces",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "tomates uva",
+            "us_amount": "2 packed cups",
+            "metric_amount": "2 packed cups"
+        },
+        {
+            "name": "Pepino mediano (pelado y cortado en cubos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel",
+            "us_amount": "10",
+            "metric_amount": "10"
+        },
+        {
+            "name": "Aderezo ligero para ensalada italiana (dividido)",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        },
+        {
+            "name": "Pollo cocido (cortado en cubos)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "piñones",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Remoje el pan en un recipiente pequeño con agua hasta que esté tierno (no más de unos segundos). Exprima toda el agua y córtelo en trozos pequeños.",
+        "Coloque los trozos de pan en un bol grande con las cebolletas, los tomates, la albahaca, el pepino y las aceitunas. Agregue 4 cucharadas del aderezo para ensaladas y mezcle bien. Divida la preparación en 4 platos.",
+        "Añade los trozos de pollo a cada plato de ensalada. Espolvorea con piñones. Rocía las 2 cucharadas restantes de aderezo sobre las ensaladas."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Italian",
+        "Salads",
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "520",
+        "total_fat": "18g",
+        "saturated_fat": "3.1g",
+        "trans_fat": "0g",
+        "cholesterol": "140mg",
+        "sodium": "410mg",
+        "total_carbohydrate": "46g",
+        "fiber": "7g",
+        "sugar": "24g",
+        "added_sugar": "0g",
+        "protein": "43g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/panzanella-salad"
+}

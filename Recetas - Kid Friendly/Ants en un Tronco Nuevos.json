@@ -1,0 +1,62 @@
+{
+    "title": "Ants en un Tronco Nuevos",
+    "keywords": "Vegetarian,Snacks,Appetizers,Cooking for 1 or 2,No Cook,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Snacks",
+        "Appetizers",
+        "Cooking for 1 or 2",
+        "No Cook",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/new-ants-on-log-may13.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "cerezas secas sin azúcar",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "mantequilla de almendras",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "apio (recortado y lavado)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        }
+    ],
+    "instructions": [
+        "Rellena cada tallo de apio con la mantequilla de nueces y cubre con frutos secos. Sirve inmediatamente."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Low Sodium",
+        "Veggie Rich",
+        "Kid Friendly",
+        "Vegetarian",
+        "Snacks",
+        "Appetizers",
+        "Cooking for 1 or 2",
+        "No Cook",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "195",
+        "total_fat": "14g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "100mg",
+        "total_carbohydrate": "16g",
+        "fiber": "5g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/new-ants-log"
+}

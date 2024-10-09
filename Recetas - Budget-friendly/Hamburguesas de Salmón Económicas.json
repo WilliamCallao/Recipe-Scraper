@@ -1,0 +1,97 @@
+{
+    "title": "Hamburguesas de Salmón Económicas",
+    "keywords": "Sandwiches,Budget Friendly,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Sandwiches",
+        "Budget Friendly",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/130-diabetic-salmon-burgers_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla pequeña (picada)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "pimiento rojo (sin semillas y picado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Pasta de curry rojo tailandés",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Salmón (sin piel, cortado en trozos)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "cebolla(s) (cortadas en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "hojas de lechuga",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "cebolla verde (cebolleta) (cortada en rodajas finas)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 475 grados F. Cubra una bandeja para hornear con aceite en aerosol y reserve.",
+        "Coloque la cebolla, el ajo, el pimiento morrón y la pasta de curry tailandés en un procesador de alimentos grande y mezcle hasta que quede suave.",
+        "Añade el salmón y haz un puré hasta que quede una mezcla homogénea. Añade el huevo y el cilantro y haz un puré hasta que se integren.",
+        "Coloca la mezcla en porciones de 1/2 taza en la bandeja para hornear y presiona ligeramente para formar una hamburguesa. Repite el procedimiento para hacer 6 hamburguesas.",
+        "Rocíe la parte superior de cada hamburguesa con aceite en aerosol y hornee durante 15 minutos.",
+        "Sirva cada hamburguesa de salmón en una hoja de lechuga y cubra cada una con 1 cucharada de cebolletas en rodajas."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Lower Carb",
+        "Seafood",
+        "Sandwiches",
+        "Budget Friendly",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "7g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-salmon-burgers"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Casamiento de Quinoa y Frijoles de Ingrid Hoffmann",
+    "keywords": "Dinner,Breakfast and Brunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT33M",
+    "categories": [
+        "Dinner",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1658-diabetic-quinoa-beans-casamiento_latin-comfort-foods_092618_1021x779.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "arándanos congelados",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "quinua cruda (enjuagada)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla(s) (finamente picada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimiento verde (picado finamente)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "frijoles rojos (enjuagados y escurridos)",
+            "us_amount": "15.5 ounce can",
+            "metric_amount": "15.5 ounce can"
+        },
+        {
+            "name": "caldo de verduras sin sal o caldo de pollo sin sal",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salsa de tomate sin sal añadida",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Pon a hervir el agua en una cacerola mediana. Agrega la quinua y deja hervir hasta que el líquido casi se haya evaporado. Reduce el fuego a medio bajo y cocina, sin tapar, hasta que la quinua esté tierna, aproximadamente 20 minutos. Retira del fuego y esponje con un tenedor.",
+        "Mientras tanto, calienta el aceite en una sartén antiadherente grande a fuego medio. Agrega la cebolla, el pimiento morrón y el ajo y cocina, revolviendo de vez en cuando, hasta que las verduras estén tiernas, aproximadamente 8 minutos. Agrega los frijoles, el caldo, la salsa de tomate, la sal y la pimienta y cocina 5 minutos.",
+        "Incorpore la quinua y caliente."
+    ],
+    "tags": [
+        "Mexican/Southwestern",
+        "Dinner",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "3g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "26g",
+        "fiber": "5g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ingrid-hoffmanns-quinoa-and-beans-casamiento"
+}

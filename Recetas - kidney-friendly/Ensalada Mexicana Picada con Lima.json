@@ -1,0 +1,116 @@
+{
+    "title": "Ensalada Mexicana Picada con Lima",
+    "keywords": "Dinner,Gluten-Free,Lunch,Main Dish,No Cook,Quick & Easy,Salads,Sides,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Main Dish",
+        "No Cook",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/diabetic-chopped-mexican-salad-tex-mex-cookbook_080318_1021x779.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "zumo de lima",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "Proteína enlatada como atún, salmón o pollo.",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        },
+        {
+            "name": "frijoles negros (enjuagados y escurridos)",
+            "us_amount": "15 oz",
+            "metric_amount": "425 ml"
+        },
+        {
+            "name": "jicama (pelada y picada)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "maíz (escurrido y enjuagado)",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "pimiento rojo (sin corazón, sin semillas y cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aguacates maduros (pelados y cortados en cubitos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Queso Monterey Jack bajo en grasa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "huevos",
+        "Distribuye la lechuga de manera uniforme en una fuente grande para servir. Coloca los frijoles, la jícama, el maíz, el pimiento morrón y los aguacates uno al lado del otro sobre la lechuga. Decora con queso. Cubre y refrigera hasta que se enfríe, durante al menos 1 hora. Rocía con el aderezo antes de servir."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Main Dish",
+        "No Cook",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "15g",
+        "saturated_fat": "2.8g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "24g",
+        "fiber": "8g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chopped-mexican-salad-lime"
+}

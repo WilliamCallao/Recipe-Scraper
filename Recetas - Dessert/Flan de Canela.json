@@ -1,0 +1,96 @@
+{
+    "title": "Flan de Canela",
+    "keywords": "Vegetarian,Holidays & Entertaining,Gluten-Free,Dessert",
+    "prep_time": "PT10M",
+    "cook_time": "PT5H",
+    "categories": [
+        "Vegetarian",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1747-espanol-diabetic-flan-de-canela_latin-comfort-foods_13020.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "azúcar",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "cacao en polvo sin azúcar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Edulcorante granulado Splenda®",
+            "us_amount": "2 cups",
+            "metric_amount": "2 cups"
+        },
+        {
+            "name": "mantequilla de almendras (sin azúcar)",
+            "us_amount": "1 (12 oz) can",
+            "metric_amount": "1 (12 oz) can"
+        },
+        {
+            "name": "Edulcorante granulado Splenda® (uso dividido)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "extracto de almendra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Frambuesas",
+            "us_amount": "2 2/3 cups",
+            "metric_amount": "2 2/3 cups"
+        },
+        {
+            "name": "huevos grandes",
+            "us_amount": "5",
+            "metric_amount": "5"
+        }
+    ],
+    "instructions": [
+        "Precalentar el horno a 350ºF.",
+        "Combine el azúcar y el agua en una cacerola pequeña de fondo grueso. Lleve a ebullición a fuego medio-alto y cocine, moviendo la cacerola de vez en cuando, hasta que el caramelo esté ligeramente dorado, aproximadamente 12 minutos. Vierta inmediatamente el caramelo en una fuente para horno redonda de 2 cuartos de galón, inclinándola para cubrirlo de manera uniforme. Deje reposar hasta que el caramelo se enfríe y se endurezca, aproximadamente 10 minutos.",
+        "Mientras tanto, combine la leche, la leche evaporada, el sustituto de azúcar, la canela en polvo y las ramas de canela en una cacerola mediana. Lleve a ebullición a fuego medio-bajo y cocine, revolviendo ocasionalmente, durante 6 minutos. Retire del fuego. Agregue la vainilla y deje reposar 15 minutos. Retire las ramas de canela.",
+        "Melocotón (cortado por la mitad, sin hueso)",
+        "Miel",
+        "avena laminada a la antigua usanza"
+    ],
+    "tags": [
+        "Mexican/Southwestern",
+        "Latin American",
+        "Vegetarian",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "3.5g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "120mg",
+        "sodium": "125mg",
+        "total_carbohydrate": "22g",
+        "fiber": "3g",
+        "sugar": "19g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cinnamon-flan"
+}

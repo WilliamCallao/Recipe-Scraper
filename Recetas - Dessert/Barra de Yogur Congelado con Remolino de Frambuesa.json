@@ -1,0 +1,72 @@
+{
+    "title": "Barra de Yogur Congelado con Remolino de Frambuesa",
+    "keywords": "Vegetarian,Dessert,Snacks",
+    "prep_time": "PT10M",
+    "cook_time": "PT4H",
+    "categories": [
+        "Vegetarian",
+        "Dessert",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-08/rasberryswirlfrozenyogurtbark_v2.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Yogur griego natural sin grasa",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "extracto puro de vainilla",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Jarabe multiusos Splenda® (dividido)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "Frambuesas frescas o congeladas",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Arándanos frescos",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "hojuelas de coco sin azúcar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "hojuelas de coco sin azúcar",
+        "En un bol, mezcle el yogur, la vainilla y ¼ de taza de jarabe multiusos Splenda hasta que se integren de manera uniforme. Coloque el yogur en una bandeja apta para el congelador y extiéndalo con cuidado hasta que tenga un grosor de ¼ de pulgada con una espátula.",
+        "En un bol pequeño, añade las frambuesas con 2 cucharadas de jarabe multiusos Splenda y tritúralas con el dorso de un tenedor. (Si usas frambuesas congeladas, caliéntalas en el microondas hasta que se ablanden). La mezcla debe adquirir una consistencia similar a la de una mermelada. Coloca cucharadas de la mezcla de frambuesas alrededor del yogur. Con el dorso de una cuchara, crea bonitos remolinos de frambuesa roja alrededor del yogur.",
+        "Espolvoree arándanos frescos y coco por encima. Congele al menos 4 horas o durante la noche.",
+        "Crema de mantequilla vegana"
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Vegetarian",
+        "Dessert",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "1g",
+        "saturated_fat": "0g",
+        "trans_fat": "1g",
+        "cholesterol": "5mg",
+        "sodium": "25mg",
+        "total_carbohydrate": "18g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/raspberry-swirl-frozen-yogurt-bark"
+}

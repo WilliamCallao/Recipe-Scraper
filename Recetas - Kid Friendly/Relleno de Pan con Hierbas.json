@@ -1,0 +1,84 @@
+{
+    "title": "Relleno de Pan con Hierbas",
+    "keywords": "Vegetarian,Dinner,Holidays & Entertaining,Lunch,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Vegetarian",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1252-diabetic-thanksgiving-herbed-bread-stuffing_healthy-home-ckbk_AdobeStock228573933_102419.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "apio (en rodajas)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "cebolla (cortada en cubitos)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "queso cheddar bajo en grasa",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "Mezcla de quesos mexicanos (bajos en grasa)",
+            "us_amount": "1-2 tsp",
+            "metric_amount": "1-2 tsp"
+        },
+        {
+            "name": "caldo de pollo o verduras bajo en sodio",
+            "us_amount": "4 cups",
+            "metric_amount": "4 cups"
+        },
+        {
+            "name": "cubos de relleno sin condimentar",
+            "us_amount": "1 package",
+            "metric_amount": "1 package"
+        },
+        {
+            "name": "Hierbas frescas picadas, como perejil, tomillo, salvia o cebollino.",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque el aceite de oliva en una sartén grande. Agregue el apio y la cebolla y saltee hasta que se ablanden, aproximadamente de 3 a 5 minutos. Agregue la manzana y el condimento para aves. Mezcle bien. Agregue el caldo y cocine a fuego lento durante 2 a 3 minutos. Agregue los cubos de pan y las hierbas frescas y mezcle bien. Deje enfriar antes de rellenar las aves o el cerdo.",
+        "Colóquelo en una cacerola apta para horno. Hornee durante 30 minutos. Si desea que el relleno quede crocante, hornéelo sin tapar. Para que el relleno quede más suave, cúbralo con papel de aluminio."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Kid Friendly",
+        "Vegetarian",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "280mg",
+        "total_carbohydrate": "27g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/herbed-bread-stuffing"
+}

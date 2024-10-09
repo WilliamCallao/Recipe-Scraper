@@ -1,0 +1,78 @@
+{
+    "title": "Batido de Frutas de Verano",
+    "keywords": "Quick & Easy,Snacks,Gluten-Free,Vegetarian,Breakfast and Brunch",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Snacks",
+        "Gluten-Free",
+        "Vegetarian",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/530-diabetic-summer-fruit-smoothie_AdobeStock119096304_012121.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "arándanos frescos",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "arándanos congelados",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Sustituto de azúcar granulado sin calorías (sucralosa original)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Yogur estilo griego sabor melocotón (sin grasa)",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "leche de almendras (sin azúcar)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Semilla de lino molida",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "hielo",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Combine todos los ingredientes en una licuadora y haga puré hasta que quede suave."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Kid Friendly",
+        "Quick & Easy",
+        "Snacks",
+        "Gluten-Free",
+        "Vegetarian",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "50mg",
+        "total_carbohydrate": "22g",
+        "fiber": "4g",
+        "sugar": "14g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/summer-fruit-smoothie"
+}

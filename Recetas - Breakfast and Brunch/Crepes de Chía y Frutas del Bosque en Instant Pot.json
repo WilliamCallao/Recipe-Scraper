@@ -1,0 +1,95 @@
+{
+    "title": "Crepes de Chía y Frutas del Bosque en Instant Pot",
+    "keywords": "Vegetarian,Quick & Easy,Foodie,Dessert,Breakfast and Brunch",
+    "prep_time": "PT5M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Vegetarian",
+        "Quick & Easy",
+        "Foodie",
+        "Dessert",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1851-diabetic-instant-pot-dessert-chia-berry-crepes_instant-pot-diabetes-ckbk_111419.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "arándanos congelados",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Frambuesas congeladas",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "agua (uso dividido)",
+            "us_amount": "1/2 cup plus 1 tbsp",
+            "metric_amount": "1/2 cup plus 1 tbsp"
+        },
+        {
+            "name": "Sirva la avena infusionada con jengibre en tazones, cubierta con bayas frescas y nueces picadas.",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "pimiento verde (picado finamente)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "azúcar en polvo (uso dividido)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "extracto de almendra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "crepes preparados",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "yogur griego natural al 2%",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque las bayas, 1/2 taza de agua y las semillas de chía en la olla instantánea. Cierre la tapa, cierre la válvula y configure el botón de cocción manual/a presión en 1 minuto.",
+        "Utilice un dispositivo de liberación rápida de presión. Cuando la válvula baje, retire la tapa con cuidado.",
+        "En un recipiente pequeño, mezcle la cucharada restante de agua y la maicena. Revuelva hasta que la maicena se disuelva.",
+        "Agregue 1 taza de agua a la olla a presión, agregue el soporte y 3 ramequines. Apile el cuarto ramequin sobre los otros. Selle la tapa, cierre la válvula, presione el botón Manual durante 10 minutos. Use una liberación de presión natural durante 10 minutos seguida de una liberación de presión rápida.",
+        "Apaga el fuego. Incorpora 2 cucharadas de azúcar en polvo y el extracto de almendras. Coloca la mezcla de frutos rojos en un recipiente mediano y deja reposar durante 15 minutos para que se enfríe un poco.",
+        "Coloca cantidades iguales de la mezcla de frutos rojos en el centro de cada crepe (aproximadamente 1/3 de taza por crepe). Dobla los extremos para superponerlos ligeramente. Coloca la cucharada restante de azúcar en polvo en un colador de malla fina y espolvorea uniformemente sobre cada crepe. Cubre cada crepe con 1/4 de taza de yogur y sirve inmediatamente."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Low Sodium",
+        "Vegetarian",
+        "Quick & Easy",
+        "Foodie",
+        "Dessert",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "3g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "105mg",
+        "total_carbohydrate": "28g",
+        "fiber": "4g",
+        "sugar": "17g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/instant-pot-chia-berry-crepes"
+}

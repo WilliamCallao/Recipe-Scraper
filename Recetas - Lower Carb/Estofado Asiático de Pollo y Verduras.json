@@ -1,0 +1,115 @@
+{
+    "title": "Estofado Asiático de Pollo y Verduras",
+    "keywords": "Dinner,Lunch,One Pot,Quick & Easy,Soup",
+    "prep_time": "PT10M",
+    "cook_time": "PT18M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "One Pot",
+        "Quick & Easy",
+        "Soup"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1996-diabetic-Asian-Chicken-Vegetable-Stew_KDBH-bookazine_012821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de sésamo tostado",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pan integral (tostado)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "Margarina en tarro sin grasas trans (como I Can't Believe It's Not Butter)",
+            "us_amount": "1 3/4 cup",
+            "metric_amount": "414 ml"
+        },
+        {
+            "name": "almendras sin sal",
+            "us_amount": "1 (8-oz) can",
+            "metric_amount": "1 (8-oz) can"
+        },
+        {
+            "name": "guisantes (recortados)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "agua (uso dividido)",
+            "us_amount": "1/3 cup plus 1 tbsp",
+            "metric_amount": "1/3 cup plus 1 tbsp"
+        },
+        {
+            "name": "cebollas verdes (en rodajas)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "vinagre de arroz",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "salsa de soja baja en sodio",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "jengibre fresco picado",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "azúcar moreno claro",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Maicena",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "En una cacerola grande, calienta el aceite a fuego medio-alto, revolviendo para cubrir el fondo. Cocina el pollo durante 6 a 8 minutos, o hasta que ya no esté rosado en el centro, revolviendo con frecuencia.",
+        "Incorpore el caldo, los brotes de bambú, los guisantes, 1/3 de taza de agua, las cebollas verdes, el vinagre, la salsa de soja, el jengibre, el azúcar moreno, las hojuelas de pimiento rojo y la pimienta. Aumente el fuego y deje que hierva, revolviendo de vez en cuando. Reduzca el fuego y cocine a fuego lento durante 6 a 8 minutos, revolviendo de vez en cuando.",
+        "Coloca la maicena en un tazón pequeño. Agrega la cucharada de agua restante, revolviendo para disolver. Incorpora a la sopa. Aumenta el fuego a medio alto y deja que hierva. Hierve durante 1 o 2 minutos o hasta que espese, revolviendo de vez en cuando."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Asian",
+        "Dinner",
+        "Lunch",
+        "One Pot",
+        "Quick & Easy",
+        "Soup"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "395mg",
+        "total_carbohydrate": "11g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "1g",
+        "protein": "29g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/asian-chicken-and-vegetable-stew"
+}

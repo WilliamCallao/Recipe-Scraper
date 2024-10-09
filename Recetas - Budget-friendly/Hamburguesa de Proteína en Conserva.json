@@ -1,0 +1,94 @@
+{
+    "title": "Hamburguesa de Proteína en Conserva",
+    "keywords": "Budget Friendly,Dinner,Easy Pantry Recipes,Lunch,Main Dish,Quick & Easy",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1937-diabetic-canned-protein-burger_DCME-ckbk_AdobeStock63892193_032520.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "huevo",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "apio en rodajas",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "cebolla picada",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "mayonesa ligera",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pan rallado integral",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Proteína enlatada como atún, salmón o pollo.",
+            "us_amount": "2 (6-oz) cans (12 oz total)",
+            "metric_amount": "2 (6-oz) cans (12 oz total)"
+        }
+    ],
+    "instructions": [
+        "Guárdelo en un recipiente hermético en el refrigerador hasta por 1 semana o envuélvalo individualmente en bolsas o recipientes para congelador y congélelo hasta por 3 meses (congele solo las hamburguesas cocidas, no congele las hamburguesas crudas).",
+        "Añade aceite de oliva a una sartén antiadherente a fuego medio. Fríe las hamburguesas de cada lado durante 3 o 4 minutos. Trabaja en tandas si tu sartén no es lo suficientemente grande para contener las 8 hamburguesas.",
+        "En un bol, mezcle la proteína enlatada, el pan rallado, la mayonesa light, la cebolla, el pimiento morrón, el huevo, la sal y la pimienta hasta que se integren. Forme 6 hamburguesas con la mezcla."
+    ],
+    "tags": [
+        "Lower Carb",
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Budget Friendly",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "7g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "440mg",
+        "total_carbohydrate": "8g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/canned-protein-burger"
+}

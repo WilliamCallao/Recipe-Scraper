@@ -1,0 +1,100 @@
+{
+    "title": "Parathas de Espinaca Integral",
+    "keywords": "Breakfast and Brunch,Dinner,Lunch,Sides,Vegan,Vegetarian",
+    "prep_time": "PT1H",
+    "cook_time": "PT10M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Dinner",
+        "Lunch",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1985-Whole-Wheat-Spinach-Parathas_KDBH-Bookazine_012821.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "harina integral de repostería (dividida)",
+            "us_amount": "2 cups plus 1 tbsp",
+            "metric_amount": "2 cups plus 1 tbsp"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "polvo de amchoor (mango)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Sal marina fina (uso dividido)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "espinaca baby (picada)",
+            "us_amount": "1 cup (tightly packed)",
+            "metric_amount": "1 cup (tightly packed)"
+        },
+        {
+            "name": "sustituto de huevo",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva en aerosol para cocinar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "semillas de ajwain",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "aceite de girasol (uso dividido)",
+            "us_amount": "3 tsp",
+            "metric_amount": "15 g"
+        }
+    ],
+    "instructions": [
+        "Retirar de la sartén. Repetir el proceso de cocción con los trozos de masa restantes y el aceite restante. Servir caliente.",
+        "Dale la vuelta a la paratha. Pincélala con ¼ de cucharadita del aceite restante. Continúa cocinando durante unos 3 o 4 minutos por cada lado, dándole la vuelta según sea necesario, hasta que los bordes estén dorados por ambos lados. Con una espátula plana, presiona el centro de la paratha mientras se cocina para que se cocine de manera uniforme.",
+        "Precaliente una plancha de hierro fundido o una sartén plana a fuego medio-alto. Coloque un trozo de masa en la sartén. Cocine durante aproximadamente 1 minuto o hasta que comience a burbujear.",
+        "Después de dejar reposar la masa, amasar nuevamente. Formar 8 bolas. Espolvorear ligeramente la superficie de trabajo con la cucharada de harina restante. Con un rodillo, aplanar cada bola de masa hasta que tenga 15 cm de diámetro.",
+        "Para preparar la masa para el paratha: mezcle 2 tazas de harina y el ¼ de cucharadita de sal restante en un plato poco profundo. Agregue la mezcla de espinaca a la mezcla de harina. Agregue agua, poco a poco, hasta formar una masa suave (similar a la consistencia de una masa de pizza). Amase la masa hasta que quede suave. Transfiera a un recipiente de vidrio. Cubra con un paño húmedo. Deje reposar durante 30 minutos a una hora a temperatura ambiente.",
+        "Añade la espinaca y ¼ de cucharadita de sal. Cocina durante 3 minutos o hasta que la humedad liberada por la espinaca se absorba y la base se seque. Añade el polvo de amchoor y el comino, revolviendo bien. Retira del fuego. Deja enfriar.",
+        "En una sartén de fondo grueso, calienta 1 cucharadita de aceite a fuego medio-alto. Agrega las semillas de ajwain, la raíz de jengibre y el chile. Cocina durante aproximadamente 1 minuto, revolviendo con frecuencia."
+    ],
+    "tags": [
+        "Indian",
+        "Breakfast and Brunch",
+        "Dinner",
+        "Lunch",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "2g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "25g",
+        "fiber": "4g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/whole-wheat-spinach-parathas"
+}

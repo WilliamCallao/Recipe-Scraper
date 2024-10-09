@@ -1,0 +1,97 @@
+{
+    "title": "Blondies de Mantequilla de Maní con Trozos de Cacao",
+    "keywords": "Dessert,Snacks,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Dessert",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/PB%20Blondies%20for%20Diabetics.png",
+    "servings": "16 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de girasol o de aguacate (dividido)",
+            "us_amount": "3 tablespoons + 1/2 teaspoon",
+            "metric_amount": "3 tablespoons + 1/2 teaspoon"
+        },
+        {
+            "name": "mantequilla sin sal (derretida)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "dátiles sin hueso (aproximadamente 1 taza)",
+            "us_amount": "5 oz",
+            "metric_amount": "142 ml"
+        },
+        {
+            "name": "Vierta uniformemente en 2 vasos, cubra con crema batida y ¡disfrute de inmediato!",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "Añade el puré de manzana, los albaricoques secos, el jarabe de arce, la mantequilla y el aceite a una licuadora. Tapa y mezcla hasta que se integren bien. Añade el huevo y el extracto de vainilla y mezcla hasta que se forme un puré como un batido. Vierte la masa en la mezcla seca en el recipiente mediano y revuelve hasta que se integren bien. Nota: La masa parecerá un poco suelta (líquida).",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "extracto de almendra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "mantequilla de maní sin sal agregada y sin azúcar agregada",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "sal marina",
+            "us_amount": "3/4 tsp",
+            "metric_amount": "4 g"
+        },
+        {
+            "name": "harina integral para repostería",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "Splenda® Refrescante de agua líquida sabor fresa y sandía (sabor fresa)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "cubitos de hielo",
+        "Añade las 3 cucharadas restantes de aceite, la mantequilla y los dátiles a la licuadora. Tapa y mezcla hasta que se integren. Añade la mantequilla de manzana, el huevo y los extractos de vainilla y almendras y vuelve a mezclar hasta obtener una consistencia suave, similar a la de un pudín, al menos durante 1 minuto a alta velocidad.",
+        "Pasa la masa a un bol mediano. Añade la mantequilla de maní y la sal y revuelve hasta que se integren. Añade la harina y revuelve hasta que se integren. Añade las semillas de cacao y revuelve hasta que se integren de manera uniforme.",
+        "crema batida sin azúcar",
+        "En un bol pequeño, bate la leche y las yemas de huevo. A fuego medio, incorpora lentamente la mezcla de huevos a la mezcla de edulcorante. Deja que hierva y sigue batiendo hasta que espese, durante unos 3 a 5 minutos."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Dessert",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "10g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0.1g",
+        "cholesterol": "15mg",
+        "sodium": "110mg",
+        "total_carbohydrate": "15g",
+        "fiber": "3g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/peanut-butter-blondies-cacao-nibs"
+}

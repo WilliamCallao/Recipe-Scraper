@@ -1,0 +1,109 @@
+{
+    "title": "Ensalada de Pimiento Dulce, Cebolla y Tomate",
+    "keywords": "Lunch,Salads,Sides",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Salads",
+        "Sides"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/may_sweet_pepper_onion-_tomato_279x200_1.jpg",
+        "Onion and Tomato Salad\" loading=\"lazy\" />"
+    ],
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "vinagre de sidra",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ajo (en rodajas)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "azúcar (opcional)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Cortar el filete en rodajas y servir las rodajas cubiertas con las cebollas.",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Sirva 1/2 taza de ensalada de cangrejo sobre cada hoja de lechuga. También puede servirla sobre pan integral o galletas saladas.",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Con las manos, coloque las batatas ralladas de manera uniforme en 12 moldes para muffins; esparza las batatas en una capa fina sobre el fondo y los costados de los moldes. Rocíe los moldes para muffins con aceite en aerosol y hornee en la rejilla inferior del horno durante 25 minutos.",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cilantro (picado)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Saque los muffins de batata del horno. Vierta la mezcla de huevo en los moldes para muffins, dividiéndola uniformemente para llenar cada uno de ellos hasta aproximadamente 2/3 de su capacidad. Hornee durante 12 a 15 minutos, hasta que los huevos estén bien cocidos.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla grande (cortada en aros finos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Tomates grandes (pelados y cortados en 8 gajos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        }
+    ],
+    "instructions": [
+        "Combine todos los ingredientes excepto el pimiento, la cebolla y el tomate y mezcle bien.",
+        "Vierta el aderezo sobre las verduras y revuelva. Cubra y refrigere durante varias horas o durante la noche, revolviendo ocasionalmente."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Lunch",
+        "Salads",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "65",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "140mg",
+        "total_carbohydrate": "9g",
+        "fiber": "2g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-pepper-onion-and-tomato-salad"
+}

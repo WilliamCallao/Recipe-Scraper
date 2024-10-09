@@ -1,0 +1,88 @@
+{
+    "title": "Tomates Cherry Rellenos de Guacamole",
+    "keywords": "Appetizers,Holidays & Entertaining,Snacks,Vegetarian,Foodie,Gluten-Free",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Snacks",
+        "Vegetarian",
+        "Foodie",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/300-diabetic-guacamole-stuffed-cherry-tomatoes_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "Tomates cherry (redondos, no tomates uva)",
+            "us_amount": "24",
+            "metric_amount": "24"
+        },
+        {
+            "name": "aguacate maduro",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Lima (jugo)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado o rallado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "cilantro fresco picado (uso dividido)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Corta el tallo de cada tomate cherry, haciendo un corte lo suficientemente profundo como para hacer un agujero en el medio del tomate sin atravesar el otro extremo.",
+        "pimienta negra",
+        "En un tazón mediano, triture el aguacate con un tenedor y mezcle los trozos de tomate, el jugo de limón, el ajo, 1 cucharada de cilantro, sal (opcional) y pimienta.",
+        "Precaliente la parrilla a temperatura media y engrase las rejillas para evitar que el pescado se pegue. (Alternativamente, hornee la trucha a 400 °F durante unos 25 minutos). En un tazón pequeño, combine las hierbas picadas, la ralladura de 1 1/2 limones y el jugo de 1 limón. Corte el otro limón en rodajas finas."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Snacks",
+        "Vegetarian",
+        "Foodie",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "25",
+        "total_fat": "2g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "100mg",
+        "total_carbohydrate": "2g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/guacamole-stuffed-cherry-tomatoes"
+}

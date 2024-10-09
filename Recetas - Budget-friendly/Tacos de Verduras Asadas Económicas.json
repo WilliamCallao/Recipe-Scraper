@@ -1,0 +1,120 @@
+{
+    "title": "Tacos de Verduras Asadas Económicas",
+    "keywords": "Budget Friendly,Lunch,Dinner,Vegetarian",
+    "prep_time": "PT35M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Budget Friendly",
+        "Lunch",
+        "Dinner",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/jun13_vegtaco_istock7238603_279x200.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Calabacín (dados pequeños)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "zanahoria(s) (dados pequeños)",
+            "us_amount": "5 large",
+            "metric_amount": "5 large"
+        },
+        {
+            "name": "cebolla(s) (cortadas en dados pequeños)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "Mientras se hornea el pollo, calienta el aceite y una cantidad generosa de aceite en aerosol a fuego medio en una sartén antiadherente pequeña. Agrega las alcaparras y saltea durante 2 o 3 minutos.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "frijoles pintos (15 onzas, enjuagados y escurridos)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "chile en polvo (más 1 cucharadita)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Salsa Worcestershire",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "tortillas de maíz (6 pulgadas)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "lechuga (rallada)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "queso fresco ((o queso cheddar rallado bajo en grasa))",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 grados F. Rocíe una bandeja para hornear con aceite en aerosol.",
+        "Coloque el calabacín, las zanahorias, las cebollas y el pimiento rojo en una bandeja para hornear. Agregue el aceite de oliva y el ajo; revuelva para cubrir. Hornee durante 15 a 18 minutos. Retire del horno.",
+        "Mientras se hornean las verduras, calienta una sartén mediana a fuego medio. Rocía con aceite en aerosol. Agrega el tomate y saltea durante 1 minuto. Agrega los frijoles, el chile en polvo, el comino y la pimienta y saltea durante 2 minutos. Agrega las verduras cocidas a la sartén y mezcla bien.",
+        "Sirva 1/2 taza de mezcla de verduras en cada taco y cubra con lechuga y queso."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Budget Friendly",
+        "Lunch",
+        "Dinner",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "380",
+        "total_fat": "11g",
+        "saturated_fat": "3.1g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "345mg",
+        "total_carbohydrate": "60g",
+        "fiber": "15g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "15g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-roasted-veggie-tacos"
+}

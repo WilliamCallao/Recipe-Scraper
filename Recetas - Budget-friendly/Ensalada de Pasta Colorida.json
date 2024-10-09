@@ -1,0 +1,96 @@
+{
+    "title": "Ensalada de Pasta Colorida",
+    "keywords": "Vegetarian,Sides,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recipe%20Size_2.png",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Pasta con forma de pajarita",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "pimiento rojo picado",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Mostaza amarilla",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pepino(s) (picado)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "zanahorias (ralladas)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "cebolla roja (picada)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Nota: Para cocinar cebada en grandes cantidades, agregue 11 oz de cebada perlada seca (de cocción rápida) a una olla con 4 tazas de agua hirviendo. Cubra y luego reduzca el fuego a fuego lento durante 10 a 12 minutos. Retire del fuego y mantenga tapado fuera del fuego durante 5 minutos. Rinde 6 tazas de cebada cocida. Esta cebada se puede usar en cualquier receta que requiera cebada cocida. Guárdela en un recipiente hermético en el refrigerador durante 7 días o envuélvala en bolsas para congelador en incrementos de una taza durante hasta 6 meses.",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pepinos en rodajas finas",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "verduras mixtas",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375 grados F.",
+        "Maicena",
+        "En un tazón pequeño, combine los ingredientes restantes con un batidor, luego agregue la pasta y las verduras.",
+        "Mezcle las verduras preparadas con la pasta y revuelva hasta combinar.",
+        "Enfriar durante al menos 1 hora antes de servir."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Veggie Rich",
+        "Kid Friendly",
+        "Vegetarian",
+        "Sides",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "6g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "6mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "19g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "1g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/colorful-pasta-salad"
+}

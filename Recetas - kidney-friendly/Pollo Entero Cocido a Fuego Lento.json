@@ -1,0 +1,63 @@
+{
+    "title": "Pollo Entero Cocido a Fuego Lento",
+    "keywords": "Budget Friendly,One Pot,Slow Cooker",
+    "prep_time": "PT5M",
+    "cook_time": "PT8H",
+    "categories": [
+        "Budget Friendly",
+        "One Pot",
+        "Slow Cooker"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2047-diabetic-Chicken-Crock-Pot_DaVita_040821.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "Pollo entero",
+            "us_amount": "1 (about 4 lbs)",
+            "metric_amount": "1 (about 4 lbs)"
+        },
+        {
+            "name": "condimento de hierbas sin sal, como Ms. Dash",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Quita los menudillos del pollo si están incluidos (guárdalos para hacer caldo de pollo). Seca el pollo con toallas de papel.",
+        "En un tazón pequeño, combine la mezcla de condimentos, la pimienta y el ajo en polvo. Espolvoree la mitad de los condimentos dentro del pollo. Frote el resto del condimento en la parte exterior del pollo.",
+        "Coloque el pollo con la pechuga hacia arriba en una olla de cocción lenta ovalada o con el cuello hacia arriba en una olla de cocción lenta redonda. Cubra y cocine a temperatura baja durante 8 horas.",
+        "Quita los huesos del pollo y desecha la piel. Sirve ahora o guarda el pollo cocido en el refrigerador durante 3 a 5 días."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Budget Friendly",
+        "One Pot",
+        "Slow Cooker"
+    ],
+    "nutrition": {
+        "calories": "195",
+        "total_fat": "12g",
+        "saturated_fat": "3.2g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "65mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/slow-cooked-whole-chicken"
+}

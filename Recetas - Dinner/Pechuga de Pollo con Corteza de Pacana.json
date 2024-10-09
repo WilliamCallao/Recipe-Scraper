@@ -1,0 +1,73 @@
+{
+    "title": "Pechuga de Pollo con Corteza de Pacana",
+    "keywords": "Quick & Easy,Main Dish,Gluten-Free,Dinner,Easy Pantry Recipes",
+    "prep_time": "PT8M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner",
+        "Easy Pantry Recipes"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1837-diabetic-pecan-crusted-chicken-breast_JulAug20DF_clean-simple_061720.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Trozos de nuez",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel",
+            "us_amount": "4 (6-oz) breasts",
+            "metric_amount": "4 (6-oz) breasts"
+        },
+        {
+            "name": "Puré de manzana sin azúcar",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "mostaza marrón picante",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "hojas de cilantro fresco (envasadas)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425° F. Prepare una bandeja para hornear grande con borde. Para facilitar la limpieza y evitar que se pegue, cubra con papel pergamino (opcional).",
+        "Coloque las nueces pecanas en un procesador de alimentos. Triture hasta que parezcan migas de pan. Transfiera a un plato con borde.",
+        "Coloca el pollo en la bandeja para hornear. En un tazón pequeño, mezcla el puré de manzana y la mostaza. Coloca la mezcla de puré de manzana y mostaza sobre cada pechuga, esparciéndola uniformemente con el dorso de la cuchara. Presiona firmemente el lado de puré de manzana y mostaza de cada pechuga de pollo sobre las nueces. Coloca el pollo nuevamente en la bandeja para hornear, con el lado con la corteza de nueces hacia arriba. Espolvorea las nueces restantes sobre el pollo; presiona para que se adhieran. Espolvorea con sal.",
+        "Hornee durante unos 20 minutos o hasta que el pollo alcance una temperatura interna de 165° F. Divida en cuatro platos y sirva."
+    ],
+    "tags": [
+        "Lower Carb",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Kid Friendly",
+        "Quick & Easy",
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner",
+        "Easy Pantry Recipes"
+    ],
+    "nutrition": {
+        "calories": "300",
+        "total_fat": "15g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "270mg",
+        "total_carbohydrate": "3g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "37g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pecan-crusted-chicken-breast"
+}

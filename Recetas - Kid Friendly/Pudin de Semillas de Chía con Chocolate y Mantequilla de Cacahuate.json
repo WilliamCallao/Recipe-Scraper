@@ -1,0 +1,73 @@
+{
+    "title": "Pudin de Semillas de Chía con Chocolate y Mantequilla de Cacahuate",
+    "keywords": "Cooking for 1 or 2,Vegetarian,Foodie,Dessert",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Vegetarian",
+        "Foodie",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/176-diabetic-dessert-chocolate-peanut-butter-chia-pudding_AdobeStock_100285852_022621.jpg",
+    "servings": "3 Servings",
+    "ingredients": [
+        {
+            "name": "cacao en polvo sin azúcar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sustituto de azúcar bajo en calorías",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "mantequilla de maní en polvo",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "semillas de chia",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "leche descremada o leche de almendras sin azúcar",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Mezcle el cacao en polvo, la Splenda o stevia y la mantequilla de maní en polvo e incorpórelos bien para que no queden grumos.",
+        "Incorpore las semillas de chía y revuelva bien para combinar.",
+        "extracto puro de vainilla"
+    ],
+    "tags": [
+        "High in Fiber",
+        "Kid Friendly",
+        "Cooking for 1 or 2",
+        "Vegetarian",
+        "Foodie",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "7g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "100mg",
+        "total_carbohydrate": "18g",
+        "fiber": "8g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chocolate-peanut-butter-chia-seed-pudding"
+}

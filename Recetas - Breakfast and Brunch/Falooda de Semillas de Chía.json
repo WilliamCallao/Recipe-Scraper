@@ -1,0 +1,86 @@
+{
+    "title": "Falooda de Semillas de Chía",
+    "keywords": "Vegetarian,Dessert,Breakfast and Brunch",
+    "prep_time": "PT8H",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Dessert",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_642_ChiaiSeedFalooda_IndianCuisine_050318.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "semillas de chia",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "leche baja en grasa",
+            "us_amount": "2 1/2 cup",
+            "metric_amount": "592 ml"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Frambuesas",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "jarabe de arce",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "agua de rosas",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "Fideos soba cocidos (enjuagados en agua fría)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "semillas de granada",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "En un recipiente grande, combine las semillas de chía y la leche. Deje en remojo las semillas de chía durante 8 horas o durante la noche en el refrigerador.",
+        "Después de remojar las semillas de chía, agregue el extracto de vainilla. Mezcle bien y reserve.",
+        "En un recipiente mediano, combine las frambuesas, el jarabe de arce, el agua de rosas y el limón. Revuelva suavemente para mezclar y reserve.",
+        "En un vaso corto, agrega una capa de mezcla de semillas de chía, una capa fina de mezcla de frambuesas y una capa fina de fideos soba. Repite el procedimiento para cada porción y decora cada porción con semillas de granada."
+    ],
+    "tags": [
+        "Indian",
+        "Vegetarian",
+        "Dessert",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "5g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "40mg",
+        "total_carbohydrate": "15g",
+        "fiber": "5g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chia-seed-falooda"
+}

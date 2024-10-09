@@ -1,0 +1,101 @@
+{
+    "title": "Pasta Cremosa de Calabaza",
+    "keywords": "Vegetarian,Quick & Easy,Main Dish,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Vegetarian",
+        "Quick & Easy",
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Creamy%20Pumpkin%20Pasta.png",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Queso parmesano (rallado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pasta rotini de trigo integral",
+            "us_amount": "14 oz",
+            "metric_amount": "396 ml"
+        },
+        {
+            "name": "POTENCIADOR DE SABOR Sirve los sándwiches cubiertos con salsa barbacoa o tu aderezo favorito para sándwiches. Ralla finamente 1/4 de cebolla en la ensalada de col.",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "nuez moscada molida",
+            "us_amount": "1/3 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Perejil fresco (picado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "mitad y mitad (o leche)",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "caldo de verduras",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Puré de calabaza",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "cebolla amarilla (cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta una sartén grande a fuego medio. Agrega el aceite, la cebolla y el ajo. Cocina, revolviendo con frecuencia, hasta que la cebolla se ablande, durante 4 a 5 minutos.",
+        "Agregue el puré de calabaza, el caldo, la crema y las especias. Cocine, revolviendo ocasionalmente, hasta que espese y se caliente por completo, aproximadamente 10 minutos. Agregue sal y pimienta si lo desea.",
+        "Mientras tanto, cocine la pasta según las instrucciones del paquete.",
+        "Mezcle la pasta cocida con la salsa y cubra con queso rallado y perejil."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Comfort Food",
+        "Kid Friendly",
+        "Italian",
+        "Vegetarian",
+        "Quick & Easy",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "280",
+        "total_fat": "9g",
+        "saturated_fat": "2.6g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "125mg",
+        "total_carbohydrate": "45g",
+        "fiber": "7g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/creamy-pumpkin-pasta"
+}

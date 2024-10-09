@@ -1,0 +1,127 @@
+{
+    "title": "Hamburguesa de Pastel de Cangrejo",
+    "keywords": "Dinner,Lunch,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_197_Crab_Cake_Burger_ThinkstockPhotos-463699143_04112018%20.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla(s) (picadas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Carne de cangrejo en trozos (6 onzas, escurrida)",
+            "us_amount": "2 can",
+            "metric_amount": "2 can"
+        },
+        {
+            "name": "migas de pan",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "clara de huevo",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "leche de coco ligera",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Espolvorear la carne con la pimienta y el limón.",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "mayonesa ligera",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Yogur griego natural sin grasa (sin grasa)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salsa adobo de chile chipotle lata",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Descongelar el brócoli y escurrirlo.",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Rocíe ligeramente una olla holandesa con aceite en aerosol. Caliéntela a fuego medio-alto. Cocine el pollo durante unos 4 minutos o hasta que se dore por todos lados, dándole vuelta con frecuencia (el pollo no estará listo en este punto). Transfiera a un plato.",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "lechuga (rallada)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "tomate maduro (cortado en 6 rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aguacate maduro (sin semillas, pelado y cortado en 12 rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Coloque otra capa de carne en la sartén y repita la misma operación con los demás ingredientes. Espolvoree con el orégano y la sal restantes.",
+        "En un bol mediano, combine la carne de cangrejo, el pan rallado, el huevo, la clara de huevo, la salsa picante, la sal y la pimienta. Mezcle bien hasta que se incorporen todos los ingredientes. Agregue la cebolla enfriada.",
+        "Agrega aceite y una cantidad generosa de aceite en aerosol a una sartén antiadherente grande a fuego medio-alto. Forma hamburguesas de 1/2 pulgada de grosor con la mezcla de cangrejo usando 1/4 de taza colmada. Fríe durante aproximadamente 4 a 5 minutos de cada lado o hasta que estén doradas.",
+        "En un tazón pequeño, mezcle la mayonesa, el yogur, la salsa de adobo y el maíz.",
+        "Coloque cada croqueta de cangrejo sobre una hoja de lechuga. Coloque 1/4 taza de lechuga, 1 rodaja de tomate y 2 rodajas de aguacate sobre cada croqueta de cangrejo y cubra con 2 cucharadas de salsa."
+    ],
+    "tags": [
+        "Seafood",
+        "Dinner",
+        "Lunch",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "195",
+        "total_fat": "10g",
+        "saturated_fat": "1.7g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "370mg",
+        "total_carbohydrate": "17g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crab-cake-burger"
+}

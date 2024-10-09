@@ -1,0 +1,132 @@
+{
+    "title": "Sancocho Costero",
+    "keywords": "Soup,One Pot,Main Dish,Lunch,Dinner,Budget Friendly",
+    "prep_time": "PT20M",
+    "cook_time": "PT50M",
+    "categories": [
+        "Soup",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1739-espanol-diabetic-sancocho-costa_Cocinando_20620.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "repollo finamente picado",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "guisantes frescos o congelados",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "zumo de lima",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "filete de lenguado (cortado en trozos del tamaño de un bocado)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "Pescado blanco de carne firme (como fletán, lubina, róbalo o bacalao) (cortado en trozos del tamaño de un bocado)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "plátano maduro (cortado en trozos de 1 pulgada)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "zanahorias (en cubos)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "salsa pesto",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "mayonesa de aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "yuca (pelada y cortada en 4 trozos)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "cebollas en rodajas finas",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "jugo de almejas",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "cilantro fresco picado (uso dividido)",
+            "us_amount": "1 tbsp plus 1/2 cup",
+            "metric_amount": "1 tbsp plus 1/2 cup"
+        },
+        {
+            "name": "Pimiento rojo dulce o picante finamente picado",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Cebolla (pelada y picada fina, uso dividido)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva virgen extra",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Combine la otra mitad de la cebolla y 1/2 taza de cilantro en un tazón pequeño. Adorne cada porción de sopa con 1 cucharada de la mezcla.",
+        "tomates uva",
+        "Añade la yuca y la leche, tapa y deja cocinar a fuego lento durante 20 minutos.",
+        "Calienta el aceite en una olla grande y saltea la mitad de la cebolla, el ajo, la pimienta y 1 cucharada de cilantro durante 3 o 4 minutos. Agrega el jugo de almejas y el agua y deja que hierva."
+    ],
+    "tags": [
+        "Latin American",
+        "Soup",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "205",
+        "total_fat": "3g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "31g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/coastal-sancocho"
+}

@@ -1,0 +1,96 @@
+{
+    "title": "Wraps de Pollo y Alcachofa Bajos en Carbohidratos",
+    "keywords": "Sandwiches,Foodie,Dinner,Lunch,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Sandwiches",
+        "Foodie",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/342-Low-Carb-Artichoke-Chicken-Wraps_485862877_04112018%20.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "huevos",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "claras de huevo",
+            "us_amount": "4 whole",
+            "metric_amount": "4 whole"
+        },
+        {
+            "name": "leche desnatada",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "harina de coco (tamizada)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "pechugas de pollo (cocidas, desmenuzadas)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Corazones de alcachofa (picados, escurridos y enjuagados)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cebolla roja (picada)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "espinaca baby (picada)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Aderezo italiano para ensaladas (sin grasa)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "tomate(s) (picado)",
+        "Mientras reposa la masa del wrap, mezcle el pollo, los corazones de alcachofa, la cebolla morada, las espinacas tiernas y el aderezo italiano. Mantenga el relleno refrigerado hasta que lo necesite.",
+        "Agrega el aceite en aerosol a una sartén antiadherente de 10 pulgadas a fuego medio. Deja que la sartén se caliente hasta que una gota de agua chisporrotee en el fondo de la sartén.",
+        "Maicena",
+        "Divida la mezcla de pollo de manera uniforme entre cada wrap (aproximadamente 1/2 taza de relleno por wrap) y enrolle."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Sandwiches",
+        "Foodie",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "4.5g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "80mg",
+        "sodium": "400mg",
+        "total_carbohydrate": "8g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/low-carb-artichoke-chicken-wraps"
+}

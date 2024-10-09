@@ -1,0 +1,80 @@
+{
+    "title": "Pollo con Chili Dulce, Batatas y Brócoli",
+    "keywords": "Dinner,Budget Friendly,Main Dish",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Dinner",
+        "Budget Friendly",
+        "Main Dish"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/Recipe%20Size%20%283%29.png",
+        "Sweet Potatoes",
+        "and Broccoli\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "batatas (peladas y cortadas en cubitos medianos)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "aceite de oliva (dividido)",
+            "us_amount": "2 Tbsp + 1 tsp",
+            "metric_amount": "2 Tbsp + 1 tsp"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel (cortadas en 4 filetes finos)",
+            "us_amount": "2 breasts, approx. 8 oz.",
+            "metric_amount": "2 breasts, approx. 8 oz."
+        },
+        {
+            "name": "brócoli corona (dividido en floretes (aproximadamente 1 libra))",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "Salsa de chile dulce",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "mayonesa ligera",
+        "Mezcle las batatas con 1 cucharada de aceite de oliva y sal. Añádalas a la bandeja para hornear en una sola capa. Colóquelas en el horno y hornéelas durante 10 minutos.",
+        "Mientras tanto, precaliente una sartén grande a fuego medio-alto.",
+        "Una vez que la sartén esté caliente, agrega 1 cucharada de aceite y el pollo. Dorarlo hasta que esté dorado por ambos lados (pero sin que esté completamente cocido). Retirarlo del fuego.",
+        "Una vez que las batatas hayan estado horneándose durante 10 minutos, retira la bandeja para hornear y agrega el pollo y el brócoli. Rocía el brócoli con la cucharadita restante de aceite de oliva.",
+        "Coloque la bandeja para hornear en el horno y continúe cocinando hasta que el pollo esté bien cocido y las verduras tiernas.",
+        "Tomates picados en caja sin sal agregada o tomates enlatados cortados en cubitos pequeños"
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Comfort Food",
+        "Dinner",
+        "Budget Friendly",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "290",
+        "total_fat": "11g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "350mg",
+        "total_carbohydrate": "20g",
+        "fiber": "4g",
+        "sugar": "8g",
+        "added_sugar": "4g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-chili-chicken-sweet-potatoes-and-broccoli"
+}

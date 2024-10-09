@@ -1,0 +1,74 @@
+{
+    "title": "Verduras de Col Sur",
+    "keywords": "Budget Friendly,Holidays & Entertaining,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "PT2H",
+    "categories": [
+        "Budget Friendly",
+        "Holidays & Entertaining",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1682-diabetic-southern-collard-greens_new-soul-food-cookbook_Thinkstock-98225828_103018_1021x779.jpg",
+    "servings": "14 Servings",
+    "ingredients": [
+        {
+            "name": "caldo de res (bajo en sodio)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "col rizada (limpia y picada)",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla grande (picada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "hojas de laurel",
+        "Precaliente el horno a 425°F."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Comfort Food",
+        "Budget Friendly",
+        "Holidays & Entertaining",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "40",
+        "total_fat": "1g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "1mg",
+        "sodium": "85mg",
+        "total_carbohydrate": "6g",
+        "fiber": "3g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/southern-collard-greens"
+}

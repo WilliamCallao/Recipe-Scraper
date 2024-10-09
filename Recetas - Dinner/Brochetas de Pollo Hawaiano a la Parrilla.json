@@ -1,0 +1,102 @@
+{
+    "title": "Brochetas de Pollo Hawaiano a la Parrilla",
+    "keywords": "Main Dish,Dinner,Lunch",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Main Dish",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2125_Grilled%20Hawaiin%20Chicken%20Kabobs%20-%20Original%20Photo.jpeg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "En una sartén antiadherente, calienta el aceite y saltea el ajo y el pimiento morrón. Retira y reserva.",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salsa de soja (la más baja en sodio disponible)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "filete de solomillo deshuesado",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Edulcorante granulado Splenda®",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "limón (jugo)",
+            "us_amount": "1/2 whole",
+            "metric_amount": "1/2 whole"
+        },
+        {
+            "name": "ajo (dientes picados)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Jengibre en rodajas (pelado y picado)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "chile jalapeño (sin semillas, picado)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "Piña fresca (trozos)",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "cebolla roja (tamaño mediano, cortada en trozos de 1 pulgada)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "pimientos morrones (rojos y verdes, cortados en trozos de 1 pulgada)",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        }
+    ],
+    "instructions": [
+        "Remojar 10 brochetas de madera en agua durante al menos 30 minutos.",
+        "Mientras tanto, coloque el pollo en una bolsa grande con cierre hermético. Agregue aceite, salsa de soja, vinagre, edulcorante granulado Splenda, jugo de limón, ajo, jengibre y jalapeño. Masajee la mezcla sobre el pollo para cubrirlo por completo. Deje marinar a temperatura ambiente durante al menos 1 hora o refrigérelo durante la noche.",
+        "Saque el pollo de la marinada. Hierva la marinada y resérvela para pincelar las brochetas mientras las asa.",
+        "jengibre fresco picado",
+        "Calienta la parrilla a fuego medio. Asa las brochetas, volteándolas de vez en cuando y pincelándolas con la marinada reservada hasta que estén completamente cocidas, aproximadamente entre 10 y 15 minutos. Sirve y disfruta."
+    ],
+    "tags": [
+        "Caribbean",
+        "Main Dish",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "3g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "90mg",
+        "total_carbohydrate": "8g",
+        "fiber": "1g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "15g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-hawaiian-chicken-kabobs"
+}

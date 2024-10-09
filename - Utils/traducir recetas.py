@@ -1,11 +1,11 @@
 import os
 import csv
 import json
-from googletrans import Translator
+from deep_translator import GoogleTranslator
 from concurrent.futures import ThreadPoolExecutor
 import shutil
 
-translator = Translator()
+translator = GoogleTranslator(source='auto', target='es')
 
 def load_title_translations(csv_file):
     title_dict = {}
@@ -20,10 +20,9 @@ def load_title_translations(csv_file):
         print(f"Error al cargar el archivo CSV '{csv_file}': {e}")
     return title_dict
 
-def translate_text(text, dest_language="es"):
+def translate_text(text):
     try:
-        translated = translator.translate(text, dest=dest_language)
-        return translated.text
+        return translator.translate(text)
     except Exception as e:
         print(f"Error al traducir el texto: {e}")
         return text
@@ -43,12 +42,10 @@ def translate_recipe(input_file, output_file, fail_folder, title_dict):
         if "ingredients" in recipe:
             for ingredient in recipe["ingredients"]:
                 if "name" in ingredient:
-                    translated_name = translate_text(ingredient["name"])
-                    ingredient["name"] = translated_name
+                    ingredient["name"] = translate_text(ingredient["name"])
         
         if "instructions" in recipe:
-            translated_instructions = [translate_text(instruction) for instruction in recipe["instructions"]]
-            recipe["instructions"] = translated_instructions
+            recipe["instructions"] = [translate_text(instruction) for instruction in recipe["instructions"]]
         
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(recipe, f, ensure_ascii=False, indent=4)

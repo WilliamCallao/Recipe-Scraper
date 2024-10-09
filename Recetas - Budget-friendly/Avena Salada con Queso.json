@@ -1,0 +1,105 @@
+{
+    "title": "Avena Salada con Queso",
+    "keywords": "Breakfast and Brunch,Budget Friendly,Easy Pantry Recipes,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Easy Pantry Recipes",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Diabetic%20Savory%20Oatmeal.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva (dividido)",
+            "us_amount": "1 tablespoon & 2 teaspoons",
+            "metric_amount": "1 tablespoon & 2 teaspoons"
+        },
+        {
+            "name": "avena cortada en acero",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "zanahorias (ralladas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "pimiento rojo (cortado en cubitos pequeños)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "Pimienta",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "4 large",
+            "metric_amount": "4 large"
+        },
+        {
+            "name": "requesón bajo en grasa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Queso Monterey Jack o pepper jack (rallado bajo en grasa)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "aguacate (cortado en cuartos)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "Sriracha (opcional, para rociar)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "pimiento morrón naranja (picado)",
+        "Añade el agua y deja que hierva, luego reduce el fuego a fuego lento. Cocina, revolviendo de vez en cuando, hasta que la avena esté blanda, aproximadamente 20 minutos.",
+        "Saque el pollo de la olla y desmenúcelo o córtelo en trozos. Vuelva a agregar el pollo a la olla y revuelva.",
+        "Calienta una sartén antiadherente grande a fuego medio y agrega el resto del aceite de oliva. Casca los huevos en la sartén y cocínalos hasta que las claras estén sólidas.",
+        "Cuando la avena esté lista, agregue el requesón y las verduras cocidas.",
+        "Divida la avena en tazones y cubra con los huevos, el aguacate y el queso."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Easy Pantry Recipes",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "450",
+        "total_fat": "22g",
+        "saturated_fat": "5g",
+        "trans_fat": "0g",
+        "cholesterol": "200mg",
+        "sodium": "390mg",
+        "total_carbohydrate": "40g",
+        "fiber": "8g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cheesy-savory-oatmeal"
+}

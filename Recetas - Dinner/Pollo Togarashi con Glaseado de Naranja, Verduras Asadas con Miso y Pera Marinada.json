@@ -1,0 +1,114 @@
+{
+    "title": "Pollo Togarashi con Glaseado de Naranja, Verduras Asadas con Miso y Pera Marinada",
+    "keywords": "Meal Kit Recipes,Main Dish,Foodie,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Meal Kit Recipes",
+        "Main Dish",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1884-Diabetic-Togarashi-Chicken-Miso-Veg_BA_012520.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Miel",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "judías verdes frescas",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "champiñones cremini (baby bella)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "zanahorias",
+            "us_amount": "3/4 lbs",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "col lombarda",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "naranja de ombligo",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "pera",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "vino de arroz (mirin)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Rúcula",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "miso blanco",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "aceite de oliva (dividido)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "agua tibia",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "togarashi",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Prepara los ingredientes y marina la pera: saca la miel del refrigerador para que alcance la temperatura ambiente. Coloca una rejilla de horno en el centro del horno y precalienta a 450 °F. Lava y seca los productos frescos. Corta y desecha los extremos del tallo de las judías verdes; córtalas por la mitad transversalmente. Corta los champiñones en trozos del tamaño de un bocado. Pela las zanahorias y córtalas transversalmente en trozos de 1/2 pulgada de grosor. Corta y desecha el corazón del repollo; corta las hojas en dados medianos. Combina en un bol grande. Corta la naranja por la mitad transversalmente; exprime el jugo en un bol aparte. Ralla la pera con el lado grande de un rallador de caja, desechando el corazón. En un bol grande, bate el mirin, el aceite de sésamo y la miel (amasa el paquete antes de abrirlo); sazona con sal y pimienta. Agrega la pera rallada y revuelve para cubrir. Deja marinar, revolviendo ocasionalmente, al menos 10 minutos.",
+        "Asa las brochetas durante unos 10 a 15 minutos, dándoles vuelta de vez en cuando, hasta que el tofu esté dorado y las verduras estén carbonizadas y tiernas. Rocía las brochetas con el resto de la marinada mientras las asas para que tengan más sabor.",
+        "Cocina y glasea el pollo: Mientras tanto, seca el pollo con toallas de papel; sazona ambos lados con sal (opcional), pimienta y suficiente togarashi para cubrirlo (puede que te sobre). En una sartén grande (antiadherente, si tienes una), calienta 1 cucharada de aceite de oliva a fuego medio-alto hasta que esté caliente. Agrega el pollo sazonado. Cocina de 6 a 7 minutos, o hasta que se dore. Dale la vuelta y cocina 4 minutos. Agrega el jugo de naranja (con cuidado, ya que el líquido puede salpicar). Cocina, vertiendo el jugo con frecuencia sobre el pollo, de 2 a 3 minutos, o hasta que el pollo esté cubierto y bien cocido (un termómetro de lectura instantánea debe registrar 165 °F). Transfiere el pollo cocido a una tabla de cortar.",
+        "Corte el pollo en rodajas y sirva el plato: corte el pollo glaseado en rodajas transversales. Sirva las verduras asadas con el pollo en rodajas y la pera marinada (incluido el líquido) encima. ¡Disfrute!"
+    ],
+    "tags": [
+        "High in Fiber",
+        "Asian",
+        "Meal Kit Recipes",
+        "Main Dish",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "390",
+        "total_fat": "8g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "125mg",
+        "sodium": "490mg",
+        "total_carbohydrate": "37g",
+        "fiber": "9g",
+        "sugar": "20g",
+        "added_sugar": "1g",
+        "protein": "44g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/togarashi-chicken-orange-glaze-miso-roasted-vegetables-marinated-pear"
+}

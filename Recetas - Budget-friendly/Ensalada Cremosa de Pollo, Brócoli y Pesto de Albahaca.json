@@ -1,0 +1,90 @@
+{
+    "title": "Ensalada Cremosa de Pollo, Brócoli y Pesto de Albahaca",
+    "keywords": "Salads,Quick & Easy,Lunch,Budget Friendly",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Quick & Easy",
+        "Lunch",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recipe%20Size_4.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Jugo de limón pequeño",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "frijoles pintos o rojos sin sal añadida (enjuagados y escurridos)",
+            "us_amount": "1/2 small",
+            "metric_amount": "1/2 small"
+        },
+        {
+            "name": "Pollo cocido (picado)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "brócoli fresco (picado)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "salsa pesto",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "mayonesa de aceite de oliva",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Maicena",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "condimento italiano",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Edulcorante granulado Splenda®",
+        "Maicena",
+        "Añade el pesto, la mayonesa, la sal y la pimienta al bol con la chalota y el jugo de limón. Bate para mezclar y vierte en el bol con el pollo y el brócoli.",
+        "Sirva la ensalada de pollo sobre verduras mixtas y tomates cherry."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Comfort Food",
+        "Salads",
+        "Quick & Easy",
+        "Lunch",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "14g",
+        "saturated_fat": "2.7g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "420mg",
+        "total_carbohydrate": "9g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/creamy-chicken-broccoli-basil-pesto-salad"
+}

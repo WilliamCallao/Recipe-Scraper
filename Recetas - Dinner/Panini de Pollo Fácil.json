@@ -1,0 +1,86 @@
+{
+    "title": "Panini de Pollo Fácil",
+    "keywords": "Quick & Easy,Sandwiches,Lunch,Dinner,Budget Friendly",
+    "prep_time": "PT5M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Quick & Easy",
+        "Sandwiches",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1810-diabetic-chicken-panini_12-week-cookbook_DFJulAug_062119.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "mayonesa ligera",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pan integral crujiente",
+            "us_amount": "8 slices (about 1 oz each)",
+            "metric_amount": "8 slices (about 1 oz each)"
+        },
+        {
+            "name": "estragón fresco",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "queso suizo bajo en grasa",
+            "us_amount": "4 slices (6 oz total)",
+            "metric_amount": "4 slices (6 oz total)"
+        },
+        {
+            "name": "pechuga de pollo cocida (en rodajas)",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Mientras tanto, rocíe ligeramente una sartén grande con aceite en aerosol. Cocine la cebolla, el pimiento morrón, el apio, el tomillo y el ajo a fuego medio-alto durante 3 minutos o hasta que la cebolla esté tierna, revolviendo de vez en cuando.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Arma los sándwiches: Unta 1 cucharada de mayonesa en cada una de las 4 rebanadas de pan. Cubre cada una con el estragón, el queso y el pollo, dividiendo los ingredientes de manera uniforme entre las cuatro rebanadas. Espolvorea cada una con sal y pimienta y luego cubre cada sándwich con las rebanadas de pan restantes.",
+        "Rocíe una sartén antiadherente (lo suficientemente grande como para que quepan los paninis) con aceite de oliva en aerosol y caliéntela a fuego lento. Agregue los paninis y presione hacia abajo con una tapa u otra sartén limpia. Cocine durante 2 minutos, dé vuelta y presione nuevamente. Cocine durante otros 2 minutos. (También puede usar una prensa para paninis y cocinar hasta que el queso se derrita y el pan esté dorado).",
+        "Corte cada panini por la mitad y sirva cada mitad con ensalada."
+    ],
+    "tags": [
+        "Italian",
+        "Grilling",
+        "Comfort Food",
+        "Quick & Easy",
+        "Sandwiches",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "9g",
+        "saturated_fat": "3g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "330mg",
+        "total_carbohydrate": "14g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "28g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/easy-chicken-panini"
+}

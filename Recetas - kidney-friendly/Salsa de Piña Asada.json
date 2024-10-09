@@ -1,0 +1,82 @@
+{
+    "title": "Salsa de Piña Asada",
+    "keywords": "Vegetarian,Vegan,Snacks,Salad Dressings & Condiments,Quick & Easy,Gluten-Free,Foodie,Budget Friendly,Appetizers",
+    "prep_time": "PT6M",
+    "cook_time": "PT2M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Snacks",
+        "Salad Dressings & Condiments",
+        "Quick & Easy",
+        "Gluten-Free",
+        "Foodie",
+        "Budget Friendly",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/diabetic-roasted-pineapple-salsa-tex-mex-cookbook_080318_1021x779.jpg",
+    "servings": "20 Servings",
+    "ingredients": [
+        {
+            "name": "Trozos de piña enlatada (escurridos y picados)",
+            "us_amount": "2 cups",
+            "metric_amount": "2 cups"
+        },
+        {
+            "name": "cebolla roja (picada)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pimiento rojo (cortado en cubitos)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "chile jalapeño (sin semillas y picado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla verde (cebolleta) (solo la parte verde, picada)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        }
+    ],
+    "instructions": [
+        "En una sartén a fuego alto, cocina los trozos de piña hasta que estén ligeramente carbonizados, aproximadamente 2 minutos. Retíralos de la sartén y déjalos enfriar a temperatura ambiente.",
+        "Refrigere en un recipiente hermético, revolviendo ocasionalmente, durante 1 hora o hasta 24 horas.",
+        "Coloque los trozos de piña en un bol grande. Agregue la cebolla, el pimiento morrón, el jalapeño y las cebollas verdes. Mezcle bien."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Low Sodium",
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Mexican/Southwestern",
+        "Vegetarian",
+        "Vegan",
+        "Snacks",
+        "Salad Dressings & Condiments",
+        "Quick & Easy",
+        "Gluten-Free",
+        "Foodie",
+        "Budget Friendly",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "15",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "3g",
+        "fiber": "0g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-pineapple-salsa"
+}

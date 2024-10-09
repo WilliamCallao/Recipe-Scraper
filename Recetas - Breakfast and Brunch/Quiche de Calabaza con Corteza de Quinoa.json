@@ -1,0 +1,100 @@
+{
+    "title": "Quiche de Calabaza con Corteza de Quinoa",
+    "keywords": "Vegetarian,Foodie,Holidays & Entertaining,Breakfast and Brunch",
+    "prep_time": "PT1H",
+    "cook_time": "PT1H",
+    "categories": [
+        "Vegetarian",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/421-diabetic-pumpkin-quiche-quinoa-crust_100418_1021x779.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "quinua cocida",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "clara de huevo",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "quinoa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "huevos grandes",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Moras congeladas frescas o descongeladas",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "nuez moscada molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Puré de calabaza enlatado",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Corte el trozo de pepino de 3 pulgadas de largo en cuartos a lo largo. Luego corte los cuatro trozos (de 3 pulgadas de largo) en rodajas finas en sentido transversal.",
+        "Para preparar la masa, mezcle la quinoa cocida, el queso crema y la clara de huevo en un recipiente mediano hasta que se integren bien. Cubra y refrigere durante 1 hora.",
+        "Presione la mezcla de corteza de quinoa en el fondo y los lados del molde para tarta. Hornee la corteza durante 10 minutos, retírela del horno y déjela a un lado. Baje la temperatura del horno a 350 grados F.",
+        "En un bol grande, mezcle los ingredientes restantes para crear el relleno de quiche. Bata hasta que estén bien mezclados y espumosos.",
+        "Vierta suavemente la mezcla de calabaza sobre la base de quinoa parcialmente cocida. Hornee durante 45 a 50 minutos o hasta que esté listo."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Comfort Food",
+        "Vegetarian",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "105",
+        "total_fat": "3g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "125mg",
+        "total_carbohydrate": "14g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pumpkin-quiche-quinoa-crust"
+}

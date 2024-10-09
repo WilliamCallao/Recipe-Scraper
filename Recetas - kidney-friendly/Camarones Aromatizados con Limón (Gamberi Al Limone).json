@@ -1,0 +1,82 @@
+{
+    "title": "Camarones Aromatizados con Limón (Gamberi Al Limone)",
+    "keywords": "Snacks,Sides,Quick & Easy,Holidays & Entertaining,Foodie,Appetizers",
+    "prep_time": "PT5M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Snacks",
+        "Sides",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_759_Italian%20Diabetes%20Cookbook_LemonScentedShrimp_03122018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Camarones pelados y desvenados",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "Sal kosher",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Hojuelas de chile rojo triturado, al gusto",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Mientras la masa sube, prepare una parrilla interior o exterior. Si utiliza una parrilla de carbón, precaliente también el horno a 300 grados.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "En un recipiente mediano, mezcle el aceite de oliva, el vinagre balsámico, el ajo y la albahaca. Reserve.",
+        "Cuando el aceite de oliva comience a desprender su aroma, agregue los camarones, la sal, la pimienta negra y las hojuelas de chile rojo trituradas. Cocine los camarones de un lado hasta que la cola del camarón esté de un color rosa brillante, aproximadamente 1 a 2 minutos.",
+        "Dale la vuelta a los camarones y exprime el jugo de limón por encima. Cocina los camarones hasta que desaparezca todo el color gris y estén rosados ​​y bien cocidos, aproximadamente 1 o 2 minutos más. En este punto, los camarones deben estar ligeramente más enrollados que cuando estaban crudos. Los camarones seguirán chisporroteando en la sartén.",
+        "Cuando estén completamente cocidos, transfiera los camarones a una fuente para servir, adorne con ralladura de limón y sirva inmediatamente."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Mediterranean",
+        "Italian",
+        "Snacks",
+        "Sides",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "3g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "140mg",
+        "sodium": "110mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/lemon-scented-shrimp-gamberi-al-limone"
+}

@@ -1,0 +1,92 @@
+{
+    "title": "Cupcakes de Lasagna",
+    "keywords": "Dinner,Foodie,Main Dish,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/recId_757_LasagneCupcakes_PerfectComfortCollection_022618.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "Envoltorios de wonton",
+            "us_amount": "24",
+            "metric_amount": "24"
+        },
+        {
+            "name": "queso ricotta (bajo en grasa)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "tomillo seco",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "huevos (batidos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Orégano seco (seco)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "albahaca fresca",
+            "us_amount": "24 leaves",
+            "metric_amount": "24 leaves"
+        },
+        {
+            "name": "salsa marinara en frasco (baja en sodio)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Queso parmesano (rallado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375 °F. Rocíe con aceite en aerosol un molde para muffins estándar de 12 tazas.",
+        "Añade un envoltorio de wonton al fondo de cada taza, presionando hacia el centro con los extremos puntiagudos hacia arriba.",
+        "pavo molido magro",
+        "Hornee los muffins de lasaña durante 18 a 20 minutos hasta que estén dorados y burbujeantes. Retírelos del horno y déjelos enfriar durante 5 minutos. Pase un cuchillo alrededor de cada molde para despegarlos. Retírelos del molde y sirva."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Comfort Food",
+        "Italian",
+        "Dinner",
+        "Foodie",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "3g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "14g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/lasagna-cupcakes"
+}

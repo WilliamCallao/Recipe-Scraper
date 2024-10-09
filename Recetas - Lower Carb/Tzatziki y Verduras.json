@@ -1,0 +1,89 @@
+{
+    "title": "Tzatziki y Verduras",
+    "keywords": "Appetizers,Holidays & Entertaining,Salad Dressings & Condiments,Gluten-Free,Snacks,Sides",
+    "prep_time": "PT8M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Salad Dressings & Condiments",
+        "Gluten-Free",
+        "Snacks",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_101218969.jpg",
+    "servings": "16 Servings",
+    "ingredients": [
+        {
+            "name": "yogur natural sin grasa",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "pepino(s) (pelados, sin semillas y picados)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "En un tazón grande, combine los duraznos, los tomates, los tomates cherry y la cebolla roja y mezcle suavemente.",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "eneldo seco (puedes usar 1 cucharadita de eneldo fresco picado en su lugar)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "En un recipiente mediano, combine los ingredientes restantes. Vierta la mezcla de mayonesa sobre el atún y mezcle bien.",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "verduras frescas ((elija una variedad: judías verdes frescas (ligeramente cocidas al vapor), pimientos verdes, rojos o amarillos, zanahorias, apio, calabacín, calabaza amarilla, tomates, pepinos, rábanos, brócoli y coliflor.))",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta una olla grande a fuego medio-alto. Agrega el caldo, el aceite de sésamo, la salsa de soja, la salsa de chile y ajo y la salsa de pescado.",
+        "El yogur quedará espeso. Deseche el líquido acumulado debajo o utilícelo en sopas o panes. Retire el yogur del filtro y colóquelo en un recipiente pequeño.",
+        "Mezcle pepino, ajo, eneldo, sal, jugo de limón y aceite de oliva con el yogur. Refrigere durante una hora antes de servir.",
+        "Sirva con una variedad de verduras como: judías verdes frescas (ligeramente cocidas al vapor), pimientos verdes, rojos o amarillos, zanahorias, apio, calabacín, calabaza amarilla, tomates, pepinos, rábanos, brócoli y coliflor."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Low Sodium",
+        "Mediterranean",
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Salad Dressings & Condiments",
+        "Gluten-Free",
+        "Snacks",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "20",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "57mg",
+        "total_carbohydrate": "3g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "1.5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tzatziki-and-vegetables"
+}

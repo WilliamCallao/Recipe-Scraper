@@ -1,0 +1,89 @@
+{
+    "title": "Elote a la Parrilla con Chile y Lima",
+    "keywords": "Vegetarian,Vegan,Sides,Gluten-Free",
+    "prep_time": "PT40M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/23Sides_Grilledcornwithchileandlime.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "cilantro fresco (picado, para decorar)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "mozzarella parcialmente descremada (para decorar)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "pimentón ahumado",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "mazorcas de maíz (descascaradas)",
+            "us_amount": "4 med",
+            "metric_amount": "4 med"
+        }
+    ],
+    "instructions": [
+        "Precaliente la parrilla a fuego medio-alto.",
+        "En un tazón pequeño, mezcle el aceite de oliva, el chile en polvo, el pimentón ahumado, la ralladura de lima, el jugo de lima y la sal.",
+        "Unte las mazorcas de maíz con la marinada, asegurándose de cubrirlas uniformemente.",
+        "Deje marinar el maíz durante al menos 30 minutos.",
+        "Coloque el maíz marinado en la parrilla precalentada. Áselo durante unos 15 minutos, dándole vuelta de vez en cuando, hasta que el maíz esté carbonizado y bien cocido.",
+        "Retire el maíz asado del fuego.",
+        "chuletas de cerdo deshuesadas (de aproximadamente 1/2 pulgada de grosor)"
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Mexican/Southwestern",
+        "Grilling",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "4g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "20g",
+        "fiber": "4g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-corn-chile-and-lime"
+}

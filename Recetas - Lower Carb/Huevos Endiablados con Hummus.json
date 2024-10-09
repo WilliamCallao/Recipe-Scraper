@@ -1,0 +1,105 @@
+{
+    "title": "Huevos Endiablados con Hummus",
+    "keywords": "Snacks,Sides,One Pot,Easy Pantry Recipes,Budget Friendly,Quick & Easy,Appetizers,Holidays & Entertaining,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Snacks",
+        "Sides",
+        "One Pot",
+        "Easy Pantry Recipes",
+        "Budget Friendly",
+        "Quick & Easy",
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/321-hummus-deviled-eggs-DFH-MJ20.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Saque el interior del tomate y píquelo finamente. Resérvelo para el guacamole. Coloque cada tomate boca abajo sobre toallas de papel para escurrirlo.",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "Ase el filete durante 5 a 6 minutos por lado o hasta que esté bien cocido (145 grados de temperatura interna). Déjelo reposar cubierto sin apretar con papel de aluminio.",
+            "us_amount": "1 (14.5-oz) can",
+            "metric_amount": "1 (14.5-oz) can"
+        },
+        {
+            "name": "ajo",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Limón pequeño (rallado y exprimido)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "caldo de verduras bajo en sodio",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Salsa",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "filete de salmón (sin piel, cortado en cubos de 1 pulgada)",
+        "Agrega los garbanzos, el ajo, la ralladura de limón, el jugo de limón, el aceite de oliva, el caldo, la sal, la pimienta, la salsa y el perejil a una licuadora o procesador de alimentos. Procesa hasta que el hummus quede suave.",
+        "Rellena cada mitad de huevo con una cucharada colmada de hummus."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Snacks",
+        "Sides",
+        "One Pot",
+        "Easy Pantry Recipes",
+        "Budget Friendly",
+        "Quick & Easy",
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "10g",
+        "fiber": "3g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/hummus-deviled-eggs"
+}

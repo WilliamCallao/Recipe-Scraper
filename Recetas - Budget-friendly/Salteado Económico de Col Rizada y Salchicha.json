@@ -1,0 +1,96 @@
+{
+    "title": "Salteado Económico de Col Rizada y Salchicha",
+    "keywords": "Easy Pantry Recipes,Main Dish,Lunch,One Pot,Budget Friendly,Dinner,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Main Dish",
+        "Lunch",
+        "One Pot",
+        "Budget Friendly",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_125_Budget-Friendly_Kale_and_Sausage%20Saut_PNCImages_02272018.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Salchicha de pollo al estilo italiano (cortada en cubitos)",
+            "us_amount": "3 links (about 3 oz each)",
+            "metric_amount": "3 links (about 3 oz each)"
+        },
+        {
+            "name": "Recorta y corta las coles de Bruselas en tiras finas; añádelas al bol con el aderezo.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla (cortada en cubitos)",
+            "us_amount": "1 (10-oz) bag",
+            "metric_amount": "1 (10-oz) bag"
+        },
+        {
+            "name": "chuletas de cerdo magras y deshuesadas",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "rodajas de tomate",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Añade aceite de oliva a una sartén grande a fuego medio.",
+        "Orégano seco (seco)",
+        "Añade la col rizada y el caldo de pollo y saltea hasta que la col rizada se ablande.",
+        "Agregue los ingredientes restantes y saltee durante 3 o 4 minutos más para calentar los frijoles.",
+        "Sugerencia de servicio: Sirva con un acompañamiento de arroz integral para completar la comida."
+    ],
+    "tags": [
+        "Lower Carb",
+        "High in Fiber",
+        "Easy Pantry Recipes",
+        "Main Dish",
+        "Lunch",
+        "One Pot",
+        "Budget Friendly",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "6g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "35mg",
+        "sodium": "410mg",
+        "total_carbohydrate": "17g",
+        "fiber": "5g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-kale-and-sausage-saute"
+}

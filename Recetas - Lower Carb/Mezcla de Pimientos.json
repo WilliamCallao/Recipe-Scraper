@@ -1,0 +1,83 @@
+{
+    "title": "Mezcla de Pimientos",
+    "keywords": "Budget Friendly,Dinner,Lunch,Quick & Easy,Sides,Vegan,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1797-diabetic-Moroccan-Lentils-pepper-medley_MediterraneanCkbk_50320.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "pimientos morrones rojos, amarillos y verdes mezclados (cortados en tiras finas)",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "6 diente",
+            "metric_amount": "6 diente"
+        },
+        {
+            "name": "aceitunas verdes deshuesadas y cortadas en cubitos",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "En un bol mediano, bate el sustituto de huevo con la sal y la pimienta negra, luego viértelo uniformemente en los moldes para muffins forrados con papas. Cubre cada molde con un poco de la mezcla de salchichas, tocino y queso.",
+            "us_amount": "1/4 tsp, or to taste",
+            "metric_amount": "1/4 tsp, or to taste"
+        }
+    ],
+    "instructions": [
+        "Cuñas de queso suizo ligero y cremoso",
+        "spray antiadherente para cocinar",
+        "Incorpore vinagre balsámico. Pruebe y añada sal si es necesario."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Veggie Rich",
+        "Mediterranean",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "6g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "140mg",
+        "total_carbohydrate": "7g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mixed-pepper-medley"
+}

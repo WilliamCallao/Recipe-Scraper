@@ -1,0 +1,89 @@
+{
+    "title": "Salteado de Carne y Brócoli",
+    "keywords": "Budget Friendly,Dinner,Easy Pantry Recipes,Main Dish,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2052-diabetic-Beef-Broccoli-Stir-Fry_DaVita_040821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "carne de res asada cocida (en rodajas)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "chalotes (picados finamente)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "aceite de cacahuete",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Solomillo de ternera magro (cortado en trozos del tamaño de un bocado)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Maicena",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salsa de soja baja en sodio",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Prepare el arroz según las instrucciones del paquete (o comience con 2 tazas de arroz cocido).",
+        "Calienta en el microondas la mezcla de verduras congeladas para saltear en la configuración de descongelación durante 3 a 4 minutos para descongelarla.",
+        "En una sartén o wok, calienta el aceite y saltea el ajo hasta que desprenda un aroma agradable. Añade la mezcla de verduras y cocina a fuego alto, revolviendo constantemente, durante unos 5 minutos. Retira de la sartén y reserva.",
+        "Añade la carne a la sartén y cocínala hasta que esté cocida a tu gusto, o aproximadamente 7 minutos.",
+        "Prepare la salsa combinando el caldo de pollo, la maicena y la salsa de soja en un bol.",
+        "Agregue las verduras cocidas y la salsa a la sartén con la carne. Caliente y revuelva hasta que la salsa espese. Sirva el salteado con 1/2 taza de arroz cocido."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Budget Friendly",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "373",
+        "total_fat": "17g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "42mg",
+        "sodium": "350mg",
+        "total_carbohydrate": "37g",
+        "fiber": "5.1g",
+        "sugar": "0.5g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/beef-broccoli-stir-fry"
+}

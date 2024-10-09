@@ -1,0 +1,111 @@
+{
+    "title": "Salteado de Pollo Maestro",
+    "keywords": "Dinner,Quick & Easy,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Dinner",
+        "Quick & Easy",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_766_MasterStirFryChickenStirFry_PerfectComfortCollection_022618.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "sal (opcional)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "salsa de soja baja en sodio (uso dividido)",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "vinagre de arroz",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1 tbsp plus 2 tsp",
+            "metric_amount": "1 tbsp plus 2 tsp"
+        },
+        {
+            "name": "Caldo de pollo bajo en sodio (uso dividido)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "salsa hoisin",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sal (opcional)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "aceite vegetal (uso dividido).",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "Cierre bien la tapa y refrigérela durante al menos 1 día antes de servir.",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimiento rojo (sin corazón ni semillas y cortado en rodajas finas)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "apio (cortado en rodajas finas)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "floretes de brócoli",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "nuez moscada molida",
+        "En otro recipiente, combine la 1/2 cucharada restante de salsa de soja, la cucharada restante de maicena, 3/4 de taza de caldo de pollo, la salsa hoisin y la salsa sriracha. Reserve.",
+        "Ensarte 2 albóndigas, 2 tomates, 1 champiñón y 1 trozo de cebolla alternando en cada brocheta.",
+        "Añade el aceite restante al wok. Añade el ajo y el jengibre y saltea durante 30 segundos. Añade el pimiento rojo, el apio y el brócoli y saltea durante 30 segundos. Añade el caldo de pollo restante, tapa y cocina al vapor durante 3 minutos.",
+        "Añade el pollo y saltea durante 1 minuto. Incorpora la salsa y cocina durante 1 minuto, cubriendo el pollo y las verduras con la salsa. Sirve inmediatamente."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Comfort Food",
+        "Kid Friendly",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Quick & Easy",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "5g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "55mg",
+        "sodium": "390mg",
+        "total_carbohydrate": "10g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/master-chicken-stir-fry"
+}

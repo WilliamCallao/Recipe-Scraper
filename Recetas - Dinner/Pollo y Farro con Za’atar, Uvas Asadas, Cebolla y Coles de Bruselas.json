@@ -1,0 +1,111 @@
+{
+    "title": "Pollo y Farro con Za’atar, Uvas Asadas, Cebolla y Coles de Bruselas",
+    "keywords": "Meal Kit Recipes,Main Dish,Foodie,Dinner,Cooking for 1 or 2",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Meal Kit Recipes",
+        "Main Dish",
+        "Foodie",
+        "Dinner",
+        "Cooking for 1 or 2"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/1887-diabetic-zaatar-Chicken_BA_020120.jpg",
+        "Onion & Brussels Sprouts \" loading=\"lazy\" />"
+    ],
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "coles de Bruselas frescas",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "cebolla roja",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "uvas rojas sin semillas",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "ajo",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "tomates uva",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "condimento za'atar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Incorpore las migas de verduras, el agua y los condimentos italianos. Cubra y cocine hasta que las migas estén bien cocidas, aproximadamente 4 minutos.",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Sal y pimienta al gusto",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        }
+    ],
+    "instructions": [
+        "Prepara los ingredientes: Coloca una rejilla de horno en el centro del horno y precalienta a 450 °F. Llena una olla mediana con agua hasta 3/4 de su capacidad; tapa y calienta a fuego alto hasta que hierva. Lava y seca los productos frescos. Corta y desecha los extremos del tallo de las coles de Bruselas; córtalas a lo largo por la mitad. Corta y pela la cebolla por la mitad; córtala en gajos de 1 pulgada de ancho, separando las capas. Corta las uvas por la mitad. Pela y pica en trozos grandes 2 dientes de ajo.",
+        "Cocine el pescado y termine de hacer la salsa: agregue el calabacín dorado y 3/4 de taza de agua a la sartén; revuelva para combinar. Cubra con el pescado preparado. Cubra la sartén sin apretar con papel de aluminio y cocine, sin revolver, de 8 a 10 minutos o hasta que esté bien cocido.* Apague el fuego y agregue el jugo de 2 rodajas de limón. * Un termómetro de lectura instantánea debe registrar 145 °F.",
+        "Asar las verduras y las uvas: Mientras tanto, colocar las coles de Bruselas, la cebolla y las uvas preparadas en una bandeja para horno. Rociar con 1/2 cucharadita de aceite de oliva y sazonar con sal (opcional) y pimienta; mezclar bien. Colocar en una capa uniforme. Asar durante 15 a 17 minutos, o hasta que se doren y estén tiernas al pincharlas con un tenedor. Retirar del horno.",
+        "Cocina el pollo: Mientras tanto, seca el pollo con toallas de papel; sazona ambos lados con sal (opcional), pimienta y suficiente za'atar para cubrirlos (puede que te sobre). En una sartén mediana (antiadherente, si tienes una), calienta 1/2 cucharadita de aceite de oliva a fuego medio-alto hasta que esté caliente. Agrega el pollo sazonado. Cocina de 6 a 7 minutos por lado, o hasta que esté dorado y bien cocido (un termómetro de lectura instantánea debe registrar 165 °F). Deja los trozos dorados (o el fondo) en la sartén y transfiérelos a una tabla de cortar.",
+        "Prepara la salsa de la sartén: en la sartén con el fondo reservado, calienta 1/2 cucharadita de aceite de oliva a fuego medio alto hasta que esté caliente. Agrega el ajo picado. Cocina, revolviendo con frecuencia, durante 30 segundos a 1 minuto, o hasta que se ablande un poco. Agrega el vinagre (con cuidado, ya que el líquido puede salpicar), 1/4 de taza de agua y la cantidad de hojuelas de pimiento rojo que desees, según lo picante que quieras que sea el plato. Sazona con sal (opcional) y pimienta. Cocina, revolviendo ocasionalmente, durante 1 a 2 minutos, o hasta que la salsa se espese un poco. Apaga el fuego.",
+        "Termina y sirve tu plato: A la olla de farro cocido, agrega las verduras asadas, las uvas y la salsa. Revuelve para combinar. Corta el pollo cocido en rodajas transversales. Sirve el pollo en rodajas sobre el farro terminado. ¡Disfruta!"
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mediterranean",
+        "Meal Kit Recipes",
+        "Main Dish",
+        "Foodie",
+        "Dinner",
+        "Cooking for 1 or 2"
+    ],
+    "nutrition": {
+        "calories": "470",
+        "total_fat": "8g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "125mg",
+        "sodium": "550mg",
+        "total_carbohydrate": "52g",
+        "fiber": "7g",
+        "sugar": "15g",
+        "added_sugar": "0g",
+        "protein": "48g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/zaatar-chicken-farro-roasted-grapes-onion-brussels-sprouts"
+}

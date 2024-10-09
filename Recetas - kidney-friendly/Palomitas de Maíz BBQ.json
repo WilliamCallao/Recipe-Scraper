@@ -1,0 +1,76 @@
+{
+    "title": "Palomitas de Maíz BBQ",
+    "keywords": "Vegan,Snacks,Quick & Easy,Cooking for 1 or 2,Budget Friendly,Easy Pantry Recipes,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Vegan",
+        "Snacks",
+        "Quick & Easy",
+        "Cooking for 1 or 2",
+        "Budget Friendly",
+        "Easy Pantry Recipes",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1870-diabetic-snack-BBQ-Popcorn_clean-and-simple_120919.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "arroz integral",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla roja",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "aceite de aguacate o aceite de girasol",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "granos de palomitas de maíz",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "En un tazón pequeño, mezcle la salsa de barbacoa, el pimentón ahumado y la sal; reserve.",
+        "En una cacerola grande a fuego medio, calienta el aceite por completo. Agrega los granos de palomitas de maíz, tapa y agita la cacerola periódicamente hasta que escuches que empiezan a estallar. Deja que las palomitas de maíz estallen sin tocarlas hasta que dejen de hacerlo, aproximadamente 3 minutos. Retira la tapa con cuidado.",
+        "Vierta inmediatamente la mezcla de salsa barbacoa sobre las palomitas de maíz mientras se cocina a fuego medio. Revuelva bien hasta que las palomitas de maíz estén ligeramente cubiertas y vuelvan a quedar crujientes, aproximadamente 2 minutos. Sirva."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Kid Friendly",
+        "Vegan",
+        "Snacks",
+        "Quick & Easy",
+        "Cooking for 1 or 2",
+        "Budget Friendly",
+        "Easy Pantry Recipes",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "6g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "18g",
+        "fiber": "3g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/bbq-popcorn"
+}

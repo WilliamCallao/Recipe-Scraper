@@ -1,0 +1,77 @@
+{
+    "title": "Col Roja con Sidra de Manzana y Miel",
+    "keywords": "Dinner,Foodie,Holidays & Entertaining,Lunch,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/apple-cider-honey-red-cabbage-Nov15.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "agua",
+            "us_amount": "2 slice",
+            "metric_amount": "2 slice"
+        },
+        {
+            "name": "repollo morado (sin las hojas exteriores, sin el corazón y cortado en rodajas finas)",
+            "us_amount": "1/2 head",
+            "metric_amount": "1/2 head"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sidra de manzana",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Vinagre de sidra de manzana",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        }
+    ],
+    "instructions": [
+        "En una sartén grande, cocina el tocino a fuego medio-alto hasta que esté crocante. Retira el tocino de la sartén y reserva.",
+        "Reduce el fuego a medio, agrega el repollo a la grasa de la sartén y saltea durante 7 a 8 minutos. Agrega la sal, la sidra de manzana, el vinagre y la miel. Reduce el fuego a medio-bajo y cocina durante 9 a 10 minutos, revolviendo de vez en cuando. Desmenuza el tocino en trozos. Cubre el repollo con el tocino y sirve caliente."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Veggie Rich",
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "3g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "145mg",
+        "total_carbohydrate": "8g",
+        "fiber": "1g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/apple-cider-honey-red-cabbage"
+}

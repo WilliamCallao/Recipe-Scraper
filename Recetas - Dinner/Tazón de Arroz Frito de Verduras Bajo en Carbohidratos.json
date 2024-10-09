@@ -1,0 +1,99 @@
+{
+    "title": "Tazón de Arroz Frito de Verduras Bajo en Carbohidratos",
+    "keywords": "Quick & Easy,Main Dish,Lunch,Easy Pantry Recipes,Dinner,Cooking for 1 or 2,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Easy Pantry Recipes",
+        "Dinner",
+        "Cooking for 1 or 2",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1960-diabetic-cauliflower-Fried-Rice-Bowl_magee_050120.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de canola u otro aceite vegetal",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "proteína magra cocida cortada en cubitos de su elección (como pollo, cerdo, camarones, tofu, etc.)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cebolletas picadas u otra cebolla",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "jengibre fresco rallado (o 1/8 cucharadita de jengibre molido)",
+            "us_amount": "3/4 tsp",
+            "metric_amount": "4 g"
+        },
+        {
+            "name": "ajo picado",
+            "us_amount": "1/2 tsp (about 1 diente)",
+            "metric_amount": "1/2 tsp (about 1 diente)"
+        },
+        {
+            "name": "Verduras variadas, picadas en trozos pequeños (cocidas o crudas)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "\"Arroz\" de coliflor",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "huevo (batido)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salsa teriyaki",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "jugo de granada",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta un wok antiadherente o una sartén grande a fuego medio-alto. Agrega el aceite y, después de unos 20 segundos, agrega la proteína cortada en cubitos, las cebollas, el jengibre, el ajo, las verduras variadas y el arroz de coliflor, revolviendo con frecuencia con una cuchara o una espátula, durante unos 2 minutos.",
+        "Reduce el fuego a medio y retira la mezcla del centro de la sartén con una espátula y vierte el huevo batido en el centro. Cuando comience a cocinarse, usa una espátula para revolver todos los ingredientes del arroz frito durante aproximadamente un minuto para terminar de cocinar el huevo.",
+        "Espolvoree la salsa teriyaki y el cilantro por encima y revuelva suavemente para mezclar los sabores (aproximadamente 1 minuto más). Pruebe y agregue más salsa teriyaki si lo desea. ¡Divida en dos tazones y sirva!"
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Easy Pantry Recipes",
+        "Dinner",
+        "Cooking for 1 or 2",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "12g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "140mg",
+        "sodium": "410mg",
+        "total_carbohydrate": "11g",
+        "fiber": "4g",
+        "sugar": "6g",
+        "added_sugar": "1g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/low-carb-veggie-fried-rice-bowl"
+}

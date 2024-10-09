@@ -1,0 +1,77 @@
+{
+    "title": "Tostada de Aguacate con Tocino de Pavo y Tomate",
+    "keywords": "Quick & Easy,Cooking for 1 or 2,Budget Friendly,Breakfast and Brunch",
+    "prep_time": "PT5M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Quick & Easy",
+        "Cooking for 1 or 2",
+        "Budget Friendly",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1915-diabetic-breakfast-avocado-toast-turkey-bacon-tomato_create-your-plate_022020.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "pechuga de pollo deshuesada y sin piel (dividida en 4 porciones (4 oz))",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "huevos (dorados hacia arriba)",
+            "us_amount": "2 slices",
+            "metric_amount": "2 slices"
+        },
+        {
+            "name": "aguacate (en rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Granos integrales cocidos, como arroz integral, avena o quinua.",
+            "us_amount": "2 slices",
+            "metric_amount": "2 slices"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Calienta la sartén, fríe los huevos y colócalos sobre la base de la pizza.",
+        "Saque la pulpa de cada mitad de aguacate y colóquela sobre una rebanada de pan tostado. Aplaste el aguacate con un tenedor hasta que quede aplastado. Espolvoree con sal marina y pimienta negra.",
+        "guisantes de ojo negro (escurridos y enjuagados)"
+    ],
+    "tags": [
+        "High in Fiber",
+        "Quick & Easy",
+        "Cooking for 1 or 2",
+        "Budget Friendly",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "130g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "450mg",
+        "total_carbohydrate": "20g",
+        "fiber": "7g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/avocado-toast-turkey-bacon-and-tomato"
+}

@@ -1,0 +1,89 @@
+{
+    "title": "Salteado Simple de Pollo",
+    "keywords": "Easy Pantry Recipes,Dinner,One Pot,Quick & Easy,Main Dish,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Dinner",
+        "One Pot",
+        "Quick & Easy",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1928-chicken-stir-fry-diabetic-simple-pantry_AS_175212927_031920.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "caldo de pollo bajo en sodio",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "salsa de soja baja en sodio",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "vinagre de arroz",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "romero fresco (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "pimienta negra molida",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "verduras congeladas salteadas",
+            "us_amount": "1 (14-oz) bag",
+            "metric_amount": "1 (14-oz) bag"
+        },
+        {
+            "name": "Pollo cocido",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        }
+    ],
+    "instructions": [
+        "Añade aceite de oliva a una sartén antiadherente a fuego alto. Añade las verduras congeladas y saltea durante 5 a 7 minutos.",
+        "Mientras se saltean las verduras, bata el caldo, la salsa de soja, la maicena, el ajo y la pimienta negra en un bol hasta que se combinen.",
+        "Añade el pollo y la salsa a la sartén y saltea otros 5-7 minutos, hasta que el pollo esté bien caliente y la salsa espese.",
+        "Sirva o deje enfriar y luego guarde en un recipiente hermético en el refrigerador hasta por 1 semana."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Asian",
+        "Easy Pantry Recipes",
+        "Dinner",
+        "One Pot",
+        "Quick & Easy",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "8g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "380mg",
+        "total_carbohydrate": "9g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/simple-chicken-stirfry"
+}

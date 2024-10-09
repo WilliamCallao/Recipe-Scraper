@@ -1,0 +1,104 @@
+{
+    "title": "Pasta Vegetariana con Kale",
+    "keywords": "Easy Pantry Recipes,Vegetarian,Vegan,One Pot,Main Dish,Dinner,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Vegetarian",
+        "Vegan",
+        "One Pot",
+        "Main Dish",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2027-Diabetic-Veggie-Crumbles-Kale-Pasta_DaVita_040821.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla cortada en cubitos",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Migas de carne molida sin carne (de la sección de congelados)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "condimento italiano",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Hojuelas de chile rojo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Caldo de verduras bajo en sodio (uso dividido)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "pasta de trigo integral con forma de pajarita",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "col rizada (picada)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Yogur griego natural sin grasa",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite de oliva en una sartén grande a fuego medio. Saltea la cebolla hasta que esté tierna.",
+        "Incorpore las migas de verduras, el agua y los condimentos italianos. Cubra y cocine hasta que las migas estén bien cocidas, aproximadamente 4 minutos.",
+        "Vierta 2 tazas y media de caldo vegetal en la mezcla y deje que hierva. Agregue la pasta y cocine, revolviendo ocasionalmente, a fuego medio alto hasta que se absorba el caldo, aproximadamente de 10 a 12 minutos.",
+        "Agregue el caldo restante, la col rizada y las hojuelas de chile y cocine a fuego medio hasta que la pasta esté lista, aproximadamente 14 minutos.",
+        "Retira la cacerola del fuego y añade el yogur griego. Sirve caliente."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "High in Fiber",
+        "Comfort Food",
+        "Easy Pantry Recipes",
+        "Vegetarian",
+        "Vegan",
+        "One Pot",
+        "Main Dish",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "6g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "320mg",
+        "total_carbohydrate": "38g",
+        "fiber": "5g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/vegetarian-kale-pasta"
+}

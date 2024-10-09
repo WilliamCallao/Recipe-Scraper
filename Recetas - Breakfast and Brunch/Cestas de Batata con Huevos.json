@@ -1,0 +1,80 @@
+{
+    "title": "Cestas de Batata con Huevos",
+    "keywords": "Snacks,Foodie,Gluten-Free,Breakfast and Brunch,Sides,Holidays & Entertaining,Lunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Snacks",
+        "Foodie",
+        "Gluten-Free",
+        "Breakfast and Brunch",
+        "Sides",
+        "Holidays & Entertaining",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_543_Sweet_Potato_Baskets_with_Eggs_PNCImages_03012018.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "batata (pelada)",
+            "us_amount": "2 (about 16 oz total)",
+            "metric_amount": "2 (about 16 oz total)"
+        },
+        {
+            "name": "Jamón estilo delicatessen (cortado en cubitos pequeños)",
+            "us_amount": "5 slices (2.5 oz total)",
+            "metric_amount": "5 slices (2.5 oz total)"
+        },
+        {
+            "name": "Batidores de huevos al estilo suroeste",
+            "us_amount": "1 1/4 cup",
+            "metric_amount": "296 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425 grados F. Rocíe moldes para muffins con aceite en aerosol.",
+        "Ralle la batata con el rallador más grande. Coloque las papas ralladas sobre una toalla o una gasa para escurrir el exceso de líquido.",
+        "Con las manos, coloque las batatas ralladas de manera uniforme en 12 moldes para muffins; esparza las batatas en una capa fina sobre el fondo y los costados de los moldes. Rocíe los moldes para muffins con aceite en aerosol y hornee en la rejilla inferior del horno durante 25 minutos.",
+        "espaguetis cocidos",
+        "En un tazón mediano, mezcle los huevos batidos, el jamón y la pimienta.",
+        "Saque los muffins de batata del horno. Vierta la mezcla de huevo en los moldes para muffins, dividiéndola uniformemente para llenar cada uno de ellos hasta aproximadamente 2/3 de su capacidad. Hornee durante 12 a 15 minutos, hasta que los huevos estén bien cocidos."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Snacks",
+        "Foodie",
+        "Gluten-Free",
+        "Breakfast and Brunch",
+        "Sides",
+        "Holidays & Entertaining",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "40",
+        "total_fat": "0g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "130mg",
+        "total_carbohydrate": "6g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-potato-baskets-eggs"
+}

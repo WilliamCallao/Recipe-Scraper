@@ -1,0 +1,99 @@
+{
+    "title": "Pollo BBQ Desmenuzado en Olla de Cocción Lenta",
+    "keywords": "Dinner,Slow Cooker,Lunch,Foodie",
+    "prep_time": "PT15M",
+    "cook_time": "PT6H",
+    "categories": [
+        "Dinner",
+        "Slow Cooker",
+        "Lunch",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/495-diabetic-slow-cooker-bbq-chicken_AdobeStock_157498387_022521.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "paprika",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pizca de sal (opcional)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sal (opcional)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Pollo entero (sin piel, cortado en 8 trozos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Coloca los filetes de salmón en una sola capa sobre la placa para horno preparada. Pincela 1 cucharada de salsa teriyaki sobre cada filete de salmón. Continúa horneando hasta que el salmón alcance el punto de cocción deseado y las verduras estén tiernas, aproximadamente de 8 a 10 minutos. Rocía el resto de la salsa teriyaki sobre las verduras. Cubre con cebollas verdes y sirve.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salsa barbacoa reducida en carbohidratos o azúcar",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "hojas grandes de lechuga",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "repollo (rallado)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "Combine el pimentón, el chile en polvo, la pimienta negra molida, el ajo en polvo y la sal (opcional) en un bol. Agregue los trozos de pollo y revuelva para cubrirlos por completo.",
+        "Mientras tanto, coloca un colador de metal en el fondo de una olla grande, llena la olla hasta 2/3 de su capacidad con agua y agrega el vinagre. Casca cada huevo en un tazón pequeño para preparar. Coloca la olla a fuego medio-alto y lleva el vinagre y el agua a hervor lento. Con una cuchara de mango largo, revuelve el agua con un movimiento amplio y circular para crear un remolino. Rápidamente, mientras el remolino aún está en marcha, desliza los huevos, uno por uno. Una vez que todos los huevos estén en el agua, escalfarlo sin revolver hasta que las claras estén listas y las yemas ya no estén líquidas, aproximadamente de 4 a 6 minutos. Con pinzas, levanta con cuidado el colador del agua con los huevos.",
+        "Saque el pollo de la olla de cocción lenta y déjelo reposar sobre una tabla de cortar o en un bol durante 15 minutos. Saque el líquido restante y las cebollas de la olla de cocción lenta y mézclelos con la salsa barbacoa. Reserve.",
+        "batatas (peladas y cortadas en cubos de 1 pulgada)",
+        "Escurre los frijoles y colócalos en un procesador de alimentos con el queso, 1 cucharada de aceite de oliva y las semillas de hinojo. Haz un puré hasta que quede una consistencia suave. Prueba y sazona con hojuelas de chile rojo triturado, sal y pimienta.",
+        "Para preparar el sándwich, agregue 1/2 taza colmada de pollo a una hoja de lechuga y cubra con 1/4 taza de repollo rallado."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Slow Cooker",
+        "Lunch",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "6g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "450mg",
+        "total_carbohydrate": "9g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/slow-cooker-pulled-bbq-chicken"
+}

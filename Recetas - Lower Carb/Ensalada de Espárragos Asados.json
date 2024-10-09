@@ -1,0 +1,68 @@
+{
+    "title": "Ensalada de Espárragos Asados",
+    "keywords": "Cooking for 1 or 2,Quick & Easy,Salads,Sides,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_1382794232.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "espárragos medianos (recortados y secados muy bien)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "nueces (picadas)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "vinagreta balsámica ligera",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "En un recipiente mediano, mezcle la cebolla, el jugo de limón y la sal. Cubra con film transparente y deje reposar a temperatura ambiente durante 3 a 5 horas, mientras se cocina el pollo.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425 grados F. Cubra una bandeja para hornear con papel aluminio. Rocíe ligeramente con aceite en aerosol.",
+        "Coloca los espárragos en una sola capa sobre la bandeja para hornear. Espolvorea las nueces alrededor de los espárragos. Rocía ligeramente los espárragos con aceite en aerosol. Enrolla hacia adelante y hacia atrás para cubrirlos.",
+        "Añade la calabaza, la canela, los clavos de olor, el jengibre y la nuez moscada. Mezcla bien y cocina a fuego lento durante 3 minutos. Añade las semillas de vainilla y cocina 1 minuto más.",
+        "Vierta la vinagreta sobre los espárragos y las nueces. Mueva la mezcla hacia adelante y hacia atrás para cubrirlos. Espolvoree con la pimienta. Deje reposar durante 10 minutos para que se mezclen los sabores.",
+        "aceite de oliva"
+    ],
+    "tags": [
+        "Lower Carb",
+        "Low Sodium",
+        "Veggie Rich",
+        "Cooking for 1 or 2",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "45",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "85mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-asparagus-salad"
+}

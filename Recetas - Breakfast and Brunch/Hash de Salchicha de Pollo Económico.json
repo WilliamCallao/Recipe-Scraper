@@ -1,0 +1,109 @@
+{
+    "title": "Hash de Salchicha de Pollo Económico",
+    "keywords": "Main Dish,Lunch,Budget Friendly,Breakfast and Brunch,Dinner,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Main Dish",
+        "Lunch",
+        "Budget Friendly",
+        "Breakfast and Brunch",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_117_Budget-Friendly_Chicken_Sausage_Hash_PNCImages_02272018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "huevo entero",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla (cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "champiñones en rodajas",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Pimiento rojo mediano (sin semillas y cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "tomillo seco",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "cebollas verdes (picadas)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Precaliente el horno a 350 grados F. Prepare una bandeja para hornear grande cubriéndola con papel pergamino.",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "En un tazón mediano, mezcle la mantequilla de maní, el puré de manzana, el edulcorante Splenda Magic Baker, la linaza, la vainilla, la sal y la canela hasta que estén bien combinados.",
+            "us_amount": "3 links",
+            "metric_amount": "3 links"
+        },
+        {
+            "name": "Sirva un poco de gachas en 6 tazones individuales y cubra cada uno con aproximadamente 1 cucharada de hierbas salteadas. Mezcle las hierbas con las gachas para distribuir los sabores. Sirva.",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "batatas (asadas enteras, peladas y cortadas en cubitos)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "Añade aceite de oliva y una cantidad generosa de aceite en aerosol a una sartén grande a fuego medio alto.",
+        "Saltee las cebollas, los champiñones y el pimiento rojo durante 6-7 minutos o hasta que empiecen a caramelizarse.",
+        "aceite de canola",
+        "Incorpore la salchicha de pollo y el agua y saltee durante 3 o 4 minutos más, raspando el fondo de la sartén para mezclar los trozos marrones que quedan en el fondo.",
+        "Incorpore suavemente las batatas cocidas y cortadas en cubitos y sirva."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Comfort Food",
+        "Main Dish",
+        "Lunch",
+        "Budget Friendly",
+        "Breakfast and Brunch",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "8g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "35mg",
+        "sodium": "290mg",
+        "total_carbohydrate": "29g",
+        "fiber": "4g",
+        "sugar": "13g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-chicken-sausage-hash"
+}

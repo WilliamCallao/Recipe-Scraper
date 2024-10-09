@@ -1,0 +1,98 @@
+{
+    "title": "Salsa de Frijoles Negros y Durazno",
+    "keywords": "Vegetarian,Vegan,Sauces,Holidays & Entertaining,Foodie,Appetizers,Quick & Easy,Snacks",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sauces",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Appetizers",
+        "Quick & Easy",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/Better%20Mashed%20Potato%20%282%29.png",
+    "servings": "24 Servings",
+    "ingredients": [
+        {
+            "name": "pimienta negra",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cebolla roja (picada)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "limón (jugo)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Perejil fresco (picado)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Mientras tanto, mezcle los tomates triturados, el orégano, el ajo en polvo y la albahaca. Deje a un lado.",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Cocine al vapor, en microondas o asado el brócoli según las instrucciones del paquete.",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Coloque el pollo en una fuente para horno preparada y pincele con salsa teriyaki. Dé vuelta el pollo y pincele nuevamente.",
+            "us_amount": "15 oz",
+            "metric_amount": "425 ml"
+        }
+    ],
+    "instructions": [
+        "albahaca seca"
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Mexican/Southwestern",
+        "Vegetarian",
+        "Vegan",
+        "Sauces",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Appetizers",
+        "Quick & Easy",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "25",
+        "total_fat": "0.5g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "25mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/black-bean-and-peach-salsa"
+}

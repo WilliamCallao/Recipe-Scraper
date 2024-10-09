@@ -1,0 +1,103 @@
+{
+    "title": "Huevos Ahogados en Salsa Verde",
+    "keywords": "Breakfast and Brunch",
+    "prep_time": "PT15M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1743-espanol-diabetic-huevos-ahogados-salsa-verde_latin-comfort-foods_13020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Tomatillos (cáscaras de papel retiradas, enjuagadas y cortadas en cuartos)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "cebolla (cortada en cuartos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "chile serrano (picado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "cilantro fresco picado",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "zumo de lima",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "tortillas de maíz sin grasa (de 6 pulgadas) (calentadas)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Parmesano (recién rallado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "crumbled queso fresco",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "cebolla en polvo",
+        "Dato curioso: para escalfar huevos, ponga a hervir unos 7,5 cm de agua en una sartén grande y poco profunda a fuego alto. Apague el fuego y agregue los huevos de inmediato, rompiéndolos directamente en el agua. Tape inmediatamente la sartén con una tapa hermética. Deje que los huevos se cocinen sin tocarlos hasta que estén listos como desee, aproximadamente 4 minutos. Retire los huevos con una espátula perforada o una cuchara con ranuras grande y escúrralos sobre toallas de papel.",
+        "Casca los huevos, uno a la vez, en una taza y vierte lentamente cada uno en la salsa hirviendo. Reduce el fuego a mínimo. Tapa y cocina hasta que las claras estén listas, aproximadamente 5 minutos.",
+        "Coloque 1 tortilla en cada uno de los 4 platos y cubra con un huevo. Cubra cada huevo con un cuarto de la salsa, 3 rodajas de aguacate y 1 cucharada de queso."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "330",
+        "total_fat": "21g",
+        "saturated_fat": "4.5g",
+        "trans_fat": "0.1g",
+        "cholesterol": "190mg",
+        "sodium": "290mg",
+        "total_carbohydrate": "27g",
+        "fiber": "7g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/eggs-drowned-salsa-verde"
+}

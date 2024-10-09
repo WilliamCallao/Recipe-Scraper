@@ -1,0 +1,85 @@
+{
+    "title": "Deslizadores de Pollo Deshebrado BBQ con Albaricoque en Olla de Cocción Lenta",
+    "keywords": "Slow Cooker,Sandwiches,Main Dish,Lunch,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Slow Cooker",
+        "Sandwiches",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/slow-cooker-apricot-bbq-dfh-crop.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "conserva de albaricoque (sin azúcar)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "pimienta negra molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ajo",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "manzana",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "pimientos rojos asados ​​(en rodajas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "chiles chipotle picados en adobo",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Una vez que el pollo esté listo, sáquelo de la olla de cocción lenta y desmenúcelo. Vuelva a colocarlo en la salsa y revuelva para combinar. Para servir, divida el pollo entre rodajas de pan de nube. Cubra con queso rallado, pimientos y albahaca.",
+        "En un bol pequeño, mezcle la salsa barbacoa, la mermelada de albaricoque, la sal y la pimienta. Vierta la salsa en la olla de cocción lenta y revuelva para cubrir el pollo. Cocine a fuego alto durante 4 horas, hasta que el pollo esté tierno y bien cocido.",
+        "Coloque el pollo en el recipiente de una olla de cocción lenta."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Comfort Food",
+        "Slow Cooker",
+        "Sandwiches",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "290",
+        "total_fat": "11g",
+        "saturated_fat": "5.3g",
+        "trans_fat": "0g",
+        "cholesterol": "190mg",
+        "sodium": "510mg",
+        "total_carbohydrate": "14g",
+        "fiber": "5g",
+        "sugar": "8g",
+        "added_sugar": "5g",
+        "protein": "32g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/slow-cooker-apricot-barbecue-pulled-chicken-sliders"
+}

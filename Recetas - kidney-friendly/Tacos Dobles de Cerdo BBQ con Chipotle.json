@@ -1,0 +1,89 @@
+{
+    "title": "Tacos Dobles de Cerdo BBQ con Chipotle",
+    "keywords": "Slow Cooker,Sandwiches,Main Dish,Lunch,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "PT6H",
+    "categories": [
+        "Slow Cooker",
+        "Sandwiches",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1681-diabetic-chipotle-bbq-pork-soft-tacos_tex-mex-diabetes-cookbook_DF_101918_1021x779.jpg",
+    "servings": "16 Servings",
+    "ingredients": [
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "salsa barbacoa reducida en azúcar",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "salsa picante",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "paleta de cerdo (recortada)",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "pimentón ahumado",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "nuez moscada molida",
+            "us_amount": "16",
+            "metric_amount": "16"
+        },
+        {
+            "name": "repollo rallado",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "tomillo seco",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        }
+    ],
+    "instructions": [
+        "En un recipiente mediano, combine el ajo, la salsa barbacoa y los chipotles. Mezcle bien y luego reserve en el refrigerador.",
+        "Coloque la carne de cerdo en una olla de cocción lenta de 3 a 6 cuartos de galón. Cubra y cocine a fuego lento durante 8 a 10 horas, o a fuego alto durante 4 a 6 horas.",
+        "Transfiera la carne de cerdo cocida a una tabla de cortar. Desmenuce la carne de cerdo con dos tenedores, desechando el exceso de grasa. Vuelva a colocar la carne de cerdo en la olla de cocción lenta. Espolvoree el pimentón sobre la carne de cerdo desmenuzada y luego agregue la mezcla de barbacoa. Cubra y cocine a fuego lento durante 1 hora. Retire el exceso de grasa.",
+        "Para armar los tacos, coloque una cucharada colmada de carne de cerdo (aproximadamente 1/4 de taza) sobre una tortilla calentada. Cubra con repollo y cebollas y sirva. Coloque el cerdo sobrante en un recipiente hermético y guárdelo en el refrigerador hasta por 3 días."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Mexican/Southwestern",
+        "Latin American",
+        "Slow Cooker",
+        "Sandwiches",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "7g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "350mg",
+        "total_carbohydrate": "15g",
+        "fiber": "8g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "15g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chipotle-bbq-pork-folded-tacos"
+}

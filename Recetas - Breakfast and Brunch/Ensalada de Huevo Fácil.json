@@ -1,0 +1,82 @@
+{
+    "title": "Ensalada de Huevo Fácil",
+    "keywords": "Easy Pantry Recipes,Lunch,Salads,Vegetarian,Sandwiches,Quick & Easy,Budget Friendly,Breakfast and Brunch",
+    "prep_time": "PT5M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Lunch",
+        "Salads",
+        "Vegetarian",
+        "Sandwiches",
+        "Quick & Easy",
+        "Budget Friendly",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1929-easy-diabetic-egg-salad_AS_291791604_031920.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "crema agria (sin grasa)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "mayonesa ligera",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Añade el agua y deja que hierva, luego reduce el fuego a fuego lento. Cocina, revolviendo de vez en cuando, hasta que la avena esté blanda, aproximadamente 20 minutos.",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "apio (cortado en cubitos)",
+            "us_amount": "1 stalks",
+            "metric_amount": "1 stalks"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "6 large",
+            "metric_amount": "6 large"
+        }
+    ],
+    "instructions": [
+        "Coloque los huevos en una cacerola y asegúrese de que estén cubiertos de agua. Coloque la cacerola al fuego y deje que hierva. Apague el fuego, cubra y deje que los huevos se cocinen durante 9 a 12 minutos. Coloque los huevos en un baño de hielo y pélelos.",
+        "Corte los huevos duros por la mitad y retire tres de las yemas de los 6 huevos (debería terminar con 6 claras y 3 yemas en total). Añádalos a un recipiente mediano y triture ligeramente con un tenedor.",
+        "Añade los ingredientes restantes y revuelve para combinar.",
+        "Coloque la maicena en un recipiente mediano. Vierta la leche y bata hasta disolverla. Incorpore el resto de los ingredientes. Incorpore la mezcla de hongos y vierta la mezcla en moldes para flan."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Kid Friendly",
+        "Comfort Food",
+        "Easy Pantry Recipes",
+        "Lunch",
+        "Salads",
+        "Vegetarian",
+        "Sandwiches",
+        "Quick & Easy",
+        "Budget Friendly",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "4.5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "90mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "2g",
+        "fiber": "0g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/easy-egg-salad"
+}

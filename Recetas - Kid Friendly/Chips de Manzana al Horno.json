@@ -1,0 +1,63 @@
+{
+    "title": "Chips de Manzana al Horno",
+    "keywords": "Easy Pantry Recipes,Vegan,Snacks,Vegetarian,Gluten-Free",
+    "prep_time": "PT10M",
+    "cook_time": "PT2H",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Vegan",
+        "Snacks",
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/057-diabetic-Baked-Apple-Chips_495760147_050118.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "manzana (manzanas McIntosh o Golden Delicious, sin corazón)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Spray antiadherente para cocinar",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Crema para untar con mantequilla original Smart Balance",
+        "Con una mandolina o un cuchillo, corte las manzanas en rodajas finas para formar chips redondos. Descarte las semillas.",
+        "Coloque las rodajas de manzana sobre las bandejas para hornear preparadas sin superponerlas. Espolvoree la canela sobre las manzanas.",
+        "Hornee durante 1 hora y luego dé vuelta las manzanas. Continúe horneando durante 1 o 2 horas, dándoles vuelta de vez en cuando, hasta que las rodajas de manzana ya no estén húmedas. Deje enfriar por completo y luego guárdelas en un recipiente hermético."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Dialysis",
+        "Low Sodium",
+        "Kid Friendly",
+        "Easy Pantry Recipes",
+        "Vegan",
+        "Snacks",
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "13g",
+        "fiber": "2g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/baked-apple-chips"
+}

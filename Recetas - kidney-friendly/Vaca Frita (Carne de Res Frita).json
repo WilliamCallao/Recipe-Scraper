@@ -1,0 +1,112 @@
+{
+    "title": "Vaca Frita (Carne de Res Frita)",
+    "keywords": "Budget Friendly,Dinner,Lunch,Main Dish",
+    "prep_time": "PT10M",
+    "cook_time": "PT1H30M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1752-espanol-diabetic-vaca-frita_latin-comfort-foods_13020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "filete de falda (cortado en 4 trozos iguales)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "cebolla mediana (cortada en cuartos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "hoja de laurel",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "agua",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "aceite de oliva (uso dividido)",
+            "us_amount": "1 tbsp plus 1 tsp",
+            "metric_amount": "1 tbsp plus 1 tsp"
+        },
+        {
+            "name": "cebolla grande (cortada en rodajas finas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zumo de lima",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "rodajas de lima",
+            "us_amount": "for garnish",
+            "metric_amount": "for garnish"
+        },
+        {
+            "name": "cilantro fresco picado",
+            "us_amount": "for garnish",
+            "metric_amount": "for garnish"
+        }
+    ],
+    "instructions": [
+        "En una cacerola grande, combine la carne, la cebolla cortada en cuartos, la hoja de laurel y el agua. Lleve a hervor lento. Reduzca el fuego a medio bajo. Cubra y cocine a fuego lento hasta que la carne esté tierna, aproximadamente 1 hora y 10 minutos. Transfiera la carne a una tabla de cortar y deje enfriar. Para guardar el caldo para otro uso, retire la grasa y cuélelo, desechando la hoja de laurel. Refrigere hasta por 1 semana o congélelo hasta por 1 mes.",
+        "Calienta 1 cucharada de aceite en una sartén grande a fuego medio. Agrega la cebolla en rodajas y cocina a fuego medio, revolviendo ocasionalmente, hasta que la cebolla esté muy tierna y comience a caramelizarse, aproximadamente 10 minutos.",
+        "Mientras tanto, con dos tenedores, desmenuza la carne y colócala en un bol grande. Agrega el jugo de limón, el ajo, la cucharadita restante de aceite, la sal y la pimienta. Deja reposar durante 20 minutos.",
+        "Rocíe una plancha o sartén antiadherente con aceite en aerosol y caliéntela a fuego medio-alto. Agregue la carne y la cebolla caramelizada y cocine, dando vuelta de vez en cuando, hasta que la carne y las cebollas estén doradas, aproximadamente 8 minutos. Sirva adornado con rodajas de lima y cilantro."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Latin American",
+        "Mexican/Southwestern",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "11g",
+        "saturated_fat": "3.1g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "6g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "23g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/vaca-frita-beef"
+}

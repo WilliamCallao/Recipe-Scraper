@@ -1,0 +1,66 @@
+{
+    "title": "Barras de Granola de Mantequilla de Maní y Mermelada",
+    "keywords": "Easy Pantry Recipes,Dessert,Snacks",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Dessert",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/3474_PB%26J%20Granola%20Bars.jpeg",
+    "servings": "15 Servings",
+    "ingredients": [
+        {
+            "name": "mermelada de fresa sin azúcar",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Endulzante Splenda® Magic Baker™",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "avena arrollada",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "cacahuetes (sin sal, picados)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F. Engrase una fuente para hornear de 8” x 8” con aceite en aerosol antiadherente. Cubra la fuente para hornear con papel pergamino, presionando el papel pergamino hacia las esquinas y los costados de la fuente.",
+        "Vierta uniformemente en 2 vasos, cubra con crema batida y ¡disfrute de inmediato!",
+        "naranja (rallada y exprimida)",
+        "mitad y mitad sin grasa"
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Easy Pantry Recipes",
+        "Dessert",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "7g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "15mg",
+        "total_carbohydrate": "17g",
+        "fiber": "5g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pb-and-j-granola-bars"
+}

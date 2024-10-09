@@ -1,0 +1,92 @@
+{
+    "title": "Hamburguesa Básica de Frijol",
+    "keywords": "Vegetarian,Sandwiches,Easy Pantry Recipes,Dinner,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Vegetarian",
+        "Sandwiches",
+        "Easy Pantry Recipes",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1927-basic-bean-burger-diabetic-simple_AS_58279288_031920.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "2 15-ounce cans",
+            "metric_amount": "2 15-ounce cans"
+        },
+        {
+            "name": "cebolla amarilla (picada)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Granos integrales cocidos, como arroz integral, avena o quinua.",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra molida",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Añade 1 taza y media de frijoles a un bol grande con las cebollas. Con un tenedor o un machacador de papas, tritura hasta que la mezcla quede casi homogénea (quedará un poco grumosa debido a las cebollas). Nota: Si tienes un procesador de alimentos, puedes triturar hasta que la mezcla quede homogénea y luego colocarla en un bol.",
+        "Precaliente el horno a 400 °F. Rocíe ligeramente con aceite en aerosol una fuente para hornear de 13 × 9 × 2 pulgadas.",
+        "Forme la mezcla de frijoles en 8 hamburguesas de 1/2 pulgada de espesor.",
+        "Rocíe aceite en aerosol en una sartén antiadherente a fuego medio. Agregue las hamburguesas de frijoles y cocínelas durante 2 a 3 minutos por lado, hasta que estén ligeramente doradas. Trabaje en tandas si su sartén no es lo suficientemente grande para contener las 8 hamburguesas.",
+        "arándanos"
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Kid Friendly",
+        "Comfort Food",
+        "Vegetarian",
+        "Sandwiches",
+        "Easy Pantry Recipes",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "1.5g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "24g",
+        "fiber": "6g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/basic-bean-burger"
+}

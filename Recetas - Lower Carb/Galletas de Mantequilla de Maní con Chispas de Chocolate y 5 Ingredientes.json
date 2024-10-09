@@ -1,0 +1,62 @@
+{
+    "title": "Galletas de Mantequilla de Maní con Chispas de Chocolate y 5 Ingredientes",
+    "keywords": "Dessert",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/3455_5-Ingredient%20Peanut%20Butter%20Chocolate%20Chip%20Cookies.jpg",
+    "servings": "20 Servings",
+    "ingredients": [
+        {
+            "name": "Filetes de salmón de Alaska (de 4 a 6 oz cada uno)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Yogur griego natural sin grasa",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "mantequilla de maní natural",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "queso cheddar rallado bajo en grasa o queso estilo mexicano",
+            "us_amount": "5 tbsp",
+            "metric_amount": "74 ml"
+        },
+        {
+            "name": "chips de chocolate endulzados con stevia o sin azúcar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "paprika",
+        "Combine todos los ingredientes en un bol y revuelva.",
+        "sal",
+        "Hornear durante unos 10-12 minutos. Dejar enfriar por completo."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "8g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "4g",
+        "fiber": "2g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/5-ingredient-peanut-butter-chocolate-chip-cookies"
+}

@@ -1,0 +1,88 @@
+{
+    "title": "Salmón y Espárragos en Bandeja para Horno",
+    "keywords": "Quick & Easy,One Pot,Main Dish,Lunch,Gluten-Free,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Quick & Easy",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2022-diabetic-one-pan-salmon-asparagus_diabetes-cookbook_082418_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Salmón (dividido en dos porciones)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Prepara los ingredientes: lava y seca los productos frescos. Corta y desecha los tallos de los pimientos, quítales el corazón y córtalos en rodajas finas. Pela y pica 2 dientes de ajo. Corta por la mitad, pela y corta en rodajas finas la cebolla. Con la parte plana del cuchillo, aplasta las aceitunas para quitarles los carozos. Desecha los carozos y pica las aceitunas en rodajas finas.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "filetes de salmón sin piel",
+            "us_amount": "4 (4-oz) fillets",
+            "metric_amount": "4 (4-oz) fillets"
+        },
+        {
+            "name": "espárragos (extremos recortados)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "mostaza Dijon gruesa",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400°F.",
+        "cebolla verde (cebolleta) (picada, dividida)",
+        "En un bol pequeño, mezcle la mostaza, el aceite de oliva, la miel y la pimienta. Extienda la mezcla de mostaza sobre los filetes de salmón y rocíe el sobrante sobre los espárragos.",
+        "Hornear durante 20 minutos. Servir cada filete de salmón con los espárragos a un lado y las cebollas encima del salmón."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Quick & Easy",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "13g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "440mg",
+        "total_carbohydrate": "12g",
+        "fiber": "3g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sheet-pan-salmon-and-asparagus"
+}

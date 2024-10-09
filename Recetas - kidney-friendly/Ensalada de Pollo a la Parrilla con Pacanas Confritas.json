@@ -1,0 +1,91 @@
+{
+    "title": "Ensalada de Pollo a la Parrilla con Pacanas Confritas",
+    "keywords": "Dinner,Lunch,Main Dish,Salads",
+    "prep_time": "PT0M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Salads"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/725-diabetic-Grilled-Chicken-Salad-with-Candied-Pecans_SizzleSmoke_091418.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Aceite de oliva en aerosol para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "nueces pecanas (picadas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pimienta negra (recién molida o al gusto)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pimienta roja cayena molida",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "ensalada verde fresca",
+            "us_amount": "10 cup",
+            "metric_amount": "2 l 366 ml"
+        },
+        {
+            "name": "Salsa Worcestershire (para la marinada)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "naranjas de ombligo (peladas y cortadas en gajos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Yogur griego natural sin grasa",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta una sartén antiadherente pequeña cubierta con aceite en aerosol a fuego medio-bajo. Agrega las nueces y cocina durante 3 a 4 minutos o hasta que estén ligeramente tostadas, revolviendo con frecuencia. Espolvorea con azúcar y pimienta roja y cocina durante 1 minuto, revolviendo constantemente. Retira las nueces de la sartén. Deja enfriar sobre papel encerado.",
+        "Combine las verduras, la vinagreta de tres cítricos y los gajos de naranja en un bol grande. Mezcle bien. Coloque 1 taza de la mezcla de verduras en cada uno de los 8 platos. Cubra cada porción con 1 1⁄2 cucharadita de nueces pecanas y 1 1⁄2 cucharadita de arándanos rojos.",
+        "Ponga en marcha el cronómetro y luego suba el fuego al máximo hasta que hierva. Una vez que hierva, reduzca el fuego a fuego lento y cocine a fuego lento hasta que suene el cronómetro."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Veggie Rich",
+        "Mediterranean",
+        "Grilling",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "275",
+        "total_fat": "8g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "185mg",
+        "total_carbohydrate": "14g",
+        "fiber": "2g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "37g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-chicken-salad-candied-pecans"
+}

@@ -1,0 +1,124 @@
+{
+    "title": "Strata de Verduras Asadas",
+    "keywords": "Breakfast and Brunch,Budget Friendly,Dinner,Holidays & Entertaining,Lunch,Main Dish,Vegetarian",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/jan2015-rosted-vegetable.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Champiñones blancos (de 8 onzas, cortados en rodajas)",
+            "us_amount": "1 package",
+            "metric_amount": "1 package"
+        },
+        {
+            "name": "batata mediana (6 onzas, pelada y cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla mediana (cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Pimiento rojo mediano (sin semillas y cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Condimento picante (sin sal)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "claras de huevo",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "mostaza (seca)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salvia fresca (picada)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sal (opcional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimiento rojo (sin semillas y cortado en cubitos)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pan integral (1,5 onzas cada uno)",
+            "us_amount": "8 slice",
+            "metric_amount": "8 slice"
+        },
+        {
+            "name": "pavo molido magro",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375 grados F. Cubra una bandeja para hornear grande con aceite en aerosol.",
+        "Mezcle todas las verduras y distribúyalas de manera uniforme en la bandeja para hornear. Rocíe las verduras con 5 o 6 gotas de aceite en aerosol y sazone con condimento Spike sin sal.",
+        "Asar las verduras durante 30 minutos y luego dejar enfriar un poco.",
+        "Batir los huevos, las claras de huevo, la mostaza seca, la salvia, la sal (opcional) y la pimienta negra.",
+        "Rocíe una fuente para horno de 23 x 33 cm con aceite en aerosol. Corte cuatro rebanadas de pan integral en pedazos y colóquelas en capas en el fondo de la fuente para horno. Cubra con la mitad de las verduras asadas y 1/4 de taza de queso parmesano. Vierta la mitad de la mezcla de huevo sobre el pan, las verduras y el queso.",
+        "Repita el proceso de colocación de capas con el resto del pan rallado, las verduras, el queso y la mezcla de huevo. Presione la cazuela con una espátula para asegurarse de que todo el pan se empape en la mezcla de huevo. Deje reposar las capas a temperatura ambiente durante 15 minutos.",
+        "Hornear los estratos durante 30 minutos.",
+        "Para servir, corte las capas por la mitad a lo largo y luego por la mitad a lo ancho. Corte cada mitad nuevamente por la mitad a lo ancho para formar 8 porciones iguales."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Italian",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "4g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "290mg",
+        "total_carbohydrate": "26g",
+        "fiber": "4g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-veggie-strata"
+}

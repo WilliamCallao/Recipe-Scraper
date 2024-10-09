@@ -1,0 +1,72 @@
+{
+    "title": "Sándwich de Pavo con Ensalada de Col Crujiente",
+    "keywords": "Sandwiches,Quick & Easy,Budget Friendly,Cooking for 1 or 2,Lunch,No Cook",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sandwiches",
+        "Quick & Easy",
+        "Budget Friendly",
+        "Cooking for 1 or 2",
+        "Lunch",
+        "No Cook"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1843-diabetic-coleslaw-turkey-sandwich_mix-and-match-meals_shutterstock1009797748_102519.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "pan de trigo entero",
+            "us_amount": "4 slices",
+            "metric_amount": "4 slices"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        },
+        {
+            "name": "salsa sin azúcar añadido",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Ensalada de col preparada o delicatessen",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "mayonesa ligera",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque la mitad del pavo sobre cada una de las dos rebanadas de pan. Coloque la ensalada de col sobre el pavo y cubra cada sándwich con las rebanadas de pan restantes. Sirva con ensalada de col adicional a un lado.",
+        "Mezcle la ensalada de col escurrida con la salsa y agregue pimienta negra al gusto.",
+        "Escurre la ensalada de col en un colador."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Kid Friendly",
+        "Sandwiches",
+        "Quick & Easy",
+        "Budget Friendly",
+        "Cooking for 1 or 2",
+        "Lunch",
+        "No Cook"
+    ],
+    "nutrition": {
+        "calories": "350",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "470mg",
+        "total_carbohydrate": "33g",
+        "fiber": "5g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "40g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crunchy-coleslaw-turkey-sandwich"
+}

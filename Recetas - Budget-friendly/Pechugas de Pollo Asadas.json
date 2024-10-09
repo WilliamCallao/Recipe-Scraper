@@ -1,0 +1,91 @@
+{
+    "title": "Pechugas de Pollo Asadas",
+    "keywords": "Dinner,Lunch,Quick & Easy,Main Dish,Gluten-Free,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Main Dish",
+        "Gluten-Free",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/450-diabetic-roasted-chicken-breast_shutterstock332807894_012919.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel (4 onzas cada una)",
+            "us_amount": "4 whole",
+            "metric_amount": "4 whole"
+        },
+        {
+            "name": "sal (opcional)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "paprika",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados. Rocíe una bandeja para hornear con aceite en aerosol.",
+        "Coloque las pechugas de pollo en la bandeja para hornear.",
+        "En un tazón pequeño, combine la sal, la pimienta, el aceite de oliva, el jugo de limón y el ajo y bata hasta que se combinen.",
+        "Unte o vierta la mezcla de jugo de limón sobre cada pechuga de pollo, cubriéndola uniformemente.",
+        "Espolvoree cada pechuga de pollo uniformemente con pimentón y hornee en el horno durante 35 minutos o hasta que el pollo esté cocido a una temperatura interna de 165 grados F.",
+        "Deje reposar las pechugas de pollo cubiertas con papel de aluminio durante 10 a 15 minutos antes de cortarlas o servirlas."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Kid Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Main Dish",
+        "Gluten-Free",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "6g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "60mg",
+        "total_carbohydrate": "3g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-chicken-breasts"
+}

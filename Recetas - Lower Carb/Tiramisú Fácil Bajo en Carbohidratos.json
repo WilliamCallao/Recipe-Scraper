@@ -1,0 +1,97 @@
+{
+    "title": "Tiramisú Fácil Bajo en Carbohidratos",
+    "keywords": "Quick & Easy,Holidays & Entertaining,Gluten-Free,Dessert",
+    "prep_time": "PT15M",
+    "cook_time": "PT3M",
+    "categories": [
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2074-diabetic-low-carb-easy-tiramisu_low-carb-brissette_050721.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "harina de almendras",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "eritritol u otro sustituto del azúcar (uso dividido)",
+            "us_amount": "1/4 cup plus 1 1/2 tbsp",
+            "metric_amount": "1/4 cup plus 1 1/2 tbsp"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "espresso o café fuerte",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Yogur griego natural sin grasa",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "queso mascarpone",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "ron oscuro",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ralladura de naranja",
+            "us_amount": "2 tsp (from 1 orange)",
+            "metric_amount": "2 tsp (from 1 orange)"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "carne de cangrejo en trozos",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "En una sartén mediana a fuego medio, tuesta la harina de almendras durante 3 minutos o hasta que esté dorada, revolviendo con frecuencia para evitar que se queme.",
+        "En un bol pequeño, mezcla la harina de almendras tostadas, 1 cucharada y media de eritritol, la canela y la sal. Añade el café expreso y revuelve. Divide la mezcla en 6 vasos para servir (aproximadamente 1 cucharada colmada en cada uno).",
+        "En un bol mediano, mezcle el yogur con el mascarpone, el 1/4 de taza restante de eritritol, el ron, la ralladura de naranja y la vainilla. Vierta aproximadamente 1/3 de taza sobre la base de café y almendras en cada uno de los vasos para servir. Espolvoree ligeramente cada tiramisú con cacao en polvo justo antes de servir."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "8g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "15mg",
+        "sodium": "130mg",
+        "total_carbohydrate": "6g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/low-carb-easy-tiramisu"
+}

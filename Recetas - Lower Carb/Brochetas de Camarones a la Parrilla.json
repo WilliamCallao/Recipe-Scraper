@@ -1,0 +1,95 @@
+{
+    "title": "Brochetas de Camarones a la Parrilla",
+    "keywords": "Foodie,Dinner,Lunch,Holidays & Entertaining,Appetizers",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Foodie",
+        "Dinner",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/289-diabetic-shrimp-skewers_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "9 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Limón mediano (rallado y exprimido)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Orégano fresco picado o 1/4 a 1/2 cucharadita de orégano seco",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Tomates cherry (cortados por la mitad a lo largo)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cebolla verde (cebolleta) ((partes blancas y verdes), picada)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Camarones medianos crudos (pelados y desvenados)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "brochetas de bambú (remojadas en agua tibia)",
+            "us_amount": "9",
+            "metric_amount": "9"
+        }
+    ],
+    "instructions": [
+        "Prepare una parrilla interior o exterior.",
+        "En un tazón mediano, mezcle el aceite de oliva, el ajo, la ralladura de limón, el jugo de limón, las hojuelas de pimiento rojo triturado, la sal (opcional), la pimienta y las cebolletas.",
+        "Añade los camarones al bol y revuelve para cubrirlos de manera uniforme. Cubre y refrigera durante 30 minutos.",
+        "Divida los camarones en nueve brochetas de manera uniforme. Descarte el resto de la marinada.",
+        "Ase las brochetas durante 2 a 3 minutos de cada lado o hasta que los camarones estén rosados ​​y ligeramente firmes al tacto."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Seafood",
+        "Grilling",
+        "Foodie",
+        "Dinner",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "0.5g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "85mg",
+        "sodium": "75mg",
+        "total_carbohydrate": "0g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-shrimp-skewers"
+}

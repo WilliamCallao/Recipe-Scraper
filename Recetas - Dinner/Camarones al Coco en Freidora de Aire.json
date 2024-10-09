@@ -1,0 +1,99 @@
+{
+    "title": "Camarones al Coco en Freidora de Aire",
+    "keywords": "Quick & Easy,Main Dish,Lunch,Holidays & Entertaining,Dinner,Appetizers",
+    "prep_time": "PT12M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Dinner",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1821-diabetic-air-fryer-coconut-shrimp_Easy-Air-Fryer-Cookbook_DFSepOct19_081619.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Camarones grandes crudos (pelados y desvenados)",
+            "us_amount": "1 lb (20-30 shrimp",
+            "metric_amount": "1 lb (20-30 shrimp"
+        },
+        {
+            "name": "cebolla amarilla (picada)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Bistec de tira magra (cocido, cortado en rodajas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "hojuelas de coco sin azúcar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "cúrcuma",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Orégano seco",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Seque los camarones con toallas de papel. Coloque las claras de huevo y el agua en un recipiente poco profundo y bata para mezclar.",
+        "Combine las migas de pan panko, el coco, el comino, la cúrcuma, el cilantro y la sal en otro recipiente poco profundo.",
+        "Agregue la col rizada, la manzana, la cebolla, el queso y las semillas de calabaza.",
+        "Coloca los camarones en una sola capa en la canasta de la freidora de aire. Rocía los camarones con aceite en aerosol antiadherente durante 2 segundos. Configura la temperatura a 400º F y fríelos con aire durante 4 minutos. Da vuelta los camarones. Fríelos con aire durante 2 a 4 minutos o hasta que estén dorados. Sirve tibio."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Dialysis",
+        "Seafood",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Dinner",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "4.5g",
+        "saturated_fat": "3g",
+        "trans_fat": "0g",
+        "cholesterol": "190mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "9g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "28g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/air-fryer-coconut-shrimp"
+}

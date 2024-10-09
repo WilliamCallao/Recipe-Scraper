@@ -1,0 +1,78 @@
+{
+    "title": "Tazón de Batido Verde",
+    "keywords": "Breakfast and Brunch,Cooking for 1 or 2,No Cook",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Breakfast and Brunch",
+        "Cooking for 1 or 2",
+        "No Cook"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/3460_Green%20Smoothie%20Bowl.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "Hornee durante 30 minutos o hasta que el centro esté inflado y firme (no se mueva al agitarlo suavemente). Deje reposar durante 5 minutos antes de servir.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "mango congelado (trozos)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "plátano(s) (en rodajas y congelados)",
+            "us_amount": "1/4 small",
+            "metric_amount": "1/4 small"
+        },
+        {
+            "name": "espinacas (envasadas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Semilla de lino molida",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Kiwi (pelado y cortado en rodajas, para la cobertura)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Fresas frescas (en rodajas, para la cobertura)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "hojuelas de coco sin azúcar (para la cobertura)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "Combine el batido Splenda Diabetes Care, el mango, el plátano, la espinaca y la linaza en una licuadora. Licue hasta que quede una mezcla homogénea, raspando los costados según sea necesario.",
+        "Vierta el batido en un bol y cubra con kiwi, fresas y hojuelas de coco. Sirva inmediatamente y disfrute."
+    ],
+    "tags": [
+        "Breakfast and Brunch",
+        "Cooking for 1 or 2",
+        "No Cook"
+    ],
+    "nutrition": {
+        "calories": "360",
+        "total_fat": "15g",
+        "saturated_fat": "3.3g",
+        "trans_fat": "0g",
+        "cholesterol": "15mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "51g",
+        "fiber": "13g",
+        "sugar": "24g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/green-smoothie-bowl"
+}

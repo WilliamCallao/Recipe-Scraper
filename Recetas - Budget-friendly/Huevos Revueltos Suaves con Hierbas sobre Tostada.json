@@ -1,0 +1,73 @@
+{
+    "title": "Huevos Revueltos Suaves con Hierbas sobre Tostada",
+    "keywords": "Quick & Easy,Cooking for 1 or 2,Budget Friendly,Breakfast and Brunch,Easy Pantry Recipes,Vegetarian",
+    "prep_time": "PT7M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Quick & Easy",
+        "Cooking for 1 or 2",
+        "Budget Friendly",
+        "Breakfast and Brunch",
+        "Easy Pantry Recipes",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1847-diabetic-breakfast-Herbed-Soft-Scrambled-Eggs-On-Toast_Clean-Simple-Ckbk_111319.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "pan integral germinado o de trigo integral",
+            "us_amount": "2 slices",
+            "metric_amount": "2 slices"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Hierbas frescas picadas y compactas",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Tuesta el pan en una tostadora o en un horno tostador hasta obtener el punto deseado.",
+        "garbanzos (escurridos y enjuagados)",
+        "Transfiera las tostadas a los platos. Cubra cada tostada con la mitad de los huevos con hierbas. Si lo desea, espolvoree con pimienta negra recién molida a gusto. Sirva."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Quick & Easy",
+        "Cooking for 1 or 2",
+        "Budget Friendly",
+        "Breakfast and Brunch",
+        "Easy Pantry Recipes",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "8g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "185mg",
+        "sodium": "290mg",
+        "total_carbohydrate": "16g",
+        "fiber": "3g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/herbed-soft-scrambled-eggs-toast"
+}

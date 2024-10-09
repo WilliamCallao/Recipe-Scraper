@@ -1,0 +1,99 @@
+{
+    "title": "Pavo Asado con Verduras",
+    "keywords": "Main Dish,Holidays & Entertaining,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT60M",
+    "categories": [
+        "Main Dish",
+        "Holidays & Entertaining",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1673-diabetic-roasted-turkey-vegetables_Diabetes-Cookbook_DF_101818_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "tallos de apio (picados)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Cortar el cerdo en rodajas y servir el plato: cortar el cerdo en rodajas transversales. Dividir el yogur de limón en dos platos; esparcir en una capa uniforme. Cubrir con el cerdo en rodajas y las verduras cocidas. Decorar con los rábanos marinados y las almendras. ¡Disfrutar!",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "cebolla (picada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cabeza de repollo verde (picado)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "ajo (picado o rallado)",
+            "us_amount": "5 sprig",
+            "metric_amount": "5 sprig"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio y sin grasa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "media pechuga de pavo con hueso",
+            "us_amount": "2 1/2 lbs",
+            "metric_amount": "1 l 134 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cebolla roja (en rodajas)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimienta negra molida",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375° F. Cubra una fuente para hornear con aceite en aerosol antiadherente.",
+        "Mezcle el apio, las zanahorias, la cebolla, el repollo y el tomillo y colóquelos en la sartén. Vierta el caldo de pollo sobre las verduras.",
+        "Para preparar las nueces: Calienta las nueces en una sartén seca a fuego medio. Revuelve con frecuencia, hasta que comiencen a tostarse, aproximadamente 4 minutos. Agrega la margarina y cocina, revolviendo, hasta que las nueces comiencen a oscurecerse, aproximadamente 1 minuto. Agrega la mezcla de azúcar morena Splenda, el agua, el comino, la canela y la pimienta de cayena. Revuelve hasta que la salsa espese y las nueces estén glaseadas, aproximadamente 1 a 2 minutos.",
+        "Ase el pavo y las verduras en el horno durante 1 hora o hasta que la temperatura interna del pavo sea de 165 °F.",
+        "Al sacar el plato del horno, dejar reposar el pavo sobre una tabla de cortar. Quitar los tallos de tomillo y mezclar las verduras.",
+        "Corte el pavo en porciones de 4 oz y sirva cada una con ¼ de la mezcla de verduras."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Comfort Food",
+        "Main Dish",
+        "Holidays & Entertaining",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "3g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "90mg",
+        "sodium": "170mg",
+        "total_carbohydrate": "10g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "35g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-turkey-vegetables"
+}

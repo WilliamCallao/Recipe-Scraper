@@ -1,0 +1,89 @@
+{
+    "title": "Almuerzo Casero Saludable en Paquete",
+    "keywords": "Quick & Easy,Lunch",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_303_Healthy_Homemade_Lunch_in_a_pack_MG_5812-196-%28ZF-5661-35964-1-021%29._02282018jpg.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "cebolla(s) (picadas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "mini-pretzels (o palitos de pretzel partidos en trozos de 1 pulgada)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "miseria",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "palitos de apio (de 4 pulgadas cada uno)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "humus",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Pechuga de pavo estilo delicatessen con bajo contenido de sodio (corte cada rebanada en 4 trozos)",
+            "us_amount": "3 (1-oz) slices",
+            "metric_amount": "3 (1-oz) slices"
+        },
+        {
+            "name": "queso cheddar bajo en grasa (cortado en 4 cuadrados)",
+            "us_amount": "1 slice",
+            "metric_amount": "1 slice"
+        },
+        {
+            "name": "galletas multigrano",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "manzana pequeña (sin corazón y cortada en rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zanahorias bebé",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "En un tazón pequeño, combine los cheerios, los pretzels, las pasas y los maníes (si los usa).",
+        "Unte 1 cucharadita de hummus en cada tallo de apio. En un recipiente de plástico con compartimentos, coloque el jamón, el queso, las galletas y la nectarina en una sección separada del recipiente.",
+        "pechugas de pollo deshuesadas y sin piel (cortadas en tiras de 1/2 pulgada × 1 pulgada)"
+    ],
+    "tags": [
+        "High in Fiber",
+        "Kid Friendly",
+        "Quick & Easy",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "470",
+        "total_fat": "14g",
+        "saturated_fat": "4.1g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "620mg",
+        "total_carbohydrate": "53g",
+        "fiber": "8g",
+        "sugar": "21g",
+        "added_sugar": "0g",
+        "protein": "35g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/healthy-homemade-lunch-pack"
+}

@@ -1,0 +1,94 @@
+{
+    "title": "Camarones Especiados con Limón a la Parrilla",
+    "keywords": "Quick & Easy,Lunch,Holidays & Entertaining,Dinner",
+    "prep_time": "PT5M",
+    "cook_time": "PT6M",
+    "categories": [
+        "Quick & Easy",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/spiced-shrimp-with-grilled-lemon.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "Calienta 1 cucharadita de aceite en una sartén antiadherente grande a fuego medio-alto. Cocina el pescado durante 5 minutos de cada lado o hasta que se desmenuce con un tenedor. Reserva en un plato aparte.",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cilantro molido",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "Camarones (pelados y desvenados, con cola)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "Rocíe con aceite en aerosol la rejilla de una parrilla a gas para exteriores y colóquela a 6 pulgadas de la fuente de calor. Precaliente la parrilla a temperatura media alta. Si cree que los camarones se caerán a través de la rejilla, prepare una canasta para pescado para asar los camarones. Rocíe el interior de la canasta con aceite en aerosol.",
+        "Rocíe los camarones con el aceite de oliva. Combine el comino, el chile en polvo, el cilantro, la sal y la pimienta negra y frote los camarones.",
+        "Añade los camarones directamente a la parrilla o colócalos en una sola capa en la canasta para pescado. Asa los camarones durante 2 a 3 minutos por cada lado o hasta que estén bien cocidos. Mientras tanto, agrega las mitades de limón, con el lado cortado hacia abajo, a la parrilla y asa durante 3 a 4 minutos, hasta que el limón esté ligeramente carbonizado.",
+        "Añade los camarones a la parrilla a una fuente. Decora con las mitades de limón a la parrilla y el perejil picado."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Seafood",
+        "Mexican/Southwestern",
+        "Grilling",
+        "Quick & Easy",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "125",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "150mg",
+        "sodium": "205mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spiced-shrimp-grilled-lemon"
+}

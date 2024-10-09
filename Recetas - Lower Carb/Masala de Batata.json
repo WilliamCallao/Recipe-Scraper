@@ -1,0 +1,84 @@
+{
+    "title": "Masala de Batata",
+    "keywords": "Holidays & Entertaining,Foodie,Vegetarian,Vegan,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Foodie",
+        "Vegetarian",
+        "Vegan",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/sweet-potato-masala-2-may16.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Papel pergamino",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta de cayena",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "garam masala",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Tomates picados en caja sin sal agregada o tomates enlatados cortados en cubitos pequeños",
+            "us_amount": "2",
+            "metric_amount": "2"
+        }
+    ],
+    "instructions": [
+        "albahaca recién picada",
+        "Añade el aceite de oliva al bol y revuelve para cubrirlo. Cubre una bandeja para hornear con papel pergamino. Distribuye las batatas en una sola capa sobre la bandeja para hornear. Asa las batatas durante 35 minutos, hasta que estén doradas."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Indian",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Vegetarian",
+        "Vegan",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "65mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-potato-masala"
+}

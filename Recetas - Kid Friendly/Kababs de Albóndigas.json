@@ -1,0 +1,111 @@
+{
+    "title": "Kababs de Albóndigas",
+    "keywords": "Appetizers,Holidays & Entertaining,Lunch,Gluten-Free,Foodie,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Gluten-Free",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/may2014-meatball-kabobs.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "salsa picante",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "cebolla(s) (rallada)",
+            "us_amount": "20 oz",
+            "metric_amount": "566 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Queso parmesano (rallado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "claras de huevo",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Prepare el relleno combinando las galletas trituradas, el tomillo, el chile picante, las cebolletas y la mantequilla derretida en un recipiente mediano. Llene la cavidad del pescado con el relleno y, utilizando un palillo o una brocheta de metal, asegure la abertura entrelazando la brocheta para cerrar el pescado. También puede introducir palillos en la parte inferior del pescado a intervalos de 5 cm para asegurarlo.",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Hongos cremini frescos (hongos portobello bebés), cortados por la mitad si es necesario para hacer 12 piezas",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "tomates uva o cherry",
+            "us_amount": "24",
+            "metric_amount": "24"
+        },
+        {
+            "name": "Cebolla mediana (cortada por la mitad, luego en cuartos y luego cada cuarto cortado en 3 (para un total de 12 trozos de cebolla))",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "hielo",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "brochetas de bambú",
+            "us_amount": "12",
+            "metric_amount": "12"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375 grados F. Rocíe una bandeja para hornear con aceite en aerosol. Déjela a un lado.",
+        "Combine las claras de huevo, el queso parmesano, el ajo, el pavo molido, la sal (opcional) y la pimienta. Mezcle bien y forme 12 albóndigas. Refrigere las albóndigas durante al menos 30 minutos.",
+        "Ensarte 2 albóndigas, 2 tomates, 1 champiñón y 1 trozo de cebolla alternando en cada brocheta.",
+        "pechugas de pollo deshuesadas y sin piel (cortadas en 12 tiras finas)",
+        "Ponga a hervir a fuego lento la mermelada, la mantequilla de maní y el endulzante Splenda Magic Baker en una cacerola pequeña a fuego medio. Cocine, revolviendo constantemente, hasta que la mezcla espese, aproximadamente 5 minutos. Agregue la avena y retire del fuego.",
+        "Hornee las brochetas durante 10 minutos. Pinte nuevamente todos los lados con la marinada y hornee durante 10 a 15 minutos más. Las albóndigas deben cocinarse a una temperatura interna de al menos 165 grados F."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Low Sodium",
+        "Kid Friendly",
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Gluten-Free",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "8g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "75mg",
+        "sodium": "120mg",
+        "total_carbohydrate": "7g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/meatball-kabobs"
+}

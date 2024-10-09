@@ -1,0 +1,93 @@
+{
+    "title": "Sopa Cremosa de Cangrejo de Eastern Shore de Maryland",
+    "keywords": "Soup,One Pot,Lunch,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Soup",
+        "One Pot",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2043-diabetic-maryland-crab-soup_DaVita_040821.jpg",
+    "servings": "7 Servings",
+    "ingredients": [
+        {
+            "name": "mantequilla sin sal",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla mediana (cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "carne de cangrejo en trozos",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "Caldo de pollo o mariscos bajo en sodio",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Maicena",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Condimento Old Bay",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "eneldo seco",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Derretir la mantequilla en una olla grande a fuego moderado. Agregar la cebolla y cocinar durante unos minutos, hasta que la cebolla se ablande y quede transparente.",
+        "Agregue la carne de cangrejo. Cocine durante 2 a 3 minutos, revolviendo constantemente.",
+        "Añade el caldo de pollo y deja que hierva. Reduce el fuego a mínimo.",
+        "Combine la crema half & half y la maicena en un tazón pequeño. Bata hasta que quede una mezcla homogénea. Agregue a la sopa y aumente un poco el fuego, revolviendo constantemente hasta que la mezcla se espese y hierva.",
+        "Baja el fuego y añade el ajo. Cocina hasta que desprenda un aroma agradable (aproximadamente 1 minuto). Retira los tomates y el ajo del fuego y colócalos en un bol grande. Reserva la sartén para usarla más tarde; no es necesario limpiarla todavía."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Comfort Food",
+        "Soup",
+        "One Pot",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "6g",
+        "saturated_fat": "3.6g",
+        "trans_fat": "0g",
+        "cholesterol": "55mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "7g",
+        "fiber": "0.4g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/marylands-eastern-shore-cream-crab-soup"
+}

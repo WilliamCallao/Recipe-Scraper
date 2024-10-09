@@ -1,0 +1,84 @@
+{
+    "title": "Ensalada de Garbanzos con Perejil y Limón",
+    "keywords": "Appetizers,Budget Friendly,Gluten-Free,No Cook,Quick & Easy,Salads,Sides,Snacks,Vegan,Vegetarian",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Appetizers",
+        "Budget Friendly",
+        "Gluten-Free",
+        "No Cook",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Snacks",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Diabetic%20parsley%20lemon%20chicpea%20salad.png",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "margarina sin grasas trans",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "limón (ralladura y jugo de limón)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Garbanzos enlatados de 15 oz (escurridos y enjuagados)",
+            "us_amount": "2 can",
+            "metric_amount": "2 can"
+        },
+        {
+            "name": "cebolla roja (cortada en cubitos)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        }
+    ],
+    "instructions": [
+        "Añade las cebollas escurridas y revuelve nuevamente para mezclar. Prueba y ajusta con más limón, sal o pimienta, si es necesario.",
+        "En un bol mediano, combine los garbanzos, el aceite de oliva, la ralladura y el jugo de limón, el perejil y la pimienta. Revuelva para mezclar.",
+        "Coloque la cebolla picada en un recipiente con agua fría durante 10 minutos, luego escurra."
+    ],
+    "tags": [
+        "Mediterranean",
+        "Appetizers",
+        "Budget Friendly",
+        "Gluten-Free",
+        "No Cook",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Snacks",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "11g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "240mg",
+        "total_carbohydrate": "25g",
+        "fiber": "7g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/parsley-lemon-chickpea-salad"
+}

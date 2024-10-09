@@ -1,0 +1,95 @@
+{
+    "title": "Caldo Verde (Sopa Verde)",
+    "keywords": "Budget Friendly,Dinner,Lunch,One Pot,Soup",
+    "prep_time": "PT20M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "One Pot",
+        "Soup"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1708-diabetic-caldo-verde-soup_Schwartz_010419.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Salchicha de pollo baja en sodio* (cortada en rodajas o medias lunas)",
+            "us_amount": "3/4 lbs",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "cebolla grande (cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Papas Yukon Gold (peladas y cortadas en trozos de 1/2 pulgada)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "caldo de pollo bajo en grasa y sodio",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        },
+        {
+            "name": "col rizada lucinato u otras verduras (se descartan los tallos y se cortan en trozos grandes)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "sal kosher",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 pinch"
+        },
+        {
+            "name": "pimienta de cayena",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        }
+    ],
+    "instructions": [
+        "Calienta 2 cucharadas de aceite de oliva en una olla grande, agrega la salchicha y cocínala hasta que esté ligeramente dorada por todos lados, aproximadamente 5 minutos. Con una espumadera, retira la salchicha de la sartén, transfiérela a un bol y cúbrela con papel de aluminio para mantenerla caliente.",
+        "aguacate (cortado en cuartos)",
+        "Vuelva a agregar la salchicha cocida a la olla junto con el caldo de pollo. Tape la olla y deje que la sopa hierva, luego baje el fuego y cocine a fuego lento hasta que las papas estén cocidas y tiernas, aproximadamente 15 minutos.",
+        "Añade las verduras y cocina a fuego lento hasta que la col rizada esté de un verde brillante y marchita, unos 5 minutos. Si quieres preparar la sopa con antelación, reserva la col rizada y añádela 5 minutos antes de servir. Sazona con sal, pimienta negra y una pizca de pimienta de cayena para darle un toque picante."
+    ],
+    "tags": [
+        "Latin American",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "One Pot",
+        "Soup"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "9g",
+        "saturated_fat": "1.7g",
+        "trans_fat": "0g",
+        "cholesterol": "35mg",
+        "sodium": "470mg",
+        "total_carbohydrate": "15g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/caldo-verde-green-soup"
+}

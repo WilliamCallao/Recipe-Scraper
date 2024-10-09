@@ -1,0 +1,100 @@
+{
+    "title": "Pollo Asado en Sartén Ahumado con Papas y Frijoles",
+    "keywords": "Quick & Easy,Main Dish,Dinner,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1692-diabetic-smoky-pan-roasted-chicken-potatoes-beans_12-week-diabetes-cookbook_DFJanFeb2018_121018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pimentón ahumado",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "comino",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Rocíe una fuente para horno de 23 x 33 cm con aceite en aerosol. Corte cuatro rebanadas de pan integral en pedazos y colóquelas en capas en el fondo de la fuente para horno. Cubra con la mitad de las verduras asadas y 1/4 de taza de queso parmesano. Vierta la mitad de la mezcla de huevo sobre el pan, las verduras y el queso.",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "papas baby rojas o amarillas (lavadas y cortadas en trozos de 1 pulgada)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "Muffins ingleses de trigo integral con alto contenido de fibra (partidos por la mitad)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Muslos de pollo deshuesados ​​y sin piel (grasa visible eliminada)",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        },
+        {
+            "name": "aguacate pequeño (sin hueso y cortado en rodajas finas)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "cilantro fresco (picado)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Sustituto de azúcar granulado sin calorías (sucralosa original)",
+        "Coloque las papas en una cacerola grande. Llene la cacerola con suficiente agua fría para cubrir las papas. Cubra con una tapa y cocine a fuego lento durante 10 minutos.",
+        "Mientras las papas hierven a fuego lento, calienta una sartén antiadherente grande a fuego medio-alto. Rocía la sartén con aceite de oliva en aerosol. Agrega el pollo, con el lado liso hacia abajo. Dora durante 2 minutos. Da vuelta y dora durante 2 minutos más.",
+        "Vierta la mezcla de miel sobre el pollo. Cubra la sartén con una tapa, baje el fuego a medio y cocine durante 5 minutos, hasta que el pollo alcance una temperatura interna de 170 °F.",
+        "Mientras el pollo termina de cocinarse, añade las judías verdes a la sartén con las patatas y continúa cocinando a fuego lento, sin tapar, durante 5 minutos, o hasta que las patatas estén bien cocidas.",
+        "Retira el pollo del fuego. Escurre las verduras, colócalas en un bol y mézclalas con el aceite de oliva, la sal y la pimienta. Sirve las verduras con el pollo."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Quick & Easy",
+        "Main Dish",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "430",
+        "total_fat": "17g",
+        "saturated_fat": "3.7g",
+        "trans_fat": "0g",
+        "cholesterol": "155mg",
+        "sodium": "400mg",
+        "total_carbohydrate": "39g",
+        "fiber": "6g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "32g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/smoky-pan-roasted-chicken-potatoes-and-beans"
+}

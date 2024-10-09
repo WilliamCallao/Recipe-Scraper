@@ -1,0 +1,104 @@
+{
+    "title": "Pollo Sellado con Salsa de Fresa",
+    "keywords": "Main Dish,Foodie,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Main Dish",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_829_Seared_Chicken_Strawberry_Salsa_DiabetesHeartHealthy_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "paprika",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta de Jamaica molida (o comino)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Orégano seco",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pechugas de pollo (deshuesadas, sin piel, cortadas en mitades (aproximadamente 4 onzas cada una), toda la grasa visible descartada)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Fresas, mangos o melocotones cortados en cubitos",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "chile poblano mediano o 3/4 de pimiento verde mediano (cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla roja (finamente picada)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "menta fresca o cilantro (picado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "jugo de limón fresco",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "Espolvoree los filetes con sal y pimienta. En una sartén antiadherente grande, caliente el aceite de oliva a fuego medio-alto. Agregue los filetes y dore cada lado durante aproximadamente 4 minutos o hasta que estén bien cocidos. Retire el pescado de la sartén y colóquelo en un plato. Cúbralo sin apretar para mantenerlo caliente.",
+        "Mientras tanto, en un tazón mediano, mezcle los ingredientes de la salsa.",
+        "hoja de laurel seca",
+        "Sirve la salsa con el pollo."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Comfort Food",
+        "Main Dish",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "8g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/seared-chicken-strawberry-salsa"
+}

@@ -1,0 +1,114 @@
+{
+    "title": "Frittata Económica de Verduras de Verano",
+    "keywords": "Lunch,Vegetarian,Dinner,Gluten-Free,Breakfast and Brunch,Budget Friendly",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Vegetarian",
+        "Dinner",
+        "Gluten-Free",
+        "Breakfast and Brunch",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/133-diabetic-summer-vegetable-frittata_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Champiñones blancos (cortados en cubitos)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "Pimiento rojo mediano (sin semillas y cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla pequeña (cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "espinaca",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "claras de huevo",
+            "us_amount": "5",
+            "metric_amount": "5"
+        },
+        {
+            "name": "leche desnatada",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sal (opcional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta de cayena",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "albahaca fresca (picada)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Mientras tanto, saltee las cebollas, los pimientos y la col rizada en aceite de oliva a fuego medio alto hasta que se ablanden, durante 10 minutos. Agregue la espinaca picada. Revuelva para incorporar y cocine hasta que se ablande.",
+        "Añade aceite de oliva a una sartén antiadherente apta para horno a fuego medio alto.",
+        "Añade los champiñones y saltéalos hasta que todo el líquido de los champiñones se haya evaporado.",
+        "Agregue el pimiento morrón, la cebolla y las espinacas y saltee hasta que las verduras se ablanden y el líquido se haya evaporado.",
+        "Batir los huevos, las claras de huevo, la leche, la sal (opcional), la pimienta, la pimienta de cayena y la albahaca en un bol mediano. Verter sobre las verduras y revolver hasta que los huevos comiencen a cuajar.",
+        "Alise la parte superior de la frittata con una espátula y póngala en el horno para hornear durante 20 minutos o hasta que los huevos estén listos.",
+        "Desliza la frittata fuera de la sartén sobre un plato y córtala en 8 porciones de tarta."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Low Sodium",
+        "Italian",
+        "Comfort Food",
+        "Lunch",
+        "Vegetarian",
+        "Dinner",
+        "Gluten-Free",
+        "Breakfast and Brunch",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "6g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "420mg",
+        "total_carbohydrate": "9g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-summer-vegetable-frittata"
+}

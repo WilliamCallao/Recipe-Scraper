@@ -1,0 +1,91 @@
+{
+    "title": "Guacamole de Pepino",
+    "keywords": "Appetizers,Gluten-Free,Holidays & Entertaining,No Cook,Quick & Easy,Snacks,Vegan,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "No Cook",
+        "Quick & Easy",
+        "Snacks",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1744-espanol-diabetic-guacamole-pepinillo_latin-comfort-foods_13020.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Aguacate Hass (sin hueso y cortado en cubos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Añade la otra mitad del aceite a la sartén. Añade la cebolla a la sartén y saltea durante 2 minutos. Añade los pimientos morrones, el ajo y el jengibre, el vinagre de arroz, el tamari y la pasta de chile. Saltea durante 3 minutos o hasta que los pimientos estén tiernos.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Pepino inglés (sin semillas) (finamente picado)",
+            "us_amount": "1/2 (about 4 oz)",
+            "metric_amount": "1/2 (about 4 oz)"
+        },
+        {
+            "name": "mayonesa ligera",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Cuele el líquido en una jarra pequeña. Descarte los sólidos.",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "vinagre de vino blanco",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chile jalapeño (picado)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Machaque el aguacate en trozos grandes en un tazón mediano. Agregue el tomate, el pepino, el cilantro, el jugo de limón, el vinagre, el jalapeño y la sal hasta que estén bien mezclados. Sirva con rodajas de rábanos para mojar, si lo desea."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Latin American",
+        "Mexican/Southwestern",
+        "Appetizers",
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "No Cook",
+        "Quick & Easy",
+        "Snacks",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "45",
+        "total_fat": "3g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "100mg",
+        "total_carbohydrate": "4g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cucumber-guacamole"
+}

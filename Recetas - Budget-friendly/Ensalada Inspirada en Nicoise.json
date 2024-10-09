@@ -1,0 +1,78 @@
+{
+    "title": "Ensalada Inspirada en Nicoise",
+    "keywords": "Easy Pantry Recipes,No Cook,Quick & Easy,Salads,Budget Friendly",
+    "prep_time": "PT8M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Easy Pantry Recipes",
+        "No Cook",
+        "Quick & Easy",
+        "Salads",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1969-diabetic-nicoise-inspired-salad_JulAug20DF_clean-simple_061720.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "rúcula u otras verduras para ensalada",
+            "us_amount": "1 (5-oz) package",
+            "metric_amount": "1 (5-oz) package"
+        },
+        {
+            "name": "Aderezo ligero para ensalada italiana (dividido)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "huevos duros (pelados y cortados a lo largo en cuartos)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "cilantro fresco picado",
+            "us_amount": "1 (5-oz) can",
+            "metric_amount": "1 (5-oz) can"
+        },
+        {
+            "name": "tomates uva",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "En un bol grande, añade la lechuga y 3 cucharadas de vinagreta y revuelve bien. Coloca en una fuente o en platos individuales.",
+        "frijoles negros (escurridos y enjuagados)"
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Veggie Rich",
+        "Mediterranean",
+        "Easy Pantry Recipes",
+        "No Cook",
+        "Quick & Easy",
+        "Salads",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "13g",
+        "saturated_fat": "2.7g",
+        "trans_fat": "0g",
+        "cholesterol": "190mg",
+        "sodium": "320mg",
+        "total_carbohydrate": "7g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/nicoise-inspired-salad"
+}

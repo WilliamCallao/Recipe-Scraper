@@ -1,0 +1,114 @@
+{
+    "title": "Pozole de Cerdo con Chile Verde",
+    "keywords": "Dinner,Gluten-Free,Lunch,Main Dish,Soup",
+    "prep_time": "PT20M",
+    "cook_time": "PT1H25M",
+    "categories": [
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Main Dish",
+        "Soup"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1690-diabetic-green-chile-pork-pozole_latin-comfort-foods-made-healthy_DFJanFeb2018_121018.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Solomillo de cerdo (recortado y cortado en 4 trozos)",
+            "us_amount": "1 1/4 lbs",
+            "metric_amount": "567 ml"
+        },
+        {
+            "name": "agua (dividida)",
+            "us_amount": "5 cup",
+            "metric_amount": "1 l 183 ml"
+        },
+        {
+            "name": "avellanas (picadas en trozos grandes)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cilantro fresco",
+            "us_amount": "6 sprigs",
+            "metric_amount": "6 sprigs"
+        },
+        {
+            "name": "Ajo (cortado por la mitad, uso dividido)",
+            "us_amount": "6 diente",
+            "metric_amount": "6 diente"
+        },
+        {
+            "name": "hojas de laurel",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Tomatillos (descascarados, enjuagados y cortados en cuartos)",
+            "us_amount": "1 lb (about 6)",
+            "metric_amount": "1 lb (about 6)"
+        },
+        {
+            "name": "chiles serranos (picados gruesos)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "cilantro fresco picado",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "maíz blanco (enjuagado y escurrido)",
+            "us_amount": "2 (15 oz) cans",
+            "metric_amount": "2 (15 oz) cans"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "rábanos (en rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Lima (cortada en 6 gajos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Combine la carne de cerdo, 4 tazas de agua, la cebolla, las ramitas de cilantro, 3 de los dientes de ajo y las hojas de laurel en una olla holandesa; deje hervir. Reduzca el fuego a medio bajo y cocine a fuego lento, tapado, hasta que la carne esté tierna, aproximadamente 40 minutos.",
+        "Retire la olla holandesa del fuego. Transfiera la carne de cerdo a una tabla de cortar y desmenúcela con dos tenedores. Cuele el líquido de cocción de la olla holandesa y reserve 3 tazas. Descarte el resto.",
+        "Coloque los tomatillos, los chiles, la taza de agua restante y los 3 dientes de ajo restantes en una cacerola pequeña y deje hervir. Reduzca el fuego a medio bajo y cocine a fuego lento hasta que los tomatillos estén tiernos, aproximadamente 15 minutos. Deje enfriar durante 10 minutos.",
+        "Escurre el agua helada, luego rueda suavemente cada huevo sobre una toalla de papel para aflojar la cáscara y retira la cáscara del huevo.",
+        "Sirve la sopa en 6 tazones. Cubre cada tazón con unas rodajas de rábano y una rodaja de lima."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Latin American",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Main Dish",
+        "Soup"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "4g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "360mg",
+        "total_carbohydrate": "20g",
+        "fiber": "4g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/green-chile-pork-pozole"
+}

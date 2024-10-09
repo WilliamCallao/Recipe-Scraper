@@ -1,0 +1,98 @@
+{
+    "title": "Ensalada de Quinoa, Rúcula y Albaricoques",
+    "keywords": "Salads,Vegetarian,Sides,Foodie,Dessert,Lunch,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Vegetarian",
+        "Sides",
+        "Foodie",
+        "Dessert",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/diabetic-quinoa-apricot-arugula-salad_DFMarApr19_020519.jpg",
+        "Arugula",
+        "and Apricot Salad\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "quinua cocida y tibia",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Jarabe multiusos Splenda® (dividido)",
+            "us_amount": "8 whole",
+            "metric_amount": "8 whole"
+        },
+        {
+            "name": "mantequilla de maní sin sal agregada y sin azúcar agregada",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "piñones tostados",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "hojuelas de coco sin azúcar",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "limón (jugo)",
+            "us_amount": "1/2 whole",
+            "metric_amount": "1/2 whole"
+        },
+        {
+            "name": "nuez moscada molida",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "aceite de oliva (dividido)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        }
+    ],
+    "instructions": [
+        "En un tazón pequeño, mezcle la quinua, los albaricoques, la cebolla, los piñones, el queso feta y el jugo de limón.",
+        "Coloca 1 taza de rúcula en una ensaladera y rocía con ½ cucharadita de aceite de oliva. Revuelve ligeramente para cubrir, luego cubre con ¼ de la mezcla de quinoa (aproximadamente 1/3 de taza) y sazona con pimienta a gusto.",
+        "Repita esto para las tres ensaladas restantes."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Salads",
+        "Vegetarian",
+        "Sides",
+        "Foodie",
+        "Dessert",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "8g",
+        "saturated_fat": "1.7g",
+        "trans_fat": "0.1g",
+        "cholesterol": "5mg",
+        "sodium": "90mg",
+        "total_carbohydrate": "21g",
+        "fiber": "3g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/quinoa-arugula-and-apricot-salad"
+}

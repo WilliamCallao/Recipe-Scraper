@@ -1,0 +1,78 @@
+{
+    "title": "Peras Asadas con Canela",
+    "keywords": "Vegetarian,Quick & Easy,Gluten-Free,Holidays & Entertaining,Dessert",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Quick & Easy",
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_184_Cinnamon_Roasted_Pears_iStock-184982782_02282018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Margarina Smart Balance",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Peras Anjou medianas (aproximadamente 6,5 onzas cada una) peladas, sin corazón y cortadas por la mitad)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Agrega aceite de oliva y aceite de cocina en aerosol a una olla grande a fuego medio alto. Agrega la cebolla, las zanahorias, el apio y los hongos. Saltea durante 5 a 7 minutos o hasta que las verduras se ablanden.",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 grados F.",
+        "En un bol pequeño (utilizando los dedos) combine la margarina, la canela y el azúcar moreno. Agregue las nueces y mezcle.",
+        "Coloque las peras con el lado cortado hacia arriba en una fuente de vidrio para horno de 20 cm (8 pulgadas) de diámetro. Vierta 1/4 de taza de agua en el fondo de la fuente.",
+        "Divida la mezcla de azúcar morena de manera uniforme entre las mitades de pera y colóquela en el centro de las peras.",
+        "Dividir en 24 porciones y formar bolitas. Refrigerar hasta que esté listo para servir."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Kid Friendly",
+        "Grilling",
+        "Vegetarian",
+        "Quick & Easy",
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "25mg",
+        "total_carbohydrate": "19g",
+        "fiber": "3g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cinnamon-roasted-pears"
+}

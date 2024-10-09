@@ -1,0 +1,91 @@
+{
+    "title": "Pizza de Champiñones y Rúcula",
+    "keywords": "Vegetarian,Snacks,Lunch",
+    "prep_time": "PT15M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Vegetarian",
+        "Snacks",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1699-diabetic-Mushroom-Arugula-Pizza_Diabetes-Superfoods-Cookbook_010319.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Prepare el relleno combinando las galletas trituradas, el tomillo, el chile picante, las cebolletas y la mantequilla derretida en un recipiente mediano. Llene la cavidad del pescado con el relleno y, utilizando un palillo o una brocheta de metal, asegure la abertura entrelazando la brocheta para cerrar el pescado. También puede introducir palillos en la parte inferior del pescado a intervalos de 5 cm para asegurarlo.",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "Hongos cremini frescos (hongos portobello bebés), cortados por la mitad si es necesario para hacer 12 piezas",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Champiñones blancos (en rodajas)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Rúcula compacta (aproximadamente 3 tazas sueltas)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "queso ricotta parcialmente descremado",
+            "us_amount": "1/4 cup plus 1 tbsp",
+            "metric_amount": "1/4 cup plus 1 tbsp"
+        },
+        {
+            "name": "pimienta blanca",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Galletas de trigo integral para sándwich (abiertas y partidas)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        }
+    ],
+    "instructions": [
+        "En una sartén, saltee la mitad del ajo, la cebolla y los champiñones en aceite de oliva durante unos 10 minutos o hasta que los champiñones estén dorados.",
+        "En un procesador de alimentos, combine la rúcula, la ricota, el ajo restante y la pimienta blanca y procese hasta que quede suave.",
+        "Coloque 6 mitades de pizza delgada en una bandeja para hornear. Agregue 1 cucharada de la mezcla de rúcula a cada mitad de pizza delgada. Cubra con la mezcla de hongos y mozzarella rallada, dividiéndolos uniformemente entre las seis pizzas.",
+        "Asar durante 5 minutos en el horno a potencia baja hasta que el queso se derrita."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kid Friendly",
+        "Comfort Food",
+        "Vegetarian",
+        "Snacks",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "4g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "130mg",
+        "total_carbohydrate": "14g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mushroom-arugula-pizza"
+}

@@ -1,0 +1,105 @@
+{
+    "title": "Tacos de Camarones Tex-Mex",
+    "keywords": "Vegetarian,Quick & Easy,Main Dish,Lunch,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT6M",
+    "categories": [
+        "Vegetarian",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2002-diabetic-Tex-Mex-Shrimp-Tacos_KDBH-bookazine_012821.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "mayonesa ligera",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        },
+        {
+            "name": "Mini conchas de masa filo (descongeladas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "filetes de bacalao (cortados en 4 porciones)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "condimento cajún sin sal",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "camarones (pelados y desvenados)",
+            "us_amount": "32 (about 1 lb)",
+            "metric_amount": "32 (about 1 lb)"
+        },
+        {
+            "name": "En un bol pequeño, combine el aceite, las nueces, los arándanos rojos, la sal y la pimienta. Cubra las judías verdes con la mezcla de arándanos rojos y nueces. Adorne con la ralladura de limón.",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "verduras mixtas picadas",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "cilantro fresco picado",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "espinacas frescas baby",
+        "En un bol pequeño, mezcle la mayonesa, el yogur y 1 cucharada de jugo de lima. Reserve.",
+        "En un bol grande, mezcle el aceite, el jugo de lima restante, el condimento criollo, el ajo y la sal. Agregue los camarones a la mezcla y revuelva suavemente hasta que estén bien cubiertos.",
+        "Coloca los camarones en una sola capa sobre una bandeja para hornear grande. Asa los camarones durante 2 o 3 minutos. Con unas pinzas, dales la vuelta. Asa durante 2 o 3 minutos o hasta que los camarones se pongan rosados ​​por fuera.",
+        "Reparte los camarones en las tortillas por igual. Cubre cada una con las hojas verdes y el cilantro. Rocía con la salsa blanca."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Seafood",
+        "Mexican/Southwestern",
+        "Vegetarian",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "15g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tex-mex-shrimp-tacos"
+}

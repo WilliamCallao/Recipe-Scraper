@@ -1,0 +1,87 @@
+{
+    "title": "Rigatoni con Pesto de Kale y Parmesano",
+    "keywords": "Main Dish,Dinner",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/kale%20parm.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "tomates uva (cortados por la mitad)",
+            "us_amount": "1 pints",
+            "metric_amount": "480 ml"
+        },
+        {
+            "name": "castañas de agua en rodajas",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "limón ((jugo/exprimido))",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "En un bol mediano, mezcle el yogur, la mayonesa, el azúcar, el curry y la sal. Reserve.",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ajo",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "nueces ((picadas))",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "col rizada ((empaquetar las tazas, picada))",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "Cocine la pasta según las instrucciones del paquete. Mezcle la pasta cocida con los tomates cortados por la mitad y adorne con queso parmesano si lo desea.",
+        "Coloque la col rizada, las nueces, el ajo, el parmesano recién rallado, la sal, la pimienta y el jugo de limón en un procesador de alimentos. Procese hasta que quede una mezcla homogénea, vertiendo el aceite de oliva en el recipiente en un chorro constante. Use una espátula para empujar hacia abajo los lados del pesto y continúe mezclando hasta que quede una mezcla homogénea. Pruebe y ajuste los condimentos si es necesario."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "390",
+        "total_fat": "20g",
+        "saturated_fat": "3.2g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "46g",
+        "fiber": "6g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/kale-parmesan-pesto-rigatoni"
+}

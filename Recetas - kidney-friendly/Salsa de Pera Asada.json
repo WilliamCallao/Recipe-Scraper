@@ -1,0 +1,76 @@
+{
+    "title": "Salsa de Pera Asada",
+    "keywords": "Gluten-Free,Foodie,Vegetarian,Snacks,Dessert,Quick & Easy,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Gluten-Free",
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Dessert",
+        "Quick & Easy",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_454_Roasted_Pear_Sauce_02282018.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Peras grandes maduras (sin corazón y cortadas en trozos de 1 pulgada)",
+            "us_amount": "3 (about 1 1/2 lbs total)",
+            "metric_amount": "3 (about 1 1/2 lbs total)"
+        },
+        {
+            "name": "mantequilla (derretida)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Miel o 2 paquetes de edulcorante artificial",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "nueces picadas (tostadas)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F.",
+        "En un bol grande, mezcle las peras con la mantequilla derretida. Vierta las peras en una fuente para horno y áselas, sin tapar, durante 20 a 25 minutos o hasta que estén tiernas, revolviendo una o dos veces. Deje enfriar las peras cocidas.",
+        "cebolla roja picada"
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Kid Friendly",
+        "Gluten-Free",
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Dessert",
+        "Quick & Easy",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "6g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "10mg",
+        "total_carbohydrate": "20g",
+        "fiber": "4g",
+        "sugar": "13g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-pear-sauce"
+}

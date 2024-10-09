@@ -1,0 +1,77 @@
+{
+    "title": "Frittata Rápida de Salchicha y Albahaca Fresca",
+    "keywords": "Dinner,Lunch,Main Dish,Breakfast and Brunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/472-diabetic-frittata-basil-sausage_539338066_020119.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Pollo con salchicha de tomates secados al sol (cortado en cubitos)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "huevos grandes",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "queso mozzarella parcialmente descremado (rallado)",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "cebolla verde (finamente picada)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "tomato(es) (diced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "albahaca fresca o perejil de hoja plana (picado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite en una sartén antiadherente grande a fuego medio. Agrega la salchicha y cocina durante 3 minutos o hasta que comience a dorarse, revolviendo de vez en cuando. Vierte el sustituto de huevo de manera uniforme sobre la salchicha y cocina durante 1 minuto. No revuelvas. Luego, levanta con cuidado para permitir que el huevo crudo se escurra por debajo. Retira del fuego.",
+        "Vierta la masa en moldes para muffins y hornee durante 18 a 20 minutos, hasta que al insertar un palillo éste salga limpio."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Italian",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "8g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "525mg",
+        "total_carbohydrate": "6g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sausage-and-fresh-basil-fast-frittata"
+}

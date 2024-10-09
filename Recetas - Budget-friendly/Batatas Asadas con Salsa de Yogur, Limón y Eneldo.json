@@ -1,0 +1,88 @@
+{
+    "title": "Batatas Asadas con Salsa de Yogur, Limón y Eneldo",
+    "keywords": "Vegetarian,Sides,Gluten-Free,Budget Friendly,Dinner,Lunch",
+    "prep_time": "PT5M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Gluten-Free",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/roasted%20sweet%20potatoes.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "batatas (peladas y cortadas en 8 gajos)",
+            "us_amount": "2 large",
+            "metric_amount": "2 large"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "limón",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Yogur griego natural sin grasa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "eneldo fresco (picado)",
+            "us_amount": "1/8 cup",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425 grados F. Cubra una bandeja para hornear con papel pergamino.",
+        "Mezcle las rodajas de batata con aceite de oliva. Hornee durante 20 a 25 minutos, hasta que estén tiernas, revolviéndolas a la mitad del tiempo.",
+        "Mientras tanto, ralle y exprima el limón en un bol pequeño. Agregue el ajo, el yogur, el eneldo, la sal y la pimienta.",
+        "Rocíe la salsa de yogur sobre las rodajas y sirva."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Comfort Food",
+        "Vegetarian",
+        "Sides",
+        "Gluten-Free",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "3.5g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "26g",
+        "fiber": "4g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-sweet-potatoes-lemon-dill-yogurt-sauce"
+}

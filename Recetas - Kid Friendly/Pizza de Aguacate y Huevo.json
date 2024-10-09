@@ -1,0 +1,78 @@
+{
+    "title": "Pizza de Aguacate y Huevo",
+    "keywords": "Breakfast and Brunch,Budget Friendly,Dinner,Gluten-Free,Lunch,Main Dish,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Avocadi%20Egg%20Pizza%20for%20Diabetics.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pavo molido magro",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "salsa verde (uso dividido)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "aguacate (en rodajas)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "espinaca",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "corteza de pizza de coliflor",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425 grados F.",
+        "Miel cruda",
+        "Calienta la sartén, fríe los huevos y colócalos sobre la base de la pizza.",
+        "Cubra con espinacas, aguacate y aceite de oliva.",
+        "Coloque los moldes de flan llenos y sin tapar en la canasta de la freidora de aire. Fríalos durante 10 a 13 minutos o hasta que los huevos estén tiernos o cocidos como desee. Retire con cuidado el molde de la canasta de la freidora de aire. Con una manopla, sostenga el molde con cuidado y pase un cuchillo por los lados para transferirlo a un plato.",
+        "Retirar del horno, dejar enfriar y servir."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Italian",
+        "Kid Friendly",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "300",
+        "total_fat": "20g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "150mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "25g",
+        "fiber": "3g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/avocado-egg-pizza"
+}

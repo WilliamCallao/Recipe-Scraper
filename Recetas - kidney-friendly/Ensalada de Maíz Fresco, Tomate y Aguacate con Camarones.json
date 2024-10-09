@@ -1,0 +1,101 @@
+{
+    "title": "Ensalada de Maíz Fresco, Tomate y Aguacate con Camarones",
+    "keywords": "Sides,Salads,Dinner,Main Dish",
+    "prep_time": "PT20M",
+    "cook_time": "PT4M",
+    "categories": [
+        "Sides",
+        "Salads",
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/RecId_700_FreshCornTomatoAvocadoSaladWithShrimp_SixOClockScramble_022618.jpg",
+        "Tomato",
+        "And Avocado Salad With Shrimp\" loading=\"lazy\" />"
+    ],
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Camarones medianos o grandes (pelados y desvenados)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "tomates cherry (cortados por la mitad)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "jarabe de arce puro (preferiblemente de grado B)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "mazorcas de maíz (granos cortados en rodajas (no es necesario cocinarlas si son maíz dulce fresco. Si no, cocínelas al vapor durante 3 minutos))",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Poner a hervir a fuego alto. Hervir durante 4 minutos y luego agregar la avena. Revolviendo constantemente, cocinar a fuego lento durante 5 minutos hasta que la mezcla tenga la consistencia de arena húmeda muy espesa.",
+            "us_amount": "3 oz",
+            "metric_amount": "85 ml"
+        },
+        {
+            "name": "albahaca fresca",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "vinagre balsámico (al gusto)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra (recién molida o al gusto)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "HAGA CON ANTICIPACIÓN O DELEGUE: Cocine y refrigere los camarones, corte los tomates por la mitad, retire los granos de maíz de las mazorcas o prepare completamente la ensalada y refrigere (espere para picar y agregar el aguacate hasta justo antes de servir).",
+        "Saltee, cocine al vapor o a la parrilla los camarones hasta que estén rosados, durante 3 a 4 minutos en total. (Mientras tanto, caliente los rollitos, si los va a servir). Combine todos los ingredientes excepto los camarones en un recipiente grande para servir. Sirva los camarones sobre la ensalada.",
+        "POTENCIADOR DE SABOR Agregue 1/4 de cucharadita de semillas de apio o comino y 1 cucharada de jugo de limón o lima fresco a la ensalada."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Veggie Rich",
+        "Caribbean",
+        "Seafood",
+        "Sides",
+        "Salads",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "195",
+        "total_fat": "10g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "125mg",
+        "sodium": "435mg",
+        "total_carbohydrate": "12g",
+        "fiber": "4g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fresh-corn-tomato-and-avocado-salad-shrimp"
+}

@@ -1,0 +1,105 @@
+{
+    "title": "Shakshuka con Pimientos Rojos y Queso de Cabra",
+    "keywords": "Dinner,Gluten-Free,Lunch,Vegetarian,One Pot,Breakfast and Brunch",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Vegetarian",
+        "One Pot",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2081-diabetic-low-carb-shakshuka_low-carb-brissette_050721.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1/2 tbsp",
+            "metric_amount": "7 ml"
+        },
+        {
+            "name": "Cebolla amarilla pequeña (cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "ajo (cortado en rodajas finas)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "paprika",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Sal marina",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "tomates triturados enlatados",
+            "us_amount": "1 (28-oz) can",
+            "metric_amount": "1 (28-oz) can"
+        },
+        {
+            "name": "sal",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "Precaliente el horno a 450 grados F. Cubra una bandeja para hornear con borde con papel pergamino.",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425 grados.",
+        "Calienta el aceite de oliva a fuego medio-alto en una sartén grande apta para horno. Agrega la cebolla y saltea durante unos 3 minutos, hasta que esté transparente. Agrega el ajo, el pimiento rojo y las especias y saltea hasta que el pimiento rojo esté tierno (unos 2 minutos).",
+        "Añade los tomates triturados y las espinacas. Saltea durante 2 minutos. Apaga el fuego.",
+        "Con una cuchara de madera, forme ocho huecos en la sartén con las verduras. Rompa un huevo en cada hueco. Coloque la sartén en el horno precalentado y hornee durante unos 7 minutos o hasta que los huevos estén listos.",
+        "condimento de hierbas sin sal, como Ms. Dash"
+    ],
+    "tags": [
+        "High in Fiber",
+        "Lower Carb",
+        "Mediterranean",
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Vegetarian",
+        "One Pot",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "14g",
+        "saturated_fat": "4.5g",
+        "trans_fat": "0g",
+        "cholesterol": "380mg",
+        "sodium": "270mg",
+        "total_carbohydrate": "16g",
+        "fiber": "5g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/shakshuka-red-peppers-and-goat-cheese"
+}

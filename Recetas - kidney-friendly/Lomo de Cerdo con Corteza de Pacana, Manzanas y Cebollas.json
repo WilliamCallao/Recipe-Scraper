@@ -1,0 +1,93 @@
+{
+    "title": "Lomo de Cerdo con Corteza de Pacana, Manzanas y Cebollas",
+    "keywords": "Main Dish,Holidays & Entertaining,Gluten-Free,Dinner,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Main Dish",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1712-diabetic-Pecan-Crusted-Pork-Tenderloin_Diabetes-Superfoods-Cookbook_010719.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "salvia fresca (picada)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "mayonesa ligera",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "leche descremada",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        },
+        {
+            "name": "aceite de oliva (uso dividido)",
+            "us_amount": "5 tsp",
+            "metric_amount": "25 g"
+        },
+        {
+            "name": "nueces picadas",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Solomillo de cerdo",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        },
+        {
+            "name": "cebolla mediana (en rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Manzana Braeburn (cortada en rodajas de 1/2 pulgada de grosor)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425 grados F.",
+        "cardamomo (molido)",
+        "Calienta las 2 cucharaditas restantes de aceite de oliva en una sartén grande apta para horno a fuego medio. Agrega la cebolla y las manzanas y saltea durante 5 minutos. Mueve las manzanas y las cebollas a los costados de la sartén y coloca el lomo de cerdo en el centro. Lleva la sartén al horno precalentado y cocina durante 20 a 25 minutos o hasta que la temperatura interna alcance los 145 grados F.",
+        "Para servir, corte la carne de cerdo en 12 rodajas iguales y cubra con la mezcla de manzana y cebolla."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Main Dish",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "10g",
+        "saturated_fat": "1.8g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "140mg",
+        "total_carbohydrate": "6g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "23g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pecan-crusted-pork-tenderloin-apples-and-onions"
+}

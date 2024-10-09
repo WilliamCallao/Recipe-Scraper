@@ -1,0 +1,99 @@
+{
+    "title": "Salsa Casi Suave",
+    "keywords": "Gluten-Free,Holidays & Entertaining,Quick & Easy,Salad Dressings & Condiments,Sauces,Snacks,Vegan,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Salad Dressings & Condiments",
+        "Sauces",
+        "Snacks",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1911-diabetic-almost-smooth-salsa_create-your-plate_022020.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de sésamo tostado",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "pimiento verde (cortado en cubitos)",
+            "us_amount": "1/4",
+            "metric_amount": "1/4"
+        },
+        {
+            "name": "huevo grande (batido)",
+            "us_amount": "1/4",
+            "metric_amount": "1/4"
+        },
+        {
+            "name": "pepino(s) (finamente picado)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "cilantro fresco picado",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "zumo de lima",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Corte los aguacates por la mitad y quíteles el hueso. En el centro de cada aguacate, coloque una cucharada de frijoles, una cucharada de yogur griego y una cucharada de salsa y espolvoree con una cucharadita de queso. Espolvoree la sal uniformemente sobre los aguacates. Sirva cada mitad de aguacate con una rodaja de limón para exprimir sobre el plato.",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "salsa de soja baja en sodio",
+        "Utilizando una licuadora de inmersión, licúe hasta que quede casi suave, dejando algunos trozos en la salsa."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Mexican/Southwestern",
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Salad Dressings & Condiments",
+        "Sauces",
+        "Snacks",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "15",
+        "total_fat": "1g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "45mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/almost-smooth-salsa"
+}

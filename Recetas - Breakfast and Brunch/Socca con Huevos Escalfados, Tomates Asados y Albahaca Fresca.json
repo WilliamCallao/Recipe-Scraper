@@ -1,0 +1,101 @@
+{
+    "title": "Socca con Huevos Escalfados, Tomates Asados y Albahaca Fresca",
+    "keywords": "Vegetarian,Lunch,Breakfast and Brunch",
+    "prep_time": "PT1H",
+    "cook_time": "PT10M",
+    "categories": [
+        "Vegetarian",
+        "Lunch",
+        "Breakfast and Brunch"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/RecId_840_SoccaWithPoachedEggs_WholeCooking_022618.jpg",
+        "Roasted Tomatoes",
+        "And Fresh Basil\" loading=\"lazy\" />"
+    ],
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Semilla de lino molida",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cebollino fresco (picado)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sal marina fina",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "agua tibia",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Aceite de Oliva Virgen Extra (dividido)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "vinagre de vino blanco",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "huevos grandes",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "tomates asados ​​al fuego",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "albahaca fresca (picada)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Coge un vaso alto o un bol pequeño para preparar tu parfait y añade una capa de yogur en el fondo. Añade bayas y nueces (opcional) entre las capas de yogur hasta llegar a la parte superior. ¡Disfruta!",
+        "En un bol pequeño, mezcle la harina de garbanzos, el comino y la sal. Agregue lentamente el agua, batiendo rápidamente para eliminar los grumos, luego agregue 1 cucharada de aceite de oliva. Cubra el bol y deje reposar durante al menos 15 minutos. (O guárdelo en el refrigerador hasta por 12 horas). La masa debe tener una consistencia fina, similar a la de una masa para panqueques.",
+        "Después de que la masa haya reposado, retira con cuidado la sartén caliente del horno. Agrega la cucharada restante de aceite de oliva a la sartén y vierte la masa de socca. Asa durante 8 a 10 minutos o hasta que los bordes de la socca estén dorados y el centro esté listo.",
+        "Mientras tanto, coloca un colador de metal en el fondo de una olla grande, llena la olla hasta 2/3 de su capacidad con agua y agrega el vinagre. Casca cada huevo en un tazón pequeño para preparar. Coloca la olla a fuego medio-alto y lleva el vinagre y el agua a hervor lento. Con una cuchara de mango largo, revuelve el agua con un movimiento amplio y circular para crear un remolino. Rápidamente, mientras el remolino aún está en marcha, desliza los huevos, uno por uno. Una vez que todos los huevos estén en el agua, escalfarlo sin revolver hasta que las claras estén listas y las yemas ya no estén líquidas, aproximadamente de 4 a 6 minutos. Con pinzas, levanta con cuidado el colador del agua con los huevos.",
+        "Saque la socca del horno y córtela en 8 gajos. Para servir, coloque un gajo de socca en cada uno de los 8 platos y cubra cada porción con 1 huevo escalfado, 2 cucharadas de tomates asados ​​y 2 cucharadas de albahaca picada. Sazone las porciones con pimienta."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Italian",
+        "French",
+        "Vegetarian",
+        "Lunch",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "11g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "185mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "9g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/socca-poached-eggs-roasted-tomatoes-and-fresh-basil"
+}

@@ -1,0 +1,102 @@
+{
+    "title": "Barras de Yogur, Arándanos y Limón",
+    "keywords": "Dessert,Breakfast and Brunch,Vegetarian,Snacks",
+    "prep_time": "PT10M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Dessert",
+        "Breakfast and Brunch",
+        "Vegetarian",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_623_BlueberryYogurtLemonBars_HibiscusCitrusBerryCooler_WholeCooking_022618.jpg",
+    "servings": "16 Servings",
+    "ingredients": [
+        {
+            "name": "Spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "harina de galleta graham sin azúcar",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "aceite de aguacate",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Ralladura de limón (recién rallada, dividida)",
+            "us_amount": "2 tsp plus 1 tbsp",
+            "metric_amount": "2 tsp plus 1 tbsp"
+        },
+        {
+            "name": "sal marina fina",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "huevo entero",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "claras de huevo",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "yogur griego de vainilla sin grasa",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Añade la mezcla de aceite a la cacerola y deja que hierva. Luego, baja rápidamente el fuego y bate con regularidad hasta que la mezcla se espese un poco, aproximadamente 1 minuto. Retira la cacerola del fuego y luego agrega la mezcla de avena tostada. Revuelve para cubrir uniformemente.",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "jugo de limón (recién exprimido)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "arándanos frescos",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        }
+    ],
+    "instructions": [
+        "En un recipiente mediano, mezcle el agua, el jugo de limón, la vainilla, la canela y la nuez moscada. Agregue las manzanas y revuelva para cubrirlas de manera uniforme.",
+        "Cubre una fuente para hornear de 8 pulgadas con papel pergamino y luego cúbrela con aceite en aerosol antiadherente.",
+        "Para preparar la masa, agrega harina para galletas graham, aceite de aguacate, 2 cucharaditas de ralladura de limón y sal al tazón de un procesador de alimentos; pulsa para combinar. Presiona la mezcla en el fondo del molde preparado. Hornea durante 10 a 15 minutos o hasta que la masa esté dorada. Luego, retira el molde del horno y déjalo enfriar.",
+        "Para preparar el relleno, licúe el huevo, las claras de huevo, el yogur, el jarabe de arce, el jugo de limón y la cucharada restante de ralladura de limón hasta que quede una masa homogénea. Agregue los arándanos frescos y vierta el relleno sobre la masa previamente horneada.",
+        "Coloca el molde en el horno y hornea durante 25 a 30 minutos o hasta que el centro esté firme. Retira el molde del horno y colócalo sobre una rejilla para que se enfríe por completo. Córtalo en 16 cuadrados del mismo tamaño y sírvelo frío o a temperatura ambiente."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Comfort Food",
+        "Kid Friendly",
+        "Dessert",
+        "Breakfast and Brunch",
+        "Vegetarian",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "4g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "15mg",
+        "sodium": "105mg",
+        "total_carbohydrate": "10g",
+        "fiber": "0g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/blueberry-yogurt-lemon-bars"
+}

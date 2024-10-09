@@ -1,0 +1,91 @@
+{
+    "title": "Pimientos Asados Simples",
+    "keywords": "Vegetarian,Sides,Quick & Easy,One Pot,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "One Pot",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/simple-roasted-peppers.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pimiento rojo (en rodajas)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "pimiento amarillo (en rodajas)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "pimiento morrón naranja (en rodajas)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "pimiento verde (en rodajas)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra (molida)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Jugo de limón",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "Perejil fresco (picado, de hoja plana)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425 grados F. Mezcle los pimientos en un tazón grande. Agregue aceite, sal y pimienta. Mezcle bien y extiéndalos en una bandeja para hornear grande.",
+        "Asar hasta que esté tierno, 20 a 25 minutos.",
+        "Pasar las verduras a una fuente para servir. Exprimir el jugo de limón sobre los pimientos y decorar con perejil."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Kid Friendly",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "One Pot",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "10g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/simple-roasted-peppers"
+}

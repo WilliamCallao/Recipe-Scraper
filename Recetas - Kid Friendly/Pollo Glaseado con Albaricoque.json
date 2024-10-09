@@ -1,0 +1,76 @@
+{
+    "title": "Pollo Glaseado con Albaricoque",
+    "keywords": "Main Dish,Budget Friendly",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/001-diabetic-apricot-glazed-chicken_Thinkstock-476388528_110818_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pimienta negra (molida)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "mermelada de albaricoque sin azúcar añadido (sin azúcar)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "margarina (sin grasas trans)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel (cortadas en porciones de 4 oz)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 °F. En una sartén grande, caliente 2 cucharaditas de aceite a fuego medio. Agregue los albaricoques, con el lado cortado hacia abajo, y cocínelos hasta que estén ligeramente dorados, aproximadamente 3 minutos. Dé vuelta los albaricoques y cocínelos durante 1 minuto más. Deje a un lado.",
+        "En una cacerola pequeña, agregue la mermelada de albaricoque, el vinagre balsámico y la pimienta y deje hervir a fuego lento; cocine a fuego lento durante 3 minutos o hasta que la mezcla tenga una consistencia similar a la del glaseado. Agregue los albaricoques a la mezcla.",
+        "Rocíe una fuente para horno con aceite en aerosol. Coloque las pechugas de pollo en la fuente. Pinte cada pechuga con 1 cucharada de glaseado de albaricoque y hornee durante 30 minutos. Vierta el glaseado restante sobre el pollo y sirva."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Kid Friendly",
+        "Comfort Food",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "5g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "60mg",
+        "total_carbohydrate": "11g",
+        "fiber": "5g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/apricot-glazed-chicken"
+}

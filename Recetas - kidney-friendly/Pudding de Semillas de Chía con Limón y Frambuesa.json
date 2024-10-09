@@ -1,0 +1,83 @@
+{
+    "title": "Pudding de Semillas de Chía con Limón y Frambuesa",
+    "keywords": "Vegetarian,Vegan,Snacks,No Cook,Holidays & Entertaining,Gluten-Free,Foodie,Dessert",
+    "prep_time": "PT1H",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Snacks",
+        "No Cook",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Foodie",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1702-diabetic-Lemon-Raspberry-Chia-Seed-Pudding_Diabetes-Superfoods-Cookbook_010319.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "salsa marinara en frasco (baja en sodio)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "leche de almendras y vainilla sin azúcar",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Ralladura de limón",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "1/2 tsp"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Calienta el aceite en una sartén antiadherente grande a fuego medio-alto. Agrega la cebolla y cocina, revolviendo ocasionalmente, hasta que la cebolla se ablande, aproximadamente 8 minutos. Agrega la mezcla de tomate y el pollo desmenuzado. Cocina a fuego medio, revolviendo ocasionalmente, hasta que los sabores se mezclen y el pollo esté bien caliente, aproximadamente 10 minutos. Espolvorea con las 2 cucharadas restantes de cilantro.",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "En un bol pequeño, mezcle todos los ingredientes excepto las frambuesas. Coloque la mezcla en el refrigerador durante al menos una hora hasta que las semillas de chía absorban el líquido y adquiera la consistencia de un pudín.",
+        "albahaca seca"
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "High in Fiber",
+        "Vegetarian",
+        "Vegan",
+        "Snacks",
+        "No Cook",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Foodie",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "50mg",
+        "total_carbohydrate": "18g",
+        "fiber": "9g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/lemon-raspberry-chia-seed-pudding"
+}

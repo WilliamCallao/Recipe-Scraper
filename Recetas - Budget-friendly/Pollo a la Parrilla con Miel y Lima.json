@@ -1,0 +1,87 @@
+{
+    "title": "Pollo a la Parrilla con Miel y Lima",
+    "keywords": "Main Dish,Budget Friendly,Dinner,Lunch,Quick & Easy",
+    "prep_time": "PT1H",
+    "cook_time": "PT20M",
+    "categories": [
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1948-honey-lime-chicken-DFH-MJ20.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "zumo de lima",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "cebolla verde (cebolleta) (en rodajas)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebollas verdes picadas",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "cilantro fresco picado",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Coloque las pechugas de pollo en una bolsa de plástico con cierre hermético de un galón. Déjelas a un lado.",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Cebolla mediana (5 onzas, cortada en cubitos)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "En un tazón grande, mezcle el jugo de limón, el ajo, el aceite de oliva, la miel, la cebolla, el cilantro y la sal.",
+        "Sazona el cerdo con la pimienta negra, el ajo en polvo y el orégano.",
+        "cebolla roja (en rodajas finas)"
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Grilling",
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "5g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "5g",
+        "fiber": "0g",
+        "sugar": "5g",
+        "added_sugar": "4g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-honey-lime-chicken"
+}

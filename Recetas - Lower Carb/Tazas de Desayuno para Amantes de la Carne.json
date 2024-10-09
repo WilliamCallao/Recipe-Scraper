@@ -1,0 +1,96 @@
+{
+    "title": "Tazas de Desayuno para Amantes de la Carne",
+    "keywords": "Breakfast and Brunch,Quick & Easy",
+    "prep_time": "Desconocido",
+    "cook_time": "PT19M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1330-diabetic-meat-lovers-breakfast-cups_MFTK-weeknight-favorites_092718_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Queso Monterey Jack",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "tocino de pavo",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "En un bol mediano, combine la harina de almendras, la harina de coco, el eritritol, el polvo para hornear, la canela, la nuez moscada, los clavos de olor y la sal. En otro bol mediano, combine el aceite, los huevos y la leche de almendras.",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Carne de cangrejo (6 onzas, escurrida (15 % de carne de la pata))",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "crema agria ligera",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Empanadas de salchicha de pavo precocidas para el desayuno (descongeladas y cortadas en cubitos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "cebolla(s) (finamente picada)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "chile jalapeño (en rodajas, opcional)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Crema de aceite vegetal",
+            "us_amount": "1 1/4 cup",
+            "metric_amount": "296 ml"
+        }
+    ],
+    "instructions": [
+        "En un recipiente aparte, mezcle el requesón, la ralladura de limón, la albahaca y el perejil.",
+        "vinagre balsámico",
+        "Aderezo ligero para ensalada italiana (dividido)",
+        "ajo (picado)"
+    ],
+    "tags": [
+        "Lower Carb",
+        "Kid Friendly",
+        "Comfort Food",
+        "Breakfast and Brunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "5g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "340mg",
+        "total_carbohydrate": "9g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/meat-lovers-breakfast-cups"
+}

@@ -1,0 +1,116 @@
+{
+    "title": "Saganaki de Camarones",
+    "keywords": "Dinner,Foodie,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_835_ShrimpSaganaki_WholeCooking_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebollas amarillas (en rodajas finas)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "ajo (cortado en rodajas finas)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Camarones U16–20 (pelados y desvenados (con las colas))",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "tomates uva o cherry (cortados por la mitad)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Aceitunas Kalamata (sin hueso y enjuagadas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "caldo de verduras bajo en sodio (bajo en sodio)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Orégano fresco (picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Añade aceite de oliva a una sartén antiadherente a fuego alto. Añade las verduras congeladas y saltea durante 5 a 7 minutos.",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Mientras se saltean las verduras, bata el caldo, la salsa de soja, la maicena, el ajo y la pimienta negra en un bol hasta que se combinen.",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "queso feta (bajo en grasa, desmenuzado)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "queso crema ligero",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Potenciador de sabor: utilice pimentón ahumado en lugar de pimentón común. Sirva con salsa picante como Tabasco, sriracha o harissa, si tiene.",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite de oliva en una sartén grande a fuego medio-alto. Agrega la cebolla, el ajo y las hojuelas de pimiento rojo y cocina durante unos 5 minutos o hasta que la cebolla esté tierna.",
+        "Añade los camarones, los tomates, las aceitunas, el caldo y el orégano y cocina durante 3 a 5 minutos, revolviendo de vez en cuando, hasta que los camarones estén rosados ​​y casi completamente opacos. Añade el eneldo, el perejil y el queso feta y cocina durante 1 a 2 minutos para calentarlos.",
+        "Retirar la sartén del fuego. Sazonar con sal y pimienta y servir caliente."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Comfort Food",
+        "Mediterranean",
+        "Seafood",
+        "Dinner",
+        "Foodie",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "8g",
+        "saturated_fat": "1.8g",
+        "trans_fat": "0g",
+        "cholesterol": "125mg",
+        "sodium": "420mg",
+        "total_carbohydrate": "6g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/shrimp-saganaki"
+}

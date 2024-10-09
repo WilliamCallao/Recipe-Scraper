@@ -1,0 +1,93 @@
+{
+    "title": "Salteado Indio de Salmón",
+    "keywords": "Dinner,Foodie,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_747_IndianSalmonStirFry_PerfectComfortCollection_022618.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "aceite vegetal (uso dividido)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "semillas de comino",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "semillas de mostaza marrón",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cúrcuma",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "filete de salmón (sin piel, cortado en cubos de 1 pulgada)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "cebolla grande (cortada por la mitad, pelada y cortada en rodajas de 1/2 pulgada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "jengibre fresco (pelado, rallado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chiles verdes picantes (finamente picados, opcional)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "tomates cherry (cortados por la mitad)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta 2 cucharaditas de aceite en un wok o sartén pesada a fuego medio-alto. Agrega el comino, las semillas de mostaza y la cúrcuma y saltea durante 1 minuto hasta que las semillas comiencen a estallar. Agrega el salmón y saltea rápidamente pero con cuidado durante unos 3 o 4 minutos. Retira el salmón de la sartén y reserva.",
+        "sal"
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Indian",
+        "Seafood",
+        "Comfort Food",
+        "Dinner",
+        "Foodie",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "10g",
+        "saturated_fat": "1.7g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "65mg",
+        "total_carbohydrate": "8g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/indian-salmon-stir-fry"
+}

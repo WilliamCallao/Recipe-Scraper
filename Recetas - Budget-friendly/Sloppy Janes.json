@@ -1,0 +1,110 @@
+{
+    "title": "Sloppy Janes",
+    "keywords": "Sandwiches,Budget Friendly,Dinner,Lunch,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Sandwiches",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/028-diabetic-sloppy-joe_AdobeStock_414452712_022521.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "cebolla(s) (cortadas en cubitos)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "pimiento rojo (sin semillas y cortado en cubitos)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "pavo molido magro",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "pasta de tomate",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "mostaza de dijon",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "salsa picante",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "tomates triturados enlatados",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Miel (o 2 paquetes de edulcorante artificial)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "panecillos de hamburguesa de trigo integral",
+            "us_amount": "8 whole",
+            "metric_amount": "8 whole"
+        }
+    ],
+    "instructions": [
+        "Añade aceite en aerosol a una sartén antiadherente a fuego medio-alto.",
+        "Agregue la cebolla, el pimiento rojo y el ajo. Saltee durante 5 minutos, revolviendo con frecuencia.",
+        "Agregue el pavo y saltee durante 5 a 7 minutos, revolviendo con frecuencia, hasta que el pavo esté bien cocido.",
+        "Agregue la pasta de tomate, la mostaza de Dijon, la salsa picante, los tomates, la miel y la pimienta negra molida. Deje hervir a fuego lento durante 5 minutos, revolviendo con frecuencia.",
+        "semillas de girasol"
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "High in Fiber",
+        "Kid Friendly",
+        "Sandwiches",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "7g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0.1g",
+        "cholesterol": "45mg",
+        "sodium": "390mg",
+        "total_carbohydrate": "31g",
+        "fiber": "5g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sloppy-janes"
+}

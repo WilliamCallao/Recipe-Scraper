@@ -1,0 +1,125 @@
+{
+    "title": "Pastel de Pollo de Grano Entero",
+    "keywords": "Main Dish,Dinner,Budget Friendly",
+    "prep_time": "PT45M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Main Dish",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/584-diabetic-whole-grain-pot-pie_AS_41652304_100219.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zumo de lima",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Levadura en polvo",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        },
+        {
+            "name": "Margarina fría (sin grasas trans)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Perejil (seco)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "leche desnatada",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "zanahoria(s) (cortadas en cubitos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "tallos de apio (cortados en cubitos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "cebolla grande (cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Champiñones blancos (en rodajas)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "Pollo cocido (picado)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "harina",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "leche desnatada",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375 grados F. Cubra una fuente para hornear de 9x13 pulgadas con aceite en aerosol y reserve.",
+        "En un bol grande, tamiza la harina integral y el polvo para hornear. Incorpora la margarina, el perejil y la leche y revuelve suavemente para mezclar. Refrigera hasta que los necesites.",
+        "Añade el aceite de oliva y una cantidad generosa de aceite en aerosol a una sartén antiadherente grande a fuego medio-alto. Agrega las zanahorias, el apio, la cebolla y los champiñones. Saltea durante 10 minutos o hasta que las verduras estén tiernas pero no blandas.",
+        "Incorpore el pollo cocido.",
+        "En un bol pequeño, mezcle la harina, la leche desnatada, la sal y la pimienta negra molida. Añádalos a la mezcla de verduras y llévelos a ebullición. Reduzca el fuego a fuego lento durante 2 minutos. Retírelos del fuego.",
+        "Vierta la mezcla de pollo y verduras en la fuente para horno. Coloque grumos de la mezcla de masa de harina integral sobre la mezcla de pollo y verduras (la cobertura quedará muy pegajosa). Use una cuchara para esparcir suavemente la cobertura.",
+        "Hornear durante 20 minutos y servir."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Comfort Food",
+        "Main Dish",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "290",
+        "total_fat": "9g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "395mg",
+        "total_carbohydrate": "33g",
+        "fiber": "5g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/whole-grain-chicken-pot-pie"
+}

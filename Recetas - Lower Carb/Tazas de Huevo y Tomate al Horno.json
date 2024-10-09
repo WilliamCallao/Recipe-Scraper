@@ -1,0 +1,72 @@
+{
+    "title": "Tazas de Huevo y Tomate al Horno",
+    "keywords": "Budget Friendly,Breakfast and Brunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Budget Friendly",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/945-diabetic-breakfast-baked-egg-tomato-cup_082418_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Tomates grandes, maduros, tipo beefsteak o heirloom",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "pimienta negra (dividida)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Vinagre de sidra de manzana",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "tocino (cocido y desmenuzado)",
+            "us_amount": "2 slice",
+            "metric_amount": "2 slice"
+        }
+    ],
+    "instructions": [
+        "cebollas verdes (en rodajas)",
+        "Precaliente una sartén grande apta para horno a fuego medio.",
+        "En una licuadora o procesador de alimentos, haga puré todos los ingredientes hasta que quede una mezcla homogénea. Agregue más agua si desea un aderezo más líquido."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Comfort Food",
+        "Budget Friendly",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "7g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "195mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "7g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/baked-egg-n-tomato-cups"
+}

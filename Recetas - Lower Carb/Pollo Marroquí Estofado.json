@@ -1,0 +1,124 @@
+{
+    "title": "Pollo Marroquí Estofado",
+    "keywords": "Main Dish,Gluten-Free,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-09/35main_braisedmoroccanchicken.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de aguacate (dividido)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "muslos de pollo (sin piel)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "Sal kosher",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cebolla amarilla (cortada en cubitos)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "queso feta (bajo en grasa)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimentón ahumado",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "cúrcuma",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta de cayena",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Tomates enlatados cortados en cubitos (sin sal añadida)",
+            "us_amount": "2 can",
+            "metric_amount": "2 can"
+        },
+        {
+            "name": "Champiñones blancos (en rodajas)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "pimiento rojo (en rodajas)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "limón (rallado)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        }
+    ],
+    "instructions": [
+        "Calienta 2 cucharadas de aceite en una olla holandesa o una olla grande a fuego medio alto.",
+        "Seque el pollo y sazone ambos lados con sal kosher y pimienta. Colóquelos en la olla (en tandas si es necesario) y dore ambos lados, transfiriéndolos a un plato o tazón cuando estén listos.",
+        "Añade la cebolla a la sartén y cocínala hasta que esté ligeramente blanda y traslúcida, unos 5 minutos. Espolvorea con ajo, cilantro, comino, pimentón, cúrcuma y pimienta de cayena y revuelve para mezclar. Cocínala durante 1 minuto o hasta que las especias estén aromáticas y ligeramente tostadas.",
+        "Devuelva el pollo a la olla y revuelva para cubrirlo con la mezcla de especias.",
+        "cebolla mediana (cortada en cubitos)",
+        "Ponga el líquido a hervir a fuego lento, cubra y cocine a fuego medio bajo durante 15 a 20 minutos.",
+        "Añade los champiñones, los pimientos rojos en rodajas y la ralladura de limón. Tapa y cocina durante 10-15 minutos más, hasta que la salsa se haya reducido ligeramente."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "13g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "320mg",
+        "total_carbohydrate": "14g",
+        "fiber": "5g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/braised-moroccan-chicken"
+}

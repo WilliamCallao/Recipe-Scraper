@@ -1,0 +1,89 @@
+{
+    "title": "Judías Verdes con Arándanos y Avellanas",
+    "keywords": "Vegan,Vegetarian,Dinner,Foodie,Holidays & Entertaining,Lunch,Quick & Easy,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "PT3M",
+    "categories": [
+        "Vegan",
+        "Vegetarian",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Quick & Easy",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/green-beans-cranberries-hazelnuts-Nov16.jpg",
+    "servings": "16 Servings",
+    "ingredients": [
+        {
+            "name": "limón",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "arándanos secos",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "avellanas (picadas en trozos grandes)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        }
+    ],
+    "instructions": [
+        "Llene una olla grande con agua hasta 2/3 de su capacidad y llévela a ebullición. Agregue las judías verdes, apague el fuego y deje que las judías verdes reposen en el agua durante 3 minutos. Escurra las judías y añádalas a un recipiente o fuente para servir.",
+        "sal"
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Vegan",
+        "Vegetarian",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Quick & Easy",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "35",
+        "total_fat": "2g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "35mg",
+        "total_carbohydrate": "4g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/green-beans-cranberries-and-hazelnuts"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Pavo Asado con Hierbas",
+    "keywords": "Holidays & Entertaining,Dinner,Main Dish",
+    "prep_time": "PT25M",
+    "cook_time": "PT1H20M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/311-diabetic-thanksgiving-herb-roasted-turkey_shutterstock1283064418_102419.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "mantequilla sin sal (ablandada)",
+            "us_amount": "5 tsp",
+            "metric_amount": "25 g"
+        },
+        {
+            "name": "salvia fresca picada (dividida)",
+            "us_amount": "3 tsp",
+            "metric_amount": "15 g"
+        },
+        {
+            "name": "tomillo fresco picado (dividido)",
+            "us_amount": "3 tsp",
+            "metric_amount": "15 g"
+        },
+        {
+            "name": "romero fresco (picado, dividido)",
+            "us_amount": "3 tsp",
+            "metric_amount": "15 g"
+        },
+        {
+            "name": "Sal y pimienta al gusto",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "Caldo de pollo bajo en sodio (bajo en grasa y reducido en sodio)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "vino blanco (seco)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "pechuga de pavo (con piel, lavada y secada)",
+            "us_amount": "5 lbs",
+            "metric_amount": "2 l 268 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F. Cubra una fuente grande para horno con papel de aluminio. Coloque una rejilla dentro de la fuente para horno y cúbrala con aceite en aerosol. Déjela a un lado.",
+        "En un bol pequeño, combine la mantequilla con 2 cucharaditas de salvia, tomillo y romero, además de sal y pimienta. Reserve la cucharadita restante de cada una de las hierbas.",
+        "En una cacerola pequeña, combine el caldo de pollo y el vino y deje hervir suavemente. Agregue las hierbas reservadas y reduzca el fuego a fuego lento.",
+        "Con las manos, separe la piel de la pechuga de pavo de la carne de la pechuga, creando una bolsa sin quitar la piel. Unte la mezcla de mantequilla y hierbas por toda la carne de la pechuga. Vuelva a colocar la piel sobre la pechuga.",
+        "Coloque el pavo sobre la rejilla preparada en la sartén. (También puede agregar verduras como zanahorias peladas, chirivías peladas, cebollas o papas pequeñas a la sartén; se cocinarán junto con el pavo). Ase el pavo durante aproximadamente 1 hora y 20 minutos a 1 hora y 40 minutos hasta que la temperatura interna alcance los 170 grados F y los jugos salgan transparentes. Rocíe cada 15 a 20 minutos con la mezcla de caldo de pollo y vino blanco.",
+        "Saque el pavo del horno, cúbralo ligeramente con papel de aluminio y déjelo reposar durante 15 minutos antes de cortarlo. Descarte la piel y sirva."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Holidays & Entertaining",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "165",
+        "total_fat": "2.5g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "75mg",
+        "total_carbohydrate": "0g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "33g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/herb-roasted-turkey"
+}

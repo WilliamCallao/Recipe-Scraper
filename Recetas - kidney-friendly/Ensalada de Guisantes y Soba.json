@@ -1,0 +1,112 @@
+{
+    "title": "Ensalada de Guisantes y Soba",
+    "keywords": "Vegetarian,Foodie,Holidays & Entertaining,Lunch,Quick & Easy,Salads,Sides",
+    "prep_time": "PT20M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Vegetarian",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Quick & Easy",
+        "Salads",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/sugar-snap-pea-and-soba-salad-May15.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "cilantro fresco (picado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "aceite de sésamo tostado",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Lima (jugo)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "En la misma olla, derrita las cuñas de queso Laughing Cow a fuego lento. Agregue los ingredientes restantes; mezcle bien y continúe cocinando durante 1 o 2 minutos más.",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salsa de soja baja en sodio",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "chuletas de pechuga de pollo deshuesadas y sin piel",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pimiento rojo (cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zanahoria(s) (peladas y cortadas en juliana)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Guisantes dulces (recortados y cortados en diagonal por la mitad)",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "Fideos soba",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "aceite de cacahuete",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Ponga a hervir una olla de 6 cuartos de galón con agua. Agregue los fideos soba y cocine durante 5 minutos. En los últimos 20 segundos de cocción, agregue los guisantes dulces. Escurra y enjuague la mezcla de fideos y guisantes con agua fría. Escurra nuevamente.",
+        "hojas de albahaca fresca (picadas)",
+        "Mezcle los ingredientes del aderezo y agréguelos a los fideos. Cubra la ensalada con cilantro antes de servir."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Veggie Rich",
+        "Asian",
+        "Vegetarian",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Quick & Easy",
+        "Salads",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "15g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sugar-snap-pea-and-soba-salad"
+}

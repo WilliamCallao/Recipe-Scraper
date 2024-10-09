@@ -1,0 +1,98 @@
+{
+    "title": "Quesadillas de Frijol Negro, Mango y Pollo con Ensalada",
+    "keywords": "Budget Friendly,Dinner,Lunch,Main Dish,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/sep2014-chicken-mango-blk.jpg",
+        "Mango and Chicken Quesadillas with Salad\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "frijoles negros enlatados (enjuagados y escurridos)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Pollo cocido (cortado en cubitos)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cebolla roja (cortada en cubitos)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "comino",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "mango (cortado en cubitos)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "tortillas de maiz",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "queso cheddar rallado bajo en grasa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Calienta el aceite de oliva en una sartén antiadherente grande a fuego medio-alto. Agrega la cebolla y cocina, revolviendo con frecuencia, hasta que esté blanda, aproximadamente 3 minutos. Agrega los hongos y cocina, revolviendo con frecuencia, aproximadamente 4 minutos.",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "Aderezo ligero para ensaladas Fiesta-Salsa Ranch",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Rocíe una sartén con aceite en aerosol y caliéntela a fuego medio-alto. Agregue los frijoles negros, el pollo, las cebollas rojas y el comino; saltee durante unos 5 minutos. Agregue el mango y saltee durante 1 minuto. Retire la mezcla de la sartén y reserve en un tazón.",
+        "Rocíe la sartén con aceite en aerosol. Coloque 1 tortilla en la sartén y esparza 2 cucharadas de queso sobre la tortilla. Agregue 1/2 taza de la mezcla de pollo y frijoles negros y coloque otra tortilla encima. Cocine durante 1 o 2 minutos, dé vuelta y cocine durante 1 o 2 minutos más; hasta que el queso se derrita.",
+        "Repita este procedimiento para las 3 quesadillas restantes. Corte las quesadillas en triángulos.",
+        "Sirva una quesadilla sobre 2 tazas de ensalada de lechuga y cubra con 1 cucharada de aderezo. Repita este procedimiento para las 3 ensaladas restantes."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "340",
+        "total_fat": "10g",
+        "saturated_fat": "3.3g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "335mg",
+        "total_carbohydrate": "43g",
+        "fiber": "9g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/black-bean-mango-and-chicken-quesadillas-salad"
+}

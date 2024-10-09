@@ -1,0 +1,82 @@
+{
+    "title": "Sándwiches de Huevo Frito y Aguacate",
+    "keywords": "Lunch,Breakfast and Brunch,Sandwiches,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Lunch",
+        "Breakfast and Brunch",
+        "Sandwiches",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_702_FriedEggAvocadoSandwich_SixOClockScramble_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "tocino ((de pavo, de cerdo o sin carne) (opcional))",
+            "us_amount": "2 slice",
+            "metric_amount": "2 slice"
+        },
+        {
+            "name": "pan de masa madre, o usa pan francés o tu pan favorito",
+            "us_amount": "8 slice",
+            "metric_amount": "8 slice"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Coloque 2 panqueques en cada uno de los 4 platos, cubra con cantidades iguales de rodajas de banana y rocíe uniformemente con el almíbar. Si lo desea, coloque los platos en un horno tibio y agregue los panqueques a medida que se cocinan.",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "queso Monterey Jack o cheddar rallado, o use pecorino rallado",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "aguacate (en rodajas finas o use guacamole)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Un chorrito de salsa picante (como Tabasco o Sriracha (opcional))",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "HAGA CON ANTICIPACIÓN O DELEGUE: Ralle el queso si es necesario y refrigérelo.",
+        "Si incluye tocino en sus sándwiches, cocínelo de acuerdo con las instrucciones del paquete (me gusta ponerlo en una bandeja para hornear forrada en un horno frío, calentar el horno a 400 °F y dejarlo cocinar durante unos 10 minutos hasta que esté bien dorado).",
+        "Tostar el pan hasta que quede dorado y crujiente.",
+        "Rocíe un tazón pequeño con aceite en aerosol antiadherente y rompa suavemente un huevo en él. Mientras tanto, caliente una sartén grande de hierro fundido u otra sartén pesada a fuego medio-bajo. Cuando esté caliente, agregue el aceite y gírelo para distribuirlo uniformemente. Cuando el aceite esté caliente, vierta suavemente el huevo y repita con los huevos restantes, rompiéndolos primero en el tazón, para poder agregarlos suavemente a la sartén (para evitar que las yemas se rompan y las claras se esparzan demasiado). Cubra la sartén durante 3 minutos hasta que las claras estén opacas. Cubra cada huevo de manera uniforme con 1 cucharada de queso.",
+        "Mientras tanto, aplasta el aguacate sobre 4 rebanadas de pan tostado y coloca un huevo sobre cada una. Coloca de 1/2 a 1 rebanada de tocino sobre cada huevo (opcional). Espolvorea un poco de salsa picante o sriracha sobre cada huevo y cubre con las rebanadas de pan tostado restantes. Sirve inmediatamente."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Comfort Food",
+        "Lunch",
+        "Breakfast and Brunch",
+        "Sandwiches",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "360",
+        "total_fat": "18g",
+        "saturated_fat": "4.6g",
+        "trans_fat": "0g",
+        "cholesterol": "190mg",
+        "sodium": "405mg",
+        "total_carbohydrate": "36g",
+        "fiber": "4g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "15g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fried-egg-and-avocado-sandwiches"
+}

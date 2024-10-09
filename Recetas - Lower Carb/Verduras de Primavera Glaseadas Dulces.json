@@ -1,0 +1,97 @@
+{
+    "title": "Verduras de Primavera Glaseadas Dulces",
+    "keywords": "Vegetarian,Vegan,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/3459_Sweet%20Glazed%20Spring%20Vegetables.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Crema de aceite vegetal",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "mayonesa ligera",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "rábano (cortado por la mitad)",
+            "us_amount": "5",
+            "metric_amount": "5"
+        },
+        {
+            "name": "ajo (machacado)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "Sal kosher",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Endulzante de Stevia Splenda®",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "limón (jugo)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "estragón fresco (picado, dividido)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "guisantes dulces",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        }
+    ],
+    "instructions": [
+        "filetes de bacalao (cortados en 4 porciones)",
+        "Cocine tapado a fuego medio-bajo durante 7 minutos.",
+        "Incorpore los guisantes y continúe cocinando, tapado, hasta que las verduras estén tiernas, aproximadamente de 3 a 4 minutos.",
+        "Retire la tapa y continúe cocinando, revolviendo ocasionalmente, hasta que se forme un glaseado espeso, aproximadamente 1 o 2 minutos. Cubra con el estragón restante y sirva."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Vegetarian",
+        "Vegan",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "3g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "120mg",
+        "total_carbohydrate": "9g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-glazed-spring-vegetables"
+}

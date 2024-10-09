@@ -1,0 +1,70 @@
+{
+    "title": "Crostini de Ricotta y Mermelada de Mora",
+    "keywords": "Vegetarian,Quick & Easy,Lunch,Breakfast and Brunch,Appetizers",
+    "prep_time": "PT8M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Vegetarian",
+        "Quick & Easy",
+        "Lunch",
+        "Breakfast and Brunch",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1832-diabetic-ricotta-and-blackberry-jam-crostini_clean-simple-ckbk_DFNovDec19_101019.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "panecillo tipo submarino o panecillo de grano integral",
+            "us_amount": "1 (4-oz)",
+            "metric_amount": "1 (4-oz)"
+        },
+        {
+            "name": "calabaza enlatada",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "mermelada de mora endulzada con frutas",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Moras congeladas frescas o descongeladas",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "sal marina",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Con un cuchillo para pan, corta los extremos redondeados del panecillo. Córtalo en 12 rebanadas de aproximadamente 1/2 pulgada de grosor cada una. Tuesta las rebanadas de pan en una tostadora hasta que estén doradas.",
+        "Cubra cada rebanada con 1 cucharada de queso ricotta y luego 1 cucharadita de mermelada. Cubra uniformemente con las moras y espolvoree con sal. Coloque en una fuente y sirva."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Vegetarian",
+        "Quick & Easy",
+        "Lunch",
+        "Breakfast and Brunch",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "3.5g",
+        "saturated_fat": "1.7g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "18g",
+        "fiber": "2g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ricotta-and-blackberry-jam-crostini"
+}

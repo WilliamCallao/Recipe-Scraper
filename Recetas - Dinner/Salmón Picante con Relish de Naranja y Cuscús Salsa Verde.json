@@ -1,0 +1,106 @@
+{
+    "title": "Salmón Picante con Relish de Naranja y Cuscús Salsa Verde",
+    "keywords": "Meal Kit Recipes,Main Dish,Foodie,Dinner,Cooking for 1 or 2",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Meal Kit Recipes",
+        "Main Dish",
+        "Foodie",
+        "Dinner",
+        "Cooking for 1 or 2"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1873-Diabetic-Salmon_BA_122419.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "calabacín",
+            "us_amount": "1 (9-oz)",
+            "metric_amount": "1 (9-oz)"
+        },
+        {
+            "name": "mini pimientos dulces",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "ajo",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "cúrcuma molida",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva (dividido)",
+            "us_amount": "3 tsp",
+            "metric_amount": "15 g"
+        },
+        {
+            "name": "cuscús amarillo",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "salsa verde (tomatillo salsa)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "filete de salmón con piel",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Sal y pimienta al gusto (opcional; la sal agregada no está incluida en la información nutricional)",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        }
+    ],
+    "instructions": [
+        "Prepara los ingredientes y haz el relish. Lava y seca los productos frescos. Corta el calabacín por la mitad a lo largo y luego en rodajas finas transversales. Corta y desecha los tallos de los pimientos dulces; quita los corazones. Córtalos en rodajas finas. Pela y pica 2 dientes de ajo. Pica los pimientos picantes en trozos grandes. Pela y corta en dados medianos la naranja. En un bol, combina la naranja cortada en cubitos, los pimientos picantes picados y 1/2 cucharadita de aceite de oliva; sazona con sal (opcional) y pimienta. Deja marinar, revolviendo de vez en cuando, al menos 10 minutos.",
+        "Cocine el cuscús. Mientras tanto, en una olla mediana, combine el cuscús, una pizca grande de sal (opcional) y 3/4 de taza de agua; caliente a fuego alto hasta que hierva. Una vez que hierva, apague el fuego. Cubra y deje reposar de 6 a 8 minutos, o hasta que el agua se haya absorbido y el cuscús esté tierno. Revuelva con un tenedor.",
+        "Cocina las verduras y termina el cuscús. Mientras tanto, en una sartén mediana (antiadherente, si tienes una), calienta 1/2 cucharadita de aceite de oliva a fuego medio-alto hasta que esté caliente. Agrega el calabacín en rodajas en una capa uniforme. Cocina, sin revolver, de 2 a 3 minutos, o hasta que esté ligeramente dorado. Agrega los pimientos dulces en rodajas y el ajo picado; sazona con sal (opcional) y pimienta. Cocina, revolviendo ocasionalmente, de 3 a 4 minutos, o hasta que se ablanden. Transfiere a la olla de cuscús cocido; agrega la salsa verde. Prueba, luego sazona con sal (opcional) y pimienta si lo deseas. Limpia la sartén.",
+        "Cocina el salmón y sirve tu plato. Seca el pescado con toallas de papel. Transfiérelo a una tabla de cortar, con la piel hacia abajo. Córtalo en dos trozos de igual tamaño; sazona ambos lados con sal (opcional), pimienta y la cantidad de hojuelas de pimiento rojo que desees, dependiendo de qué tan picante quieras que sea el plato. En la misma sartén, calienta 2 cucharaditas de aceite de oliva a fuego medio hasta que esté caliente. Agrega el pescado sazonado, con la piel hacia arriba. Cubre la sartén sin apretar con papel de aluminio. Cocina de 3 a 5 minutos del primer lado, o hasta que esté ligeramente dorado. Dale la vuelta y cocina de 2 a 4 minutos, o hasta que esté dorado y cocido. Apaga el fuego. Sirve el salmón cocido sobre el cuscús terminado. Adorna con el condimento. ¡Disfruta!"
+    ],
+    "tags": [
+        "Mediterranean",
+        "Seafood",
+        "Meal Kit Recipes",
+        "Main Dish",
+        "Foodie",
+        "Dinner",
+        "Cooking for 1 or 2"
+    ],
+    "nutrition": {
+        "calories": "700",
+        "total_fat": "42g",
+        "saturated_fat": "8g",
+        "trans_fat": "0g",
+        "cholesterol": "80mg",
+        "sodium": "390mg",
+        "total_carbohydrate": "45g",
+        "fiber": "5g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "37g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spicy-salmon-orange-relish-salsa-verde-couscous"
+}

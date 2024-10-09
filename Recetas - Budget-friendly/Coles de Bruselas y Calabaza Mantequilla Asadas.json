@@ -1,0 +1,68 @@
+{
+    "title": "Coles de Bruselas y Calabaza Mantequilla Asadas",
+    "keywords": "Vegetarian,Vegan,Sides,Lunch,Dinner,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1705-diabetic-roasted-Brussel-Sprouts-Butternut-Squash_Diabetes-Superfoods-Cookbook_010319.jpg",
+    "servings": "7 Servings",
+    "ingredients": [
+        {
+            "name": "coles de Bruselas frescas",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "Calabaza (aproximadamente 3 1/2 tazas)",
+            "us_amount": "20 oz",
+            "metric_amount": "566 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "tomillo seco",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 450 grados F.",
+        "Corte las coles de Bruselas por la mitad. Corte los trozos más grandes de calabaza en cubos de 1 pulgada.",
+        "Coloque los brotes y la calabaza en un bol grande y rocíe con aceite de oliva. Agregue el tomillo y revuelva para cubrir.",
+        "Distribuya los brotes y la calabaza en una sola capa en una bandeja para hornear y hornee durante 25 minutos, hasta que las verduras estén tiernas y comiencen a dorarse."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "2g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "15mg",
+        "total_carbohydrate": "11g",
+        "fiber": "4g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-brussels-sprouts-and-butternut-squash"
+}

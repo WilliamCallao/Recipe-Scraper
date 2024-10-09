@@ -1,0 +1,64 @@
+{
+    "title": "Hummus de Pesto al Limón",
+    "keywords": "Snacks,Quick & Easy,No Cook,Holidays & Entertaining,Appetizers",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Snacks",
+        "Quick & Easy",
+        "No Cook",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1703-diabetic-Lemon-Pesto-Hummus_Diabetes-Superfoods-Cookbook_010319.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "garbanzos (escurridos y enjuagados)",
+            "us_amount": "1 (14.5 oz) can",
+            "metric_amount": "1 (14.5 oz) can"
+        },
+        {
+            "name": "salsa pesto en frasco",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "limón (jugo)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Añade todos los ingredientes a un procesador de alimentos o licuadora y mezcla hasta que quede suave."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Snacks",
+        "Quick & Easy",
+        "No Cook",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "3g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "14g",
+        "fiber": "4g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/lemony-pesto-hummus"
+}

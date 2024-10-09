@@ -1,0 +1,63 @@
+{
+    "title": "Sorbete de Piña y Durazno",
+    "keywords": "Cooking for 1 or 2,Snacks,Vegetarian,Foodie,Dessert",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Snacks",
+        "Vegetarian",
+        "Foodie",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/405-diabetic-dessert-pineapple-peach-sorbet_AdobeStock84699480_022321.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "melocotones congelados",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Espolvorear el queso parmesano sobre la cazuela y hornear durante 15 minutos.",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "limonada sin azúcar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque todos los ingredientes en una licuadora y mezcle hasta que quede suave.",
+        "Servir en 6 vasos altos y delgados y decorar con hojas de menta y cardamomo molido antes de servir."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Comfort Food",
+        "Kid Friendly",
+        "Cooking for 1 or 2",
+        "Snacks",
+        "Vegetarian",
+        "Foodie",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "40",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "10g",
+        "fiber": "1g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pineapple-peach-sorbet"
+}

@@ -1,0 +1,80 @@
+{
+    "title": "Muslos de Pollo Estofados con Champiñones Económicos",
+    "keywords": "Budget Friendly,Dinner,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/113-diabetic-budget-friendly-braised-chicken-thighs-mushrooms_Diabetes-Cookbook_thinkstock520176150_103018_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pavo molido magro (93% libre de grasa)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "margarina (sin grasas trans)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cebolla(s) (cortadas en cubitos)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "Pasta de ajo y chile al estilo tailandés",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "Precaliente el horno a 350 grados F. Corte los tomates en cuartos y reserve.",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite en una olla holandesa grande a fuego medio-alto.",
+        "Añade los muslos de pollo y saltéalos durante 3 minutos por cada lado. Retíralos de la sartén y reserva.",
+        "Añade la margarina a la sartén y derrítela. Añade la cebolla y saltea durante 2 minutos. Añade los champiñones y saltea durante 3-5 minutos hasta que suelte el líquido; revuelve con frecuencia.",
+        "Agrega vinagre balsámico a la sartén y cocina con los hongos durante 1 minuto. Agrega los muslos de pollo nuevamente a la sartén y coloca los hongos sobre el pollo. Vierte el caldo de pollo en la sartén.",
+        "Pon a hervir el caldo de pollo. Reduce el fuego a medio-bajo, tapa la cacerola con una tapa hermética y deja que hierva a fuego lento durante 25 minutos."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "11g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "105mg",
+        "sodium": "130mg",
+        "total_carbohydrate": "6g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-braised-chicken-thighs-mushrooms"
+}

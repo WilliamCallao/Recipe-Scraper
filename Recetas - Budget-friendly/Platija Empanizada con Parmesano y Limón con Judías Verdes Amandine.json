@@ -1,0 +1,105 @@
+{
+    "title": "Platija Empanizada con Parmesano y Limón con Judías Verdes Amandine",
+    "keywords": "Budget Friendly,Dinner,Main Dish,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1691-diabetic-paremsan-crusted-flounder-green-beans-amandine_diabetes-cookbook_DFJanFeb2018_121018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "margarina sin grasas trans",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Judías verdes frescas (recortadas y cortadas por la mitad)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "clara de huevo",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "filetes de platija",
+            "us_amount": "4 (4 oz each)",
+            "metric_amount": "4 (4 oz each)"
+        },
+        {
+            "name": "Ajo (picado, uso dividido)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Queso parmesano (rallado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Jugo y ralladura de 1 limón (jugo dividido)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pan rallado panko",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375° F. Rocíe una bandeja para hornear con aceite en aerosol y déjela a un lado. Agregue el agua a una olla grande para sopa a fuego alto y deje que hierva.",
+        "En un bol pequeño, combine el pan rallado panko, la ralladura de limón, el queso parmesano, el aceite de oliva y la mitad del ajo. Mezcle hasta que se integren bien.",
+        "Coloque los filetes de pescado en la bandeja para hornear preparada y pincele cada uno con clara de huevo. Presione 2 cucharadas de la mezcla de panko sobre la parte superior de cada filete. Rocíe con 2 cucharadas de jugo de limón. Rocíe la parte superior de cada filete con aceite en aerosol. Hornee durante 20 minutos.",
+        "Mientras se cocina el pescado, escaldamos las judías verdes en agua hirviendo durante 2 minutos. Escurrimos y reservamos.",
+        "Añade la margarina a una sartén antiadherente a fuego medio. Añade el ajo restante, las almendras y las judías verdes y saltea durante 4 o 5 minutos.",
+        "Rocíe las judías verdes con las 2 cucharadas restantes de jugo de limón y saltee durante 2 minutos más.",
+        "Sirva 1 filete de pescado con 1 taza de judías verdes y 1/2 taza de arroz integral (opcional)"
+    ],
+    "tags": [
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "290",
+        "total_fat": "12g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "18g",
+        "fiber": "4g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "28g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/parmesan-lemon-crusted-flounder-green-beans-amandine"
+}

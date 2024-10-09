@@ -1,0 +1,94 @@
+{
+    "title": "Chimichangas de Carnitas al Horno de Ingrid Hoffmann",
+    "keywords": "Dinner,Main Dish",
+    "prep_time": "PT5M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1655-diabetic-carnitas-baked-chimichanga_latin-comfort-foods_092618_1021x779.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Aceite de oliva en aerosol antiadherente",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Sal kosher",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "frijoles refritos",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "queso cheddar rallado bajo en grasa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "tortillas de harina integral (6 pulgadas)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        }
+    ],
+    "instructions": [
+        "Cubre una asadera con papel de aluminio. Rocía ligeramente con spray antiadherente y precalienta la asadera.",
+        "En un tazón pequeño, mezcle el comino, el chile en polvo, la sal, la pimienta molida y el aceite. Frote la mezcla de especias por todo el cerdo. Coloque el cerdo en la sartén y áselo a 6 pulgadas de la fuente de calor, dándole vuelta de vez en cuando, hasta que un termómetro de lectura instantánea marque 145 grados F cuando lo inserte en la parte más gruesa del cerdo, aproximadamente 15 minutos. Transfiera la sartén a una rejilla de alambre y deje reposar el cerdo durante 10 minutos.",
+        "Precaliente el horno a 400 grados F.",
+        "Picar el lomo y verter sobre él los jugos de la bandeja para hornear. En un recipiente mediano, mezclar la carne de cerdo, los frijoles refritos y el queso cheddar.",
+        "Añade un envoltorio de wonton al fondo de cada taza, presionando hacia el centro con los extremos puntiagudos hacia arriba.",
+        "Precalienta una bandeja para hornear durante 5 minutos en el horno. Retírala con guantes de cocina y coloca las chimichangas, con la costura hacia abajo, sobre la bandeja. Rocía con spray antiadherente. Hornea durante 15 minutos, hasta que estén doradas."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "7g",
+        "saturated_fat": "2.6g",
+        "trans_fat": "0g",
+        "cholesterol": "35mg",
+        "sodium": "430mg",
+        "total_carbohydrate": "19g",
+        "fiber": "4g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ingrid-hoffmanns-carnitas-baked-chimichangas"
+}

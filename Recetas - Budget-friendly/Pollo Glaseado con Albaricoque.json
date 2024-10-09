@@ -1,0 +1,76 @@
+{
+    "title": "Pollo Glaseado con Albaricoque",
+    "keywords": "Main Dish,Budget Friendly",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/001-diabetic-apricot-glazed-chicken_Thinkstock-476388528_110818_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva (dividido)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pavo molido magro (93% libre de grasa)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sal",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "corteza de pizza de coliflor",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Precaliente el horno a 425 grados F.",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel (cortadas en porciones de 4 oz)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "queso mozzarella (rallado)",
+        "pimienta negra",
+        "Rocíe una fuente para horno con aceite en aerosol. Coloque las pechugas de pollo en la fuente. Pinte cada pechuga con 1 cucharada de glaseado de albaricoque y hornee durante 30 minutos. Vierta el glaseado restante sobre el pollo y sirva."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Kid Friendly",
+        "Comfort Food",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "5g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "60mg",
+        "total_carbohydrate": "11g",
+        "fiber": "5g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/apricot-glazed-chicken"
+}

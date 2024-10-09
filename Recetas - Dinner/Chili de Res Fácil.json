@@ -1,0 +1,133 @@
+{
+    "title": "Chili de Res Fácil",
+    "keywords": "Easy Pantry Recipes,Soup,Main Dish,Lunch,Dinner,Budget Friendly",
+    "prep_time": "PT15M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Soup",
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1909-diabetic-easy-beef-chili_create-your-plate_022020.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Divida el pescado en platos y cubra con la salsa de sandía.",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "chile jalapeño (sin semillas, picado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "carne molida magra",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "frijoles rojos bajos en sodio (enjuagados y escurridos)",
+            "us_amount": "1 (15.5-oz) can",
+            "metric_amount": "1 (15.5-oz) can"
+        },
+        {
+            "name": "frijoles cannellini o frijoles blancos grandes bajos en sodio (enjuagados y escurridos)",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "frijoles negros bajos en sodio (enjuagados y escurridos)",
+            "us_amount": "1 (15.5-oz) can",
+            "metric_amount": "1 (15.5-oz) can"
+        },
+        {
+            "name": "Tomates cortados en cubitos asados ​​al fuego sin sal añadida",
+            "us_amount": "1 (14.5-oz) can",
+            "metric_amount": "1 (14.5-oz) can"
+        },
+        {
+            "name": "pasta de tomate baja en sodio",
+            "us_amount": "1 (6-oz) can",
+            "metric_amount": "1 (6-oz) can"
+        },
+        {
+            "name": "caldo de res bajo en sodio",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "brotes frescos de frijol mungo",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta de cayena",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite de oliva o de canola en una olla mediana a fuego medio. Cuando el aceite esté tibio, agrega la cebolla, el ajo y el jalapeño y cocina hasta que la cebolla esté traslúcida y el ajo desprenda aroma, 3 minutos.",
+        "Agregue la carne molida y cocine hasta que se dore, 8 minutos, rompiendo los trozos usando el dorso de una cuchara de madera mientras cocina.",
+        "Añade el resto de los ingredientes a la olla y revuelve para combinar. Sube el fuego a alto y deja que hierva. Luego baja el fuego a medio bajo y cocina a fuego lento, tapado, hasta que la carne esté bien cocida y los sabores se combinen, 30 minutos. Revuelve de vez en cuando durante el tiempo de cocción.",
+        "Retire el chile del fuego y déjelo enfriar durante 10 minutos antes de servir."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Comfort Food",
+        "Easy Pantry Recipes",
+        "Soup",
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "290",
+        "total_fat": "8g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0.2g",
+        "cholesterol": "35mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "34g",
+        "fiber": "9g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/easy-beef-chili"
+}

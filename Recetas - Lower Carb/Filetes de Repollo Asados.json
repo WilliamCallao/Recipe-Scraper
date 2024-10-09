@@ -1,0 +1,78 @@
+{
+    "title": "Filetes de Repollo Asados",
+    "keywords": "Vegetarian,Vegan,Sides,Gluten-Free,Easy Pantry Recipes,Dinner,Budget Friendly",
+    "prep_time": "PT5M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Gluten-Free",
+        "Easy Pantry Recipes",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2051-diabetic-Cabbage-Steaks_DaVita_040821.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "eneldo fresco (picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Mezcla de condimentos multiusos sin sal, como Ms. Dash",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "repollo verde",
+            "us_amount": "1 head",
+            "metric_amount": "1 head"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350° F. Corte la cabeza de repollo en seis rodajas de 1 pulgada de espesor.",
+        "Coloca las rodajas de repollo en una bandeja para hornear y rocíalas con aceite de oliva. Espolvorea la mezcla de condimentos y el eneldo sobre el repollo. Cubre con papel de aluminio.",
+        "Hornee durante 45 minutos. Retire el papel de aluminio y deje que los filetes de repollo se doren en el horno durante 15 minutos más."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Veggie Rich",
+        "Lower Carb",
+        "Low Sodium",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Gluten-Free",
+        "Easy Pantry Recipes",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "25mg",
+        "total_carbohydrate": "9g",
+        "fiber": "3.6g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-cabbage-steaks"
+}

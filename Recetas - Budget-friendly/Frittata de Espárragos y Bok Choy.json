@@ -1,0 +1,81 @@
+{
+    "title": "Frittata de Espárragos y Bok Choy",
+    "keywords": "Breakfast and Brunch,Budget Friendly,Main Dish,One Pot",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Main Dish",
+        "One Pot"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Asparagus%20and%20Bok%20Choy%20Frittata%20diabetic.png",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "pechuga de pollo deshuesada y sin piel (dividida en 4 porciones (4 oz))",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cebolla mediana (cortada en cubitos)",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "head",
+            "metric_amount": "head"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "caldo de pollo o verduras (sin grasa, bajo en sodio)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel (cortadas en porciones de 4 oz)",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "condimento para bistec (sin sal)",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        }
+    ],
+    "instructions": [
+        "Rompa un huevo en cada tomate. Espolvoree cada huevo con 1/2 cucharadita de queso y el 1/4 de cucharadita de pimienta restante. Hornee durante 30 a 35 minutos o hasta que los huevos estén listos. Espolvoree con tocino para servir.",
+        "Añade aceite, espárragos, bok choy, sal y pimienta a la sartén. Cocina, revolviendo de vez en cuando, hasta que las verduras se ablanden, durante 2 a 3 minutos.",
+        "Casca los huevos en un tazón grande y bátelos para combinarlos.",
+        "Precalentar el horno para asar.",
+        "Reduce el fuego y vierte la mezcla de huevos en la sartén. Levanta con cuidado los huevos cocidos por los bordes con una espátula hasta que los lados estén firmes pero la parte superior todavía esté líquida, durante 3 o 4 minutos.",
+        "claras de huevo"
+    ],
+    "tags": [
+        "Lower Carb",
+        "Italian",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Main Dish",
+        "One Pot"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "16g",
+        "saturated_fat": "5.1g",
+        "trans_fat": "0g",
+        "cholesterol": "380mg",
+        "sodium": "480mg",
+        "total_carbohydrate": "5g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/asparagus-and-bok-choy-frittata"
+}

@@ -1,0 +1,89 @@
+{
+    "title": "Muffins de Huevo Fáciles",
+    "keywords": "Easy Pantry Recipes,Vegetarian,Gluten-Free,Breakfast and Brunch,Budget Friendly,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Vegetarian",
+        "Gluten-Free",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1944-diabetic-breakfast-easy-egg-spinach-muffins_DCME_AdobeStock211356942_040120.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "espinacas congeladas (descongeladas y exprimidas)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "sustituto de azúcar moreno",
+            "us_amount": "10 whole",
+            "metric_amount": "10 whole"
+        },
+        {
+            "name": "Yogur griego natural sin grasa",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "jugo de lima (limón verde) o 1/4 taza de vinagre (de su preferencia)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "polvo de chile",
+        "Añade 1 cucharada colmada de espinacas descongeladas al fondo de cada molde para muffins.",
+        "En un bol mediano, bate los huevos, las claras de huevo, el yogur, la sal y la pimienta. Divide la mezcla de huevos en partes iguales entre los 12 moldes para muffins. Cubre cada muffin con 1 cucharadita de queso parmesano.",
+        "cilantro picado",
+        "Judías verdes cortadas (14,5 onzas, sin sal añadida, escurridas y enjuagadas)",
+        "Para recalentarlos desde el refrigerador, coloque el muffin sin tapar en un plato en el microondas durante 30 segundos. Para recalentarlos desde el congelador, coloque el muffin sin tapar en un plato en el microondas durante 1 minuto."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Kid Friendly",
+        "Comfort Food",
+        "Easy Pantry Recipes",
+        "Vegetarian",
+        "Gluten-Free",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "3g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "140mg",
+        "total_carbohydrate": "1g",
+        "fiber": "1g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/easy-egg-muffins"
+}

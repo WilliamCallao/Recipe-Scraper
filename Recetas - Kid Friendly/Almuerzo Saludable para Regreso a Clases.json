@@ -1,0 +1,89 @@
+{
+    "title": "Almuerzo Saludable para Regreso a Clases",
+    "keywords": "Quick & Easy,Lunch",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_301_Healthy_Back_to_school_Lunch_MG_4918-Edit-%28ZF-5661-35964-1-133%29_20282018.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "mostaza",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "aceite de semilla de uva",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Pechuga de pavo estilo delicatessen baja en sodio",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "queso cheddar bajo en grasa",
+            "us_amount": "1/2 oz",
+            "metric_amount": "14 ml"
+        },
+        {
+            "name": "hoja de lechuga romana",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "humus",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pepino(s)",
+            "us_amount": "4 slices",
+            "metric_amount": "4 slices"
+        },
+        {
+            "name": "semillas de girasol",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "arándanos y fresas en rodajas",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Tubo de yogur griego",
+            "us_amount": "1 (2-oz) packet",
+            "metric_amount": "1 (2-oz) packet"
+        }
+    ],
+    "instructions": [
+        "Unta mostaza sobre el panecillo. Cúbrelo con pavo, queso y lechuga para formar un sándwich.",
+        "Unta 1/2 cucharadita de hummus sobre una rodaja de pepino. Cúbrela con 1/2 cucharadita de semillas de girasol y vuelve a cubrirla con otra rodaja de pepino para formar un sándwich. Repite el proceso.",
+        "Reúna todos los componentes de la comida en un recipiente para el almuerzo dividido."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Kid Friendly",
+        "Quick & Easy",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "310",
+        "total_fat": "9g",
+        "saturated_fat": "3.1g",
+        "trans_fat": "0g",
+        "cholesterol": "55mg",
+        "sodium": "460mg",
+        "total_carbohydrate": "34g",
+        "fiber": "5g",
+        "sugar": "15g",
+        "added_sugar": "0g",
+        "protein": "30g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/healthy-back-school-lunch"
+}

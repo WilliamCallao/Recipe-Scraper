@@ -1,0 +1,107 @@
+{
+    "title": "Repollo Estofado con Manzanas",
+    "keywords": "Sides,Salads,Lunch,Holidays & Entertaining,Foodie,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Sides",
+        "Salads",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1035-diabetic-braised-red-cabbage-apples_DFImport_AdobeStock120290181_092920.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "manteca",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cabeza de coliflor (separada en floretes pequeños, desechar el corazón y el tallo)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "Manzana Granny Smith u otra manzana ácida (sin pelar y cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "semillas de alcaravea",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "azúcar",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "repollo rojo rallado",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "zumo de manzana",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "vinagre de sidra de manzana o jugo de limón",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "huevo",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Añade la mezcla de caldo y deja que hierva, raspando el fondo de la cacerola para aflojar los restos marrones. Reduce el fuego y cocina a fuego lento durante 2 minutos.",
+        "Incorpore las semillas de sésamo y sirva.",
+        "Añade el caldo y el jugo de manzana, tapa y cocina a fuego medio durante unos 8 a 10 minutos, o hasta que el repollo esté bien cocido pero tierno. Rocía con vinagre de sidra o jugo de limón y sazona con sal y pimienta."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Comfort Food",
+        "Sides",
+        "Salads",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "40",
+        "total_fat": "1.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "30mg",
+        "total_carbohydrate": "7g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/braised-cabbage-apples"
+}

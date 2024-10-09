@@ -1,0 +1,71 @@
+{
+    "title": "Corn Bhutta (Elote Asado)",
+    "keywords": "Sides,Vegan,Vegetarian",
+    "prep_time": "PT30M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_671_CornBhutta_IndianCuisine_050318.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "mazorcas de maíz grandes (de 7¾ a 9 pulgadas de largo) (con cáscara)",
+            "us_amount": "5",
+            "metric_amount": "5"
+        },
+        {
+            "name": "pimienta de cayena",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "comino (molido)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal marina",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "limas frescas (cortadas por la mitad)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        }
+    ],
+    "instructions": [
+        "Remoje el maíz (con las cáscaras) en un recipiente grande o en una olla con agua durante 30 minutos.",
+        "claras de huevo",
+        "Ase el maíz en una parrilla o sobre una llama de gas abierta (estufa de gas) a fuego medio-alto. Gire cada mazorca cada 30 segundos aproximadamente, para que el maíz se tueste de manera uniforme. (Escuchará algunos granos estallar mientras se cocinan). Retire las mazorcas asadas de la parrilla o la llama y déjelas a un lado.",
+        "Mezcle la cayena, el comino y la sal en un bol.",
+        "Quita con cuidado las cáscaras y los pelos del maíz si aún no lo has hecho. Sumerge las mitades de lima en la mezcla de especias para absorberlas y frota todo el maíz, asegurándote de exprimir el jugo de lima mientras lo haces. Sirve."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Indian",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "1g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "110mg",
+        "total_carbohydrate": "13g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/corn-bhutta-roasted-corn-cob"
+}
