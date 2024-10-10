@@ -1,0 +1,102 @@
+{
+    "title": "Avocado Summer Soup",
+    "keywords": "Appetizers,Budget Friendly,Lunch,Sides,Soup",
+    "prep_time": "PT2H",
+    "cook_time": "PT10M",
+    "categories": [
+        "Appetizers",
+        "Budget Friendly",
+        "Lunch",
+        "Sides",
+        "Soup"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_610_Budget-Friendly%20Avocado_Summer_Soup_BudgetFriendlyCookbook_022518.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "small onion (finely chopped)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garlic (minced)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "canola oil",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Haas avocados (large ripe )",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "lime juice",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "dry sherry",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "can low-sodium chicken stock ( (or 1½ cups homemade chicken broth))",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "hot pepper sauce",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cilantro (chopped fresh)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "milk (low-fat)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Dash kosher salt",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Sauté the onion and garlic in the oil until soft and fragrant. Set aside.",
+        "Peel and chop the avocado. Purée in a blender or food processor with the onion and garlic mixture, the lime juice, and the sherry.",
+        "Add chicken broth and hot sauce. Process until blended. Pour into a large serving bowl and add the chopped cilantro and milk. (Use more or less to achieve desired consistency.)",
+        "Add salt to taste and chill for 2–3 hours before serving.",
+        "Garnish with more chopped cilantro."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Caribbean",
+        "Appetizers",
+        "Budget Friendly",
+        "Lunch",
+        "Sides",
+        "Soup"
+    ],
+    "nutrition": {
+        "calories": "125",
+        "total_fat": "9g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "50mg",
+        "total_carbohydrate": "9g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/avocado-summer-soup"
+}

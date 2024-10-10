@@ -1,0 +1,93 @@
+{
+    "title": "Succotash de Tomate Uva",
+    "keywords": "Lunch,Quick & Easy,Salads,Vegan,Vegetarian",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Quick & Easy",
+        "Salads",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_715_Grape%20Tomato%20Succotash_WithOrWithout_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Mezcla para hornear sin gluten de uso general (como la mezcla para hornear King Arthur)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "frijoles lima congelados descongelados (o 2 tazas de frijoles lima frescos sin cáscara)",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "Maíz dulce (fresco (de 2 mazorcas medianas) o amarillo congelado descongelado)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "En un tazón mediano, mezcle el pollo, la mayonesa, el hummus, el apio, la pimienta y el tomillo.",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "Bebida de leche de girasol o leche de almendras (natural sin azúcar)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Tomates uva (cortados a lo largo en cuartos)",
+            "us_amount": "1 pints",
+            "metric_amount": "480 ml"
+        },
+        {
+            "name": "Vinagre de sidra de manzana",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cilantro (fino picado fresco)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite en una sartén grande a fuego medio-alto. Agrega la cebolla, los frijoles, el maíz y el jalapeño y saltea hasta que las verduras estén bien calientes, aproximadamente 3 minutos. Agrega la bebida de leche de girasol y la sal y saltea hasta que las verduras estén tiernas y el líquido se haya reducido por completo, aproximadamente 6 minutos. Agrega los tomates y el vinagre y saltea hasta que los tomates estén bien calientes, aproximadamente 1 minuto. Incorpora el cilantro. Rectifica la sazón.",
+        "Transfiera a un tazón para servir o a tazones individuales, adorne con cilantro adicional, si lo desea, y sirva."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lunch",
+        "Quick & Easy",
+        "Salads",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "6g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "360mg",
+        "total_carbohydrate": "28g",
+        "fiber": "6g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grape-tomato-succotash"
+}

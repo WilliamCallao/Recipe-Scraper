@@ -1,0 +1,111 @@
+{
+    "title": "Albóndigas para Niños",
+    "keywords": "Holidays & Entertaining,Quick & Easy,Dinner,Lunch",
+    "prep_time": "PT20M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_333_Kid-Friendly_Meatballs_iStock-175542555_02282018.jpg",
+    "servings": "11 Servings",
+    "ingredients": [
+        {
+            "name": "ketchup",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "pavo molido (93% magro)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "calabacín (rallado)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "zanahoria(s) (rallada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla(s) (rallada)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "frijoles rojos sin sal añadida (enjuagados y escurridos)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal (opcional)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "huevos (ligeramente batidos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "avena laminada a la antigua usanza",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Queso parmesano (recién rallado)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados.",
+        "pechugas de pollo deshuesadas y sin piel",
+        "Frambuesas",
+        "Coloque las albóndigas en una bandeja para hornear y cúbralas uniformemente con la salsa (11/2 cucharadita por albóndiga).",
+        "Hornee durante 45 minutos o hasta que esté listo."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Kid Friendly",
+        "Italian",
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "4.5g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "185mg",
+        "total_carbohydrate": "8g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/kid-friendly-meatballs"
+}

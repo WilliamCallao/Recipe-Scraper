@@ -1,0 +1,68 @@
+{
+    "title": "Paletas de Batido de Frambuesa para Niños",
+    "keywords": "Quick & Easy,Easy Pantry Recipes,Snacks,Vegetarian,Dessert,Gluten-Free",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Easy Pantry Recipes",
+        "Snacks",
+        "Vegetarian",
+        "Dessert",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/335-diabetic-raspberry-smoothie-popsicle-kid_649059514_081219.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "plátano pequeño",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Frambuesas congeladas sin azúcar",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Yogur griego de frutos rojos (sin grasa)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "leche desnatada",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "En una licuadora mezcle todos los ingredientes hasta que quede una mezcla homogénea.",
+        "Vierta la mezcla de batido de manera uniforme en 4 moldes para paletas de hielo. Inserte el asa para paletas de hielo en la parte superior. Colóquelos en posición vertical y congélelos hasta que se solidifiquen; aproximadamente 3 horas."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Kid Friendly",
+        "Quick & Easy",
+        "Easy Pantry Recipes",
+        "Snacks",
+        "Vegetarian",
+        "Dessert",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "0.5g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "20mg",
+        "total_carbohydrate": "13g",
+        "fiber": "3g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/kid-friendly-raspberry-smoothie-pops"
+}

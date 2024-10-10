@@ -1,0 +1,94 @@
+{
+    "title": "Pitas de Queso y Verduras",
+    "keywords": "Lunch,Dinner,Vegetarian,Snacks,Holidays & Entertaining,Sandwiches",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Dinner",
+        "Vegetarian",
+        "Snacks",
+        "Holidays & Entertaining",
+        "Sandwiches"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/151-diabetic-pita-sandwich_278775227_121218.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "tomate grande (cortado en 4 rodajas iguales)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Queso suizo (bajo en grasa)",
+            "us_amount": "2 1/4 oz",
+            "metric_amount": "64 ml"
+        },
+        {
+            "name": "Cebolla roja mediana (cortada en rodajas finas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "mayonesa ligera",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "hojas de lechuga romana",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "semillas de girasol",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pita de trigo integral",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "humus",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "pepino mediano",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Corte un lado de cada pan pita para abrirlo, pero no lo corte por completo. Déjelo a un lado.",
+        "Unta 1/2 cucharada de mayonesa en cada pita.",
+        "Corte el queso suizo en cuatro rebanadas iguales. Unte 2 cucharadas de hummus en cada rebanada de queso y espolvoree 1 cucharada de semillas de girasol por encima.",
+        "Coloque capas de hojas de lechuga, rodajas de cebolla, rodajas de tomate y rodajas de pepino sobre el hummus.",
+        "Rellene cada pita con relleno de sándwich y córtela por la mitad."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mediterranean",
+        "Lunch",
+        "Dinner",
+        "Vegetarian",
+        "Snacks",
+        "Holidays & Entertaining",
+        "Sandwiches"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "6g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "275mg",
+        "total_carbohydrate": "23g",
+        "fiber": "4g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cheese-and-veggie-pitas"
+}

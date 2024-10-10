@@ -1,0 +1,93 @@
+{
+    "title": "Hamburguesa de Pavo Caprese",
+    "keywords": "Sandwiches,Lunch,Dinner,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sandwiches",
+        "Lunch",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_144_Caprese_Turkey_Burger_PNCImages_02272018.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "pavo molido magro",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Delgadas galletas de trigo integral para sándwich",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "ketchup",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "tomate(s) (cortado en 6 rodajas gruesas)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "mozzarella fresca (cortada en 6 rodajas finas)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "hojas de albahaca fresca",
+            "us_amount": "18",
+            "metric_amount": "18"
+        }
+    ],
+    "instructions": [
+        "Prepare una parrilla interior o exterior.",
+        "En un recipiente mediano, mezcle el pavo, el ajo en polvo y la pimienta negra. Divida el pavo en seis porciones iguales y forme una hamburguesa.",
+        "Coloque las hamburguesas en la rejilla de la parrilla; áselas durante 3 a 4 minutos por lado o hasta que los jugos salgan transparentes.",
+        "En un tazón pequeño, mezcle el ketchup y el vinagre balsámico.",
+        "Coloque la hamburguesa sobre una lámina delgada y cubra con 1 cucharada de mezcla de ketchup, 1 rodaja de tomate, 1 rodaja de queso y 3 hojas de albahaca. Repita el proceso con las 5 hamburguesas restantes."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Grilling",
+        "Mediterranean",
+        "Sandwiches",
+        "Lunch",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "9g",
+        "saturated_fat": "3g",
+        "trans_fat": "0.1g",
+        "cholesterol": "65mg",
+        "sodium": "420mg",
+        "total_carbohydrate": "27g",
+        "fiber": "6g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/caprese-turkey-burger"
+}

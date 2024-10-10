@@ -1,0 +1,106 @@
+{
+    "title": "Rigatoni con Tomates Secos, Pesto y Aceitunas",
+    "keywords": "Vegetarian,Vegan,Main Dish,Lunch,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/RecId_804_Rigatoni%20with%20Sun%20Dried%20Tomatoes_Pesto%20_Olives_SmartShopperCkbk_022618.jpg",
+        "Pesto",
+        "And Olives\" loading=\"lazy\" />"
+    ],
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "rigatoni (preferiblemente integrales)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "Aceite de oliva en aerosol para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla(s) (cortadas en cubitos)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Tomates secados al sol rehidratados (en rodajas, no envasados ​​en aceite)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Queso parmesano (rallado)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "salsa pesto (embotellada)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "piñones tostados",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Aceitunas Kalamata (sin hueso y picadas en trozos grandes)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ralladura de limón fresco",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "pimienta negra recién molida al gusto",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Ponga a hervir una olla grande con agua ligeramente salada. Agregue los rigatoni y cocínelos durante 8 a 10 minutos hasta que estén al dente.",
+        "Mientras tanto, rocíe una sartén grande con aceite en aerosol. Saltee la cebolla y el ajo a fuego medio durante unos 6 minutos. Agregue los tomates secados al sol y saltee durante 2 minutos. Agregue el vino y cocine hasta que el vino esté casi evaporado.",
+        "Coloque las coles de Bruselas en un bol y agregue el aceite; revuelva para cubrir."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Italian",
+        "Vegetarian",
+        "Vegan",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "245",
+        "total_fat": "8g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "235mg",
+        "total_carbohydrate": "36g",
+        "fiber": "5g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/rigatoni-sun-dried-tomatoes-pesto-and-olives"
+}

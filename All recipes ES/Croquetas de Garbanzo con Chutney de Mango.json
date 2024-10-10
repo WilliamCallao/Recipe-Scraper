@@ -1,0 +1,139 @@
+{
+    "title": "Croquetas de Garbanzo con Chutney de Mango",
+    "keywords": "Dinner,Lunch,Main Dish,Sandwiches,Vegetarian",
+    "prep_time": "PT12M",
+    "cook_time": "PT14M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Sandwiches",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_652_ChickPeaPattiesWithMangoChutney_PerfectComfortCollection_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "cebolla pequeña (cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "apio (picado)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "pimiento rojo (picado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Perejil (picado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cebollino fresco (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Para servir, coloque con una cuchara el arroz integral cocido y caliente en cada plato. Cubra con el curry de pollo. Espolvoree la parte superior de cada porción con 2 cucharadas de tomates picados, 1 cucharada de pimiento verde picado y 2 cucharaditas de cilantro picado.",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta de cayena",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "pimienta negra (al gusto)",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "Mezcle los camarones con ½ cucharada de aceite de oliva, 1 diente de ajo, pimientos y pimienta. Déjelos marinar durante 15 a 30 minutos.",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "1 huevo (batido)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "pan rallado panko de trigo integral",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "tomato(es)",
+            "us_amount": "4 slice",
+            "metric_amount": "4 slice"
+        },
+        {
+            "name": "lechuga",
+            "us_amount": "4 leaves",
+            "metric_amount": "4 leaves"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite en una sartén de hierro fundido a fuego medio. Agrega la cebolla y saltea durante 3 minutos. Agrega el apio, el pimiento rojo, el perejil y el ajo y saltea durante 2 minutos. Agrega el curry en polvo, el comino, la pimienta de cayena y una pizca de sal marina y pimienta, si lo deseas, y retira del fuego.",
+        "cebolla verde finamente picada",
+        "Forma cuatro hamburguesas con la mezcla. Calienta la sartén de hierro fundido a fuego medio-alto. Agrega el aceite de oliva. Agrega las hamburguesas y dóralas por ambos lados durante unos 5-6 minutos por cada lado. Agrega las hamburguesas a panecillos integrales tostados y cubre con tomate, hojas de lechuga y chutney de mango, si lo deseas."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Indian",
+        "Comfort Food",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Sandwiches",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "310",
+        "total_fat": "10g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "45g",
+        "fiber": "10g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chickpea-patties-mango-chutney"
+}

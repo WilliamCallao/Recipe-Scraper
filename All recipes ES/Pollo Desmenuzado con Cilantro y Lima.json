@@ -1,0 +1,89 @@
+{
+    "title": "Pollo Desmenuzado con Cilantro y Lima",
+    "keywords": "Budget Friendly,Dinner,Foodie,Holidays & Entertaining,Lunch,Main Dish,Slow Cooker",
+    "prep_time": "PT20M",
+    "cook_time": "PT3H",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Slow Cooker"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/pulled-chicken-cilantro-lime.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "cebolla roja (finamente picada)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "jugo de lima (recién exprimido, más 2 cucharadas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Puré de limón en conserva",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel (se descarta toda la grasa)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "tomate(s) (picado)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Lima (gajos para servir)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Cocine las verduras: mientras el cerdo reposa, en la sartén con el fondo reservado, caliente 1/2 cucharadita de aceite de oliva a fuego medio-alto hasta que esté caliente. Agregue los guisantes en una capa uniforme. Cocine, sin revolver, durante 1 a 2 minutos o hasta que estén ligeramente dorados. Agregue los pimientos cortados en cuartos y las partes blancas de las cebolletas cortadas en rodajas; sazone con sal (opcional) y pimienta. Cocine, revolviendo ocasionalmente, durante 2 a 3 minutos o hasta que se ablanden. Apague el fuego.",
+        "Coloque el pollo en una olla de cocción lenta a fuego medio. Espolvoree con el chile en polvo y el comino. Vierta el caldo de pollo alrededor del pollo. Cubra y cocine a fuego lento durante 3 a 5 horas o hasta que el pollo alcance una temperatura de 165 grados F.",
+        "Saque el pollo de la olla de cocción lenta y, con los dientes de dos tenedores, desmenúcelo. Coloque el pollo en un bol y mézclelo con la mezcla de cebolla y limón. Sirva con gajos de limón.",
+        "Variación de olla a presión eléctrica: Prepare la mezcla de cebolla y limón como se indica anteriormente. Coloque el pollo en la olla a presión. Espolvoree con chile en polvo y comino. Vierta el caldo de pollo alrededor del pollo. Cierre bien la tapa. Cocine a presión alta durante 6 minutos. Deje que la presión se libere de forma natural durante 5 minutos y luego libere rápidamente la presión restante. Proceda como se indica anteriormente."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Budget Friendly",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Slow Cooker"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "3g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pulled-chicken-cilantro-lime"
+}

@@ -1,0 +1,106 @@
+{
+    "title": "Crisp de Frutas del Bosque",
+    "keywords": "Quick & Easy,Dessert,Vegetarian,Holidays & Entertaining",
+    "prep_time": "PT15M",
+    "cook_time": "PT55M",
+    "categories": [
+        "Quick & Easy",
+        "Dessert",
+        "Vegetarian",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/084-diabetic-dessert-berry-crisp_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fresas (en rodajas)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "arándanos",
+            "us_amount": "1 pints",
+            "metric_amount": "480 ml"
+        },
+        {
+            "name": "Ralladura de limón",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Sustituto de azúcar bajo en calorías (uso dividido)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "maíz (congelado, descongelado)",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "avena laminada a la antigua usanza",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "sustituto de azúcar moreno",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cebolla roja (picada)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F. Rocíe un molde para pastel de 9 pulgadas con aceite en aerosol.",
+        "En un recipiente mediano, combine las bayas, la ralladura de limón, el jugo de limón, 2 cucharadas de la mezcla de azúcar Splenda®, la fécula de maíz y la canela. Mezcle bien y vierta en un molde para tarta.",
+        "En otro recipiente mediano, combine la avena, la cucharada restante de la mezcla de azúcar Splenda, la mezcla de azúcar morena, las nueces pecanas y la margarina. Incorpore la margarina a los ingredientes secos con las manos hasta que se formen grumos.",
+        "Espolvoree la mezcla de cobertura crujiente uniformemente sobre las bayas. Hornee durante 55 minutos o hasta que la parte superior esté dorada y la fruta burbujee. Sirva caliente."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Dialysis",
+        "Comfort Food",
+        "Kid Friendly",
+        "Quick & Easy",
+        "Dessert",
+        "Vegetarian",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "11g",
+        "saturated_fat": "1.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "50mg",
+        "total_carbohydrate": "24g",
+        "fiber": "4g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/berry-crisp"
+}

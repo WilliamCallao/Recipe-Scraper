@@ -1,0 +1,113 @@
+{
+    "title": "Pasta de Garbanzo con Salsa de Tomate Calabrio, Champiñones, Espinacas y Pimientos",
+    "keywords": "Meal Kit Recipes,Main Dish,Dinner,Cooking for 1 or 2,Foodie,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Meal Kit Recipes",
+        "Main Dish",
+        "Dinner",
+        "Cooking for 1 or 2",
+        "Foodie",
+        "Vegetarian"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/1938-diabetic-chickpea-pasta-calabrian-tomato-sauce-mushrooms-spinach-peppers_blue-apron_031220.jpg",
+        "Spinach",
+        "and Peppers\" loading=\"lazy\" />"
+    ],
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "hongos cremini",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "mini pimientos dulces",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "chalote",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "pasta rotini de garbanzos",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Sal kosher",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pasta de tomate",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pasta de chile calabrés",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "espinaca bebé",
+            "us_amount": "3 oz",
+            "metric_amount": "85 ml"
+        },
+        {
+            "name": "queso mascarpone",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Prepara los ingredientes: llena una olla mediana hasta 3/4 de su capacidad con agua salada; tapa y calienta a fuego alto hasta que hierva. Lava y seca los productos frescos. Corta los hongos en trozos pequeños. Corta y desecha los tallos de los pimientos; retira los corazones y luego córtalos en rodajas finas a lo largo. Pela y corta en rodajas finas la chalota. Pela y pica en trozos grandes 2 dientes de ajo.",
+        "Cocine la pasta: agregue la pasta a la olla con agua hirviendo. Cocine, revolviendo ocasionalmente, durante 4 a 6 minutos o hasta que esté al dente (aún ligeramente firme al morderla). Apague el fuego. Reserve 1 taza del agua de cocción de la pasta, escúrrala bien y enjuáguela con agua fría para evitar que se pegue. Vuelva a colocarla en la olla.",
+        "Cocine las verduras y prepare la salsa: Mientras tanto, en una sartén mediana (antiadherente, si tiene una), caliente 2 cucharaditas de aceite de oliva a fuego medio-alto hasta que esté caliente. Agregue los trozos de champiñones en una capa uniforme. Cocine, sin revolver, de 3 a 4 minutos o hasta que estén ligeramente dorados. Agregue los pimientos en rodajas, la chalota en rodajas, las alcaparras y el ajo picado; sazone con sal (opcional) y pimienta. Cocine, revolviendo ocasionalmente, de 2 a 3 minutos o hasta que se ablanden un poco. Agregue la pasta de tomate y la pasta de chile. Cocine, revolviendo con frecuencia, de 1 a 2 minutos o hasta que se combinen bien. Agregue 1/4 de taza de agua (con cuidado, ya que el líquido puede salpicar). Cocine, revolviendo ocasionalmente, de 1 a 2 minutos o hasta que el líquido se reduzca ligeramente en volumen. Apague el fuego. Agregue la espinaca hasta que se marchite y se combine.",
+        "Mantequilla de maní cremosa sin azúcar (para la granola de chocolate)"
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mediterranean",
+        "Italian",
+        "Meal Kit Recipes",
+        "Main Dish",
+        "Dinner",
+        "Cooking for 1 or 2",
+        "Foodie",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "490",
+        "total_fat": "18g",
+        "saturated_fat": "4.5g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "280mg",
+        "total_carbohydrate": "69g",
+        "fiber": "12g",
+        "sugar": "13g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chickpea-pasta-calabrian-tomato-sauce-mushrooms-spinach-and-peppers"
+}

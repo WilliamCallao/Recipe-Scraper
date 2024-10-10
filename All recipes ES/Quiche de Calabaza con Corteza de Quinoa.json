@@ -1,0 +1,100 @@
+{
+    "title": "Quiche de Calabaza con Corteza de Quinoa",
+    "keywords": "Vegetarian,Foodie,Holidays & Entertaining,Breakfast and Brunch",
+    "prep_time": "PT1H",
+    "cook_time": "PT1H",
+    "categories": [
+        "Vegetarian",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/421-diabetic-pumpkin-quiche-quinoa-crust_100418_1021x779.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "quinua cocida",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "queso crema (bajo en grasa, ablandado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "clara de huevo",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Leche al 1%",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "huevos grandes",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "tomillo fresco (picado)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Vierta el batido en un vaso, cubra con crema batida y espolvoree con 1/4 cucharadita de semillas de lino molidas.",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Refrigerar la ensalada hasta que se enfríe (al menos 1 hora). Revolver nuevamente antes de servir.",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Puré de calabaza enlatado",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 grados F. Rocíe con aceite en aerosol un molde para hornear de 8 pulgadas. Déjelo a un lado.",
+        "Para preparar la masa, mezcle la quinoa cocida, el queso crema y la clara de huevo en un recipiente mediano hasta que se integren bien. Cubra y refrigere durante 1 hora.",
+        "Presione la mezcla de corteza de quinoa en el fondo y los lados del molde para tarta. Hornee la corteza durante 10 minutos, retírela del horno y déjela a un lado. Baje la temperatura del horno a 350 grados F.",
+        "En un bol grande, mezcle los ingredientes restantes para crear el relleno de quiche. Bata hasta que estén bien mezclados y espumosos.",
+        "Sandía sin semillas (cortada en cubitos, aproximadamente 3 ½–4 tazas)"
+    ],
+    "tags": [
+        "Low Sodium",
+        "Comfort Food",
+        "Vegetarian",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "105",
+        "total_fat": "3g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "125mg",
+        "total_carbohydrate": "14g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pumpkin-quiche-quinoa-crust"
+}

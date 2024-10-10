@@ -1,0 +1,62 @@
+{
+    "title": "Ensalada de Kale y Pollo con Aderezo de Jengibre Fresco",
+    "keywords": "Lunch,Main Dish,Salads,Sides",
+    "prep_time": "PT5M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Lunch",
+        "Main Dish",
+        "Salads",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_644_Chicken%20Kale%20Salad%20with%20Ginger%20Dressing_4IngredientCookbook_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pechugas de pollo (sin hueso y sin piel)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "Espinacas rellenas con col rizada tierna",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "Aderezo ligero de frambuesa para ensaladas",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "raíz de jengibre (rallada)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "Calienta una parrilla o sartén a fuego medio-alto. Rocía el pollo con aceite en aerosol, espolvorea con 1/4 de cucharadita de sal y 1/4 de cucharadita de pimienta, si lo deseas. Cocina durante 6 minutos de cada lado o hasta que ya no esté rosado en el centro. Deja enfriar y córtalo en rodajas finas.",
+        "Coloque cantidades iguales de verduras y pollo en cuatro platos. Bata el aderezo para ensalada y el jengibre hasta que estén bien mezclados. Vierta cantidades iguales sobre todos los ingredientes."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Lunch",
+        "Main Dish",
+        "Salads",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "10g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "85mg",
+        "sodium": "440mg",
+        "total_carbohydrate": "6g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "28g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-kale-salad-fresh-ginger-dressing"
+}

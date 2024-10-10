@@ -1,0 +1,76 @@
+{
+    "title": "Ensalada de Repollo",
+    "keywords": "Vegetarian,Sides,Salads,Foodie,Gluten-Free,Lunch",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Salads",
+        "Foodie",
+        "Gluten-Free",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/mar13_foodie_cabbage_salad_istock20865822_279x200.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "mezcla de ensalada de col envasada",
+            "us_amount": "1 (10-oz) bag",
+            "metric_amount": "1 (10-oz) bag"
+        },
+        {
+            "name": "mostaza de dijon",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sustituto de azúcar bajo en calorías (o 1/2 cucharadita)",
+            "us_amount": "1 packet",
+            "metric_amount": "1 packet"
+        },
+        {
+            "name": "Semillas de amapola",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Queso parmesano (rallado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "verduras mixtas preenvasadas",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        }
+    ],
+    "instructions": [
+        "En un tazón grande, mezcle la mayonesa ligera, el vinagre de vino de arroz, la mostaza de Dijon, la Splenda y las semillas de amapola.",
+        "En un bol pequeño, bate el huevo y luego incorpora lentamente la mezcla de leche caliente para templar el huevo. Agrega el resto de la mezcla de leche al huevo y luego vierte sobre la pasta, extendiendo para cubrir toda la preparación."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Vegetarian",
+        "Sides",
+        "Salads",
+        "Foodie",
+        "Gluten-Free",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "185mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cabbage-salad"
+}

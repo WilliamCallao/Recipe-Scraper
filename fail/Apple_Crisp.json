@@ -1,0 +1,85 @@
+{
+    "title": "Apple Crisp",
+    "keywords": "Dessert,Holidays & Entertaining",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dessert",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/043-diabetic-dessert-apple-crisp_shutterstock-1076792399_111418.jpg",
+    "servings": "7 Servings",
+    "ingredients": [
+        {
+            "name": "nonstick cooking spray",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "packed brown sugar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "all-purpose flour",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "old-fashioned rolled oats",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "margarine (softened)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ground nutmeg",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "vanilla extract",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "red apples (peeled, sliced, about 5 apples)",
+            "us_amount": "5 cup",
+            "metric_amount": "1 l 183 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 375° F. Coat a 13 x 9-inch pan with cooking spray.",
+        "In a small bowl, combine brown sugar, flour, oats, margarine, cinnamon, nutmeg, and vanilla. Blend with a fork until moistened (mixture should be crumbly).",
+        "Layer apples in a pan and sprinkle brown sugar mixture evenly over top. Bake 30 minutes."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Comfort Food",
+        "Kid Friendly",
+        "Dessert",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "3g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "30mg",
+        "total_carbohydrate": "25g",
+        "fiber": "2g",
+        "sugar": "16g",
+        "added_sugar": "8g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/apple-crisp"
+}

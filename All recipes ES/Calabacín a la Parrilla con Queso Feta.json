@@ -1,0 +1,60 @@
+{
+    "title": "Calabacín a la Parrilla con Queso Feta",
+    "keywords": "Quick & Easy,Sides,Vegetarian,Gluten-Free",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/299-diabetic-grilled-zucchini-feta_AdobeStock144864124_012121.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Calabacín (partido por la mitad a lo largo (extremos recortados))",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "Seque los filetes de salmón descongelados con una toalla de papel. Pincele cada lado con aceite de oliva y sazone con el condimento para parrilla sin sal.",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "queso feta desmenuzado bajo en grasa",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente la parrilla a fuego medio-alto.",
+        "Rocíe el aceite de oliva uniformemente sobre las mitades de calabacín. Asar los calabacines durante 4 o 5 minutos por cada lado, hasta que estén tiernos.",
+        "pimiento rojo (cortado en 4 rodajas)"
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Low Sodium",
+        "Grilling",
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "45",
+        "total_fat": "3g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "80mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-zucchini-feta-cheese"
+}

@@ -1,0 +1,86 @@
+{
+    "title": "Tacos de Bistec de Falda en Olla de Cocción Lenta",
+    "keywords": "Gluten-Free,Slow Cooker,Quick & Easy,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT6H",
+    "categories": [
+        "Gluten-Free",
+        "Slow Cooker",
+        "Quick & Easy",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/489-Diabetic-Steak-Tacos_148363720_071818.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "filete de flanco",
+            "us_amount": "1 1/4 lbs",
+            "metric_amount": "567 ml"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "comino",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Lima (jugo)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "tortillas de maíz de 6 pulgadas",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "pico de gallo",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque el filete de falda en una olla de cocción lenta. Espolvoree la carne con chile en polvo, comino y ajo en polvo. Vierta el jugo de limón sobre el filete. Vierta el agua.",
+        "Tapar y cocinar a fuego lento durante 6 horas o hasta que esté listo. Desmenuzar el filete con un tenedor.",
+        "Coloque aproximadamente 1 1/2 onzas de filete en cada tortilla. Cubra cada taco con 1 cucharada de pico de gallo."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Mexican/Southwestern",
+        "Gluten-Free",
+        "Slow Cooker",
+        "Quick & Easy",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "4g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "40mg",
+        "total_carbohydrate": "13g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/slow-cooker-flank-steak-tacos"
+}

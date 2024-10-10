@@ -1,0 +1,101 @@
+{
+    "title": "Panqueques de Almendra y Arándanos",
+    "keywords": "Breakfast and Brunch,Gluten-Free",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1661-diabetic-breakfast-blueberry-almond-pancakes_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "huevos",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "claras de huevo",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "queso ricotta ligero",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "leche de almendras y vainilla sin azúcar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "plátano grande maduro",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "limón (jugo y ralladura)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "harina de almendras",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Semilla de lino molida",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Levadura en polvo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Sugerencia de presentación alternativa: use jícama en lugar de lechuga para el recipiente para servir. Pele la jícama y córtela en rodajas de 1/4 de pulgada de grosor, luego corte las rodajas en triángulos (octavos) para que parezcan chips de tortilla. Sirva como chips y salsa usando los “chips” de jícama cruda en lugar de chips de tortilla.",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Añade los huevos, las claras de huevo, el queso ricotta, la vainilla, la leche de almendras, el plátano, el jugo de limón y la ralladura de limón a una licuadora. Licúa hasta obtener una mezcla homogénea.",
+        "En un bol pequeño, combine la harina de almendras, la linaza molida y el polvo para hornear. Agregue la mezcla seca a la mezcla líquida en la licuadora y licue hasta que quede una mezcla homogénea.",
+        "Rocíe una sartén antiadherente con aceite en aerosol y colóquela a fuego medio. Vierta aproximadamente 1/3 de taza de la masa de panqueques en la sartén y cubra con 4 o 5 arándanos. Deje cocinar hasta que los bordes comiencen a dorarse (2 o 3 minutos); luego dé vuelta el panqueque para continuar cocinándolo durante 2 o 3 minutos más. Retírelo de la sartén y repita el proceso con los 5 panqueques restantes."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Breakfast and Brunch",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "16g",
+        "saturated_fat": "2.6g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "16g",
+        "fiber": "6g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/blueberry-almond-pancakes"
+}

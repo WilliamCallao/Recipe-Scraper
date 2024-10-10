@@ -1,0 +1,128 @@
+{
+    "title": "Tofu al General Tso con Brócoli",
+    "keywords": "Foodie,Dinner,Vegan,Main Dish,Lunch,Vegetarian",
+    "prep_time": "PT35M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Foodie",
+        "Dinner",
+        "Vegan",
+        "Main Dish",
+        "Lunch",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/019-diabetic-chinese-tofu-broccoli_AdobeStock404612949_012221.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Tofu extra firme (escurrido y cortado en trozos de 1 pulgada)",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "salsa de soja baja en sodio (uso dividido)",
+            "us_amount": "1 tbsp plus 1 tsp",
+            "metric_amount": "1 tbsp plus 1 tsp"
+        },
+        {
+            "name": "vinagre de arroz (uso dividido)",
+            "us_amount": "1 tbsp plus 2 tsp",
+            "metric_amount": "1 tbsp plus 2 tsp"
+        },
+        {
+            "name": "aceite vegetal (uso dividido)",
+            "us_amount": "3 tsp",
+            "metric_amount": "15 g"
+        },
+        {
+            "name": "Calienta el aceite de sésamo en una sartén grande. Agrega la berenjena, el jengibre, el ajo, los hongos y los brotes de soja. Saltea a fuego medio-alto hasta que la berenjena comience a ablandarse, de 4 a 6 minutos.",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Jengibre rallado (uso dividido)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Almidón de maíz (uso dividido)",
+            "us_amount": "1 tbsp plus 2 tsp",
+            "metric_amount": "1 tbsp plus 2 tsp"
+        },
+        {
+            "name": "caldo de verduras bajo en sodio",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Miel o 2 paquetes de edulcorante artificial",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pasta de tomate",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "aceite de sésamo",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Salsa picante de estilo asiático (como sambal oelek)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "cebolla verde (cebolleta) (cortada en rodajas finas)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "brócoli (al vapor)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350° F y cubra una bandeja para hornear con aceite en aerosol. Deje a un lado.",
+        "Seque el tofu con una toalla de papel.",
+        "Retirar del horno y dejar enfriar los muffins en el molde durante 10 minutos. Retirar los muffins del molde y dejar enfriar completamente sobre una rejilla.",
+        "pimientos rojos asados ​​(cortados en rodajas finas)",
+        "Mientras se hornea el tofu, mezcle el caldo, la miel, la cucharada restante de salsa de soja, la cucharada restante de vinagre, el aceite de sésamo, las 2 cucharaditas restantes de maicena, la pasta de tomate y la salsa picante en un bol pequeño. Deje de lado.",
+        "Añade las 2 cucharaditas restantes de aceite vegetal a una sartén grande o un wok a fuego medio-alto. Añade las cebolletas y el resto del ajo y el jengibre y saltea durante 1 minuto. Añade la mezcla de salsa y cocina durante 2-3 minutos o hasta que espese.",
+        "Una vez que todo el chocolate esté mezclado con el yogur, divida la mousse en 6 porciones y cubra cada porción con 1/3 de taza de frambuesas y 1 cucharada de crema batida."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Asian",
+        "Foodie",
+        "Dinner",
+        "Vegan",
+        "Main Dish",
+        "Lunch",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "11g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "280mg",
+        "total_carbohydrate": "17g",
+        "fiber": "3g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/general-tsos-tofu-broccoli"
+}

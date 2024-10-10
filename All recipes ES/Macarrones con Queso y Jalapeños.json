@@ -1,0 +1,119 @@
+{
+    "title": "Macarrones con Queso y Jalapeños",
+    "keywords": "Lunch,Foodie,Holidays & Entertaining,Sides,Vegetarian,Dinner",
+    "prep_time": "PT25M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Lunch",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Sides",
+        "Vegetarian",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/326-diabetic-jalapeno-mac-and-cheese_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "9 Servings",
+    "ingredients": [
+        {
+            "name": "Batir los huevos, las claras de huevo, el tomillo y 1/4 cucharadita de sal en una taza medidora de 2 tazas con pico vertedor o en un bol mediano y verter lentamente sobre cada porción. Cubrir cuatro cuadrados de 6 pulgadas de papel de aluminio con aceite en aerosol y cubrir los vasos individualmente con una hoja de papel de aluminio, con el lado cubierto hacia abajo.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chiles jalapeños pequeños",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "rotini de grano entero",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "harina de trigo integral",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "leche desnatada",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "Cuñas de queso ligero Laughing Cow",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "Queso parmesano (más 2 cucharadas recién rallado (dividido))",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "nuez moscada molida",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal ((opcional))",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pan de trigo entero",
+            "us_amount": "1 slice",
+            "metric_amount": "1 slice"
+        },
+        {
+            "name": "ajo",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 450 grados F. Cubra una fuente para hornear de 9x13 con aceite en aerosol y reserve.",
+        "col rizada bebé",
+        "Saque los chiles jalapeños ennegrecidos del horno y colóquelos en un recipiente y cúbralos inmediatamente con film transparente. Déjelos reposar durante 10 a 15 minutos para que se enfríen. Una vez que los chiles se hayan enfriado, pélelos y quíteles las semillas. Déjelos a un lado. Nota: Protéjase las manos mientras hace esto con guantes o incluso bolsas de plástico para sándwich para evitar que los jugos de los chiles entren en sus manos.",
+        "Una vez que los pimientos hayan terminado de asarse, baje la temperatura del horno a 350 grados F.",
+        "Mientras los jalapeños se asan y se enfrían, agregue aceite de oliva a una cacerola mediana a fuego medio. Agregue la harina y cocínela durante 1 o 2 minutos, teniendo cuidado de que no se dore. Revuelva constantemente.",
+        "Ralladura de limón",
+        "Agregue las cuñas de queso Laughing Cow Lite, 1/4 taza de queso parmesano, nuez moscada molida, sal (opcional) y pimienta negra. Bata constantemente.",
+        "Añade los chiles jalapeños a la mezcla de queso y, usando una licuadora de inmersión o vertical, licua hasta que quede una mezcla homogénea. Los chiles tendrán cierta textura. Reserva.",
+        "Con un procesador de alimentos, mezcle el pan integral, el ajo y 2 cucharadas de queso parmesano rallado para preparar la cobertura de crumble. Deje de lado.",
+        "Cocine la pasta según las instrucciones del paquete, omitiendo la sal. Escurra la pasta y agréguela inmediatamente a la mezcla de queso, revolviendo bien para incorporarla.",
+        "eneldo seco (o 2 cucharadas de eneldo fresco)"
+    ],
+    "tags": [
+        "Comfort Food",
+        "Lunch",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Sides",
+        "Vegetarian",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "5g",
+        "saturated_fat": "1.7g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "360mg",
+        "total_carbohydrate": "43g",
+        "fiber": "7g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/jalapeno-mac-and-cheese"
+}

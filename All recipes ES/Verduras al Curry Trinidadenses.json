@@ -1,0 +1,108 @@
+{
+    "title": "Verduras al Curry Trinidadenses",
+    "keywords": "Vegetarian,Main Dish,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "PT24M",
+    "categories": [
+        "Vegetarian",
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_884_Trinidadian_Curry_Vegetables_VegetarianCookbook_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite vegetal",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla(s) (picadas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "raíz de jengibre (recién picada)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "calabacín mediano (cortado en dados de 1/2 pulgada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chile jalapeño o serrano (sin semillas y picado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Galletas saladas bajas en sodio",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Combine el atún, la cebolla, el cilantro, la pimienta negra y la mezcla de condimentos en un tazón pequeño. Agregue el jugo de limón y mezcle bien todo. Cubra y refrigere durante al menos 2 horas para marinar antes de servir.",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garbanzos escurridos y enjuagados",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "tomate(s) (picado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "leche descremada",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "caldo de res",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "Jugo de 1 limón",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite a fuego medio en una cacerola grande. Saltea la cebolla, el ajo y el jengibre durante 2 minutos, revolviendo bien.",
+        "Añade el calabacín, el chile jalapeño y la patata y saltéalos durante 2 minutos más. Añade el curry en polvo, los garbanzos, el tomate, el agua o el caldo de verduras y las cebolletas. Deja cocinar a fuego lento durante 20 minutos hasta que la patata esté bien cocida y se forme una salsa ligera.",
+        "Condimentar con jugo de limón y servir."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Low Sodium",
+        "Veggie Rich",
+        "Caribbean",
+        "Vegetarian",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "6g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "125mg",
+        "total_carbohydrate": "35g",
+        "fiber": "8g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/trinidadian-curry-vegetables"
+}

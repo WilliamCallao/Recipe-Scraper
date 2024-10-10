@@ -1,0 +1,91 @@
+{
+    "title": "Lomo de Cerdo Marinado en Mojo (Pernil)",
+    "keywords": "Dinner,Main Dish",
+    "prep_time": "PT25M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/372-mojo-marinated-diabetic-pork_sabores-de-cuba_013019.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "naranjas de ombligo (peladas y cortadas por la mitad)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "limón (pelado)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Sal kosher",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Precaliente el horno a 375 grados F. Cubra un molde para muffins con papeles para muffins.",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Añade la salsa de ajo y chile tailandés y las lentejas. Revuelve para cubrirlas con aceite.",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Mientras se asa el pescado, agregue la cucharadita y media restante de aceite de sésamo y más aceite en aerosol para cocinar en un wok o una sartén grande a fuego alto. Saltee el repollo, el ajo, los guisantes y la salsa picante durante 4 minutos, hasta que se ablanden pero aún estén ligeramente crujientes.",
+            "us_amount": "2 sprig",
+            "metric_amount": "2 sprig"
+        },
+        {
+            "name": "Retire el pescado de la bandeja para hornear y sírvalo sobre 3/4 de taza de verduras salteadas.",
+            "us_amount": "20 oz",
+            "metric_amount": "566 ml"
+        },
+        {
+            "name": "Spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400°F.",
+        "En un bol pequeño, mezcle los ingredientes del aderezo. Vierta los ingredientes del aderezo sobre la ensalada y revuelva para cubrir.",
+        "Quitar la piel plateada del lomo de cerdo. Colocar el lomo de cerdo en la bolsa plástica con cierre hermético con el mojo. Marinar el cerdo por al menos 20 minutos en el refrigerador.",
+        "Saque el lomo de cerdo de la bolsa (descarte la marinada que contiene) y séquelo con una toalla de papel. Precaliente una sartén para saltear apta para horno a fuego medio, rocíe con aceite en aerosol antiadherente y espere 10 segundos para que el aceite alcance la temperatura adecuada. Dore ambos lados del lomo de cerdo en la sartén y luego coloque la sartén en el horno durante 15 a 20 minutos. La temperatura interna del cerdo cocido debe ser de 145 °F.",
+        "Saque el cerdo del horno y déjelo reposar unos minutos para que se distribuyan los jugos. Rocíe un poco de la marinada de mojo reservada sobre el cerdo y sirva."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Caribbean",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "3g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "75mg",
+        "sodium": "450mg",
+        "total_carbohydrate": "10g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mojo-marinated-pork-tenderloin-pernil"
+}

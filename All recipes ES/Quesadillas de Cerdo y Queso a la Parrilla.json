@@ -1,0 +1,104 @@
+{
+    "title": "Quesadillas de Cerdo y Queso a la Parrilla",
+    "keywords": "Appetizers,Holidays & Entertaining,Lunch,Main Dish,Sandwiches,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Sandwiches",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_732_Grilled%20Pork%20and%20Cheese%20Quesadilla_DiabetesComfortFood_022518.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "pimienta negra",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cebolla(s) (picadas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "lomo de cerdo (molido)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "Mezcla de quesos mexicanos (bajos en grasa)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cebolla verde (cebolleta) (cortada en rodajas finas)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "aceite de sésamo tostado",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "yogur griego sin grasa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "salsa (preparada suave o picante)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "tomato(es) (diced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Prepare una parrilla al aire libre a fuego medio. Caliente el aceite en una sartén grande a fuego medio. Agregue la cebolla y saltee durante 3 minutos. Agregue el ajo y saltee durante 1 minuto. Agregue el cerdo y saltee durante 5 a 6 minutos. Escurra el exceso de grasa.",
+        "En dos bandejas para hornear, coloque 4 tortillas. Rocíe las partes superiores ligeramente con aceite. Dé vuelta. Esparza 1/2 taza de carne de cerdo uniformemente sobre la tortilla. Espolvoree con queso, cebolletas y chiles. Cubra todas las tortillas con las tortillas restantes para formar una quesadilla y presione ligeramente. Rocíe ligeramente con aceite.",
+        "Cuando la parrilla esté caliente, coloque las quesadillas en ella. Cocine a la parrilla durante 5 a 7 minutos de cada lado. Durante un tiempo, puede cubrir la parrilla para ayudar a derretir el queso y dorar las quesadillas. Cuando el primer lado esté dorado, dé vuelta y cocine a la parrilla el otro lado. Córtelas en gajos y sirva con yogur, salsa y tomates."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Grilling",
+        "Kid Friendly",
+        "Mexican/Southwestern",
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Sandwiches",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "185",
+        "total_fat": "6g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "265mg",
+        "total_carbohydrate": "16g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-pork-and-cheese-quesadillas"
+}

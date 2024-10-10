@@ -1,0 +1,115 @@
+{
+    "title": "Sloppy Joes de Lentejas",
+    "keywords": "Dinner,Lunch,Main Dish,Sandwiches,Vegan",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Sandwiches",
+        "Vegan"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/lentil-sloppy-joes.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "cebolla blanca (cortada en 12 rodajas finas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lechuga",
+            "us_amount": "6 leaves",
+            "metric_amount": "6 leaves"
+        },
+        {
+            "name": "Pimiento rojo mediano (sin semillas y cortado en cubitos)",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimentón ahumado",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Salsa Worcestershire",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "azúcar morena",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salsa de tomate (1/4 taza)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "lentejas (verdes, enjuagadas)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "caldo de verduras bajo en sodio",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "cebolla amarilla (cortada en cubitos)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque una cacerola a fuego medio. Agregue el aceite, la cebolla y el ajo. Cocine, revolviendo de vez en cuando, hasta que la cebolla comience a ablandarse, de 3 a 4 minutos.",
+        "Añade el caldo y las lentejas. Deja que hierva, luego reduce el fuego y cuece a fuego lento durante unos 20 minutos, hasta que las lentejas estén tiernas.",
+        "Incorpore la salsa de tomate, el azúcar moreno, la salsa Worcestershire y las especias.",
+        "Para servir, reparta las lentejas entre los panecillos. Cubra con lechuga y aros de cebolla."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Sandwiches",
+        "Vegan"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "5g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "450mg",
+        "total_carbohydrate": "48g",
+        "fiber": "12g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/lentil-sloppy-joes"
+}

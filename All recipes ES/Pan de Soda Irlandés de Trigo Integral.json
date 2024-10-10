@@ -1,0 +1,73 @@
+{
+    "title": "Pan de Soda Irlandés de Trigo Integral",
+    "keywords": "Sides,Snacks,Vegetarian,Foodie",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Snacks",
+        "Vegetarian",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/mar13_foodie_soda_bread_istock14774234_279x200.jpg",
+    "servings": "24 Servings",
+    "ingredients": [
+        {
+            "name": "tomates cortados en cubitos enlatados",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "harina para todo uso",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "pasas doradas",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "bicarbonato",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimentón ahumado",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "semillas de ajwain",
+        "En un tazón grande, combine la harina integral, la harina común, el bicarbonato de sodio, la sal y las pasas.",
+        "Haz un hueco en el centro de los ingredientes secos y el suero de leche a la vez. Mezcla los ingredientes con una espátula de goma hasta que se integren; no mezcles demasiado.",
+        "Sustituto de azúcar moreno bajo en calorías",
+        "Colóquelo en la rejilla del medio para hornear durante 30 minutos o hasta que esté firme y dorado."
+    ],
+    "tags": [
+        "Sides",
+        "Snacks",
+        "Vegetarian",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "15g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/whole-wheat-irish-soda-bread"
+}

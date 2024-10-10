@@ -1,0 +1,134 @@
+{
+    "title": "Pasteles de Quinoa",
+    "keywords": "Appetizers,Dinner,Foodie,Holidays & Entertaining,Lunch,Sides,Snacks,Vegetarian",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Sides",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/quinoa-foodie_279x200_istoc.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "quinoa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "mitad y mitad sin grasa",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Mezcla de azúcar morena baja en calorías, como Truvia o Splenda",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Perejil fresco picado (opcional)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "cilantro (picado y dividido)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "zanahoria mediana (rallada (rinde aproximadamente 1 taza))",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Frambuesas",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cilantro fresco",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sal (opcional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "cilantro restante (picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Yogur natural estilo griego (sin grasa)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "zumo de lima",
+            "us_amount": "2",
+            "metric_amount": "2"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 °F. Rocíe una bandeja para hornear grande con aceite en aerosol.",
+        "Cocine la quinua según las instrucciones del paquete. Revuélvala con un tenedor y déjela enfriar.",
+        "En un tazón grande, combine la quinua cocida con la cebolla, el ajo, los frijoles negros, 1 cucharada de cilantro, la zanahoria, la harina, el polvo para hornear, el huevo, la sal (opcional) y la pimienta.",
+        "Forme ocho hamburguesas con la mezcla (presione firmemente para formarlas) y colóquelas en una bandeja para hornear preparada. Rocíe la parte superior de las hamburguesas con aceite en aerosol.",
+        "Hornee los bizcochos durante 15 minutos y luego déles la vuelta. Vuelva a rociarlos con aceite en aerosol. Continúe cocinando durante 15 minutos más o hasta que estén ligeramente dorados.",
+        "Mientras se hornean los pasteles, combine el cilantro restante, el yogur y el jugo de limón en un tazón pequeño. Sirva la salsa con los pasteles de quinoa tibios."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Low Sodium",
+        "Appetizers",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Sides",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "2g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "125mg",
+        "total_carbohydrate": "28g",
+        "fiber": "5g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/quinoa-cakes"
+}

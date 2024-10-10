@@ -1,0 +1,89 @@
+{
+    "title": "Mini Frittata de Verduras",
+    "keywords": "Vegetarian,Quick & Easy,Gluten-Free,Breakfast and Brunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Vegetarian",
+        "Quick & Easy",
+        "Gluten-Free",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1763-diabetic-breakfast-mini-vegetable-frittate_MedCkbk2_031419.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Cubra y guarde los frascos hasta por 4 días en el refrigerador, o en el congelador hasta por 3 meses. Si los va a guardar en el congelador, transfiera los frascos congelados al refrigerador la noche anterior a cuando planee consumirlos para que se descongelen.",
+            "us_amount": "1 pints",
+            "metric_amount": "480 ml"
+        },
+        {
+            "name": "calabacín grande (cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "puerros pequeños (partes blancas y verdes claras enjuagadas y picadas finamente)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "huevos grandes (batidos hasta que estén espumosos)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "hojas de albahaca (cortadas a mano)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "queso pecorino romano rallado",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F.",
+        "Calienta el aceite de oliva en una sartén grande y ancha apta para horno a fuego medio-alto. Agrega la cebolla y saltea, revolviendo de vez en cuando, hasta que se ablande y se dore (aproximadamente 4 minutos). Agrega los hongos y el calabacín y cocina hasta que se doren (aproximadamente 4 minutos). Agrega los puerros, revuelve y cocina durante otros 4 minutos. Retira del fuego y reserva hasta que se enfríe.",
+        "En un bol grande, mezcle los huevos batidos, las hojas de albahaca y el queso pecorino. Agregue las verduras enfriadas a la mezcla de huevos y revuelva para combinar.",
+        "Pimienta negra recién molida, al gusto"
+    ],
+    "tags": [
+        "Lower Carb",
+        "Mediterranean",
+        "Vegetarian",
+        "Quick & Easy",
+        "Gluten-Free",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "14g",
+        "saturated_fat": "3.6g",
+        "trans_fat": "0g",
+        "cholesterol": "125mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "8g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mini-vegetable-frittata"
+}

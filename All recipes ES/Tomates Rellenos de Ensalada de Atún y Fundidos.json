@@ -1,0 +1,76 @@
+{
+    "title": "Tomates Rellenos de Ensalada de Atún y Fundidos",
+    "keywords": "Easy Pantry Recipes,Main Dish,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/tuna-salad-stuffed-tomato-melts.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "queso pepper jack (2/3 oz por rebanada)",
+            "us_amount": "4 slice",
+            "metric_amount": "4 slice"
+        },
+        {
+            "name": "sal de apio",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "chalotes (picados)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceitunas verdes picadas",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "mayonesa (elaborada con aceite de oliva)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Atún envasado en agua (trozos ligeros, escurrido)",
+            "us_amount": "2 can",
+            "metric_amount": "2 can"
+        },
+        {
+            "name": "tomato(es)",
+            "us_amount": "4 large",
+            "metric_amount": "4 large"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 500 grados F. Cubra una bandeja para hornear con papel pergamino o papel de aluminio (rocíe con spray para hornear) y reserve.",
+        "Quita las puntas de los tomates y haz un corte con cuidado alrededor del borde interior para quitarles el corazón. Utiliza una cuchara para quitarles las semillas y la membrana a los tomates y crear tomates huecos.",
+        "Tomates cherry",
+        "Rellene los tomates con la mezcla de atún y cubra con una rodaja de queso.",
+        "Coloque los tomates en la bandeja para hornear y áselos durante 3 a 5 minutos, hasta que el queso se derrita y comience a dorarse."
+    ],
+    "tags": [
+        "Easy Pantry Recipes",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "13g",
+        "saturated_fat": "4.5g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "480mg",
+        "total_carbohydrate": "7g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "2g",
+        "protein": "15g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tuna-salad-stuffed-tomato-melts"
+}

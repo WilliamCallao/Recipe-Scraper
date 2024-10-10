@@ -1,0 +1,83 @@
+{
+    "title": "Brócoli Amandine",
+    "keywords": "Gluten-Free,Sides,Quick & Easy,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Gluten-Free",
+        "Sides",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/101-diabetic-broccoli-amandine_AdobeStock_261009889_022621.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "floretes de brócoli",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Almendras fileteadas",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425 grados. Rocíe una bandeja para hornear con aceite en aerosol.",
+        "En un bol pequeño, mezcle el brócoli, el aceite de oliva, el ajo, las almendras y la pimienta negra. Vierta la mezcla en una bandeja para hornear.",
+        "Hornee durante 10-12 minutos hasta que las puntas del brócoli estén ligeramente doradas.",
+        "Vierta el brócoli en un bol y rocíe con jugo de limón."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Gluten-Free",
+        "Sides",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "6g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "15mg",
+        "total_carbohydrate": "4g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/broccoli-amandine"
+}

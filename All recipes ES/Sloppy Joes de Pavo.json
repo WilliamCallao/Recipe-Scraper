@@ -1,0 +1,94 @@
+{
+    "title": "Sloppy Joes de Pavo",
+    "keywords": "Quick & Easy,One Pot,Main Dish,Lunch,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Quick & Easy",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1670-diabetic-turkey-sloppy-joe_new-soul-food-cookbook_100518_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de canola",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "cebolla(s) (picadas)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "sal (opcional)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "pavo molido magro",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "pasta de jengibre fresco",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "azúcar morena",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Empanadas de salchicha de pavo precocidas para el desayuno (cortadas en cubitos)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "vinagre de vino tinto",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite en una sartén grande y saltea la cebolla y el pimiento morrón hasta que estén transparentes. Agrega el pavo y cocina unos 5 minutos. Escurre la grasa.",
+        "Agregue el resto de los ingredientes y mezcle bien. Cocine a fuego lento durante 15 minutos y sirva sobre panecillos, si lo desea (no se incluye en el análisis nutricional)."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Comfort Food",
+        "Quick & Easy",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "5g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "400mg",
+        "total_carbohydrate": "16g",
+        "fiber": "2g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "30g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/turkey-sloppy-joes"
+}

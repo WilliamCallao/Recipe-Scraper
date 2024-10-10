@@ -1,0 +1,95 @@
+{
+    "title": "Wrap de Verduras a la Parrilla",
+    "keywords": "Sandwiches,Quick & Easy,Vegetarian,Dinner,Lunch",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sandwiches",
+        "Quick & Easy",
+        "Vegetarian",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_425424460.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Calabacín mediano (cortado a lo largo en 8 rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Calabaza amarilla mediana (cortada a lo largo en 8 rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimiento rojo (cortado en 4 rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "tortillas grandes de trigo integral (bajas en carbohidratos, de aproximadamente 10 pulgadas de diámetro)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "humus",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "hojas de albahaca fresca",
+            "us_amount": "8",
+            "metric_amount": "8"
+        }
+    ],
+    "instructions": [
+        "Guisantes dulces (cortados en trozos de 1/2 pulgada)",
+        "En un tazón grande, mezcle el aceite de oliva, el vinagre balsámico y la pimienta negra molida.",
+        "Agregue rodajas de calabacín, calabaza y pimiento morrón a la marinada y deje reposar durante 5 minutos.",
+        "Asa las verduras unos 2-3 minutos por ambos lados.",
+        "Coloque la tortilla y úntela con 2 cucharadas de hummus, luego agregue dos hojas de albahaca fresca y cubra con 2 rodajas de calabacín, 2 rodajas de calabaza amarilla y 1 rodaja de pimiento morrón.",
+        "Dobla los dos lados de la tortilla y enróllala como un burrito. Puedes servirla inmediatamente o envolverla bien en plástico y refrigerarla."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Mediterranean",
+        "Grilling",
+        "Sandwiches",
+        "Quick & Easy",
+        "Vegetarian",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "195",
+        "total_fat": "10g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "425mg",
+        "total_carbohydrate": "29g",
+        "fiber": "16g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-veggie-wrap"
+}

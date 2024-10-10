@@ -1,0 +1,71 @@
+{
+    "title": "Chocolate Caliente Almond Joy",
+    "keywords": "Vegetarian,Beverages",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Beverages"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/93-diabetic-almond-joy-hot-Cocoa_639443776_111418.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "almendras blanqueadas",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "salsa picante",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Yogur griego de vainilla (sin grasa)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "filetes de salmón (3 onzas cada uno)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "extracto de coco",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "cobertura batida (sin grasa)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "cúrcuma",
+        "Agregue la leche de almendras, el cacao en polvo, la Splenda y el extracto de coco a una licuadora y mezcle hasta que se incorporen y quede ligeramente espumoso.",
+        "jugo de vegetales",
+        "Añade una taza de chocolate caliente a una taza de café, cubre con 2 cucharadas de crema batida y espolvorea con 1 cucharada de almendras tostadas y enfriadas.",
+        "Repita este procedimiento para las tres tazas de café restantes."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Comfort Food",
+        "Vegetarian",
+        "Beverages"
+    ],
+    "nutrition": {
+        "calories": "105",
+        "total_fat": "7g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "11g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/almond-joy-hot-chocolate"
+}

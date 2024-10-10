@@ -1,0 +1,118 @@
+{
+    "title": "Ensalada Vietnamita de Repollo y Cerdo",
+    "keywords": "Sides,Salads,Main Dish,Lunch,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Sides",
+        "Salads",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_898_Vietnamese%20Cabbage%20and%20Pork%20Salad_SmartShopperCkbk_022618.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Solomillo de cerdo",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Sal kosher",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "chile serrano (u otro chile picante), sin semillas y picado)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "repollo verde (en rodajas)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "cebolla roja (en rodajas finas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "pepino(s) (en rodajas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "salsa de pescado",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salsa de soja ligera",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aceite de sésamo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "azúcar",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta de cayena",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "coliflor (hojas y tallos recortados)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 grados. Cubra una rejilla para asar con papel de aluminio. Rocíe el papel de aluminio con aceite en aerosol. Frote el cerdo con el aceite, la sal y la pimienta. Ase el cerdo durante unos 20 minutos. Encienda el horno para asar y ase el cerdo durante unos 5 minutos, dándole vuelta una vez hasta que un termómetro para carne registre 145 grados cuando se inserte en la parte más gruesa del cerdo. Retire el cerdo del horno a una tabla para cortar y déjelo reposar.",
+        "En un bol grande, combine el repollo, la cebolla morada y el pepino. Bata juntos el jugo de lima, la salsa de pescado, la salsa de soja, el aceite de sésamo, el azúcar y la pimienta de cayena. Agregue a la mezcla de repollo y mezcle bien. Corte el cerdo en rodajas finas y agréguelo a la ensalada y mezcle nuevamente.",
+        "Cubra una fuente con lechuga romana. Coloque la ensalada de cerdo sobre la lechuga."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Asian",
+        "Sides",
+        "Salads",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "85",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "325mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/vietnamese-cabbage-and-pork-salad"
+}

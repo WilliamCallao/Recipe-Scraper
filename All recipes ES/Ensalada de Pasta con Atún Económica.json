@@ -1,0 +1,94 @@
+{
+    "title": "Ensalada de Pasta con Atún Económica",
+    "keywords": "Budget Friendly,Dinner,Lunch,Quick & Easy,Sandwiches",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Sandwiches"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/tuna-pasta-salad-279x200.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pasta de quinoa cruda",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "apio (cortado en cubitos)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "tomate(s) (28 oz, sin sal añadida, triturado)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "cebolla(s) (cortadas en cubitos)",
+            "us_amount": "1/4",
+            "metric_amount": "1/4"
+        },
+        {
+            "name": "aceitunas verdes (cortadas en cubitos (opcional))",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "11 oz",
+            "metric_amount": "311 ml"
+        },
+        {
+            "name": "Yogur griego (sin grasa, natural)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "mayonesa ligera",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Cocine la pasta según las instrucciones del paquete, sin agregarle sal. Escurra la pasta y enjuáguela con agua fría.",
+        "En un recipiente mediano, combine los ingredientes restantes. Agregue la pasta y revuelva para cubrir. Sirva."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Seafood",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Sandwiches"
+    ],
+    "nutrition": {
+        "calories": "245",
+        "total_fat": "4g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "465mg",
+        "total_carbohydrate": "31g",
+        "fiber": "5g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-tuna-pasta-salad"
+}

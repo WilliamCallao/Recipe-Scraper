@@ -1,0 +1,76 @@
+{
+    "title": "Sándwich de Aguacate y Verduras",
+    "keywords": "Lunch,Vegetarian,Quick & Easy,Sandwiches",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Vegetarian",
+        "Quick & Easy",
+        "Sandwiches"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/052-diabetic-Avocado-Veggie-Sandwich_PNC_MG_3846-%28ZF-5661-35964-1-118%2902232018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aguacate (sin corazón y cortado por la mitad)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "semillas de girasol",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pepino grande (en rodajas)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "rábanos (en rodajas)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Tomates roma (ciruela) (en rodajas)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Galletas delgadas de trigo integral para sándwich (aproximadamente 1 1/2 onzas cada una)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "Retire con cuidado el interior del aguacate de la cáscara. Corte el aguacate en rodajas finas.",
+        "Coloque 1/4 de las rodajas de aguacate sobre la base del sándwich. Espolvoree con 1 cucharada de semillas de girasol. Cubra con 4-5 rodajas de pepino, 4-5 rodajas de rábano y 3 rodajas de tomate. Coloque la parte superior del sándwich sobre el sándwich.",
+        "Repita el proceso para los 3 sándwiches restantes."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "High in Fiber",
+        "Veggie Rich",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Lunch",
+        "Vegetarian",
+        "Quick & Easy",
+        "Sandwiches"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "11g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "28g",
+        "fiber": "9g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/avocado-veggie-sandwich"
+}

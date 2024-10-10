@@ -1,0 +1,41 @@
+{
+    "title": "Manzana con Mantequilla de Cacahuate",
+    "keywords": "",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/apple-peanut-butter_AdobeStock145531540_080320.png",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "manteca de cacahuete",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "manzana pequeña (aproximadamente del tamaño de una pelota de béisbol)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "16g",
+        "saturated_fat": "3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "70mg",
+        "total_carbohydrate": "27g",
+        "fiber": "5g",
+        "sugar": "18g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/apple-and-peanut-butter"
+}

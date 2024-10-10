@@ -1,0 +1,95 @@
+{
+    "title": "Gazpacho de Verduras Poderosas",
+    "keywords": "Foodie,Vegetarian,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Foodie",
+        "Vegetarian",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/358-MightyGreenGaz_507621581_050318.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "albahaca (hojas ligeramente compactadas)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "suero de leche bajo en grasa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "ajo",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "Almendras laminadas (peladas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "cebolla(s) (picadas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pimiento verde (sin semillas y picado)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "Para comer como aperitivo, envuélvalo en film transparente y déjelo reposar en el refrigerador durante 2 o 3 horas. Corte los panecillos en rebanadas de 1′, con un movimiento de sierra. Sirva con el lado cortado hacia arriba en una fuente.",
+            "us_amount": "1 package",
+            "metric_amount": "1 package"
+        },
+        {
+            "name": "mini hijo shells",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "caldo de verduras sin sal",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Añade todos los ingredientes a una licuadora y mezcla hasta que quede suave."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "Mexican/Southwestern",
+        "Foodie",
+        "Vegetarian",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "95",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "120mg",
+        "total_carbohydrate": "12g",
+        "fiber": "2g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mighty-greens-gazpacho"
+}

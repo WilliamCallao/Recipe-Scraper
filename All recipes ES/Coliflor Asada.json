@@ -1,0 +1,69 @@
+{
+    "title": "Coliflor Asada",
+    "keywords": "Quick & Easy,Sides,Vegetarian,Gluten-Free",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/447-diabetic-roasted-cauliflower_AdobeStock95538525_012521.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cabeza grande de coliflor (cortada en floretes pequeños)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Distribuya los brotes y la calabaza en una sola capa en una bandeja para hornear y hornee durante 25 minutos, hasta que las verduras estén tiernas y comiencen a dorarse.",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425 grados F. Rocíe una bandeja para hornear con aceite en aerosol.",
+        "aceite de oliva (uso dividido)",
+        "Hornee durante 15-20 minutos, hasta que las puntas de la coliflor estén ligeramente doradas y tiernas."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Low Sodium",
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "5g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "140mg",
+        "total_carbohydrate": "7g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-cauliflower"
+}

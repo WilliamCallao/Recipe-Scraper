@@ -1,0 +1,76 @@
+{
+    "title": "Frijoles con Pimentón Ahumado, Romero y Aceitunas",
+    "keywords": "Vegetarian,Vegan,Sides,Lunch,Dinner",
+    "prep_time": "PT5M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Smoked%20Paprika%20Beans%20with%20Rosemary%20recipe%20diabetic.png",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Latas de 15,5 oz de frijoles blancos del norte (escurridos y enjuagados)",
+            "us_amount": "2 can",
+            "metric_amount": "2 can"
+        },
+        {
+            "name": "Aceitunas Kalamata (sin hueso y picadas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "chalotes (picados)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "romero fresco (tallos quitados y picados)",
+            "us_amount": "2 sprig",
+            "metric_amount": "2 sprig"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 grados F.",
+        "Combine los frijoles, las aceitunas, el ajo, la chalota, el romero, el pimentón y la sal en una fuente para hornear.",
+        "Vierta el aceite sobre la mezcla y revuelva para mezclar. Coloque en el horno y hornee durante 30 minutos, revolviendo a la mitad del tiempo. Sirva caliente."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mediterranean",
+        "Italian",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "13g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "21g",
+        "fiber": "7g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/smoked-paprika-beans-rosemary-olives"
+}

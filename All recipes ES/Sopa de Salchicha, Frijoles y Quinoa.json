@@ -1,0 +1,112 @@
+{
+    "title": "Sopa de Salchicha, Frijoles y Quinoa",
+    "keywords": "Lunch,Sides,Gluten-Free,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Lunch",
+        "Sides",
+        "Gluten-Free",
+        "Quick & Easy"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/ThinkstockPhotos-494807562.jpg",
+        "Bean and Quinoa Soup\" loading=\"lazy\" />"
+    ],
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla(s) (cortadas en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimiento verde (cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salchicha de pavo ahumada magra (cortada por la mitad a lo largo y en trozos de 1 pulgada)",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "tomate(s) (14,5 onzas, sin sal añadida, cortado en cubitos)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "frijoles enlatados (sin sal agregada, enjuagados y escurridos)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Caldo de pollo bajo en sodio (sin grasa, reducido en sodio)",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "tomillo seco",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "quinoa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "agua caliente",
+            "us_amount": "2 1/2 cup",
+            "metric_amount": "592 ml"
+        }
+    ],
+    "instructions": [
+        "Añade aceite a una olla grande o a una cacerola holandesa y caliéntalo a fuego medio-alto. Agrega la cebolla y el pimiento verde y saltea a fuego medio-alto durante 5 minutos. Agrega el ajo y saltea durante 30 segundos.",
+        "Saque la mezcla de cebolla y pimiento de la olla y déjela a un lado. Rocíe la olla con aceite en aerosol. Agregue la salchicha y saltee durante 3 a 5 minutos hasta que se dore.",
+        "Vuelva a agregar la cebolla y los pimientos a la olla. Agregue los tomates, los frijoles rojos, el caldo de pollo, la pimienta negra, la pimienta de cayena si lo desea y el tomillo. Lleve a ebullición. Agregue la quinua, reduzca el fuego y cubra. Cocine a fuego lento durante 15 minutos.",
+        "Quitar la tapa y agregar agua. Cocinar a fuego lento durante 5 minutos más.",
+        "Opciones: 1 almidón, 1 vegetal sin almidón, 1 proteína magra, 1/2 grasa"
+    ],
+    "tags": [
+        "High in Fiber",
+        "Lunch",
+        "Sides",
+        "Gluten-Free",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "370mg",
+        "total_carbohydrate": "24g",
+        "fiber": "5g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sausage-bean-and-quinoa-soup"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Ensalada Picada de Verduras con Feta",
+    "keywords": "Dinner,Lunch,No Cook,Quick & Easy,Salads,Sides,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "No Cook",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1991-Chopped-Veggie-Salad_KDBH-bookazine_012821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1/2 (14-oz) can",
+            "metric_amount": "1/2 (14-oz) can"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "tomate pequeño (sin semillas y picado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lechuga romana (picada)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Perejil fresco picado",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "granola de chocolate",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "Orégano seco",
+            "us_amount": "3/4 tsp",
+            "metric_amount": "4 g"
+        },
+        {
+            "name": "Rocíe ligeramente una sartén grande con aceite en aerosol y colóquela a fuego medio-alto hasta que esté caliente. Dore la carne y la salchicha durante unos 2 minutos, revolviendo con frecuencia.",
+            "us_amount": "1/2 oz",
+            "metric_amount": "14 ml"
+        }
+    ],
+    "instructions": [
+        "Corte las manzanas en rodajas de ⅛” de grosor, utilizando un cuchillo, una cortadora en V o el accesorio para rebanar de un procesador de alimentos. Luego, coloque las rodajas en las bandejas para hornear preparadas y espolvoree uniformemente con 2 cucharadas de endulzante Splenda y 1 cucharadita de canela molida. Hornee durante 1 hora y 20 minutos. Dé vuelta las papas fritas y hornee durante 20 minutos más.",
+        "Añade el queso feta y revuelve suavemente. Esta ensalada queda mejor si se sirve en el plazo de 1 hora."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Lower Carb",
+        "Mediterranean",
+        "Dinner",
+        "Lunch",
+        "No Cook",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "75mg",
+        "total_carbohydrate": "9g",
+        "fiber": "6g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chopped-veggie-salad-feta"
+}

@@ -1,0 +1,77 @@
+{
+    "title": "Coles de Bruselas Asadas con Sriracha Dulce",
+    "keywords": "Vegetarian,Sides,Holidays & Entertaining,Foodie",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Holidays & Entertaining",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2163_Sweet%20Sriracha%20Roasted%20Brussels%20Sprouts%20-%20Original%20Photo_0.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "coles de Bruselas frescas (cortadas a lo largo por la mitad)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Sal kosher",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Splenda® Edulcorante granulado Monk Fruit",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "sriracha",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "mostaza de dijon",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ajo (rallado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 grados F.",
+        "Mezcle las coles de Bruselas con aceite de oliva y sal. Cubra una bandeja para hornear con papel pergamino. Coloque las coles de Bruselas de manera que queden con el lado cortado hacia abajo en una sola capa.",
+        "Ase los brotes durante 20 minutos, hasta que tengan los bordes de color marrón oscuro y estén tiernos al pincharlos con un tenedor.",
+        "Mezcle el endulzante Splenda® Monk Fruit, la salsa sriracha, la Dijon y el ajo. Retire los brotes y vierta la salsa sriracha, revolviendo los brotes en la salsa. Asegúrese de que se extiendan nuevamente en una sola capa y vuelva a colocarlos en el horno durante 5 minutos más. ¡Sirva de inmediato y disfrute!"
+    ],
+    "tags": [
+        "Vegetarian",
+        "Sides",
+        "Holidays & Entertaining",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "40",
+        "total_fat": "2g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "135mg",
+        "total_carbohydrate": "7g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-sriracha-roasted-brussels-sprouts"
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Huevos al Horno Dulces y Ahumados",
+    "keywords": "Main Dish,Foodie,Breakfast and Brunch",
+    "prep_time": "PT5M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Main Dish",
+        "Foodie",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_869_Budget-Friendly%20Sweet_and_Smokey_Baked_Eggs_BudgetFriendlyCookbook_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Tomates grandes, maduros, tipo beefsteak o heirloom",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "pimienta negra molida",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "comino",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "huevos (medianos)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Queso parmesano (rallado bajo en grasa)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350°F.",
+        "Lave los tomates y córtelos por la mitad. Saque la pulpa y las semillas, dejando un borde de aproximadamente 1/2 pulgada del tomate.",
+        "lechuga (cabeza (6 onzas), picada o desgarrada, si es necesario)",
+        "Espolvoree cada mitad de tomate con pimienta y comino. Rompa un huevo en cada cáscara de tomate. Espolvoree cada huevo con 1/2 cucharadita de queso.",
+        "Hornee hasta que los huevos estén listos, aproximadamente 25 minutos."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Comfort Food",
+        "Caribbean",
+        "Main Dish",
+        "Foodie",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "85",
+        "total_fat": "4.5g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "165mg",
+        "sodium": "85mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-and-smoky-baked-eggs"
+}

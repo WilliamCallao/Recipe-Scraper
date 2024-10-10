@@ -1,0 +1,101 @@
+{
+    "title": "Gazpacho 2,2,2 Bueno",
+    "keywords": "Vegan,Snacks,Gluten-Free,Vegetarian,Lunch,No Cook",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegan",
+        "Snacks",
+        "Gluten-Free",
+        "Vegetarian",
+        "Lunch",
+        "No Cook"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/036-diabetic-Good-Gazpacho_iStock-115808676.jpg",
+        "2",
+        "2 Good Gazpacho\" loading=\"lazy\" />"
+    ],
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "almendras blanqueadas",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "aceite de aguacate (dividido)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "caldo de res bajo en grasa y sodio",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "pan rallado panko de trigo integral",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (pelado)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "pimiento rojo grande",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (rallado, para la salsa)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "jugo de vegetales",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Una pizca de sal",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Pizca de pimienta",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "En un procesador de alimentos, pique finamente las verduras y el ajo en tandas. Colóquelos en un recipiente de vidrio grande.",
+        "azúcar moreno envasado"
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Mediterranean",
+        "Vegan",
+        "Snacks",
+        "Gluten-Free",
+        "Vegetarian",
+        "Lunch",
+        "No Cook"
+    ],
+    "nutrition": {
+        "calories": "85",
+        "total_fat": "0.5g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "110mg",
+        "total_carbohydrate": "19g",
+        "fiber": "4g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/222-good-gazpacho"
+}

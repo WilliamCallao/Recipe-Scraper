@@ -1,0 +1,112 @@
+{
+    "title": "Arroz Frito con Pollo, Repollo, Calabacín y Zanahorias",
+    "keywords": "Cooking for 1 or 2,Dinner,Main Dish,Meal Kit Recipes",
+    "prep_time": "PT15M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Main Dish",
+        "Meal Kit Recipes"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/1935-diabetic-chicken-fried-rice-cabbage-zucchini-carrots_blue-apron_031220.jpg",
+        "Zucchini",
+        "and Carrots\" loading=\"lazy\" />"
+    ],
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "arroz integral",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "aceitunas kalamata sin hueso (picadas en trozos grandes)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zanahorias",
+            "us_amount": "6 oz (about 3 whole carrots)",
+            "metric_amount": "6 oz (about 3 whole carrots)"
+        },
+        {
+            "name": "col lombarda",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "cebolletas",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "miseria",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "vinagre de arroz",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "tiras de pollo",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "aceite de oliva (uso dividido)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "aceite de sésamo tostado",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "semillas de sésamo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Cocine el arroz: Llene una olla mediana con agua hasta 3/4 de su capacidad. Caliente a fuego alto hasta que hierva. Una vez que hierva, agregue el arroz y cocine, sin tapar, durante 16 a 18 minutos o hasta que esté tierno. Apague el fuego. Escurra bien y vuelva a colocarlo en la olla.",
+        "Prepara los ingredientes y haz la salsa: Mientras tanto, lava y seca los productos frescos. Corta el calabacín en dados medianos. Pela las zanahorias y córtalas en rodajas finas en ángulo. Quita el corazón del repollo y desecha el centro; corta las hojas en rodajas finas. Corta las cebolletas en rodajas finas en ángulo, separando las partes inferiores blancas y las partes superiores verdes huecas. Pica los cacahuetes en trozos grandes. En un bol, combina el mirin, el vinagre y la salsa de comino y Sichuan.",
+        "Cocine y pique el pollo: seque el pollo con toallas de papel; sazone con sal (opcional) y pimienta por ambos lados. En una sartén grande (antiadherente, si tiene una), caliente 1 cucharadita de aceite de oliva a fuego medio-alto hasta que esté caliente. Agregue el pollo sazonado y cocine de 3 a 5 minutos por lado, o hasta que esté dorado y bien cocido. Deje los trozos dorados (o los que se hayan quedado en la sartén) y transfiéralos a una tabla de cortar. Cuando se enfríe lo suficiente para manipularlo, córtelo en trozos del tamaño de un bocado. Transfiéralo a un tazón grande y cúbralo con papel de aluminio para mantenerlo caliente.",
+        "Cocine las verduras: En la sartén con el fondo reservado, caliente 1 cucharadita de aceite de oliva a fuego medio-alto hasta que esté caliente. Agregue el calabacín cortado en cubitos y las zanahorias en rodajas en una capa uniforme. Cocine, sin revolver, de 3 a 4 minutos o hasta que se doren. Agregue el repollo en rodajas y las partes blancas de las cebolletas en rodajas. Cocine, revolviendo ocasionalmente, de 3 a 4 minutos o hasta que se doren y se ablanden. Transfiera al tazón del pollo picado y cubra con el papel de aluminio para mantenerlo caliente. Limpie la sartén.",
+        "spray antiadherente para cocinar"
+    ],
+    "tags": [
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Main Dish",
+        "Meal Kit Recipes"
+    ],
+    "nutrition": {
+        "calories": "580",
+        "total_fat": "19g",
+        "saturated_fat": "3g",
+        "trans_fat": "0g",
+        "cholesterol": "200mg",
+        "sodium": "590mg",
+        "total_carbohydrate": "67g",
+        "fiber": "8g",
+        "sugar": "14g",
+        "added_sugar": "4g",
+        "protein": "35g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-fried-rice-cabbage-zucchini-and-carrots"
+}

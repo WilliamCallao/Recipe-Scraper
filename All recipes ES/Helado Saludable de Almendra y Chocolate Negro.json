@@ -1,0 +1,73 @@
+{
+    "title": "Helado Saludable de Almendra y Chocolate Negro",
+    "keywords": "Dessert,Snacks",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Dessert",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2126_Dark%20Chocolate%20Almond%20Nice%20Cream%20-%20Original%20Photo.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Sal marina fina (dividida)",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "cacao en polvo sin azúcar",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        },
+        {
+            "name": "Edulcorante granulado Splenda®",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "extracto puro de vainilla",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "mantequilla de almendras",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "almendras en rodajas",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "En un procesador de alimentos, tritura los plátanos, la mitad del cacao en polvo, el edulcorante Splenda y la sal hasta formar trozos del tamaño de un guisante. Agrega el extracto de vainilla y el resto del cacao en polvo. Continúa triturando. La mezcla se juntará y formará una consistencia de helado suave congelado. Rocía con mantequilla de almendras y tritura dos veces más.",
+        "Sirva en tazones y cubra con almendras o revuelva con almendras. Coloque en un recipiente apto para congelador y disfrute dentro de los 3 días.",
+        "Nota: Tuesta las almendras para obtener un sabor más intenso y delicioso. Guarda las rodajas de banana en una bolsa con cierre hermético en el congelador para tenerlas a mano para preparar una deliciosa crema en cualquier momento."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Dessert",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "40mg",
+        "total_carbohydrate": "23g",
+        "fiber": "5g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/dark-chocolate-almond-nice-cream"
+}

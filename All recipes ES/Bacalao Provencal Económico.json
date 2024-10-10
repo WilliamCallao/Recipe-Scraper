@@ -1,0 +1,114 @@
+{
+    "title": "Bacalao Provencal Económico",
+    "keywords": "Budget Friendly,Dinner,Foodie,Main Dish",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Foodie",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_667_Budget-Friendly%20Cod_Provencal_BudgetFriendlyCookbook_022518.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Spray antiadherente para cocinar (antiadherente)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "tortillas de maíz (cortadas en 6 trozos cada una)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "tomate grande (sin semillas y cortado en cubitos pequeños)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "Corazones de alcachofa (1 frasco, en salmuera; cortados en cuartos, escurridos y enjuagados)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "anchoas en lata envasadas en aceite (picadas y escurridas pero no enjuagadas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla (cortada en cubitos)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra (molida)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "filetes de bacalao (sin espinas)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "Orégano fresco",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Corta el aguacate en cubitos medianos y añádelo al bol.",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Picar o desmenuzar la lechuga en trozos del tamaño de un bocado y añadir al bol; mezclar para combinar la ensalada.",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375°F.",
+        "spray antiadherente para cocinar",
+        "frijoles cannellini (frijoles blancos) (enjuagados y escurridos)",
+        "Colocar 4 trozos de bacalao en una sola capa en la fuente para horno. Untar uniformemente con la mezcla de anchoas y aceitunas.",
+        "Calabaza (cortada en cubitos)",
+        "Combine la pasta de tomate diluida con el vino tinto y vierta sobre el pescado.",
+        "Prepare una parrilla para interiores o exteriores. Sazone las chuletas de cerdo con pimienta, ajo en polvo y orégano. Ase las chuletas de cerdo a fuego medio durante 3 a 4 minutos por cada lado o hasta que estén listas."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Seafood",
+        "Budget Friendly",
+        "Dinner",
+        "Foodie",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "7g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "80mg",
+        "sodium": "425mg",
+        "total_carbohydrate": "6g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "33g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-cod-provencale"
+}

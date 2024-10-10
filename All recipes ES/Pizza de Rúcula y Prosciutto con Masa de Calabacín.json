@@ -1,0 +1,116 @@
+{
+    "title": "Pizza de Rúcula y Prosciutto con Masa de Calabacín",
+    "keywords": "Main Dish,Lunch,Gluten-Free,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Main Dish",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2067-diabetic-low-carb-arugula-prosciutto-pizza-zucchini-crust_low-carb-brissette_050721.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "calabacín rallado",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "vinagre de vino de arroz",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "semillas de lino enteras",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "albahaca seca",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "harina de almendras",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "romero seco",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "jamón cortado en lonchas finas",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "Rúcula",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 500 grados F. Cubra una bandeja para hornear con papel pergamino y rocíe con aceite en aerosol.",
+        "Cubre un plato grande o una tabla de cortar con cuatro capas de papel de cocina o un paño de cocina limpio. Coloca el calabacín rallado encima y espolvorea con sal. Deja reposar durante 5 a 10 minutos.",
+        "Mientras tanto, mezcle los tomates triturados, el orégano, el ajo en polvo y la albahaca. Deje a un lado.",
+        "Una vez que el calabacín haya reposado durante al menos 5 minutos, cúbrelo con otra capa de toallas y exprime toda la humedad que puedas. Agrega el calabacín escurrido a un tazón grande con la harina de almendras, el huevo, el queso, el romero y la pimienta negra. Mezcla bien.",
+        "Coloque la masa de calabacín en el centro de la bandeja para hornear preparada. Presione hasta formar un rectángulo o círculo de aproximadamente 1/4 de pulgada de espesor. Hornee la masa durante 12 minutos, hasta que esté ligeramente dorada y los bordes estén crujientes.",
+        "Retirar del horno y, mientras aún esté caliente, esparcir inmediatamente la salsa de tomate sobre la masa. Cubrir con rodajas de prosciutto y rúcula y cortar en 6 rodajas iguales."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Comfort Food",
+        "Main Dish",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "6g",
+        "saturated_fat": "1.7g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "6g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/arugula-prosciutto-pizza-zucchini-crust"
+}

@@ -1,0 +1,100 @@
+{
+    "title": "Frascos de Sopa Instantánea Casera",
+    "keywords": "Vegetarian,Soup,Quick & Easy,Lunch,Gluten-Free,Easy Pantry Recipes",
+    "prep_time": "PT10M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Vegetarian",
+        "Soup",
+        "Quick & Easy",
+        "Lunch",
+        "Gluten-Free",
+        "Easy Pantry Recipes"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2053-diabetic-Asian-Soup-Jar_DaVita_040821.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "Mezcla de verduras picadas congeladas, como brócoli, coliflor y zanahorias.",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Deje reposar los solomillos durante 10 a 15 minutos antes de cortarlos para permitir que los jugos se distribuyan por toda la carne.",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "repollo rallado",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "jengibre cristalizado finamente picado",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aminoácidos de coco",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "jengibre fresco rallado",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Añade el freekeh y tuéstalo, revolviendo ocasionalmente, durante 5 minutos o hasta que se vuelva aromático.",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "huevo duro",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Coloque en capas el arroz, las verduras congeladas, el repollo y la zanahoria en un frasco de vidrio de 16 oz con tapa.",
+        "En un bol pequeño, mezcle aminoácidos de coco, aceite de sésamo, jengibre, ajo en polvo y hojuelas de pimiento rojo. Vierta sobre el arroz y las verduras. Cubra con una tapa y refrigere.",
+        "Retire el frasco del refrigerador al menos 15 minutos antes de que esté listo para comer.",
+        "pimiento verde (picado finamente)",
+        "ajo (picado)"
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Vegetarian",
+        "Soup",
+        "Quick & Easy",
+        "Lunch",
+        "Gluten-Free",
+        "Easy Pantry Recipes"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "11g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "190mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "32g",
+        "fiber": "4.6g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/homemade-instant-soup-jars"
+}

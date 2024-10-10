@@ -1,0 +1,76 @@
+{
+    "title": "Brócoli al Horno Crujiente",
+    "keywords": "Vegetarian,Sides,Budget Friendly",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/206-Crispy-Baked-Broccoli_178477168_04112018%20.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "tomates cortados en cubitos enlatados",
+            "us_amount": "1 package",
+            "metric_amount": "1 package"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Salsa Worcestershire",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salsa de soja (reducida en sodio)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375 grados F.",
+        "Prepare una bandeja para hornear galletas con aceite en aerosol antiadherente.",
+        "Llene cada molde para muffins hasta aproximadamente 2/3 de su capacidad con la masa. Espolvoree 1/2 cucharadita de semillas de lino molidas sobre cada muffin y luego espolvoree el 1/4 de taza restante de almendras en rodajas de manera uniforme sobre los muffins. Presione suavemente las semillas de lino y las almendras sobre la masa para muffins.",
+        "Hornee los muffins durante 25 a 30 minutos o hasta que al insertar un palillo en el centro éste salga limpio. Déjelos enfriar sobre una rejilla.",
+        "Coloque los floretes en la bandeja para hornear preparada, dejando espacio entre ellos. Descarte el adobo restante.",
+        "Perejil italiano fresco (de hoja plana) (cortado en tiras)"
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Lower Carb",
+        "Kid Friendly",
+        "Vegetarian",
+        "Sides",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "4g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "170mg",
+        "total_carbohydrate": "6g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crispy-baked-broccoli"
+}

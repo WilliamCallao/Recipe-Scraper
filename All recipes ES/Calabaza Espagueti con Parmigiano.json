@@ -1,0 +1,81 @@
+{
+    "title": "Calabaza Espagueti con Parmigiano",
+    "keywords": "Vegetarian,Sides,Gluten-Free",
+    "prep_time": "PT10M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2031-diabetic-Squash-Spaghetti-Parmigiano_DaVita_040821.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Calabaza espagueti",
+            "us_amount": "1 (about 5 lbs)",
+            "metric_amount": "1 (about 5 lbs)"
+        },
+        {
+            "name": "aceite de oliva (uso dividido)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "mostaza amarilla molida",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "chalota (picada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "queso parmesano rallado",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375º F.",
+        "Perfore la calabaza espagueti con un tenedor. Caliéntela en el microondas durante 5 minutos para ablandarla. Corte la calabaza espagueti por la mitad y retire las semillas y las membranas.",
+        "Unte la calabaza cortada por todos lados con 2 cucharadas de aceite de oliva. Coloque la calabaza con el lado cortado hacia abajo en una bandeja para hornear ligeramente engrasada y hornee durante 50 minutos. Retire la calabaza del horno y déjela enfriar lo suficiente para poder manipularla fácilmente.",
+        "muslos de pollo",
+        "Use una cuchara grande o un tenedor para raspar la pulpa fibrosa de la calabaza y colocarla en la sartén. Agregue el queso parmesano, la pimienta negra y las hojuelas de chile rojo; revuelva para combinar. Sirva caliente."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Veggie Rich",
+        "Vegetarian",
+        "Sides",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "9g",
+        "saturated_fat": "2.6g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "70mg",
+        "total_carbohydrate": "9g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spaghetti-squash-parmigiano"
+}

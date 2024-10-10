@@ -1,0 +1,75 @@
+{
+    "title": "Rebanadas de Manzana con Mantequilla de Cacahuate, Arándanos y Nuez",
+    "keywords": "Easy Pantry Recipes,Vegetarian,Vegan,No Cook,Quick & Easy,Snacks",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Vegetarian",
+        "Vegan",
+        "No Cook",
+        "Quick & Easy",
+        "Snacks"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/1903-diabetic-snack-peanut-butter-cranberry-walnnut-apples_create-your-plate_022020.jpg",
+        "Cranberry",
+        "and Walnut Apple Slices\" loading=\"lazy\" />"
+    ],
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "manzanas (sin corazón y cortadas en 6 rodajas cada una)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "mantequilla de maní cremosa",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "arándanos secos",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Trozos de plátano congelados",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "hojuelas de coco sin azúcar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque las 12 rodajas de manzana sobre una superficie plana. Unte cada rodaja con 1 cucharadita de mantequilla de maní.",
+        "En un tazón pequeño, mezcle los arándanos, las nueces y los copos de coco.",
+        "Espolvorea uniformemente cada manzana con aproximadamente 1 cucharada de la mezcla de arándanos."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Easy Pantry Recipes",
+        "Vegetarian",
+        "Vegan",
+        "No Cook",
+        "Quick & Easy",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "9g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "50mg",
+        "total_carbohydrate": "13g",
+        "fiber": "3g",
+        "sugar": "9g",
+        "added_sugar": "3g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/peanut-butter-cranberry-and-walnut-apple-slices"
+}

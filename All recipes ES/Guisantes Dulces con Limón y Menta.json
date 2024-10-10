@@ -1,0 +1,72 @@
+{
+    "title": "Guisantes Dulces con Limón y Menta",
+    "keywords": "Vegetarian,Sides,Lunch,Gluten-Free,Dinner",
+    "prep_time": "PT5M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2010-diabetic-Lemon-Mint-Sugar-Snap-Peas_KDBH-bookazine_012821.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "guisantes dulces",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "filetes de salmón (4 onzas cada uno)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "margarina",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "menta fresca picada o cilantro",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "En una cacerola mediana, cueza al vapor los guisantes, tapados, durante 5 minutos o hasta que estén tiernos pero crujientes. Escúrralos bien. Transfiéralos a un recipiente mediano.",
+        "Mezcle suavemente los ingredientes restantes con los guisantes mientras aún estén calientes."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Vegetarian",
+        "Sides",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "35",
+        "total_fat": "1g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "55mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/lemon-mint-sugar-snap-peas"
+}

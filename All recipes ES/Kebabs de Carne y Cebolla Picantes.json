@@ -1,0 +1,83 @@
+{
+    "title": "Kebabs de Carne y Cebolla Picantes",
+    "keywords": "Dinner,Main Dish,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Dinner",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1997-diabetic-Spicy-Beef-Onion-Kebabs_KDBH-bookazine_012821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "cerveza ligera",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ketchup",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "arroz integral",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Prepara la salsa: añade la chalota picada y el ajo a la sartén con el fondo reservado. Cocina, revolviendo con frecuencia, durante 1 o 2 minutos o hasta que se ablande un poco. Añade la mezcla de dátiles (con cuidado, ya que el líquido puede salpicar). Cocina, revolviendo de vez en cuando, durante 3 o 4 minutos o hasta que el líquido se haya reducido en volumen. Apaga el fuego. Incorpora el jugo de las rodajas de limón restantes.",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Perejil seco",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Hornee la cazuela tapada durante 15 minutos. Destape y hornee durante 10 minutos más, hasta que la parte superior esté ligeramente dorada.",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "cebolla grande (cortada a través del corazón en 16 gajos, cada uno de aproximadamente 1/3 de pulgada de espesor)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "En un recipiente de vidrio grande y poco profundo, mezcle la cerveza, el kétchup, el ajo, la mostaza, la salsa picante y la sal. Agregue la carne, dándole vueltas para cubrirla. Cubra y refrigere durante 30 minutos a 2 horas, dándole vueltas de vez en cuando.",
+        "conservas de albaricoque",
+        "Escurre la carne y vierte la marinada en una cacerola pequeña. Ponla a hervir a fuego alto durante al menos 5 minutos (esto destruye las bacterias dañinas).",
+        "Alternando, ensarte 4 cubos de carne y 4 gajos de cebolla en cada una de las cuatro brochetas de metal.",
+        "Colocar las brochetas en la parrilla. Pincelar con la mitad de la marinada.",
+        "Asar a la parrilla, tapado, durante 5 minutos. Dar la vuelta a los kebabs. Con un pincel limpio, pincelar con el resto de la marinada. Asar a la parrilla, tapado, durante 5 a 8 minutos para que quede a punto o hasta que la carne alcance el punto de cocción deseado."
+    ],
+    "tags": [
+        "Grilling",
+        "Dinner",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "6g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "310mg",
+        "total_carbohydrate": "11g",
+        "fiber": "1g",
+        "sugar": "8g",
+        "added_sugar": "2g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spicy-beef-and-onion-kebabs"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Strata de Fresas, Chocolate y Vainilla con Soja",
+    "keywords": "Dessert,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Dessert",
+        "Vegetarian"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/RecId_617_Berry_Chocolate_Vanillia_Soy_Strata_VegetarianCookbook_022618.jpg",
+        "Chocolate",
+        "And Vanilla Soy Strata\" loading=\"lazy\" />"
+    ],
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Leche de soja o almendras con chocolate sin azúcar",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "avena laminada a la antigua usanza",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Sustituto de azúcar bajo en calorías (dividido a la mitad)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Almidón de maíz (dividido en dos mitades, cada una mezclada con una cucharada de leche de soja o de almendras fría)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Frambuesas",
+            "us_amount": "1 pints",
+            "metric_amount": "480 ml"
+        },
+        {
+            "name": "moras",
+            "us_amount": "1 pints",
+            "metric_amount": "480 ml"
+        },
+        {
+            "name": "Fresas (sin tallo y cortadas en rodajas)",
+            "us_amount": "1 pints",
+            "metric_amount": "480 ml"
+        },
+        {
+            "name": "cacao en polvo (para decorar)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Calienta los sabores de la leche de soja en ollas separadas a fuego lento. Agrega 1 cucharada de Splenda y 2 cucharadas de maicena mezcladas con leche de soja fría a cada olla de leche de soja hirviendo a fuego lento y calienta hasta que la leche espese. Retira del fuego y deja enfriar.",
+        "En un recipiente de vidrio grande, coloque el chocolate y la leche de soja con vainilla junto con las bayas formando capas. Termine con una capa de bayas encima y espolvoree con cacao en polvo."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Dessert",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "105",
+        "total_fat": "1.5g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "45mg",
+        "total_carbohydrate": "21g",
+        "fiber": "8g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/berry-chocolate-and-vanilla-soy-strata"
+}

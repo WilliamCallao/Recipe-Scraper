@@ -1,0 +1,94 @@
+{
+    "title": "Poblanos Rellenos de Verduras de Ingrid Hoffmann",
+    "keywords": "Dinner,Vegetarian,Main Dish",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Vegetarian",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1659-diabetic-vegetable-stuffed-poblano_latin-comfort-foods_092618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Añade la mezcla para hornear a la licuadora y procesa hasta que se integre. Agrega las chispas de chocolate en miniatura y vierte en el molde preparado.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chiles poblanos grandes",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimiento verde (picado finamente)",
+            "us_amount": "1 package",
+            "metric_amount": "1 package"
+        },
+        {
+            "name": "zanahorias (ralladas)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "frijoles rojos (enjuagados y escurridos)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "hojas de albahaca fresca picadas o 2 cucharaditas de hojas de albahaca secas (picadas)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "mayonesa ligera",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque el pollo, las hojas de laurel y suficiente agua fría para cubrirlo en una cacerola mediana; deje hervir a fuego lento. Cubra y cocine a fuego lento hasta que el pollo esté bien cocido, aproximadamente 15 minutos; escurra. Descarte las hojas de laurel. Transfiera el pollo a una tabla de cortar. Deje enfriar y luego desmenúcelo con dos tenedores. Deje a un lado.",
+        "Coloque los chiles poblanos en una bolsa de plástico con cierre hermético, saque el aire y selle la bolsa. Deje reposar durante 15 minutos. Deje el asador encendido.",
+        "mezcla de col rizada bebé",
+        "Mientras tanto, pela los chiles poblanos. Haz un corte para crear un bolsillo y retira las semillas. Rellena cada chile con una cuarta parte de la mezcla de hongos y cubre con 1 cucharada de queso.",
+        "Asa los pimientos rellenos, a 4 pulgadas del fuego, hasta que el relleno esté caliente y el queso comience a derretirse, aproximadamente 4 minutos."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Latin American",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Vegetarian",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "6g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0.1g",
+        "cholesterol": "5mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "13g",
+        "fiber": "3g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ingrid-hoffmanns-veggie-stuffed-poblanos"
+}

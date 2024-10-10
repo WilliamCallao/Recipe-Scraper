@@ -1,0 +1,91 @@
+{
+    "title": "Albóndigas de Espinaca y Pavo",
+    "keywords": "Budget Friendly,Dinner,Lunch",
+    "prep_time": "PT20M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1714-diabetic-Spinach-Turkey-Meatballs_Diabetes-Superfoods-Cookbook_010719.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "pavo molido magro",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "huevo",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "queso parmesano recién rallado",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "migas de pan integral",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "albahaca seca",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Queso parmesano (rallado)",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        },
+        {
+            "name": "espinacas picadas congeladas (descongeladas y exprimidas)",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "espinaca bebé",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Una vez que los hongos estén tiernos, sáquelos del horno y coloque el relleno sobre ellos con una cuchara. Cubra con queso rallado. Hornee durante otros 10 minutos, hasta que el queso se derrita.",
+        "Coloque todos los ingredientes (excepto el aceite en aerosol) en un tazón grande y mezcle bien.",
+        "champiñones cremini (baby bella)",
+        "bok choy bebé"
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Italian",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "7g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0.1g",
+        "cholesterol": "90mg",
+        "sodium": "140mg",
+        "total_carbohydrate": "8g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spinach-and-turkey-meatballs"
+}

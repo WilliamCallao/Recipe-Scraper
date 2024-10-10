@@ -1,0 +1,75 @@
+{
+    "title": "Kale Asiático Crujiente",
+    "keywords": "Foodie,Vegetarian,Snacks,Sides,Holidays & Entertaining,Appetizers",
+    "prep_time": "PT5M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Sides",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/205-diabetic-crispy-asian-kale-chips_AdobeStock218682462_012521.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salsa de soja baja en sodio",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Sustituto de azúcar moreno bajo en calorías",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "col rizada picada en bolsa",
+            "us_amount": "1 (16-oz) package",
+            "metric_amount": "1 (16-oz) package"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F. Cubra dos bandejas para hornear grandes con aceite en aerosol.",
+        "En un tazón grande, mezcle el aceite de oliva, la salsa de soja, la mezcla de azúcar morena Splenda y el ajo en polvo.",
+        "Mezcle la col rizada con el aderezo y extiéndala en una sola capa sobre las dos bandejas para hornear. No sobrecargue las bandejas con col rizada. Utilice una tercera bandeja para hornear si es necesario.",
+        "Hornee durante 10 a 15 minutos o hasta que la col rizada esté crujiente."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Asian",
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Sides",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "3g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "120mg",
+        "total_carbohydrate": "9g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crispy-asian-kale"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Rollups de Roast Beef",
+    "keywords": "Lunch,Dinner,Sandwiches,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Dinner",
+        "Sandwiches",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/440-diaabetic-Roast-Beef-Rollups_smart-shopper-diabetes-cookbook_071119.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "tortillas de harina integral (10 pulgadas)",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "hojas grandes de lechuga romana",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "INSTRUCCIONES PARA LA COCCIÓN LENTA: Agregue todos los ingredientes, excepto el chutney, a la olla de cocción lenta y cocine a fuego lento durante 4 a 5 horas o a fuego alto durante 2 a 3 horas. (Los tiempos de cocción en la olla de cocción lenta pueden variar; familiarícese con su olla de cocción lenta y, si es necesario, ajuste los tiempos de cocción en consecuencia).",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "tomato(es) (diced)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "pimiento rojo (cortado en cubitos)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Queso suizo (bajo en grasa, en lonchas)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "vinagre de vino tinto",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "limón (rallado y exprimido)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pavo deli (bajo en sodio, en rodajas)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Para cada rollito, corte un trozo de 15 pulgadas de papel encerado o papel de aluminio. Coloque la tortilla plana sobre el papel o el papel de aluminio. Coloque una hoja de lechuga romana sobre cada tortilla. Divida la carne sobre las hojas de lechuga.",
+        "Combine los tomates, los pimientos rojos, el aceite, el vinagre, el comino y la pimienta. Divida la mezcla de tomates sobre la carne.",
+        "ramitas de hierbas (para decorar) (frescas)"
+    ],
+    "tags": [
+        "High in Fiber",
+        "Lunch",
+        "Dinner",
+        "Sandwiches",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "295",
+        "total_fat": "6g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "595mg",
+        "total_carbohydrate": "43g",
+        "fiber": "6g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roast-beef-rollups"
+}

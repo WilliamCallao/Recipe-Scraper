@@ -1,0 +1,101 @@
+{
+    "title": "Ensalada de Pechuga de Pato Sellada",
+    "keywords": "Salads,Main Dish,Lunch,Holidays & Entertaining,Dinner,Foodie",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Salads",
+        "Main Dish",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Dinner",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/seared-duck-breast-salad-Nov15.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "nueces",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "naranja (pelada y cortada en gajos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zanahorias",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "mostaza Dijon gruesa",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 1/2 tbsp",
+            "metric_amount": "37 ml"
+        },
+        {
+            "name": "Agregue los guisantes y el pimiento morrón, revuelva para mezclar y ajuste la sazón. Espolvoree con las semillas de sésamo y el cilantro y sirva inmediatamente.",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "lechuga radicchio (desgarrada)",
+            "us_amount": "1 head",
+            "metric_amount": "1 head"
+        },
+        {
+            "name": "lechuga romana (picada o desgarrada)",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        },
+        {
+            "name": "pechuga de pato (sin hueso, aproximadamente 4 oz)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        }
+    ],
+    "instructions": [
+        "salvia fresca",
+        "tomate(s) (cortados en rodajas finas (aproximadamente 10-12 rodajas cada una))",
+        "Añade la lechuga romana y la radicchio a un bol.",
+        "En un bol pequeño, mezcle el vinagre, el aceite de oliva, la mostaza, la sal y la pimienta. Rocíe la mitad del aderezo sobre las verduras y revuelva para cubrirlas. Coloque las verduras aderezadas en una fuente para servir. Coloque los gajos de naranja sobre las verduras.",
+        "Quitar la piel del pato. Cortar el pato en rodajas finas y colocarlas sobre las verduras. Rociar con el resto del aderezo y decorar con las nueces."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "French",
+        "Salads",
+        "Main Dish",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Dinner",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "12g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "12g",
+        "fiber": "4g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/seared-duck-breast-salad"
+}

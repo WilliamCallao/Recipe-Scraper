@@ -1,0 +1,72 @@
+{
+    "title": "Ensalada de Maíz Fresco con Tomates y Albahaca",
+    "keywords": "Quick & Easy,Sides,Vegan,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Quick & Easy",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_699_CarbControl_CornSalsa__022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "mazorcas de maíz pequeñas (sin sedas ni cáscaras)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "tomates uva (cortados por la mitad)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "hojas de albahaca fresca (picadas)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "vinagre de sidra",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Ponga a hervir agua en una cacerola grande a fuego alto. Agregue el maíz, reduzca el fuego a medio y cocínelo, tapado, durante 8 minutos o hasta que esté tierno y crujiente al pincharlo con un tenedor. Escúrralo en un colador y póngalo bajo agua fría para enfriarlo rápidamente.",
+        "Mientras tanto, combine los ingredientes restantes en un recipiente mediano. Corte el maíz de la mazorca y agréguelo a la mezcla de tomate. Mezcle suavemente hasta que esté bien mezclado."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Quick & Easy",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "8g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "15g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fresh-corn-salad-tomatoes-and-basil"
+}

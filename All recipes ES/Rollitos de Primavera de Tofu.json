@@ -1,0 +1,116 @@
+{
+    "title": "Rollitos de Primavera de Tofu",
+    "keywords": "Foodie,Vegetarian,Snacks,Appetizers,Sides",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Appetizers",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/apr-2014-tofu-spring-rolls.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salsa de soja baja en sodio",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Sustituto de azúcar moreno bajo en calorías",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "tofu extra firme",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "Envoltorios de rollitos de primavera (0,25 onzas cada uno)",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "agua tibia",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "hojas de lechuga",
+            "us_amount": "6 leaves",
+            "metric_amount": "6 leaves"
+        },
+        {
+            "name": "mango (pelado y cortado en rodajas finas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pepino(s) (pelados, sin semillas y cortados en tiras finas)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "aguacate (cortado en 12 rodajas finas)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "mermelada de albaricoque sin azúcar añadido (sin azúcar)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "salsa de soja (baja en sodio)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Salsa de ajo y chile al estilo tailandés",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 475 grados F. Cubra una bandeja para hornear con aceite en aerosol y reserve.",
+        "En un tazón pequeño, mezcle la salsa de soja y el azúcar moreno Splenda.",
+        "Pechuga de pavo estilo delicatessen sin sal añadida",
+        "Una vez que el tofu se haya enfriado, corta cada rebanada en tres rodajas más pequeñas.",
+        "Divida el mango y el pepino en 6 porciones iguales.",
+        "Sumerge un envoltorio de papel de arroz en agua tibia hasta que se ablande, durante unos 30 segundos. Coloca el papel de arroz sobre una superficie limpia y plana. Coloca una hoja de lechuga sobre el papel de arroz.",
+        "sal al gusto",
+        "Dobla los lados izquierdo y derecho del envoltorio y las lechugas hacia el medio hasta que casi se toquen. Enrolla el papel desde abajo para formar un rollo apretado. Repite el proceso con el resto del papel de arroz. Reserva.",
+        "Combine los ingredientes de la salsa en una cacerola pequeña a fuego alto. Lleve a ebullición, revolviendo constantemente. Cocine a fuego lento durante 2 minutos. Sirva caliente con rollitos de primavera fríos para mojar."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Asian",
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Appetizers",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "215mg",
+        "total_carbohydrate": "20g",
+        "fiber": "5g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tofu-spring-rolls"
+}

@@ -1,0 +1,69 @@
+{
+    "title": "Aderezo de Yogur y Mostaza",
+    "keywords": "Salad Dressings & Condiments,Sauces,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salad Dressings & Condiments",
+        "Sauces",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1645-diabetic-yogurt-mustard-salad-dressing_090718_1021x779.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "Sal y pimienta al gusto (no incluida en el análisis nutricional)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zumo de lima",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "mostaza de dijon",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Perejil fresco (picado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Yogur griego natural sin grasa (sin grasa)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        }
+    ],
+    "instructions": [
+        "Batir todos los ingredientes en un bol pequeño. Tapar y refrigerar hasta por 3 días."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Salad Dressings & Condiments",
+        "Sauces",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "30",
+        "total_fat": "3g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "55mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/yogurt-mustard-dressing"
+}

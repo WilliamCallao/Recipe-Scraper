@@ -1,0 +1,105 @@
+{
+    "title": "Quinoa Roja y Farro",
+    "keywords": "Vegetarian,Vegan,Sides,One Pot,Easy Pantry Recipes",
+    "prep_time": "PT15M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "One Pot",
+        "Easy Pantry Recipes"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1895-diabetic-red-quinoa-and-farro_CYP_DFMarApr20_021020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "farro",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Caldo de verduras bajo en sodio (dividido)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "quinua roja",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "zumo de lima",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "vinagre de vino blanco",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Orégano seco",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "vino blanco para cocinar o jugo de limón",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "En una cacerola mediana a fuego alto, hierva el farro y 1½ taza de caldo. Reduzca el fuego a medio bajo y cocine a fuego lento durante unos 25 minutos o hasta que el farro esté tierno. Coloque el farro en un recipiente grande y deje enfriar durante 10 minutos.",
+        "En la misma cacerola mediana a fuego alto, agrega la quinua y la ½ taza restante de caldo y deja que hierva. Reduce el fuego a medio bajo y cocina a fuego lento durante unos 15 minutos, o hasta que la quinua esté tierna. Revuelve con un tenedor y deja enfriar durante 10 minutos antes de agregarla al tazón grande con el farro.",
+        "En un tazón pequeño, mezcle el aceite de oliva, el jugo de limón, el vinagre, el orégano, el ajo en polvo, la mezcla de azúcar morena, la sal, la pimienta negra y las hojuelas de pimiento rojo.",
+        "Precaliente el horno a 400°F."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "One Pot",
+        "Easy Pantry Recipes"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "28g",
+        "fiber": "5g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/red-quinoa-and-farro"
+}

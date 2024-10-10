@@ -1,0 +1,114 @@
+{
+    "title": "Cazuela Moderna de Atún y Fideos",
+    "keywords": "Holidays & Entertaining,Sides,Dinner,Foodie",
+    "prep_time": "PT5M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Sides",
+        "Dinner",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/371-Tuna-Casserole-Diabetic_177139227_041018.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Pasta penne, conchas o farfalle de grano entero",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Champiñones blancos (en rodajas)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "extracto de menta",
+            "us_amount": "5 oz",
+            "metric_amount": "142 ml"
+        },
+        {
+            "name": "condimento multiusos sin sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "chips de chocolate endulzados con stevia o sin azúcar",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "leche desnatada",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Engrase un molde para muffins de 12 agujeros con aceite en aerosol antiadherente y distribuya la mezcla de huevo y verduras de manera uniforme en los agujeros, llenando cada uno hasta la mitad o los tres cuartos. Coloque el molde para muffins en el horno y hornee hasta que las superficies de las frittatas estén doradas y los huevos estén listos, aproximadamente de 8 a 10 minutos. Deje enfriar un poco y sirva.",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Atún envasado en agua (escurrido)",
+            "us_amount": "5 oz",
+            "metric_amount": "142 ml"
+        },
+        {
+            "name": "Queso parmesano (rallado)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375 grados F. Rocíe con aceite en aerosol una fuente para hornear de 9 x 13 pulgadas. Déjela a un lado.",
+        "Preparar y hacer la ensalada: lavar y secar los productos frescos. Quitarle el corazón a la col y cortar las hojas en rodajas finas. Pelar las zanahorias y rallarlas con el lado más grande de un rallador. Cortar y desechar los tallos de los pimientos, quitarles el corazón y cortarlos en rodajas finas a lo largo. Combinar las verduras preparadas en un bol grande; añadir el pesto de cilantro. Sazonar con sal (opcional) y pimienta; revolver para cubrir. Dejar marinar, revolviendo de vez en cuando, al menos 10 minutos.",
+        "Mientras se cocina la pasta, añade el aceite de oliva a una sartén grande a fuego medio-alto. Añade la cebolla y los champiñones y saltea hasta que las cebollas se vuelvan transparentes, unos 5 minutos.",
+        "Agregue las espinacas y el condimento sin sal y saltee hasta que las espinacas se ablanden y se marchiten, aproximadamente 3 minutos más.",
+        "En un bol pequeño, mezcle la harina, la leche, la sal y la pimienta negra molida hasta que se hayan mezclado todos los grumos de harina. Vierta sobre las verduras y deje que hierva. Agregue el atún y la pasta y vierta todo en la fuente para horno preparada.",
+        "Espolvorear el queso parmesano sobre la cazuela y hornear durante 15 minutos."
+    ],
+    "tags": [
+        "High in Fiber",
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Seafood",
+        "Holidays & Entertaining",
+        "Sides",
+        "Dinner",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "4g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "300mg",
+        "total_carbohydrate": "42g",
+        "fiber": "6g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/modern-tuna-noodle-casserole"
+}

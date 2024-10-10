@@ -1,0 +1,81 @@
+{
+    "title": "Fresas con Glaseado de Balsámico, Pimienta Negra y Estragón",
+    "keywords": "Sides,Quick & Easy,No Cook,Holidays & Entertaining,Foodie,Dessert,Vegetarian,Snacks,Vegan",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Quick & Easy",
+        "No Cook",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dessert",
+        "Vegetarian",
+        "Snacks",
+        "Vegan"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/Jun14_strawberries_balsamic_glaze.jpg",
+        "Black Pepper",
+        "and Tarragon\" loading=\"lazy\" />"
+    ],
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "estragón fresco",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "glaseado balsámico",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "Fresas (sin tallo y cortadas por la mitad)",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        }
+    ],
+    "instructions": [
+        "En un bol grande, combine las fresas y el glaseado balsámico. Muela la pimienta negra encima y mezcle suavemente. Adorne con ramitas de estragón.",
+        "mini pimientos dulces"
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Mediterranean",
+        "Italian",
+        "Sides",
+        "Quick & Easy",
+        "No Cook",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dessert",
+        "Vegetarian",
+        "Snacks",
+        "Vegan"
+    ],
+    "nutrition": {
+        "calories": "20",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/strawberries-balsamic-glaze-black-pepper-and-tarragon"
+}

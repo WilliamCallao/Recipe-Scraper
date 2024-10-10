@@ -1,0 +1,131 @@
+{
+    "title": "Pastitsio Económico (Lasagna Griega)",
+    "keywords": "Holidays & Entertaining,Main Dish,Budget Friendly,Dinner",
+    "prep_time": "PT30M",
+    "cook_time": "PT60M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/127-diabetic-pastitsio-greek-lasagna_AdobeStock_123781141_022421.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla(s) (cortadas en cubitos)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "pavo molido magro (93% libre de grasa)",
+            "us_amount": "20 oz",
+            "metric_amount": "566 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "2 1/2 tsp",
+            "metric_amount": "12 g"
+        },
+        {
+            "name": "Orégano seco",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "apio (cortado en cubitos)",
+            "us_amount": "2 can",
+            "metric_amount": "2 can"
+        },
+        {
+            "name": "bulgur de cocción rápida (seco)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pasta penne de trigo integral",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "harina de trigo integral",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "leche desnatada",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "nuez moscada molida",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Queso parmesano (recién rallado)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F. Rocíe con aceite en aerosol una bandeja para hornear de 9 x 13 pulgadas. Déjela a un lado.",
+        "Rocíe aceite en aerosol en una sartén antiadherente grande. Saltee las cebollas durante 4 a 5 minutos o hasta que estén transparentes. Agregue el pavo molido y saltee durante 8 a 10 minutos o hasta que el pavo esté bien cocido.",
+        "Agregue canela, orégano, sal (opcional), pimienta negra molida y salsa de tomate. Revuelva para combinar y deje hervir a fuego lento durante 5 a 7 minutos o hasta que comience a espesar.",
+        "Cubre una fuente grande para horno con papel de aluminio y esparce la cebolla y la calabaza sobre el papel en una sola capa. Rocía las verduras con aceite de oliva y revuelve ligeramente para cubrirlas; luego, sazona con pimienta y tomillo. Coloca en el horno y hornea durante 30 a 35 minutos, o hasta que las verduras estén bien cocidas y comiencen a dorarse. Nota: saca las verduras al menos una vez durante la cocción para revolverlas.",
+        "Cocine la pasta según las instrucciones del paquete, sin agregarle sal. Escurra y revuelva inmediatamente con la mezcla de pavo. Vierta la pasta y la mezcla de pavo en la bandeja para hornear y presione hacia abajo para que se distribuya uniformemente en la sartén.",
+        "Cubre ambos lados del pescado con aceite en aerosol, espolvorea con 1/4 de cucharadita de pimienta negra, si lo deseas, y cocina 3 minutos de cada lado o hasta que esté opaco en el centro.",
+        "Coloque nuevamente la tapa de cada pimiento sobre los pimientos rellenos con la mezcla de pollo y lentejas, luego vierta el caldo de pollo en el fondo de la sartén.",
+        "Vierta la mezcla de mantequilla sobre los espárragos y extiéndala por todos lados. Cubra con el pescado y exprima jugo de limón sobre el pescado.",
+        "Hornee en la rejilla central del horno durante 30 minutos o hasta que burbujee y la parte superior esté dorada. Deje enfriar durante 15 a 20 minutos y luego córtelo en 12 rebanadas iguales."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Low Sodium",
+        "Comfort Food",
+        "Mediterranean",
+        "Holidays & Entertaining",
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "280",
+        "total_fat": "7g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0.1g",
+        "cholesterol": "55mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "37g",
+        "fiber": "4g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-pastitsio-greek-lasagna"
+}

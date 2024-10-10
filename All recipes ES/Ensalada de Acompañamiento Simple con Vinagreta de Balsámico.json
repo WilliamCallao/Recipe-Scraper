@@ -1,0 +1,64 @@
+{
+    "title": "Ensalada de Acompañamiento Simple con Vinagreta de Balsámico",
+    "keywords": "Salads,Vegetarian,Sides,No Cook,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Vegetarian",
+        "Sides",
+        "No Cook",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1974-diabetic-simple-side-salad-balsamic-vinaigrette_Create-Your-Plate_080320v2.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "vinagreta balsámica ligera",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "tomates cherry (cortados por la mitad)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Pepino mediano (cortado en rodajas finas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva (dividido)",
+            "us_amount": "3 cups",
+            "metric_amount": "3 cups"
+        }
+    ],
+    "instructions": [
+        "Añade las verduras mixtas, los pepinos y los tomates a un bol grande. Revuelve para combinar.",
+        "Rocíe con la vinagreta balsámica ligera y revuelva nuevamente para cubrir uniformemente las verduras."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Salads",
+        "Vegetarian",
+        "Sides",
+        "No Cook",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "40",
+        "total_fat": "1g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "105mg",
+        "total_carbohydrate": "6g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "1g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/simple-side-salad-balsamic-vinaigrette"
+}

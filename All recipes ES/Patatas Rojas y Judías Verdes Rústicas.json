@@ -1,0 +1,80 @@
+{
+    "title": "Patatas Rojas y Judías Verdes Rústicas",
+    "keywords": "Gluten-Free,Vegetarian,Quick & Easy,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Gluten-Free",
+        "Vegetarian",
+        "Quick & Easy",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/feb13_redpot_greebeans_istock12613695_279x200.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "judías verdes frescas",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "aceitunas castelvatrano o verdes",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "Espinacas tiernas frescas envasadas (5 onzas)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sal de ajo (dividida)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra (dividida)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Perejil seco",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 grados F. Rocíe una bandeja para hornear con aceite en aerosol.",
+        "En un tazón mediano mezcle las papas, 1 cucharada de aceite de oliva, 1/4 cucharadita de sal de ajo, 1/8 cucharadita de pimienta y 1/4 cucharadita de perejil.",
+        "Coloque las papas en la mitad de una bandeja para hornear y hornee durante 15 minutos.",
+        "Hornear los estratos durante 30 minutos.",
+        "Después de que las papas se hayan horneado durante 15 minutos, agregue las judías verdes a la otra mitad de la bandeja para hornear. Hornee las papas y las judías verdes durante 20 minutos más."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Gluten-Free",
+        "Vegetarian",
+        "Quick & Easy",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "115mg",
+        "total_carbohydrate": "16g",
+        "fiber": "3g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/rustic-red-potatoes-and-green-beans"
+}

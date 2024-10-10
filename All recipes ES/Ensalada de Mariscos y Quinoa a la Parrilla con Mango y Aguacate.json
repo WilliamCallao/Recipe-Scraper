@@ -1,0 +1,143 @@
+{
+    "title": "Ensalada de Mariscos y Quinoa a la Parrilla con Mango y Aguacate",
+    "keywords": "Dinner,Lunch,Main Dish,Salads",
+    "prep_time": "PT30M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Salads"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2016-06-grilled-seafood-and-quinoa-salad-with-mango-and-avocado.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pimienta de cayena",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "quinua (seca, bien enjuagada)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Camarones medianos (pelados y sin venas)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "vieiras",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "Aceite de oliva (para marinar y pincelar)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "frijoles negros cocidos o edamame",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "chile jalapeño (sin tallo y finamente picado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Retire los tallos de la parrilla y colóquelos nuevamente en el plato, espolvoree con sal y semillas de sésamo y sirva.",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "Tomates roma (ciruela) (sin semillas y picados)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolletas pequeñas (picadas)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "ajo (picado, para el aderezo)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aguacate (picado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "hojas de cilantro (picadas)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Jugo de 1 lima",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lechuga romana (picada)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Precaliente el horno a 400°F.",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "aceite de oliva virgen extra",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Agregue rodajas de calabacín, calabaza y pimiento morrón a la marinada y deje reposar durante 5 minutos.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Agrega agua tibia, levadura y azúcar morena Splenda al tazón de la batidora o al tazón del procesador de alimentos y deja que la levadura se hinche durante 5 minutos. La levadura debería comenzar a formar espuma.",
+        "Ensarte el filete marinado en 8 brochetas y áselas por todos los lados (4 minutos de cada lado). Pincele las brochetas con el resto de la marinada mientras las asa, utilizando toda la marinada.",
+        "Mezcle los camarones y las vieiras con el aceite de oliva en un bol.",
+        "Calienta una sartén para asar o saltear a fuego medio-alto. Agrega los camarones y las vieiras y dóralos hasta que estén rosados ​​y apenas cocidos, aproximadamente 2 minutos por cada lado. Retíralos de la sartén y déjalos enfriar.",
+        "Coloca la quinua enfriada en un tazón grande y agrega los camarones y las vieiras, los frijoles, el jalapeño, el pimiento morrón, el tomate, las cebolletas, el mango y el aguacate. Vierte el aderezo sobre la mezcla y revuelve suavemente para combinar.",
+        "Divida la ensalada en cuatro platos o tazones y esparza hojas de cilantro sobre cada uno."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Grilling",
+        "Seafood",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "470",
+        "total_fat": "16g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "110mg",
+        "sodium": "315mg",
+        "total_carbohydrate": "56g",
+        "fiber": "10g",
+        "sugar": "16g",
+        "added_sugar": "0g",
+        "protein": "30g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-seafood-and-quinoa-salad-mango-and-avocado"
+}

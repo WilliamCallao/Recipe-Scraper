@@ -1,0 +1,69 @@
+{
+    "title": "Espárragos al Sésamo a la Parrilla",
+    "keywords": "Vegan,Sides,Quick & Easy,Dinner,Cooking for 1 or 2,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Vegan",
+        "Sides",
+        "Quick & Easy",
+        "Dinner",
+        "Cooking for 1 or 2",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1947-grilled-sesame-asparagus-DFH-MJ20.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "espárragos (extremos recortados)",
+            "us_amount": "12 oz (about 24 spears)",
+            "metric_amount": "12 oz (about 24 spears)"
+        },
+        {
+            "name": "aceite de sésamo tostado",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Ase los duraznos, sin tapar, durante 10 a 15 minutos o hasta que estén tiernos.",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "semillas de sésamo",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente una parrilla al aire libre o una sartén para asar.",
+        "Mezcle la lechuga romana con el aderezo restante y luego sirva colocando dos tazas de ensalada en un plato, cubra con dos brochetas de pollo, espolvoree con 8 rodajas de aceitunas y una cucharada de queso parmesano rallado.",
+        "aceite de oliva",
+        "Retire los tallos de la parrilla y colóquelos nuevamente en el plato, espolvoree con sal y semillas de sésamo y sirva."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Grilling",
+        "Vegan",
+        "Sides",
+        "Quick & Easy",
+        "Dinner",
+        "Cooking for 1 or 2",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "6g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-sesame-asparagus"
+}

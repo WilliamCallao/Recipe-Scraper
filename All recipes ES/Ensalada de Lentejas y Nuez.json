@@ -1,0 +1,114 @@
+{
+    "title": "Ensalada de Lentejas y Nuez",
+    "keywords": "Sides,Salads,Lunch,Gluten-Free,Foodie,Dinner,Vegetarian,Quick & Easy",
+    "prep_time": "PT20M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Sides",
+        "Salads",
+        "Lunch",
+        "Gluten-Free",
+        "Foodie",
+        "Dinner",
+        "Vegetarian",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/581-diabetic-walnut-lentil-salad_AdobeStock192364505_012521.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "agua",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        },
+        {
+            "name": "albahaca fresca picada",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "sal (opcional)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado o rallado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Perejil fresco (picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "polvo de curry dulce",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Pimiento morrón mediano de color naranja o amarillo (sin semillas y cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "tomates uva (cortados por la mitad)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "menta fresca (hojas arrancadas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "queso feta bajo en grasa",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "Lima (rallada y exprimida)",
+        "Añade las lentejas y 6 tazas de agua a una olla grande y pon el agua a hervir. Una vez que hierva, reduce el fuego y cocina a fuego lento durante 10 minutos. Escurre las lentejas, pásalas por agua fría para que se enfríen y escúrrelas bien.",
+        "En una ensaladera grande, mezcle la ralladura y el jugo de limón, el ajo, el perejil, el curry en polvo, la miel y el aceite de oliva.",
+        "Añade los ingredientes restantes y revuelve para cubrir."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "High in Fiber",
+        "Mediterranean",
+        "Sides",
+        "Salads",
+        "Lunch",
+        "Gluten-Free",
+        "Foodie",
+        "Dinner",
+        "Vegetarian",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "290",
+        "total_fat": "12g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "15mg",
+        "total_carbohydrate": "34g",
+        "fiber": "12g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/walnut-lentil-salad"
+}

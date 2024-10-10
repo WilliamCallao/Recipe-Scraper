@@ -1,0 +1,99 @@
+{
+    "title": "Tacos de Pollo con Batata y Espinaca",
+    "keywords": "Gluten-Free,Dinner,Quick & Easy,Lunch",
+    "prep_time": "PT5M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Gluten-Free",
+        "Dinner",
+        "Quick & Easy",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_541_Sweet_Potato_and_Spinach_Chicken_Tacos_PNCImages_03012018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "espinaca bebé",
+            "us_amount": "24 oz",
+            "metric_amount": "679 ml"
+        },
+        {
+            "name": "batata grande (pelada y cortada en cubitos)",
+            "us_amount": "1 (about 8 oz)",
+            "metric_amount": "1 (about 8 oz)"
+        },
+        {
+            "name": "comino",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "¡Puedes usar el resto de la marinada para hacer una salsa para cubrir el pollo terminado! Simplemente coloca la marinada restante en una sartén y ponla a hervir a fuego medio. En un recipiente aparte, mezcla 1 cucharada de maicena y 1 cucharada de agua. Agrega lentamente la mezcla a la marinada hirviendo, revolviendo constantemente hasta que alcance el espesor deseado.",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Con las manos, coloque las batatas ralladas de manera uniforme en 12 moldes para muffins; esparza las batatas en una capa fina sobre el fondo y los costados de los moldes. Rocíe los moldes para muffins con aceite en aerosol y hornee en la rejilla inferior del horno durante 25 minutos.",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Tortillas de maíz de 6 pulgadas (calentadas)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "apio (cortado en cubitos)",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        },
+        {
+            "name": "pico de gallo or salsa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "tomato(es)",
+        "tomates cortados en cubitos",
+        "mostaza de dijon",
+        "Rellena cada tortilla con 1/4 de la mezcla de pollo y batata. Cubre con 1 cucharadita de crema agria y 2 cucharadas de pico de gallo."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Gluten-Free",
+        "Dinner",
+        "Quick & Easy",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "10g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "35mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "28g",
+        "fiber": "7g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-potato-and-spinach-chicken-tacos"
+}

@@ -1,0 +1,77 @@
+{
+    "title": "Albóndigas de Pavo Arrabbiata",
+    "keywords": "Quick & Easy,Main Dish,Lunch,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1855-diabetic-turkey-meatballs-arrabiata_clean-and-simple_DFJanFeb20_120219.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Salsa arrabbiata o marinara (uso dividido)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "salsa pesto en frasco",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Precaliente el horno a 350° F.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "avena antigua",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "queso parmesano rallado",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 450° F. Cubra un molde para hornear de 9 por 13 pulgadas con papel pergamino.",
+        "sal al gusto",
+        "azúcar morena",
+        "ketchup"
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Kid Friendly",
+        "Italian",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "14g",
+        "saturated_fat": "3.6g",
+        "trans_fat": "0.1g",
+        "cholesterol": "105mg",
+        "sodium": "360mg",
+        "total_carbohydrate": "12g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/turkey-meatballs-arrabbiata"
+}

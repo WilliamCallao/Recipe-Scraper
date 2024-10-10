@@ -1,0 +1,76 @@
+{
+    "title": "Avocado Veggie Sandwich",
+    "keywords": "Lunch,Vegetarian,Quick & Easy,Sandwiches",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Vegetarian",
+        "Quick & Easy",
+        "Sandwiches"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/052-diabetic-Avocado-Veggie-Sandwich_PNC_MG_3846-%28ZF-5661-35964-1-118%2902232018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "avocado (cored and cut in half)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sunflower seeds",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "large cucumber (sliced )",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "radishes (sliced)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "roma (plum) tomatoes (sliced)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "whole wheat sandwich thins (about 1 1/2 ounces each)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "Gently remove the insides of the avocado from shell. Cut avocado into thin slices",
+        "Spread 1/4 of the avocado slices on bottom piece of sandwich thin. Sprinkle with 1 Tbsp. sunflower seeds. Top with 4-5 cucumber slices, 4-5 radish slices and 3 tomato slices. Place top piece of sandwich thin on sandwich.",
+        "Repeat process for remaining 3 sandwiches."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "High in Fiber",
+        "Veggie Rich",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Lunch",
+        "Vegetarian",
+        "Quick & Easy",
+        "Sandwiches"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "11g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "28g",
+        "fiber": "9g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/avocado-veggie-sandwich"
+}

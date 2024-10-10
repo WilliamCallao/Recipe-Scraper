@@ -1,0 +1,105 @@
+{
+    "title": "Pollo a la Balsámico Dulce y Salado",
+    "keywords": "Main Dish,Appetizers,Dinner,Lunch",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Main Dish",
+        "Appetizers",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2129_Sweet%20and%20Savory%20Balsamic%20Chicken%20-%20Photo%20Credit%20to%20Joseph%20Abell%5B1%5D.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "zumo de limón",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ajo",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "Combine todos los ingredientes en una licuadora y haga puré hasta que quede suave.",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pan rallado de trigo integral",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Sustituto de azúcar moreno bajo en calorías",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "aceite de aguacate",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Pimienta",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Hojuelas de chile rojo",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "Maicena",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425 grados F.",
+        "En un tazón grande, mezcle todos los ingredientes (excepto el pollo, la maicena y el agua) para crear la marinada.",
+        "Coloque las pechugas de pollo en el bol y cúbralas con la marinada.",
+        "Perfore el pollo con un tenedor varias veces para permitir que la marinada se absorba.",
+        "batata grande (pelada y cortada en cubitos)",
+        "Coloque el pollo marinado en una bandeja para hornear aceitada y hornee durante 22 a 24 minutos o hasta que la temperatura interna del pollo alcance al menos 165 grados F.",
+        "aceite de oliva"
+    ],
+    "tags": [
+        "Main Dish",
+        "Appetizers",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "8g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "115mg",
+        "total_carbohydrate": "7g",
+        "fiber": "0g",
+        "sugar": "5g",
+        "added_sugar": "5g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-savory-balsamic-chicken"
+}

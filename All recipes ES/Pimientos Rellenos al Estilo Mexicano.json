@@ -1,0 +1,117 @@
+{
+    "title": "Pimientos Rellenos al Estilo Mexicano",
+    "keywords": "Appetizers,Dinner,Main Dish,Sides,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT50M",
+    "categories": [
+        "Appetizers",
+        "Dinner",
+        "Main Dish",
+        "Sides",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_769_MexicanStyle_Stuffed_Bell_DiabetesHeartHealthy_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pimientos morrones grandes rojos o verdes, o una combinación (tallos, semillas y costillas descartados, las puntas picadas y reservadas)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla(s) (picadas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ajo mediano (picado)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "carne molida (95% libre de grasa)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salsa baja en sodio",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "frijoles negros enlatados sin sal agregada (enjuagados y escurridos)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cilantro fresco (picado, uso dividido)",
+            "us_amount": "1/2 cup plus 2 tbsp",
+            "metric_amount": "1/2 cup plus 2 tbsp"
+        },
+        {
+            "name": "frijoles negros (enjuagados y escurridos)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "crema agria ligera",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375°F.",
+        "En un horno microondas, coloque los pimientos morrones con el lado cortado hacia arriba sobre una toalla de papel. Cocine en el microondas a potencia máxima (alta) durante 4 a 5 minutos, o hasta que estén tiernos pero crujientes. Transfiera con el lado cortado hacia arriba a una fuente para horno cuadrada de 9 pulgadas o una cazuela poco profunda.",
+        "Mientras tanto, rocíe ligeramente una sartén grande con aceite en aerosol. Caliéntela a fuego medio. Cocine las puntas de pimiento morrón picadas, la cebolla y el ajo durante 5 minutos, revolviendo de vez en cuando.",
+        "Incorpora la carne. Cocina durante 5 minutos, revolviendo de vez en cuando para dar vuelta y desmenuzar la carne. Desecha los jugos que se hayan derramado.",
+        "Espolvoree la mezcla de carne con el chile en polvo, el comino y la sal. Cocine durante 1 minuto. Agregue la salsa y revuelva. Retire del fuego.",
+        "Incorpore suavemente los frijoles y 1/2 taza de cilantro. Vierta la mezcla de carne sobre los pimientos con una cuchara. Cubra la fuente para horno con papel de aluminio.",
+        "Hornee durante 30 minutos o hasta que esté bien caliente. Retire del horno. Espolvoree el queso mexicano sobre la mezcla de carne. Deje reposar durante 5 minutos.",
+        "Cubra los pimientos con la crema agria. Espolvoree con las 2 cucharadas restantes de cilantro."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Latin American",
+        "Mexican/Southwestern",
+        "Appetizers",
+        "Dinner",
+        "Main Dish",
+        "Sides",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "5g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "560mg",
+        "total_carbohydrate": "25g",
+        "fiber": "7g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mexican-style-stuffed-bell-peppers"
+}

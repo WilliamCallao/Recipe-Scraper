@@ -1,0 +1,127 @@
+{
+    "title": "Ensalada Asiática de Atún",
+    "keywords": "Dinner,Foodie,Lunch,Salads,Main Dish",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Lunch",
+        "Salads",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/tuna-foodie_279x200.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "salsa de soja ligera o reducida en sodio",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Sustituto de azúcar moreno bajo en calorías",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "Salsa picante asiática (Siracha, opcional)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Lima (solo jugo, aproximadamente 2 cucharadas)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "atún blanco fresco",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "semillas de sésamo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Mezcla de lechugas de primavera (lavadas y secas (o centrifugadas en una centrifugadora de ensaladas))",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        },
+        {
+            "name": "pimiento rojo (cortado en juliana)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "pepino(s) (sin semillas y cortado en juliana)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "vinagre de vino de arroz",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Sustituto de azúcar moreno bajo en calorías",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Papel pergamino",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Una vez que el calabacín haya reposado durante al menos 5 minutos, cúbrelo con otra capa de toallas y exprime toda la humedad que puedas. Agrega el calabacín escurrido a un tazón grande con la harina de almendras, el huevo, el queso, el romero y la pimienta negra. Mezcla bien.",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "canela molida",
+        "En un bol pequeño, mezcle la salsa de soja, el azúcar moreno Splenda, la salsa picante (opcional) y la pimienta negra. Reserve.",
+        "Rocíe la parrilla de interior con aceite en aerosol. O, si utiliza una parrilla de exterior, asegúrese de que las rejillas estén limpias y ligeramente engrasadas.",
+        "Pincele el atún y los espárragos con la marinada de salsa de soja. Colóquelos en la parrilla. Ase el atún durante 3 minutos de cada lado. Ase los espárragos, dándoles vuelta con frecuencia, hasta que comiencen a ablandarse (aproximadamente de 6 a 8 minutos). Retire el atún y los espárragos de la parrilla, espolvoree con semillas de sésamo y déjelos enfriar. El atún debe estar ligeramente rosado en el centro, pero no crudo.",
+        "sal",
+        "En un bol pequeño, bate los ingredientes del aderezo. Vierte sobre la ensalada y revuelve suavemente para cubrirla. Divide la ensalada en partes iguales entre cuatro platos.",
+        "Una vez que el atún y los espárragos estén a temperatura ambiente o un poco más calientes, corte el atún en rodajas y divídalo en partes iguales entre las cuatro ensaladas (un poco menos de 4 onzas de atún por ensalada). Colóquelo con cuidado sobre la ensalada.",
+        "Corta los espárragos por la mitad y colócalos alrededor del borde de la ensalada."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Seafood",
+        "Asian",
+        "Grilling",
+        "Dinner",
+        "Foodie",
+        "Lunch",
+        "Salads",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "265",
+        "total_fat": "6g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "350mg",
+        "total_carbohydrate": "18g",
+        "fiber": "4g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "34g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/asian-tuna-salad"
+}

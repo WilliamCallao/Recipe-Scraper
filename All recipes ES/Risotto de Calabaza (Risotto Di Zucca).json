@@ -1,0 +1,84 @@
+{
+    "title": "Risotto de Calabaza (Risotto Di Zucca)",
+    "keywords": "Holidays & Entertaining,Sides,Vegetarian,Dinner",
+    "prep_time": "PT5M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Sides",
+        "Vegetarian",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_211638475.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "cebolla amarilla pequeña (picada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Arroz Arborio o Carnaroli",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "calabaza fresca (finamente picada)",
+            "us_amount": "1 1/4 lbs",
+            "metric_amount": "567 ml"
+        },
+        {
+            "name": "vino blanco",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "tocino de pavo cocido (picado)",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        },
+        {
+            "name": "queso parmesano-reggiano (rallado)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "Sal kosher",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "cebolla(s) (finamente picada)",
+        "Añade el arroz y la calabaza y remueve. Añade el vino. Remueve y cocina hasta que el vino se evapore.",
+        "Añade el caldo justo para cubrir el arroz. Mezcla lentamente, asegurándote de que el arroz no se pegue al fondo de la cacerola. Una vez que el caldo esté casi absorbido, añade más caldo para cubrirlo. Repite este proceso hasta que el arroz haya absorbido todo el caldo, aproximadamente entre 18 y 19 minutos. El arroz debe estar bien cocido y tener una textura ligeramente masticable.",
+        "Retirar el risotto del fuego. Añadir el parmesano-reggiano y el yogur. Mezclar enérgicamente hasta que el risotto esté bien mezclado y adquiera una textura cremosa.",
+        "aceite de oliva virgen extra"
+    ],
+    "tags": [
+        "Italian",
+        "Holidays & Entertaining",
+        "Sides",
+        "Vegetarian",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "300",
+        "total_fat": "3g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "41g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pumpkin-risotto-risotto-di-zucca"
+}

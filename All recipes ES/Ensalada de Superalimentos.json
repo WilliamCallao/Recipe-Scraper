@@ -1,0 +1,104 @@
+{
+    "title": "Ensalada de Superalimentos",
+    "keywords": "Lunch,Salads,Vegetarian",
+    "prep_time": "Desconocido",
+    "cook_time": "PT30M",
+    "categories": [
+        "Lunch",
+        "Salads",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2016-03-super-foods-salad.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "quinoa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "edamame fresco sin cáscara ((1 taza))",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "apio (cortado en cubitos)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pepino persa",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "pan rallado de trigo integral",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "claras de huevo",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cilantro fresco o perejil (picado grueso)",
+            "us_amount": "1/8 cup",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Lave los tomates y córtelos por la mitad. Saque la pulpa y las semillas, dejando un borde de aproximadamente 1/2 pulgada del tomate.",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "lechuga (cabeza (6 onzas), picada o desgarrada, si es necesario)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Pimiento morrón naranja (sin corazón y cortado en cubitos)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "semillas de girasol sin sal, o use nueces pecanas o pistachos",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Enjuague y cocine la quinua en 1 taza de agua durante unos 10 minutos o hasta que el agua se absorba. Esponje y retire del fuego.",
+        "Mientras tanto, cocine el edamame durante 5 minutos en aproximadamente 4 tazas de agua hirviendo.",
+        "limón (cortado en gajos)",
+        "En una ensaladera grande, combine la lechuga, el pimiento morrón, la quinoa, el edamame, el aguacate restante y las semillas de girasol. Vierta el aderezo sobre todo y mezcle suavemente. Sirva inmediatamente.",
+        "Precaliente el horno a 425 °F. Cubra una bandeja para hornear con papel pergamino o una estera de silicona."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Low Sodium",
+        "Veggie Rich",
+        "Lunch",
+        "Salads",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "265",
+        "total_fat": "16g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "70mg",
+        "total_carbohydrate": "25g",
+        "fiber": "7g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/super-foods-salad"
+}

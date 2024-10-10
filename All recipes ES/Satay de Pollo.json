@@ -1,0 +1,98 @@
+{
+    "title": "Satay de Pollo",
+    "keywords": "Appetizers,Holidays & Entertaining,Snacks,Foodie",
+    "prep_time": "PT1H",
+    "cook_time": "PT10M",
+    "categories": [
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Snacks",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/167-diabetic-chicken-satay_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "brochetas de bambú",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "Sustituto de azúcar moreno bajo en calorías (uso dividido)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "salsa de soja baja en sodio (uso dividido)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Ajo (picado, uso dividido)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "jengibre fresco picado",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "zumo de lima",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Salsa picante de estilo asiático, como la sriracha",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "mantequilla de maní cremosa",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "bebida de leche de coco sin azúcar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Remoje las brochetas de bambú en agua tibia durante al menos 30 minutos. Mientras las brochetas están en remojo, corte las pechugas de pollo en ocho tiras a lo largo.",
+        "pimientos morrones de colores variados (picados)",
+        "Prepare una parrilla interior o exterior.",
+        "Mientras se marina el pollo, mezcle la cucharada restante de la mezcla de azúcar morena Splenda, la cucharada restante de salsa de soja, el ajo picado restante, la mantequilla de maní y la leche de coco en un recipiente apto para microondas. Deje de lado.",
+        "Ensarte las tiras de pollo a lo largo en las brochetas de bambú remojadas. Ase el pollo durante 4 a 5 minutos de cada lado.",
+        "garbanzos (escurridos y enjuagados)"
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Asian",
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Snacks",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "7g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "380mg",
+        "total_carbohydrate": "10g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-satay"
+}

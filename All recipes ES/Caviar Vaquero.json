@@ -1,0 +1,118 @@
+{
+    "title": "Caviar Vaquero",
+    "keywords": "Sides,Snacks",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Sides",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-08/61024_splenda_dfh_779x590_cowboycaviar.jpg",
+    "servings": "20 Servings",
+    "ingredients": [
+        {
+            "name": "frijoles negros (15 onzas, escurridos y enjuagados)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "maíz (7,5 onzas, escurrido)",
+            "us_amount": "1/2 can",
+            "metric_amount": "1/2 can"
+        },
+        {
+            "name": "maíz blanco (7,5 onzas, escurrido)",
+            "us_amount": "1/2 can",
+            "metric_amount": "1/2 can"
+        },
+        {
+            "name": "frijoles rojos (lata de 15 onzas, escurridos y enjuagados)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "tomates cherry (cortados por la mitad)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "cebolla roja (cortada en cubitos)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "pimientos morrones (cortados en cubitos)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "chile jalapeño (cortado en cubitos)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "aguacate (cortado en cubitos)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "Endulzante Stevia Splenda® (para el aderezo)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "vinagre de vino tinto (para el aderezo)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Lima (para el aderezo, ralladura y jugo)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "comino molido (para el aderezo)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "chile en polvo (para el aderezo)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ajo (para el aderezo, rallado)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "En un tazón grande, agregue los frijoles, el maíz, los frijoles rojos, los frijoles carita negra, los tomates, la cebolla, el pimiento y el jalapeño. Mezcle todo con cuidado.",
+        "En otro recipiente, bate el aderezo. Vierte sobre la mezcla de caviar Cowboy. Refrigera hasta servir.",
+        "Justo antes de servir, incorpore el aguacate. ¡Disfrute!"
+    ],
+    "tags": [
+        "Mexican/Southwestern",
+        "Sides",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "2g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "45mg",
+        "total_carbohydrate": "25g",
+        "fiber": "9g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cowboy-caviar"
+}

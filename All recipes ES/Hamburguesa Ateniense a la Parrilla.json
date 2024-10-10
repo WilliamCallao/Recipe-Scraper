@@ -1,0 +1,84 @@
+{
+    "title": "Hamburguesa Ateniense a la Parrilla",
+    "keywords": "Dinner,Holidays & Entertaining,Main Dish,Sandwiches",
+    "prep_time": "PT10M",
+    "cook_time": "PT13M",
+    "categories": [
+        "Dinner",
+        "Holidays & Entertaining",
+        "Main Dish",
+        "Sandwiches"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_724_GrilledAthenianBurger_SizzleSmoke_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "carne molida (95% magra)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "Yogur griego (sin grasa)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Orégano de hoja fresca",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Perejil de hoja fresca (picado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ralladura de limón (cáscara de limón rallada)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "En un tazón grande combine todos los ingredientes y mezcle hasta que estén bien combinados.",
+        "Divida la mezcla en 4 partes iguales y forme 4 hamburguesas. Colóquelas en un plato y refrigérelas hasta que estén listas para asarlas.",
+        "Rocíe la parrilla o la parrilla de la estufa con aceite de oliva o de canola en aerosol para altas temperaturas. Caliente la parrilla a temperatura alta (450–500 °F).",
+        "Asa las hamburguesas durante aproximadamente 6 a 8 minutos. Dales la vuelta y repite el proceso durante 4 a 5 minutos más. Comprueba que estén cocidas con un termómetro. La temperatura interna debe ser de aproximadamente 160 °F, ya que seguirán cocinándose durante unos minutos.",
+        "Cúbralo con hojas de lechuga romana fresca, tomates en rodajas y cebolla roja sobre un pan integral o envuelto en una pita."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Comfort Food",
+        "Grilling",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Main Dish",
+        "Sandwiches"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "6g",
+        "saturated_fat": "2.7g",
+        "trans_fat": "0.1g",
+        "cholesterol": "70mg",
+        "sodium": "70mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-athenian-burger"
+}

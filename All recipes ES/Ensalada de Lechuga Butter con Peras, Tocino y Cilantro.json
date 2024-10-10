@@ -1,0 +1,102 @@
+{
+    "title": "Ensalada de Lechuga Butter con Peras, Tocino y Cilantro",
+    "keywords": "Salads,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Quick & Easy"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/RecId_631_2Step_ButterLettuceSaladwithPearsBaconCilantro_022618.jpg",
+        "Bacon",
+        "And Cilantro\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "lechuga mantecosa (cortada en pedazos, 1 cabeza en total)",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "cebolla roja (en rodajas finas (aproximadamente 2 onzas en total) o cortada en cubitos)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "edamame fresco sin cáscara",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "Pera mediana firme (cortada por la mitad, sin corazón y en rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cilantro fresco (picado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "tocino de pavo cocido (picado)",
+            "us_amount": "8 slice",
+            "metric_amount": "8 slice"
+        },
+        {
+            "name": "nueces (picadas)",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "azúcar",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado (secas)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Combine los ingredientes de la ensalada en un tazón grande.",
+        "Bate los ingredientes del aderezo en un tazón pequeño y mezcle con los ingredientes de la ensalada."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Salads",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "18g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0.1g",
+        "cholesterol": "25mg",
+        "sodium": "480mg",
+        "total_carbohydrate": "21g",
+        "fiber": "5g",
+        "sugar": "12g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/butter-lettuce-salad-pears-bacon-and-cilantro"
+}

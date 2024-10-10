@@ -1,0 +1,107 @@
+{
+    "title": "Muffins de Manzana y Especias Bajos en Carbohidratos",
+    "keywords": "Breakfast and Brunch,Foodie,Vegetarian,Snacks,Gluten-Free",
+    "prep_time": "PT8M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2066-diabetic-low-carb-apple-spice-muffins_low-carb-brissette_050721.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de aguacate en aerosol para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "harina de almendras",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "harina de coco",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "eritritol u otro sustituto del azúcar",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Levadura en polvo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "nuez moscada molida",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "clavo molido",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "aceite de aguacate",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "huevos grandes",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "leche de almendras y vainilla sin azúcar",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "manzana pequeña (pelada, sin corazón y cortada en cubitos pequeños)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F. Rocíe un molde para muffins con aceite en aerosol.",
+        "En un bol mediano, combine la harina de almendras, la harina de coco, el eritritol, el polvo para hornear, la canela, la nuez moscada, los clavos de olor y la sal. En otro bol mediano, combine el aceite, los huevos y la leche de almendras.",
+        "Vierta los ingredientes húmedos en los ingredientes secos y mezcle. Agregue la manzana y revuelva.",
+        "Rellenar los moldes para muffins. Hornear durante 20-25 minutos o hasta que al introducir un tenedor o un palillo éste salga limpio.",
+        "Para congelar: deja que los muffins se enfríen por completo y luego retíralos del molde. Colócalos en una sola capa sobre una placa para horno y congélalos durante al menos 2 horas. Una vez que estén completamente congelados, guárdalos juntos en una bolsa con cierre hermético apta para el congelador. O envuelve cada muffin en papel de aluminio para guardarlos individualmente."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Breakfast and Brunch",
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "16g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "115mg",
+        "total_carbohydrate": "9g",
+        "fiber": "4g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/low-carb-apple-spice-muffins"
+}

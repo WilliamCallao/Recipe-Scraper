@@ -1,0 +1,89 @@
+{
+    "title": "Risotto de Quinoa con Salmón",
+    "keywords": "Dinner,Main Dish,Vegetarian",
+    "prep_time": "PT25M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Dinner",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_823_Salmon%20Quinoa%20Risotto_DiabetesComfortFood_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "cucharadas de aceite de oliva (divididas)",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "cebolla mediana (cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "quinoa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Caldo de verduras orgánico (dividido)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "ajo (finamente picado)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "queso mozzarella parcialmente descremado (rallado)",
+            "us_amount": "7",
+            "metric_amount": "7"
+        },
+        {
+            "name": "Salmón (escalfado y desmenuzado)",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "Jugo de 1 limón",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimienta al gusto",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Para escalfar el salmón, llena una cacerola de 4 cuartos con agua y pon el filete de salmón en el agua. Coloca la cacerola a fuego alto hasta que el agua hierva. Una vez que el agua hierva, retira la cacerola del fuego y deja reposar durante 10 minutos. Retira el pescado del agua y desmenúzalo. Reserva.",
+        "En una cacerola de 4 cuartos, calienta 1 cucharada de aceite de oliva a fuego medio-alto. Cuando el aceite esté titilando, agrega la cebolla picada. Saltea la cebolla hasta que esté transparente. Agrega la quinoa a la mezcla de cebolla y revuelve (para tostar) durante 2 minutos.",
+        "Añade 1 taza de caldo de verduras a la quinoa y la cebolla. Revuelve hasta que el caldo se absorba. Una vez que el caldo se absorba, agrega otra taza de caldo. Continúa revolviendo hasta que el caldo se absorba. Agrega el caldo restante en intervalos de 1/2 taza, revolviendo hasta que todo el caldo se absorba. Retira del fuego.",
+        "Mientras prepara la mezcla de cebolla y quinoa, caliente 1/2 cucharada de aceite a fuego medio-alto en una sartén con ajo picado. Una vez que el ajo esté chisporroteando, agregue la col rizada picada a la sartén. Gire la col rizada para cubrirla con aceite y ajo. Gire la mezcla de col rizada hasta que desprenda aroma, aproximadamente 2 minutos. Retire la mezcla de col rizada del fuego.",
+        "Una vez que la quinoa esté lista, agregue la col rizada y el salmón. Revuelva para combinar y agregue sal y pimienta a gusto."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Comfort Food",
+        "Italian",
+        "Dinner",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "390",
+        "total_fat": "13g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "195mg",
+        "total_carbohydrate": "39g",
+        "fiber": "5g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/salmon-quinoa-risotto"
+}

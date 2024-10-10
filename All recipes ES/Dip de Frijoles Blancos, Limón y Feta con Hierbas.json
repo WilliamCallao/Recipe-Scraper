@@ -1,0 +1,91 @@
+{
+    "title": "Dip de Frijoles Blancos, Limón y Feta con Hierbas",
+    "keywords": "Appetizers,Gluten-Free,Holidays & Entertaining,No Cook,Quick & Easy,Snacks,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "No Cook",
+        "Quick & Easy",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/1789-diabetic-white-bean-herbed-feta-dip_MediterraneanCkbk_042419.jpg",
+        "Lemon",
+        "and Herbed Feta Dip\" loading=\"lazy\" />"
+    ],
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "frijoles cannellini enlatados o cocidos",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "Queso feta griego (cortado en trozos pequeños o desmenuzado)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "jugo y ralladura de 1 limón",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva virgen extra",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "En un tazón grande, mezcle los tomates, la sandía, la albahaca y la cebolla roja.",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Orégano fresco (y un poco más para decorar)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Antes de servir, aderece la ensalada con cebollino. Envase en un recipiente hermético para transportarlo.",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        }
+    ],
+    "instructions": [
+        "Combine los frijoles blancos, el queso feta, el jugo y la ralladura de limón, el aceite de oliva, la menta y el orégano en un procesador de alimentos. Pulse y desactive para hacer un puré hasta que quede una mezcla homogénea.",
+        "Pruebe y condimente con sal (si lo desea) y pimienta."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Mediterranean",
+        "Appetizers",
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "No Cook",
+        "Quick & Easy",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "8g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0.1g",
+        "cholesterol": "10mg",
+        "sodium": "80mg",
+        "total_carbohydrate": "9g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/white-bean-lemon-and-herbed-feta-dip"
+}

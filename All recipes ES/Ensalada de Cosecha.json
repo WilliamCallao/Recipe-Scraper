@@ -1,0 +1,90 @@
+{
+    "title": "Ensalada de Cosecha",
+    "keywords": "Vegetarian,Vegan,Sides,Salads",
+    "prep_time": "PT7M",
+    "cook_time": "PT2M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Salads"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/harvest-salad.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pimienta negra (recién molida, al gusto)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "semillas de granada",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pepitas (toasted)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Guisantes dulces (cortados en trozos de 1/2 pulgada)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "queso feta (bajo en grasa)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "aceite de oliva (hasta 4 cucharadas)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Menta fresca (hojas finamente picadas y un poco más para decorar)",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "mostaza de dijon",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Vinagre de sidra de manzana",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Para preparar la vinagreta de sidra de manzana: Vierta el vinagre de sidra de manzana en un frasco pequeño con tapa o tazón; agregue una pizca generosa de sal y agite o bata para combinar. Pruebe: la acidez del vinagre debe equilibrarse un poco con el dulce; ajuste con más sal si es necesario. Agregue la mostaza de Dijon y el aceite de oliva, coloque la tapa en el frasco y agite vigorosamente (o bátalo bien en el tazón). Pruebe nuevamente y ajuste con más aceite de oliva o mostaza, a gusto. Agregue la menta recién picada justo antes de aliñar la ensalada (de lo contrario, se pondrá marrón).",
+        "Prepara la ensalada: en un bol grande, mezcla las verduras, los rábanos, los guisantes dulces, la mitad de las pepitas y la mitad de las semillas de granada. Añade unas cucharadas del aderezo y revuelve. Las verduras deben quedar apenas cubiertas por el aderezo. Prueba y sazona con pimienta negra recién molida según sea necesario. Decora con las pepitas restantes y las semillas de granada antes de servir."
+    ],
+    "tags": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "17g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "5g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/harvest-salad"
+}

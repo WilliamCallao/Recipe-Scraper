@@ -1,0 +1,95 @@
+{
+    "title": "Arroz con Pollo, Cheddar y Espárragos",
+    "keywords": "Main Dish,Dinner,Lunch",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Main Dish",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_161_Chicken_Cheddar_Rice_with_Asparagus_PNCImages_02272018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "agua",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "carne de muslo de pollo (sin hueso, sin piel, sin grasa y cortada en trozos del tamaño de un bocado)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "cebolla(s) (cortadas en cubitos)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "Arroz integral crudo (preferiblemente de la variedad sancochada)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "dientes de ajo medianos (picados)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "Granulado de caldo de pollo (sin sodio)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "hojas de tomillo (secas)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "puntas de espárragos frescos (cortados en trozos de 2 pulgadas o judías verdes cortadas a la francesa congeladas y descongeladas)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "apio",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        }
+    ],
+    "instructions": [
+        "Rocíe con aceite en aerosol una olla de cocción lenta de 3 1/2 a 4 cuartos de galón. Coloque el agua, el pollo, la cebolla, el arroz, el ajo, el caldo de pollo y el tomillo en la olla de cocción lenta. Cubra y cocine a temperatura alta durante 1 1/2 horas o a temperatura baja durante 3 horas.",
+        "Apaga el fuego. Revuelve el arroz con un tenedor. Incorpora los espárragos. Tapa y deja reposar 10 minutos. Agrega la sal y espolvorea con el queso."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Comfort Food",
+        "Main Dish",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "8g",
+        "saturated_fat": "3.5g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "460mg",
+        "total_carbohydrate": "27g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-cheddar-rice-asparagus"
+}

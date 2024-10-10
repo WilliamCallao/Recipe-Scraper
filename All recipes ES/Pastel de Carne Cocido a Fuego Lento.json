@@ -1,0 +1,106 @@
+{
+    "title": "Pastel de Carne Cocido a Fuego Lento",
+    "keywords": "Slow Cooker,Main Dish,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT6H",
+    "categories": [
+        "Slow Cooker",
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1667-diabetic-slow-cooker-meatloaf_new-soul-food-cookbook_100518_1021x779.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "huevos",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Leche al 1%",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "migas de pan secas y sazonadas",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "pimiento verde (en rodajas)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Calienta el aceite de oliva en una sartén grande a fuego medio-alto. Agrega la cebolla, el ajo y las hojuelas de pimiento rojo y cocina durante unos 5 minutos o hasta que la cebolla esté tierna.",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salvia seca",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "semillas de hinojo",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "champiñones blancos (cortados en cubitos finos)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "pavo molido magro",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "ketchup",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "azúcar morena",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "polvo de mostaza",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Salsa Worcestershire",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Combine los huevos, la leche, el pan rallado, la cebolla, la sal, la salvia, el hinojo y los hongos en un tazón grande. Desmenuce el pavo molido sobre la mezcla y revuelva bien para combinar.",
+        "Forme un pan redondo; colóquelo en una olla de cocción lenta de 5 cuartos. Cubra y cocine a fuego lento hasta que un termómetro para carne marque 165 °F, de 5 a 6 horas. (O, si lo desea, hornee en un horno a 350 °F [325 °F para un horno de convección] durante 35 a 45 minutos hasta que la carne alcance una temperatura interna de 165 °F).",
+        "Batir el ketchup, el azúcar moreno, la mostaza y la salsa Worcestershire en un bol pequeño; verter la salsa sobre el pastel de carne. Devolver a la olla de cocción lenta y cocinar a fuego lento hasta que esté bien caliente, unos 15 minutos. Dejar reposar 10 minutos antes de cortar."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Comfort Food",
+        "Slow Cooker",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "10g",
+        "saturated_fat": "3.1g",
+        "trans_fat": "0.1g",
+        "cholesterol": "135mg",
+        "sodium": "490mg",
+        "total_carbohydrate": "13g",
+        "fiber": "1g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/slow-cooked-meat-loaf"
+}

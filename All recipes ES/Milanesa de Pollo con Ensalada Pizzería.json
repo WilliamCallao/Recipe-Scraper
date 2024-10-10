@@ -1,0 +1,119 @@
+{
+    "title": "Milanesa de Pollo con Ensalada Pizzería",
+    "keywords": "Dinner,Main Dish,Meal Kit Recipes,Foodie",
+    "prep_time": "PT20M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Main Dish",
+        "Meal Kit Recipes",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1979-diabetic-Chicken-Milanese_Blue-Apron_092320.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "lechuga romana",
+            "us_amount": "2 hearts",
+            "metric_amount": "2 hearts"
+        },
+        {
+            "name": "tomates uva",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "cebolletas",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "aceitunas castelvetrano",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "pepino persa",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Queso Grana Padano",
+            "us_amount": "3/4 oz",
+            "metric_amount": "21 ml"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel",
+            "us_amount": "4 (6-oz) breasts",
+            "metric_amount": "4 (6-oz) breasts"
+        },
+        {
+            "name": "harina",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "pan rallado panko",
+            "us_amount": "1 1/4 cup",
+            "metric_amount": "296 ml"
+        },
+        {
+            "name": "huevo",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "semillas de sésamo",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "aceite de oliva (uso dividido)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "mayonesa",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "vinagre de jerez",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Orégano seco",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "floretes de brócoli",
+        "Golpear y rebozar el pollo: secarlo con papel de cocina. Colocarlo entre dos hojas de film transparente sobre una superficie de trabajo resistente. Con la base de una sartén pesada (o un mazo para carne), golpear el pollo hasta que tenga un grosor de ¼ de pulgada. Quitar el film transparente. Sazonar con sal (opcional) y pimienta por ambos lados. Colocar la harina y el pan rallado en dos platos grandes separados; sazonar cada uno con sal (opcional) y pimienta. Romper el huevo en un bol grande; añadir 2 cucharadas de agua y batir hasta que quede suave. Trabajar un trozo a la vez, cubrir bien el pollo sazonado con la harina sazonada (quitar el exceso), luego con el huevo batido (dejando que el exceso se escurra) y luego con el pan rallado sazonado (presionando para que se adhiera). Transferir a un plato aparte.",
+        "Cocine el pollo: En una sartén grande (antiadherente, si tiene una), caliente 2 cucharadas de aceite de oliva a fuego medio hasta que esté caliente. Trabajando en tandas si es necesario, agregue el pollo empanizado en una capa uniforme. Cocine de 4 a 6 minutos por lado, o hasta que esté dorado y bien cocido.* Transfiera a un plato aparte, forrado con toallas de papel; sazone inmediatamente con sal. *Un termómetro de lectura instantánea debe registrar 165 °F.",
+        "Prepara el aderezo: Mientras tanto, en un bol, mezcla la mayonesa, el vinagre, el orégano y 1 cucharada de aceite de oliva. Sazona con sal (opcional) y pimienta.",
+        "Prepare la ensalada y sirva el plato: justo antes de servir, agregue el aderezo al bol de verduras preparadas; revuelva para cubrir. Sirva el pollo cocido cubierto con la ensalada. Adorne con el queso rallado. ¡Disfrute!"
+    ],
+    "tags": [
+        "Italian",
+        "Dinner",
+        "Main Dish",
+        "Meal Kit Recipes",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "580",
+        "total_fat": "30g",
+        "saturated_fat": "5g",
+        "trans_fat": "0g",
+        "cholesterol": "200mg",
+        "sodium": "480mg",
+        "total_carbohydrate": "32g",
+        "fiber": "6g",
+        "sugar": "5g",
+        "added_sugar": "1g",
+        "protein": "47g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-milanese-pizzeria-salad"
+}

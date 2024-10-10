@@ -1,0 +1,133 @@
+{
+    "title": "Pollo con Albóndigas",
+    "keywords": "Budget Friendly,Dinner,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_155_ChickenDumplings_149015324_050118.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "harina de trigo integral",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "harina para todo uso",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "bicarbonato",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Levadura en polvo",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "salvia molida",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sal (opcional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Yogur griego natural sin grasa (sin grasa)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "agua fría",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cebolla mediana (cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zanahoria(s) (cortadas en cubitos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Sal y pimienta al gusto (opcional; la sal agregada no está incluida en la información nutricional)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "Champiñones blancos (en rodajas)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "pechugas de pollo (sin hueso, sin piel, cortadas en cubitos)",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        },
+        {
+            "name": "Caldo de pollo bajo en sodio (sin grasa, bajo en sodio)",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        }
+    ],
+    "instructions": [
+        "Termina de preparar la salsa y sirve el plato. Agrega la salsa (con cuidado, ya que el líquido puede salpicar) y las hojas de salvia cortadas en rodajas a la sartén con la manzana cocida. Sazona con sal (opcional) y pimienta. Cocina a fuego medio-alto, revolviendo con frecuencia, durante 30 segundos a 1 minuto, o hasta que la manzana esté completamente cubierta. Apaga el fuego. Sirve el pollo cocido con las verduras asadas. Cubre el pollo con la salsa terminada y la manzana. ¡Disfruta!",
+        "Agrega aceite de oliva y aceite de cocina en aerosol a una olla grande a fuego medio alto. Agrega la cebolla, las zanahorias, el apio y los hongos. Saltea durante 5 a 7 minutos o hasta que las verduras se ablanden.",
+        "En un bol pequeño, combine la espinaca, el ajo, el comino, el cilantro, la pimienta, el queso cheddar y el queso parmesano; mezcle hasta que se integren. Agregue el pollo desmenuzado; mezcle hasta que se integren.",
+        "Extiende la masa hasta formar un disco de 20 cm y 1,25 cm de grosor. Córtala en trozos de 2,5 cm y coloca los dumplings en el caldo hirviendo. Revuelve con frecuencia hasta que se hayan incorporado todos los dumplings.",
+        "Cocine a fuego lento los dumplings durante 10 minutos y sirva."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Kid Friendly",
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "315",
+        "total_fat": "5g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "100mg",
+        "sodium": "460mg",
+        "total_carbohydrate": "31g",
+        "fiber": "4g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "36g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-and-dumplings"
+}

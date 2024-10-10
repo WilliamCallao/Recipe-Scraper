@@ -1,0 +1,98 @@
+{
+    "title": "Rollitos de Lechuga con Salsa de Frijoles Negros y Mango",
+    "keywords": "Snacks,Vegetarian,Dinner,Foodie,Gluten-Free,Lunch,No Cook,Salads",
+    "prep_time": "PT10M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Snacks",
+        "Vegetarian",
+        "Dinner",
+        "Foodie",
+        "Gluten-Free",
+        "Lunch",
+        "No Cook",
+        "Salads"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_87_Black_Bean_and_Mango_Salsa_Lettuce_Wraps_MG_8635-Edit-%28ZF-5661-35964-1-147%29_02262018.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "frijoles negros (enjuagados y escurridos)",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "mango (pelado, cortado en cubitos y exprimido hasta que suelte 1 cucharada de jugo)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Margarina sin grasas trans (en cubitos)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "chile jalapeño mediano (sin semillas y picado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Pimiento rojo grande (sin semillas y cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "vinagre de vino tinto",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Pollo cocido (picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Miel o 2 paquetes de edulcorante artificial",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lechuga mantecosa (hojas de lechuga mantecosa)",
+            "us_amount": "10",
+            "metric_amount": "10"
+        }
+    ],
+    "instructions": [
+        "Combine todos los ingredientes en un recipiente mediano, excepto la lechuga. Refrigere durante al menos una hora o hasta dos días para marinar (cuanto más tiempo, mejor).",
+        "Si usa hojas de lechuga mantecosa, colóquelas en un plato grande y rellene cada una con 1/4 de taza de la mezcla de ensalada.",
+        "Sugerencia de presentación alternativa: use jícama en lugar de lechuga para el recipiente para servir. Pele la jícama y córtela en rodajas de 1/4 de pulgada de grosor, luego corte las rodajas en triángulos (octavos) para que parezcan chips de tortilla. Sirva como chips y salsa usando los “chips” de jícama cruda en lugar de chips de tortilla."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Low Sodium",
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Snacks",
+        "Vegetarian",
+        "Dinner",
+        "Foodie",
+        "Gluten-Free",
+        "Lunch",
+        "No Cook",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "65mg",
+        "total_carbohydrate": "27g",
+        "fiber": "6g",
+        "sugar": "14g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/black-bean-and-mango-salsa-lettuce-wraps"
+}

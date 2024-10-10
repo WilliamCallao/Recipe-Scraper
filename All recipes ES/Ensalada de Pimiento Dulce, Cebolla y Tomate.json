@@ -1,0 +1,109 @@
+{
+    "title": "Ensalada de Pimiento Dulce, Cebolla y Tomate",
+    "keywords": "Lunch,Salads,Sides",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Salads",
+        "Sides"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/may_sweet_pepper_onion-_tomato_279x200_1.jpg",
+        "Onion and Tomato Salad\" loading=\"lazy\" />"
+    ],
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "vinagre de sidra",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ajo (en rodajas)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "azúcar",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ketchup",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Salsa Worcestershire",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "jugo de lima fresco",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "En un bol, combine las manzanas, el batido Smart Balance derretido, el azúcar moreno Splenda, la nuez moscada molida y la sal. Mezcle bien.",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "pimiento morrón grande (de cualquier color, cortado en aros finos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Maicena",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "2",
+            "metric_amount": "2"
+        }
+    ],
+    "instructions": [
+        "Combine todos los ingredientes excepto el pimiento, la cebolla y el tomate y mezcle bien.",
+        "Vierta el aderezo sobre las verduras y revuelva. Cubra y refrigere durante varias horas o durante la noche, revolviendo ocasionalmente."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Lunch",
+        "Salads",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "65",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "140mg",
+        "total_carbohydrate": "9g",
+        "fiber": "2g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-pepper-onion-and-tomato-salad"
+}

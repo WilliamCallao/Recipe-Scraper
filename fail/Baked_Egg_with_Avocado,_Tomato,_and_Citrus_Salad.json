@@ -1,0 +1,95 @@
+{
+    "title": "Baked Egg with Avocado, Tomato, and Citrus Salad",
+    "keywords": "Breakfast and Brunch,Vegetarian,Quick & Easy,Cooking for 1 or 2",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Breakfast and Brunch",
+        "Vegetarian",
+        "Quick & Easy",
+        "Cooking for 1 or 2"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/062-diabetic-baked-egg-avocado-tomato_AdobeStock_338490364_121420.jpg",
+        "Tomato",
+        "and Citrus Salad\" loading=\"lazy\" />"
+    ],
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "canola oil (divided)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "lime juice",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "Kosher Salt",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "black pepper (cracked)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Hass avocado (cubed)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "large tomato (thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "red onion (peeled and thinly sliced)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "cilantro (finely chopped)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 400°F.",
+        "Crack each egg into a separate bowl without breaking the yolks. Set aside.",
+        "Preheat small ovenproof pan and add 1 Tsp. canola oil. Add eggs, and immediately transfer pan to the oven. Cook for about 2-5 minutes, or until eggs reach desired doneness.",
+        "In a small bowl add remaining canola oil, lime juice, salt and pepper, and whisk ingredients together to create the dressing. Add avocado, tomato, red onion and cilantro to the dressing and toss.",
+        "Remove eggs from oven. Plate salad ingredients first and top with the eggs. Serve."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Mexican/Southwestern",
+        "Latin American",
+        "Breakfast and Brunch",
+        "Vegetarian",
+        "Quick & Easy",
+        "Cooking for 1 or 2"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "8g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "185mg",
+        "sodium": "80mg",
+        "total_carbohydrate": "11g",
+        "fiber": "4g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/baked-egg-avocado-tomato-and-citrus-salad"
+}

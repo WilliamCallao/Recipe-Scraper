@@ -1,0 +1,109 @@
+{
+    "title": "Pasta de Verduras de Verano Baja en Carbohidratos",
+    "keywords": "Main Dish,Dinner,Lunch,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Main Dish",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/2024-10/dfh_blog_1.png",
+        "broccoli",
+        "and asparagus for a low carb diabetic friendly diet\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Tomates cherry (preferiblemente amarillos)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "espárragos (trozos de 1 pulgada con los extremos leñosos recortados)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "brócoli (floretes)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "Fideos de calabacín (de la sección de congelados)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "jengibre fresco rallado",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "Ralladura de limón",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "albahaca fresca (en rodajas finas)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Perejil fresco (picado finamente)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Ponga a hervir una olla grande con agua.",
+        "Mientras tanto, pon una sartén grande a fuego medio alto y añade aceite de oliva. Cuando esté caliente, añade los tomates.",
+        "cilantro (picado)",
+        "Baja el fuego y añade el ajo. Cocina hasta que desprenda un aroma agradable (aproximadamente 1 minuto). Retira los tomates y el ajo del fuego y colócalos en un bol grande. Reserva la sartén para usarla más tarde; no es necesario limpiarla todavía.",
+        "zumo de lima",
+        "Cocine el paquete de espirales de calabacín según las instrucciones de cocción y reserve.",
+        "albaricoques secos (unas 7 u 8 piezas)",
+        "Vuelva a calentar una sartén grande a fuego medio alto. Agregue las verduras, las espirales de calabacín, la mezcla de requesón y el jugo de limón. Revuelva para combinar y cocine hasta que esté caliente y todo esté cubierto con la salsa de queso (aproximadamente 5 minutos)."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Italian",
+        "American",
+        "Main Dish",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "5g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "15g",
+        "fiber": "5g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/low-carb-summer-vegetable-pasta"
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Baked Apple Chips",
+    "keywords": "Easy Pantry Recipes,Vegan,Snacks,Vegetarian,Gluten-Free",
+    "prep_time": "PT10M",
+    "cook_time": "PT2H",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Vegan",
+        "Snacks",
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/057-diabetic-Baked-Apple-Chips_495760147_050118.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Parchment Paper",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "medium apples (Honeycrisp or another sweeter apple)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "ground cinnamon",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 200 degrees F. Lay the parchment paper on one large or two medium baking sheets.",
+        "Using a mandolin or knife, thinly slice the apples to make round chips. Discard the seeds.",
+        "Lay the apple slices on the prepared baking sheets without overlapping. Sprinkle the cinnamon over apples.",
+        "Bake for 1 hour, then flip the apples. Continue baking for 1-2 hours, flipping occasionally, until the apple slices are no longer moist. Let cool completely and then store in airtight container."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Dialysis",
+        "Low Sodium",
+        "Kid Friendly",
+        "Easy Pantry Recipes",
+        "Vegan",
+        "Snacks",
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "13g",
+        "fiber": "2g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/baked-apple-chips"
+}

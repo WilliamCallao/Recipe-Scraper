@@ -1,0 +1,90 @@
+{
+    "title": "Portobellos Rellenos de Espinaca y Alcachofa",
+    "keywords": "Vegetarian,Main Dish,Holidays & Entertaining,Appetizers",
+    "prep_time": "PT10M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Vegetarian",
+        "Main Dish",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recipe%20Size%20%282%29_1.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Hongos Portobello (tallos quitados y láminas raspadas)",
+            "us_amount": "8 large",
+            "metric_amount": "8 large"
+        },
+        {
+            "name": "queso parmesano recién rallado",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "cebolla amarilla (cortada en cubitos pequeños)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "espinacas congeladas (descongeladas, escurridas y exprimidas)",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "piñones (tostados)",
+            "us_amount": "4 oz or 1/2 cup",
+            "metric_amount": "4 oz or 1/2 cup"
+        },
+        {
+            "name": "queso crema sin grasa",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "queso mozzarella (rallado)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        }
+    ],
+    "instructions": [
+        "Añade el agua, el caldo, las lentejas, la sal, la pimienta y la hoja de laurel. Lleva a ebullición; reduce el fuego y deja cocinar a fuego lento durante 1 hora.",
+        "Incorpore las espinacas, las alcachofas, el queso crema y el caldo o el agua hasta que las espinacas estén cremosas y suaves.",
+        "Mientras tanto, calienta una sartén grande a fuego medio. Agrega el resto del aceite, el ajo y la cebolla. Cocina, revolviendo de vez en cuando, hasta que la cebolla se ablande, durante 3 a 4 minutos.",
+        "Coloque los champiñones en el horno y hornéelos durante 10 minutos.",
+        "Precaliente el horno a 400 grados F y cubra una bandeja para hornear con papel de aluminio. Coloque los hongos con el tallo hacia abajo y pincele con 1 cucharada de aceite."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Veggie Rich",
+        "Vegetarian",
+        "Main Dish",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "12g",
+        "saturated_fat": "3.9g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "420mg",
+        "total_carbohydrate": "16g",
+        "fiber": "4g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spinach-artichoke-stuffed-portobellos"
+}

@@ -1,0 +1,101 @@
+{
+    "title": "Quinoa con Pimiento Rojo",
+    "keywords": "Vegetarian,Vegan,Sides,Gluten-Free,Dinner,Lunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Gluten-Free",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1706-Red-Pepper-Quinoa_Diabetes-Superfoods-Cookbook_010319.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "quinua tricolor",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Añade el caldo, el jengibre y la sal a una cacerola grande y deja hervir a fuego alto.",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cebolla picada",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "pimiento rojo picado",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "col rizada",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "frijoles cannellini (escurridos y enjuagados)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "79 ml"
+        },
+        {
+            "name": "nueces",
+            "us_amount": "1/3 cup",
+            "metric_amount": "79 ml"
+        },
+        {
+            "name": "vino blanco para cocinar o jugo de limón",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Cocine la quinua en agua según las instrucciones del paquete, omitiendo la sal agregada.",
+        "Mientras se cocina la quinoa, saltee la cebolla, el ajo y el pimiento rojo a fuego medio-alto en aceite de oliva durante unos 10 minutos. Agregue la col rizada y los frijoles y continúe salteando hasta que la col rizada se ablande, unos 5 minutos más.",
+        "Vierta los frijoles sobre papel pergamino y deje enfriar durante 20 minutos."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Gluten-Free",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "8g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "20mg",
+        "total_carbohydrate": "21g",
+        "fiber": "4g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/red-pepper-quinoa"
+}

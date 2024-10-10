@@ -1,0 +1,77 @@
+{
+    "title": "Bistec a la Parrilla con Champiñones",
+    "keywords": "Cooking for 1 or 2,Main Dish,Lunch,Gluten-Free,Dinner,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Main Dish",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/292-diabetic-grilled-steak-mushrooms_AdobeStock37487708_012121.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "filetes de solomillo (de 4 onzas cada uno (1 1/2 pulgada de grosor))",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "pimienta negra molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "margarina (sin grasas trans)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "champiñones en rodajas",
+            "us_amount": "1 pints",
+            "metric_amount": "480 ml"
+        }
+    ],
+    "instructions": [
+        "tomates cherry (cortados por la mitad)",
+        "levadura seca activa",
+        "Coloque los filetes en la parrilla a fuego alto directo y dore cada lado durante 1 o 2 minutos por lado. Reduzca el fuego a medio y cocine durante 18 a 23 minutos o hasta que esté listo según su preferencia (dándoles la vuelta una vez). Transfiera el filete a un plato y cúbralo con papel de aluminio; deje reposar durante 5 minutos antes de servir.",
+        "En una sartén mediana, calienta la margarina a fuego medio-alto. Agrega los hongos y saltéalos durante 5 a 6 minutos hasta que estén tiernos."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Veggie Rich",
+        "Grilling",
+        "Cooking for 1 or 2",
+        "Main Dish",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "10g",
+        "saturated_fat": "3.1g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "90mg",
+        "total_carbohydrate": "2g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "23g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-steak-mushrooms"
+}

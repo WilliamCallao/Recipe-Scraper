@@ -1,0 +1,124 @@
+{
+    "title": "Sopa Griega de Frijoles y Verduras",
+    "keywords": "Dinner,Quick & Easy,Vegetarian,Main Dish,Lunch,Cooking for 1 or 2",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Dinner",
+        "Quick & Easy",
+        "Vegetarian",
+        "Main Dish",
+        "Lunch",
+        "Cooking for 1 or 2"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/263-GreekBeanVegSoup_482457389_050318.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla(s) (congelada picada)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "calabacines (en rodajas)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "apio (en rodajas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "caldo de verduras bajo en sodio (bajo en sodio)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Calentar en microondas durante 1 minuto a 1 minuto y 30 segundos. Servir con frambuesas frescas.",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "Tomates enteros enlatados (bajos en sodio, sin azúcar añadido, escurridos)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "espinacas listas para comer",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "Prepara las verduras: Mientras tanto, corta las patatas en rodajas de 1,25 cm de grosor. Corta y desecha el 1,25 cm inferior del tallo del brócoli; corta el brócoli en floretes pequeños.",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "dientes de ajo",
+            "us_amount": "1 1/4 tsp",
+            "metric_amount": "6 g"
+        },
+        {
+            "name": "queso feta (bajo en grasa, desmenuzado, aproximadamente 3 cucharadas)",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "pistachos (sin cáscara, sin sal añadida, tostados en seco, picados en trozos grandes)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pan integral (bajo en sodio)",
+            "us_amount": "2 slice",
+            "metric_amount": "2 slice"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite en una cacerola grande a fuego medio-alto. Agrega la cebolla, el calabacín, el apio y el ajo. Cocina durante 2 a 3 minutos, hasta que las verduras se ablanden.",
+        "Añade el caldo de verduras, el agua, los frijoles y los tomates. Rompe los tomates con el borde de una cuchara de cocina. Lleva la sopa a hervor lento y cocina durante 5 minutos.",
+        "Añade la espinaca y el tomillo. Cocina durante 1 minuto aproximadamente, hasta que la espinaca se ablande. Añade la pimienta negra. Sirve la sopa en 2 tazones y espolvorea con el queso feta y los pistachos. Sirve el pan a un lado."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Mediterranean",
+        "Comfort Food",
+        "Dinner",
+        "Quick & Easy",
+        "Vegetarian",
+        "Main Dish",
+        "Lunch",
+        "Cooking for 1 or 2"
+    ],
+    "nutrition": {
+        "calories": "420",
+        "total_fat": "15g",
+        "saturated_fat": "3.1g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "470mg",
+        "total_carbohydrate": "57g",
+        "fiber": "14g",
+        "sugar": "13g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/greek-bean-and-vegetable-soup"
+}

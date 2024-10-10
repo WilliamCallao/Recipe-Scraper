@@ -1,0 +1,99 @@
+{
+    "title": "Salsa Casi Suave",
+    "keywords": "Gluten-Free,Holidays & Entertaining,Quick & Easy,Salad Dressings & Condiments,Sauces,Snacks,Vegan,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Salad Dressings & Condiments",
+        "Sauces",
+        "Snacks",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1911-diabetic-almost-smooth-salsa_create-your-plate_022020.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "Tomates roma (ciruela) (cortados en cubitos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Semillas de sésamo tostadas",
+            "us_amount": "1/4",
+            "metric_amount": "1/4"
+        },
+        {
+            "name": "En una olla grande, agrega la leche de almendras y ponla a hervir a fuego alto. Reduce el fuego a medio-bajo y agrega las perlas, revolviendo continuamente para mantenerlas separadas. Agrega el azúcar de palma y la sal y continúa cocinando hasta que las perlas se vuelvan completamente transparentes, aproximadamente 30 minutos.",
+            "us_amount": "1/4",
+            "metric_amount": "1/4"
+        },
+        {
+            "name": "En una licuadora, combine todos los ingredientes y haga puré hasta que quede suave.",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "cilantro fresco picado",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "tocino (magro)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Agrega los tomates, el pimiento morrón, la cebolla, el jalapeño y el cilantro a un tazón mediano. Agrega el jugo de limón, el aceite de oliva, la sal y la pimienta negra. Revuelve para cubrir uniformemente.",
+        "Utilizando una licuadora de inmersión, licúe hasta que quede casi suave, dejando algunos trozos en la salsa."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Mexican/Southwestern",
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Salad Dressings & Condiments",
+        "Sauces",
+        "Snacks",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "15",
+        "total_fat": "1g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "45mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/almost-smooth-salsa"
+}

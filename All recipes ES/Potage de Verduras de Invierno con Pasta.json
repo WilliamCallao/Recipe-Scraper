@@ -1,0 +1,101 @@
+{
+    "title": "Potage de Verduras de Invierno con Pasta",
+    "keywords": "Lunch,One Pot,Soup",
+    "prep_time": "PT20M",
+    "cook_time": "PT60M",
+    "categories": [
+        "Lunch",
+        "One Pot",
+        "Soup"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/winter-vegetable-potage-with-pasta-Dec14.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "cebollino fresco (picado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "macarrones con codo",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "colinabo (pelado y cortado en cubitos)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "repollo (rallado)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio",
+            "us_amount": "5 cup",
+            "metric_amount": "1 l 183 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "bulbo de hinojo (cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "cebolla(s) (cortadas en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "En una cacerola grande, calienta el aceite de oliva a fuego medio-alto. Agrega las cebollas y saltea durante 4 minutos. Agrega las zanahorias y el hinojo y sazona con sal y pimienta negra. Saltea durante 3 minutos. Agrega el ajo y saltea durante 1 minuto.",
+        "Estira cada círculo de masa hasta que tenga un grosor de 1/4 de pulgada. Agrega 1/8 del relleno (aproximadamente 1/2 taza) a cada círculo. Dóblalo para formar un calzone y presiona los bordes para sellar. Repite este proceso para los 8 bollitos restantes y colócalos en la bandeja para hornear."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Comfort Food",
+        "French",
+        "Lunch",
+        "One Pot",
+        "Soup"
+    ],
+    "nutrition": {
+        "calories": "95",
+        "total_fat": "2g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "475mg",
+        "total_carbohydrate": "16g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/winter-vegetable-potage-pasta"
+}

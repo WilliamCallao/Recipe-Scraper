@@ -1,0 +1,107 @@
+{
+    "title": "Ensalada de Pollo Asado y Rúcula",
+    "keywords": "Salads,Main Dish,Budget Friendly,Lunch,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Salads",
+        "Main Dish",
+        "Budget Friendly",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_449_Roasted_Chicken_and_Arugula_Salad_02282018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pechugas de pollo con hueso y piel",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "condimento multiusos (como el condimento Mrs. Dash o Salt-Free Spike, sin sal)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla amarilla (en rodajas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Mezcla la mostaza y la miel en un bol pequeño. Cuando los brotes estén listos, agrégalos a un bol para servir. Agrega la mezcla de mostaza y miel y revuelve bien. Sirve de inmediato.",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "mostaza de dijon",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "tahini",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "rábano",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "batatas (5 onzas cada una, peladas y cortadas en cubos medianos)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        },
+        {
+            "name": "vinagre de vino tinto",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "pasas doradas",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Sazona las pechugas de pollo con sal.",
+        "alcachofas frescas",
+        "En una ensaladera grande, mezcle el vinagre balsámico, el ajo, la mostaza de Dijon, la miel, el aceite de oliva, la sal (opcional) y la pimienta.",
+        "cebolla dulce grande (cortada en cubitos)",
+        "Mezcle el pollo, la rúcula, la cebolla y las pasas doradas con el aderezo y sirva.",
+        "tomillo fresco"
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Salads",
+        "Main Dish",
+        "Budget Friendly",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "320",
+        "total_fat": "11g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "480mg",
+        "total_carbohydrate": "18g",
+        "fiber": "1g",
+        "sugar": "13g",
+        "added_sugar": "0g",
+        "protein": "36g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-chicken-and-arugula-salad"
+}

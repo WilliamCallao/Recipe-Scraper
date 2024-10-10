@@ -1,0 +1,75 @@
+{
+    "title": "Salsa de Tomate Fresca",
+    "keywords": "Sauces",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Sauces"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/018-diabetic-Fresh-Tomato-Sauce_Italian-diabetes-cookbook_Thinkstock-03012018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva (virgen extra)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ajo (finamente picado)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "sal marina (sin refinar)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra (recién molida)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Tomates roma (ciruela) (frescos, aproximadamente 2-2 1/2 lb)",
+            "us_amount": "10",
+            "metric_amount": "10"
+        },
+        {
+            "name": "albahaca o perejil, o una combinación (finamente picado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Pele los tomates haciendo cortes en la piel de cada uno con un cuchillo afilado desde la parte superior hasta aproximadamente 1/4 de la altura, en forma de “x”. Luego coloque los tomates marcados en una olla llena de agua hirviendo y hierva hasta que la piel comience a agrietarse, aproximadamente 2 minutos.",
+        "Saque los tomates y sumérjalos en agua helada. Cuando los tomates estén lo suficientemente fríos como para tocarlos, pélelos. Si desea una salsa espesa, corte los tomates en dados y déjelos a un lado. Si desea una salsa suave, pase los tomates por un pasapurés para crear un puré sin semillas.",
+        "Calienta el aceite de oliva en una cacerola grande a fuego medio. Cuando esté caliente, agrega el ajo y las hojuelas de chile rojo machacadas. Cocina hasta que el ajo comience a soltar su aroma.",
+        "Añade los tomates, la sal, la pimienta y la albahaca o el perejil. Revuelve bien para mezclar, tapa y reduce el fuego. Deja cocinar a fuego lento durante 20 minutos.",
+        "Sirva la salsa inmediatamente o deje que se enfríe a temperatura ambiente antes de guardarla. Esta salsa se puede conservar en un recipiente hermético en el refrigerador durante una semana o en el congelador durante un mes."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "Italian",
+        "Sauces"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "60mg",
+        "total_carbohydrate": "10g",
+        "fiber": "3g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fresh-tomato-sauce"
+}

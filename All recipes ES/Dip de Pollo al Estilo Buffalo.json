@@ -1,0 +1,69 @@
+{
+    "title": "Dip de Pollo al Estilo Buffalo",
+    "keywords": "Appetizers,Holidays & Entertaining,Snacks",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2048-diabetic-buffalo-Chicken-Dip_DaVita_040821.jpg",
+    "servings": "16 Servings",
+    "ingredients": [
+        {
+            "name": "pimientos rojos asados ​​(escurridos)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Mezcla los frijoles refritos sin grasa con el caldo de pollo y vierte sobre las tortillas horneadas.",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "crema agria baja en grasa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "salsa picante",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Pollo desmenuzado cocido",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 475 grados F. Cubra una bandeja para hornear con aceite en aerosol y reserve.",
+        "En un recipiente mediano, mezcle el queso crema y la crema agria hasta que quede una mezcla homogénea. Agregue los pimientos hechos puré y 2 cucharaditas de salsa Tabasco. Revuelva hasta que se integren. Agregue el pollo y mezcle suavemente. Pruebe y agregue más salsa picante si lo desea.",
+        "Coloque la mezcla en una olla de cocción lenta durante 2 a 3 horas a fuego lento, o hornee en el horno a 350° F durante 30 minutos.",
+        "Sirva la salsa tibia con zanahorias, apio, pepino o coliflor para mojar, o haga mini rollitos envolviendo la salsa dentro de hojas de lechuga o repollo."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "85",
+        "total_fat": "6g",
+        "saturated_fat": "3g",
+        "trans_fat": "0.1g",
+        "cholesterol": "30mg",
+        "sodium": "110mg",
+        "total_carbohydrate": "2g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/buffalo-chicken-dip"
+}

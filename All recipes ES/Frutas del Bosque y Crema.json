@@ -1,0 +1,65 @@
+{
+    "title": "Frutas del Bosque y Crema",
+    "keywords": "Vegetarian,Snacks,Dessert,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Snacks",
+        "Dessert",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_83_Berries_and_Cream_PNCImages_MG_9700-Edit-%28ZF-5661-35964-1-067%2902262018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Pudin de vainilla sin azúcar ((preparado con leche descremada))",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cobertura batida ligera (descongelada)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "arándanos",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "fresas (en rodajas)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "En un tazón pequeño, mezcle el pudín y la crema batida.",
+        "En un bol pequeño, mezcle los arándanos y las fresas. Para cada porción, coloque 1 taza de bayas en un vaso para parfait o jugo y cubra con 2 cucharadas y media de la mezcla para pudín."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Comfort Food",
+        "Kid Friendly",
+        "Vegetarian",
+        "Snacks",
+        "Dessert",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "1g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "95mg",
+        "total_carbohydrate": "19g",
+        "fiber": "3g",
+        "sugar": "13g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/berries-and-cream"
+}

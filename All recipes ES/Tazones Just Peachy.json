@@ -1,0 +1,75 @@
+{
+    "title": "Tazones Just Peachy",
+    "keywords": "Dessert,Quick & Easy,Vegetarian",
+    "prep_time": "PT8M",
+    "cook_time": "PT3M",
+    "categories": [
+        "Dessert",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_755_Peachy%20Bowl_AllNaturalCookbook_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Yogur griego (natural sin grasa)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "extracto puro de vainilla",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Melocotones grandes completamente maduros (cortados por la mitad, sin hueso ni tallo)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Miel o 2 paquetes de edulcorante artificial",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "20",
+            "metric_amount": "20"
+        }
+    ],
+    "instructions": [
+        "sal",
+        "Rocíe el lado cortado de las mitades de durazno con aceite en aerosol y coloque los duraznos con el lado cortado hacia abajo sobre una parrilla caliente. Áselos hasta que comiencen a formarse marcas de parrilla y los duraznos estén bien calientes, de 2 a 3 minutos.",
+        "Coloque cada mitad de durazno en un plato pequeño, con el lado cortado hacia arriba. Cubra cada mitad con la mezcla de yogur, almendras y menta, y sirva."
+    ],
+    "tags": [
+        "Grilling",
+        "Dessert",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "2g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "20mg",
+        "total_carbohydrate": "13g",
+        "fiber": "2g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/just-peachy-bowls"
+}

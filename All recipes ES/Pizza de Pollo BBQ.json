@@ -1,0 +1,111 @@
+{
+    "title": "Pizza de Pollo BBQ",
+    "keywords": "Holidays & Entertaining,Main Dish,Dinner,Lunch,Budget Friendly",
+    "prep_time": "PT25M",
+    "cook_time": "PT50M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Main Dish",
+        "Dinner",
+        "Lunch",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_76_BBQ_Chicken_Pizza_iStock-484653761_02262018.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pechuga de pollo deshuesada y sin piel",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "mermelada de albaricoque sin azúcar",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salsa de barbacoa",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salsa picante",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Masa de pizza de trigo integral preenvasada de 12 pulgadas",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zanahorias ralladas",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Cebolla roja mediana (cortada en rodajas finas)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "queso estilo italiano rallado bajo en grasa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Orégano seco",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375 grados F. Rocíe una bandeja para hornear con aceite en aerosol.",
+        "Sazona el pollo con sal y pimienta por ambos lados.",
+        "Tomates uva (cortados a lo largo en cuartos)",
+        "En una cacerola pequeña, combine la mermelada de albaricoque sin azúcar, la salsa barbacoa y la salsa picante. Lleve a ebullición.",
+        "Vierta la salsa sobre la masa de pizza. Cubra la masa con el pollo cocido, la cebolla cortada en rodajas, la zanahoria y el queso. Espolvoree el queso con el orégano seco.",
+        "Hornee la pizza durante 20-25 minutos o hasta que el queso se derrita y burbujee."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Italian",
+        "Comfort Food",
+        "Holidays & Entertaining",
+        "Main Dish",
+        "Dinner",
+        "Lunch",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "3.5g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "400mg",
+        "total_carbohydrate": "23g",
+        "fiber": "4g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/bbq-chicken-pizza"
+}

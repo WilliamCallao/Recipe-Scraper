@@ -1,0 +1,99 @@
+{
+    "title": "Sándwich de Pollo a la Parrilla con Cobertura de Aceitunas y Rúcula",
+    "keywords": "Dinner,Lunch,Main Dish,Quick & Easy,Sandwiches",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Sandwiches"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_726_2Step_GrilledChickenSandwichwithOlieArugulaTopping_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pechugas de pollo (deshuesadas, chuletas finas, enjuagadas y secadas)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "hojas de albahaca fresca (secas)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Fresas frescas (en rodajas, para la cobertura)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta roja cayena molida",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Pan italiano multigrano (cortado por la mitad a lo largo)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "Rúcula envasada o verduras de primavera",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "aceite vegetal",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Aceitunas Kalamata (sin hueso y picadas en trozos grandes)",
+            "us_amount": "16",
+            "metric_amount": "16"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel",
+            "us_amount": "2 1/2 tbsp",
+            "metric_amount": "37 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta una sartén grande a fuego medio-alto. Rocía el pollo con aceite en aerosol y espolvorea con albahaca, cebolla en polvo y hojuelas de pimienta. Cocina durante 5 minutos de cada lado o hasta que ya no esté rosado en el centro.",
+        "Mientras tanto, combine los ingredientes de la cobertura en un recipiente mediano. Coloque el pollo sobre la mitad inferior del pan, cubra con la mezcla de rúcula, cubra con el resto del pan y corte en cuatro secciones."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Grilling",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Sandwiches"
+    ],
+    "nutrition": {
+        "calories": "365",
+        "total_fat": "14g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "420mg",
+        "total_carbohydrate": "27g",
+        "fiber": "5g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "32g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-chicken-sandwich-olive-arugula-topping"
+}

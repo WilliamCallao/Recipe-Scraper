@@ -1,0 +1,105 @@
+{
+    "title": "Horno de Pollo, Coles de Bruselas y Champiñones con Queso",
+    "keywords": "Budget Friendly,Dinner,Lunch,Main Dish,Quick & Easy,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/cheesy-chicken-brussel-sprouts-mushroom-bake.jpg",
+        "Brussel Sprouts & Mushroom Bake\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva (virgen extra)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cebolla amarilla (pequeña, cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "coles de Bruselas frescas (recortadas y cortadas por la mitad)",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        },
+        {
+            "name": "pechugas de pollo (cortadas en trozos del tamaño de un bocado)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "pimiento rojo (cortado en cubitos pequeños)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "condimento italiano",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Rallar la coliflor con un rallador y mezclar con el perejil y la menta.",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pechugas de pollo (sin hueso y sin piel)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Aceite de oliva en aerosol para cocinar",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "queso mozzarella (rallado)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Queso parmesano (recién rallado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375 grados F.",
+        "Calienta una sartén grande apta para horno a fuego medio y agrega aceite de oliva. Agrega la cebolla, las coles de Bruselas, el pollo, los hongos, el condimento italiano, la sal y la pimienta. Cocina, revolviendo ocasionalmente, hasta que las verduras estén tiernas y el pollo esté casi cocido, aproximadamente 10 minutos.",
+        "Retirar del fuego, rociar con crema espesa y cubrir con los quesos.",
+        "Coloque la sartén en el horno y hornee hasta que el queso burbujee, 10 a 15 minutos."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "340",
+        "total_fat": "15g",
+        "saturated_fat": "4.9g",
+        "trans_fat": "0.1g",
+        "cholesterol": "80mg",
+        "sodium": "540mg",
+        "total_carbohydrate": "19g",
+        "fiber": "6g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "35g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cheesy-chicken-brussel-sprouts-mushroom-bake"
+}

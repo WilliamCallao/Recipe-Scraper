@@ -1,0 +1,93 @@
+{
+    "title": "Lasaña de Espinacas en Crockpot",
+    "keywords": "Dinner,Gluten-Free,Holidays & Entertaining,Lunch,Main Dish,Quick & Easy,Slow Cooker,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Slow Cooker",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/nov12_crockpot_lasagna_279x200.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "okra cortada fresca o congelada (cortada en rodajas de 1/2 pulgada si es fresca)",
+            "us_amount": "9",
+            "metric_amount": "9"
+        },
+        {
+            "name": "cebolla en polvo",
+            "us_amount": "24 1/2 oz",
+            "metric_amount": "693 ml"
+        },
+        {
+            "name": "espinacas congeladas (10 onzas, picadas, descongeladas y escurridas)",
+            "us_amount": "1 package",
+            "metric_amount": "1 package"
+        },
+        {
+            "name": "queso mozzarella parcialmente descremado (rallado, dividido)",
+            "us_amount": "1 1/4 cup",
+            "metric_amount": "296 ml"
+        },
+        {
+            "name": "queso ricotta bajo en grasa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "fideos de lasaña",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salsa de tomate (8 onzas, sin sal agregada)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        }
+    ],
+    "instructions": [
+        "cebolla pequeña (cortada en cubitos)",
+        "En un tazón mediano, mezcle el queso ricotta, el queso parmesano, 1/4 taza de queso mozzarella y las espinacas.",
+        "Coloque 1 taza de salsa para pasta en el fondo de la olla de cocción lenta. Coloque 3 fideos uno al lado del otro sobre la salsa. Separe los fideos para que quepan, si es necesario.",
+        "hojas de albahaca fresca",
+        "Coloque la tapa en la olla de cocción lenta. Cocine a temperatura baja durante 2 a 3 horas o hasta que esté listo (los tiempos de cocción varían según la olla de cocción lenta).",
+        "Mientras tanto, en una sartén antiadherente grande, calienta 1 cucharadita de aceite a fuego medio-alto, revolviendo para cubrir el fondo. Cocina la cebolla y el pimiento morrón durante 3 a 4 minutos, o hasta que estén tiernos, revolviendo con frecuencia. Agrega el ajo. Cocina durante 10 segundos, revolviendo constantemente. Agrega los tomates, el quimbombó, los frijoles, las hojas de laurel, el orégano, el tomillo y las hojuelas de pimiento rojo. Deja que hierva a fuego lento. Reduce el fuego y cocina a fuego lento, tapado, durante 20 minutos, o hasta que el quimbombó esté tierno. Retira del fuego. Desecha las hojas de laurel."
+    ],
+    "tags": [
+        "Italian",
+        "Dinner",
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Slow Cooker",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "6g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "15mg",
+        "sodium": "315mg",
+        "total_carbohydrate": "22g",
+        "fiber": "4g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crockpot-spinach-lasagna"
+}

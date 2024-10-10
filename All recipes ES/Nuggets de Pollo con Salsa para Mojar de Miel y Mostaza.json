@@ -1,0 +1,89 @@
+{
+    "title": "Nuggets de Pollo con Salsa para Mojar de Miel y Mostaza",
+    "keywords": "Main Dish,Budget Friendly,Dinner,Lunch,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Chicken%20Nuggets%20Honey%20Mustard%20Sauce.png",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "Copos de maíz",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "Leche al 1%",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "Salsa Worcestershire",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Calienta una sartén antiadherente pequeña a fuego medio. Rocía ambos lados del pollo con aceite en aerosol y cocínalo durante 4 minutos de cada lado o hasta que ya no esté rosado en el centro. Colócalo sobre una tabla de cortar, déjalo enfriar durante 2 o 3 minutos y pícalo.",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Coloque cantidades iguales de verduras y pollo en cuatro platos. Bata el aderezo para ensalada y el jengibre hasta que estén bien mezclados. Vierta cantidades iguales sobre todos los ingredientes.",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Mostaza amarilla",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "vinagre de arroz",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "Mezcle la mostaza, la mayonesa, la miel y la salsa Worcestershire en un tazón pequeño. Refrigere la salsa hasta que los nuggets estén cocidos.",
+        "zumo de lima",
+        "Corte la pechuga de pollo en 36 trozos del tamaño de un bocado.",
+        "Combine el huevo batido y la leche en un tazón pequeño. Sumerja los trozos de pollo en la mezcla de huevo y luego agítelos en una bolsa con cierre hermético para cubrirlos con las migas de hojuelas de maíz.",
+        "Hornee los nuggets en una bandeja para hornear rociada con aceite en aerosol antiadherente durante 15 minutos hasta que estén listos."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Kid Friendly",
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "9g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "11g",
+        "fiber": "0g",
+        "sugar": "5g",
+        "added_sugar": "5g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-nuggets-honey-mustard-dipping-sauce"
+}

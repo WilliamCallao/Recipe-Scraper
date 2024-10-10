@@ -1,0 +1,98 @@
+{
+    "title": "Cuadrados de Snack de Pan de Calabacín con Chocolate Negro",
+    "keywords": "Dessert,Snacks,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Dessert",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Dark%20Chocolate%20Zucchini%20Bread%20Snack%20Squares%20diabetic.png",
+    "servings": "15 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de girasol o de aguacate",
+            "us_amount": "1/4 cup + 1/2 teaspoon",
+            "metric_amount": "1/4 cup + 1/2 teaspoon"
+        },
+        {
+            "name": "Harina integral de repostería o harina de su elección",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "Cacao en polvo sin azúcar (envasado)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "Levadura en polvo",
+            "us_amount": "3/4 tsp",
+            "metric_amount": "4 g"
+        },
+        {
+            "name": "bicarbonato",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Sal marina",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "puré de plátanos completamente maduros (aproximadamente 3 plátanos medianos)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "2 large",
+            "metric_amount": "2 large"
+        },
+        {
+            "name": "extracto puro de vainilla",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "ralladura de naranja",
+            "us_amount": "1 1/2 to 2",
+            "metric_amount": "1 1/2 to 2"
+        },
+        {
+            "name": "Calabacín (rallado grueso (no escurrir))",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F. Pinte con 1/2 cucharadita de aceite un molde para hornear de 9 x 13 pulgadas. Cubra solo el fondo del molde con papel pergamino.",
+        "En un tazón mediano, mezcle la harina, el cacao en polvo, el polvo para hornear, el bicarbonato de sodio y la sal.",
+        "En un bol grande, mezcle bien los plátanos machacados, los huevos, el 1/4 de taza de aceite restante, la vainilla y la ralladura de naranja. Agregue la mezcla seca y revuelva hasta que se integren. Agregue el calabacín y revuelva hasta que se integren de manera uniforme.",
+        "Distribuye la masa uniformemente en el molde preparado. Hornea hasta que esté elástica al tacto, aproximadamente entre 35 y 38 minutos.",
+        "Dejar enfriar completamente en el molde sobre una rejilla. Cortar en 15 cuadrados y servir a temperatura ambiente. Conservar en un recipiente hermético en el refrigerador hasta por 1 semana o en el congelador hasta por 3 meses."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Kid Friendly",
+        "Dessert",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "5g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "16g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/dark-chocolate-zucchini-bread-snack-squares"
+}

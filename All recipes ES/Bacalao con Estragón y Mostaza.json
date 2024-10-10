@@ -1,0 +1,103 @@
+{
+    "title": "Bacalao con Estragón y Mostaza",
+    "keywords": "Quick & Easy,Main Dish,Lunch,Holidays & Entertaining,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/tarragon-mustard-cod-Nov15.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "limón (cortado en gajos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "filetes de bacalao (cortados en 4 porciones)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aceite de oliva (dividido)",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "mantequilla (ablandada)",
+            "us_amount": "1/2 tbsp",
+            "metric_amount": "7 ml"
+        },
+        {
+            "name": "Picar en trozos grandes el estragón, el perejil y los champiñones juntos en un procesador de alimentos o con la mano. Reservar.",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "mostaza Dijon gruesa",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 450 F.",
+        "En un tazón pequeño, mezcle la mostaza, el estragón, la mantequilla, 1 cucharada de aceite de oliva, el agua, el jugo de limón y el ajo; reserve.",
+        "Espolvorear el bacalao con sal y pimienta. En una sartén poco profunda apta para horno, calentar la ½ cucharada restante de aceite de oliva a fuego medio-alto. Añadir el bacalao y dorar por un lado durante 4 minutos. Dar la vuelta al bacalao y dorar por el otro lado durante 2 minutos.",
+        "Verter la salsa de mostaza sobre el bacalao y colocar la sartén en el horno; asar durante 2 a 3 minutos. Servir el bacalao con las rodajas de limón."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Seafood",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "8g",
+        "saturated_fat": "1.8g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "365mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tarragon-mustard-cod"
+}

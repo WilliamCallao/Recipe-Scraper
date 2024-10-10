@@ -1,0 +1,81 @@
+{
+    "title": "Champiñones Rellenos de Salchicha",
+    "keywords": "Appetizers,Holidays & Entertaining,Sides,Snacks",
+    "prep_time": "PT20M",
+    "cook_time": "PT14M",
+    "categories": [
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Sides",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2016-11-12-sausage-stuffed.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "cebolla en polvo",
+            "us_amount": "18",
+            "metric_amount": "18"
+        },
+        {
+            "name": "migas de pan secas simples (divididas)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "Queso parmesano (rallado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Salchichas de pollo (sin tripa)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "cebolla roja (en rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Pimiento rojo pequeño (picado finamente)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Pimiento morrón naranja o rojo (cortado en rodajas finas)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pimienta",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 °F. Quite los tallos de los hongos y píquelos finamente. Mezcle 2 cucharadas de pan rallado y queso parmesano en un tazón pequeño.",
+        "Rocíe ligeramente una sartén antiadherente grande con aceite en aerosol y caliéntela a fuego medio. Cocine las salchichas hasta que comiencen a dorarse, aproximadamente 5 minutos, desmenuzándolas con el costado de una cuchara. Agregue la cebolla, el pimiento rojo, los tallos de los hongos y el perejil y cocine hasta que las verduras estén tiernas, aproximadamente 5 minutos. Agregue el resto del pan rallado y la pimienta negra. Retire del fuego. Agregue 1 cucharadita de agua a la vez hasta que tenga un relleno lo suficientemente húmedo como para formar un montículo.",
+        "Forme un montoncito con el relleno de los hongos y colóquelo, con el relleno hacia arriba, en una fuente para horno de 13 x 9 pulgadas. Espolvoree con la mezcla de parmesano. Hornee hasta que esté bien caliente, aproximadamente 9 minutos."
+    ],
+    "tags": [
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Sides",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "115",
+        "total_fat": "3g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "195mg",
+        "total_carbohydrate": "17g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sausage-stuffed-mushrooms"
+}

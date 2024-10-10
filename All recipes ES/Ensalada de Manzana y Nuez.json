@@ -1,0 +1,122 @@
+{
+    "title": "Ensalada de Manzana y Nuez",
+    "keywords": "Vegetarian,Sides,Lunch,Holidays & Entertaining,Foodie,Dinner,Salads,Salad Dressings & Condiments,Quick & Easy,No Cook",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dinner",
+        "Salads",
+        "Salad Dressings & Condiments",
+        "Quick & Easy",
+        "No Cook"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/apple-walnut-salad-Nov14.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Manzana Granny Smith u otra manzana ácida (pelada y cortada en cubos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "espinaca",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "endibia (en rodajas)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "nueces (picadas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "queso azul (desmenuzado)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "vinagre de vino tinto",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "mostaza de dijon",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cebollino fresco (picado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "En un tazón grande, mezcle las manzanas, las espinacas, la endibia, las nueces y el queso azul.",
+        "En un bol pequeño, mezcle el vinagre, el jugo de limón, la mostaza y la miel. Agregue el aceite en un chorro fino, batiendo para emulsionar. Agregue la sal y la pimienta.",
+        "Vierta el aderezo sobre la ensalada y revuelva suavemente. Coloque la ensalada en un recipiente para servir y espolvoree con cebollino."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Veggie Rich",
+        "Vegetarian",
+        "Sides",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dinner",
+        "Salads",
+        "Salad Dressings & Condiments",
+        "Quick & Easy",
+        "No Cook"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "11g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "145mg",
+        "total_carbohydrate": "11g",
+        "fiber": "2g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/apple-walnut-salad"
+}

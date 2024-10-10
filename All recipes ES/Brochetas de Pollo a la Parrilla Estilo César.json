@@ -1,0 +1,113 @@
+{
+    "title": "Brochetas de Pollo a la Parrilla Estilo César",
+    "keywords": "Lunch,Main Dish,Dinner,Foodie",
+    "prep_time": "PT30M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Lunch",
+        "Main Dish",
+        "Dinner",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/277-diabetic-grilled-chicken-caesar-kebabs_AdobeStock200139841_012221.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "brochetas de bambú",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "Yogur griego natural sin grasa (sin grasa)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ajo (picado o rallado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Salsa Worcestershire",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Queso parmesano rallado (uso dividido)",
+            "us_amount": "1/4 cup plus 2 tbsp",
+            "metric_amount": "1/4 cup plus 2 tbsp"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pechuga de pollo deshuesada y sin piel (cortada en cubos de 3/4 de pulgada (objetivo: 24 piezas de pollo))",
+            "us_amount": "1 1/4 lbs",
+            "metric_amount": "567 ml"
+        },
+        {
+            "name": "Jugo de 1 lima",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Derretir la mantequilla y agregar el ajo, las hojuelas de chile rojo y el perejil. Colocar en una taza pequeña y reservar.",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "Precaliente la parrilla (o la parrilla para interiores) a fuego medio-alto. Ensarte el pollo, las ciruelas y el calabacín en brochetas. Descarte la marinada sobrante.",
+            "us_amount": "16",
+            "metric_amount": "16"
+        }
+    ],
+    "instructions": [
+        "Remoje las brochetas de bambú en agua tibia durante al menos 30 minutos.",
+        "Precaliente una parrilla interior o exterior.",
+        "Mientras las brochetas se remojan, mezcle el yogur, el ajo, el jugo de limón, la salsa Worcestershire, el aceite de oliva, 2 cucharadas de queso parmesano, la sal y la pimienta negra molida.",
+        "Añade los trozos de pollo a un bol y vierte 3 cucharadas del aderezo sobre el pollo y revuelve para cubrirlo ligeramente. Deja reposar el pollo durante 15 minutos. Nota: Reserva el aderezo sobrante y asegúrate de que no entre en contacto con el pollo crudo.",
+        "Ensarte trozos alternos de pollo y pimiento rojo en las brochetas remojadas, empezando y terminando con el pollo, usando 3 trozos de pollo y 3 trozos de pimiento rojo.",
+        "Ase las brochetas durante unos 7 minutos, dándoles vuelta con frecuencia o hasta que el pollo esté bien cocido y alcance los 165 grados F. Déjelas de lado.",
+        "filete de solomillo deshuesado"
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Grilling",
+        "Lunch",
+        "Main Dish",
+        "Dinner",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "290",
+        "total_fat": "11g",
+        "saturated_fat": "2.7g",
+        "trans_fat": "0g",
+        "cholesterol": "85mg",
+        "sodium": "420mg",
+        "total_carbohydrate": "11g",
+        "fiber": "4g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "36g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-chicken-caesar-kabobs"
+}

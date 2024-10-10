@@ -1,0 +1,73 @@
+{
+    "title": "Ensalada Estilo César con Crutones Rústicos",
+    "keywords": "Sides,Salads,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Sides",
+        "Salads",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_142_CaesarSaladRustic_465795565_050118.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pan integral o pan francés (cortado en trozos de 1/2 pulgada)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "mayonesa baja en grasas",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Calienta el aceite en una sartén antiadherente grande a fuego medio-alto. Agrega el pollo en una capa y dóralo durante 5 minutos. Da vuelta y dóralo durante 5 minutos más.",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Queso parmesano (rallado)",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "verduras mixtas preenvasadas",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        }
+    ],
+    "instructions": [
+        "Almendras enteras blanqueadas sin sal",
+        "tomates cortados en cubitos enlatados",
+        "Mientras tanto, coloca los trozos de pan en una bandeja para hornear y hornéalos durante 8 minutos o hasta que estén ligeramente firmes. Retíralos del fuego y déjalos enfriar un poco.",
+        "Coloque las verduras mixtas en una ensaladera, agregue el aderezo y el queso y revuelva suavemente, pero bien, para cubrir bien. Sazone ligeramente con sal y pimienta, si lo desea. Agregue los crutones, revuelva suavemente y sirva inmediatamente.",
+        "*Nota: La sal y la pimienta opcionales no están incluidas en la información nutricional anterior."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Italian",
+        "Sides",
+        "Salads",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "95",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "215mg",
+        "total_carbohydrate": "12g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/caesar-style-salad-rustic-croutons"
+}

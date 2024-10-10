@@ -1,0 +1,81 @@
+{
+    "title": "Apricot Pine Nut Cous Cous",
+    "keywords": "Dinner,Sides,Vegan,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/045-diabetic-Apricote-Pine-Nut-CousCous_iStock-104199544_022318.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "reduced sodium (fat-free chicken broth)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "whole wheat couscous (uncooked)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "salt (optional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "black pepper",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "dried apricots (chopped)",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "no-sugar-added apricot preserves",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "green onion (thinly sliced)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pine nuts (toasted)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "In a medium saucepan, bring chicken broth to a boil. Add couscous. Cover and remove from heat. Let stand for 5 minutes and fluff with a fork.",
+        "Add the remaining ingredients. Toss gently to coat."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Dinner",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "115",
+        "total_fat": "2g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "105mg",
+        "total_carbohydrate": "22g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/apricot-pine-nut-cous-cous"
+}

@@ -1,0 +1,94 @@
+{
+    "title": "Sopa de Queso Cheddar y Brócoli",
+    "keywords": "Sides,Main Dish,Lunch,Appetizers",
+    "prep_time": "PT20M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Sides",
+        "Main Dish",
+        "Lunch",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_641_Cheddar%20Cheese%20and%20Broccoli%20Soup_DiabetesComfortFood_022518.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "brócoli",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla picada",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Tallo de apio, picado",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "harina para todo uso",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "caldo de pollo, bajo en sodio",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "leche evaporada sin grasa",
+            "us_amount": "12-ounce can",
+            "metric_amount": "12-ounce can"
+        },
+        {
+            "name": "queso cheddar bajo en grasa (como el queso cheddar Cabot’s 50% bajo en grasa)",
+            "us_amount": "1 1/4 cup",
+            "metric_amount": "296 ml"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sal de nuez moscada, al gusto",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Recortar y pelar los tallos del brócoli. Cortar 15 floretes pequeños. Picar en trozos grandes la cantidad restante de brócoli necesaria para cubrir 2 tazas.",
+        "Blanquee el brócoli picado y los floretes en agua hirviendo hasta que adquieran un color verde brillante, aproximadamente 2 minutos. Escúrralos y déjelos a un lado.",
+        "lechuga rallada",
+        "Agregue el brócoli picado, el queso, la pimienta, la nuez moscada y la sal. Revuelva hasta que el queso se derrita y la sopa esté bien caliente, aproximadamente 3 minutos. Adorne cada tazón con los floretes de brócoli reservados."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Comfort Food",
+        "Sides",
+        "Main Dish",
+        "Lunch",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "205",
+        "total_fat": "8g",
+        "saturated_fat": "3.5g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "490mg",
+        "total_carbohydrate": "20g",
+        "fiber": "12g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cheddar-cheese-and-broccoli-soup"
+}

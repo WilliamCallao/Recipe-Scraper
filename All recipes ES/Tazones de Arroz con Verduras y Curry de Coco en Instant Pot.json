@@ -1,0 +1,108 @@
+{
+    "title": "Tazones de Arroz con Verduras y Curry de Coco en Instant Pot",
+    "keywords": "Vegetarian,Vegan,Main Dish,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1850-diabetic-instant-pot-coconut-curry-vegetable-rice-bowls_Instant-Pot-Diabetes-Ckbk_111419.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "arroz integral",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "polvo de curry",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "3/4 tsp",
+            "metric_amount": "4 g"
+        },
+        {
+            "name": "cebolla verde picada",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "pimiento morrón rojo o amarillo en rodajas",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "zanahorias en palitos",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "repollo rojo picado",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cebolla verde finamente picada",
+            "us_amount": "1 (8-oz) can",
+            "metric_amount": "1 (8-oz) can"
+        },
+        {
+            "name": "garbanzos sin sal añadida (enjuagados y escurridos)",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "En un recipiente pequeño, mezcle la cucharada restante de agua y la maicena. Revuelva hasta que la maicena se disuelva.",
+            "us_amount": "1 (13-oz) can",
+            "metric_amount": "1 (13-oz) can"
+        },
+        {
+            "name": "jengibre fresco rallado",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "azúcar",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        }
+    ],
+    "instructions": [
+        "Combine el arroz, el agua, el curry en polvo y 1/4 de cucharadita de sal en la olla instantánea. Cierre la tapa, cierre la válvula y configure el botón de cocción manual/a presión en 15 minutos.",
+        "Utilice una válvula de liberación de presión natural durante unos 12 minutos. Cuando la válvula baje, retire con cuidado la tapa y agregue el resto de los ingredientes.",
+        "Presione el botón Cancelar y configure en Saltear. Luego presione el botón Ajustar en “Más” o “Alto”. Lleve a ebullición y hierva durante 2 minutos o hasta que todos los ingredientes estén bien calientes, revolviendo ocasionalmente."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Asian",
+        "Vegetarian",
+        "Vegan",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "6g",
+        "saturated_fat": "3.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "330mg",
+        "total_carbohydrate": "42g",
+        "fiber": "7g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/instant-pot-coconut-curry-vegetable-rice-bowls"
+}

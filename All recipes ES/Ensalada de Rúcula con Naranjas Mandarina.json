@@ -1,0 +1,83 @@
+{
+    "title": "Ensalada de Rúcula con Naranjas Mandarina",
+    "keywords": "Dinner,Lunch,Quick & Easy,Salads,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Salads",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/002-diabetic-arugula-salad-mandarin-oranges_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "Rúcula",
+            "us_amount": "5 oz",
+            "metric_amount": "142 ml"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel (cortadas en trozos de 3/4 de pulgada)",
+            "us_amount": "4 slice",
+            "metric_amount": "4 slice"
+        },
+        {
+            "name": "mandarinas, tangerinas o clementinas frescas (peladas y en gajos)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "jugo de naranja fresco",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Ralladura de naranja",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "cebollas verdes (en rodajas)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "vinagre de arroz",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "salsa de soja baja en sodio",
+        "En un bol pequeño, mezcle el jugo de naranja, la ralladura de naranja, el aceite de oliva, la pimienta y el estragón. Vierta el aderezo sobre la ensalada y revuelva para cubrir."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Salads",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "12g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "14g",
+        "fiber": "2g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/arugula-salad-mandarin-oranges"
+}

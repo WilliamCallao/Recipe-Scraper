@@ -1,0 +1,85 @@
+{
+    "title": "Cerdo Glaseado con Albaricoque Picante con Batatas y Pimientos",
+    "keywords": "Budget Friendly,Gluten-Free,Dinner,Quick & Easy,Main Dish",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Budget Friendly",
+        "Gluten-Free",
+        "Dinner",
+        "Quick & Easy",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_508_Spicy_Apricot-Glazed_Pork_with_Sweet_Potatoes_and_Peppers_PNCImages_03012018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Solomillo de cerdo",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "zanahoria(s) (peladas y cortadas en rodajas)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Orégano seco",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "batata grande (pelada y cortada en cubos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "mini pimientos dulces",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F. Sazone la carne de cerdo con pimienta negra y ajo en polvo. Coloque la carne de cerdo en una fuente para horno.",
+        "En un bol pequeño, mezcle la mermelada de albaricoque, las hojuelas de pimiento rojo y el orégano. Caliente el glaseado en el microondas durante 1 o 2 minutos, hasta que la mezcla se vuelva líquida y fácil de mezclar. Vierta el glaseado sobre el lomo de cerdo y cúbralo de manera uniforme.",
+        "Cebolla roja finamente picada o en rodajas"
+    ],
+    "tags": [
+        "High in Fiber",
+        "Low Sodium",
+        "Budget Friendly",
+        "Gluten-Free",
+        "Dinner",
+        "Quick & Easy",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "3g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "60mg",
+        "total_carbohydrate": "17g",
+        "fiber": "6g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "23g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spicy-apricot-glazed-pork-sweet-potatoes-and-peppers"
+}

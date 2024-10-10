@@ -1,0 +1,73 @@
+{
+    "title": "Condimento Cajún Sin Sal",
+    "keywords": "Salad Dressings & Condiments",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salad Dressings & Condiments"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2033-diabetic-Seasoning-Cajun-Salt-Free_DaVita_040821.jpg",
+    "servings": "20 Servings",
+    "ingredients": [
+        {
+            "name": "paprika",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla en polvo",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "pimienta de cayena",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "tomillo seco",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Orégano seco",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "Combine todos los ingredientes y guárdelos en un recipiente hermético."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Comfort Food",
+        "Salad Dressings & Condiments"
+    ],
+    "nutrition": {
+        "calories": "6",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0.5g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/salt-free-cajun-seasoning"
+}

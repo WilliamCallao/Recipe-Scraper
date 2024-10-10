@@ -1,0 +1,147 @@
+{
+    "title": "Brochetas de Pollo con Cítricos y Estragón",
+    "keywords": "Dinner,Lunch,Main Dish",
+    "prep_time": "PT2H",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/kabobs.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "naranja (rallada y exprimida)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "limón (rallado y exprimido)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Lima (rallada y exprimida)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "estragón fresco (picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "soy sauce",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "aceite vegetal",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimiento rojo picado",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "pimiento verde",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimiento rojo",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla blanca",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Tomates cherry",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "champiñones pequeños",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "Arándanos y/o cerezas sin hueso (frescas o congeladas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "papas doradas bebes",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Si usa brochetas de bambú, déjelas en remojo en agua durante 1 hora para evitar que se quemen.",
+        "Añade la mezcla de cebolla a un bol y deja enfriar durante 2 minutos. Añade la carne, el huevo, el pan rallado, la leche, la salsa Worcestershire y el humo líquido, si lo usas. Mezcla con cuidado, no manipules demasiado la carne.",
+        "Revuelve el pollo en la mezcla hasta que quede cubierto de manera uniforme. Cubre y deja marinar en el refrigerador durante 2 horas.",
+        "Corte el pimiento morrón y la cebolla en trozos del tamaño de un bocado.",
+        "Bate el aceite y el vinagre balsámico.",
+        "Armar las brochetas: dividir el pollo en partes iguales entre 12 brochetas. En cada brocheta, colocar 1 o 2 trozos de pimiento morrón, 1 o 2 trozos de cebolla, 1 tomate cherry, 1 champiñón, 1 rodaja de calabacín, 1 patata bebé, una rodaja de maíz y algunos trozos de pollo.",
+        "Rocíe las brochetas con vinagreta balsámica.",
+        "Ase las brochetas directamente sobre el fuego durante unos 10 a 15 minutos, girándolas 1/4 de vuelta cada 2 a 3 minutos, o hasta que el pollo esté bien cocido."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Comfort Food",
+        "Grilling",
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "340",
+        "total_fat": "18g",
+        "saturated_fat": "2.7g",
+        "trans_fat": "0.1g",
+        "cholesterol": "100mg",
+        "sodium": "470mg",
+        "total_carbohydrate": "19g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/citrus-tarragon-chicken-kabobs"
+}

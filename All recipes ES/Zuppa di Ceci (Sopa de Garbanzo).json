@@ -1,0 +1,116 @@
+{
+    "title": "Zuppa di Ceci (Sopa de Garbanzo)",
+    "keywords": "Gluten-Free,Lunch,Soup,Vegan,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Gluten-Free",
+        "Lunch",
+        "Soup",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/zuppa-di-Ceci-chickpea-soup-Dec14.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "apio (cortado en cubitos)",
+            "us_amount": "1 stalks",
+            "metric_amount": "1 stalks"
+        },
+        {
+            "name": "cebolla(s) (cortadas en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zanahoria (pelada y cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "romero fresco (picado)",
+            "us_amount": "1 sprig",
+            "metric_amount": "1 sprig"
+        },
+        {
+            "name": "salvia fresca (finamente picada)",
+            "us_amount": "6 leaves",
+            "metric_amount": "6 leaves"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "tomates enteros enlatados",
+            "us_amount": "28 oz",
+            "metric_amount": "792 ml"
+        },
+        {
+            "name": "garbanzos (escurridos y enjuagados)",
+            "us_amount": "30 oz",
+            "metric_amount": "849 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "albahaca fresca (picada)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "En una cacerola grande, calienta el aceite de oliva a fuego medio. Agrega el apio, la cebolla, la zanahoria, el romero y la salvia y saltea durante unos 8 minutos. Agrega el ajo y saltea durante 2 minutos.",
+        "Añade la lata de tomates a un bol grande. Tritura los tomates con las manos limpias, dejando que queden ligeramente gruesos. Añade los tomates con su jugo a la sartén.",
+        "Haz un puré con una lata de garbanzos en un procesador de alimentos o licuadora junto con 1/4 de taza de agua hasta que la mezcla quede homogénea pero aún espesa. Agrega los garbanzos hechos puré y la otra lata de garbanzos enteros a la cacerola. Agrega la albahaca, la sal y la pimienta negra y deja que la sopa hierva. Baja el fuego y cocina a fuego lento, tapado, durante 15 minutos. Agrega el jugo de limón y sirve."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Italian",
+        "Gluten-Free",
+        "Lunch",
+        "Soup",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "5.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "145mg",
+        "total_carbohydrate": "28g",
+        "fiber": "7g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/zuppa-di-ceci-chickpea-soup"
+}

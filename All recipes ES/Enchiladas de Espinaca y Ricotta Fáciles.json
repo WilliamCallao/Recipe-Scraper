@@ -1,0 +1,91 @@
+{
+    "title": "Enchiladas de Espinaca y Ricotta Fáciles",
+    "keywords": "Dinner,Meal Kit Recipes,Quick & Easy,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Meal Kit Recipes",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Easy%20Spinach%20Ricotta%20Enchilada.png",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla amarilla (cortada en cubitos)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "espinacas congeladas (descongeladas y exprimidas en exceso)",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "queso ricotta bajo en grasa",
+            "us_amount": "15 oz",
+            "metric_amount": "425 ml"
+        },
+        {
+            "name": "tortillas de maíz (6 pulgadas)",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "salsa roja para enchiladas enlatada",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "Queso Monterey Jack (rallado)",
+            "us_amount": "3 oz",
+            "metric_amount": "85 ml"
+        },
+        {
+            "name": "cebolla verde (cebolleta) (en rodajas)",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 grados F.",
+        "Calienta una sartén grande a fuego medio. Agrega el aceite, la cebolla y la pimienta. Cocina, revolviendo de vez en cuando, hasta que la cebolla se ablande, durante 4 a 5 minutos.",
+        "Transfiera las cebollas cocidas a un tazón grande. Agregue la espinaca y la ricota y revuelva para combinar.",
+        "Envuelva las tortillas en una toalla de papel húmeda y caliéntelas en el microondas durante 30 segundos.",
+        "Rocíe una fuente para horno con aceite en aerosol. Divida el relleno de espinaca en partes iguales entre las tortillas. Enrolle y coloque con la costura hacia abajo en la fuente para horno.",
+        "Vierta la salsa para enchiladas sobre las tortillas. Cubra con queso rallado. Hornee durante 10 a 15 minutos, hasta que el queso se derrita y forme burbujas.",
+        "Divida las enchiladas entre los platos y cubra con cebollas verdes y una cucharada de yogur griego si lo desea."
+    ],
+    "tags": [
+        "Mexican/Southwestern",
+        "Dinner",
+        "Meal Kit Recipes",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "300",
+        "total_fat": "12g",
+        "saturated_fat": "4.9g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "560mg",
+        "total_carbohydrate": "37g",
+        "fiber": "6g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/easy-spinach-ricotta-enchiladas"
+}

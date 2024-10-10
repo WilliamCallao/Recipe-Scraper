@@ -1,0 +1,84 @@
+{
+    "title": "Dip de Frijoles Caribeño",
+    "keywords": "Vegetarian,Snacks,Quick & Easy,Holidays & Entertaining,Appetizers",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Snacks",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_145_Caribbean_Bean_Dip_PNCImages_02272018.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "frijoles negros orgánicos (15,5 onzas, escurridos)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "Aguacate Hass (pelado y cortado en rodajas)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "cilantro (picado grueso)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pimienta roja cayena molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Sal marina, o al gusto",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cebollas verdes (en rodajas finas)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        }
+    ],
+    "instructions": [
+        "Licuar todos los ingredientes, excepto la cebolla verde, hasta obtener una mezcla homogénea. Agregar la cebolla verde encima y servir con chips de tortilla o verduras frescas."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Caribbean",
+        "Vegetarian",
+        "Snacks",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "2g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "125mg",
+        "total_carbohydrate": "9g",
+        "fiber": "3g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/caribbean-bean-dip"
+}

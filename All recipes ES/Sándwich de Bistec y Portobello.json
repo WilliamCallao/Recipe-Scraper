@@ -1,0 +1,84 @@
+{
+    "title": "Sándwich de Bistec y Portobello",
+    "keywords": "Sandwiches,Main Dish,Lunch,Dinner",
+    "prep_time": "PT5M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Sandwiches",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1679-diabetic-steak-portobello-sandwich_12-week-diabetes-cookbook_DF_101918_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "ajo (machacado)",
+            "us_amount": "6 diente",
+            "metric_amount": "6 diente"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "filete de tira, de vacío o de falda",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        },
+        {
+            "name": "Prepara la ensalada: bate las 3 cucharadas restantes de aceite de oliva, el jugo de lima y la miel (o mézclalos en una coctelera). Mezcla el aderezo en un bol grande con la lechuga romana. Sirve cada quesadilla junto con 2 tazas de ensalada.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Hongos portobello",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "panecillos de trigo integral para panqueques",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Mezcla el ajo y el vinagre balsámico en un bol pequeño. Reserva.",
+        "Fresas frescas (cortadas en cubitos)",
+        "Rocíe la sartén con aceite de oliva en aerosol. Agregue los hongos y cocínelos durante 5 minutos, dándoles vuelta una vez. Retire los hongos a una tabla de cortar.",
+        "Añade la mezcla de ajo y vinagre a la sartén y deja hervir durante 3 o 4 minutos, hasta que se reduzca a la mitad. Divide la salsa en 4 tazones pequeños y reserva.",
+        "Corte los panecillos por la mitad y rocíe cada lado con aceite de oliva en aerosol. Tueste los panecillos en un horno tostador durante 1 minuto.",
+        "Corte el filete y los champiñones en tiras finas. Coloque aproximadamente 140 g de filete y 3/4 de taza de champiñones en la mitad inferior de cada panecillo. Cubra con sal y pimienta. Cubra cada sándwich con la mitad superior del panecillo, córtelo por la mitad, y sirva con la salsa para untar."
+    ],
+    "tags": [
+        "Sandwiches",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "490",
+        "total_fat": "14g",
+        "saturated_fat": "4.9g",
+        "trans_fat": "0g",
+        "cholesterol": "110mg",
+        "sodium": "690mg",
+        "total_carbohydrate": "43g",
+        "fiber": "5g",
+        "sugar": "15g",
+        "added_sugar": "0g",
+        "protein": "46g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/steak-and-portobello-sandwich"
+}

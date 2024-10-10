@@ -1,0 +1,111 @@
+{
+    "title": "Tazón de Burrito de Batata",
+    "keywords": "Dinner,Vegetarian,Main Dish,Foodie,Gluten-Free,Lunch",
+    "prep_time": "PT15M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Dinner",
+        "Vegetarian",
+        "Main Dish",
+        "Foodie",
+        "Gluten-Free",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_544_Sweet_Potato_Burrito_Bowl_PNCImages_03010218%29.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Patatas dulces pequeñas",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "arroz de coliflor congelado",
+            "us_amount": "1 (12-oz) bag",
+            "metric_amount": "1 (12-oz) bag"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Combine todos los ingredientes excepto el pimiento, la cebolla y el tomate y mezcle bien.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado o rallado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "frijoles negros (escurridos y enjuagados)",
+            "us_amount": "1 (15.5-oz) can",
+            "metric_amount": "1 (15.5-oz) can"
+        },
+        {
+            "name": "Salsa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "mezcla de quesos mexicanos rallados",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "lechuga rallada",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Yogur griego natural sin grasa",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "tomates cortados en cubitos",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "aceite de oliva",
+        "Hornear durante 12 minutos. Utilizar una espátula para dar vuelta las patatas.",
+        "Añade el aceite de oliva a una sartén antiadherente a fuego medio. Añade las cebollas y el ajo y saltea durante 5 minutos o hasta que las cebollas comiencen a ablandarse.",
+        "Añade los frijoles y la salsa y cocina a fuego lento para que los frijoles se calienten. Reserva la mezcla de frijoles y salsa, pero mantenla caliente.",
+        "Cuando las patatas estén cocidas, dejarlas enfriar un poco, luego pelar y cortar en cubitos grandes las patatas cocidas.",
+        "almendras crudas sin sal",
+        "tilapia (enjuagada y cortada en trozos de 1 pulgada)"
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Vegetarian",
+        "Main Dish",
+        "Foodie",
+        "Gluten-Free",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "7g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "530mg",
+        "total_carbohydrate": "43g",
+        "fiber": "9g",
+        "sugar": "14g",
+        "added_sugar": "0g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-potato-burrito-bowl"
+}

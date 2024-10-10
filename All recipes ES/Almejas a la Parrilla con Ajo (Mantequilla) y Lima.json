@@ -1,0 +1,74 @@
+{
+    "title": "Almejas a la Parrilla con Ajo (Mantequilla) y Lima",
+    "keywords": "Appetizers,Dinner,Lunch,Quick & Easy",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/727-diabetic-grilled-clams-with-garlic-butter-lime_sizzle-and-smoke_DF_041519.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "No puedo creer que no sea mantequilla",
+            "us_amount": "2 3/4 tbsp",
+            "metric_amount": "41 ml"
+        },
+        {
+            "name": "ajo (pelado y cortado en rodajas finas)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado (triturado)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Perejil (picado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pechuga de pollo deshuesada y sin piel (cortada en cubos de 3/4 de pulgada (objetivo: 24 piezas de pollo))",
+            "us_amount": "24",
+            "metric_amount": "24"
+        },
+        {
+            "name": "Jugo de 1 lima",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "comino",
+        "Precaliente la parrilla a temperatura alta. Coloque las almejas bien lavadas sobre un trozo de papel de aluminio o una bandeja para hornear galletas para que recojan los jugos.",
+        "Cocine según las instrucciones para el método de calor directo durante 8 a 10 minutos, dándoles vuelta a la mitad del tiempo, hasta que estén bien cocidas y las conchas de las almejas se abran por completo. Rocíe la mantequilla en las conchas de las almejas y sirva. Descarte las almejas que no se abran."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Grilling",
+        "Seafood",
+        "Appetizers",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "6g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "15mg",
+        "sodium": "370mg",
+        "total_carbohydrate": "3g",
+        "fiber": "0g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-clams-garlic-butter-and-lime"
+}

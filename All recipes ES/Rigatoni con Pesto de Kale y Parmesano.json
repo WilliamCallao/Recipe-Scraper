@@ -1,0 +1,87 @@
+{
+    "title": "Rigatoni con Pesto de Kale y Parmesano",
+    "keywords": "Main Dish,Dinner",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/kale%20parm.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "tomates uva (cortados por la mitad)",
+            "us_amount": "1 pints",
+            "metric_amount": "480 ml"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Precaliente el asador. Corte la salchicha en rodajas de 1/2 pulgada.",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Mientras tanto, bate los huevos enteros, las claras y la leche. Corta la albahaca en trozos pequeños y añádela a la mezcla de huevos junto con la pimienta negra.",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Queso parmesano ((rallado))",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ketchup sin azúcar añadido",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "nueces ((picadas))",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "semillas de sésamo (tostadas)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "vinagre de arroz",
+        "Precaliente el horno a 350 grados F. Rocíe una bandeja para hornear con aceite en aerosol."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "390",
+        "total_fat": "20g",
+        "saturated_fat": "3.2g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "46g",
+        "fiber": "6g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/kale-parmesan-pesto-rigatoni"
+}

@@ -1,0 +1,73 @@
+{
+    "title": "Pollo con Limón y Hierbas",
+    "keywords": "Main Dish,Budget Friendly",
+    "prep_time": "PT30M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/61main_lemonherbedchicken.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "tomillo fresco",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aceite de oliva (uso dividido)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Jugo de limón (exprimido y rallado)",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "En un recipiente mediano, mezcle los ingredientes restantes para las albóndigas. Forme bolitas de 1 pulgada.",
+        "Añade los chiles jalapeños a la mezcla de queso y, usando una licuadora de inmersión o vertical, licua hasta que quede una mezcla homogénea. Los chiles tendrán cierta textura. Reserva.",
+        "Vinagre de sidra de manzana"
+    ],
+    "tags": [
+        "Mediterranean",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "12g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "80mg",
+        "sodium": "270mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/lemon-herbed-chicken"
+}

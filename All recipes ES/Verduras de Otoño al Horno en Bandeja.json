@@ -1,0 +1,94 @@
+{
+    "title": "Verduras de Otoño al Horno en Bandeja",
+    "keywords": "Vegetarian,Vegan,Sides,Gluten-Free",
+    "prep_time": "PT15M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/3490_Autumn%20Sheet-Pan%20Veggies.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Calabaza (pelada, sin semillas y cortada en cubos de ¾ de pulgada)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "coles de Bruselas (cortadas por la mitad)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "cebolla roja (cortada en rodajas de ½ pulgada)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "Retirar del fuego. Quitar y desechar la cáscara de naranja, la rama de canela y los clavos de olor. Incorporar la vainilla y la canela molida.",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pepino grande (en rodajas)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Manzana Honeycrisp (sin semillas y cortada en trozos de 1 pulgada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "nueces pecanas (picadas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Perejil fresco (picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 °F y cubra una bandeja para hornear con borde con papel pergamino o papel de aluminio.",
+        "En un tazón grande, mezcle la calabaza, las coles de Bruselas, la cebolla, el edulcorante Splenda Monk Fruit, el aceite de oliva, la canela y la nuez moscada hasta que estén cubiertos.",
+        "Coloca las verduras en una sola capa sobre la bandeja para hornear preparada. Hornea hasta que las verduras estén tiernas pero crocantes, aproximadamente 15 minutos. Retira del horno.",
+        "Añade las manzanas y da vuelta las verduras. Sigue horneando hasta que las verduras estén tiernas y ligeramente doradas, aproximadamente entre 10 y 15 minutos. Cubre con nueces y perejil. Sirve y disfruta."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "15mg",
+        "total_carbohydrate": "13g",
+        "fiber": "4g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/autumn-sheet-pan-veggies"
+}

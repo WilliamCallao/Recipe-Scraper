@@ -1,0 +1,109 @@
+{
+    "title": "Chili de Pavo y Tres Frijoles",
+    "keywords": "Dinner,Easy Pantry Recipes,Holidays & Entertaining,Lunch,One Pot,Quick & Easy,Soup",
+    "prep_time": "Desconocido",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Holidays & Entertaining",
+        "Lunch",
+        "One Pot",
+        "Quick & Easy",
+        "Soup"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Turkey-3-bean-chili-Mar15.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "salsa picante",
+            "us_amount": "1 dash",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "pimiento rojo (cortado en trozos de 3/4 de pulgada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimiento verde (cortado en trozos de 3/4 de pulgada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salsa picante",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "maíz congelado",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "caldo de res",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "frijoles pintos (sin escurrir)",
+            "us_amount": "30 oz",
+            "metric_amount": "849 ml"
+        },
+        {
+            "name": "frijoles rojos (sin escurrir)",
+            "us_amount": "15 oz",
+            "metric_amount": "425 ml"
+        },
+        {
+            "name": "pavo molido magro",
+            "us_amount": "15 oz",
+            "metric_amount": "425 ml"
+        },
+        {
+            "name": "cebolla(s) (picadas)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "Salchicha de pavo italiana (sin tripa)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "En una cacerola grande o en una olla holandesa, calienta el aceite a fuego medio-alto. Trocea la salchicha y saltéala con la cebolla hasta que la salchicha esté dorada y la cebolla tierna; escurre la grasa. Agrega el resto de los ingredientes a la cacerola y deja que hierva.",
+        "Reducir el fuego y dejar cocinar a fuego lento, sin tapar, durante 20 minutos, revolviendo de vez en cuando. Servir inmediatamente."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Comfort Food",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Holidays & Entertaining",
+        "Lunch",
+        "One Pot",
+        "Quick & Easy",
+        "Soup"
+    ],
+    "nutrition": {
+        "calories": "280",
+        "total_fat": "7g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "530mg",
+        "total_carbohydrate": "33g",
+        "fiber": "9g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/turkey-and-3-bean-chili"
+}

@@ -1,0 +1,58 @@
+{
+    "title": "Garbanzos BBQ Asados",
+    "keywords": "Appetizers,Snacks",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Appetizers",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2160_Roasted%20BBQ%20Chickpeas%20-%20Shutterstock.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "queso ricotta, dividido",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Mezcla de especias para barbacoa",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Endulzante de Stevia Splenda®",
+            "us_amount": "2 packet",
+            "metric_amount": "2 packet"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F.",
+        "Con una toalla de papel, seque los garbanzos por completo. Extiéndalos en una bandeja para hornear con borde. Rocíe con aceite de oliva y revuelva para cubrirlos. Extiéndalos en una capa uniforme.",
+        "Hornear durante 35 a 45 minutos o hasta que se seque. Dejar enfriar a temperatura ambiente.",
+        "coles de Bruselas (con la parte inferior recortada)"
+    ],
+    "tags": [
+        "Appetizers",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "115mg",
+        "total_carbohydrate": "6g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-bbq-chickpeas"
+}

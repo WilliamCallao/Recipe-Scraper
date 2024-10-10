@@ -1,0 +1,119 @@
+{
+    "title": "Cobbler para Climas Frescos",
+    "keywords": "Dessert",
+    "prep_time": "PT20M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_669_CoolWeatherCobbler_WholeCooking_022618.jpg",
+    "servings": "18 Servings",
+    "ingredients": [
+        {
+            "name": "manzana y/o peras (peladas, sin corazón y en rodajas)",
+            "us_amount": "6 med",
+            "metric_amount": "6 med"
+        },
+        {
+            "name": "Arándanos y/o cerezas sin hueso (frescas o congeladas)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "papas doradas bebes",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Ralladura de naranja (recién rallada)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "harina de almendras",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "avena laminada tradicional (sin gluten)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "cebolla amarilla (cortada en cubitos)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "semillas de calabaza (sin sal, tostadas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "almendras (crudas, en rodajas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "harina para todo uso",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Añade el resto del aceite de oliva a la sartén y añade la cebolla. Saltea la cebolla durante 5 minutos, hasta que esté blanda. Añade el calabacín y saltea durante 3 minutos. Añade los tomates y saltea durante 2 minutos. Añade el orégano y saltea durante 1 minuto; incorpora la mezcla de maíz reservada.",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        }
+    ],
+    "instructions": [
+        "Divida la mezcla de maíz entre las tortillas calientes y cubra cada taco con 2 cucharaditas de yogur y 2 cucharaditas de salsa cruda.",
+        "Para preparar el relleno, mezcle toda la fruta, el polvo de arrurruz, la canela, el jengibre y la ralladura de naranja en un recipiente mediano. Extienda el relleno en el fondo de una fuente para horno de 20 x 30 cm.",
+        "Exprime el limón y la chalota en un bol pequeño. Deja reposar durante unos 10 minutos.",
+        "Desmenuza la cobertura sobre el relleno y hornéelo durante 40 minutos o hasta que la cobertura esté dorada y la fruta burbujee. Retire el pastel del horno y déjelo enfriar durante 10 minutos antes de servir."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Comfort Food",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "9g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "35mg",
+        "total_carbohydrate": "26g",
+        "fiber": "5g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cool-weather-cobbler"
+}

@@ -1,0 +1,131 @@
+{
+    "title": "Zuppa Toscana con Coliflor y Kale",
+    "keywords": "Soup,One Pot,Main Dish,Lunch,Budget Friendly,Dinner,Gluten-Free",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Soup",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Budget Friendly",
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2085-diabetic-low-carb-zuppa-toscana-cauliflower-kale_low-carb-Brissette_050721.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de aguacate (uso dividido)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Pollo molido",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "caldo de res bajo en sodio",
+            "us_amount": "5 cup",
+            "metric_amount": "1 l 183 ml"
+        },
+        {
+            "name": "cebolla(s) (cortadas en cubitos)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "cebolla(s) (picadas)",
+            "us_amount": "1/2 head (or 3 cups florets)",
+            "metric_amount": "1/2 head (or 3 cups florets)"
+        },
+        {
+            "name": "col rizada picada",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "paprika",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "semillas de hinojo",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Perejil seco",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Orégano seco",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "albahaca seca",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Yogur griego natural sin grasa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "queso parmesano rallado",
+            "us_amount": "1 tbsp (1/2 tsp per serving)",
+            "metric_amount": "1 tbsp (1/2 tsp per serving)"
+        }
+    ],
+    "instructions": [
+        "En una olla holandesa, calienta la mitad del aceite a fuego medio. Agrega el pollo molido y cocina hasta que se dore.",
+        "Saque el pollo de la olla y déjelo a un lado en un bol o plato. Agregue el resto del aceite a la olla y luego agregue las cebollas y el ajo. Saltee hasta que se doren, aproximadamente 2 minutos.",
+        "Añade el caldo de res, la coliflor y las hierbas y especias. Tapa y cocina a fuego medio durante unos 10 minutos o hasta que la coliflor esté tierna.",
+        "Añade la col rizada y el pollo cocido. Revuelve y cocina sin tapar durante unos 3 minutos o hasta que la col rizada se ablande.",
+        "Retirar del fuego y agregar el yogur griego. Servir con una pizca de queso parmesano por encima."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Italian",
+        "Soup",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Budget Friendly",
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "9g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "170mg",
+        "total_carbohydrate": "6g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/zuppa-toscana-cauliflower-and-kale"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Pollo Asado con Cilantro y Lima Económico",
+    "keywords": "Gluten-Free,Dinner,Main Dish,Budget Friendly",
+    "prep_time": "PT5M",
+    "cook_time": "PT50M",
+    "categories": [
+        "Gluten-Free",
+        "Dinner",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/119-diabetic-cilantro-lime-chicken-budget-friendly_090618_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Pollo entero (cortado en 8 trozos)",
+            "us_amount": "1 (about 2 1/2 lbs)",
+            "metric_amount": "1 (about 2 1/2 lbs)"
+        },
+        {
+            "name": "cilantro (picado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Lima (rallada y exprimida)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375 grados F. Cubra una fuente para hornear con aceite en aerosol.",
+        "Retire la piel del pollo y colóquelo en una sola capa en la bandeja para hornear.",
+        "En un bol pequeño, mezcle el cilantro, la ralladura de lima, el jugo de lima, la miel, el ajo, la pimienta negra molida y la sal. Vierta la mezcla uniformemente sobre el pollo y hornee durante 45 a 50 minutos o hasta que la temperatura interna del trozo de pollo más grande sea de 165 grados."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Mexican/Southwestern",
+        "Gluten-Free",
+        "Dinner",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "4.5g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "55mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "4g",
+        "fiber": "0g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-cilantro-lime-roasted-chicken"
+}

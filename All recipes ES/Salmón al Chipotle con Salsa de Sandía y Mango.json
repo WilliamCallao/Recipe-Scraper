@@ -1,0 +1,97 @@
+{
+    "title": "Salmón al Chipotle con Salsa de Sandía y Mango",
+    "keywords": "Quick & Easy,Main Dish,Dinner",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Diabetic%20salmon%20watermelon%20salsa.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "filetes de salmón (4 oz cada uno)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "salsa adobo de chile chipotle en lata (picado)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cacao en polvo sin azúcar",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Mango enlatado envasado en agua (escurrido y cortado en cubitos pequeños)",
+            "us_amount": "15 oz",
+            "metric_amount": "425 ml"
+        },
+        {
+            "name": "Proteína en polvo de vainilla (o chocolate)",
+            "us_amount": "1/2 small",
+            "metric_amount": "1/2 small"
+        },
+        {
+            "name": "chile jalapeño (picado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Lima (rallada y exprimida)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "queso de cabra (chevre) (desmenuzado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 grados F. Cubra una bandeja para hornear con papel de aluminio.",
+        "Picar finamente los pimientos en adobo y colocar en un tazón pequeño junto con el aceite de oliva, revolver para combinar.",
+        "Coloca el salmón en la bandeja para hornear y esparce la mezcla sobre los filetes. Coloca la bandeja para hornear en el horno y hornea durante 8 a 10 minutos, hasta que el salmón alcance una temperatura de 145 grados F.",
+        "Mientras tanto, combine la sandía, el mango, la cebolla morada, el jalapeño, la ralladura y el jugo de lima, la sal, la pimienta y el cilantro en un bol. Revuelva para combinar la salsa.",
+        "Divida el pescado en platos y cubra con la salsa de sandía."
+    ],
+    "tags": [
+        "Seafood",
+        "Quick & Easy",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "290",
+        "total_fat": "13g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "320mg",
+        "total_carbohydrate": "21g",
+        "fiber": "2g",
+        "sugar": "17g",
+        "added_sugar": "0g",
+        "protein": "23g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chipotle-salmon-watermelon-mango-salsa"
+}

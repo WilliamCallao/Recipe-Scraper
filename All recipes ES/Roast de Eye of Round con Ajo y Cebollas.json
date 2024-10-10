@@ -1,0 +1,87 @@
+{
+    "title": "Roast de Eye of Round con Ajo y Cebollas",
+    "keywords": "Dinner,Main Dish,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Dinner",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_691_2Step_EyeOfRoundRoastWithGarlicOnions_022618.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Granulado de café instantáneo",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Divida las enchiladas entre los platos y cubra con cebollas verdes y una cucharada de yogur griego si lo desea.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla(s) (cortadas en gajos de 1/4 de pulgada de grosor)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "cabeza de ajo entera (alrededor de 12 a 16 dientes, pelados solamente)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 475 °F. Combine los granos de café, el chile en polvo, la sal y la pimienta y presione la mezcla sobre todos los lados de la carne. Coloque el asado en el centro de una bandeja para hornear de 13 × 9 pulgadas, disponga las cebollas y el ajo alrededor y rocíe con aceite. Hornee durante 20 minutos, dando vuelta la carne y revolviendo la mezcla de cebolla después de 10 minutos.",
+        "Reducir la temperatura del horno a 300 °F (no sacar el asado del horno). Hornear durante 30 minutos o hasta que el termómetro registre 120 °F. Apagar el horno. Colocar el asado sobre una tabla de cortar y dejar reposar durante 10 minutos antes de cortarlo en rodajas finas en dirección contraria a la fibra. Incorporar el agua a la mezcla de cebolla en la sartén, raspando el fondo y los lados de la sartén, y colocar en el horno mientras la carne reposa. Servir con la carne."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Comfort Food",
+        "Dinner",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "185",
+        "total_fat": "6g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "335mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/eye-round-roast-garlic-onions"
+}

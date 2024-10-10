@@ -1,0 +1,74 @@
+{
+    "title": "Coliflor, Cebollas y Batatas Asadas",
+    "keywords": "Vegetarian,Sides,Gluten-Free",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Gluten-Free"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/jan2015-roasted-cauliflower.jpg",
+        "Onions",
+        "And Sweet Potatoes\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "floretes de coliflor frescos (cortados en trozos de 1 pulgada)",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "batata (pelada y cortada en cubos de 3/4 de pulgada)",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "cebolla mediana (cortada en 8 gajos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "nuez moscada molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425°F.",
+        "Coloque la coliflor, las papas y la cebolla en una bandeja para hornear grande forrada con papel de aluminio. Rocíe con el aceite y revuelva suavemente hasta que estén bien cubiertos. Coloque las verduras en una sola capa y hornee durante 10 minutos. Revuelva y hornee durante 10 a 11 minutos o hasta que las papas estén tiernas. Retire del horno.",
+        "Espolvorear uniformemente con sal y nuez moscada. Envolver las verduras en papel de aluminio y sellar los bordes. Dejar reposar durante 10 minutos para que absorban los sabores y permitan que los jugos naturales se liberen ligeramente."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Vegetarian",
+        "Sides",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "15g",
+        "fiber": "3g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-cauliflower-onions-and-sweet-potatoes"
+}

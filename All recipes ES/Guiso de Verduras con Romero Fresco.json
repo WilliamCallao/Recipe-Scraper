@@ -1,0 +1,110 @@
+{
+    "title": "Guiso de Verduras con Romero Fresco",
+    "keywords": "Main Dish,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "PT22M",
+    "categories": [
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_895_Vegetable_Stew_With_Fresh_Rosemary_DiabetesHeartHealthy_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Caldo de verduras bajo en sodio (sin grasa, bajo en sodio, uso dividido)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "patatas rojas pequeñas (cortadas por la mitad)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "zanahorias bebé",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cebollas perladas congeladas",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Corte las manzanas en gajos, quitando el corazón. Corte los gajos de modo que tengan ¼ de pulgada de grosor. Agregue las manzanas a una sartén grande con ½ taza de agua. Cubra y cocine a fuego medio a medio alto durante 10 minutos, hasta que las manzanas se ablanden ligeramente. Revuelva de vez en cuando.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "calabacín pequeño (cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "champiñones blancos (cortados en rodajas, como los champiñones blancos, los champiñones marrones (cremini), los portobello o los shiitake (sin los tallos))",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "romero fresco picado o 1 cucharadita de romero seco (triturado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimienta",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "harina para todo uso",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "espárragos (recortados y cortados en diagonal en trozos de 1 pulgada)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "Sirva con un poco de polenta cocida o cubra una ensalada verde con esta mezcla.",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Queso parmesano (rallado o rallado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "En una cacerola grande, ponga a hervir a fuego medio-alto 3 tazas de caldo, las papas, las zanahorias y las cebollas perladas. Reduzca el fuego y cocine a fuego lento, tapado, durante 15 minutos o hasta que las papas y las zanahorias estén tiernas.",
+        "Incorpore la calabaza amarilla, el calabacín, los hongos, el romero, la pimienta y la sal. Cocine a fuego lento, tapado, durante 3 o 4 minutos o hasta que ambas calabazas estén ligeramente tiernas.",
+        "En un bol mediano, mezcle la taza restante de caldo y la harina. Incorpore la mezcla de harina, los espárragos y las cebollas verdes al guiso. Cocine a fuego lento durante 2 o 3 minutos o hasta que el guiso se haya espesado y los espárragos estén tiernos y crujientes.",
+        "Justo antes de servir, espolvorear el guiso con el parmesano."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Comfort Food",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "2g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "310mg",
+        "total_carbohydrate": "44g",
+        "fiber": "7g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/vegetable-stew-fresh-rosemary"
+}

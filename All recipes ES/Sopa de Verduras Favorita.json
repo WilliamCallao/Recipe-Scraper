@@ -1,0 +1,114 @@
+{
+    "title": "Sopa de Verduras Favorita",
+    "keywords": "Sides,Dinner,Lunch,Budget Friendly",
+    "prep_time": "PT25M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Dinner",
+        "Lunch",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_235_Favorite_Vegetable_Soup%20_iStock-184856345.jpg",
+    "servings": "14 Servings",
+    "ingredients": [
+        {
+            "name": "Precaliente el horno a 300 grados F. Cubra una bandeja para hornear con papel pergamino.",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "tomates frescos pelados y picados o 2 latas de 28 oz de tomates cortados en cubitos sin sal agregada",
+            "us_amount": "7 cups",
+            "metric_amount": "7 cups"
+        },
+        {
+            "name": "agua",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "Judías verdes cortadas (14,5 onzas, sin sal añadida, escurridas y enjuagadas)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "Guisantes (15 onzas, sin sal añadida, escurridos y enjuagados)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "Maíz (15,25 onzas, sin sal añadida, escurrido y enjuagado)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "zanahorias medianas (3 onzas cada una, peladas y picadas)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "papas medianas (5 onzas cada una, peladas y cortadas en cubitos)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "Cebolla mediana (5 onzas, cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "arroz seco",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Tortillas de maíz de 6 pulgadas (calentadas)",
+        "En un recipiente mediano, mezcle la salsa, el jugo de limón, el cilantro, el chile en polvo, la sal y la pimienta. Deje de lado.",
+        "Agregue los ingredientes restantes, cubra y continúe cocinando 60 minutos más para permitir que los sabores se mezclen."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "Comfort Food",
+        "Sides",
+        "Dinner",
+        "Lunch",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "115",
+        "total_fat": "1g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "130mg",
+        "total_carbohydrate": "20g",
+        "fiber": "4g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/favorite-vegetable-soup"
+}

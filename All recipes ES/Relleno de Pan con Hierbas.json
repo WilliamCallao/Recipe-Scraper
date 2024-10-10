@@ -1,0 +1,84 @@
+{
+    "title": "Relleno de Pan con Hierbas",
+    "keywords": "Vegetarian,Dinner,Holidays & Entertaining,Lunch,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Vegetarian",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1252-diabetic-thanksgiving-herbed-bread-stuffing_healthy-home-ckbk_AdobeStock228573933_102419.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "comino",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "cebolla (cortada en cubitos)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "manzana (cortada en cubitos)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "condimento para aves sin sal",
+            "us_amount": "1-2 tsp",
+            "metric_amount": "1-2 tsp"
+        },
+        {
+            "name": "caldo de pollo o verduras bajo en sodio",
+            "us_amount": "4 cups",
+            "metric_amount": "4 cups"
+        },
+        {
+            "name": "cubos de relleno sin condimentar",
+            "us_amount": "1 package",
+            "metric_amount": "1 package"
+        },
+        {
+            "name": "apio (en rodajas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "cebolla verde (en rodajas)",
+        "Colóquelo en una cacerola apta para horno. Hornee durante 30 minutos. Si desea que el relleno quede crocante, hornéelo sin tapar. Para que el relleno quede más suave, cúbralo con papel de aluminio."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Kid Friendly",
+        "Vegetarian",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "280mg",
+        "total_carbohydrate": "27g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/herbed-bread-stuffing"
+}

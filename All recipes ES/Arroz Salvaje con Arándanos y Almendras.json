@@ -1,0 +1,78 @@
+{
+    "title": "Arroz Salvaje con Arándanos y Almendras",
+    "keywords": "Sides,Vegetarian,Gluten-Free,Holidays & Entertaining",
+    "prep_time": "PT10M",
+    "cook_time": "PT1H15M",
+    "categories": [
+        "Sides",
+        "Vegetarian",
+        "Gluten-Free",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/034-diabetic-Wild-Rice-Cranberries-Almonds_PNC_022318.jpg",
+    "servings": "11 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla pequeña (cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "agua",
+            "us_amount": "3 1/2 cup",
+            "metric_amount": "828 ml"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio (sin grasa, reducido en sodio)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "aceite de girasol (uso dividido)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "Almendras fileteadas (tostadas)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "arándanos (secos)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite en una olla grande a fuego medio. Agrega la cebolla y cocina durante 3 a 4 minutos.",
+        "Añade el agua y el caldo de pollo a la sartén y deja hervir.",
+        "Agregue el arroz; cubra y cocine según las instrucciones del paquete; generalmente alrededor de 50 a 60 minutos.",
+        "Añade la harina a los champiñones y saltea durante 2 minutos, luego agrega el caldo y revuelve bien, raspando los trozos del fondo de la sartén."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Sides",
+        "Vegetarian",
+        "Gluten-Free",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "50mg",
+        "total_carbohydrate": "20g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/wild-rice-cranberries-and-almonds"
+}

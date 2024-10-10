@@ -1,0 +1,86 @@
+{
+    "title": "Hummus de Frijoles Negros",
+    "keywords": "Vegetarian,Quick & Easy,Snacks,Easy Pantry Recipes,Appetizers,Holidays & Entertaining,Gluten-Free",
+    "prep_time": "Desconocido",
+    "cook_time": "PT0M",
+    "categories": [
+        "Vegetarian",
+        "Quick & Easy",
+        "Snacks",
+        "Easy Pantry Recipes",
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/007-diabetic-black-bean-hummus_Thinkstock-988547210%29110818.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "tahini",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "comino",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "frijoles negros enlatados bajos en sodio (enjuagados y escurridos)",
+            "us_amount": "1 (15.5-oz) can",
+            "metric_amount": "1 (15.5-oz) can"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "agua",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque todos los ingredientes en un procesador de alimentos y mezcle hasta obtener una mezcla homogénea. Agregue más agua si la consistencia es demasiado espesa."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Mediterranean",
+        "Vegetarian",
+        "Quick & Easy",
+        "Snacks",
+        "Easy Pantry Recipes",
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "3g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "40mg",
+        "total_carbohydrate": "8g",
+        "fiber": "3g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/black-bean-hummus"
+}

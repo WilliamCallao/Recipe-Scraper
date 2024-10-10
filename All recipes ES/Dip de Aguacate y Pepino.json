@@ -1,0 +1,88 @@
+{
+    "title": "Dip de Aguacate y Pepino",
+    "keywords": "Snacks,Vegetarian,Quick & Easy,No Cook,Cooking for 1 or 2,Appetizers",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Snacks",
+        "Vegetarian",
+        "Quick & Easy",
+        "No Cook",
+        "Cooking for 1 or 2",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_97245692.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "aguacate pequeño",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "Pepino para encurtir (como Kirby o 1/3 de pepino pequeño)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "crema agria (sin grasa)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "menta fresca picada o 1/4 cucharadita de menta seca (desmenuzada)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "zumo de lima",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "margarina (sin grasas trans)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "¿Puedes caldo de pollo bajo en sodio (o 1½ taza de caldo de pollo casero)?",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "pimienta negra",
+        "En un tazón grande, mezcle la calabaza, las coles de Bruselas, la cebolla, el edulcorante Splenda Monk Fruit, el aceite de oliva, la canela y la nuez moscada hasta que estén cubiertos.",
+        "limón (jugo)"
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Mexican/Southwestern",
+        "Snacks",
+        "Vegetarian",
+        "Quick & Easy",
+        "No Cook",
+        "Cooking for 1 or 2",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "55",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "3g",
+        "fiber": "2g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/avocado-cucumber-dip"
+}

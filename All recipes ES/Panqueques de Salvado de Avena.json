@@ -1,0 +1,76 @@
+{
+    "title": "Panqueques de Salvado de Avena",
+    "keywords": "Breakfast and Brunch",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2158_2.21%20Oat%20Bran%20Pancakes.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "salvado de avena",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "harina para todo uso",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Edulcorante granulado Splenda®",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Levadura en polvo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "bicarbonato",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "suero de leche bajo en grasa",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "sustituto de huevo",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "En un tazón grande, mezcle el salvado de avena, la harina, el edulcorante Splenda, el polvo para hornear, el bicarbonato de sodio y la sal.",
+        "En otro recipiente, mezcle el suero de leche y el sustituto de huevo. Vierta la mezcla de huevo sobre los ingredientes secos. Revuelva hasta que los ingredientes se hayan mezclado sin grumos grandes de harina.",
+        "Calienta una plancha o sartén antiadherente a fuego medio.",
+        "Vierta la mezcla, aproximadamente ¼ de taza a la vez, sobre una plancha caliente. Cocine los panqueques hasta que estén inflados, dorados y ligeramente secos en los bordes. Dé vuelta y cocine el otro lado hasta que estén dorados."
+    ],
+    "tags": [
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "2g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "2mg",
+        "sodium": "320mg",
+        "total_carbohydrate": "23g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/oat-bran-pancakes"
+}

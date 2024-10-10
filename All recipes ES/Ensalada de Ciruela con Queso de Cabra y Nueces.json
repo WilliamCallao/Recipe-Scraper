@@ -1,0 +1,77 @@
+{
+    "title": "Ensalada de Ciruela con Queso de Cabra y Nueces",
+    "keywords": "Lunch,Holidays & Entertaining,Foodie",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Holidays & Entertaining",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Plum%20salad%20diabetic%20diabetes%20food%20hub.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "verduras mixtas",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "ciruelas (sin hueso y en rodajas)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Pepino(s) inglés(s) (en rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "nueces (picadas y tostadas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "queso de cabra (desmenuzado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "vinagreta balsámica sin azúcar o sin azúcar añadido",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Condimentar con sal y pimienta al gusto.",
+        "Agregue las nueces y el queso de cabra. Rocíe con vinagreta balsámica y revuelva suavemente para cubrir.",
+        "Cocinar frijoles pintos secos en grandes cantidades: agregue 1 libra (16 oz) de frijoles pintos secos a una olla grande con agua hirviendo (al menos 6 tazas de agua). Hierva rápidamente durante 2 minutos. Retire del fuego y cubra. Deje reposar durante 1 hora. Escurra y enjuague los frijoles. Agregue 6 tazas de agua fresca. Lleve a ebullición, luego reduzca a fuego lento durante una hora o hasta que los frijoles estén suaves pero no partidos. Rinde 5 tazas de frijoles cocidos. Estos frijoles se pueden usar en cualquier receta que requiera frijoles cocidos o enlatados. Guárdelos en un recipiente hermético en el refrigerador durante 7 días o envuélvalos en bolsas para congelador en incrementos de una taza durante hasta 6 meses."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "French",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "14g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "15g",
+        "fiber": "4g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/plum-salad-goat-cheese-and-walnuts"
+}

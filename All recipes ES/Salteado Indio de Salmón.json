@@ -1,0 +1,93 @@
+{
+    "title": "Salteado Indio de Salmón",
+    "keywords": "Dinner,Foodie,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_747_IndianSalmonStirFry_PerfectComfortCollection_022618.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "aceite vegetal (uso dividido)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "semillas de comino",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "semillas de mostaza marrón",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cúrcuma",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "brócoli (al vapor)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "Coloque el hummus en un tazón pequeño en el centro del plato.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Añade la mezcla para hornear a la licuadora y procesa hasta que se integre. Agrega las chispas de chocolate en miniatura y vierte en el molde preparado.",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "jengibre fresco (pelado, rallado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chiles verdes picantes (finamente picados, opcional)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "tomates cherry (cortados por la mitad)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "agua (uso dividido)",
+        "Añade el resto del aceite a la sartén. Baja el fuego a medio. Añade la cebolla y saltea durante unos 6-7 minutos hasta que la cebolla esté blanda. Añade el ajo, el jengibre y el chile y saltea durante 1 minuto. Añade los tomates cherry y saltea durante 1-2 minutos hasta que los tomates cherry empiecen a ablandarse. Vuelve a añadir el salmón y saltea muy suavemente durante 1 minuto."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Indian",
+        "Seafood",
+        "Comfort Food",
+        "Dinner",
+        "Foodie",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "10g",
+        "saturated_fat": "1.7g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "65mg",
+        "total_carbohydrate": "8g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/indian-salmon-stir-fry"
+}

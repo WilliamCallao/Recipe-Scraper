@@ -1,0 +1,132 @@
+{
+    "title": "Sancocho Costero",
+    "keywords": "Soup,One Pot,Main Dish,Lunch,Dinner,Budget Friendly",
+    "prep_time": "PT20M",
+    "cook_time": "PT50M",
+    "categories": [
+        "Soup",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1739-espanol-diabetic-sancocho-costa_Cocinando_20620.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "repollo finamente picado",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "guisantes frescos o congelados",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "zumo de lima",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "pechugas de pollo (sin hueso, sin piel, cortadas en cubos de 1 pulgada)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "Batir los huevos en un bol mediano. Incorporarlos lentamente a la mezcla de leche hasta que estén bien mezclados. Verter en la fuente para horno.",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "zanahorias (en cubos)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "patatas (peladas y cortadas en trozos)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "leche desnatada",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Calienta la cucharada restante de aceite de oliva en la misma sartén a fuego medio. Cuando el aceite esté titilante, añade el ajo y cocina hasta que desprenda un aroma fragante, durante 30 segundos. Añade las hojas de berza y ​​la calabaza y cocina hasta que las hojas de berza se hayan marchitado y la calabaza comience a ablandarse, unos 5 minutos. Añade el caldo de verduras y lleva la mezcla a ebullición. Baja el fuego y cocina a fuego lento, tapado, hasta que las verduras estén bien cocidas, durante 10 minutos.",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "jugo de almejas",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "cilantro fresco picado (uso dividido)",
+            "us_amount": "1 tbsp plus 1/2 cup",
+            "metric_amount": "1 tbsp plus 1/2 cup"
+        },
+        {
+            "name": "Pimiento rojo dulce o picante finamente picado",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Coloque los tomates en una ensaladera grande y espolvoree con sal. Deje reposar durante 5 minutos.",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Cebolla (pelada y picada fina, uso dividido)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Combine la otra mitad de la cebolla y 1/2 taza de cilantro en un tazón pequeño. Adorne cada porción de sopa con 1 cucharada de la mezcla.",
+        "Agregue las papas, las zanahorias, el plátano, el pescado y el jugo de limón y cocine a fuego lento durante 15 minutos. Agregue los guisantes y el repollo y cocine a fuego lento durante 5 minutos.",
+        "Añade la yuca y la leche, tapa y deja cocinar a fuego lento durante 20 minutos.",
+        "Calienta el aceite en una olla grande y saltea la mitad de la cebolla, el ajo, la pimienta y 1 cucharada de cilantro durante 3 o 4 minutos. Agrega el jugo de almejas y el agua y deja que hierva."
+    ],
+    "tags": [
+        "Latin American",
+        "Soup",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "205",
+        "total_fat": "3g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "31g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/coastal-sancocho"
+}

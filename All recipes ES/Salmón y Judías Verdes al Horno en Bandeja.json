@@ -1,0 +1,83 @@
+{
+    "title": "Salmón y Judías Verdes al Horno en Bandeja",
+    "keywords": "Budget Friendly,Cooking for 1 or 2,Dinner,Easy Pantry Recipes,Main Dish,Quick & Easy,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Budget Friendly",
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Main Dish",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2034-diabetic-sheet-pan-Salmon-Green-Beans_DaVita_040821.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "Salmón (dividido en dos porciones)",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "mayonesa",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "eneldo fresco",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "judías verdes frescas",
+            "us_amount": "1/4 lbs",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "limón",
+            "us_amount": "2 slice",
+            "metric_amount": "2 slice"
+        }
+    ],
+    "instructions": [
+        "Espolvoree el pescado con sal y 1/4 cucharadita de pimienta negra. Caliente el aceite en una sartén grande. Agregue los filetes de pescado y dore durante unos 5 minutos por lado. Vuelva a calentar la salsa de pimienta en una cacerola pequeña, si es necesario. Sirva el pescado sobre un charco de salsa, con 1 tortilla y 1/2 taza de jícama por porción.",
+        "En un bol mediano o en una bolsa de plástico grande con cierre, mezcla la pasta de miso, el vinagre de arroz, ½ cucharada de aceite de sésamo y el ajo. Añade el salmón y cúbrelo suavemente con la marinada. Cubre el bol o sella la bolsa y deja marinar en el frigorífico durante 15 minutos (si tienes poco tiempo, puedes omitir el paso de marinado).",
+        "Combine el eneldo y la mayonesa en un tazón pequeño. Extienda la mezcla uniformemente sobre ambos filetes.",
+        "Mezcle las judías verdes con aceite de oliva y luego colóquelas alrededor de los filetes de salmón.",
+        "Coloque la bandeja para hornear en la rejilla del medio y ase el salmón durante 14 a 16 minutos. El pescado estará listo cuando la carne comience a desmenuzarse fácilmente con un tenedor. Adorne con rodajas de limón y más eneldo fresco."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Budget Friendly",
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Main Dish",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "350",
+        "total_fat": "28g",
+        "saturated_fat": "5g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1.5g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sheet-pan-salmon-and-green-beans"
+}

@@ -1,0 +1,105 @@
+{
+    "title": "Espaguetis Scampi de Camarones con Fideos de Calabacín y Tomates Frescos",
+    "keywords": "Lunch,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Lunch",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shrimp-scampi-spaghetti-with-zucchini-noodles-fresh-tomatoes.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "espaguetis cocidos (finos)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "camarones medianos (pelados y desvenados)",
+            "us_amount": "2 large",
+            "metric_amount": "2 large"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "cebolla amarilla (picada)",
+            "us_amount": "1/2 large",
+            "metric_amount": "1/2 large"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Camarones (grandes, frescos [nunca congelados], crudos, pelados y desvenados)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "Perejil italiano (picado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "limón",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra (o al gusto)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "tomates cherry (cortados por la mitad)",
+            "us_amount": "1 pints",
+            "metric_amount": "480 ml"
+        },
+        {
+            "name": "En un bol pequeño, mezcle los ingredientes del aderezo. Vierta el aderezo sobre los pepinos y los tomates y sirva.",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        }
+    ],
+    "instructions": [
+        "Hervir los espaguetis según las instrucciones del paquete. Escurrirlos y reservarlos en un bol grande.",
+        "Utilice un espiralizador o un pelador en juliana para crear fideos de calabacín y reserve.",
+        "Calienta el aceite de oliva en una sartén grande a fuego medio. Agrega la cebolla, el ajo y las hojuelas de pimiento rojo. Cuando la cebolla esté traslúcida, agrega los camarones y cocínalos hasta que estén rosados.",
+        "Retirar del fuego, agregar el perejil y mezclar. Exprimir el jugo de limón sobre los camarones (Nota: Si es posible, usar camarones frescos [nunca congelados] o camarones sin conservantes) y sazonar con sal y pimienta. Verter los camarones y el líquido sobre los espaguetis. Agregar los fideos de calabacín y los tomates y mezclar hasta que el calabacín se ablande un poco.",
+        "Decorar con queso parmesano."
+    ],
+    "tags": [
+        "Seafood",
+        "Lunch",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "510",
+        "total_fat": "17g",
+        "saturated_fat": "3.4g",
+        "trans_fat": "0g",
+        "cholesterol": "175mg",
+        "sodium": "370mg",
+        "total_carbohydrate": "55g",
+        "fiber": "5g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "35g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/shrimp-scampi-spaghetti-zucchini-noodles-and-fresh-tomatoes"
+}

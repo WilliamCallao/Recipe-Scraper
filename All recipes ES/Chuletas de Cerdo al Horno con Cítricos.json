@@ -1,0 +1,86 @@
+{
+    "title": "Chuletas de Cerdo al Horno con Cítricos",
+    "keywords": "Budget Friendly,Dinner,Main Dish",
+    "prep_time": "PT10M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_660_Budget-Friendly%20Citrus_Baked_Pork_Chops_BudgetFriendlyCookbook_022518.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Margarina Smart Balance",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "limón (cortado en seis rodajas redondas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ketchup (preferiblemente sin azúcar)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "salsa de pimienta picante",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "dátiles sin hueso (unos 15 dátiles, varía según el tamaño)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375°F.",
+        "Espolvorear la carne con la pimienta y el limón.",
+        "chips de chocolate",
+        "Escurre la grasa y colócalas en una fuente para horno. Coloca una rodaja de limón sobre cada chuleta.",
+        "Combine el ketchup, el agua y la salsa de pimienta y vierta sobre las chuletas.",
+        "Hornee hasta que esté tierno pero ya no rosado, aproximadamente 50 minutos."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Caribbean",
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "11g",
+        "saturated_fat": "3.1g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "305mg",
+        "total_carbohydrate": "5g",
+        "fiber": "0g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/citrus-baked-pork-chops"
+}

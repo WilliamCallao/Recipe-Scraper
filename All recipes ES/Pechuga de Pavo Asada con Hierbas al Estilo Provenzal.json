@@ -1,0 +1,102 @@
+{
+    "title": "Pechuga de Pavo Asada con Hierbas al Estilo Provenzal",
+    "keywords": "Lunch,Main Dish,Holidays & Entertaining,Foodie,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT1H30M",
+    "categories": [
+        "Lunch",
+        "Main Dish",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/841-diabetic-Provencal-Style-Herb-Roasted-Turkey-Breast_MediterraneanCkbk_050319.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "Aceite de Oliva Virgen Extra (dividido)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pechuga de pavo con hueso",
+            "us_amount": "1 (about 3 1/2 lb)",
+            "metric_amount": "1 (about 3 1/2 lb)"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Pimienta negra recién molida, al gusto",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Hierbas de Provenza",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "condimento para aves",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cabeza de ajo (cortar la parte superior)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "limón (cortado por la mitad)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "romero fresco",
+            "us_amount": "1 sprig",
+            "metric_amount": "1 sprig"
+        },
+        {
+            "name": "tomillo fresco",
+            "us_amount": "1 sprig",
+            "metric_amount": "1 sprig"
+        },
+        {
+            "name": "salvia fresca",
+            "us_amount": "1 sprig",
+            "metric_amount": "1 sprig"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425 °F. Use 1 cucharada de aceite de oliva para engrasar el fondo de una fuente grande para asar.",
+        "Seque la pechuga de pavo con una toalla de papel y sazone con sal y pimienta. Coloque la pechuga de pavo con la piel hacia arriba en la sartén. Pinte el pavo con el aceite de oliva restante. Espolvoree hierbas provenzales y condimento para aves sobre el pavo y frótelo sobre la piel con las manos. Coloque la cabeza de ajo entera, la mitad de un limón, el romero, el tomillo y la salvia en la sartén. Exprima el jugo de limón de la mitad restante del limón sobre la parte superior del pavo.",
+        "Coloque el pavo en el horno, agregue una taza de agua al fondo de la fuente y áselo sin tapar durante 1 hora. Rocíe el pavo con la mezcla después de la primera hora de cocción. Si el pavo se ve muy dorado, cúbralo con papel de aluminio. Continúe horneándolo durante otros 30 a 45 minutos o hasta que la temperatura interna de la parte más gruesa de la pechuga de pavo marque 180 °F en un termómetro para carne. Retire del horno y coloque sobre una tabla para cortar. Deje reposar durante 10 minutos antes de cortarlo. Retire la piel mientras lo corta.",
+        "Precaliente el horno a 400 grados F. Rocíe con aceite en aerosol un molde para hornear de 8 pulgadas. Déjelo a un lado."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Mediterranean",
+        "French",
+        "Lunch",
+        "Main Dish",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "0g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/provencal-style-herb-roasted-turkey-breast"
+}

@@ -1,0 +1,114 @@
+{
+    "title": "Napoleón de Verduras a la Parrilla",
+    "keywords": "Sides,Vegetarian,Dinner,Foodie",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Vegetarian",
+        "Dinner",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/295-diabetic-grilled-vegetable-napoleon_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pasta rotini o penne de trigo integral (sin cocinar)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Calabacín mediano (cortado a lo largo en 4 rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Calabaza amarilla mediana (cortada a lo largo en 4 rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Pimiento morrón naranja (cortado en 4 rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "berenjena pequeña (cortada a lo largo en 4 rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "queso de cabra (chevre) (ablandado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Yogur griego natural sin grasa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "ajo (picado o rallado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "queso feta (bajo en grasa)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "humus",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "aceite de oliva (hasta 4 cucharadas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente una parrilla interior o exterior.",
+        "En un tazón grande, mezcle el aceite de oliva, el vinagre balsámico y la pimienta negra molida.",
+        "Agregue rodajas de calabacín, calabaza, pimiento morrón y berenjena a la marinada y deje reposar durante 5 minutos.",
+        "comino",
+        "Una vez asados, corta el calabacín, la berenjena y la calabaza por la mitad a lo ancho, de modo que tengas 8 trozos de cada uno y déjalos enfriar.",
+        "En un tazón mediano, mezcle el queso de cabra, el yogur, el ajo, el orégano y la pimienta negra molida.",
+        "Coloca la quinua enfriada en un tazón grande y agrega los camarones y las vieiras, los frijoles, el jalapeño, el pimiento morrón, el tomate, las cebolletas, el mango y el aguacate. Vierte el aderezo sobre la mezcla y revuelve suavemente para combinar."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "French",
+        "Grilling",
+        "Sides",
+        "Vegetarian",
+        "Dinner",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "7g",
+        "saturated_fat": "2.8g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "80mg",
+        "total_carbohydrate": "19g",
+        "fiber": "4g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-vegetable-napoleon"
+}

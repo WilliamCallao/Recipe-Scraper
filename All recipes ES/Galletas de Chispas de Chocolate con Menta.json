@@ -1,0 +1,95 @@
+{
+    "title": "Galletas de Chispas de Chocolate con Menta",
+    "keywords": "Dessert",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Splenda_Recipes_MAR_779x590.jpg",
+    "servings": "39 Servings",
+    "ingredients": [
+        {
+            "name": "harina para todo uso",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "En una olla grande, calienta el aceite a fuego medio-bajo. Agrega la cebolla y el pimiento morrón y cocina, revolviendo, hasta que se ablanden, durante 3 a 5 minutos. Agrega el ajo y cocina, revolviendo, durante 2 minutos.",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "aceite de sésamo tostado (dividido)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Crema de aceite vegetal",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Endulzante con Stevia Splenda® en frasco",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "huevos (temperatura ambiente)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Yogur griego natural sin grasa (a temperatura ambiente)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Mezcla de pudín de vainilla instantáneo sin azúcar (caja de 1 onza (28 g))",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "extracto de menta",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "colorante alimentario verde",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chips de chocolate endulzados con stevia o sin azúcar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375°F y prepare dos bandejas para hornear grandes con papel pergamino.",
+        "En un tazón pequeño, mezcle la harina, el bicarbonato de sodio y el polvo para hornear y reserve.",
+        "Engrase un molde para muffins de 12 agujeros con aceite en aerosol antiadherente y distribuya la mezcla de huevo y verduras de manera uniforme en los agujeros, llenando cada uno hasta la mitad o los tres cuartos. Coloque el molde para muffins en el horno y hornee hasta que las superficies de las frittatas estén doradas y los huevos estén listos, aproximadamente de 8 a 10 minutos. Deje enfriar un poco y sirva.",
+        "Atún envasado en agua (escurrido)",
+        "Queso parmesano (rallado)",
+        "Semilla de lino molida"
+    ],
+    "tags": [
+        "Lower Carb",
+        "Kid Friendly",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "4.5g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "110mg",
+        "total_carbohydrate": "10g",
+        "fiber": "2g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mint-chocolate-chip-cookies"
+}

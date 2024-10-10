@@ -1,0 +1,91 @@
+{
+    "title": "Pizzas de Pita con Verduras Griegas",
+    "keywords": "Dinner,Lunch,Quick & Easy,Sandwiches,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Sandwiches",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Diabetic%20greek%20pizza%20pita.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Pan pita de trigo integral (4 pulgadas de diámetro)",
+            "us_amount": "4 small",
+            "metric_amount": "4 small"
+        },
+        {
+            "name": "salsa de pizza baja en sodio en frasco",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "queso rallado italiano bajo en grasa",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Aceitunas Kalamata (en rodajas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pimientos rojos asados ​​(cortados en rodajas finas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Mientras se hornea el tofu, mezcle el caldo, la miel, la cucharada restante de salsa de soja, la cucharada restante de vinagre, el aceite de sésamo, las 2 cucharaditas restantes de maicena, la pasta de tomate y la salsa picante en un bol pequeño. Deje de lado.",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "chalotes (cortados en rodajas finas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "queso feta bajo en grasa (desmenuzado)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "albahaca fresca (cortada en juliana)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 grados F.",
+        "Cubra el pan de pita con salsa, aceitunas, pimientos, alcachofas, chalota y queso italiano.",
+        "Hornee en el horno hasta que el queso se derrita y la pita esté crujiente, 7-8 minutos.",
+        "Retirar del horno y cubrir con queso feta y albahaca fresca."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mediterranean",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy",
+        "Sandwiches",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "9g",
+        "saturated_fat": "3.1g",
+        "trans_fat": "0g",
+        "cholesterol": "15mg",
+        "sodium": "570mg",
+        "total_carbohydrate": "32g",
+        "fiber": "4g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/greek-vegetable-pita-pizzas"
+}

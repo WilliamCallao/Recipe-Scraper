@@ -1,0 +1,116 @@
+{
+    "title": "Quinoa al Curry con Calabaza y Garbanzos",
+    "keywords": "Dinner,Sides,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Dinner",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_685_CurriedQuinoaWithButternutSquashAndChickpeas_WholeCooking_022618.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "Calabaza pequeña (pelada, sin semillas y cortada en cubos (2 a 3 tazas))",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "En un tazón pequeño, mezcle el atún, la mayonesa, el yogur, la cebolla, el apio, el pimiento rojo, las aceitunas y la pimienta negra.",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Sal marina fina (dividida)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ajo (pelado)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "quinua cruda",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "huevos grandes",
+            "us_amount": "2 1/4 cup",
+            "metric_amount": "532 ml"
+        },
+        {
+            "name": "polvo de curry",
+            "us_amount": "1 1/2",
+            "metric_amount": "1 1/2"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1 1/2",
+            "metric_amount": "1 1/2"
+        },
+        {
+            "name": "jengibre fresco (rallado)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "polvo de mostaza",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "garbanzos (enjuagados y escurridos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "vinagre de vino tinto",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Ralladura de lima (recién rallada)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "semillas de calabaza",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "cilantro fresco (picado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Coloca las semillas de sésamo y de lino en una bandeja para hornear. Cubre las bolitas de dátiles con las semillas. Colócalas en una fuente para servir.",
+        "En un recipiente mediano, mezcle la calabaza con 1 cucharada de aceite de oliva, 1/4 cucharadita de sal y 1/8 cucharadita de pimienta. Mezcle para cubrir uniformemente. Extienda la calabaza sobre la bandeja para hornear preparada. Hornee durante unos 15 minutos, revuelva y luego hornee durante 15 minutos más o hasta que esté tierna. Retire la bandeja para hornear del horno y reserve.",
+        "Mientras la calabaza está en el horno, combina la quinua, el agua, el curry en polvo, el comino, el jengibre y la mostaza en polvo en una cacerola mediana a fuego medio-alto. Lleva la mezcla a ebullición, luego reduce el fuego a mínimo, tapa y cocina a fuego lento hasta que se absorba el líquido, aproximadamente entre 12 y 15 minutos. No revuelvas una vez tapado.",
+        "Colocar las verduras en una sola capa sobre la bandeja para hornear preparada. Asarlas en el horno precalentado durante 20-25 minutos hasta que estén tiernas y ligeramente caramelizadas."
+    ],
+    "tags": [
+        "Indian",
+        "Dinner",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "6g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "22g",
+        "fiber": "4g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/curried-quinoa-butternut-squash-and-chickpeas"
+}

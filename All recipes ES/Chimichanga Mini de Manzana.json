@@ -1,0 +1,77 @@
+{
+    "title": "Chimichanga Mini de Manzana",
+    "keywords": "Budget Friendly,Dessert,Quick & Easy,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Budget Friendly",
+        "Dessert",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/diabetic-mini-apple-chimichangas-tex-mex-cookbook_080318_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "manzana (sin corazón y picada)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Edulcorante granulado sin calorías, como Splenda (uso dividido)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Para comer como aperitivo, envuélvalo en film transparente y déjelo reposar en el refrigerador durante 2 o 3 horas. Corte los panecillos en rebanadas de 1′, con un movimiento de sierra. Sirva con el lado cortado hacia arriba en una fuente.",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Mezcle los dados de pimiento morrón, la cebolla, el brócoli y los champiñones en un tazón pequeño.",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 grados F.",
+        "Cuando esté listo para comer, agregue 2 huevos al frasco y revuelva bien (o selle el frasco y agítelo). Cocine en el microondas durante 30 segundos y revuelva. Repita hasta que los huevos estén listos (puede tomar entre 1 minuto y medio y 2 minutos según su microondas).",
+        "Para armar las chimichangas, apila 2 cucharaditas de relleno de manzana sobre cada tortilla y dobla cada extremo sobre el relleno. Enrolla las tortillas y sujeta cada una con un palillo. Rocía ligeramente las tortillas con aceite en aerosol. Coloca las tortillas dobladas con la costura hacia abajo en una bandeja para hornear. Espolvorea uniformemente con el resto del edulcorante granulado. Hornea durante 5 minutos, luego da vuelta y hornea 5 minutos más.",
+        "Saque las chimichangas de la bandeja para hornear y colóquelas en platos individuales. Si lo desea, adorne con una bola de helado o una cucharada de crema batida."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Mexican/Southwestern",
+        "Budget Friendly",
+        "Dessert",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "6g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "240mg",
+        "total_carbohydrate": "33g",
+        "fiber": "5g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mini-apple-chimichanga"
+}

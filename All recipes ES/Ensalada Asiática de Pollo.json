@@ -1,0 +1,96 @@
+{
+    "title": "Ensalada Asiática de Pollo",
+    "keywords": "Lunch,Gluten-Free,Dinner,Quick & Easy,Salads",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Gluten-Free",
+        "Dinner",
+        "Quick & Easy",
+        "Salads"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/046-diabetic-asian-chicken-salad_shutterstock-362719079_111418.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "lechuga romana (picada)",
+            "us_amount": "9 oz",
+            "metric_amount": "255 ml"
+        },
+        {
+            "name": "Pelar la cáscara de naranja en tiras (3 pulgadas)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "zanahorias ralladas",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Almendras fileteadas (tostadas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Semillas de sésamo tostadas (uso dividido)",
+            "us_amount": "1 tbsp plus 1 tsp",
+            "metric_amount": "1 tbsp plus 1 tsp"
+        },
+        {
+            "name": "pechuga de pollo cocida (cortada en cubitos)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "vinagre de arroz",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "salsa de soja baja en sodio",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "En un tazón mediano mezcle el repollo, la lechuga, las almendras, 1 cucharada de semillas de sésamo y el pollo.",
+        "En un tazón pequeño, mezcle el vinagre, la salsa de soja y el aceite.",
+        "Vierta el aderezo sobre la ensalada y revuelva para cubrir. Cubra con la cucharadita restante de semillas de sésamo y hojuelas de pimiento rojo."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Veggie Rich",
+        "Asian",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner",
+        "Quick & Easy",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "15g",
+        "saturated_fat": "1.8g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "470mg",
+        "total_carbohydrate": "9g",
+        "fiber": "4g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/asian-chicken-salad"
+}

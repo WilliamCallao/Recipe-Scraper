@@ -1,0 +1,107 @@
+{
+    "title": "Ensalada Griega de Orzo con Guisantes, Limón y Aceitunas Kalamata",
+    "keywords": "Salads,Sides,Vegetarian,Dinner,Lunch",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Sides",
+        "Vegetarian",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/Recid_267_Greek_Orzo_Salad_with%20Peas_Lemon_and_Kalamata_Olives_PNCImages_02272018.jpg",
+        "Lemon and Kalamata Olives\" loading=\"lazy\" />"
+    ],
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Orzo integral (cocido al dente, escurrido y enjuagado con agua fría)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "Pepino inglés (cortado en cubitos de 1/2 pulgada)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Tomates enteros enlatados (bajos en sodio, sin azúcar añadido, escurridos)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cebolla roja (picada (media cebolla mediana))",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Aceitunas Kalamata (sin hueso y picadas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "eneldo fresco (recién picado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "queso feta (bajo en grasa, desmenuzado)",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "guisantes congelados (descongelados)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "sustituto de azúcar bajo en calorías",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "2 1/2 tbsp",
+            "metric_amount": "37 ml"
+        },
+        {
+            "name": "Orégano seco (seco)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "hojas de espinaca baby (montones)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Combine todos los ingredientes, excepto las hojas de espinaca, en un recipiente grande. Deje marinar al menos una hora en el refrigerador, tapado, antes de servir. Agregue las hojas de espinaca justo antes de servir."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Mediterranean",
+        "Salads",
+        "Sides",
+        "Vegetarian",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "11g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "350mg",
+        "total_carbohydrate": "34g",
+        "fiber": "5g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/greek-orzo-salad-peas-lemon-and-kalamata-olives"
+}

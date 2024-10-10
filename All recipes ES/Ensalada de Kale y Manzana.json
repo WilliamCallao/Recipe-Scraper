@@ -1,0 +1,102 @@
+{
+    "title": "Ensalada de Kale y Manzana",
+    "keywords": "Dinner,Easy Pantry Recipes,Lunch,Quick & Easy,Salads,Sides,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Lunch",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1910-diabetic-kale-apple-slaw_create-your-plate_022020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Yogur griego natural sin grasa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "mostaza de dijon",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Retire la olla del fuego y haga puré aproximadamente la mitad de la sopa, usando una licuadora de inmersión o una licuadora vertical. Si usa una licuadora vertical, haga puré en tandas y asegúrese de no llenar demasiado la licuadora. Devuelva el puré a la olla.",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "Manzana Fuji (rallada con piel)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "En un tazón grande, mezcle el yogur, el ajo, la mostaza, el aceite de oliva, el jugo de limón, el agua, la sal y la pimienta negra.",
+        "romero seco"
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Lunch",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "4g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "13g",
+        "fiber": "3g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/kale-apple-slaw"
+}

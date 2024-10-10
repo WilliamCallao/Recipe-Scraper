@@ -1,0 +1,86 @@
+{
+    "title": "Ensalada de Batata",
+    "keywords": "Gluten-Free,Sides,Holidays & Entertaining,Quick & Easy",
+    "prep_time": "PT25M",
+    "cook_time": "PT7M",
+    "categories": [
+        "Gluten-Free",
+        "Sides",
+        "Holidays & Entertaining",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_546_Sweet_Potato_Salad_PNCImages_03012018.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "batatas grandes (de aproximadamente 13 onzas cada una)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "En una olla mediana a fuego medio, agrega las batatas, el agua, el jugo de jengibre y la sal. Cocina hasta que las batatas estén tiernas.",
+            "us_amount": "4 slice",
+            "metric_amount": "4 slice"
+        },
+        {
+            "name": "Trabajando en tandas, transfiera las papas y el agua de cocción a una licuadora o procesador de alimentos y procese hasta obtener una consistencia suave.",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Vinagre de sidra de manzana",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "bulbo de hinojo",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "apio (cortado en cubitos)",
+            "us_amount": "3 stalks",
+            "metric_amount": "3 stalks"
+        },
+        {
+            "name": "pico de gallo or salsa",
+            "us_amount": "2",
+            "metric_amount": "2"
+        }
+    ],
+    "instructions": [
+        "Pele las batatas y córtelas en cubos. Coloque las batatas en una olla grande. Cúbralas con agua y llévelas a hervir. Hierva hasta que estén tiernas, aproximadamente de 5 a 7 minutos. Escurra las papas y enjuáguelas con agua fría; deje enfriar.",
+        "Mientras se cocinan las patatas, cocine el tocino hasta que esté crujiente, luego córtelo o desmenúcelo en trozos pequeños.",
+        "En un tazón pequeño, mezcle el aceite de oliva, el vinagre de sidra de manzana, la pimienta y el ajo en polvo.",
+        "Coloque las batatas en un bol para servir y agregue el apio, las cebollas verdes y el tocino de pavo. Vierta el aderezo sobre la ensalada y revuelva hasta que las papas estén cubiertas. Sirva fría."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Gluten-Free",
+        "Sides",
+        "Holidays & Entertaining",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "3g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "95mg",
+        "total_carbohydrate": "15g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-potato-salad"
+}

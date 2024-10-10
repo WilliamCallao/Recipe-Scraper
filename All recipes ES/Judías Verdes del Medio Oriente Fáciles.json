@@ -1,0 +1,71 @@
+{
+    "title": "Judías Verdes del Medio Oriente Fáciles",
+    "keywords": "Vegetarian,Vegan,Sides,Quick & Easy,Cooking for 1 or 2,Budget Friendly",
+    "prep_time": "PT6M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Quick & Easy",
+        "Cooking for 1 or 2",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1835-diabetic-easy-middle-eastern-green-beans_clean-simple-ckbk_DFNovDec19_101019.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva virgen extra",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Judías verdes frescas (con los extremos del tallo recortados)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "tomates uva",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite en una sartén antiadherente grande a fuego medio. Agrega las judías verdes y los tomates, tapa y cocina hasta que las judías verdes estén tiernas pero crujientes y los tomates estén completamente blandos, aproximadamente 10 minutos. Revuelve con pinzas un par de veces durante la cocción.",
+        "Espolvoree las verduras con canela y sal. Mezcle bien y sirva."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mediterranean",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Quick & Easy",
+        "Cooking for 1 or 2",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "11g",
+        "fiber": "4g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/easy-middle-eastern-green-beans"
+}

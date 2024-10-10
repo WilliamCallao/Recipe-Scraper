@@ -1,0 +1,100 @@
+{
+    "title": "Pasteles de Pescado Salteados",
+    "keywords": "Main Dish,Lunch,Dinner",
+    "prep_time": "PT45M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/sauteed-fish-cakes-Oct14.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "aceite vegetal",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salsa picante",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "cebolla verde (cebolleta) (picada)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "pan rallado panko",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "huevos (batidos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "limón",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "hojas de tomillo fresco",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "yogur natural",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Spray antiadherente para cocinar",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "Añade suficiente agua para llenar 2/3 de una sartén grande. A fuego medio, lleva el agua a ebullición. Añade el pescado y cocina a fuego lento durante 5 a 7 minutos, o hasta que el pescado esté bien cocido. Retira los trozos de pescado con una espumadera. Añade el pescado a un bol y deja enfriar durante 5 minutos.",
+        "Añade los champiñones en rodajas a la sartén y cocínalos durante unos 6 a 8 minutos, revolviendo ocasionalmente, hasta que los champiñones suelten su humedad y se doren.",
+        "Saca las tortitas del refrigerador y déjalas reposar 5 minutos. En una sartén grande, calienta el aceite a fuego medio. Agrega las tortitas a la sartén y saltéalas durante unos 5 minutos de cada lado, hasta que estén doradas."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Kid Friendly",
+        "Seafood",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "4g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "325mg",
+        "total_carbohydrate": "8g",
+        "fiber": "0g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sauteed-fish-cakes"
+}

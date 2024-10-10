@@ -1,0 +1,107 @@
+{
+    "title": "Ensalada de Gazpacho para Barra de Ensaladas",
+    "keywords": "Vegetarian,Sides,Quick & Easy,Salads",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "Salads"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_468_Salad_Bar_Gazpacho_Salad_02282018.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "garbanzos, frijoles rojos o frijoles negros (de barra de ensalada o enlatados, escurridos y enjuagados)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "tomato(es) (diced)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "maíz",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "pepino(s) (cortado en cubitos)",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "cebolla roja (cortada en cubitos)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "cilantro (picado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "jugo de tomate (bajo en sodio)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "jugo de lima fresco",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chile en polvo (suave o picante)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Combine todos los ingredientes en un tazón grande y mezcle bien.",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "verduras mixtas",
+            "us_amount": "5 cup",
+            "metric_amount": "1 l 183 ml"
+        }
+    ],
+    "instructions": [
+        "Combine los frijoles, el tomate, el maíz, el pepino, la cebolla roja y el cilantro.",
+        "En un bol pequeño, mezcle el jugo de tomate, el jugo de lima, el aceite de oliva, el chile en polvo, la sal y la pimienta. Vierta sobre la ensalada y mezcle suavemente. Sirva sobre las verduras mixtas."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "25g",
+        "fiber": "6g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/salad-bar-gazpacho-salad"
+}

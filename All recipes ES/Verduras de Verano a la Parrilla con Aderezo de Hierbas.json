@@ -1,0 +1,125 @@
+{
+    "title": "Verduras de Verano a la Parrilla con Aderezo de Hierbas",
+    "keywords": "Vegetarian,Vegan,Sides,Holidays & Entertaining,Gluten-Free",
+    "prep_time": "PT15M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Holidays & Entertaining",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/25Sides_Grilledsummerveggieswithherbdressing.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "calabacines (en rodajas)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "pimiento rojo (en rodajas)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "pimiento amarillo (en rodajas)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "cebolla roja (cortada en aros)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "tomates cherry (cortados por la mitad)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra (uso dividido)",
+            "us_amount": "3/4 tsp",
+            "metric_amount": "4 g"
+        },
+        {
+            "name": "Aceite de Oliva Virgen Extra (para el aliño)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "vinagre balsámico (para el aderezo)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ajo (picado, para el aderezo)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "albahaca fresca (picada, para el aderezo)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Perejil fresco (picado, para el aderezo)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "tomillo fresco (para el aderezo)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sal (para el aderezo)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente la parrilla a fuego medio-alto.",
+        "hojas de menta fresca",
+        "Ase las verduras durante unos 10 minutos o hasta que estén tiernas y tengan marcas de parrilla, dándolas vuelta de vez en cuando.",
+        "Retire las verduras asadas del fuego.",
+        "Para preparar el aderezo: en un tazón pequeño, mezcle el aceite de oliva virgen extra, el vinagre balsámico, el ajo picado, la albahaca fresca picada, el perejil fresco picado, las hojas de tomillo fresco, la sal y 1/4 de cucharadita de pimienta negra.",
+        "Coloca las verduras asadas en una fuente para servir. Sirve el aderezo a un costado."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Mediterranean",
+        "Grilling",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Holidays & Entertaining",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "153",
+        "total_fat": "13.7g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "8g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-summer-veggies-herb-dressing"
+}

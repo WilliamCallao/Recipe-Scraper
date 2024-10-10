@@ -1,0 +1,75 @@
+{
+    "title": "Espinacas Salteadas en Ajo y Aceite",
+    "keywords": "Vegetarian,Sides,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_343494077.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "espinacas (recortadas, bien lavadas y secas)",
+            "us_amount": "2 1/4 lbs",
+            "metric_amount": "1 l 21 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "Aderezo ranchero ligero",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "Sal kosher",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "limón (cortado por la mitad)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite a fuego alto en una sartén muy grande hasta que esté muy caliente. Agrega la espinaca (puede que tengas que trabajar en tandas) y cocina, revolviendo, durante aproximadamente 1 o 2 minutos; la espinaca debe adquirir un color verde brillante y marchitarse ligeramente. Agrega el ajo y las hojuelas de chile rojo y continúa cocinando, revolviendo constantemente, hasta que el ajo comience a liberar su aroma, aproximadamente 30 segundos.",
+        "fresas (en rodajas)"
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "8g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "11g",
+        "fiber": "6g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spinach-sauteed-garlic-and-oil"
+}

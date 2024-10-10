@@ -1,0 +1,74 @@
+{
+    "title": "Burrito de Frijol Rápido",
+    "keywords": "Cooking for 1 or 2,Easy Pantry Recipes,Lunch,Main Dish,No Cook,Quick & Easy,Vegan,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT1M",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Easy Pantry Recipes",
+        "Lunch",
+        "Main Dish",
+        "No Cook",
+        "Quick & Easy",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1955-diabetic-easy-bean-burrito_clean-and-simple_042920.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "Tortilla de harina integral de 8 pulgadas",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "frijoles refritos vegetarianos",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "guacamole preparado (o puré de aguacate usado)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque la tortilla en un plato apto para microondas. Con una espátula, esparza los frijoles sobre la tortilla, dejando un borde de aproximadamente 1 pulgada.",
+        "Calienta en el microondas a máxima potencia durante 20 segundos o hasta que esté tibio. Cubre con el guacamole, las hojas verdes y el pico de gallo. Enrolla o dobla la tortilla sobre el relleno y sirve."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Cooking for 1 or 2",
+        "Easy Pantry Recipes",
+        "Lunch",
+        "Main Dish",
+        "No Cook",
+        "Quick & Easy",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "340",
+        "total_fat": "15g",
+        "saturated_fat": "3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "410mg",
+        "total_carbohydrate": "45g",
+        "fiber": "12g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fast-fix-bean-burrito"
+}

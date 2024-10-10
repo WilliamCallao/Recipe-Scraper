@@ -1,0 +1,115 @@
+{
+    "title": "Paella de Mariscos Valenciana",
+    "keywords": "Dinner,Foodie,Main Dish,One Pot",
+    "prep_time": "PT10M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Main Dish",
+        "One Pot"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1781-diabetic-Valencian-Seafood-Paella_Mediterranean-Ckbk_041819.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cebolla amarilla (cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "agua (o caldo de mariscos bajo en sodio)",
+            "us_amount": "1/4 lbs",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "calamares bebés (limpios y cortados en aros)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "Filetes de pescado blanco sin espinas, como bacalao o swai.",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "arroz español de grano medio",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "azafrán",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "pimentón dulce",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Perejil fresco finamente picado",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "caldo de pescado o marisco",
+            "us_amount": "5 cup",
+            "metric_amount": "1 l 183 ml"
+        },
+        {
+            "name": "Mientras tanto, agrega la mitad de los frijoles y 3/4 de taza del caldo a una licuadora o procesador de alimentos. Tapa y mezcla hasta que quede una mezcla homogénea.",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "jarred pimiento peppers",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Cocine la paella sin tapar durante 30 a 40 minutos o hasta que se absorba todo el líquido, revolviendo de vez en cuando. Cuando la paella esté lista, déjela reposar a temperatura ambiente durante 10 minutos. Adorne con pimientos y sirva caliente.",
+        "pimienta"
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Mediterranean",
+        "Seafood",
+        "Dinner",
+        "Foodie",
+        "Main Dish",
+        "One Pot"
+    ],
+    "nutrition": {
+        "calories": "280",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "145mg",
+        "sodium": "240mg",
+        "total_carbohydrate": "39g",
+        "fiber": "3g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/valencian-seafood-paella"
+}

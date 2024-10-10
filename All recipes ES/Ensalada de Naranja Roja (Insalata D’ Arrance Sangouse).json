@@ -1,0 +1,78 @@
+{
+    "title": "Ensalada de Naranja Roja (Insalata D’ Arrance Sangouse)",
+    "keywords": "Lunch,Salads,Sides",
+    "prep_time": "PT5M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Lunch",
+        "Salads",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_621_%20Beet_BloodOrange_RedPepperTomaotArtichoke_Salads_ItalianDiabetesCookbook_022618.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "naranjas sanguinas (aproximadamente 1 libra en total), peladas y cortadas en rodajas",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "cebollas verdes, finamente picadas",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Jugo de 1 naranja",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva virgen extra (preferiblemente de primera presión en frío y sin filtrar)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sal marina sin refinar",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "hojuelas de chile rojo triturado",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque rodajas de naranja en un plato grande y esparza cebollas verdes sobre ellas.",
+        "En un bol, combine el yogur, la albahaca, la sal y la pimienta hasta que se mezclen."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Veggie Rich",
+        "Italian",
+        "Lunch",
+        "Salads",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "100mg",
+        "total_carbohydrate": "11g",
+        "fiber": "2g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/blood-orange-salad-insalata-d-arrance-sangouse"
+}

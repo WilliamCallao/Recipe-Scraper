@@ -1,0 +1,99 @@
+{
+    "title": "Ensalada de Patatas con Hierbas",
+    "keywords": "Holidays & Entertaining,Salads,Vegetarian,Sides,Lunch",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Holidays & Entertaining",
+        "Salads",
+        "Vegetarian",
+        "Sides",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_309_Herb_Potato_Salad_iStock-183582392_02282018.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "patatas nuevas (de piel fina, sin pelar (aproximadamente 4 tazas en cubos))",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "apio (en rodajas)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cebolla verde (en rodajas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "mayonesa ligera",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Cacao en polvo",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "albahaca (seca)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "tomillo seco",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cebolla en polvo (seca)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Añade curry en polvo, anís estrellado y ramas de canela. Saltea durante 1 minuto.",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Corte las papas en cubos de 1 pulgada. Colóquelas en una cacerola mediana y cúbralas con agua. Lleve a ebullición. Cubra, reduzca el fuego y cocine a fuego lento durante 12 minutos o hasta que las papas estén tiernas. Escurra.",
+        "Mezcle los ingredientes del aderezo.",
+        "Combine las papas calientes, el apio, las cebollas verdes y el aderezo. Sirva caliente o refrigérelo y sirva frío."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Holidays & Entertaining",
+        "Salads",
+        "Vegetarian",
+        "Sides",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "74",
+        "total_fat": "1g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "1mg",
+        "sodium": "78mg",
+        "total_carbohydrate": "14g",
+        "fiber": "2g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/herb-potato-salad"
+}

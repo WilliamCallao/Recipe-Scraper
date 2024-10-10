@@ -1,0 +1,110 @@
+{
+    "title": "Bacalao con Pimientos Asados y Frijoles Blancos",
+    "keywords": "Quick & Easy,Dinner,Gluten-Free,Main Dish,Lunch",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Dinner",
+        "Gluten-Free",
+        "Main Dish",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_192_Cod_on_Roasted_Pepper_and_White_Beans_PNCImages_02272018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "paprika",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Pan italiano (de buena calidad, como la ciabatta multigrano)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "filetes de pescado (como bacalao, de aproximadamente 5 onzas cada uno, enjuagados y secados)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "garbanzos enlatados (enjuagados y escurridos)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Edulcorante granulado Splenda®",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "Aceitunas Kalamata (sin hueso y picadas en trozos grandes)",
+            "us_amount": "16",
+            "metric_amount": "16"
+        },
+        {
+            "name": "pimientos rojos asados ​​(cortados en cubitos)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ajo mediano (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Coloque los camarones en brochetas y áselos a la parrilla durante 2 o 3 minutos de cada lado o hasta que los camarones estén listos.",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Ase el maíz en una parrilla o sobre una llama de gas abierta (estufa de gas) a fuego medio-alto. Gire cada mazorca cada 30 segundos aproximadamente, para que el maíz se tueste de manera uniforme. (Escuchará algunos granos estallar mientras se cocinan). Retire las mazorcas asadas de la parrilla o la llama y déjelas a un lado.",
+        "comino molido",
+        "Para servir, coloque cantidades iguales de la mezcla de frijoles en cada uno de 4 tazones de sopa poco profundos o platos de comida con borde y cubra con los filetes."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Seafood",
+        "Quick & Easy",
+        "Dinner",
+        "Gluten-Free",
+        "Main Dish",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "285",
+        "total_fat": "9g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "505mg",
+        "total_carbohydrate": "21g",
+        "fiber": "7g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "32g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cod-roasted-pepper-and-white-beans"
+}

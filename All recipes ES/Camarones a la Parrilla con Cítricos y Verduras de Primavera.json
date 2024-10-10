@@ -1,0 +1,107 @@
+{
+    "title": "Camarones a la Parrilla con Cítricos y Verduras de Primavera",
+    "keywords": "Dinner,Snacks,Salads,Gluten-Free,Lunch",
+    "prep_time": "PT5M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Dinner",
+        "Snacks",
+        "Salads",
+        "Gluten-Free",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/185-diabetic-citrus-grilled-shrimp_468306506_092618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "naranjas clementinas (jugo)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Lima (jugo)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Un poco de salsa picante",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimiento morrón verde o rojo (finamente picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "pimienta",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "camarones grandes (crudos)",
+            "us_amount": "16",
+            "metric_amount": "16"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ensalada mixta de primavera",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "naranjas clementinas (peladas y cortadas en gajos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "naranjas clementinas (jugo)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Aceitunas Kalamata (sin hueso y picadas en trozos grandes)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "pimientos rojos asados ​​(cortados en cubitos)",
+        "Prepare una parrilla para interiores o exteriores a fuego medio. Rocíe la rejilla de la parrilla con aceite en aerosol.",
+        "Coloque los camarones en brochetas y áselos a la parrilla durante 2 o 3 minutos de cada lado o hasta que los camarones estén listos.",
+        "Sirva los camarones sobre una ensalada de primavera con rodajas de clementina.",
+        "Bate los ingredientes del aderezo y viértelos sobre los camarones y la ensalada."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Grilling",
+        "Dinner",
+        "Snacks",
+        "Salads",
+        "Gluten-Free",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "45mg",
+        "total_carbohydrate": "13g",
+        "fiber": "2g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/citrus-grilled-shrimp-spring-greens"
+}

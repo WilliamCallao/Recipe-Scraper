@@ -1,0 +1,87 @@
+{
+    "title": "Tazón de Batido Tropical",
+    "keywords": "Main Dish,Breakfast and Brunch",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Main Dish",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2164_Tropical%20Smoothie%20Bowl%20-%20Original%20Photo.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "Batido Splenda® para el cuidado de la diabetes (fresa y plátano)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "mango congelado (trozos)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Fresas congeladas (en rodajas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "plátano(s) (congelado)",
+            "us_amount": "1/4 small",
+            "metric_amount": "1/4 small"
+        },
+        {
+            "name": "extracto puro de vainilla",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Semilla de lino molida",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "hojuelas de coco sin azúcar",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "mango (trozos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Fresas frescas (en rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "plátano (fresco, en rodajas)",
+            "us_amount": "1/4 small",
+            "metric_amount": "1/4 small"
+        }
+    ],
+    "instructions": [
+        "Para preparar el batido: combine Splenda® Strawberry Diabetes Care Shake, trozos de mango, fresas congeladas, banana congelada, extracto de vainilla y linaza en una licuadora. Licue hasta obtener una mezcla homogénea, raspando los bordes de la licuadora según sea necesario.",
+        "Vierta el batido en un bol. Añada coco rallado sin azúcar, trozos de mango y rodajas de fresa y banana. ¡Disfrútelo de inmediato!",
+        "Nota: Agregue más hielo si desea una consistencia más espesa."
+    ],
+    "tags": [
+        "Main Dish",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "330",
+        "total_fat": "13g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "15mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "44g",
+        "fiber": "11g",
+        "sugar": "18g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tropical-smoothie-bowl"
+}

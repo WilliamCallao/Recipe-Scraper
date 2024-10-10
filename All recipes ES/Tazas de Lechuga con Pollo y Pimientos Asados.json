@@ -1,0 +1,95 @@
+{
+    "title": "Tazas de Lechuga con Pollo y Pimientos Asados",
+    "keywords": "Sandwiches,Quick & Easy,Lunch,Cooking for 1 or 2,Appetizers",
+    "prep_time": "PT10M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Sandwiches",
+        "Quick & Easy",
+        "Lunch",
+        "Cooking for 1 or 2",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/908-diabetic-chicken-pepper-lettuce-cup_Designed-For-One_DFMarApr19_020519.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "chuleta de pollo",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "Recortar y pelar los tallos del brócoli. Cortar 15 floretes pequeños. Picar en trozos grandes la cantidad restante de brócoli necesaria para cubrir 2 tazas.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimiento rojo asado (picado)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "garbanzos sin sal añadida (enjuagados y escurridos)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "Hornear durante 15 minutos. Dejar enfriar.",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "aceitunas kalamata sin hueso (picadas en trozos grandes)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "albahaca fresca (picada)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "vinagre de vino tinto",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "hojas de lechuga romana o Boston",
+            "us_amount": "2",
+            "metric_amount": "2"
+        }
+    ],
+    "instructions": [
+        "Calienta una sartén antiadherente pequeña a fuego medio. Rocía ambos lados del pollo con aceite en aerosol y cocínalo durante 4 minutos de cada lado o hasta que ya no esté rosado en el centro. Colócalo sobre una tabla de cortar, déjalo enfriar durante 2 o 3 minutos y pícalo.",
+        "mayonesa",
+        "Para armar, forre cada hoja con el pollo picado y cubra con la mezcla de pimiento rojo."
+    ],
+    "tags": [
+        "Mediterranean",
+        "Grilling",
+        "Sandwiches",
+        "Quick & Easy",
+        "Lunch",
+        "Cooking for 1 or 2",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "390",
+        "total_fat": "17g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "85mg",
+        "sodium": "440mg",
+        "total_carbohydrate": "25g",
+        "fiber": "5g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "31g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-and-roasted-pepper-lettuce-cups"
+}

@@ -1,0 +1,126 @@
+{
+    "title": "Tostadas de Frijoles y Queso",
+    "keywords": "Vegetarian,Quick & Easy,Main Dish,Lunch,Gluten-Free,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Vegetarian",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2006-diabetic-Bean-Cheese-Tostadas_KDBH-bookazine_012821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "frijoles pintos sin sal añadida (enjuagados y escurridos)",
+            "us_amount": "1 (14.5-oz) can",
+            "metric_amount": "1 (14.5-oz) can"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "En un bol, mezcle la crema mitad leche, mitad maicena y sal hasta que quede una mezcla homogénea.",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "En un tazón mediano, combine la leche, el extracto de vainilla, la calabaza, el aceite y el huevo.",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Cebolleta (cortada en rodajas finas, partes verdes y blancas)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "tortillas de maíz de 6 pulgadas",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "queso cheddar rallado bajo en grasa o queso estilo mexicano",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "tocino de pavo (cortado en cubitos)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "tomates uva o cherry (cortados por la mitad)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "cebolla roja finamente picada",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "cilantro fresco picado",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "zumo de lima",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350°F.",
+        "En un procesador de alimentos o licuadora, procese los frijoles, el agua, el chile en polvo, el comino, el ajo y la salsa picante hasta que quede suave.",
+        "Coloque las tortillas en una bandeja para hornear. Esparza la mezcla de frijoles sobre las tortillas. Espolvoree con el queso cheddar.",
+        "Hornee durante 10 minutos o hasta que el queso cheddar se haya derretido y la mezcla de frijoles esté caliente.",
+        "Mientras tanto, en un tazón mediano, mezcle suavemente la lechuga, los tomates, la cebolla roja, el cilantro, el jugo de limón, el aceite y la sal.",
+        "Cubra las tortillas con la mezcla de lechuga. Sirva inmediatamente."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Latin American",
+        "Vegetarian",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "4.5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "260mg",
+        "total_carbohydrate": "31g",
+        "fiber": "12g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/bean-and-cheese-tostadas"
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Ensalada Cremosa de Pollo y Manzana",
+    "keywords": "Quick & Easy,Dinner,Foodie,Gluten-Free,Lunch,Salads",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Dinner",
+        "Foodie",
+        "Gluten-Free",
+        "Lunch",
+        "Salads"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/202-creamy-chicken-apple-salad_114160462_081118.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "pechuga de pollo cocida (picada)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "apio (cortado en cubitos)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "manzana Jonagold mediana (cortada en cubitos finos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "nueces (picadas)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "mayonesa ligera",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "yogur (natural, sin grasa)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "limón (jugo)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "En un tazón mediano, combine el pollo, el apio, las cebollas verdes, la manzana y las nueces.",
+        "En un bol pequeño, mezcle la mayonesa, el yogur, el jugo de limón y la pimienta. Vierta sobre la mezcla de pollo y revuelva suavemente para cubrir.",
+        "Sirva la ensalada sobre hojas de lechuga, pan o galletas de su elección."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Low Sodium",
+        "Comfort Food",
+        "Quick & Easy",
+        "Dinner",
+        "Foodie",
+        "Gluten-Free",
+        "Lunch",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "115",
+        "total_fat": "5g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "115mg",
+        "total_carbohydrate": "6g",
+        "fiber": "1g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/creamy-chicken-apple-salad"
+}

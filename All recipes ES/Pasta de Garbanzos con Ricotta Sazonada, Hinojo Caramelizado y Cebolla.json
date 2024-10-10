@@ -1,0 +1,106 @@
+{
+    "title": "Pasta de Garbanzos con Ricotta Sazonada, Hinojo Caramelizado y Cebolla",
+    "keywords": "Cooking for 1 or 2,Dinner,Foodie,Main Dish,Meal Kit Recipes",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Foodie",
+        "Main Dish",
+        "Meal Kit Recipes"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1964-diabetic-chickpea-pasta-ricotta-fennel-onion_blue-apron_050820.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "bulbo de hinojo",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla amarilla",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "tomates uva",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "ajo",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "queso ricotta parcialmente descremado",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "aceite de oliva (uso dividido)",
+            "us_amount": "1 tbsp plus 1 1/2 tsp",
+            "metric_amount": "1 tbsp plus 1 1/2 tsp"
+        },
+        {
+            "name": "agua (uso dividido)",
+            "us_amount": "1/2 cup plus 2 tbsp",
+            "metric_amount": "1/2 cup plus 2 tbsp"
+        },
+        {
+            "name": "alcaparras",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "espinaca bebé",
+            "us_amount": "3 oz",
+            "metric_amount": "85 ml"
+        },
+        {
+            "name": "pasta rotini de garbanzos",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "almendras en rodajas",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Prepara los ingredientes y sazona la ricota: llena una olla mediana hasta 3/4 de su capacidad con agua salada; tapa y calienta a fuego alto hasta que hierva. Lava y seca los productos frescos. Corta y desecha los tallos del hinojo, luego corta por la mitad, quítale el corazón y rebana finamente el bulbo. Corta por la mitad, pela y rebana finamente la cebolla. Corta por la mitad los tomates. Pela y pica en trozos grandes 2 dientes de ajo. En un bol, combina la ricota y 1/2 cucharadita de aceite de oliva; sazona con sal (opcional) y pimienta.",
+        "Caramelizar el hinojo y la cebolla: En una olla mediana, calentar 1 cucharada de aceite de oliva a fuego medio-alto hasta que esté caliente. Agregar el hinojo en rodajas y la cebolla en rodajas; sazonar con sal (opcional) y pimienta. Cocinar, revolviendo ocasionalmente, de 4 a 5 minutos, o hasta que se doren levemente y se ablanden un poco. Agregar 2 cucharadas de agua (con cuidado, ya que el líquido puede salpicar). Reducir el fuego a medio. Tapar la olla sin apretar con papel de aluminio y cocinar, revolviendo ocasionalmente y raspando los trozos dorados (o el fondo), de 5 a 6 minutos, o hasta que las verduras se doren y se ablanden.",
+        "Prepara la salsa: añade a la olla los tomates cortados por la mitad, el ajo picado, las alcaparras y la cantidad de hojuelas de pimiento rojo que desees, según lo picante que quieras que sea el plato; sazona con sal (opcional) y pimienta. Cocina, revolviendo con frecuencia, de 2 a 3 minutos o hasta que se ablanden un poco. Agrega 1/2 taza de agua (con cuidado, ya que el líquido puede salpicar); sazona con sal (opcional) y pimienta. Cocina, revolviendo de vez en cuando y presionando los tomates con el dorso de una cuchara, de 1 a 2 minutos o hasta que el líquido se reduzca ligeramente en volumen. Apaga el fuego y agrega las espinacas revolviendo hasta que se ablanden un poco.",
+        "frijoles negros enlatados (enjuagados y escurridos)",
+        "Termina de preparar la pasta y sirve el plato: añade la pasta cocida y la mitad del agua de cocción reservada a la olla con las verduras cocidas y la salsa. Revuelve suavemente para cubrir (si es necesario, añade gradualmente el agua de cocción restante para asegurarte de que la pasta esté bien cubierta). Divide la ricota sazonada en dos platos de manera uniforme; espárcela en una capa uniforme. Cubre con la pasta terminada. Adorna con las almendras y rocía con 1 cucharadita de aceite de oliva. ¡Disfruta!"
+    ],
+    "tags": [
+        "High in Fiber",
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Foodie",
+        "Main Dish",
+        "Meal Kit Recipes"
+    ],
+    "nutrition": {
+        "calories": "580",
+        "total_fat": "24g",
+        "saturated_fat": "4.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "410mg",
+        "total_carbohydrate": "72g",
+        "fiber": "15g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "30g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chickpea-pasta-seasoned-ricotta-caramelized-fennel-and-onion"
+}

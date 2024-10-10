@@ -1,0 +1,109 @@
+{
+    "title": "Guiso de Berenjena y Garbanzo",
+    "keywords": "Vegetarian,Vegan,Main Dish,Dinner,Lunch",
+    "prep_time": "PT5M",
+    "cook_time": "PT75M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Main Dish",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-08/eggplant_chickpea_stew.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Aceite de Oliva Virgen Extra (dividido)",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        },
+        {
+            "name": "Cebolla amarilla (1 cortada en cubitos y 1 en rodajas)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "Añade las papas a una olla grande para sopa. Cúbrelas con agua fría y déjalas hervir. Cocina durante 15 minutos. Agrega la coliflor a la olla, vuelve a hervir y cocina durante 5 minutos más.",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "berenjena (en cubos)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "garbanzos (sin sal añadida)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "comino",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cilantro molido",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "azúcar",
+            "us_amount": "28 oz",
+            "metric_amount": "792 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cilantro (recién picado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "En una licuadora o procesador de alimentos, haga puré las hierbas blanqueadas con el aceite de oliva.",
+        "Agregue las cebollas cortadas en cubitos y el ajo y cocine hasta que las cebollas estén blandas.",
+        "Incorpora la berenjena, los garbanzos, el comino, la canela, el cilantro, los tomates, la sal y la pimienta. Aumenta el fuego y deja que hierva.",
+        "Reduce el fuego y tapa la olla. Cocina el guiso durante 45 minutos a 1 hora o hasta que la berenjena esté muy tierna.",
+        "Mientras tanto, calienta las 2 cucharaditas restantes de aceite de oliva y añade las rodajas de cebolla. Fríe hasta que estén doradas y retira del fuego.",
+        "Cuando el guiso esté listo, colóquelo en tazones para servir y cubra con cebollas fritas y cilantro."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Comfort Food",
+        "Vegetarian",
+        "Vegan",
+        "Main Dish",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "7g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "43g",
+        "fiber": "14g",
+        "sugar": "13g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/eggplant-and-chickpea-stew"
+}

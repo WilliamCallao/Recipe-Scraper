@@ -1,0 +1,80 @@
+{
+    "title": "Sopa Rápida de Hierbas y Tomate",
+    "keywords": "Dinner,Lunch,Cooking for 1 or 2,Appetizers,Vegetarian,Snacks,Sides,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Cooking for 1 or 2",
+        "Appetizers",
+        "Vegetarian",
+        "Snacks",
+        "Sides",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/428-diabetic-quick-herb-tomato-soup_shutterstock613482653_012919.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "eneldo fresco o seco",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "hummus de ajo (asado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "romero seco (triturado)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Mezcla de condimentos italianos (desmenuzado)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Mezcla de azúcar morena baja en calorías, como Truvia o Splenda",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Perejil fresco picado (opcional)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "En una cacerola pequeña, mezcle todos los ingredientes excepto el perejil. Lleve a ebullición a fuego medio-bajo. Reduzca el fuego y cocine a fuego lento durante 5 minutos. Vierta con cuidado en una licuadora y procese hasta que quede una mezcla homogénea (o retire del fuego y use una licuadora de inmersión o de mano).",
+        "Cocine el tocino en una sartén grande a fuego medio-alto hasta que esté crocante, aproximadamente 3 minutos. Retire de la sartén y desmenuce. En la grasa de la sartén saltee la cebolla, agregue el brócoli congelado y descongelado y saltee durante 3 minutos."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Dinner",
+        "Lunch",
+        "Cooking for 1 or 2",
+        "Appetizers",
+        "Vegetarian",
+        "Snacks",
+        "Sides",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "125",
+        "total_fat": "6g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "16g",
+        "fiber": "5g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/quick-herb-tomato-soup"
+}

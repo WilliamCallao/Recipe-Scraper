@@ -1,0 +1,92 @@
+{
+    "title": "Ensalada de Atún con Garbanzos",
+    "keywords": "Easy Pantry Recipes,Salads,Sandwiches,Foodie,Dinner,Lunch",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Salads",
+        "Sandwiches",
+        "Foodie",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/559-diabetic-tuna-chickpea-salad_AS_55398852_032320.jpg",
+    "servings": "7 Servings",
+    "ingredients": [
+        {
+            "name": "yogur natural sin grasa",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "mayonesa ligera",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "limón (jugo)",
+            "us_amount": "1/2 whole",
+            "metric_amount": "1/2 whole"
+        },
+        {
+            "name": "pimiento rojo (cortado en cubitos)",
+            "us_amount": "1/2 large",
+            "metric_amount": "1/2 large"
+        },
+        {
+            "name": "apio (cortado en cubitos)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "cebolla(s) (cortadas en cubitos)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "garbanzos (enjuagados y escurridos)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Bolsas selladas con sabor a atún (6,4 onzas cada una, en agua)",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "En un tazón pequeño, mezcle el yogur, la mayonesa y el jugo de limón.",
+        "En un recipiente mediano, combine los ingredientes restantes. Vierta la mezcla de mayonesa sobre el atún y mezcle bien.",
+        "Sirva la ensalada de atún sobre la lechuga de su elección, pan integral o galletas."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Easy Pantry Recipes",
+        "Salads",
+        "Sandwiches",
+        "Foodie",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "3g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "350mg",
+        "total_carbohydrate": "8g",
+        "fiber": "2g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tuna-salad-chickpeas"
+}

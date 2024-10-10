@@ -1,0 +1,63 @@
+{
+    "title": "Duraznos a la Parrilla con Canela y Maple",
+    "keywords": "Dessert,Sides",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dessert",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_183_Cinnamon_Maple_Grilled_Peaches_ThinkstockPhotos-489567710_04112018%20.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Melocotones o nectarinas (aún firmes pero maduros)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Jugo de 1 limón",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sustituto de azúcar bajo en calorías",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "nuez moscada molida",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "jarabe de arce",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Para preparar el aderezo, en un tazón pequeño mezcle el jugo de lima, el aceite de oliva, las hojuelas de pimiento rojo triturado, el ajo y la miel. El aderezo se sirve mejor a temperatura ambiente."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Grilling",
+        "Kid Friendly",
+        "Dessert",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "75",
+        "total_fat": "0g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "18g",
+        "fiber": "2g",
+        "sugar": "16g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cinnamon-maple-grilled-peaches"
+}

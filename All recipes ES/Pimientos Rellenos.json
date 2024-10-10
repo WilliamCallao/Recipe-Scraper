@@ -1,0 +1,103 @@
+{
+    "title": "Pimientos Rellenos",
+    "keywords": "Holidays & Entertaining,Foodie,Appetizers,Snacks",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Foodie",
+        "Appetizers",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/082-diabetic-bell-pepper-poppers_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "mini pimientos dulces",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "tocino de pavo (cortado en cubitos)",
+            "us_amount": "2 slice",
+            "metric_amount": "2 slice"
+        },
+        {
+            "name": "cebolla cortada en cubitos",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "queso crema sin grasa (temperatura ambiente)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "queso de cabra blando (temperatura ambiente)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1 slice",
+            "metric_amount": "1 slice"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Queso parmesano (rallado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375° F. Rocíe una bandeja para hornear con aceite en aerosol. Déjela a un lado.",
+        "Refrigera la mezcla de falafel durante 15 a 20 minutos. Mientras el falafel se enfría, agrega yogur, tahini, ajo y perejil a un tazón pequeño y bate. Mantén la salsa de yogur en el refrigerador hasta que esté lista para usar.",
+        "En otro recipiente mediano, combine la avena, la cucharada restante de la mezcla de azúcar Splenda, la mezcla de azúcar morena, las nueces pecanas y la margarina. Incorpore la margarina a los ingredientes secos con las manos hasta que se formen grumos.",
+        "Espolvoree la mezcla de cobertura crujiente uniformemente sobre las bayas. Hornee durante 55 minutos o hasta que la parte superior esté dorada y la fruta burbujee. Sirva caliente.",
+        "En un bol pequeño, mezcle el queso crema y el queso de cabra. Agregue el tocino, las cebollas y las hojuelas de pimiento rojo. Revuelva para mezclar.",
+        "Tritura el pan tostado en un procesador de alimentos junto con el ajo y el queso parmesano. Reserva en un bol pequeño.",
+        "Vierta la mezcla de queso en cada mitad de pimiento (1 cucharadita de mezcla por palomita) y luego presione el lado del queso de la palomita sobre la mezcla de pan rallado de trigo integral. Coloque sobre la bandeja para hornear preparada con el lado del pan rallado hacia arriba y rocíe cada una ligeramente con aceite en aerosol.",
+        "pimienta de cayena (opcional)"
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Veggie Rich",
+        "Lower Carb",
+        "Mexican/Southwestern",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Appetizers",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "45",
+        "total_fat": "1.5g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "135mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/bell-pepper-poppers"
+}

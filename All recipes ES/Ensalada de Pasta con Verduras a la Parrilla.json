@@ -1,0 +1,104 @@
+{
+    "title": "Ensalada de Pasta con Verduras a la Parrilla",
+    "keywords": "Sides,Vegetarian,Salads,Holidays & Entertaining,Foodie",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Vegetarian",
+        "Salads",
+        "Holidays & Entertaining",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_296_Grilled_Vegetable_Pasta_Salad_iStock-118192016_02282018.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "pasta rotini o penne de trigo integral (sin cocinar)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "espárragos (extremos recortados)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "calabacín (cortado en rodajas de 1/4 de pulgada de grosor a lo largo)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Seque los filetes de salmón descongelados con una toalla de papel. Pincele cada lado con aceite de oliva y sazone con el condimento para parrilla sin sal.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Pimiento rojo grande (sin semillas y cortado por la mitad a lo largo)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Orégano seco (picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sal (opcional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Prepare una parrilla interior o exterior.",
+        "Cocine la pasta según las instrucciones del paquete, omitiendo la sal.",
+        "Cubre todas las verduras con aceite en aerosol y ásalas durante 7 a 10 minutos, dándolas vuelta con frecuencia.",
+        "nueces de macadamia picadas",
+        "Escurre la pasta cocida y añade inmediatamente las verduras asadas cortadas en cubitos a la pasta caliente. Añade el aceite de oliva, el ajo, el orégano, la sal (opcional) y la pimienta negra molida y revuelve bien para cubrir. Sirve este plato tibio o frío."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Grilling",
+        "Italian",
+        "Sides",
+        "Vegetarian",
+        "Salads",
+        "Holidays & Entertaining",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "95",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "5mg",
+        "total_carbohydrate": "16g",
+        "fiber": "4g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-vegetable-pasta-salad"
+}

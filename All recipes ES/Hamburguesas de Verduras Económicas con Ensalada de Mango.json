@@ -1,0 +1,123 @@
+{
+    "title": "Hamburguesas de Verduras Económicas con Ensalada de Mango",
+    "keywords": "Foodie,Dinner,Vegetarian,Lunch,Budget Friendly",
+    "prep_time": "PT20M",
+    "cook_time": "PT16M",
+    "categories": [
+        "Foodie",
+        "Dinner",
+        "Vegetarian",
+        "Lunch",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/136-diabetic-veggie-burger-mango-slaw_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Añade aproximadamente 1 cucharada de jugo de limón y cocina hasta que el jugo de limón se reduzca por completo. Agrega el caldo de pollo y cocina a fuego lento hasta que se reduzca a la mitad. Incorpora el perejil.",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "cebolla cortada en cubitos",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "champiñones cortados en cubitos",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "zanahorias ralladas",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Salsa Worcestershire",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salsa de soja baja en sodio",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "tortillas de maíz (6 pulgadas)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "condimento para bistec",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "mango verde (pelado, sin semillas y rallado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "mezcla de ensalada de col envasada",
+            "us_amount": "1 (9-oz) bag",
+            "metric_amount": "1 (9-oz) bag"
+        },
+        {
+            "name": "vinagre de vino de arroz",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "hojas grandes de lechuga",
+            "us_amount": "6",
+            "metric_amount": "6"
+        }
+    ],
+    "instructions": [
+        "Rocíe con aceite en aerosol una sartén antiadherente grande. Déjela a un lado.",
+        "Combine los frijoles cannellini, la cebolla, el ajo, los hongos, las zanahorias, la salsa Worcestershire, la salsa de soja, la avena, el condimento para bistec Montreal y la sal (opcional) en un procesador de alimentos. Pulse varias veces hasta que la mezcla se combine pero no se convierta en una pasta.",
+        "Divida la mezcla de hamburguesas en 6 porciones iguales y forme hamburguesas.",
+        "Calienta la sartén preparada a fuego medio alto. Saltea las hamburguesas de cada lado durante 6 a 8 minutos. Reserva.",
+        "En un bol grande, combine el mango rallado, la mezcla para ensalada de col, el vinagre de vino de arroz y el aceite de oliva. Mezcle bien.",
+        "huevos"
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Foodie",
+        "Dinner",
+        "Vegetarian",
+        "Lunch",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "430mg",
+        "total_carbohydrate": "32g",
+        "fiber": "7g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-veggie-burgers-mango-slaw"
+}

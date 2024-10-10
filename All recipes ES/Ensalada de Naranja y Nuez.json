@@ -1,0 +1,99 @@
+{
+    "title": "Ensalada de Naranja y Nuez",
+    "keywords": "Holidays & Entertaining,Salads,Sides,Vegetarian",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Holidays & Entertaining",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/novdec2014-orange-and-walnut.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "naranjas grandes (peladas y cortadas en gajos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Precaliente el horno a 425 grados.",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "Queso parmesano o romano (recién rallado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Precaliente el horno a 350 grados F. Caliente 1 cucharadita de aceite de oliva en una sartén antiadherente grande para horno a fuego medio. Agregue la cebolla y la chalota y saltee durante aproximadamente 7 a 8 minutos. Retire la mezcla de cebolla de la sartén y reserve.",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Batir los huevos, las claras, la albahaca, la sal y la pimienta. Incorporar la mezcla de cebolla.",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "jugo de limón fresco",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "mostaza de dijon",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "aceite de nuez",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "broccolini (1 libra en total)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Precaliente el horno a 400 grados F. Cubra una bandeja para hornear con papel pergamino o papel de aluminio.",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque las verduras en una fuente. Cúbralas con las zanahorias, la cebolla y las naranjas.",
+        "Para la vinagreta, mezcle los jugos de naranja y limón, la miel y la mostaza. Agregue lentamente el aceite en un hilo fino, batiendo constantemente.",
+        "Rocíe la vinagreta sobre la ensalada. Añada sal y pimienta a gusto y espolvoree con nueces.",
+        "Camarones (cocidos, pelados y sin cola)"
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Holidays & Entertaining",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "135",
+        "total_fat": "9g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "55mg",
+        "total_carbohydrate": "13g",
+        "fiber": "3g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/orange-and-walnut-salad"
+}

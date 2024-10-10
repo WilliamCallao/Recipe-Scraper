@@ -1,0 +1,116 @@
+{
+    "title": "Verduras Asadas",
+    "keywords": "Foodie,Holidays & Entertaining,Sides,Vegan,Vegetarian",
+    "prep_time": "PT20M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Foodie",
+        "Holidays & Entertaining",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_816_Roasted%20Vegetables_StressFreeKitchen_022618.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "berenjena pequeña (sin pelar, cortada en trozos de 1 pulgada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sal marina (fina)",
+            "us_amount": "1/3 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "calabacín (cortado en trozos de 1 pulgada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Mida 1 cucharada y media de jugo de pimienta en un tazón pequeño (descarte el resto). Agregue el vinagre y el ajo y bata la cucharada restante de aceite de oliva.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "champiñones cremini (baby bella)",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "chalotes (pelados y cortados en cuartos)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "pimiento rojo (cortado en trozos de 1 pulgada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimiento verde (cortado en trozos de 1 pulgada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimiento amarillo (cortado en trozos de 1 pulgada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (separado y pelado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pimienta (recién molida)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "vinagre balsámico (buena calidad)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ramitas de hierbas (para decorar) (frescas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425°F.",
+        "Coloque la berenjena en un recipiente grande. Sazone ligeramente con sal y deje reposar durante 10 minutos (esto evitará que absorba demasiado aceite). Agregue las verduras restantes y mezcle con aceite de oliva.",
+        "Forre una bandeja para hornear con papel encerado. Coloque las verduras en la bandeja para hornear. Espolvoree con sal y pimienta a gusto. Áselas hasta que alcancen el punto de cocción deseado, aproximadamente de 20 a 30 minutos. Ajuste los condimentos a gusto.",
+        "Colóquelo en una fuente para servir y rocíe con vinagre balsámico. Adorne con hierbas frescas."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Comfort Food",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "65",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "105mg",
+        "total_carbohydrate": "10g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-vegetables"
+}

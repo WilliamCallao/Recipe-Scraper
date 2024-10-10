@@ -1,0 +1,123 @@
+{
+    "title": "Cazuela de Huevo y Verduras",
+    "keywords": "Breakfast and Brunch,Holidays & Entertaining,Vegetarian,Gluten-Free,Lunch,Main Dish",
+    "prep_time": "Desconocido",
+    "cook_time": "PT55M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Holidays & Entertaining",
+        "Vegetarian",
+        "Gluten-Free",
+        "Lunch",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/032-diabetic-egg-veggie-casserole_Thinkstock-465601324_110818_1021x779.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cebolla pequeña (cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "harina integral (para la corteza)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "vinagre de vino tinto",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "agua helada (para la corteza)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "albahaca fresca (picada)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Perejil fresco (picado)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "romero fresco (picado)",
+            "us_amount": "1 sprig",
+            "metric_amount": "1 sprig"
+        },
+        {
+            "name": "Precaliente el horno a 375 grados F.",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "mozzarella fresca (cortada en cubitos)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "pimienta molida al gusto (fresca)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Una pizca de sal kosher",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350°F.",
+        "Prepare una cazuela grande con aceite en aerosol antiadherente.",
+        "Calienta el aceite de oliva en una sartén pesada y añade el ajo y la cebolla. Cocina hasta que la cebolla esté tierna, revolviendo constantemente.",
+        "Calienta en el microondas a máxima potencia durante 20 segundos o hasta que esté tibio. Cubre con el guacamole, las hojas verdes y el pico de gallo. Enrolla o dobla la tortilla sobre el relleno y sirve.",
+        "Añade los tomates picados y las hojas de espinaca, cocina durante 2 minutos, luego agrega la albahaca, el perejil y el romero. Continúa cocinando hasta que las hierbas y la espinaca se ablanden.",
+        "Combine las claras de huevo, las verduras cocidas y el queso en un bol. Agregue sal y pimienta si lo desea.",
+        "Vierta la mezcla en la cacerola y hornee durante 40 a 45 minutos o hasta que la frittata esté lista. Deje enfriar y luego córtela en 8 rebanadas del mismo tamaño."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Breakfast and Brunch",
+        "Holidays & Entertaining",
+        "Vegetarian",
+        "Gluten-Free",
+        "Lunch",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "6g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "185mg",
+        "total_carbohydrate": "7g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/egg-and-veggie-casserole"
+}

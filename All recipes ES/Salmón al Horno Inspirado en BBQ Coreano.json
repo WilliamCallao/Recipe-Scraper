@@ -1,0 +1,80 @@
+{
+    "title": "Salmón al Horno Inspirado en BBQ Coreano",
+    "keywords": "Dinner,Foodie,Main Dish,Quick & Easy",
+    "prep_time": "PT8M",
+    "cook_time": "PT16M",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1857-diabetic-korean-bbq-inspired-backed-salmon_clean-and-simple_DFJanFeb20_120219.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Salmón cortado al centro con piel",
+            "us_amount": "4 (6-oz) fillets",
+            "metric_amount": "4 (6-oz) fillets"
+        },
+        {
+            "name": "ketchup sin azúcar añadido",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "mermelada de albaricoque endulzada con frutas",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "col rizada ((empaquetar las tazas, picada))",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "filetes de pollo deshuesados ​​y sin piel (cortados en 10 tiras)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "salsa picante",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "semillas de sésamo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400° F. Cubra una bandeja para hornear grande con borde con papel pergamino.",
+        "Corte el pollo en trozos pequeños y mézclelo con el caldo caliente en la olla de cocción lenta. Agregue las espinacas. Cubra y cocine a fuego alto durante 15 minutos.",
+        "En un bol pequeño, mezcle el kétchup, la mermelada, el tamari, el vinagre y la salsa picante. Extienda ligeramente la mezcla sobre la parte superior de cada filete con el dorso de una cuchara. Espolvoree con las semillas de sésamo.",
+        "Hornee hasta que el salmón esté desmenuzado y bien cocido (con una temperatura interna de al menos 145 °F), aproximadamente 16 minutos. Sirva."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Asian",
+        "Seafood",
+        "Dinner",
+        "Foodie",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "280",
+        "total_fat": "13g",
+        "saturated_fat": "2.8g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "300mg",
+        "total_carbohydrate": "4g",
+        "fiber": "0g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "34g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/korean-bbq-inspired-baked-salmon"
+}

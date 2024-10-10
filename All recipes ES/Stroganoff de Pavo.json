@@ -1,0 +1,102 @@
+{
+    "title": "Stroganoff de Pavo",
+    "keywords": "Holidays & Entertaining,Dinner,Lunch,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_566_Turkey_Stroganoff_ThinkstockPhotos-547246446_03012018.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "fideos de huevo",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "semilla de amapola",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Corte el pavo en 12 cubos (de 1 pulgada).",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "sal al gusto",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Hongos portobello (4 onzas cada uno)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Cebolla roja pequeña (cortada en rodajas finas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "manteca",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "linguini fresco de trigo integral (cortado en trozos de 4 a 5 pulgadas)",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "caldo de res (bajo en sodio)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "crema agria (baja en grasa)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "mostaza de dijon",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        }
+    ],
+    "instructions": [
+        "Cocine los fideos según las instrucciones del paquete. Mezcle los fideos con las semillas de amapola y vuelva a colocarlos en la olla vacía para mantenerlos calientes. Espolvoree las tiras de pavo con sal y pimienta; revuelva para cubrirlas. Retire y deseche los tallos de los hongos. Corte los sombreros de los hongos en cuartos y córtelos en rodajas finas.",
+        "salsa marinara en frasco",
+        "Derretir la mantequilla en una sartén a fuego medio. Agregar la harina y cocinar durante 1 minuto, revolviendo continuamente. Incorporar gradualmente el caldo batiendo. Cocinar, revolviendo con una cuchara de madera, hasta que la salsa espese y hierva, aproximadamente 4 minutos.",
+        "Reducir el fuego. Incorporar la crema agria y la mostaza. Devolver el pavo y las verduras reservadas con los jugos acumulados a la sartén. Cocinar hasta que estén bien calientes (sin que hiervan). Dividir los fideos en platos y colocar el stroganoff encima con una cuchara."
+    ],
+    "tags": [
+        "Holidays & Entertaining",
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "285",
+        "total_fat": "7g",
+        "saturated_fat": "3.2g",
+        "trans_fat": "0g",
+        "cholesterol": "90mg",
+        "sodium": "205mg",
+        "total_carbohydrate": "31g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/turkey-stroganoff"
+}

@@ -1,0 +1,94 @@
+{
+    "title": "Camarones con Limón a la Parrilla y Especias",
+    "keywords": "Quick & Easy,Lunch,Holidays & Entertaining,Dinner",
+    "prep_time": "PT5M",
+    "cook_time": "PT6M",
+    "categories": [
+        "Quick & Easy",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/spiced-shrimp-with-grilled-lemon.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "Perejil fresco",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "limón (cortado por la mitad)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "clavo molido",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Mientras se cocina la calabaza, agrega 1½ cucharada de aceite de oliva a una sartén grande a fuego medio-alto. Sazona el pollo con el orégano y la pimienta negra. Agrega el pollo a la sartén y cocina durante unos 10 minutos, revolviendo con frecuencia, hasta que el pollo esté cocido a una temperatura interna de al menos 165 °F. Retíralo de la sartén y reserva.",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "Camarones (pelados y desvenados, con cola)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "Rocíe con aceite en aerosol la rejilla de una parrilla a gas para exteriores y colóquela a 6 pulgadas de la fuente de calor. Precaliente la parrilla a temperatura media alta. Si cree que los camarones se caerán a través de la rejilla, prepare una canasta para pescado para asar los camarones. Rocíe el interior de la canasta con aceite en aerosol.",
+        "Rocíe los camarones con el aceite de oliva. Combine el comino, el chile en polvo, el cilantro, la sal y la pimienta negra y frote los camarones.",
+        "Mezcla las especias en un bol pequeño. Espolvorea la mezcla de especias sobre las batatas.",
+        "Añade los camarones a la parrilla a una fuente. Decora con las mitades de limón a la parrilla y el perejil picado."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Seafood",
+        "Mexican/Southwestern",
+        "Grilling",
+        "Quick & Easy",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "125",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "150mg",
+        "sodium": "205mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spiced-shrimp-grilled-lemon"
+}

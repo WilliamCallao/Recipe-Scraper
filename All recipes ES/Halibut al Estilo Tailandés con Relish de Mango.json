@@ -1,0 +1,91 @@
+{
+    "title": "Halibut al Estilo Tailandés con Relish de Mango",
+    "keywords": "Dinner,Lunch,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT18M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2016-1-thai-style-halibut.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de semilla de uva (dividido)",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "Cebolleta (cortada en rodajas finas, partes verdes y blancas divididas)",
+            "us_amount": "3 whole",
+            "metric_amount": "3 whole"
+        },
+        {
+            "name": "cebolla en polvo",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Bistec de solomillo magro (o use pechugas de pollo deshuesadas y sin piel o tiras de pollo o bistec sin carne)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "Retire los tallos y las hojas amarillentas de las verduras, luego enjuáguelas bien y escúrralas.",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Jugo de 1/2 lima",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cilantro fresco o albahaca (picada (opcional))",
+            "us_amount": "4 whole",
+            "metric_amount": "4 whole"
+        },
+        {
+            "name": "sal marina",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "tomates uva",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cilantro fresco o albahaca (picada fresca)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta 1/2 cucharada de aceite en una sartén antiadherente mediana a fuego medio. Agrega la parte blanca de las cebolletas y el chile y saltea hasta que las cebolletas comiencen a caramelizarse, aproximadamente 3 minutos y medio. Agrega el mango y la salsa de soya y cocina, mientras revuelves, hasta que el mango se ablande, aproximadamente 7 minutos. Agrega el jugo de limón y la parte verde de las cebolletas, transfiere a un tazón y reserva.",
+        "Sazona el pescado con sal y pimienta. Calienta la cucharada restante de aceite en una sartén antiadherente grande a fuego medio-alto. Agrega los filetes y saltéalos hasta que estén bien cocidos y ligeramente dorados, aproximadamente 3 minutos por lado. (Nota: prepara en tandas, si es necesario).",
+        "Cubra los filetes con la salsa de mango, espolvoree con el cilantro y sirva."
+    ],
+    "tags": [
+        "Asian",
+        "Seafood",
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "430mg",
+        "total_carbohydrate": "13g",
+        "fiber": "2g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/thai-style-halibut-mango-relish"
+}

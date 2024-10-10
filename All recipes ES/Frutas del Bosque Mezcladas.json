@@ -1,0 +1,40 @@
+{
+    "title": "Frutas del Bosque Mezcladas",
+    "keywords": "Quick & Easy,Sides,Snacks",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Sides",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Mixed%20Berries%20nutirtion%20information.png",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "Bayas mixtas",
+            "us_amount": "1 package",
+            "metric_amount": "1 package"
+        }
+    ],
+    "instructions": [],
+    "tags": [
+        "Quick & Easy",
+        "Sides",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "64",
+        "total_fat": "0.6g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "1mg",
+        "total_carbohydrate": "15.7g",
+        "fiber": "5.6g",
+        "sugar": "8.7g",
+        "added_sugar": "0g",
+        "protein": "1.5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mixed-berries"
+}

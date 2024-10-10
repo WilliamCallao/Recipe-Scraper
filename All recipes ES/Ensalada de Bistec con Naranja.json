@@ -1,0 +1,134 @@
+{
+    "title": "Ensalada de Bistec con Naranja",
+    "keywords": "Salads,Main Dish,Gluten-Free,Dinner",
+    "prep_time": "PT45M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Salads",
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/60main_flatironsteaksaladwithoranges%20%281%29.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Bistec de solomillo (cortado en rodajas de 1/2 pulgada de grosor, sin grasa visible)",
+            "us_amount": "15 oz",
+            "metric_amount": "425 ml"
+        },
+        {
+            "name": "aceite de oliva (dividido)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Incorpore las espinacas, las alcachofas, el queso crema y el caldo o el agua hasta que las espinacas estén cremosas y suaves.",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "romero seco",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Sal kosher",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "espinaca bebé",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "naranja (segmentada)",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "cebolla roja (en rodajas)",
+            "us_amount": "1/2 small",
+            "metric_amount": "1/2 small"
+        },
+        {
+            "name": "edamame sin cáscara",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Fresas frescas (cortadas en cubitos)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "Mostaza de Dijon (para el aderezo)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ajo (picado, para el aderezo)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "miel (para el aderezo)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Añade rodajas de fresas y kiwi a cada vaso para decorar.",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Sal Kosher (para el aderezo)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "cilantro fresco picado",
+        "Coloque el filete en un plato poco profundo y vierta la marinada sobre él. Asegúrese de que el filete quede cubierto de manera uniforme.",
+        "Deje marinar el filete en el refrigerador durante al menos 30 minutos.",
+        "Guárdelo en el refrigerador hasta que esté listo para servir. Cubra cada batido de yogur con una cucharada de crema batida sin azúcar.",
+        "mazorcas de maíz (cáscaras quitadas, lavadas)",
+        "Retire el filete de la marinada y cocínelo durante aproximadamente 4 a 5 minutos.",
+        "En una ensaladera grande, combine las espinacas, las naranjas, las cebollas rojas y el edamame. Rocíe la mitad del aderezo sobre la ensalada y revuelva para cubrirla. (Reserve el aderezo restante para otro uso).",
+        "Coloque el filete encima de la ensalada."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "High in Fiber",
+        "Salads",
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "13g",
+        "saturated_fat": "3g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "460mg",
+        "total_carbohydrate": "12g",
+        "fiber": "3g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/steak-salad-orange"
+}

@@ -1,0 +1,114 @@
+{
+    "title": "Tarta Provencal de Verduras",
+    "keywords": "Dinner,Foodie,Holidays & Entertaining,Main Dish",
+    "prep_time": "PT30M",
+    "cook_time": "PT50M",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_894_Vegetable%20Provencal%20Tart_DiabetesComfortFood_022518.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "aceite en aerosol antiadherente para cocinar (antiadherente)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Cebolla Vidalia dulce grande (cortada por la mitad y en rodajas de 1/3 de pulgada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "vinagre balsámico (de buena calidad)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "harina para todo uso",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "tomillo fresco (picado)",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "Sal kosher (dividida)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Calienta el aceite en una olla a fuego medio. Agrega la cebolla y 1⁄4 cucharadita de sal y cocina, revolviendo de vez en cuando, hasta que la cebolla se ablande, aproximadamente 8 minutos. Agrega el ajo y saltea hasta que desprenda un aroma agradable, aproximadamente 1 minuto.",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "mayonesa ligera",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "mostaza de dijon",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "calabacín mediano (cortado en diagonal en rodajas de 1/8 de pulgada de largo)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimienta negra (dividida)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "tomates medianos (cortados en rodajas de 1/4 de pulgada)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Queso parmesano (recién rallado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "albahaca fresca (picada)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Rocíe una sartén antiadherente grande con aceite en aerosol y caliéntela a fuego medio-alto hasta que esté caliente. Reduzca el fuego a medio-bajo y saltee la cebolla hasta que esté muy blanda y dorada, aproximadamente 20 minutos. Agregue el vinagre balsámico y saltee durante otros 5 minutos. Transfiera a un plato.",
+        "ajo (picado)",
+        "Rocíe nuevamente la sartén ligeramente con aceite en aerosol antiadherente y caliéntela a fuego medio. Agregue el calabacín a la sartén con 1/4 de cucharadita de pimienta negra y saltee hasta que esté dorado, de 5 a 7 minutos.",
+        "Coloca una capa de tomates, seguida de los calabacines, otra capa de los tomates restantes y la cebolla, superponiéndolos ligeramente en el fondo de la tarta. Espolvorea con el 1/4 de cucharadita de sal restante, 1/4 de cucharadita de pimienta negra y el queso parmesano. Hornea durante unos 20 minutos hasta que la tarta esté ligeramente dorada. Retira del horno y espolvorea la parte superior con la albahaca y vuelve a meter al horno durante 3 minutos más. Deja que la tarta se enfríe durante 5 minutos, luego córtala en gajos y sírvela."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "French",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "185mg",
+        "total_carbohydrate": "25g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/vegetable-provencal-tart"
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Muffins de Proteína con Arándanos y 5 Ingredientes",
+    "keywords": "Quick & Easy,Breakfast and Brunch,Budget Friendly,Foodie,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Quick & Easy",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Foodie",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/5%20ingredient%20blueberry%20muffins%20diabetic.png",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "apio (lavado y recortado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "leche desnatada",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Yogur griego de vainilla (sin grasa)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "mantequilla de almendras",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "arándanos (frescos)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375˚F. Rocíe 6 moldes para muffins con aceite en aerosol. En un tazón grande, mezcle bien el plátano, la quinoa, el yogur descremado y la mantequilla de almendras. Incorpore los arándanos.",
+        "Vierta la mezcla con una cuchara en los moldes para muffins preparados. Hornee durante 20 a 25 minutos o hasta que estén dorados y firmes en el centro. Deje enfriar por completo."
+    ],
+    "tags": [
+        "Quick & Easy",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Foodie",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "30mg",
+        "total_carbohydrate": "14g",
+        "fiber": "3g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/5-ingredient-blueberry-protein-muffins"
+}

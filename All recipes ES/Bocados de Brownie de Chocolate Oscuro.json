@@ -1,0 +1,120 @@
+{
+    "title": "Bocados de Brownie de Chocolate Oscuro",
+    "keywords": "Dessert",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2156_2.10%20Dark%20Chocolate%20Brownie%20Bites.jpg",
+    "servings": "14 Servings",
+    "ingredients": [
+        {
+            "name": "aguacate (pelado y sin hueso)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "2 large",
+            "metric_amount": "2 large"
+        },
+        {
+            "name": "aceite vegetal",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Mientras tanto, coloca el aceite de oliva en una sartén grande. Agrega la panceta, la cebolla, el ajo y el calabacín picado. Saltea hasta que la panceta se dore. Retira la sartén del fuego y agrega los tomates. Agrega la quinoa cocida y mezcla bien.",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Endulzante con Stevia Splenda® en frasco",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "cacao en polvo sin azúcar (+ 2 cucharadas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "harina de almendras (blanqueada, superfina)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "espresso (en polvo)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "bicarbonato",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cúrcuma",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "nueces (finamente picadas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "agua (para salsa de chocolate)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Tarro de endulzante con Stevia Splenda® (para salsa de chocolate)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Cacao en polvo sin azúcar (para salsa de chocolate)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Sal kosher (para salsa de chocolate)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "extracto puro de vainilla (para salsa de chocolate)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F. Rocíe un molde para muffins en miniatura con aceite en aerosol antiadherente.",
+        "En un procesador de alimentos, agrega el aguacate y licúa hasta que quede una mezcla homogénea. Deja de procesar y raspa los costados del tazón según sea necesario para que no queden grumos.",
+        "En un tazón grande, mezcle el puré de aguacate, los huevos, el aceite vegetal y la vainilla hasta que se combinen.",
+        "En un recipiente mediano, combine el endulzante de stevia Splenda®, el cacao en polvo, la harina de almendras, el café espresso en polvo, el bicarbonato de sodio y la sal. Agregue la mezcla de ingredientes secos a la mezcla de aguacate y revuelva hasta que se integren.",
+        "En otro recipiente, mezcle todos los ingredientes de la salsa de chocolate hasta que se combinen.",
+        "Para recalentarlos desde el refrigerador, coloque el muffin sin tapar en un plato en el microondas durante 30 segundos. Para recalentarlos desde el congelador, coloque el muffin sin tapar en un plato en el microondas durante 1 minuto.",
+        "Coloca aproximadamente 1 cucharada de masa en cada sección del molde para muffins y alisa la superficie. Hornea durante 10 a 15 minutos, hasta que esté listo y un palillo insertado en uno de los bocados centrales de brownie salga casi limpio.",
+        "canela molida"
+    ],
+    "tags": [
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "11g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "10g",
+        "fiber": "3g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/dark-chocolate-brownie-bites"
+}

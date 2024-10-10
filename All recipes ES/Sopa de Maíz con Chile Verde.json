@@ -1,0 +1,90 @@
+{
+    "title": "Sopa de Maíz con Chile Verde",
+    "keywords": "Dinner,Lunch,Main Dish,Soup,Vegetarian",
+    "prep_time": "PT20M",
+    "cook_time": "PT28M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Soup",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/diabetic-green-chile-corn-chowder-tex-mex-cookbook_080318_1021x779.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Dejar enfriar sobre una rejilla y guardar en un recipiente hermético cuando esté frío.",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pimientos rojos asados ​​(cortados en rodajas finas)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "maíz congelado",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "calabacín grande (cortado en trozos de 1/4 de pulgada)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "chiles verdes enlatados",
+            "us_amount": "1 cup",
+            "metric_amount": "1 cup"
+        },
+        {
+            "name": "sopa de queso condensada reducida en sodio",
+            "us_amount": "2 (10.75 oz) cans",
+            "metric_amount": "2 (10.75 oz) cans"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "mitad y mitad sin grasa",
+            "us_amount": "2 1/2 cup",
+            "metric_amount": "592 ml"
+        },
+        {
+            "name": "queso cheddar bajo en grasa (rallado)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "En una sartén grande, calienta el aceite y agrega el ajo, el maíz, el calabacín y los chiles. Saltea a fuego medio, revolviendo con frecuencia, hasta que el calabacín comience a ablandarse, durante 10 a 12 minutos. Reserva.",
+        "En una olla grande, combine la sopa condensada, el agua y la crema de leche. Cocine a fuego lento, revolviendo ocasionalmente, durante 8 a 10 minutos.",
+        "Fresas frescas (en rodajas, para la cobertura)",
+        "hojuelas de pimiento rojo triturado (secas)"
+    ],
+    "tags": [
+        "Mexican/Southwestern",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Soup",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "9g",
+        "saturated_fat": "3.2g",
+        "trans_fat": "0g",
+        "cholesterol": "15mg",
+        "sodium": "460mg",
+        "total_carbohydrate": "32g",
+        "fiber": "3g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/green-chile-corn-chowder"
+}

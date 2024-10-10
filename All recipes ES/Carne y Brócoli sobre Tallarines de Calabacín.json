@@ -1,0 +1,109 @@
+{
+    "title": "Carne y Brócoli sobre Tallarines de Calabacín",
+    "keywords": "Quick & Easy,One Pot,Main Dish,Gluten-Free,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Quick & Easy",
+        "One Pot",
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2018-diabetic-beef-broccoli-zucchini-noodles-zoodles_diabetes-cookbook_030121.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "caldo de res sin sal añadida",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Maicena",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salsa de soja baja en sodio",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "pimienta",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de sésamo tostado",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "cebolla mediana (en rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "condimento de hierbas sin sal, como Ms. Dash",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "floretes de brócoli frescos o congelados",
+            "us_amount": "4 heaping cups",
+            "metric_amount": "4 heaping cups"
+        },
+        {
+            "name": "Calabacín pequeño (en espiral, en forma de fideos, o 4 tazas de fideos de calabacín preparados)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Áselo durante 20 a 25 minutos o hasta que esté tierno al pincharlo con un tenedor. Déjelo cocinar en la bandeja para hornear durante 10 minutos.",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "En un bol pequeño, mezcle el caldo, la maicena, la salsa de soja, el ajo y el jengibre. Reserve.",
+        "Rocíe una sartén grande o un wok con aceite en aerosol, agregue aceite de sésamo y coloque a fuego alto.",
+        "frijoles negros (sin sal añadida, enjuagados y escurridos)",
+        "Añade el brócoli y el calabacín espiralizado y saltea 3 minutos más.",
+        "Añade la mezcla de caldo y deja que hierva, raspando el fondo de la cacerola para aflojar los restos marrones. Reduce el fuego y cocina a fuego lento durante 2 minutos.",
+        "Incorpore las semillas de sésamo y sirva."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "High in Fiber",
+        "Quick & Easy",
+        "One Pot",
+        "Main Dish",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "9g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0.1g",
+        "cholesterol": "40mg",
+        "sodium": "500mg",
+        "total_carbohydrate": "15g",
+        "fiber": "5g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "29g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/beef-and-broccoli-over-zucchini-noodles"
+}

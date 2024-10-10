@@ -1,0 +1,65 @@
+{
+    "title": "Mix de Snack con Clúster de Semillas de Calabaza",
+    "keywords": "Foodie,Snacks,Vegetarian",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Foodie",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/oct2011_pumpkin_seed_cluster_279x200-2.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "semillas de calabaza saladas (con cáscara)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cacahuetes sin sal",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "pasas doradas o arándanos secos",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Mini chips de chocolate",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque una sartén antiadherente grande a fuego medio-alto hasta que se caliente. Cocine las semillas de calabaza y los cacahuetes durante 2 a 3 minutos o hasta que comiencen a dorarse ligeramente, revolviendo con frecuencia. Déjelos reposar sobre una toalla de papel en una capa fina para que se enfríen rápidamente, aproximadamente 5 minutos.",
+        "Combine la mezcla de semillas de calabaza con los ingredientes restantes."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Kid Friendly",
+        "Foodie",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "4g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "175mg",
+        "total_carbohydrate": "19g",
+        "fiber": "5g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pumpkin-seed-cluster-snack-mix"
+}

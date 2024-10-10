@@ -1,0 +1,76 @@
+{
+    "title": "Tomates Cherry Asados con Romero y Ajo",
+    "keywords": "Appetizers,Holidays & Entertaining,Vegan,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Rosemary%20Tomatoes%20%20Garlic%20on%20Toast%20diabetic%20recipe.png",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Tomates cherry",
+            "us_amount": "24 oz",
+            "metric_amount": "679 ml"
+        },
+        {
+            "name": "romero fresco (picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ajo (picado o rallado)",
+            "us_amount": "1 head",
+            "metric_amount": "1 head"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "pan integral (tostado y cortado en cuartos)",
+            "us_amount": "6 slice",
+            "metric_amount": "6 slice"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 grados F.",
+        "Coloque los tomates, el romero, la sal y el ajo en una fuente para hornear redonda.",
+        "Añade el aceite y revuelve para mezclar. Coloca en el horno y cocina durante 45 a 60 minutos, hasta que el ajo esté dorado y ablandado y los tomates revienten.",
+        "pimienta negra",
+        "Cubra cada cuarto de pan tostado con la mezcla de tomates. Una porción son 3 cuartos de rebanadas de pan tostado con ¼ de taza de tomates."
+    ],
+    "tags": [
+        "Lower Carb",
+        "French",
+        "Mediterranean",
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "14g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "14g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-cherry-tomatoes-rosemary-garlic"
+}

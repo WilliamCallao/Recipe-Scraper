@@ -1,0 +1,70 @@
+{
+    "title": "Lentejas Perfectamente Cocidas Fáciles",
+    "keywords": "Vegetarian,Vegan,Sides,Gluten-Free,Dinner,Lunch,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Gluten-Free",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-09/23perfect_cookedlentils.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "lentejas (verdes o marrones)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "caldo de verduras bajo en sodio",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "hojas de laurel (opcional)",
+            "us_amount": "1 leaves",
+            "metric_amount": "1 leaves"
+        }
+    ],
+    "instructions": [
+        "Enjuague las lentejas con agua fría en un colador de malla fina.",
+        "En una cacerola mediana, combine las lentejas enjuagadas, el caldo de verduras y la hoja de laurel (si se usa).",
+        "Poner la mezcla a hervir a fuego alto.",
+        "Reduce el fuego, tapa la cacerola y deja que las lentejas hiervan a fuego lento durante 20 a 25 minutos o hasta que estén tiernas pero conserven su forma.",
+        "Una vez cocido, retira la cacerola del fuego y desecha la hoja de laurel.",
+        "Drene el exceso de líquido si es necesario."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "High in Fiber",
+        "Mediterranean",
+        "Indian",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Gluten-Free",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "100mg",
+        "total_carbohydrate": "36g",
+        "fiber": "10g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/easy-perfectly-cooked-lentils"
+}

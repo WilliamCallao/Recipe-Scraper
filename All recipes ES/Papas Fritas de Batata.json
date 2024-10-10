@@ -1,0 +1,78 @@
+{
+    "title": "Papas Fritas de Batata",
+    "keywords": "Quick & Easy,Sides,Vegan,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT24M",
+    "categories": [
+        "Quick & Easy",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/sweet-potato-fries.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "batatas (lavadas y cortadas en tiras finas de 1/4 de pulgada)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "Maicena",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimentón ahumado",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Sal (marina o más al gusto)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425 °F. Cubra una bandeja para hornear con papel pergamino o una estera de silicona.",
+        "Enjuague las batatas con agua corriente fría hasta que el agua salga clara. Escúrralas sobre toallas de papel y séquelas. Haga todo lo posible por secarlas bien y luego transfiéralas a un tazón grande.",
+        "aceite de oliva",
+        "aceite de oliva (uso dividido)",
+        "Pruebe y ajuste el condimento según sea necesario. Sirva caliente."
+    ],
+    "tags": [
+        "Quick & Easy",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "25g",
+        "fiber": "4g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-potato-fries-0"
+}

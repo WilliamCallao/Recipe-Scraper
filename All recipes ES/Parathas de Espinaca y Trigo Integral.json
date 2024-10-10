@@ -1,0 +1,100 @@
+{
+    "title": "Parathas de Espinaca y Trigo Integral",
+    "keywords": "Breakfast and Brunch,Dinner,Lunch,Sides,Vegan,Vegetarian",
+    "prep_time": "PT1H",
+    "cook_time": "PT10M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Dinner",
+        "Lunch",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1985-Whole-Wheat-Spinach-Parathas_KDBH-Bookazine_012821.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Añade todos los ingredientes a una jarra. Refrigera durante la noche antes de servir para que se impregnen los sabores.",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "harina integral de repostería (dividida)",
+            "us_amount": "2 cups plus 1 tbsp",
+            "metric_amount": "2 cups plus 1 tbsp"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Vierta el caldo de verduras, raspando los restos dorados del fondo de la olla. Lleve a ebullición, luego reduzca el fuego a fuego lento y cubra.",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Sal marina fina (uso dividido)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "espinaca baby (picada)",
+            "us_amount": "1 cup (tightly packed)",
+            "metric_amount": "1 cup (tightly packed)"
+        },
+        {
+            "name": "Chile verde (semillas descartadas, finamente picado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimentón ahumado",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "semillas de ajwain",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Pollo cocido (picado)",
+            "us_amount": "3 tsp",
+            "metric_amount": "15 g"
+        }
+    ],
+    "instructions": [
+        "Retirar de la sartén. Repetir el proceso de cocción con los trozos de masa restantes y el aceite restante. Servir caliente.",
+        "Dale la vuelta a la paratha. Pincélala con ¼ de cucharadita del aceite restante. Continúa cocinando durante unos 3 o 4 minutos por cada lado, dándole la vuelta según sea necesario, hasta que los bordes estén dorados por ambos lados. Con una espátula plana, presiona el centro de la paratha mientras se cocina para que se cocine de manera uniforme.",
+        "Precaliente una plancha de hierro fundido o una sartén plana a fuego medio-alto. Coloque un trozo de masa en la sartén. Cocine durante aproximadamente 1 minuto o hasta que comience a burbujear.",
+        "Después de dejar reposar la masa, amasar nuevamente. Formar 8 bolas. Espolvorear ligeramente la superficie de trabajo con la cucharada de harina restante. Con un rodillo, aplanar cada bola de masa hasta que tenga 15 cm de diámetro.",
+        "Prepare una batidora equipada con el gancho para masa. Si no tiene batidora, prepare un procesador de alimentos.",
+        "Añade la espinaca y ¼ de cucharadita de sal. Cocina durante 3 minutos o hasta que la humedad liberada por la espinaca se absorba y la base se seque. Añade el polvo de amchoor y el comino, revolviendo bien. Retira del fuego. Deja enfriar.",
+        "Añade la harina y la sal (opcional) y mezcla a velocidad baja hasta que se incorpore la harina. Si usas una batidora con el accesorio de gancho para masa, aumenta la velocidad a media y amasa la masa durante 5 minutos. Si usas un procesador de alimentos, coloca la masa sobre una tabla o encimera limpia y enharinada y amásala a mano durante 5 a 7 minutos. Si la masa está demasiado pegajosa, agrega una cucharada de harina a la vez hasta formar una masa suave."
+    ],
+    "tags": [
+        "Indian",
+        "Breakfast and Brunch",
+        "Dinner",
+        "Lunch",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "2g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "25g",
+        "fiber": "4g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/whole-wheat-spinach-parathas"
+}

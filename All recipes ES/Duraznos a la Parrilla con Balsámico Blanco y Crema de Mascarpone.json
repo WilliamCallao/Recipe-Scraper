@@ -1,0 +1,90 @@
+{
+    "title": "Duraznos a la Parrilla con Balsámico Blanco y Crema de Mascarpone",
+    "keywords": "Vegetarian,Dessert",
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Vegetarian",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_730_GrilledPeachesWithYogurtAndWalnutCinnamonCrumble_WholeCooking_022618.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Melocotones (cortados por la mitad, sin hueso)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "aceite vegetal",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "vinagre balsámico blanco",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "yogur colado (sin grasa, natural, griego o skyr)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "queso mascarpone",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "nueces (picadas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente una parrilla o una sartén para asar al aire libre a fuego medio-alto. Precaliente el horno a 400 °F.",
+        "En un bol grande, mezcle los duraznos con el aceite hasta que estén bien cubiertos. Asa los duraznos con el lado cortado hacia abajo hasta que se quemen, durante 2 o 3 minutos, luego transfiérelos a una fuente para horno, con el lado cortado hacia arriba, y rocíalos con el vinagre balsámico blanco.",
+        "Ase los duraznos, sin tapar, durante 10 a 15 minutos o hasta que estén tiernos.",
+        "Mientras tanto, en el bol de un procesador de alimentos, combine el yogur, el mascarpone, la miel y la vainilla. Haga un puré hasta que quede una mezcla homogénea.",
+        "En una licuadora, mezcle las nueces y la canela hasta formar un crumble.",
+        "Saque los duraznos del horno y sirva cada mitad de durazno con 2 cucharadas de crema de mascarpone y 1 cucharada de crumble de nueces."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Grilling",
+        "Comfort Food",
+        "Vegetarian",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "6g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0.1g",
+        "cholesterol": "5mg",
+        "sodium": "15mg",
+        "total_carbohydrate": "15g",
+        "fiber": "2g",
+        "sugar": "13g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-peaches-white-balsamic-and-mascarpone-cream"
+}

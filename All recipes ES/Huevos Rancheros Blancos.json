@@ -1,0 +1,95 @@
+{
+    "title": "Huevos Rancheros Blancos",
+    "keywords": "Breakfast and Brunch,Vegetarian,Dinner,Cooking for 1 or 2,Lunch",
+    "prep_time": "Desconocido",
+    "cook_time": "PT15M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Vegetarian",
+        "Dinner",
+        "Cooking for 1 or 2",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/008-diabetic-breakfast-Blanco-Huevos-Rancheros_all-natural-diabetes-cookbook.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "yogur griego natural sin grasa o crema agria orgánica baja en grasa",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salsa de tomatillo (elaborada comercialmente (salsa verde))",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Aguacate Hass (pelado y cortado en cubitos (aproximadamente 1/2 taza))",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "pimienta negra (recién molida, al gusto)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal marina (o al gusto)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Semilla de lino molida",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Claras de huevo (grandes o 1 taza de sustituto de clara de huevo 100 %)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "tortillas de maíz (5 pulgadas)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "En un bol pequeño, mezcle los ingredientes restantes y vierta sobre la ensalada de frijoles. Mezcle bien.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cilantro (fresco, picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 475 grados F. Rocíe ligeramente ambos lados de las tortillas de maíz con aceite en aerosol con sabor a mantequilla natural y colóquelas en una bandeja para hornear. Hornee durante 4 minutos por lado o hasta que estén crujientes y ligeramente doradas. Retire del horno y deje enfriar en la bandeja para hornear.",
+        "Mientras tanto, coloque una sartén antiadherente grande a fuego medio. Agregue las claras de huevo y revuelva durante 5 minutos o hasta que estén listas. Agregue inmediatamente la sal, la pimienta y el queso.",
+        "Coloque una cucharada de claras de huevo con queso sobre cada tortilla crujiente. Cubra cada una con aguacate, salsa de tomatillo, yogur, jalapeño y cilantro."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Breakfast and Brunch",
+        "Vegetarian",
+        "Dinner",
+        "Cooking for 1 or 2",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "300",
+        "total_fat": "10g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "560mg",
+        "total_carbohydrate": "30g",
+        "fiber": "5g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/blanco-huevos-rancheros"
+}

@@ -1,0 +1,88 @@
+{
+    "title": "Hálibut con Pesto de Espinaca",
+    "keywords": "Quick & Easy,Dinner,Gluten-Free",
+    "prep_time": "PT15M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Quick & Easy",
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/518-diabetic-spinach-pesto-fish_AdobeStock323286966_012221.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "fletán u otro pescado blanco firme",
+            "us_amount": "4 (4-oz) fillets",
+            "metric_amount": "4 (4-oz) fillets"
+        },
+        {
+            "name": "Prepara los ingredientes y haz el relish. Lava y seca los productos frescos. Corta el calabacín por la mitad a lo largo y luego en rodajas finas transversales. Corta y desecha los tallos de los pimientos dulces; quita los corazones. Córtalos en rodajas finas. Pela y pica 2 dientes de ajo. Pica los pimientos picantes en trozos grandes. Pela y corta en dados medianos la naranja. En un bol, combina la naranja cortada en cubitos, los pimientos picantes picados y 1/2 cucharadita de aceite de oliva; sazona con sal (opcional) y pimienta. Deja marinar, revolviendo de vez en cuando, al menos 10 minutos.",
+            "us_amount": "5 cup",
+            "metric_amount": "1 l 183 ml"
+        },
+        {
+            "name": "piñones (tostados)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "hojas de laurel",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "mayonesa ligera",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Calienta 1 cucharada de aceite de oliva en una sartén antiadherente a fuego medio-alto. Agrega los champiñones y las espinacas y saltéalos durante unos 5 minutos, hasta que las espinacas se ablanden y la mayor parte del líquido se haya evaporado. Agrega el ajo y saltéalo durante 30 segundos. Retira la mezcla de la sartén y reserva en un bol.",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Parmesano (recién rallado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Rocíe la parrilla con aceite en aerosol. Precaliente la parrilla y cocine el fletán a fuego medio alto durante 4 o 5 minutos de cada lado.",
+        "Coloque 1 taza de espinaca, piñones, jugo de limón y mayonesa en un procesador de alimentos y procese suavemente. Mientras procesa, agregue lentamente aceite de oliva hasta que la mezcla quede cremosa.",
+        "Vierta la mezcla de pesto en un bol y agregue el queso parmesano y la pimienta.",
+        "Coloque 1 taza de espinacas en cada uno de los 4 platos; cubra con un filete de fletán a la parrilla.",
+        "Extiende la mezcla de pesto uniformemente sobre los filetes de fletán a la parrilla."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Quick & Easy",
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "17g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "130mg",
+        "total_carbohydrate": "2g",
+        "fiber": "1g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spinach-pesto-halibut"
+}

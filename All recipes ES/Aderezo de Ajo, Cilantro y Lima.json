@@ -1,0 +1,75 @@
+{
+    "title": "Aderezo de Ajo, Cilantro y Lima",
+    "keywords": "Salad Dressings & Condiments,Vegetarian,Foodie",
+    "prep_time": "PT5M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Salad Dressings & Condiments",
+        "Vegetarian",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/224-garlic-lime-cilantro-salad-dressing_090718_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Lima (rallada y exprimida)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ajo (picado o rallado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Saque los tomates y sumérjalos en agua helada. Cuando los tomates estén lo suficientemente fríos como para tocarlos, pélelos. Si desea una salsa espesa, corte los tomates en dados y déjelos a un lado. Si desea una salsa suave, pase los tomates por un pasapurés para crear un puré sin semillas.",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "cilantro (picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Bate todos los ingredientes juntos en un bol o agítalos en una coctelera para aderezos para ensaladas.",
+        "jarabe de arce puro"
+    ],
+    "tags": [
+        "Lower Carb",
+        "Mexican/Southwestern",
+        "Salad Dressings & Condiments",
+        "Vegetarian",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "7g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "3g",
+        "fiber": "0g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/garlicky-cilantro-lime-dressing"
+}

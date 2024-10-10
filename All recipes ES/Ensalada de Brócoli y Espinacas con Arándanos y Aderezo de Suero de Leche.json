@@ -1,0 +1,107 @@
+{
+    "title": "Ensalada de Brócoli y Espinacas con Arándanos y Aderezo de Suero de Leche",
+    "keywords": "Sides,Salads,No Cook,Lunch,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Salads",
+        "No Cook",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1793-diabetic-Broccoli-SpinachSalad-Blueberries-Quinoa-Feta-Dressing_MediterraneanCkbk_043019.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "espinaca bebé",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "brócoli picado",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "palta",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "arándanos",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "queso feta desmenuzado",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "semillas de girasol tostadas",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Yogur griego natural sin grasa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "suero de leche bajo en grasa",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "jugo y ralladura de 1 limón",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Semillas de amapola",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Eneldo fresco y/o otras hierbas",
+            "us_amount": "a few sprigs",
+            "metric_amount": "a few sprigs"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        }
+    ],
+    "instructions": [
+        "Coloque las espinacas, el brócoli, el aguacate, los arándanos, el queso feta y las semillas de girasol en un tazón grande o en un plato grande.",
+        "Coloque el yogur, el suero de leche, el ajo, el jugo y la ralladura de limón, las semillas de amapola, las hierbas y la pimienta en una licuadora y mezcle. (Si no usa una licuadora, también puede batir los ingredientes en un bol hasta que se combinen).",
+        "Vierta el aderezo sobre la ensalada y sirva inmediatamente."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Low Sodium",
+        "Mediterranean",
+        "Sides",
+        "Salads",
+        "No Cook",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "6g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "105mg",
+        "total_carbohydrate": "8g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/broccoli-and-spinach-salad-blueberries-and-buttermilk-dressing"
+}

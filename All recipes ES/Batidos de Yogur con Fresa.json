@@ -1,0 +1,83 @@
+{
+    "title": "Batidos de Yogur con Fresa",
+    "keywords": "Dessert,Snacks",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Dessert",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2161_Strawberry%20Yogurt%20Whips%20-%20Original%20Photo.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "agua (fria)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "gelatina sin sabor",
+            "us_amount": "1 1/2 packet",
+            "metric_amount": "1 1/2 packet"
+        },
+        {
+            "name": "agua hirviendo",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Splenda® Refrescante de agua líquida sabor fresa y sandía (sabor fresa)",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        },
+        {
+            "name": "cubitos de hielo",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Yogur griego natural sin grasa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Fresas frescas (cortadas en cubitos)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "crema batida sin azúcar",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "aceite de sésamo tostado",
+        "Incorpore agua hirviendo y mezcle hasta que la gelatina se haya disuelto completamente.",
+        "Incorpore el potenciador de agua líquido Splenda.",
+        "Precaliente el horno a 350 grados F. Hornee la cazuela sin tapar hasta que esté dorada, aproximadamente de 45 a 50 minutos.",
+        "Saque la cazuela del horno y déjela enfriar durante 5 minutos. Córtela en 12 porciones y sírvalas con salsa de fresas tibia. (Cada porción debe medir 2-1/4 pulgadas por 3 pulgadas).",
+        "Incorpore las fresas cortadas en cubitos.",
+        "Vierta la mezcla uniformemente en cuatro moldes grandes para natillas y enfríe durante 1 hora hasta que esté listo.",
+        "aceite de aguacate (dividido)"
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Dessert",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "1g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "1mg",
+        "sodium": "35mg",
+        "total_carbohydrate": "6g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/strawberry-yogurt-whips"
+}

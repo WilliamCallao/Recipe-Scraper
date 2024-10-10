@@ -1,0 +1,79 @@
+{
+    "title": "Caja de Almuerzo Baja en Carbohidratos",
+    "keywords": "Lunch,Budget Friendly,Foodie",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Budget Friendly",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_340_Low_Carb_Lunchbox_MG_4945-Edit-%28ZF-5661-35964-1-130%29_02282018.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "jamón de charcutería reducido en sodio",
+            "us_amount": "1 1/2 oz",
+            "metric_amount": "42 ml"
+        },
+        {
+            "name": "Queso Colby Jack bajo en grasas",
+            "us_amount": "1/2 oz",
+            "metric_amount": "14 ml"
+        },
+        {
+            "name": "aguacate (puré)",
+            "us_amount": "1/4",
+            "metric_amount": "1/4"
+        },
+        {
+            "name": "lechuga de hoja grande",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "claras de huevo duras",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "almendras tostadas sin sal",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "manzana verde (entera o en rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zanahorias bebé",
+            "us_amount": "3",
+            "metric_amount": "3"
+        }
+    ],
+    "instructions": [
+        "Arma el sándwich colocando capas de jamón, queso y aguacate sobre la hoja de lechuga, luego enróllalo bien y envuélvelo en film transparente. Sirve el sándwich con las claras de huevo, las almendras, la manzana verde y las zanahorias baby."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Kid Friendly",
+        "Lunch",
+        "Budget Friendly",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "360",
+        "total_fat": "18g",
+        "saturated_fat": "3.5g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "500mg",
+        "total_carbohydrate": "33g",
+        "fiber": "10g",
+        "sugar": "19g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/low-carb-lunchbox"
+}

@@ -1,0 +1,98 @@
+{
+    "title": "Avena al Horno con Calabaza",
+    "keywords": "Quick & Easy,Vegetarian,Breakfast and Brunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Quick & Easy",
+        "Vegetarian",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/67-diabetic-pumpkin-oatmeal_183279287_013119.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "avena laminada tradicional (sin cocinar)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Sustituto de azúcar moreno bajo en calorías",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "nuez moscada molida",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Levadura en polvo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "leche desnatada",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Puré de calabaza",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "champiñones en rodajas",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "caldo de pollo o verduras",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "romero fresco (picado)",
+        "En un tazón grande, combine la avena, la mezcla de azúcar morena Splenda, la canela, la nuez moscada y el polvo para hornear.",
+        "En un tazón mediano, combine la leche, el extracto de vainilla, la calabaza, el aceite y el huevo.",
+        "Prepara el salmón y las verduras: coloca las verduras en una fuente para horno de 20 x 20 cm (8 x 8 pulgadas) y coloca los filetes de salmón sobre ellas. Hornea durante 10 a 15 minutos o hasta que el salmón se desmenuce fácilmente al pincharlo con un cuchillo pequeño y las verduras estén bien calientes."
+    ],
+    "tags": [
+        "Low Sodium",
+        "High in Fiber",
+        "Comfort Food",
+        "Quick & Easy",
+        "Vegetarian",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "280",
+        "total_fat": "8g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "140mg",
+        "total_carbohydrate": "43g",
+        "fiber": "6g",
+        "sugar": "12g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/baked-pumpkin-oatmeal"
+}

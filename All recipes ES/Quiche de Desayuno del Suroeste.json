@@ -1,0 +1,87 @@
+{
+    "title": "Quiche de Desayuno del Suroeste",
+    "keywords": "Quick & Easy,Easy Pantry Recipes,Budget Friendly,Breakfast and Brunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Quick & Easy",
+        "Easy Pantry Recipes",
+        "Budget Friendly",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1961-diabetic-Southwest-Quiche_Magee_050120.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cilantro fresco",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "Aceite de Oliva Virgen Extra (dividido)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Levadura en polvo",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "leche desnatada",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Batir la mayonesa, la ralladura de lima, el jugo de lima, los chiles chipotle, la salsa de adobo, la miel y la sal en un bol grande. Agregar la ensalada de col, el mango y el cilantro; mezclar bien.",
+            "us_amount": "1 (7-oz) can",
+            "metric_amount": "1 (7-oz) can"
+        },
+        {
+            "name": "Espolvorea los camarones con el chile en polvo. Calienta el aceite en una sartén antiadherente mediana a fuego medio-alto. Agrega los camarones, en tandas, y cocina, dándoles vuelta de vez en cuando, hasta que estén apenas opacos en el centro, de 2 a 3 minutos.",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "queso cheddar rallado bajo en grasa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400º F. Cubra una fuente para hornear redonda o cuadrada de 9 pulgadas con aceite de canola en aerosol; reserve.",
+        "En un bol, combine los huevos, la harina y el polvo para hornear y bata hasta que se integren. Agregue las claras de huevo y la leche y bata hasta que quede una mezcla homogénea. A velocidad baja, agregue los chiles verdes, el requesón y el queso rallado.",
+        "Vierta la mezcla en el molde preparado y hornee durante 15 minutos. Reduzca el fuego a 350 grados y hornee durante unos 25 minutos más (hasta que la quiche esté firme en el centro y la parte superior esté dorada). Córtela en 6 rebanadas iguales y sirva tal cual o cúbrala con salsa, aguacate o yogur griego natural."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Quick & Easy",
+        "Easy Pantry Recipes",
+        "Budget Friendly",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "7g",
+        "saturated_fat": "3.3g",
+        "trans_fat": "0g",
+        "cholesterol": "110mg",
+        "sodium": "500mg",
+        "total_carbohydrate": "10g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/southwest-breakfast-quiche"
+}

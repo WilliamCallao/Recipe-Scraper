@@ -1,0 +1,111 @@
+{
+    "title": "Pudín de Calabaza y Vainilla",
+    "keywords": "Dessert,Foodie,Holidays & Entertaining,Snacks,Vegetarian",
+    "prep_time": "PT1H10M",
+    "cook_time": "PT7M",
+    "categories": [
+        "Dessert",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/pumpkin-vanilla-pudding-Nov15.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "sustituto de azúcar bajo en calorías",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Maicena",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Leche al 1%",
+            "us_amount": "1 3/4 cup",
+            "metric_amount": "414 ml"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "calabaza enlatada",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "clavo molido",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Jengibre molido",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "nuez moscada molida",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "vaina de vainilla",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "nueces pecanas",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "cobertura batida",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "En una cacerola de 3 cuartos, mezcle el edulcorante y la fécula de maíz.",
+        "En un bol pequeño, bate la leche y las yemas de huevo. A fuego medio, incorpora lentamente la mezcla de huevos a la mezcla de edulcorante. Deja que hierva y sigue batiendo hasta que espese, durante unos 3 a 5 minutos.",
+        "Añade la calabaza, la canela, los clavos de olor, el jengibre y la nuez moscada. Mezcla bien y cocina a fuego lento durante 3 minutos. Añade las semillas de vainilla y cocina 1 minuto más.",
+        "Retire la cacerola del fuego. Coloque el pudín en un bol y cúbralo con film transparente. Refrigere durante 1 hora antes de servir. Para servir, coloque el pudín en platos individuales, cubra cada plato con 1/2 cucharada de nueces pecanas y espolvoree con canela. Si lo desea, cubra con crema batida."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Lower Carb",
+        "Low Sodium",
+        "Kid Friendly",
+        "Comfort Food",
+        "Dessert",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "85",
+        "total_fat": "4g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "30mg",
+        "total_carbohydrate": "9g",
+        "fiber": "1g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pumpkin-vanilla-pudding"
+}

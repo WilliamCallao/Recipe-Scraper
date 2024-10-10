@@ -1,0 +1,95 @@
+{
+    "title": "Hummus de Calabaza",
+    "keywords": "Appetizers,Foodie,Lunch,Quick & Easy,Sides,Snacks,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "Foodie",
+        "Lunch",
+        "Quick & Easy",
+        "Sides",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1831-diabetic-pumpkin-hummus_Clean-Simple-Ckbk_DFNovDec19_101019.jpg",
+    "servings": "7 Servings",
+    "ingredients": [
+        {
+            "name": "garbanzos (escurridos y enjuagados)",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "calabaza enlatada",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "tahini",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ajo",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "pimentón ahumado",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        },
+        {
+            "name": "semillas de calabaza (opcional)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Añade todos los ingredientes excepto las semillas de calabaza a un procesador de alimentos o licuadora y mezcla hasta que quede suave.",
+        "Decore con una pizca de semillas de calabaza, si lo desea. Sirva con chips de pan pita o verduras frescas, como apio, guisantes dulces o zanahorias."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Mediterranean",
+        "Appetizers",
+        "Foodie",
+        "Lunch",
+        "Quick & Easy",
+        "Sides",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "70mg",
+        "total_carbohydrate": "13g",
+        "fiber": "4g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pumpkin-hummus"
+}

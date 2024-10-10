@@ -1,0 +1,87 @@
+{
+    "title": "Bruschetta de Ricotta, Berenjena a la Parrilla y Menta Fresca (Bruschetta Calabrese)",
+    "keywords": "Appetizers,Dinner,Holidays & Entertaining,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Appetizers",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Vegetarian"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/RecId_803_Italian%20Diabetes%20Cookbook_Ricotta%20Grilled%20Eggplant%20and%20Fresh%20Mint%20Bruschetta_03132018.jpg",
+        "Grilled Eggplant",
+        "and Fresh Mint Bruschetta (Bruschetta Calabrese)\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "berenjenas bebé (1/2 libra en total), extremos recortados y cortados a lo largo en rodajas de 4 × 1/4 pulgada",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "aceite de oliva virgen extra de buena calidad (preferiblemente de Calabria; consulte la Guía de dónde comprar), dividido",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Sal marina sin refinar, dividida",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "En un bol para postre, esparce 1/3 de la mezcla de pudín en el fondo del bol. Cubre con 2 tazas de frambuesas; esparce uniformemente. Coloca otra capa de 1/3 de la mezcla de pudín y cubre con 2 tazas de arándanos; esparce uniformemente. Esparce la mezcla de pudín restante sobre los arándanos. Cubre el pudín con 1/2 taza de arándanos, 1/2 taza de frambuesas y todas las fresas.",
+            "us_amount": "4 (1/2-inch) slices",
+            "metric_amount": "4 (1/2-inch) slices"
+        },
+        {
+            "name": "queso ricotta, dividido",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "menta fresca finamente picada",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el asador a temperatura alta o la parrilla a temperatura media-alta.",
+        "Pincele ligeramente las rodajas de berenjena con 1 cucharada de aceite de oliva y colóquelas en una bandeja para hornear. Cuando la parrilla esté lista, use pinzas para colocar las rodajas directamente en la parrilla y cocine cada lado hasta que aparezcan las marcas de la parrilla y las rodajas estén bien doradas, de 3 a 4 minutos por lado. O, si las va a asar, coloque la bandeja para hornear directamente debajo de la parrilla y cocine cada lado hasta que estén doradas, de 1 a 2 minutos por lado.",
+        "Saque la bandeja para hornear del horno o, si va a asar a la parrilla, use pinzas para transferir la berenjena nuevamente a la bandeja para hornear y espolvoree con aproximadamente la mitad de la sal. Cuando las rodajas estén lo suficientemente frías como para manipularlas, córtelas en cubos de 1/4 de pulgada, colóquelas en un tazón y déjelas a un lado.",
+        "Cuando esté listo para servir (no prepare estos ingredientes con anticipación o el pan se empapará), ase las rebanadas de pan por ambos lados hasta que aparezcan marcas de la parrilla, o colóquelas debajo del asador hasta que se doren. Unte cada rebanada de manera uniforme con 2 cucharadas de ricota. Espolvoree con la sal restante y la pimienta. Cubra con la berenjena picada. Rocíe con la cucharada restante de aceite de oliva y adorne con menta. Sirva inmediatamente."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Veggie Rich",
+        "Grilling",
+        "Italian",
+        "Appetizers",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "10g",
+        "saturated_fat": "2.6g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "170mg",
+        "total_carbohydrate": "11g",
+        "fiber": "3g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ricotta-grilled-eggplant-and-fresh-mint-bruschetta-bruschetta-calabrese"
+}

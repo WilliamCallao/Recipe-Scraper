@@ -1,0 +1,112 @@
+{
+    "title": "Muffins de Calabacín y Dátiles",
+    "keywords": "Breakfast and Brunch,Foodie,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Breakfast and Brunch",
+        "Foodie",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_597_ZucchiniAndDateMuffins_iStock177689840_021618.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "Aceite en aerosol o 12 moldes de papel para muffins",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Sustituto de azúcar moreno bajo en calorías",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "Puré de manzana (sin azúcar)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "frijoles negros (escurridos y enjuagados)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "avena laminada pasada de moda",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cebolla(s) (cortadas en cubitos)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "bicarbonato",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Termina el freekeh y sirve el plato: añade las verduras marinadas a la olla de freekeh cocido; revuelve para combinar. Sirve las hojas de lechuga, el freekeh terminado, la carne cocida y la salsa de tahini y limón por separado. Arma cada taza con 2 hojas de lechuga. Decora con las hojas de menta (desmenuza antes de agregarlas). ¡Disfruta!",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "queso parmesano rallado",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Precaliente el horno a 400 grados. Rocíe con aceite en aerosol una fuente para horno cuadrada de 8x8. Déjela a un lado.",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "calabacín (rallado)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F. Rocíe ligeramente con aceite en aerosol un molde para muffins o cúbralo con pirotines de papel. Deje el molde a un lado.",
+        "En un recipiente mediano, combine la mezcla de azúcar morena Splenda, el puré de manzana sin azúcar, el aceite, las claras de huevo y la vainilla; mezcle bien. Deje de lado.",
+        "En un tazón grande, combine la harina, la avena, el polvo para hornear, el bicarbonato de sodio, la sal, la canela y los dátiles.",
+        "Haz un hueco en el centro de los ingredientes secos. Agrega la mezcla de azúcar (húmeda) a los ingredientes secos de una sola vez y mezcla bien.",
+        "Incorpora el calabacín y reparte la masa de forma uniforme entre los 12 moldes para muffins.",
+        "Hornee durante 30 minutos o hasta que al insertar un palillo en el centro éste salga limpio."
+    ],
+    "tags": [
+        "Breakfast and Brunch",
+        "Foodie",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "145",
+        "total_fat": "5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "285mg",
+        "total_carbohydrate": "21g",
+        "fiber": "3g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/zucchini-and-date-muffins"
+}

@@ -1,0 +1,104 @@
+{
+    "title": "Pollo y Cuscús al Estilo Italiano con Zanahorias, Pasas y Kale",
+    "keywords": "Cooking for 1 or 2,Dinner,Foodie,Main Dish,Meal Kit Recipes",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Foodie",
+        "Main Dish",
+        "Meal Kit Recipes"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/1963-diabetic-italian-style-chicken-couscous_blue-apron_050820.jpg",
+        "Currants",
+        "and Kale\" loading=\"lazy\" />"
+    ],
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "zanahorias",
+            "us_amount": "6 oz (about 3 whole carrots)",
+            "metric_amount": "6 oz (about 3 whole carrots)"
+        },
+        {
+            "name": "col rizada",
+            "us_amount": "1 bunch (about 6 oz)",
+            "metric_amount": "1 bunch (about 6 oz)"
+        },
+        {
+            "name": "ajo",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "cuscús",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "agua (uso dividido)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "pesto de albahaca",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "aceite de oliva (uso dividido)",
+            "us_amount": "3 tsp",
+            "metric_amount": "15 g"
+        },
+        {
+            "name": "grosellas secas",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "vinagre de vino tinto",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Colocar cantidades iguales de la mezcla de aceite sobre cada porción de lentejas y cubrir con los huevos. Espolvorear con pimienta negra.",
+            "us_amount": "2 (6-oz) breasts",
+            "metric_amount": "2 (6-oz) breasts"
+        },
+        {
+            "name": "Mezcla de condimentos italianos",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "albahaca fresca",
+        "Cocine y termine de cocinar el cuscús: en una olla mediana, combine el cuscús y 3/4 de taza de agua. Caliente a fuego alto hasta que hierva. Una vez que hierva, apague el fuego. Cubra y deje reposar de 6 a 8 minutos, o hasta que el agua se haya absorbido y el cuscús esté tierno. Revuelva con un tenedor. Agregue el pesto; revuelva para combinar.",
+        "Cocine las verduras: Mientras tanto, en una sartén mediana (antiadherente, si tiene una), caliente 1 cucharadita de aceite de oliva a fuego medio-alto hasta que esté caliente. Agregue las zanahorias en rodajas; sazone con sal (opcional) y pimienta. Cocine, revolviendo ocasionalmente, de 3 a 4 minutos, o hasta que se ablanden un poco. Agregue la col rizada picada y el ajo picado. Cocine, revolviendo ocasionalmente, de 2 a 3 minutos, o hasta que la col rizada se marchite un poco. Agregue las grosellas y 1/4 de taza de agua (con cuidado, ya que el líquido puede salpicar). Cocine, revolviendo ocasionalmente, de 3 a 4 minutos, o hasta que la col rizada se marchite y el agua se haya evaporado. Apague el fuego y agregue el vinagre. Transfiera a un tazón y cubra con papel de aluminio para mantener caliente. Limpie la sartén.",
+        "pimienta negra"
+    ],
+    "tags": [
+        "Mediterranean",
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Foodie",
+        "Main Dish",
+        "Meal Kit Recipes"
+    ],
+    "nutrition": {
+        "calories": "640",
+        "total_fat": "27g",
+        "saturated_fat": "4.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "540mg",
+        "total_carbohydrate": "52g",
+        "fiber": "7g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "51g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/italian-style-chicken-couscous-carrots-currants-and-kale"
+}

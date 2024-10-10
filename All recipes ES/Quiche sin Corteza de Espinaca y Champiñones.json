@@ -1,0 +1,114 @@
+{
+    "title": "Quiche sin Corteza de Espinaca y Champiñones",
+    "keywords": "Vegetarian,Main Dish,Foodie,Cooking for 1 or 2,Breakfast and Brunch,Dinner,Lunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Vegetarian",
+        "Main Dish",
+        "Foodie",
+        "Cooking for 1 or 2",
+        "Breakfast and Brunch",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/213-diabetic-crustless-spinach-mushroom-quiche_Diab-Heart-Healthy-for-Two_012519.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de canola o de maíz",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Hongos Portobello (sin tallo y en rodajas)",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "cebolla verde (cebolleta) (picada)",
+            "us_amount": "3 stalks",
+            "metric_amount": "3 stalks"
+        },
+        {
+            "name": "puerto",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ajo mediano (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "espinaca congelada (picada, aproximadamente 2 1/2 onzas, descongelada y exprimida)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Tomates roma (ciruela) (cortados en cubitos finos)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "leche de coco ligera",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "Cacao en polvo",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "queso mozzarella parcialmente descremado rallado",
+            "us_amount": "1/4 cup plus 2 tbsp",
+            "metric_amount": "1/4 cup plus 2 tbsp"
+        },
+        {
+            "name": "limón maduro (jugo)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimienta",
+            "us_amount": "1/8 tbsp",
+            "metric_amount": "2 ml"
+        },
+        {
+            "name": "nuez moscada molida",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350° F. Rocíe ligeramente con aceite en aerosol dos moldes para flan de 10 onzas aptos para horno o moldes para tarta individuales. Colóquelos en una bandeja para hornear poco profunda.",
+        "En una sartén grande antiadherente, calienta el aceite a fuego medio, revolviendo para cubrir el fondo. Cocina los hongos y las cebollas verdes durante 2 minutos, revolviendo de vez en cuando. Agrega el oporto. Reduce el fuego a medio bajo y cocina durante 3 a 4 minutos, o hasta que se absorba todo el líquido. Agrega el ajo y cocina durante 30 segundos a 1 minuto, o hasta que desprenda un aroma fragante. Retira del fuego. Agrega la espinaca. Con una cuchara, sepárala en trozos pequeños.",
+        "Coloque la maicena en un recipiente mediano. Vierta la leche y bata hasta disolverla. Incorpore el resto de los ingredientes. Incorpore la mezcla de hongos y vierta la mezcla en moldes para flan.",
+        "Hornee durante 30 minutos o hasta que el centro esté inflado y firme (no se mueva al agitarlo suavemente). Deje reposar durante 5 minutos antes de servir."
+    ],
+    "tags": [
+        "French",
+        "Vegetarian",
+        "Main Dish",
+        "Foodie",
+        "Cooking for 1 or 2",
+        "Breakfast and Brunch",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "205",
+        "total_fat": "7g",
+        "saturated_fat": "3.2g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "395mg",
+        "total_carbohydrate": "16g",
+        "fiber": "3g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crustless-spinach-and-mushroom-quiche"
+}

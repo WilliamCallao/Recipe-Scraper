@@ -1,0 +1,111 @@
+{
+    "title": "Tostadas de Camarón Ahumado con Ensalada de Mango y Chipotle",
+    "keywords": "Dinner,Lunch,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1754-espanol-diabetic-tostadas-camarones-ahumados-ensalad-chipotle-mango_latin-comfort-foods_13020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "tortillas de maíz de 6 pulgadas",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "pimientos dulces",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chiles chipotle picados en adobo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salsa adobo de chile chipotle lata",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "mezcla de ensalada de col envasada",
+            "us_amount": "1 (10-oz) bag",
+            "metric_amount": "1 (10-oz) bag"
+        },
+        {
+            "name": "mango mediano maduro (cortado en trozos de 1/2 pulgada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cilantro fresco",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Camarones medianos silvestres, nunca congelados (pelados y desvenados)",
+            "us_amount": "1/2 lb (about 20 shrimp)",
+            "metric_amount": "1/2 lb (about 20 shrimp)"
+        },
+        {
+            "name": "En un bol pequeño, mezcle el pimentón ahumado, el comino y la miel hasta formar una pasta espesa y homogénea. Reserve.",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Calienta una sartén antiadherente pequeña a fuego medio. Agrega las tortillas, una a la vez, y cocina hasta que estén ligeramente tostadas y crujientes, aproximadamente 3 minutos de cada lado. Retíralas de la sartén y reserva.",
+        "Batir la mayonesa, la ralladura de lima, el jugo de lima, los chiles chipotle, la salsa de adobo, la miel y la sal en un bol grande. Agregar la ensalada de col, el mango y el cilantro; mezclar bien.",
+        "Espolvorea los camarones con el chile en polvo. Calienta el aceite en una sartén antiadherente mediana a fuego medio-alto. Agrega los camarones, en tandas, y cocina, dándoles vuelta de vez en cuando, hasta que estén apenas opacos en el centro, de 2 a 3 minutos.",
+        "Coloca las tortillas en cada uno de los 4 platos. Cubre cada una con una cuarta parte de la mezcla de ensalada de col y una cuarta parte de los camarones. Sirve de inmediato."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "High in Fiber",
+        "Kidney-Friendly",
+        "Latin American",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "460mg",
+        "total_carbohydrate": "29g",
+        "fiber": "5g",
+        "sugar": "12g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/smoky-shrimp-tostadas-chipotle-mango-slaw"
+}

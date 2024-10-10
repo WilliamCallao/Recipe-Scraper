@@ -1,0 +1,111 @@
+{
+    "title": "Frittata de Espárragos",
+    "keywords": "Gluten-Free,Quick & Easy,Dinner,Lunch,Main Dish,Vegetarian,Breakfast and Brunch",
+    "prep_time": "PT15M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Gluten-Free",
+        "Quick & Easy",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Vegetarian",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/050-diabetic-asparagus-frittata_iStock874474148_022118.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "espárragos finos (recortados)",
+            "us_amount": "1 bunch (about 12 oz)",
+            "metric_amount": "1 bunch (about 12 oz)"
+        },
+        {
+            "name": "atún blanco fresco",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sustituto de huevo",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "leche desnatada",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pico de gallo",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "zumo de lima",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "margarina (sin grasas trans)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "queso mozzarella rallado y bajo en grasa (reducido en grasa y rallado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "queso parmesano rallado",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "sal",
+        "zanahorias bebé",
+        "Una pizca de sal kosher",
+        "Rocíe con aceite en aerosol una sartén antiadherente apta para horno de 9 1/2 pulgadas de diámetro. Agregue margarina a la sartén y derrita a fuego medio. Agregue los espárragos a la sartén y vierta la mezcla de huevo sobre ellos. Cocine durante unos minutos hasta que los huevos comiencen a cuajar.",
+        "Añade la mozzarella y el queso parmesano. Reduce el fuego a medio-bajo y cocina hasta que la frittata esté casi lista pero la superficie aún esté líquida, aproximadamente 2 minutos.",
+        "Coloque la sartén debajo del asador. Asar hasta que la parte superior esté firme y dorada, aproximadamente de 2 a 4 minutos. Deje reposar la frittata durante 2 minutos. Con una espátula de goma, despegue la frittata de la sartén y deslícela sobre un plato. Corte la frittata en 6 rebanadas iguales y sirva."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Lower Carb",
+        "Italian",
+        "Comfort Food",
+        "Gluten-Free",
+        "Quick & Easy",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Vegetarian",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "4.5g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "430mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/asparagus-frittata"
+}

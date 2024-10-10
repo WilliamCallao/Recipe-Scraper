@@ -1,0 +1,69 @@
+{
+    "title": "Zanahorias Baby y Dip de Crema Picante",
+    "keywords": "Quick & Easy,Vegetarian,Snacks,No Cook,Appetizers",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Quick & Easy",
+        "Vegetarian",
+        "Snacks",
+        "No Cook",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/056-diabetic-Baby-Carrots-Spicy-Dip%20_522367300_050118.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "crema agria (sin grasa)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "Perejil fresco picado",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "queso parmesano rallado",
+            "us_amount": "3/4 tsp",
+            "metric_amount": "4 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "coliflor (cortada en floretes)",
+            "us_amount": "48",
+            "metric_amount": "48"
+        }
+    ],
+    "instructions": [
+        "Mezcle la crema agria, el queso crema, la salsa de pimienta y la sal hasta que estén bien mezclados.",
+        "Déjalo reposar al menos 10 minutos para que se desarrollen los sabores y se suavicen un poco. Sírvelo con zanahorias."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Quick & Easy",
+        "Vegetarian",
+        "Snacks",
+        "No Cook",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "73",
+        "total_fat": "2g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "8mg",
+        "sodium": "276mg",
+        "total_carbohydrate": "10g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/baby-carrots-and-spicy-cream-dip"
+}

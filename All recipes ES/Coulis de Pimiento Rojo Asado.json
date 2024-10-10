@@ -1,0 +1,53 @@
+{
+    "title": "Coulis de Pimiento Rojo Asado",
+    "keywords": "Sauces,Holidays & Entertaining,One Pot,Salad Dressings & Condiments,Vegan,Vegetarian",
+    "prep_time": "PT20M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Sauces",
+        "Holidays & Entertaining",
+        "One Pot",
+        "Salad Dressings & Condiments",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_815_Red%20Pepper%20Coulis%2C%20Rosemary%20Balsamic%20Onions%2C%20Pesto_HealthyHome_022618.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "pimientos rojos",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "Coloque los pimientos enteros directamente sobre una parrilla o quemador de gas o debajo de su asador. Áselos hasta que estén completamente negros por fuera. Colóquelos en un recipiente y cúbralos bien con film transparente durante al menos 15 minutos. Una vez que se hayan enfriado, puede pelar la piel ennegrecida.",
+        "Coloque el pimiento asado en el procesador de alimentos y haga un puré hasta que quede fino."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Comfort Food",
+        "Grilling",
+        "Sauces",
+        "Holidays & Entertaining",
+        "One Pot",
+        "Salad Dressings & Condiments",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "20",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-red-pepper-coulis"
+}

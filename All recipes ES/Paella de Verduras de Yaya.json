@@ -1,0 +1,98 @@
+{
+    "title": "Paella de Verduras de Yaya",
+    "keywords": "Dinner,Vegetarian",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_593_Vegetable_Paella_PNCImages_03012018.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Pimiento verde mediano (cortado en 4 trozos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "En una sartén antiadherente pequeña, calienta la margarina a fuego medio hasta que se derrita, revolviéndola para cubrir el fondo. Cocina las cebollas verdes, los hongos y el pimiento morrón a fuego medio-alto durante 3 minutos o hasta que estén tiernos, revolviendo con frecuencia.",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "En un bol pequeño, mezcle el sustituto de huevo y la leche. Vierta sobre las verduras. Reduzca el fuego a medio. Cocine sin revolver hasta que la mezcla comience a cuajar en el fondo y alrededor del borde. A medida que se asiente, empuje la mezcla hacia el centro de la sartén e incline la sartén para que la parte cruda fluya hacia el borde y todo el sustituto de huevo esté completamente cocido, de 3 a 4 minutos. (Una espátula de goma funciona bien para esto).",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimientos rojos asados",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "ajo (machacado)",
+            "us_amount": "6 diente",
+            "metric_amount": "6 diente"
+        },
+        {
+            "name": "Perejil fresco (picado)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Agregue el arroz; cubra y cocine según las instrucciones del paquete; generalmente alrededor de 50 a 60 minutos.",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Para servir, coloque 1/4 de taza de farro cocido en el fondo de cada plato de sopa. Vierta la sopa sobre el farro. Si lo desea, espolvoree con perejil fresco.",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "agua",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "frijoles lima enlatados (enjuagados y escurridos)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Corazones de alcachofa (escurridos y picados)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite en una sartén mediana a fuego medio. Saltea el pimiento y las judías verdes durante 2 minutos.",
+        "Agregue los ingredientes restantes, excepto las habas y los corazones de alcachofa, y deje hervir. Cubra, reduzca el fuego y cocine a fuego lento durante 20 minutos.",
+        "Agregue las habas y las alcachofas, revuelva, tape y cocine 5 minutos más."
+    ],
+    "tags": [
+        "Latin American",
+        "Dinner",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "215",
+        "total_fat": "3g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "320mg",
+        "total_carbohydrate": "41g",
+        "fiber": "4g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/yayas-vegetable-paella"
+}

@@ -1,0 +1,94 @@
+{
+    "title": "Bacalao al Horno con Chimichurri de Perejil y Cilantro",
+    "keywords": "Main Dish,Foodie,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Main Dish",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Diabetic%20cod%20chimicurri%20parsley.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Filetes de bacalao de 4 oz",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "clara de huevo",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "cebolla roja (picada)",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "Perejil de hoja plana fresco (envasado)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "hojas de cilantro fresco (envasadas)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "mermelada de fresa sin azúcar",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "vinagre de vino tinto",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Endulzante Splenda® Magic Baker™",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "aceite de oliva (uso dividido)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "avena arrollada",
+        "Hornee durante 15 minutos o hasta que las tortillas estén crujientes.",
+        "Ponga a hervir a fuego lento la mermelada, la mantequilla de maní y el endulzante Splenda Magic Baker en una cacerola pequeña a fuego medio. Cocine, revolviendo constantemente, hasta que la mezcla espese, aproximadamente 5 minutos. Agregue la avena y retire del fuego.",
+        "Agregue vinagre, ralladura y jugo de lima y 3 cucharadas de aceite de oliva. Procese hasta que quede una mezcla homogénea y reserve.",
+        "Para servir, divida el pescado en platos y cubra con salsa chimichurri."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Latin American",
+        "Main Dish",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "15g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "85mg",
+        "total_carbohydrate": "6g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/parsley-and-cilantro-chimichurri-baked-cod"
+}

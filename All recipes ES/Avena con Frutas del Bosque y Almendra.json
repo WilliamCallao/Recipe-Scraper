@@ -1,0 +1,82 @@
+{
+    "title": "Avena con Frutas del Bosque y Almendra",
+    "keywords": "Breakfast and Brunch,Cooking for 1 or 2,Easy Pantry Recipes,One Pot,Quick & Easy,Vegan,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Cooking for 1 or 2",
+        "Easy Pantry Recipes",
+        "One Pot",
+        "Quick & Easy",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2060_diabetic-Berry-Almond-Oatmeal_Splenda_042721.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "agua",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "avena laminada a la antigua usanza",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Endulzante original Splenda®",
+            "us_amount": "3 packet",
+            "metric_amount": "3 packet"
+        },
+        {
+            "name": "arándanos frescos o congelados",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Almidón de maíz (dividido en dos mitades, cada una mezclada con una cucharada de leche de soja o de almendras fría)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "extracto de almendra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "En una cacerola, pon a hervir el agua. Agrega la avena y la sal. Cocina a fuego medio, revolviendo de vez en cuando, durante 5 minutos. Agrega el edulcorante, la fruta, las almendras y el extracto.",
+        "Notas: Para obtener una avena más cremosa, sustituya el agua por leche (esto cambiará la información nutricional por porción)."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Breakfast and Brunch",
+        "Cooking for 1 or 2",
+        "Easy Pantry Recipes",
+        "One Pot",
+        "Quick & Easy",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "7g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "290mg",
+        "total_carbohydrate": "33g",
+        "fiber": "5g",
+        "sugar": "4g",
+        "added_sugar": "1g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/berry-almond-oatmeal"
+}

@@ -1,0 +1,86 @@
+{
+    "title": "Sopa Vietnamita de Res (Pho)",
+    "keywords": "Lunch,Main Dish,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/oct_pho_istock5969395_279x200.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "sal",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cilantro (picado)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Añade aceite de oliva a la sartén a fuego medio. Añade los champiñones y saltéalos hasta que estén bien dorados en los bordes (aproximadamente 3 minutos). Reserva.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chile serrano (u otro chile picante), sin semillas y picado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "repollo verde (en rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Pasta de cabello de ángel con arroz integral",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "Caldo de res (sin grasa, reducido en sodio)",
+            "us_amount": "5 1/2 cup",
+            "metric_amount": "1 l 301 ml"
+        },
+        {
+            "name": "Polvo chino de cinco especias",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Filete de solomillo de ternera (cortado en lonchas muy finas)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "Cocine el farro: Llene una olla mediana hasta 3/4 de su capacidad con agua salada; tápela y caliéntela a fuego alto hasta que hierva. Una vez que hierva, agregue el farro. Cocine, sin tapar, durante 18 a 20 minutos o hasta que esté tierno. Apague el fuego. Escurra bien y vuelva a colocarlo en la olla. Tápelo para mantenerlo caliente.",
+        "Cubre cada tazón de fideos con 1/4 de cebolleta en rodajas, 1/4 de taza de albahaca, 2 cucharadas de cilantro, 1/4 de chile en rodajas y una rodaja de lima.",
+        "Cocine a fuego lento, tapado, durante 40 minutos, revolviendo de vez en cuando.",
+        "Repartir el caldo y la carne de manera uniforme entre los cuatro tazones. Servir inmediatamente."
+    ],
+    "tags": [
+        "Asian",
+        "Lunch",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "375",
+        "total_fat": "7g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "600mg",
+        "total_carbohydrate": "47g",
+        "fiber": "3g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "30g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/vietnamese-beef-soup-pho"
+}

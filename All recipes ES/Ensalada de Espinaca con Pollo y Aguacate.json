@@ -1,0 +1,71 @@
+{
+    "title": "Ensalada de Espinaca con Pollo y Aguacate",
+    "keywords": "Salads,Dinner,Lunch,Budget Friendly",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Dinner",
+        "Lunch",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/519-diabetic-spinach-salad-chicken-avocado-ranch_AdobeStock192080252_021921.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "espinaca bebé",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Tomates roma (ciruela) (cortados en cubitos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "pechuga de pollo cocida cortada en cubitos",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "semillas de girasol",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Aderezo ranchero ligero",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        }
+    ],
+    "instructions": [
+        "Agregue el apio, las cebollas, las zanahorias y el pimiento rojo a la olla y saltee a fuego medio-alto durante aproximadamente 4 minutos o hasta que las cebollas comiencen a volverse transparentes."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Salads",
+        "Dinner",
+        "Lunch",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "15g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "35mg",
+        "sodium": "310mg",
+        "total_carbohydrate": "11g",
+        "fiber": "5g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spinach-salad-chicken-and-avocado"
+}

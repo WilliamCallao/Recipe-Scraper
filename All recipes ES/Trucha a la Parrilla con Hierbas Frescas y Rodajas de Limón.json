@@ -1,0 +1,78 @@
+{
+    "title": "Trucha a la Parrilla con Hierbas Frescas y Rodajas de Limón",
+    "keywords": "Dinner,Main Dish",
+    "prep_time": "PT12M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_735_GrilledTroutWithFreshHerbsAndLemonSlices_SixOClockScramble_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "menta fresca (finamente picada)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "romero fresco (finamente picado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "limón",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "sal",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Sal kosher",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "alcaparras (escurridas y picadas)",
+        "Precaliente la parrilla a temperatura media y engrase las rejillas para evitar que el pescado se pegue. (Alternativamente, hornee la trucha a 400 °F durante unos 25 minutos). En un tazón pequeño, combine las hierbas picadas, la ralladura de 1 1/2 limones y el jugo de 1 limón. Corte el otro limón en rodajas finas.",
+        "Precaliente una parrilla interior o exterior.",
+        "Pimiento morrón naranja (cortado en 4 rodajas)",
+        "INSTRUCCIONES PARA LA COCCIÓN LENTA: Coloque cada pieza de pescado sobre una hoja de papel de aluminio, rellene cada una con las especias y el limón. Cierre la trucha alrededor de las hierbas y las rodajas de limón y doble el papel de aluminio en un paquete para rodear completamente el pescado. Coloque los paquetes en la olla de cocción lenta y cocine a fuego lento durante 8 a 10 horas o a fuego alto durante 4 a 5 horas. (Los tiempos de cocción en la olla de cocción lenta pueden variar; familiarícese con su olla de cocción lenta y, si es necesario, ajuste los tiempos de cocción según corresponda).",
+        "leche desnatada"
+    ],
+    "tags": [
+        "Lower Carb",
+        "Grilling",
+        "Seafood",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "12g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "80mg",
+        "sodium": "305mg",
+        "total_carbohydrate": "5g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "29g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-trout-fresh-herbs-and-lemon-slices"
+}

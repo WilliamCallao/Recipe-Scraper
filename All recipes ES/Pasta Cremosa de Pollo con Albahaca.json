@@ -1,0 +1,118 @@
+{
+    "title": "Pasta Cremosa de Pollo con Albahaca",
+    "keywords": "Main Dish,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/creamy%20basil%20chicken%20pasta%20diabetic.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "avena arrollada a la antigua usanza (old fashioned)",
+            "us_amount": "5 oz",
+            "metric_amount": "142 ml"
+        },
+        {
+            "name": "hojas de albahaca fresca",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Perejil de hoja plana (envasado)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "harina para todo uso",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "aceite de oliva (dividido)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cebolla en polvo",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "leche sin grasa",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "queso italiano bajo en grasa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "salsa adobo de chile chipotle lata",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel (cortadas a lo largo por la mitad en filetes finos)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "pasta penne de trigo integral (cocida)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "extracto de almendra",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Pon a hervir una olla grande con agua. Agrega las espinacas tiernas a la olla y blanquéalas durante 1 minuto. Usa una espumadera para retirar las espinacas y colocarlas en un recipiente con agua helada. Agrega el perejil y la albahaca a la olla y blanquéalas durante 15 segundos. Retíralas y agrégalas al recipiente con agua helada. Escurre el agua y exprime la mayor cantidad posible de líquido de las hojas verdes.",
+        "Añade la espinaca, el perejil y la albahaca a un procesador de alimentos. Agrega la mitad crema y mitad leche al procesador de alimentos y luego haz un puré. Reserva.",
+        "Calienta una cacerola a fuego medio. Agrega 2 cucharadas de aceite de oliva, ajo y cebolla en polvo. Agrega la harina y bate durante 1 minuto. Agrega la leche y bate hasta que quede una mezcla homogénea.",
+        "Agregue el queso, el condimento italiano, la sal (opcional) y la pimienta. Revuelva hasta que la salsa espese. Agregue las verduras en puré y revuelva para combinar.",
+        "Agregue el puré de verduras y revuelva para combinar.",
+        "Mientras tanto, calienta una sartén grande a fuego medio. Agrega el aceite de oliva restante. Cocina el pollo durante 3 a 4 minutos por cada lado, hasta que esté dorado y bien cocido.",
+        "Para servir, reparta el pollo y la pasta entre los platos. Cubra con la salsa, el parmesano y la albahaca fresca cortada en juliana."
+    ],
+    "tags": [
+        "Italian",
+        "Comfort Food",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "430",
+        "total_fat": "19g",
+        "saturated_fat": "5.2g",
+        "trans_fat": "0g",
+        "cholesterol": "85mg",
+        "sodium": "300mg",
+        "total_carbohydrate": "37g",
+        "fiber": "4g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "41g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/creamy-basil-chicken-pasta"
+}

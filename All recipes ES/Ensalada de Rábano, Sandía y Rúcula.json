@@ -1,0 +1,95 @@
+{
+    "title": "Ensalada de Rábano, Sandía y Rúcula",
+    "keywords": "Appetizers,No Cook,Salads,Sides,Vegetarian",
+    "prep_time": "PT0M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "No Cook",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Diabetic%20Radish%20Salad%20Diabetes%20Food%20Hub.png",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "vinagre de vino tinto",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "menta fresca (hojas arrancadas)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Sandía sin semillas (cortada en cubitos, aproximadamente 3 ½–4 tazas)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "Cebolla Vidalia (cortada en rodajas finas)",
+            "us_amount": "1/2 small",
+            "metric_amount": "1/2 small"
+        },
+        {
+            "name": "Rábano (cortar los tallos y cortar en rodajas finas)",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        },
+        {
+            "name": "queso feta (desmenuzado)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "rúcula bebé",
+            "us_amount": "5 oz",
+            "metric_amount": "142 ml"
+        }
+    ],
+    "instructions": [
+        "En un bol grande, combine la sandía, la cebolla, los rábanos y el queso feta. Agregue el aderezo y revuelva suavemente para mezclar. Sirva sobre una cama de rúcula tierna.",
+        "spray antiadherente para cocinar"
+    ],
+    "tags": [
+        "Veggie Rich",
+        "French",
+        "Mediterranean",
+        "Appetizers",
+        "No Cook",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "11g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0.1g",
+        "cholesterol": "5mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "11g",
+        "fiber": "2g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/radish-watermelon-arugula-salad"
+}

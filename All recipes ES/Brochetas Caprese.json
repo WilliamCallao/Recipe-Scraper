@@ -1,0 +1,80 @@
+{
+    "title": "Brochetas Caprese",
+    "keywords": "Quick & Easy,Snacks,Holidays & Entertaining,Appetizers,Gluten-Free,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Snacks",
+        "Holidays & Entertaining",
+        "Appetizers",
+        "Gluten-Free",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/143-diabetic-caprese-salad-kabobs_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "18 Servings",
+    "ingredients": [
+        {
+            "name": "brochetas de bambú",
+            "us_amount": "18 small",
+            "metric_amount": "18 small"
+        },
+        {
+            "name": "albahaca fresca (doblada por la mitad)",
+            "us_amount": "18 leaves",
+            "metric_amount": "18 leaves"
+        },
+        {
+            "name": "tomates uva",
+            "us_amount": "18 whole",
+            "metric_amount": "18 whole"
+        },
+        {
+            "name": "bolas de mozzarella fresca (1/4 onza cada una)",
+            "us_amount": "18 whole",
+            "metric_amount": "18 whole"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        }
+    ],
+    "instructions": [
+        "cebolla(s) (en rodajas finas)",
+        "En un bol pequeño, mezcle el aceite de oliva y el vinagre balsámico. Justo antes de servir, rocíe el aderezo sobre las brochetas para cubrirlas de manera uniforme."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Veggie Rich",
+        "Italian",
+        "Quick & Easy",
+        "Snacks",
+        "Holidays & Entertaining",
+        "Appetizers",
+        "Gluten-Free",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "25",
+        "total_fat": "2g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "25mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/caprese-kabobs"
+}

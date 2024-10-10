@@ -1,0 +1,79 @@
+{
+    "title": "Mojito Sweeties Mash",
+    "keywords": "Vegan,Vegetarian,Dinner,Foodie,Holidays & Entertaining,Lunch,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Vegan",
+        "Vegetarian",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/IngridHoffmann_mojio-sweeties-mash-closeup.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "menta fresca picada",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "zumo de lima",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Sal kosher",
+            "us_amount": "2 large (about 1 1/2 lbs)",
+            "metric_amount": "2 large (about 1 1/2 lbs)"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Coloque las batatas enteras en una cacerola grande y añada suficiente agua fría para cubrirlas. Lleve las papas a hervor a fuego alto. Reduzca el fuego a medio-bajo y cocine a fuego lento hasta que estén tiernas, 30 a 35 minutos. Escurra las papas y enjuáguelas con agua fría hasta que sean fáciles de manipular.",
+        "Mientras tanto, calienta el aceite en una cacerola pequeña a fuego alto hasta que esté tibio, aproximadamente 1 minuto. (O calienta el aceite en un recipiente apto para microondas a fuego alto hasta que esté tibio, aproximadamente 30 segundos). Agrega las hojas de menta y tritúralas con el mango de una cuchara de madera o un mortero. Reserva.",
+        "Spray antiadherente para cocinar"
+    ],
+    "tags": [
+        "Caribbean",
+        "Comfort Food",
+        "Vegan",
+        "Vegetarian",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "145",
+        "total_fat": "4g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "157mg",
+        "total_carbohydrate": "27g",
+        "fiber": "4g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mojito-sweeties-mash"
+}

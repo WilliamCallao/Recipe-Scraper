@@ -1,0 +1,83 @@
+{
+    "title": "Crujiente de Pepino Picante",
+    "keywords": "Vegetarian,Sides",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/jul13_cuc_crunch_istock9017754_279x200.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "pepinos grandes (pelados y cortados en rodajas)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "agua de hielo",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "cebolla verde (cebolleta) (cortada en rodajas finas)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Pimiento verde pequeño (picado)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "crema agria (baja en grasa)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "vinagre blanco",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "azúcar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "En un recipiente grande, combine los pepinos, la sal y el agua helada. Cubra y enfríe durante 1 hora, luego escurra y devuelva los pepinos al recipiente.",
+        "Añade el resto de los ingredientes y mezcla hasta que estén bien combinados. Tapa y deja enfriar durante al menos 2 horas antes de servir."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Vegetarian",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "30",
+        "total_fat": "1g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "2mg",
+        "sodium": "104mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/zippy-cucumber-crunch"
+}

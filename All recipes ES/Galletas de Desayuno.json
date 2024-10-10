@@ -1,0 +1,96 @@
+{
+    "title": "Galletas de Desayuno",
+    "keywords": "Breakfast and Brunch,Dessert,Quick & Easy",
+    "prep_time": "PT0M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Dessert",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/3456_Breakfast%20Cookies.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "mantequilla de maní baja en grasa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Retire la bolsita de té del agua y deséchela.",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Endulzante Splenda® Magic Baker™",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Semilla de lino molida",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sal kosher",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "col rizada (sin tallos, picada y limpia)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "proteína en polvo de vainilla",
+            "us_amount": "2 scoops",
+            "metric_amount": "2 scoops"
+        },
+        {
+            "name": "arándanos secos reducidos en azúcar",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Vierta el aceite de oliva, el caldo y el vinagre sobre el hinojo y la cebolla, y condimente con sal y pimienta.",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F. Prepare una bandeja para hornear grande cubriéndola con papel pergamino.",
+        "Extiende la mitad del queso uniformemente sobre la tortilla, cubriendo hasta los bordes.",
+        "salsa de pimiento rojo picante (opcional)",
+        "Coloca la masa sobre papel de pergamino a 3 pulgadas de distancia entre sí y forma bolitas grandes del tamaño de una galleta. Presiona cada bolita de masa hacia abajo para formar una galleta (no se extenderán mucho). Hornea durante 12 a 14 minutos o hasta que los bordes estén dorados.",
+        "Retirar y dejar enfriar. Se pueden disfrutar inmediatamente, colocar en un recipiente hermético y consumir en un plazo de 3 días, o congelar para futuros desayunos fáciles."
+    ],
+    "tags": [
+        "Breakfast and Brunch",
+        "Dessert",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "12g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "33g",
+        "fiber": "6g",
+        "sugar": "7g",
+        "added_sugar": "3g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/breakfast-cookies"
+}

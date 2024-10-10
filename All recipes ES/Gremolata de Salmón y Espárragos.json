@@ -1,0 +1,90 @@
+{
+    "title": "Gremolata de Salmón y Espárragos",
+    "keywords": "Cooking for 1 or 2,Dinner,Foodie,Main Dish,Quick & Easy,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Foodie",
+        "Main Dish",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1717-diabetic-salmon-asparagus-gremolata_Diab-Heart-Healthy-for-Two_012819.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Sal kosher",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "chalota (cortada en rodajas finas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "En un recipiente mediano, combine todos los ingredientes para la salsa. Reserve.",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "cilantro fresco picado",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ajo",
+            "us_amount": "1/2 diente",
+            "metric_amount": "1/2 diente"
+        },
+        {
+            "name": "Ralladura de limón",
+            "us_amount": "3/4 tsp",
+            "metric_amount": "4 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425 grados F.",
+        "Corte una hoja de papel para horno de 15 x 10 pulgadas y dóblela por la mitad para formar un rectángulo de 7,5 x 10 pulgadas. Comenzando por la parte inferior del pliegue, corte en forma de medio corazón. Ábrala y rocíela con aceite en aerosol. Repita con una segunda hoja. Coloque un filete de salmón con la piel hacia abajo centrado en la mitad de cada corazón de papel para horno. Cubra cada filete con la mitad de las chalotas, la pimienta y los espárragos.",
+        "Dobla las otras mitades del corazón sobre el pescado y los espárragos. Sella cada paquete formando un pequeño pliegue en la parte superior del corazón y continúa doblando el borde hasta llegar a la parte inferior. Gira la punta para cerrar bien. Coloca los paquetes sellados en una bandeja para hornear y hornea durante 10 minutos.",
+        "Mientras tanto, preparamos la gremolata: picamos juntos el perejil y el ajo muy finos. Añadimos la ralladura de limón y seguimos picando hasta que se integren bien.",
+        "Saque los paquetes de papel pergamino del horno. Déjelos reposar durante 3 minutos. Tenga cuidado de no quemarse con el vapor y haga un corte en forma de X en el centro de cada paquete. Pruebe a desmenuzar el salmón fácilmente con un tenedor. Si es necesario, vuelva a colocar los paquetes en el horno durante 1 o 2 minutos para terminar de cocinarlos.",
+        "filete de solomillo"
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Foodie",
+        "Main Dish",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "165",
+        "total_fat": "6g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "50mg",
+        "total_carbohydrate": "5g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/salmon-and-asparagus-gremolata"
+}

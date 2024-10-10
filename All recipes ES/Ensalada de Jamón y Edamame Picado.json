@@ -1,0 +1,115 @@
+{
+    "title": "Ensalada de Jamón y Edamame Picado",
+    "keywords": "Lunch,Main Dish,Quick & Easy,Salads,Appetizers,Dinner,No Cook,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Salads",
+        "Appetizers",
+        "Dinner",
+        "No Cook",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_736_CarbControl_ChopSalad__022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "mayonesa ligera",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "crema agria (sin grasa)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "ajo mediano (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "tortillas grandes de trigo integral (bajas en carbohidratos, de aproximadamente 10 pulgadas de diámetro)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Jugo de 1 lima",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lechuga romana (picada)",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        },
+        {
+            "name": "edamame fresco sin cáscara",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "jamón extra magro (cortado en cubitos)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "Pepino mediano (pelado y picado)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "En un bol mediano, bate las claras de huevo y los huevos. Incorpora el jamón, la leche y la pimienta. Vierte la mezcla sobre las patatas y el brócoli, revolviendo bien.",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cebolla roja (cortada en cubitos)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "huevos duros grandes (pelados y cortados por la mitad)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        }
+    ],
+    "instructions": [
+        "Sal y pimienta al gusto",
+        "ajo (finamente picado)"
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Comfort Food",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Salads",
+        "Appetizers",
+        "Dinner",
+        "No Cook",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "9g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "530mg",
+        "total_carbohydrate": "15g",
+        "fiber": "4g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ham-and-edamame-chop-salad"
+}

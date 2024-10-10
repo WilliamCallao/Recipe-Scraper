@@ -1,0 +1,102 @@
+{
+    "title": "Vieiras a la Parrilla con Salsa Verde Gruesa",
+    "keywords": "Lunch,Foodie,Dinner,Quick & Easy,Vegetarian",
+    "prep_time": "PT20M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Lunch",
+        "Foodie",
+        "Dinner",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/287-diabetic-grilled-scallops-chunky-salsa-verde_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "tomatillo (descascarado, enjuagado y cortado en cubitos pequeños)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "jalapeño pequeño (sin semillas, sin venas y picado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Ensarte trozos alternos de pollo y pimiento rojo en las brochetas remojadas, empezando y terminando con el pollo, usando 3 trozos de pollo y 3 trozos de pimiento rojo.",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "calabacín (sin semillas, cortado en dados pequeños)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zumo de lima",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Miel o 1/2 paquete de edulcorante artificial",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Vieiras grandes (sin las lengüetas (Nota: las vieiras frescas o que no tienen conservantes añadidos son las mejores))",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Prepare una parrilla interior o exterior.",
+        "En un recipiente mediano, mezcle el tomatillo, el jalapeño, el cilantro, el calabacín, el jugo de limón, la stevia y el ajo. Mezcle todo y reserve.",
+        "Seque las vieiras con una toalla de papel. Mézclelas con el aceite de oliva, la sal y la pimienta en un recipiente mediano.",
+        "Coloque las vieiras en la parrilla, con el lado plano hacia abajo. Gírelas de vez en cuando y cocínelas hasta que estén ligeramente carbonizadas y cocidas, aproximadamente 2 minutos por lado. Sirva las vieiras cubiertas con la salsa verde espesa."
+    ],
+    "tags": [
+        "Grilling",
+        "Mexican/Southwestern",
+        "Seafood",
+        "Lunch",
+        "Foodie",
+        "Dinner",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "340mg",
+        "total_carbohydrate": "12g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-scallops-chunky-salsa-verde"
+}

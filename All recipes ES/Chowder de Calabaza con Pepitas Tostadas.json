@@ -1,0 +1,112 @@
+{
+    "title": "Chowder de Calabaza con Pepitas Tostadas",
+    "keywords": "Appetizers,Main Dish,One Pot,Sides,Soup,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Appetizers",
+        "Main Dish",
+        "One Pot",
+        "Sides",
+        "Soup",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_798_Pumpkin_Chowder_VegetarianCookbook_022618.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "calabaza (pelada y picada)",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "Caldo de verduras bajo en sodio (o use agua)",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "tomate(s) (picado)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "cebolla(s) (picadas)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "pimiento verde (picado)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "chile jalapeño (sin semillas y picado)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "raíz de jengibre (picada)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla verde (cebolleta) (picada)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "tomillo fresco (o 1 cucharadita de tomillo seco)",
+            "us_amount": "3 sprig",
+            "metric_amount": "3 sprig"
+        },
+        {
+            "name": "cilantro (picado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Lima (jugo)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "sal (al gusto)",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "pepitas (toasted)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Añade el arroz y la calabaza y remueve. Añade el vino. Remueve y cocina hasta que el vino se evapore.",
+        "Agregue cilantro, jugo de limón y sal. Retire los tallos de tomillo antes de servir. Adorne cada tazón de sopa con pepitas antes de servir. Rinde aproximadamente 2 cuartos de galón."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Caribbean",
+        "Latin American",
+        "Appetizers",
+        "Main Dish",
+        "One Pot",
+        "Sides",
+        "Soup",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "0g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "20mg",
+        "total_carbohydrate": "12g",
+        "fiber": "4g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pumpkin-chowder-toasted-pepitas"
+}

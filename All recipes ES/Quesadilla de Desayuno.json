@@ -1,0 +1,83 @@
+{
+    "title": "Quesadilla de Desayuno",
+    "keywords": "Quick & Easy,Breakfast and Brunch",
+    "prep_time": "PT15M",
+    "cook_time": "PT16M",
+    "categories": [
+        "Quick & Easy",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/diabetic-breakfast-quesadilla-tex-mex-cookbook_080318_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Endulzante Splenda® Magic Baker™",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "chiles verdes enlatados",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "huevos (batidos)",
+            "us_amount": "4 whole",
+            "metric_amount": "4 whole"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "2 large",
+            "metric_amount": "2 large"
+        },
+        {
+            "name": "queso cheddar bajo en grasa, o use una mezcla mexicana, Monterey Jack o pepper jack (bajo en grasa)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "Tocino de pavo (cocido crujiente y desmenuzado)",
+            "us_amount": "4 slice",
+            "metric_amount": "4 slice"
+        }
+    ],
+    "instructions": [
+        "Cubre ligeramente una sartén pequeña con aceite en aerosol.",
+        "queso cheddar rallado bajo en grasa o queso estilo mexicano",
+        "polvo de mostaza",
+        "Extiende la mitad del queso uniformemente sobre la tortilla, cubriendo hasta los bordes.",
+        "Agregue la avena y la proteína en polvo, revolviendo hasta que se integren. Incorpore los arándanos rojos y las semillas de calabaza.",
+        "Dobla la tortilla por la mitad para crear una forma de media luna. Da vuelta la tortilla doblada y cocínala hasta que esté ligeramente tostada y el relleno de queso se haya derretido por completo, durante 1 o 2 minutos.",
+        "Saque la masa de pizza CAULIPOWER del congelador y esparza el requesón como si fuera una salsa para pizza. Esparza el requesón hasta los bordes para obtener un mejor sabor.",
+        "Corte cada quesadilla en 3 gajos y sirva inmediatamente con salsa fresca."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Quick & Easy",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "10g",
+        "saturated_fat": "4.2g",
+        "trans_fat": "0g",
+        "cholesterol": "140mg",
+        "sodium": "460mg",
+        "total_carbohydrate": "8g",
+        "fiber": "5g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/breakfast-quesadilla"
+}

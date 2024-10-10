@@ -1,0 +1,84 @@
+{
+    "title": "Berenjena a la Parrilla con Queso",
+    "keywords": "Dinner,Gluten-Free,Quick & Easy,Sides,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Gluten-Free",
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/july_grilled_cheesy_eggplant_istock8637136_279x200.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "berenjenas bebé (cortadas por la mitad a lo largo)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra (molida)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "queso mozzarella (semidescremado, rallado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Queso parmesano (recién rallado)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente la parrilla a fuego medio-alto.",
+        "Rocíe el aceite de oliva uniformemente sobre las mitades de berenjena. Espolvoree la berenjena uniformemente con ajo en polvo y pimienta negra.",
+        "Coloque las mitades de berenjena en la parrilla con el lado cortado hacia abajo y cocínelas durante 3-4 minutos, hasta que estén tiernas.",
+        "Dales la vuelta y esparce el queso mozzarella uniformemente sobre las mitades de berenjena. Asa durante 3 o 4 minutos más hasta que el queso se derrita.",
+        "Retire las berenjenas de la parrilla y colóquelas una al lado de la otra en una fuente para servir. Rocíe uniformemente con vinagre balsámico y queso parmesano."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Grilling",
+        "Dinner",
+        "Gluten-Free",
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "5g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "55mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-cheesy-eggplant"
+}

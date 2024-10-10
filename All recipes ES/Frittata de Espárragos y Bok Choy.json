@@ -1,0 +1,81 @@
+{
+    "title": "Frittata de Espárragos y Bok Choy",
+    "keywords": "Breakfast and Brunch,Budget Friendly,Main Dish,One Pot",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Main Dish",
+        "One Pot"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Asparagus%20and%20Bok%20Choy%20Frittata%20diabetic.png",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "espárragos (cortados en trozos del tamaño de un bocado)",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        },
+        {
+            "name": "pak choi bebé (picado)",
+            "us_amount": "head",
+            "metric_amount": "head"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "queso mozzarella (rallado)",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente una sartén grande apta para horno a fuego medio.",
+        "Rocíe una cacerola mediana con aceite en aerosol antiadherente y caliéntela a fuego medio bajo. Agregue la avena, las nueces, las semillas de girasol y la linaza y tuéstelas hasta que estén ligeramente doradas y desprendan un aroma fragante, revolviendo con regularidad, durante aproximadamente 5 minutos. Retire la mezcla de avena tostada de la cacerola y colóquela en un tazón pequeño.",
+        "Casca los huevos en un tazón grande y bátelos para combinarlos.",
+        "Precalentar el horno para asar.",
+        "En un recipiente mediano, mezcle el agua, el jugo de limón, la vainilla, la canela y la nuez moscada. Agregue las manzanas y revuelva para cubrirlas de manera uniforme.",
+        "Rocíe una sartén mediana con aceite en aerosol antiadherente y colóquela a fuego medio hasta que se caliente. Agregue el tocino de pavo y cocine hasta que esté crocante, 8 minutos, dando vuelta las rodajas a la mitad de la cocción. Transfiera el tocino a un plato cubierto con papel toalla."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Italian",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Main Dish",
+        "One Pot"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "16g",
+        "saturated_fat": "5.1g",
+        "trans_fat": "0g",
+        "cholesterol": "380mg",
+        "sodium": "480mg",
+        "total_carbohydrate": "5g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/asparagus-and-bok-choy-frittata"
+}

@@ -1,0 +1,114 @@
+{
+    "title": "Sándwich Cubano de Ronaldo",
+    "keywords": "Cooking for 1 or 2,Sandwiches,Salads,Main Dish,Lunch,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT18M",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Sandwiches",
+        "Salads",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_819_CubanoSandwich_SaboresDeCuba_022618.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "Delgadas galletas de trigo integral para sándwich",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chile poblano picado",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Queso suizo (bajo en grasa, en lonchas)",
+            "us_amount": "1 1/2 oz",
+            "metric_amount": "42 ml"
+        },
+        {
+            "name": "Aguacate Hass (en rodajas)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "pavo deli (bajo en sodio, en rodajas)",
+            "us_amount": "1 1/2 oz",
+            "metric_amount": "42 ml"
+        },
+        {
+            "name": "Añade el pan integral, el ajo, el queso parmesano, el perejil y la pimienta negra molida a un procesador de alimentos y mezcla hasta formar migas. Rocía con el aceite de oliva mientras mezclas para hacer el relleno.",
+            "us_amount": "1 1/2 oz",
+            "metric_amount": "42 ml"
+        },
+        {
+            "name": "Asar las verduras durante 30 minutos y luego dejar enfriar un poco.",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Tomates roma (ciruela) (en rodajas)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "cebolla roja (en rodajas)",
+            "us_amount": "1/8 cup",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pepino(s) (en rodajas)",
+            "us_amount": "1/8 cup",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cilantro (picado)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Rúcula",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "pimienta negra (molida)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350°F.",
+        "Coloca ambas mitades del panecillo multigrano en una bandeja para hornear cubierta con papel pergamino. Asegúrate de que el interior del panecillo esté hacia arriba. Para armar el sándwich, coloca capas de queso suizo uniformemente sobre el panecillo desnudo. Haz lo mismo con el aguacate, el pavo y el jamón. Coloca el sándwich en el horno durante 12 minutos. Retira el sándwich del horno y cierra el panecillo.",
+        "Precalienta una sartén antiadherente a fuego medio. Coloca el sándwich en el centro de la sartén y presiona hacia abajo con una espátula o el fondo de una cacerola limpia durante 2 o 3 minutos. Da vuelta el sándwich y repite el proceso del otro lado. Esto le dará el aspecto prensado de un sándwich cubano tradicional. Córtalo por la mitad.",
+        "Agrega rúcula, tomate, cebolla roja, pepino, cilantro, jugo de lima y pimienta negra a un tazón y mezcla los ingredientes. Sirve con el sándwich. Ahora dale un gran mordisco a ese delicioso sándwich."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Latin American",
+        "Caribbean",
+        "Cooking for 1 or 2",
+        "Sandwiches",
+        "Salads",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "6g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "510mg",
+        "total_carbohydrate": "16g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ronaldos-cuban-sandwich"
+}

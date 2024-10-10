@@ -1,0 +1,121 @@
+{
+    "title": "Sopa de Verduras de Raíz Asadas",
+    "keywords": "Lunch,Foodie,Vegetarian,Sides",
+    "prep_time": "PT20M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Lunch",
+        "Foodie",
+        "Vegetarian",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/457-diabetic-roasted-root-vegetable-soup_Diabetes-Cookbook_DF_101818_1021x779.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salsa de tomate baja en sodio",
+            "us_amount": "1 small (about 1 pound",
+            "metric_amount": "1 small (about 1 pound"
+        },
+        {
+            "name": "nabos pequeños (pelados y cortados en trozos de 1 pulgada)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "chirivías (peladas y cortadas en trozos de 1 pulgada)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "zanahorias (peladas y cortadas en trozos de 1 pulgada)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "cebolla grande (pelada y cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chalotes (pelados y cortados en cuartos)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "repollo verde de cabeza pequeña (picado)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "pimiento verde (cortado en trozos de 1 pulgada)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Hierbas de Provenza",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "caldo de verduras bajo en sodio",
+            "us_amount": "2 quarts",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "vinagre de jerez",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "rúcula (lavada)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 grados F. Rocíe una bandeja para hornear grande (o dos medianas) con aceite en aerosol. Déjela a un lado.",
+        "En un bol grande, mezcle todas las verduras, incluido el ajo, con el aceite de oliva y las hierbas provenzales. Vierta sobre una o más bandejas para hornear preparadas y cocine durante 45 minutos o hasta que estén bien cocidas y comiencen a dorarse.",
+        "Una vez que las verduras estén asadas, viértalas en una olla grande para sopa. Mézclelas con el caldo de verduras y llévelas a ebullición. Reduzca el fuego a fuego lento durante 10 minutos.",
+        "Haga puré la sopa con una licuadora de inmersión o en tandas en una licuadora vertical.",
+        "Sazona la sopa con vinagre de Jerez, sal y pimienta."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Low Sodium",
+        "Veggie Rich",
+        "Lunch",
+        "Foodie",
+        "Vegetarian",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "2g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "18g",
+        "fiber": "6g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-root-vegetable-soup"
+}

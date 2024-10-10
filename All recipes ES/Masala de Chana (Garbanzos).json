@@ -1,0 +1,122 @@
+{
+    "title": "Masala de Chana (Garbanzos)",
+    "keywords": "Vegetarian,Vegan,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_640_ChannaMasala_IndianCuisine_050318.jpg",
+    "servings": "3 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de girasol",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "semillas de comino",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Coliflor de cabeza pequeña (o arroz de coliflor congelado de 16 oz) (sin hojas ni tallo)",
+            "us_amount": "1-inch piece",
+            "metric_amount": "1-inch piece"
+        },
+        {
+            "name": "ajo (rallado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "cebolla roja mediana (cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimentón ahumado (ahumado)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "polvo de amchoor (mango)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "cúrcuma molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cilantro molido",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "tomate mediano (cortado en cubitos finos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pasta de tomate",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "jengibre fresco (rallado)",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "Jugo de 1/2 limón",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "hojas de cilantro finamente picadas",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite en una sartén de fondo grueso a fuego medio-alto y agrega las semillas de comino. Cuando las semillas comiencen a chisporrotear, agrega el jengibre y el ajo y saltea durante 1 minuto. Agrega la cebolla y saltea hasta que la cebolla esté dorada, aproximadamente 2 minutos.",
+        "Añade el pimentón, el polvo de amchoor, la cúrcuma, el cilantro, el tomate y la pasta de tomate a la mezcla de cebolla. Reduce el fuego a medio y saltea, revolviendo constantemente, hasta que la masala se integre, aproximadamente 2 minutos.",
+        "Añade los garbanzos y revuelve para cubrirlos con la masala. Añade 1 taza (240 ml) de agua y mezcla bien. Deja hervir a fuego lento durante 20 minutos.",
+        "Una vez que la salsa espese, retira del fuego y agrega jugo de limón, sal y el cilantro. Sirve caliente."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Indian",
+        "Vegetarian",
+        "Vegan",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "11g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "26g",
+        "fiber": "6g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chana-chickpea-masala"
+}

@@ -1,0 +1,103 @@
+{
+    "title": "Bruschetta de Salsa de Mandarina y Prosciutto",
+    "keywords": "Appetizers,Foodie,Holidays & Entertaining,Quick & Easy,Snacks",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Appetizers",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Mandarin%20Salsa%20Diabetic%20Recipe.png",
+    "servings": "14 Servings",
+    "ingredients": [
+        {
+            "name": "Coloca otra capa de toallas sobre la coliflor enfriada y presiona con las manos. Exprime todo el líquido que puedas.",
+            "us_amount": "1 loaf",
+            "metric_amount": "1 loaf"
+        },
+        {
+            "name": "En un tazón grande, mezcle la coliflor, las claras de huevo, 1/2 taza de queso, el ajo en polvo, las hierbas y la pimienta.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "prosciutto (cortado en cuartos)",
+            "us_amount": "7 slice",
+            "metric_amount": "7 slice"
+        },
+        {
+            "name": "jugo de limón (para la salsa)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "mezcla de azúcar morena artificial (para la salsa)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cilantro fresco (para la salsa, picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chile jalapeño (para la salsa, picado)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "Jengibre fresco (para la salsa, picado)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Hojuelas de pimiento rojo triturado (para la salsa)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal (para la salsa)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Condimento Old Bay",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F.",
+        "Coloca las rebanadas de pan baguette en una bandeja para hornear grande. Rocía ligeramente las partes superiores de las rebanadas de pan con aceite en aerosol. Hornea en la rejilla superior del horno durante 10 minutos. Deja enfriar.",
+        "Mientras tanto, mezcle el jugo de limón, la mezcla de edulcorantes, el cilantro, el jalapeño, el jengibre, el pimiento rojo y la sal. Agregue los gajos de naranja y revuelva para combinar.",
+        "En un tazón mediano, mezcle la avena, la harina, el polvo para hornear, la sal y las especias para pastel de calabaza."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Asian",
+        "Caribbean",
+        "Italian",
+        "Appetizers",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "1g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "1mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "10g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "1g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mandarin-salsa-and-prosciutto-bruschetta"
+}

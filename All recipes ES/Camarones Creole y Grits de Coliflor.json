@@ -1,0 +1,144 @@
+{
+    "title": "Camarones Creole y Grits de Coliflor",
+    "keywords": "Dinner,Main Dish",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Shrimp%20Creole%20and%20Cauliflower%20Grits.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Cebolleta (en rodajas, para decorar)",
+            "us_amount": "1 stalks",
+            "metric_amount": "1 stalks"
+        },
+        {
+            "name": "coliflor (recortada y rallada)",
+            "us_amount": "approximately 2 lbs.",
+            "metric_amount": "approximately 2 lbs."
+        },
+        {
+            "name": "aceite de oliva (para sémola)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "ajo (picado, para sémola)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "frijoles blancos bajos en sodio (escurridos y enjuagados)",
+            "us_amount": "1/2 can",
+            "metric_amount": "1/2 can"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "apio (cortado en cubitos)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "queso parmesano finamente rallado (opcional)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Retire los filetes de salmón de la marinada y colóquelos en un extremo de la bandeja para hornear preparada, con la piel hacia abajo. (Deseche cualquier resto de marinada).",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "En el otro extremo de la bandeja para hornear, coloque el bok choy con el lado cortado hacia abajo. Rocíe con la ½ cucharada restante de aceite de sésamo y tamari.",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "camarones grandes (pelados y desvenados)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "apio (cortado en cubitos)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "cebolla amarilla (cortada en cubitos)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "aceite de oliva virgen extra",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "Coloque las aceitunas en una tabla de cortar. Cúbralas con un paño de cocina limpio y aplástelas ligeramente con un mazo para carne o con el dorso de una sartén. (El objetivo es aplastar ligeramente las aceitunas).",
+            "us_amount": "3 cloves",
+            "metric_amount": "3 cloves"
+        },
+        {
+            "name": "condimento criollo sin sal",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "tomates cortados en cubitos enlatados",
+            "us_amount": "14 oz",
+            "metric_amount": "396 ml"
+        },
+        {
+            "name": "pimienta (recién rallada)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "hojas de laurel",
+            "us_amount": "1 leaves",
+            "metric_amount": "1 leaves"
+        },
+        {
+            "name": "Salsa Worcestershire",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Para la sémola: Calienta el aceite en una olla mediana a fuego medio-alto. Agrega la coliflor y cocina hasta que se ablande y se dore levemente, aproximadamente 10 minutos. Agrega el ajo y calienta hasta que desprenda un aroma agradable, aproximadamente 1 minuto.",
+        "Añade los frijoles, el caldo y el agua. Cocina durante 5 minutos. Apaga el fuego. Añade el parmesano y la cebolla en polvo. Utilizando un machacador o una licuadora, mezcla hasta que quede una consistencia cremosa con un poco de textura. Añade más agua según sea necesario. Sazona con pimienta. Tapa para mantener caliente hasta servir.",
+        "Para los camarones: sécalos con una toalla de papel. Calienta 1½ cucharadita de aceite en una sartén grande a fuego medio-alto y agrega los camarones en una sola capa. Dorarlos ligeramente de un lado hasta que se doren y se doren levemente. Retira los camarones a un plato y agrega el aceite restante a la sartén.",
+        "Añade el apio, la cebolla y el pimiento morrón a la sartén. Reduce el fuego a medio y cocina, revolviendo de vez en cuando, hasta que estén tiernos pero no demasiado dorados, aproximadamente 7 minutos. Si la sartén se seca demasiado mientras se cocinan las verduras, agrega agua según sea necesario.",
+        "lechuga rallada",
+        "Sirva sobre sémola de coliflor y adorne con cebollas y salsa picante.",
+        "Sirva sobre sémola de coliflor y adorne con cebollas y salsa picante."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Seafood",
+        "Caribbean",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "7g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "130mg",
+        "sodium": "340mg",
+        "total_carbohydrate": "24g",
+        "fiber": "8g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/shrimp-creole-and-cauliflower-grits"
+}

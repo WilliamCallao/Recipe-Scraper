@@ -1,0 +1,67 @@
+{
+    "title": "Rábanos Asados",
+    "keywords": "Vegetarian,Vegan,Sides",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Diabetic%20Roasted%20Radishes%20Diabetes%20Food%20Hub.png",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "zumo de limón",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "jugo de 1/2 limón",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425 grados F.",
+        "Lave los rábanos y quíteles los tallos. Reserve algunas hojas de los rábanos y córtelos en tiras finas para decorar. Corte los rábanos por la mitad y mézclelos con el ajo, el aceite y la sal.",
+        "Espolvoree cada pechuga de pollo uniformemente con pimentón y hornee en el horno durante 35 minutos o hasta que el pollo esté cocido a una temperatura interna de 165 grados F.",
+        "Un puñado de pequeñas hojas de albahaca fresca"
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Vegetarian",
+        "Vegan",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "30",
+        "total_fat": "2.5g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-radishes"
+}
