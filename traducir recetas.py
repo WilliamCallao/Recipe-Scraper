@@ -4,6 +4,7 @@ import json
 from deep_translator import GoogleTranslator
 from concurrent.futures import ThreadPoolExecutor
 import shutil
+import re
 
 translator = GoogleTranslator(source='auto', target='es')
 
@@ -21,6 +22,10 @@ def load_title_translations(csv_files):
             print(f"Error al cargar el archivo CSV '{csv_file}': {e}")
     return title_dict
 
+def normalize_title(title):
+    # Normalize title to ensure proper matching, e.g., removing extra whitespace, handling quotes, etc.
+    return re.sub(r'\s+', ' ', title.replace('\"', '"')).strip()
+
 def translate_text(text):
     try:
         return translator.translate(text)
@@ -34,7 +39,7 @@ def translate_recipe(input_file, output_file, fail_folder, translated_folder, ti
             recipe = json.load(f)
         
         if "title" in recipe:
-            english_title = recipe["title"].strip()
+            english_title = normalize_title(recipe["title"])
             if english_title in title_dict:
                 recipe["title"] = title_dict[english_title]
             else:
@@ -71,8 +76,11 @@ def translate_folder(input_folder, output_folder, fail_folder, translated_folder
     def process_file(file_name):
         if file_name.endswith('.json'):
             input_file = os.path.join(input_folder, file_name)
-            output_file_name = title_dict.get(json.load(open(input_file, 'r', encoding='utf-8'))["title"].strip(), file_name)
-            output_file = os.path.join(output_folder, output_file_name)
+            with open(input_file, 'r', encoding='utf-8') as f:
+                recipe = json.load(f)
+                english_title = normalize_title(recipe.get("title", ""))
+            output_file_name = title_dict.get(english_title, file_name)
+            output_file = os.path.join(output_folder, output_file_name if output_file_name.endswith('.json') else f"{output_file_name}.json")
             translate_recipe(input_file, output_file, fail_folder, translated_folder, title_dict)
     
     with ThreadPoolExecutor(max_workers=20) as executor:
