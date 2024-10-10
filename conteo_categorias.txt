@@ -1,0 +1,30 @@
+Conteo de Categorías:
+Budget Friendly: 246
+Foodie: 288
+Gluten-Free: 263
+Salad Dressings & Condiments: 32
+Sauces: 19
+Vegetarian: 553
+No Cook: 99
+Quick & Easy: 516
+Vegan: 136
+Holidays & Entertaining: 277
+Beverages: 17
+Lunch: 503
+Sides: 332
+Snacks: 178
+Appetizers: 127
+Main Dish: 454
+Soup: 50
+Dinner: 654
+Slow Cooker: 28
+Cooking for 1 or 2: 116
+Meal Kit Recipes: 53
+One Pot: 92
+Breakfast and Brunch: 138
+Dessert: 116
+Easy Pantry Recipes: 91
+Salads: 160
+Sandwiches: 58
+
+
