@@ -1,0 +1,96 @@
+{
+    "title": "Hinojo y Frijoles Blancos Guisados",
+    "keywords": "Vegetarian,Budget Friendly,Sides,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT1H10M",
+    "categories": [
+        "Vegetarian",
+        "Budget Friendly",
+        "Sides",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_10_Braised_Fennel_and_White_Beans_iStock_03012018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "bulbos de hinojo medianos (11 onzas cada uno) tallos y hojas quitados, cortados en octavos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Cebolla amarilla mediana (cortada en rodajas finas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Caldo de pollo bajo en sodio (sin grasa, bajo en sodio)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "vinagre de vino tinto",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "frijoles cannellini (15,5 onzas, escurridos y enjuagados)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "Perejil (picado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375 °F. Rocíe con aceite en aerosol una fuente para hornear de 9 x 13 pulgadas.",
+        "Coloque el hinojo y la cebolla en el fondo de la fuente para hornear preparada.",
+        "Vierta el aceite de oliva, el caldo y el vinagre sobre el hinojo y la cebolla, y condimente con sal y pimienta.",
+        "Hornee durante 1 hora, revolviendo a mitad de cocción.",
+        "Añade los frijoles y el perejil y vuelve a poner en el horno durante 10 minutos."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Mediterranean",
+        "Vegetarian",
+        "Budget Friendly",
+        "Sides",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "4g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "26g",
+        "fiber": "8g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/braised-fennel-and-white-beans"
+}

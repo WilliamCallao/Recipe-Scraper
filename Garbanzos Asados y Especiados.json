@@ -1,0 +1,92 @@
+{
+    "title": "Garbanzos Asados y Especiados",
+    "keywords": "Holidays & Entertaining,Snacks,Vegetarian,Gluten-Free,Easy Pantry Recipes,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Holidays & Entertaining",
+        "Snacks",
+        "Vegetarian",
+        "Gluten-Free",
+        "Easy Pantry Recipes",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/441-diabetic-roasted-spiced-chickpeas_Diabetes-Cookbook_DF_101818_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "garbanzos (15,5 onzas, enjuagados y escurridos (secar bien))",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "aceite de oliva (dividido)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "comino",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal (opcional)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Sustituto de azúcar moreno bajo en calorías",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 grados F. Rocíe una bandeja para hornear con aceite en aerosol.",
+        "En un tazón mediano mezcle los garbanzos, 1 cucharada de aceite de oliva, la canela, el comino, el chile en polvo y la sal.",
+        "Distribuye la mezcla de garbanzos de manera uniforme sobre una placa para horno. Hornea durante 40 a 45 minutos, revolviendo cada 10 minutos, hasta que los garbanzos estén crujientes y secos.",
+        "Retire del horno y coloque los frijoles calientes en un recipiente mediano. Agregue 1 cucharada de aceite de oliva y la mezcla de azúcar morena Splenda. Mezcle bien.",
+        "Vierta los frijoles sobre papel pergamino y deje enfriar durante 20 minutos."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Holidays & Entertaining",
+        "Snacks",
+        "Vegetarian",
+        "Gluten-Free",
+        "Easy Pantry Recipes",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "6g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "170mg",
+        "total_carbohydrate": "15g",
+        "fiber": "4g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-and-spiced-chickpeas"
+}

@@ -1,0 +1,111 @@
+{
+    "title": "Sopa de Pollo",
+    "keywords": "One Pot,Main Dish,Lunch,Dinner,Soup",
+    "prep_time": "PT20M",
+    "cook_time": "PT2H",
+    "categories": [
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Soup"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/chicken%20soup.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Pollo entero (fresco o descongelado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "apio",
+            "us_amount": "4 stalks",
+            "metric_amount": "4 stalks"
+        },
+        {
+            "name": "cebolla(s)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "ajo",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "zanahorias)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Calabaza o calabacín amarillo de verano",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "chile jalapeño",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "mazorcas de maíz",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "agua",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "hojas de laurel",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Lima (jugo)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "cilantro (picado)",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        }
+    ],
+    "instructions": [
+        "Primero prepare el caldo: en una olla grande, agregue 8 tazas de agua, el pollo entero, 2 de los tallos de apio, ½ de la cebolla, 2 de los dientes de ajo, 1 cucharadita de sal y pimienta al gusto.",
+        "Tapar y llevar a ebullición. Reducir el fuego y dejar cocinar a fuego lento durante 1 hora.",
+        "Mientras el caldo hierve a fuego lento, corta en cubitos los tallos de apio restantes, la otra mitad de la cebolla, las zanahorias y la calabaza. Pica finamente los dientes de ajo restantes y el jalapeño. Corta las mazorcas de maíz en trozos de 3 pulgadas.",
+        "Cuando el caldo haya terminado de hervir a fuego lento, retira el pollo y déjalo enfriar. Cuela el caldo y reserva el líquido en un bol u otro recipiente (desecha los ingredientes colados). Retira la grasa de la superficie del caldo.",
+        "Una vez que el pollo esté lo suficientemente frío como para manipularlo, quítele la piel y deséchela. Retire la carne de los huesos y córtela en trozos grandes.",
+        "En la misma olla, agrega todas las verduras picadas, el pollo picado, sal y pimienta al gusto y las hojas de laurel.",
+        "Añade el caldo. El caldo debe cubrir todo el contenido de la olla por 5 cm. Si no es así, añade agua y más sal.",
+        "Tapar y cocinar durante 1 hora a fuego lento.",
+        "Retire las hojas de laurel antes de servir.",
+        "Servir y cubrir con cilantro."
+    ],
+    "tags": [
+        "Comfort Food",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Soup"
+    ],
+    "nutrition": {
+        "calories": "310",
+        "total_fat": "14g",
+        "saturated_fat": "3.5g",
+        "trans_fat": "0g",
+        "cholesterol": "90mg",
+        "sodium": "410mg",
+        "total_carbohydrate": "11g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "36g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-soup"
+}

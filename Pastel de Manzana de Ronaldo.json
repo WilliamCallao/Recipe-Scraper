@@ -1,0 +1,84 @@
+{
+    "title": "Pastel de Manzana de Ronaldo",
+    "keywords": "Vegetarian,Vegan,Gluten-Free,Dessert,Cooking for 1 or 2,Budget Friendly",
+    "prep_time": "PT10M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free",
+        "Dessert",
+        "Cooking for 1 or 2",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/espanol-diabetic-tarta-manzana-ronaldo_sabores-de-cuba_013019_2959761669.jpg",
+    "servings": "3 Servings",
+    "ingredients": [
+        {
+            "name": "manzanas como Gala o Fuji",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "jugo de lima (dividido)",
+            "us_amount": "2 tbsp plus 1/2 tsp",
+            "metric_amount": "2 tbsp plus 1/2 tsp"
+        },
+        {
+            "name": "mantequilla de almendras",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "nuez moscada molida",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Especias para pastel de calabaza",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350°F.",
+        "Quita el corazón de las manzanas, asegurándote de dejar la parte inferior intacta. Corta la parte superior de cada manzana, aproximadamente a 1/4 de pulgada de la parte superior.",
+        "En un recipiente mediano, combine 2 cucharadas de jugo de lima y 2 tazas de agua. Remoje las manzanas en el agua durante unos 5 minutos para evitar que se doren.",
+        "En otro recipiente, agrega la mantequilla de almendras, la canela, la nuez moscada, el extracto de vainilla, el jugo de lima restante y las especias para calabaza. Mezcla todo.",
+        "Saque las manzanas del agua y séquelas. Rellene cada manzana con 1 cucharada de la mezcla de mantequilla de almendras. Una vez que todas las manzanas estén rellenas, colóquelas en una fuente para horno profunda. Agregue aproximadamente 1/2 pulgada de agua a la fuente para horno y asegúrese de que las manzanas estén en posición vertical dentro del agua. (El agua evita que las manzanas se sequen). Hornee durante 1 hora. Mientras se hornean las manzanas, controle el nivel del agua; agregue más agua si es necesario.",
+        "Una vez que las manzanas estén tiernas, retírelas de la fuente para hornear y sirva."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free",
+        "Dessert",
+        "Cooking for 1 or 2",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "10g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "40mg",
+        "total_carbohydrate": "40g",
+        "fiber": "8g",
+        "sugar": "28g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ronaldos-apple-pie"
+}

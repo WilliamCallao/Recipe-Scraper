@@ -1,0 +1,96 @@
+{
+    "title": "Ensalada de Aguacate en Abanico",
+    "keywords": "Quick & Easy,Salads,Vegetarian",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Salads",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_692_Fanned_Avacado_Salad_DiabetesHeartHealthy_022518.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "jugo de lima fresco",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "jugo de limón fresco",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pimienta",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salsa de pimiento rojo picante",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "hojas de espinaca medianas",
+            "us_amount": "18",
+            "metric_amount": "18"
+        },
+        {
+            "name": "Pepino mediano (pelado y cortado en rodajas)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "tomate mediano (cortado transversalmente y cortado por la mitad)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aguacate mediano (en rodajas finas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cilantro fresco (picado)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "queso feta (sin grasa, desmenuzado)",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        }
+    ],
+    "instructions": [
+        "En un tazón pequeño, mezcle el jugo de limón, el jugo de lima, la salsa picante, la sal y la pimienta.",
+        "En una fuente, disponga decorativamente las espinacas, el pepino, el tomate y el aguacate como si fuera un abanico o un acordeón. Vierta el aliño sobre todo. Espolvoree con el cilantro y el queso feta. Sirva inmediatamente para que el sabor sea máximo y las espinacas no se marchiten."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "Lower Carb",
+        "Quick & Easy",
+        "Salads",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "5g",
+        "fiber": "3g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fanned-avocado-salad"
+}

@@ -1,0 +1,85 @@
+{
+    "title": "Salmón Jugoso con Cebollas Caramelizadas",
+    "keywords": "Dinner,Holidays & Entertaining,Lunch,Main Dish,Slow Cooker",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Slow Cooker"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/succulent-salmon-and-farro-with-lemon-and-green-beans_1.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "salmón",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "Limón (cortado por la mitad de arriba a abajo y en rodajas finas)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "eneldo seco",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Jengibre molido",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Cebolla dulce (cortada por la mitad de arriba a abajo y en rodajas finas)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350° F. Caliente el aceite de oliva en una sartén grande y pesada apta para horno a fuego medio y agregue las cebollas. Cocine durante 8 a 10 minutos, revolviendo de vez en cuando, hasta que estén doradas.",
+        "Mientras tanto, en un bol pequeño, combine el jengibre, el eneldo, la sal y la pimienta; reserve. Cubra las cebollas con las rodajas de limón y luego el salmón, y cubra el salmón de manera uniforme con las especias. Transfiera la sartén al horno y cocine el salmón durante unos 20 minutos, hasta que esté bien cocido. Retire del horno y sirva inmediatamente. Las judías verdes con limón y ajo son una excelente guarnición para el salmón.",
+        "Instrucciones para la olla de cocción lenta: corte el filete de salmón en trozos que quepan en la olla de cocción lenta. Combine las cebollas en el fondo de la olla de cocción lenta. Coloque cada trozo de salmón en un trozo de papel de aluminio separado lo suficientemente grande como para doblarlo en un paquete. Espolvoree las especias de manera uniforme sobre los trozos de salmón y cubra con rodajas de limón. Doble el papel de aluminio en un paquete y coloque los paquetes en la olla de cocción lenta sobre las cebollas, apilándolos según sea necesario. Cocine a fuego lento durante 6 a 8 horas o a fuego alto durante 3 a 4 horas (para filetes más delgados, verifique que estén listos antes). Retire el salmón de los paquetes y luego cubra con las cebollas antes de servir."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Slow Cooker"
+    ],
+    "nutrition": {
+        "calories": "215",
+        "total_fat": "11g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "7g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/succulent-salmon-caramelized-onions"
+}

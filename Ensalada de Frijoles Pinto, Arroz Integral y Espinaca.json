@@ -1,0 +1,86 @@
+{
+    "title": "Ensalada de Frijoles Pinto, Arroz Integral y Espinaca",
+    "keywords": "Quick & Easy,Vegetarian,Foodie,Lunch,Salads",
+    "prep_time": "PT15M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Quick & Easy",
+        "Vegetarian",
+        "Foodie",
+        "Lunch",
+        "Salads"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/RecID_406_PintoBeanBrownRiceSalad_PNC_040418.jpg",
+        "Brown Rice and Spinach Salad\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pimiento amarillo (sin semillas y cortado en cubitos)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "pepino(s) (sin semillas y cortado en cubitos)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "espinaca baby (5 onzas, 4 tazas ligeramente compactas)",
+            "us_amount": "1 package",
+            "metric_amount": "1 package"
+        },
+        {
+            "name": "frijoles pintos (cocidos y enfriados)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "arroz integral (cocido y enfriado)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "queso fresco (crumbled)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Aderezo de cilantro, limón y ajo (enlace a la receta en las instrucciones)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        }
+    ],
+    "instructions": [
+        "Prepare el aderezo de cilantro, ajo y limón.",
+        "Añade todos los ingredientes y el aderezo a una ensaladera grande y mezcle.",
+        "Cocinar frijoles pintos secos en grandes cantidades: agregue 1 libra (16 oz) de frijoles pintos secos a una olla grande con agua hirviendo (al menos 6 tazas de agua). Hierva rápidamente durante 2 minutos. Retire del fuego y cubra. Deje reposar durante 1 hora. Escurra y enjuague los frijoles. Agregue 6 tazas de agua fresca. Lleve a ebullición, luego reduzca a fuego lento durante una hora o hasta que los frijoles estén suaves pero no partidos. Rinde 5 tazas de frijoles cocidos. Estos frijoles se pueden usar en cualquier receta que requiera frijoles cocidos o enlatados. Guárdelos en un recipiente hermético en el refrigerador durante 7 días o envuélvalos en bolsas para congelador en incrementos de una taza durante hasta 6 meses.",
+        "Arroz integral para cocinar en grandes cantidades: agregue 1 libra (16 oz) de arroz integral de grano largo (no instantáneo) a una olla grande con 5 tazas de agua. Lleve a ebullición y luego reduzca el fuego a fuego lento. Cubra y cocine a fuego lento durante 45 minutos o hasta que se absorba todo el líquido. Rinde 10 tazas de arroz integral cocido. Este arroz se puede usar en cualquier receta que requiera arroz integral cocido. Guárdelo en un recipiente hermético en el refrigerador durante 7 días o envuélvalo en bolsas para congelador en incrementos de una taza durante hasta 6 meses."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Low Sodium",
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Quick & Easy",
+        "Vegetarian",
+        "Foodie",
+        "Lunch",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "3g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "90mg",
+        "total_carbohydrate": "28g",
+        "fiber": "6g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pinto-bean-brown-rice-and-spinach-salad"
+}

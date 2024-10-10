@@ -1,0 +1,86 @@
+{
+    "title": "Omelette Masala con Verduras Mixtas",
+    "keywords": "",
+    "prep_time": "PT0M",
+    "cook_time": "PT10M",
+    "categories": [],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_765_MasalaOmeletteWithMixedVeggies_IndianCuisine_050318.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de girasol",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "cebolla roja mediana (finamente picada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chile verde fresco (finamente picado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (finamente picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "cúrcuma (molida)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "tomate pequeño maduro (finamente picado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "huevos grandes (batidos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cilantro fresco picado",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite en una sartén de hierro fundido a fuego medio-alto. Agrega la cebolla morada, el chile, el ajo y la cúrcuma y saltea hasta que estén tiernos.",
+        "Reducir el fuego a medio y agregar el comino y el tomate. Saltear durante 2 minutos, revolviendo de vez en cuando.",
+        "Añade los huevos batidos, moviendo la sartén para que los huevos se asienten en el fondo. Cocina durante 2 o 3 minutos aproximadamente.",
+        "Cuando los huevos estén bien cocidos, dobla la tortilla y espolvorea con sal y cilantro fresco. Sirve caliente."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "10g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "185mg",
+        "sodium": "370mg",
+        "total_carbohydrate": "13g",
+        "fiber": "2g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/masala-omelette-mixed-veggies"
+}

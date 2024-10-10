@@ -1,0 +1,126 @@
+{
+    "title": "Tacos de Pescado a la Parrilla con Salsa de Fresa y Mango",
+    "keywords": "Quick & Easy,Main Dish,Foodie,Dinner",
+    "prep_time": "PT30M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_728_GrilledFishTacosWithStrawberryAvocadoSalsa_WholeCooking_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "jugo de lima (recién exprimido)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Ralladura de lima (recién rallada)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "chile chipotle en polvo",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sal marina fina",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "filetes de bacalao (o pescado blanco escamoso similar)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "tortillas de maiz",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "fresas (picadas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "mango (picado)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "chalota pequeña (picada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Ralladura de lima (recién rallada)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "jugo de lima (recién exprimido)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cilantro fresco (picado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "En un bol mediano, mezcle el aceite, el jugo de lima, la ralladura de lima, el chile en polvo, el comino, la sal y la pimienta. Agregue el bacalao y déjelo marinar en el refrigerador durante 15 a 20 minutos.",
+        "Mientras se marina el pescado, mezcle todos los ingredientes de la salsa en un tazón mediano.",
+        "Precaliente una parrilla al aire libre o una sartén para parrilla a fuego medio-alto.",
+        "Saque el bacalao de la marinada y cocínelo a la parrilla durante 3 o 4 minutos de un lado. Luego, déle la vuelta y cocínelo a la parrilla durante 1 o 2 minutos del otro lado o hasta que el pescado se desmenuce fácilmente con un tenedor.",
+        "Transfiera el bacalao a un plato y déjelo reposar durante 5 minutos, luego use un tenedor para desmenuzarlo en trozos del tamaño de un bocado.",
+        "Si es necesario, cocine las tortillas en tandas durante 20 segundos cada una. Divida el pescado en partes iguales entre las tortillas, adorne con la salsa (aproximadamente 2 cucharadas por taco) y sirva."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Dialysis",
+        "Low Sodium",
+        "Seafood",
+        "Mexican/Southwestern",
+        "Latin American",
+        "Grilling",
+        "Quick & Easy",
+        "Main Dish",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "170mg",
+        "total_carbohydrate": "31g",
+        "fiber": "4g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-fish-tacos-strawberry-mango-salsa"
+}

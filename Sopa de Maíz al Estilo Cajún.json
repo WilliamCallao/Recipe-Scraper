@@ -1,0 +1,120 @@
+{
+    "title": "Sopa de Maíz al Estilo Cajún",
+    "keywords": "Soup,Dinner,Lunch",
+    "prep_time": "PT30M",
+    "cook_time": "PT80M",
+    "categories": [
+        "Soup",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1669-diabetic-cajun-corn-soup_new-soul-food-cookbook_100518_1021x779.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de canola",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla(s) (picadas)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "cebollas verdes (en rodajas)",
+            "us_amount": "5 stalks",
+            "metric_amount": "5 stalks"
+        },
+        {
+            "name": "pimiento verde (picado)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "harina para todo uso",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "5 cup",
+            "metric_amount": "1 l 183 ml"
+        },
+        {
+            "name": "muslos de pollo deshuesados ​​y sin piel (picados)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "tomates cortados en cubitos enlatados",
+            "us_amount": "1 (14.5 oz) can",
+            "metric_amount": "1 (14.5 oz) can"
+        },
+        {
+            "name": "tomates frescos (picados)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "pasta de tomate sin sal añadida",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salchichas de pavo desmenuzadas con bajo contenido de grasa, como Jimmy Dean (cocidas)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "maíz congelado",
+            "us_amount": "32 oz",
+            "metric_amount": "906 ml"
+        },
+        {
+            "name": "jamón cocido magro (picado)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite en una olla grande y saltea la cebolla, la cebolla de verdeo, el pimiento morrón y el ajo hasta que estén tiernos. Agrega la harina y cocina, revolviendo constantemente, hasta que burbujee.",
+        "Agregue el agua, el pollo, los tomates cortados en cubitos y el jugo, los tomates frescos, la pasta de tomate, la sal y la pimienta.",
+        "Añade la salchicha a la olla junto con el maíz y el jamón. Pon a hervir revolviendo con frecuencia.",
+        "Reduce el fuego y cocina a fuego lento, sin tapar, durante 1 hora, revolviendo ocasionalmente."
+    ],
+    "tags": [
+        "Soup",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "7g",
+        "saturated_fat": "1.7g",
+        "trans_fat": "0.1g",
+        "cholesterol": "55mg",
+        "sodium": "440mg",
+        "total_carbohydrate": "28g",
+        "fiber": "4g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cajun-style-corn-soup"
+}

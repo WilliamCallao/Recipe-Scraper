@@ -1,0 +1,101 @@
+{
+    "title": "Sopa de Champiñones Silvestres",
+    "keywords": "Sides,Foodie",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Sides",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/590-diabetic-wild-mushroom-soup_Diabetes-Ckbk_DFNovDec19_101019.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cebolla(s) (cortadas en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "apio (cortado en cubitos)",
+            "us_amount": "1 stalks",
+            "metric_amount": "1 stalks"
+        },
+        {
+            "name": "Hongos variados (cremini, shitake, setas ostra, hongos blancos), en rodajas",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "harina",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio y sin grasa",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "hojas de laurel",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "leche descremada evaporada",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Champiñones salteados y en rodajas adicionales (opcional, para decorar)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Añade el aceite a una olla sopera a fuego medio-alto. Añade la cebolla y el apio y saltea hasta que las cebollas se vuelvan transparentes, aproximadamente 5 minutos.",
+        "Añade los champiñones y saltéalos hasta que estén tiernos y se haya evaporado todo el líquido, unos 10 a 12 minutos. Añade el ajo y saltéalo 1 minuto más.",
+        "Añade la harina a los champiñones y saltea durante 2 minutos, luego agrega el caldo y revuelve bien, raspando los trozos del fondo de la sartén.",
+        "Añade la hoja de laurel, la sal (opcional) y la pimienta negra molida. Lleva a ebullición y luego reduce el fuego a fuego lento durante 10 minutos.",
+        "Añade la leche evaporada y deja hervir a fuego lento durante 1 minuto. Retira la hoja de laurel y luego haz un puré con una batidora de inmersión o en tandas en una batidora de pie. Vierte la sopa en tazones y decora con más champiñones salteados en rodajas, si lo deseas."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Sides",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "1g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "11g",
+        "fiber": "1g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/wild-mushroom-soup"
+}

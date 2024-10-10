@@ -1,0 +1,130 @@
+{
+    "title": "Chili de Verduras del Jardín y Frijoles Blancos",
+    "keywords": "Dinner,Easy Pantry Recipes,Foodie,Holidays & Entertaining,Lunch,Main Dish,One Pot,Soup,Vegetarian",
+    "prep_time": "PT20M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "One Pot",
+        "Soup",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Mar14_White_Bean_Chili.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "chiles verdes enlatados",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "frijoles blancos o frijoles blancos grandes (escurridos y enjuagados)",
+            "us_amount": "30 oz",
+            "metric_amount": "849 ml"
+        },
+        {
+            "name": "pimienta de cayena",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "clavo molido",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cilantro molido",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Orégano seco",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "cabeza de coliflor (picada en trozos grandes)",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "calabacines (dijo)",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "zanahoria(s) (cortadas en cubitos)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cebolla(s) (picadas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Caldo de pollo o de verduras bajo en grasa y sodio (comida enlatada)",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        }
+    ],
+    "instructions": [
+        "En una olla, calienta el aceite a fuego medio-alto. Agrega las cebollas y saltéalas durante unos 6 minutos, hasta que las cebollas estén traslúcidas. Agrega las zanahorias, el calabacín y la coliflor y saltéalas durante 5 minutos.",
+        "Añade el ajo, el comino, el orégano, el chile en polvo, el cilantro, los clavos de olor y la pimienta de cayena y saltea durante 2 minutos. Añade los frijoles, los chiles y el caldo y deja que hierva. Baja el fuego y cocina a fuego lento durante 20 minutos.",
+        "Retira la sartén del fuego y añade la sal y la pimienta. Para servir, divide el chile en tazones y cubre con el queso rallado."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Comfort Food",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "One Pot",
+        "Soup",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "4g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "575mg",
+        "total_carbohydrate": "29g",
+        "fiber": "11g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/garden-veggie-and-white-bean-chili"
+}

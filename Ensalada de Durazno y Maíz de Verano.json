@@ -1,0 +1,128 @@
+{
+    "title": "Ensalada de Durazno y Maíz de Verano",
+    "keywords": "Vegetarian,Snacks,Salads,Dessert",
+    "prep_time": "PT20M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Vegetarian",
+        "Snacks",
+        "Salads",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/17XX-diabetic-summer-peach-corn-salad_sabores-de-cuba_013019_2959761669.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "melocotones maduros (lavados y cortados en cuartos)",
+            "us_amount": "5",
+            "metric_amount": "5"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "nuez moscada molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "aceite de aguacate (dividido)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "mazorcas de maíz (cáscaras quitadas, lavadas)",
+            "us_amount": "5",
+            "metric_amount": "5"
+        },
+        {
+            "name": "cebolla roja (pelada y cortada en rodajas finas)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "yogur griego natural sin grasa",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "sal kosher",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "semillas de hinojo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cilantro molido",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "aceite de aguacate",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "zumo de lima",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cilantro picado",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "En un tazón grande, agregue los duraznos, la vainilla, la nuez moscada, la canela y 1 cucharadita de aceite de aguacate y mezcle suavemente.",
+        "Precaliente una sartén antiadherente mediana a fuego medio. Agregue los duraznos a la sartén y dórelos ligeramente por ambos lados. Transfiera a una bandeja para hornear pequeña y coloque en el refrigerador.",
+        "Coloque el maíz en una olla con agua fría y déjelo hervir hasta que esté bien cocido, aproximadamente entre 10 y 15 minutos. Retírelo del agua y córtelo por la mitad.",
+        "Precaliente una sartén antiadherente mediana a fuego medio y agregue 1 cucharadita de aceite de aguacate. Espere 10 segundos y luego agregue el maíz. Dore ligeramente todos los lados del maíz. Transfiera el maíz a una bandeja para hornear pequeña y colóquelo en el refrigerador.",
+        "Una vez que los duraznos y el maíz se hayan enfriado, sáquelos del refrigerador. Corte los granos de maíz de la mazorca; agréguelos a un tazón junto con los duraznos y agregue las cebollas.",
+        "En un recipiente aparte, agrega todos los ingredientes del aderezo. Bate hasta lograr una consistencia suave. Agrega el aderezo al maíz, los duraznos y las cebollas y revuelve suavemente. Sirve."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Latin American",
+        "Caribbean",
+        "Vegetarian",
+        "Snacks",
+        "Salads",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "6g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "33g",
+        "fiber": "5g",
+        "sugar": "19g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/summer-peach-and-corn-salad"
+}

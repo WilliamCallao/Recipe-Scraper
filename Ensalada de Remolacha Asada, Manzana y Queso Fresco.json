@@ -1,0 +1,96 @@
+{
+    "title": "Ensalada de Remolacha Asada, Manzana y Queso Fresco",
+    "keywords": "Lunch,Salads,Sides,Vegetarian",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/2016-10-roasted-beet-apple-and-queso-fresco-salad.jpg",
+        "Apple and Queso Fresco Salad\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "jugo de lima (recién exprimido)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aceite de aguacate",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "remolachas (aproximadamente 12 onzas en total)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "Sal kosher",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra (molida)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Manzanas Golden Delicious (peladas y cortadas en cubos de 1/2 pulgada)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "cilantro (finamente picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "queso fresco (crumbled)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla amarilla (en rodajas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400°F.",
+        "Frote las remolachas con aceite de canola, asegurándose de cubrir toda la superficie. Perfore algunos agujeros en las remolachas para que el calor pueda circular y acelerar el proceso de cocción. Coloque las remolachas en una fuente para horno pequeña y cúbralas bien con papel de aluminio. Asa las remolachas durante 1 hora y 10 minutos, hasta que puedas perforar fácilmente la pulpa de la remolacha con un tenedor. Retírelas del horno y coloque las remolachas directamente en un recipiente con agua helada. Esto enfriará las remolachas rápidamente, detendrá el proceso de cocción y hará que sea mucho más fácil quitarles la piel. Cuando las remolachas se hayan enfriado, pélelas con una toalla de papel. Coloque las remolachas en cubos de 1/2 pulgada y reserve.",
+        "Agrega aceite de aguacate, jugo de limón, sal y pimienta negra a un bol y bate enérgicamente durante 30 segundos para crear el aderezo. Reserva.",
+        "En un recipiente aparte, agrega las manzanas, 2 tazas de cubos de remolacha, el cilantro, el queso fresco y las cebollas, y revuelve suavemente. Agrega el aderezo y revuelve una vez más. ¡Ahora está listo para servir! ¡Disfruta!"
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lunch",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "1g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "18g",
+        "fiber": "3g",
+        "sugar": "13g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-beet-apple-and-queso-fresco-salad"
+}

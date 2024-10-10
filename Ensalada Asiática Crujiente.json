@@ -1,0 +1,102 @@
+{
+    "title": "Ensalada Asiática Crujiente",
+    "keywords": "Salad Dressings & Condiments,Salads,Vegetarian,Vegan,Sides,Lunch",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Salad Dressings & Condiments",
+        "Salads",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/3470_Crunchy%20Asian%20Salad.jpg",
+    "servings": "7 Servings",
+    "ingredients": [
+        {
+            "name": "repollo morado (rallado)",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "zanahorias (ralladas)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "pimientos morrones (picados en trozos grandes)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "cebolla verde (cebolleta) (cortada en rodajas finas)",
+            "us_amount": "5 stalks",
+            "metric_amount": "5 stalks"
+        },
+        {
+            "name": "Almendras en rodajas (tostadas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "vinagre de vino de arroz (para el aderezo)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "mantequilla de maní cremosa sin azúcar (para el aderezo)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Endulzante granulado Splenda® Monk Fruit (para el aderezo)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "ajo (rallado, para el aderezo)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "aceite de sésamo (para el aderezo)",
+            "us_amount": "1/2 tbsp",
+            "metric_amount": "7 ml"
+        },
+        {
+            "name": "Jengibre fresco (rallado, para el aderezo)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "En un tazón grande, agregue el repollo, las zanahorias, el pimiento morrón, las cebollas verdes y las almendras tostadas.",
+        "En una cacerola pequeña, agrega todos los ingredientes para el aderezo. Revuelve y agrega 1 cucharada de agua. Calienta a fuego lento hasta que se entibie. Deja que el aderezo se enfríe un poco, luego vierte el aderezo sobre la ensalada y revuelve. ¡Sirve y disfruta!"
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Asian",
+        "Salad Dressings & Condiments",
+        "Salads",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "7g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "100mg",
+        "total_carbohydrate": "10g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crunchy-asian-salad"
+}

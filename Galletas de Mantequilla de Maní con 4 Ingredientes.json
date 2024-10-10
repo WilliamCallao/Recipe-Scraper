@@ -1,0 +1,62 @@
+{
+    "title": "Galletas de Mantequilla de Maní con 4 Ingredientes",
+    "keywords": "Quick & Easy,Holidays & Entertaining,Gluten-Free,Dessert",
+    "prep_time": "PT20M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2063_diabetic-4-ingredient-Peanut-Butter-Cookies_Splenda_042721.jpg",
+    "servings": "20 Servings",
+    "ingredients": [
+        {
+            "name": "manteca de cacahuete",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Edulcorante granulado Splenda®",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "huevo grande (batido)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 °F. En un recipiente grande, mezcle la mantequilla de maní, el edulcorante Splenda, el huevo y el extracto de vainilla. Enfríe la mezcla en el refrigerador durante al menos 10 minutos.",
+        "Divida la mezcla en porciones de 1 cucharada y colóquelas en una placa para horno sin engrasar. Presione ligeramente con los dientes de un tenedor para crear un patrón de trama cruzada y aplane ligeramente cada galleta.",
+        "Hornear durante 8 minutos. Dejar enfriar en una placa para horno al menos 5 minutos antes de transferir a una rejilla para que termine de enfriarse."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "7g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "50mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/4-ingredient-peanut-butter-cookies"
+}

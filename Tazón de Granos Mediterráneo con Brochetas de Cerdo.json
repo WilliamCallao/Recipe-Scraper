@@ -1,0 +1,117 @@
+{
+    "title": "Tazón de Granos Mediterráneo con Brochetas de Cerdo",
+    "keywords": "Budget Friendly,Dinner,Main Dish",
+    "prep_time": "PT45M",
+    "cook_time": "PT75M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/mediterranean-grain-bowl-pork-skewers.png",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Solomillo de cerdo asado, magro y deshuesado (sin grasa)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "aceite de oliva (dividido)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Ralladura de limón",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cebolla dulce (picada)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "caldo de pollo sin sal añadida",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "Sorgo (grano integral, enjuagado y escurrido)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "garbanzos (enjuagados, escurridos y secados con toallas de papel)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "tomates cherry (cortados por la mitad)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "Rúcula",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "pepino(s) (picado)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "queso feta (desmenuzado)",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "Aceitunas Kalamata",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "humus",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Corte el lomo de cerdo en cubos de 1 pulgada. Colóquelo en una bolsa de plástico con cierre hermético colocada en un plato poco profundo. En un tazón pequeño combine 3 cucharadas de aceite de oliva, ajo, ralladura de limón, comino y ½ cucharadita de pimienta negra. Vierta la mitad de la mezcla de aceite de oliva sobre la carne (reserve la mitad restante). Selle la bolsa; gire para cubrir la carne. Deje marinar en el refrigerador durante 2 horas, girando la bolsa de vez en cuando.",
+        "Mientras tanto, en una cacerola mediana, calienta 1 cucharada de aceite a fuego medio-alto. Agrega la cebolla y cocina revolviendo durante 6 a 8 minutos o hasta que esté tierna. Agrega el caldo y deja que hierva. Agrega el sorgo. Reduce el fuego y cocina a fuego lento, tapado, durante 45 a 60 minutos o hasta que el sorgo esté tierno, revolviendo ocasionalmente.",
+        "Precaliente el horno a 400 °F. Coloque los garbanzos en una bandeja para hornear de 15 x 10 x 1 pulgada forrada con papel de aluminio. Rocíe con la mezcla de aceite de oliva reservada; revuelva para cubrir. Áselos en el horno precalentado durante 20 a 30 minutos o hasta que los garbanzos estén tostados y crujientes, revolviendo ocasionalmente. Retire del horno y ajuste la temperatura del horno a 500 °F.",
+        "Escurre la carne y desecha la marinada. Divide la carne en 6 brochetas de madera o metal. Coloca las brochetas sobre una rejilla de alambre encima de una bandeja para hornear y hornea durante 10 minutos o hasta que la carne esté ligeramente rosada en el centro, dándoles vuelta una vez a la mitad del tiempo de cocción.",
+        "Para servir, divida el sorgo cocido en 6 tazones poco profundos. Cubra con tomates, rúcula, pepino, queso feta, aceitunas, garbanzos y hummus de lentejas rojas. Sirva con brochetas de cerdo."
+    ],
+    "tags": [
+        "Mediterranean",
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "410",
+        "total_fat": "21g",
+        "saturated_fat": "0g",
+        "trans_fat": "0.1g",
+        "cholesterol": "40mg",
+        "sodium": "570mg",
+        "total_carbohydrate": "35g",
+        "fiber": "7g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mediterranean-grain-bowl-pork-skewers"
+}

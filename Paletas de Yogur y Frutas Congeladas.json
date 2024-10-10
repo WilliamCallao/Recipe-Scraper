@@ -1,0 +1,74 @@
+{
+    "title": "Paletas de Yogur y Frutas Congeladas",
+    "keywords": "Easy Pantry Recipes,Vegetarian,Foodie,Dessert,Snacks",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Vegetarian",
+        "Foodie",
+        "Dessert",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/243-diabetic-frozen-yogurt-fruit_684586864_081118.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "nueces pecanas (picadas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Palitos de cake pop",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "Yogur griego de arándanos (sin grasa)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "fresas (sin cáscara)",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "Papel encerado",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Cubre una bandeja para hornear pequeña con papel encerado. Reserva.",
+        "Inserte los palitos de cake pop en la parte superior de la fresa. No perfore la punta de la fresa.",
+        "Sumerge cada fresa en el yogur, agitándola para que quede cubierta por una fina capa. Usa una cuchara para ayudar a cubrir las fresas si es necesario.",
+        "Espolvoree 1 cucharadita de nueces pecanas sobre cada fresa cubierta.",
+        "Coloca las paletas de fresa en la bandeja para hornear y congélalas durante 1 o 2 horas o hasta que el yogur esté congelado. Una vez que las paletas estén congeladas, sácalas del papel encerado y sírvelas o colócalas en una bolsa con cierre hermético para congelador."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Kid Friendly",
+        "Comfort Food",
+        "Easy Pantry Recipes",
+        "Vegetarian",
+        "Foodie",
+        "Dessert",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "55",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "5mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/frozen-yogurt-fruit-pops"
+}

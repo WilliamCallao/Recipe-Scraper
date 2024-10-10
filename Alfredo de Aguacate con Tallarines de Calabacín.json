@@ -1,0 +1,93 @@
+{
+    "title": "Alfredo de Aguacate con Tallarines de Calabacín",
+    "keywords": "Dinner,Vegetarian,Quick & Easy,Main Dish,Gluten-Free",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Dinner",
+        "Vegetarian",
+        "Quick & Easy",
+        "Main Dish",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2068-diabetic-low-carb-avocado-alfredo-zucchini-noodles_low-carb-brissette_050721.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "palta",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "Queso parmesano (rallado, uso dividido)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1/2 tbsp",
+            "metric_amount": "7 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "aceite de aguacate",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "fideos de calabacín",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "Perejil fresco picado",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "En una licuadora o procesador de alimentos, haga puré la pulpa del aguacate con 2 cucharadas de queso parmesano, jugo de limón, sal y pimienta.",
+        "Calienta el aceite en una sartén grande o un wok a fuego medio. Agrega el ajo y saltea hasta que desprenda un aroma fragante, unos 30 segundos. Agrega los fideos de calabacín y saltea, revolviendo con frecuencia, hasta que estén tiernos y crujientes, unos 3 minutos.",
+        "Retira la sartén del fuego y añade el puré de aguacate. Mezcla con pinzas para cubrir los fideos de calabacín y calentar la salsa de aguacate.",
+        "Sirva inmediatamente. Cubra cada porción con el resto del queso y el perejil."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "High in Fiber",
+        "Italian",
+        "Dinner",
+        "Vegetarian",
+        "Quick & Easy",
+        "Main Dish",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "15g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "11g",
+        "fiber": "6g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/avocado-alfredo-zucchini-noodles"
+}

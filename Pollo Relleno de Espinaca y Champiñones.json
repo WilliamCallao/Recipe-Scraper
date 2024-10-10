@@ -1,0 +1,97 @@
+{
+    "title": "Pollo Relleno de Espinaca y Champiñones",
+    "keywords": "Gluten-Free,Dinner,Quick & Easy,Holidays & Entertaining,Main Dish",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Gluten-Free",
+        "Dinner",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/513-diabetic-spinach-mushroom-stuffed-chicken_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "espinacas congeladas (picadas, descongeladas y escurridas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "champiñones blancos (de botón) (finamente picados)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel (4 onzas cada una)",
+            "us_amount": "4 (4-oz) breasts",
+            "metric_amount": "4 (4-oz) breasts"
+        },
+        {
+            "name": "Queso ligero con ajo y hierbas",
+            "us_amount": "4 wedges",
+            "metric_amount": "4 wedges"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "paprika",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "palillos de dientes",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F. Rocíe una fuente para hornear con aceite en aerosol.",
+        "Añade el aceite a una sartén mediana a fuego medio-alto. Añade las espinacas y saltea durante 3 minutos. Añade los champiñones y cocina durante 4-5 minutos más. Añade el ajo y saltea durante 30 segundos.",
+        "Coloque una pechuga de pollo sobre una tabla de cortar y cúbrala con film transparente. Golpee el pollo con un ablandador de carne o un rodillo hasta que tenga un grosor de aproximadamente 1/4 de pulgada. Repita este proceso con las otras 3 pechugas de pollo.",
+        "Unte 1 cuña de queso Laughing Cow sobre un lado de una pechuga de pollo. Unte 1/4 de taza de la mezcla de espinaca y champiñones sobre el queso. Enrolle la pechuga de pollo y sujete la costura con un palillo. Repita este procedimiento con las 3 pechugas de pollo restantes.",
+        "Espolvoree las pechugas de pollo con pimienta y pimentón. Coloque las pechugas de pollo enrolladas en una fuente para horno y hornee durante 30-40 minutos o hasta que estén listas.",
+        "Para servir, retire los palillos y corte cada pechuga en 5 rodajas."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Gluten-Free",
+        "Dinner",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "8g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "260mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spinach-and-mushroom-stuffed-chicken"
+}

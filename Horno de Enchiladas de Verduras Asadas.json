@@ -1,0 +1,110 @@
+{
+    "title": "Horno de Enchiladas de Verduras Asadas",
+    "keywords": "Dinner,Holidays & Entertaining,Main Dish,Vegetarian",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Holidays & Entertaining",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/may2014.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de canola o aceite de maní sin refinar",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "cebolla dulce grande (cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salsa de tomatillo suave o mediana (salsa verde) de su elección (dividida)",
+            "us_amount": "1 1/4 cup",
+            "metric_amount": "296 ml"
+        },
+        {
+            "name": "Champiñones cremini o champiñones blancos (en rodajas)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "chile poblano picado",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Espinacas tiernas frescas envasadas (5 onzas)",
+            "us_amount": "5 cup",
+            "metric_amount": "1 l 183 ml"
+        },
+        {
+            "name": "frijoles pintos (15 onzas, enjuagados y escurridos suavemente (1 1/2 taza))",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "cilantro fresco (picado)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "hojas de orégano fresco (finamente picadas)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "comino",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Sal marina, o al gusto",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "tortillas de maíz (6 pulgadas)",
+            "us_amount": "12",
+            "metric_amount": "12"
+        },
+        {
+            "name": "Queso Monterey Jack o pepper jack (2 onzas, rallado)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 grados F.",
+        "Calienta el aceite en una sartén grande, profunda y antiadherente a fuego medio-alto. Agrega la cebolla y 1/4 de taza de salsa y saltea hasta que la cebolla se ablande, aproximadamente 8 minutos. Agrega los hongos y el pimiento y saltea hasta que se ablanden, aproximadamente otros 5 minutos. Agrega la espinaca y revuelve hasta que se ablanden, aproximadamente 1 minuto. Agrega los frijoles, el cilantro, el orégano, el comino y la sal, y saltea hasta que se combinen por completo y estén bien calientes, aproximadamente 1 minuto. Ajusta la sazón.",
+        "Coloca 1/2 taza de salsa en una fuente para horno de 9 x 13 pulgadas. Coloca 6 tortillas para cubrir el fondo de la fuente. Cubre uniformemente con la mitad de la mezcla de verduras. Coloca las 6 tortillas restantes encima. Espolvorea con 1/4 de taza de salsa. Cubre uniformemente con la mezcla de verduras restante. Espolvorea con el queso. Hornea hasta que esté completamente cocido y el queso se derrita, aproximadamente 20 minutos. Espolvorea con el 1/4 de taza de salsa restante.",
+        "Cortar la cazuela en 6 porciones y servir."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "7g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "430mg",
+        "total_carbohydrate": "43g",
+        "fiber": "9g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-vegetable-enchilada-bake"
+}

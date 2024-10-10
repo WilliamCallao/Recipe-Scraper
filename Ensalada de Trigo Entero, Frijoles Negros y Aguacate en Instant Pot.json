@@ -1,0 +1,111 @@
+{
+    "title": "Ensalada de Trigo Entero, Frijoles Negros y Aguacate en Instant Pot",
+    "keywords": "Dinner,Lunch,Main Dish,Quick & Easy,Salads,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Salads",
+        "Vegetarian"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/1687-diabetic-instant-pot-wheat-berry-black-bean-avocado-salad_Instant-Pot-Diabetes-Ckbk_052819.jpg",
+        "Black Bean",
+        "and Avocado Salad\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "frijoles negros secos",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "bayas de trigo duro",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "tomates uva",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "chile poblano picado",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cilantro fresco (picado)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Vinagre de sidra de manzana",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "aceite de oliva virgen extra",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "aguacate (pelado y picado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "queso cheddar picante bajo en grasa (rallado)",
+            "us_amount": "3 oz",
+            "metric_amount": "85 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque los frijoles y los granos de trigo en un colador de malla fina, enjuáguelos y escúrralos. Colóquelos en la olla a presión con las 4 tazas de agua. Cierre la tapa y la válvula de sellado. Presione el botón Manual durante 25 minutos. Cuando finalice el tiempo de cocción, utilice un liberador de presión rápido.",
+        "Mientras tanto, combine los tomates, los pimientos, el cilantro, el vinagre, el aceite, el ajo y la sal en un tazón grande y reserve.",
+        "Cuando la válvula baje, retire con cuidado la tapa, escurra en un colador de malla fina y páselo por agua fría para que se enfríe por completo. Escurra bien. Agregue la mezcla de trigo, el aguacate y el queso a la mezcla de tomate; revuelva suavemente hasta que quede bien cubierto. Sirva así o sobre verduras de hoja verde como la col rizada."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Salads",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "320",
+        "total_fat": "17g",
+        "saturated_fat": "4.5g",
+        "trans_fat": "0g",
+        "cholesterol": "15mg",
+        "sodium": "480mg",
+        "total_carbohydrate": "33g",
+        "fiber": "9g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/instant-pot-wheat-berry-black-bean-and-avocado-salad"
+}

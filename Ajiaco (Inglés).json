@@ -1,0 +1,126 @@
+{
+    "title": "Ajiaco (Inglés)",
+    "keywords": "Appetizers,Lunch,Main Dish,Sides,Soup",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "Lunch",
+        "Main Dish",
+        "Sides",
+        "Soup"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1860-diabetic-aijiaco-stew_AS-125547197_121019.jpg",
+    "servings": "9 Servings",
+    "ingredients": [
+        {
+            "name": "cebolla blanca (pelada y cortada en rodajas finas verticales)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "agua",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "caldo de res bajo en grasa y sodio",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "carne para estofado de ternera",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        },
+        {
+            "name": "aceite de canola (dividido)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "huevo duro (en rodajas)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "salsa picante",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        },
+        {
+            "name": "Perejil fresco (picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "apio (picado)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Orégano seco",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "dientes de ajo (picados)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "acelga (lavada y picada)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "zanahorias grandes (cortadas en juliana)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "patatas medianas (cada una pelada y cortada en cuartos)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        }
+    ],
+    "instructions": [
+        "Condimentar con salsa picante y colocar rodajas de huevo en cada tazón antes de servir.",
+        "Calienta 1 cucharada de aceite en una sartén pequeña y dora la cebolla. Añádela a la olla junto con el resto de los ingredientes, excepto la salsa picante y el huevo. Cocina a fuego lento durante 20 minutos.",
+        "Calienta 1 cucharada de aceite en una olla grande y dora la carne durante 4 o 5 minutos. Agrega el caldo y el agua y deja que hierva. Tapa, reduce el fuego y cocina a fuego lento durante 30 minutos."
+    ],
+    "tags": [
+        "Caribbean",
+        "Latin American",
+        "Mexican/Southwestern",
+        "Appetizers",
+        "Lunch",
+        "Main Dish",
+        "Sides",
+        "Soup"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "7g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "85mg",
+        "sodium": "330mg",
+        "total_carbohydrate": "26g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/ajiaco-english"
+}

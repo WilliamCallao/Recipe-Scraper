@@ -1,0 +1,100 @@
+{
+    "title": "Enchiladas de Pollo y Espinacas",
+    "keywords": "Dinner,Quick & Easy,Main Dish,Lunch",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_157_Chicken_and_Spinach_Enchiladas_PNCImages_02272018.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pechuga de pollo cocida (desmenuzada)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "espinacas congeladas (picadas, descongeladas y escurridas)",
+            "us_amount": "9 oz",
+            "metric_amount": "255 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "comino",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "cilantro fresco",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "queso cheddar (bajo en grasa, rallado)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Queso parmesano (recién rallado)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "tortillas de maíz (de 6 pulgadas, calentadas)",
+            "us_amount": "10",
+            "metric_amount": "10"
+        },
+        {
+            "name": "salsa verde para enchiladas enlatada",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F. Rocíe una fuente grande de metal o vidrio para hornear con aceite en aerosol.",
+        "En un bol pequeño, combine la espinaca, el ajo, el comino, el cilantro, la pimienta, el queso cheddar y el queso parmesano; mezcle hasta que se integren. Agregue el pollo desmenuzado; mezcle hasta que se integren.",
+        "Coloca 1/4 de taza de la mezcla de pollo y espinaca en una tortilla. Enrolla la tortilla y colócala con la costura hacia abajo en una fuente para horno. Repite el proceso con las 9 tortillas restantes.",
+        "Vierta la salsa para enchiladas sobre las tortillas. Hornee durante 25 minutos."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "7g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "455mg",
+        "total_carbohydrate": "29g",
+        "fiber": "5g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "23g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-and-spinach-enchiladas"
+}

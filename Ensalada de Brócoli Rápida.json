@@ -1,0 +1,71 @@
+{
+    "title": "Ensalada de Brócoli Rápida",
+    "keywords": "Salads,Quick & Easy,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Quick & Easy",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_424_Quick_Broccoli_Slaw_02282018.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "ensalada de brócoli",
+            "us_amount": "1 (12-oz) bag",
+            "metric_amount": "1 (12-oz) bag"
+        },
+        {
+            "name": "pasas",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "tocino de pavo cocido (picado)",
+            "us_amount": "6 slice",
+            "metric_amount": "6 slice"
+        },
+        {
+            "name": "mayonesa ligera",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "yogur natural sin grasa",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Vinagre de sidra de manzana",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "En una ensaladera, mezcle la ensalada de brócoli, las pasas y el tocino de pavo.",
+        "En un bol pequeño, mezcle la mayonesa, el yogur y el vinagre. Vierta el aderezo sobre la ensalada y revuelva para cubrirla."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Low Sodium",
+        "Veggie Rich",
+        "Salads",
+        "Quick & Easy",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "15mg",
+        "sodium": "260mg",
+        "total_carbohydrate": "10g",
+        "fiber": "2g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/quick-broccoli-slaw"
+}

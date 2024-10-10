@@ -1,0 +1,93 @@
+{
+    "title": "Lasaña de Espinacas en Crockpot",
+    "keywords": "Dinner,Gluten-Free,Holidays & Entertaining,Lunch,Main Dish,Quick & Easy,Slow Cooker,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Slow Cooker",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/nov12_crockpot_lasagna_279x200.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "Fideos de lasaña (sin gluten)",
+            "us_amount": "9",
+            "metric_amount": "9"
+        },
+        {
+            "name": "salsa de tomate para pasta enlatada (baja en sodio)",
+            "us_amount": "24 1/2 oz",
+            "metric_amount": "693 ml"
+        },
+        {
+            "name": "espinacas congeladas (10 onzas, picadas, descongeladas y escurridas)",
+            "us_amount": "1 package",
+            "metric_amount": "1 package"
+        },
+        {
+            "name": "queso mozzarella parcialmente descremado (rallado, dividido)",
+            "us_amount": "1 1/4 cup",
+            "metric_amount": "296 ml"
+        },
+        {
+            "name": "queso ricotta bajo en grasa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Queso parmesano (recién rallado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "salsa de tomate (8 onzas, sin sal agregada)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        }
+    ],
+    "instructions": [
+        "Rocíe una olla de cocción lenta con aceite en aerosol.",
+        "En un tazón mediano, mezcle el queso ricotta, el queso parmesano, 1/4 taza de queso mozzarella y las espinacas.",
+        "Coloque 1 taza de salsa para pasta en el fondo de la olla de cocción lenta. Coloque 3 fideos uno al lado del otro sobre la salsa. Separe los fideos para que quepan, si es necesario.",
+        "Unte aproximadamente 1/3 de taza de la mezcla de ricota y espinaca sobre los fideos. Repita la operación con la salsa para pasta, los fideos y la mezcla de ricota y espinaca 2 veces más. Cubra con la salsa para pasta restante y la salsa de tomate enlatada. Espolvoree la parte superior con 1 taza de queso mozzarella.",
+        "Coloque la tapa en la olla de cocción lenta. Cocine a temperatura baja durante 2 a 3 horas o hasta que esté listo (los tiempos de cocción varían según la olla de cocción lenta).",
+        "*Esta receta fue probada con fideos de lasaña sin gluten, pero se podrían usar fideos de lasaña integrales."
+    ],
+    "tags": [
+        "Italian",
+        "Dinner",
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Slow Cooker",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "6g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "15mg",
+        "sodium": "315mg",
+        "total_carbohydrate": "22g",
+        "fiber": "4g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crockpot-spinach-lasagna"
+}

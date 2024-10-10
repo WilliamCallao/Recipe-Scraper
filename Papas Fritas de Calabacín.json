@@ -1,0 +1,86 @@
+{
+    "title": "Papas Fritas de Calabacín",
+    "keywords": "Vegetarian,Sides,Appetizers",
+    "prep_time": "PT5M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Aviva_Plate1_Dinner_1.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "calabacín",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "claras de huevo",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "pan rallado panko",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "harina de maíz",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Queso parmesano (rallado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Orégano seco",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "albahaca seca",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "marinara",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta el horno a 425 °F. Rocía una bandeja para hornear grande con aceite en aerosol antiadherente. Corta los extremos de los calabacines y córtalos en cuartos a lo largo (para que tengas 8 tiras largas), luego corta cada tira en 3 trozos más cortos.",
+        "Batir las claras de huevo en un recipiente poco profundo hasta que estén espumosas. En otro recipiente poco profundo, combinar el panko, la harina de maíz, el queso, el orégano y la albahaca. Sumergir cada tira de calabacín en las claras de huevo y luego en la mezcla de panko. Colocar las tiras de calabacín en la bandeja para hornear, rociar las partes superiores con aceite en aerosol antiadherente y hornear durante 20 minutos, dándoles la vuelta una vez, hasta que estén doradas. Servir con salsa marinara."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Kid Friendly",
+        "Italian",
+        "Vegetarian",
+        "Sides",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "97",
+        "total_fat": "3g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "1mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "15g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/zucchini-fries"
+}

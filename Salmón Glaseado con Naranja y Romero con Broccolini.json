@@ -1,0 +1,106 @@
+{
+    "title": "Salmón Glaseado con Naranja y Romero con Broccolini",
+    "keywords": "Dinner,Main Dish",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Orange-Rosemary%20Salmon%20diabetic%20recipe.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "semillas de lino enteras",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Maicena",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "romero fresco (picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "sustituto de azúcar moreno",
+            "us_amount": "1 tbsp and 2 teaspoons",
+            "metric_amount": "1 tbsp and 2 teaspoons"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "naranja (jugo)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "naranja (ralladura)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "filetes de salmón (6 oz cada uno)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "broccolini (1 libra en total)",
+            "us_amount": "2 bunch",
+            "metric_amount": "2 bunch"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 grados F. Cubra una bandeja para hornear con papel pergamino o papel de aluminio.",
+        "Coloque el broccolini en un lado de la bandeja para hornear y rocíe con aceite de oliva.",
+        "Seque el salmón con toallas de papel y colóquelo en el otro lado de la bandeja para hornear.",
+        "Combine la ralladura de naranja, el jugo de naranja, el caldo, el azúcar morena, el ajo, el romero, la maicena y la linaza en una cacerola pequeña a fuego medio. Cocine, revolviendo ocasionalmente, hasta que la salsa se reduzca a la mitad y espese, de 8 a 10 minutos. Debe adherirse a una cuchara.",
+        "Pincele la salsa sobre el salmón. Coloque la bandeja para hornear en el horno y hornee hasta que el salmón alcance una temperatura interna de 145 grados F y el brócolini esté tierno, de 6 a 10 minutos."
+    ],
+    "tags": [
+        "Asian",
+        "Caribbean",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "390",
+        "total_fat": "17g",
+        "saturated_fat": "3.4g",
+        "trans_fat": "0g",
+        "cholesterol": "90mg",
+        "sodium": "300mg",
+        "total_carbohydrate": "21g",
+        "fiber": "2g",
+        "sugar": "10g",
+        "added_sugar": "5g",
+        "protein": "38g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/orange-rosemary-glazed-salmon-broccolini"
+}

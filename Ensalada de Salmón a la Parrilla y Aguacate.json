@@ -1,0 +1,118 @@
+{
+    "title": "Ensalada de Salmón a la Parrilla y Aguacate",
+    "keywords": "Dinner,Lunch,Main Dish,Salads,Sides,Vegetarian,Budget Friendly",
+    "prep_time": "PT15M",
+    "cook_time": "PT1H10M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Salads",
+        "Sides",
+        "Vegetarian",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/286-diabetic-grilled-salmon-avocado-salad_091418_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "filetes de salmón congelados (de 4 onzas cada uno, descongelados)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "condimento para parrilla (sin sal (Mrs. Dash Steak Grilling Blend))",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "lechuga romana (picada)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "cebolla roja (en rodajas finas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "pepino(s) (en rodajas finas)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "aguacate maduro (pelado, sin semillas y en rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zumo de lima",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "mostaza de dijon",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Estevia",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente una parrilla interior o exterior.",
+        "Seque los filetes de salmón descongelados con una toalla de papel. Pincele cada lado con aceite de oliva y sazone con el condimento para parrilla sin sal.",
+        "Asa los filetes de salmón por cada lado durante 4 o 5 minutos o hasta que estén bien cocidos. Reserva.",
+        "Prepare cada ensalada comenzando con 1 taza de lechuga romana, cubra con 1/4 de la cebolla en rodajas, 1/4 de taza del pepino en rodajas, el filete de salmón a la parrilla y 1/4 del aguacate en rodajas. Repita para las tres ensaladas restantes.",
+        "En un bol pequeño, mezcle el jugo de lima, el aceite de oliva, la mostaza de Dijon, la stevia, la sal y la pimienta. Rocíe el aderezo sobre cada ensalada."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Grilling",
+        "Seafood",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Salads",
+        "Sides",
+        "Vegetarian",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "320",
+        "total_fat": "21g",
+        "saturated_fat": "3.6g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "260mg",
+        "total_carbohydrate": "10g",
+        "fiber": "4g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-salmon-and-avocado-salad"
+}

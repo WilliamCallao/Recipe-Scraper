@@ -1,0 +1,119 @@
+{
+    "title": "Salteado de Tofu",
+    "keywords": "Budget Friendly,Dinner,Vegetarian,Main Dish,Lunch",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Vegetarian",
+        "Main Dish",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_492136636.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Tofu extra firme (escurrido y cortado en trozos de 1 pulgada)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "Aderezo ligero de sésamo y jengibre para ensaladas",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "aceite de sésamo",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "floretes de brócoli",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Champiñones blancos (de botón) (8 onzas, en rodajas)",
+            "us_amount": "1 package",
+            "metric_amount": "1 package"
+        },
+        {
+            "name": "almendras (en rodajas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "caldo de verduras bajo en sodio (bajo en sodio)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Maicena",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salsa de soja (reducida en sodio)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Salsa picante estilo asiático",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Sustituto de azúcar moreno bajo en calorías",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "cebolla verde (cebolleta) (partes blancas y verdes), cortadas en rodajas finas)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "Mezcle el aderezo de tofu, sésamo y jengibre en un bol y deje marinar durante 30 minutos.",
+        "Una vez que el tofu haya terminado de marinarse, retírelo de la marinada y reserve la marinada.",
+        "Añade el aceite de sésamo y el aceite de cocina en aerosol a un wok o una sartén grande a fuego alto. Añade el tofu y saltea durante 7 u 8 minutos o hasta que el tofu esté dorado.",
+        "Añade el brócoli y los champiñones y saltea durante 3 o 4 minutos. Añade las cebolletas y las almendras y saltea durante 2 minutos más.",
+        "En un bol o taza, mezcle el caldo de verduras, la maicena, la salsa de soja, la salsa picante, la mezcla de azúcar morena Splenda y el ajo. Incorpore la marinada de aderezo de sésamo y jengibre que reservó. Vierta la mezcla sobre el tofu y deje que hierva.",
+        "Reducir el fuego y dejar cocinar a fuego lento durante 5 minutos.",
+        "Sugerencia de servicio: Sirva sobre arroz integral o en hojas de lechuga."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Asian",
+        "Budget Friendly",
+        "Dinner",
+        "Vegetarian",
+        "Main Dish",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "125",
+        "total_fat": "6g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "300mg",
+        "total_carbohydrate": "11g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tofu-stir-fry"
+}

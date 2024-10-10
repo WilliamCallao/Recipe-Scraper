@@ -1,0 +1,104 @@
+{
+    "title": "Ensalada Asiática de Edamame y Arroz Integral",
+    "keywords": "Sides,Salads,Lunch,Appetizers",
+    "prep_time": "PT5M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Sides",
+        "Salads",
+        "Lunch",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_609_AsianEdamameAndBrownRiceSalad_SixOClockScramble_022618.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "arroz integral",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "edamame descascarado congelado (aproximadamente 2 1/2 tazas), o use guisantes congelados)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "zanahoria(s) (cortadas en cubitos de 1/2 pulgada)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "Cebolleta (partes verdes claras y oscuras, cortadas en rodajas finas)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "arándanos (secos)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Lima (solo jugo, aproximadamente 2 cucharadas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salsa de soja (reducida en sodio, (use salsa de trigo o sin gluten si es necesario))",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "vinagre de vino de arroz",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aceite de sésamo tostado",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "salsa de chile asiática dulce, o sustituto de chutney de mango o mermelada de albaricoque",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "salsa de chile picante, o use Tabasco",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "aguacate (pelado y cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "HAGA CON ANTICIPACIÓN O DELEGUE: Cocine el arroz y el edamame, corte las zanahorias en cubitos, corte las cebolletas en rodajas, exprima la lima y prepare el aderezo de la ensalada, o prepare completamente la ensalada y refrigérela.",
+        "(Comience primero con los huevos, si los va a servir). Prepare el arroz y el edamame según las instrucciones del paquete y escurra el edamame.",
+        "En un tazón grande, combine el arroz, el edamame, las zanahorias, las cebolletas y los arándanos secos.",
+        "En un bol pequeño, mezcle el jugo de lima, la salsa de soja, el vinagre, el aceite y las salsas de chile dulce y picante. Vierta el aderezo sobre la ensalada e incorpore suavemente el aguacate. La ensalada se puede refrigerar hasta 2 días antes de servir, pero agregue el aguacate justo antes de servir.",
+        "POTENCIADOR DE SABOR Sirva con salsa de chile extra dulce y picante y con salsa de soja extra. Cocine el arroz en 1/2 agua y 1/2 leche de coco ligera."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Sides",
+        "Salads",
+        "Lunch",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "245",
+        "total_fat": "9g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "155mg",
+        "total_carbohydrate": "35g",
+        "fiber": "8g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/asian-edamame-and-brown-rice-salad"
+}

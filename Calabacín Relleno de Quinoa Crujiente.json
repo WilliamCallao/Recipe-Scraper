@@ -1,0 +1,78 @@
+{
+    "title": "Calabacín Relleno de Quinoa Crujiente",
+    "keywords": "Sides,Foodie",
+    "prep_time": "PT10M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Sides",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_681_Secrets%20Healthy%20Cooking_CrunchyQuinoaStuffedZucchini_022618.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "quinua cruda (enjuagada)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "calabacín (cada uno pesa aproximadamente 1/2 libra)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "panceta (picada)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "cebolla(s) (picadas, aproximadamente 1 mediana)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "ajo grande (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Tomates uva o cherry (cortados por la mitad o en cuartos si son grandes)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425 °F (convección) o a 450 °F (horno tradicional).",
+        "Coloque la quinua en una cacerola mediana con 1 taza de agua. Deje que hierva, reduzca el fuego a mínimo, cubra y cocine durante 15 a 20 minutos hasta que esté tierna.",
+        "Corte el calabacín por la mitad a lo largo. Con un cuchillo para pelar, haga un corte en forma de V en cada mitad y retire el centro, creando un canal para el relleno. Corte el calabacín que retiró y guárdelo para usarlo en el relleno.",
+        "Mientras tanto, coloca el aceite de oliva en una sartén grande. Agrega la panceta, la cebolla, el ajo y el calabacín picado. Saltea hasta que la panceta se dore. Retira la sartén del fuego y agrega los tomates. Agrega la quinoa cocida y mezcla bien.",
+        "Rellene cada mitad de calabacín con 1/2 taza de la mezcla de quinua y colóquela en una bandeja para hornear forrada con papel pergamino.",
+        "Hornee durante 20 a 25 minutos hasta que los calabacines estén tiernos al pincharlos con un tenedor. El relleno estará bien dorado."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Comfort Food",
+        "Mediterranean",
+        "Sides",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "125",
+        "total_fat": "5g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "17g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crunchy-quinoa-stuffed-zucchini"
+}

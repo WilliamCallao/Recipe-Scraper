@@ -1,0 +1,90 @@
+{
+    "title": "Sopa Fría de Estragón y Tomate",
+    "keywords": "Vegetarian,Vegan,Soup,Sides,Lunch,Gluten-Free,Foodie,Dinner",
+    "prep_time": "PT5M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Soup",
+        "Sides",
+        "Lunch",
+        "Gluten-Free",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Diabetic-chilled-tarragon-tomato-soup_Med-ckbk_DFMayJun19_040219.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Tomates cherry",
+            "us_amount": "3 lbs",
+            "metric_amount": "1 l 361 ml"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "azúcar",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "hojas de estragón finamente picadas (divididas)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425°F.",
+        "Coloque los tomates, el vinagre balsámico, el azúcar, el jugo de limón y 1 cucharada de estragón en un procesador de alimentos o licuadora. Mezcle hasta formar una sopa suave.",
+        "Coloque un colador grande de malla fina o un colador chino sobre un bol y vierta la sopa. Use una cuchara de madera para girar y presionar la sopa a través del colador, de a poco, hasta que los sólidos del tomate queden en el colador y el líquido haya pasado.",
+        "Coloque la sopa en una cacerola grande y sazone con sal y pimienta al gusto.",
+        "Ponga la mezcla a hervir a fuego alto, luego reduzca el fuego a bajo y cocine a fuego lento, sin tapar, durante 10 a 20 minutos, o hasta que la sopa espese y el volumen se haya reducido en aproximadamente un tercio.",
+        "Decore la sopa con las hojas de estragón restantes. Refrigere y sirva fría (si lo prefiere, sirva tibia)."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Veggie Rich",
+        "Mediterranean",
+        "Vegetarian",
+        "Vegan",
+        "Soup",
+        "Sides",
+        "Lunch",
+        "Gluten-Free",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "40",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "9g",
+        "fiber": "3g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chilled-tarragon-and-tomato-soup"
+}

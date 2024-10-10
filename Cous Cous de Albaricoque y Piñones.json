@@ -1,0 +1,81 @@
+{
+    "title": "Cous Cous de Albaricoque y Piñones",
+    "keywords": "Dinner,Sides,Vegan,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/045-diabetic-Apricote-Pine-Nut-CousCous_iStock-104199544_022318.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "Caldo de pollo sin grasa (sodio reducido)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "cuscús de trigo integral (sin cocinar)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "sal (opcional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "albaricoques secos (picados)",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "mermelada de albaricoque sin azúcar añadido",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "cebolla verde (cortada en rodajas finas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "piñones (tostados)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "En una cacerola mediana, pon a hervir el caldo de pollo. Agrega el cuscús. Tapa y retira del fuego. Deja reposar durante 5 minutos y remueve con un tenedor.",
+        "Añade el resto de los ingredientes. Mezcla suavemente para cubrirlos."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Dinner",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "115",
+        "total_fat": "2g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "105mg",
+        "total_carbohydrate": "22g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/apricot-pine-nut-cous-cous"
+}

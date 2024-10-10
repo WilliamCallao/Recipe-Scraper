@@ -1,0 +1,75 @@
+{
+    "title": "Wrap de Pavo y Aguacate",
+    "keywords": "Quick & Easy,Lunch,Salads",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Lunch",
+        "Salads"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/560-diabetic-lunch-turkey-avocado-wrap_AdobeStock7330035_022321.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aguacate (puré)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "Yogur griego",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "tortillas grandes bajas en carbohidratos",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Pechuga de pavo estilo delicatessen sin sal añadida",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "semillas de girasol",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        },
+        {
+            "name": "tomate(s) (en rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "lechuga rallada",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "En un tazón pequeño, mezcle el aguacate y el yogur griego.",
+        "Extiende la mezcla de aguacate uniformemente sobre 4 tortillas.",
+        "Cubra cada tortilla con 3 onzas de pavo, 1 cucharadita de semillas de girasol, 2 rodajas de tomate y 1/4 taza de lechuga."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Quick & Easy",
+        "Lunch",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "9g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "440mg",
+        "total_carbohydrate": "23g",
+        "fiber": "15g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "33g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/turkey-and-avocado-wrap"
+}

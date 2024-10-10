@@ -1,0 +1,121 @@
+{
+    "title": "Crepes Salados",
+    "keywords": "Breakfast and Brunch,Foodie,Lunch",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Breakfast and Brunch",
+        "Foodie",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/jan2015-savory-crepes-279x200.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "huevos",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "leche (descremada)",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sal (opcional)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "harina de trigo integral",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "floretes de brócoli",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla pequeña (cortada en dados pequeños)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "jamón de charcutería (1/2 onza cada uno), cortado en cubitos)",
+            "us_amount": "8 slice",
+            "metric_amount": "8 slice"
+        },
+        {
+            "name": "claras de huevo",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "mitad y mitad sin grasa",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Queso parmesano (rallado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Batir todos los ingredientes de las crepes en un bol grande, excepto el aceite en aerosol. Mezclar todo en una licuadora o con una batidora de inmersión. Dejar reposar la masa de las crepes a temperatura ambiente durante 20 minutos.",
+        "Agrega aceite en aerosol a una sartén antiadherente de 10 pulgadas para saltear a fuego medio. Deja que la sartén se caliente hasta que una gota de agua chisporrotee en el fondo de la sartén.",
+        "Vierta 1/4 de taza de la masa para crepes para cubrir una capa fina del fondo de la sartén. Deje que los crepes se cocinen hasta que los bordes comiencen a dorarse. Con una espátula, dé vuelta el crepe y continúe cocinando durante otro minuto. Deslice el crepe sobre un plato y continúe con este proceso para hacer 8 crepes.",
+        "Cocine al vapor los floretes de brócoli en el microondas o en una cacerola con 2,5 cm de agua. Cocine al vapor hasta que los floretes estén tiernos.",
+        "Agrega aceite en aerosol a una sartén antiadherente a fuego medio-alto. Saltea la cebolla y el jamón hasta que la cebolla esté blanda y comience a caramelizarse.",
+        "Añade el brócoli al vapor y, utilizando una espátula, córtalo en trozos pequeños y revuélvelo con el jamón y las cebollas.",
+        "En un bol pequeño, mezcle las claras de huevo, la crema descremada y la pimienta. Agregue la mezcla y el queso parmesano a las verduras y revuelva.",
+        "Rellena y enrolla cada crepe con 1/2 taza de huevo revuelto y verduras."
+    ],
+    "tags": [
+        "High in Fiber",
+        "French",
+        "Breakfast and Brunch",
+        "Foodie",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "8g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "110mg",
+        "sodium": "445mg",
+        "total_carbohydrate": "31g",
+        "fiber": "6g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/savory-crepes"
+}

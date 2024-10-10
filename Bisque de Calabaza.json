@@ -1,0 +1,113 @@
+{
+    "title": "Bisque de Calabaza",
+    "keywords": "Foodie,Holidays & Entertaining,Lunch,Soup",
+    "prep_time": "PT10M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Soup"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/pumpkin-bisque-Nov14.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "cebollino fresco (picado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "semillas de calabaza",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "mitad y mitad sin grasa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "calabaza enlatada",
+            "us_amount": "15 oz",
+            "metric_amount": "425 ml"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta de cayena",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cilantro molido",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "polvo de curry",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "cebolla(s) (picadas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sustituto de azúcar bajo en calorías",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pimienta negra (preferiblemente recién molida)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "En una cacerola grande, calienta el aceite a fuego medio. Agrega la cebolla y saltea durante 5 a 7 minutos, hasta que esté tierna. Agrega el ajo, el curry en polvo, el cilantro, la pimienta de cayena, la sal y la pimienta y saltea durante 1 minuto.",
+        "Añade el caldo y deja que hierva. Baja el fuego y deja cocinar a fuego lento, sin tapar, durante 20 minutos.",
+        "Añade la calabaza y deja hervir a fuego lento durante 10 minutos. Utiliza una batidora de inmersión para procesar la sopa hasta que quede suave. O añade con cuidado la sopa caliente (en tandas) a una batidora y procesa hasta que quede suave; devuelve la sopa a la olla.",
+        "Añade la crema de leche y la stevia como edulcorante y cocina a fuego lento durante 2 minutos. Vierte la mezcla en tazones individuales. Decora cada tazón con pizcas generosas de semillas de calabaza y cebollino."
+    ],
+    "tags": [
+        "French",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Soup"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "5g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "390mg",
+        "total_carbohydrate": "14g",
+        "fiber": "3g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pumpkin-bisque"
+}

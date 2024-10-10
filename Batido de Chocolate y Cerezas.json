@@ -1,0 +1,72 @@
+{
+    "title": "Batido de Chocolate y Cerezas",
+    "keywords": "Beverages",
+    "prep_time": "PT5M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Beverages"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2153_2.2%20Chocolate%20Cherry%20Smoothie.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "Cerezas dulces oscuras congeladas (sin azúcar añadido)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Splenda® Edulcorante granulado Monk Fruit",
+            "us_amount": "3 packet",
+            "metric_amount": "3 packet"
+        },
+        {
+            "name": "cacao en polvo sin azúcar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "leche de almendras sin azúcar",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Proteína en polvo de vainilla (o chocolate)",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "semillas de chia",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "hielo",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "En una licuadora, agrega las cerezas, el endulzante Splenda Monk Fruit, el cacao en polvo, la leche de frutos secos sin azúcar y la proteína en polvo, si la usas. Licúa a velocidad alta hasta que quede una mezcla suave y cremosa. Si es necesario, agrega un poco más de leche de frutos secos. Prueba el nivel de dulzura y agrega otro paquete de endulzante Monk Fruit, si lo deseas. Agrega hielo y vuelve a mezclar hasta que quede una mezcla suave.",
+        "Añade las semillas de chía y bate hasta que quede todo en la licuadora. Vierte el batido en dos vasos.",
+        "¡Espolvorea tus batidos con una pizca de cacao en polvo y disfrútalos!",
+        "NOTA: Sustituya las cerezas por fresas para preparar un batido de chocolate y fresas. Para preparar las comidas con anticipación para la semana, coloque los ingredientes para el batido, a excepción de la leche de frutos secos, en una bolsa de plástico y guárdelos en el congelador. Por la mañana, vacíe el contenido en la licuadora, agregue la leche y licue hasta que quede una mezcla homogénea."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Beverages"
+    ],
+    "nutrition": {
+        "calories": "130",
+        "total_fat": "3g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "100mg",
+        "total_carbohydrate": "18g",
+        "fiber": "5g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chocolate-cherry-smoothie"
+}

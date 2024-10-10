@@ -1,0 +1,101 @@
+{
+    "title": "Ensalada Panzanella Italiana Clásica",
+    "keywords": "Dinner,Holidays & Entertaining,Lunch,Salads,Sides,Vegetarian",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/nov12_panzanella_salad_istock20619682_279x200.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "tomates medianos (cortados en cubos de 1 pulgada (o 2 tazas de tomates cherry, cortados por la mitad))",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "sal marina fina",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Pan italiano (de buena calidad, como la ciabatta multigrano)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "pepino(s) (cortado a lo largo en cuartos y en rodajas finas (aproximadamente la mitad de un pepino inglés))",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "apio (cortado en rodajas de 1/2 pulgada de grosor)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "Cebolla roja pequeña (cortada por la mitad y en rodajas finas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "vinagre de vino tinto",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "hojas de albahaca fresca (cortadas en tiras)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "hojas planas de perejil italiano (picadas en trozos grandes)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque los tomates en una ensaladera grande y espolvoree con sal. Deje reposar durante 5 minutos.",
+        "Trocee el pan y añádalo a los tomates. Agregue el resto de los ingredientes de la ensalada y mezcle bien."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Italian",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "8g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "455mg",
+        "total_carbohydrate": "20g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/classic-italian-panzanella-salad"
+}

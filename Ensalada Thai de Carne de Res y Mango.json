@@ -1,0 +1,91 @@
+{
+    "title": "Ensalada Thai de Carne de Res y Mango",
+    "keywords": "Salads,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Salads",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_877_ThaiBeefAndMangoSalad_SixOClockScramble_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Lima (solo jugo (1/3–1/2 taza))",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "azúcar morena",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "salsa de soja (reducida en sodio, (use salsa de trigo o sin gluten si es necesario))",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "aceite vegetal",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Bistec de solomillo magro (o use pechugas de pollo deshuesadas y sin piel o tiras de pollo o bistec sin carne)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "cebolla verde (cebolleta) (cortada en rodajas finas)",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "zanahorias ralladas (cortadas en tiritas)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "cilantro fresco o albahaca (picada (opcional))",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "mango (pelado y cortado en cubitos)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "Hojas de lechuga Boston (cortadas en trozos del tamaño de un bocado)",
+            "us_amount": "1 head",
+            "metric_amount": "1 head"
+        }
+    ],
+    "instructions": [
+        "HACER CON ANTICIPACIÓN O DELEGAR: Preparar la marinada y dejar marinar la carne en el refrigerador, cortar las cebolletas en rodajas, rallar la zanahoria, si es necesario pelar y cortar en cubitos el mango y desmenuzar la lechuga.",
+        "En un bol mediano, mezcle el jugo de limón, el azúcar, la salsa de soja y el aceite. Coloque el filete en un plato plano con bordes. Vierta la mitad de la marinada sobre él y dé vuelta la carne para cubrirla bien. Déjela a un lado y reserve el resto de la marinada para usarla como aderezo para la ensalada.",
+        "En una ensaladera, combine las cebolletas, las zanahorias, el cilantro o la albahaca (opcional), el mango y la lechuga.",
+        "(Calienta los panecillos ahora, si los vas a servir). Calienta una sartén pesada a fuego medio-alto. Retira el filete de la marinada, desecha la marinada y cocina durante unos 5 minutos por lado hasta que esté cocido al punto deseado. Si la parte exterior del filete se cocina demasiado rápido, reduce el fuego y cubre parcialmente la sartén. Transfiere el filete a una tabla de cortar, deja que se enfríe un poco y córtalo a lo largo de la fibra en tiras de 1/2 pulgada de ancho. Adereza la ensalada con la marinada reservada (no la marinada que usaste para el filete) y sirve la ensalada cubierta con rodajas de filete.",
+        "POTENCIADOR DE SABOR Agregue 1/2 cucharadita de salsa de ajo y chile asiático a la marinada y/o sirva la ensalada con salsa de chile dulce tailandesa. Rocíe la ensalada con jugo de lima fresco y maní picado."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Asian",
+        "Salads",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "275",
+        "total_fat": "10g",
+        "saturated_fat": "2.6g",
+        "trans_fat": "0.1g",
+        "cholesterol": "40mg",
+        "sodium": "450mg",
+        "total_carbohydrate": "22g",
+        "fiber": "3g",
+        "sugar": "16g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/thai-beef-and-mango-salad"
+}

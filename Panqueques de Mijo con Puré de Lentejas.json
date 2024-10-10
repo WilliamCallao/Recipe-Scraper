@@ -1,0 +1,147 @@
+{
+    "title": "Panqueques de Mijo con Puré de Lentejas",
+    "keywords": "Vegetarian,Lunch,Breakfast and Brunch,Dinner,Foodie,Budget Friendly",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Lunch",
+        "Breakfast and Brunch",
+        "Dinner",
+        "Foodie",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_359_Millet_Pancakes_with_Lentil_Puree_MG_0890-Edit-%28ZF-5661-35964-1-085%29_02282018.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de sésamo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cebolla pequeña (cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "jengibre fresco (rallado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Salsa de ajo y chile tailandés (u otra salsa picante asiática)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "lentejas rojas",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "caldo de verduras bajo en sodio (bajo en sodio)",
+            "us_amount": "3 1/2 cup",
+            "metric_amount": "828 ml"
+        },
+        {
+            "name": "salsa de soja (baja en sodio)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Cebolleta (reservada de los panqueques)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "claras de huevo (1/3)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "bebida de leche de coco sin azúcar",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "Salsa de ajo y chile tailandés (u otra salsa picante asiática)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "aceite de sésamo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Maicena",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "salsa de soja (baja en sodio)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "mijo entero cocido (ver nota del chef)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "cebolla verde (cebolleta) (picada (reserva 1/4 taza para el puré de lentejas))",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Añade el aceite de sésamo a una cacerola a fuego medio. Saltea las cebollas, el ajo y el jengibre hasta que las cebollas se vuelvan transparentes (aproximadamente 4 minutos).",
+        "Añade la salsa de ajo y chile tailandés y las lentejas. Revuelve para cubrirlas con aceite.",
+        "Añade el caldo y la salsa de soja. Lleva a ebullición y reduce el fuego a fuego lento. Deja cocinar a fuego lento, tapado, durante 20 minutos.",
+        "Haga puré las lentejas usando una licuadora de inmersión o un procesador de alimentos y agregue las cebolletas.",
+        "Mientras se cocinan las lentejas, bata el huevo, las claras de huevo, la leche de coco, la salsa de ajo y chile tailandés y el aceite de sésamo hasta que quede una mezcla homogénea.",
+        "Batir la maicena hasta que no queden grumos. Incorporar la salsa de soja, el mijo cocido y todas las cebolletas, menos 1/4 de taza.",
+        "Agrega el aceite en aerosol a una sartén antiadherente a fuego medio alto. Con una medida de 1/4 de taza, coloca la masa de panqueques en la sartén y usa una espátula de goma para aplanarla. Deja cocinar durante 3 minutos o hasta que esté muy dorado. Da vuelta el panqueque y cocínalo otros 3 minutos o hasta que esté muy dorado.",
+        "Repita el procedimiento para los 7 panqueques restantes, rociando la sartén entre cada panqueque.",
+        "Utilice panqueques para mojar en puré de lentejas."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Vegetarian",
+        "Lunch",
+        "Breakfast and Brunch",
+        "Dinner",
+        "Foodie",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "3g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "255mg",
+        "total_carbohydrate": "44g",
+        "fiber": "12g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/millet-pancakes-lentil-puree"
+}

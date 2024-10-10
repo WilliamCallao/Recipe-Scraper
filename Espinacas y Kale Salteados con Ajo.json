@@ -1,0 +1,78 @@
+{
+    "title": "Espinacas y Kale Salteados con Ajo",
+    "keywords": "Gluten-Free,Vegetarian,Quick & Easy,Sides",
+    "prep_time": "PT5M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Gluten-Free",
+        "Vegetarian",
+        "Quick & Easy",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/251-diabetic-garlic-sauteed-spinach-kale_AdobeStock387104730_112420.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "ajo (picado)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "espinaca bebé",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "col rizada (picada)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Vinagre de sidra de manzana",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite de oliva en una olla grande a fuego medio-alto. Agrega el ajo y saltea durante 30 segundos.",
+        "Añade el resto de los ingredientes a la olla; mezcla bien.",
+        "Reduce el fuego, tapa y cocina durante 5-7 minutos."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Veggie Rich",
+        "Gluten-Free",
+        "Vegetarian",
+        "Quick & Easy",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "75",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "185mg",
+        "total_carbohydrate": "7g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/garlic-sauteed-spinach-and-kale"
+}

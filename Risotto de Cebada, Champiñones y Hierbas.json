@@ -1,0 +1,100 @@
+{
+    "title": "Risotto de Cebada, Champiñones y Hierbas",
+    "keywords": "Sides,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/2015-diabetic-barley-mushroom-herb-risotto_diabetes-cookbook_030121.jpg",
+        "Mushroom",
+        "and Herb Risotto\" loading=\"lazy\" />"
+    ],
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "caldo de pollo bajo en sodio",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "aceite de oliva (uso dividido)",
+            "us_amount": "3 tsp",
+            "metric_amount": "15 g"
+        },
+        {
+            "name": "cebolla pequeña (cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebada perlada",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "champiñones en rodajas",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Perejil fresco",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "cebollino fresco",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "queso parmesano rallado",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "En una cacerola, pon a hervir a fuego medio el caldo de pollo y el agua. Reserva, pero mantén caliente a fuego lento.",
+        "En una cacerola mediana aparte, agrega 1 cucharadita de aceite de oliva a fuego medio. Saltea la cebolla hasta que esté transparente. Agrega la cebada y saltea durante 2 minutos.",
+        "Vierta 1/2 taza de caldo caliente en la mezcla de cebada y revuelva constantemente hasta que el líquido se absorba. Continúe agregando caldo, una 1/2 taza a la vez, hasta que la cebada esté cocida y tenga una textura cremosa.",
+        "Añade 2 cucharaditas de aceite de oliva a una sartén mediana a fuego medio-alto. Añade los champiñones y saltéalos hasta que se haya evaporado todo el líquido de los champiñones y estos comiencen a dorarse. Añade el ajo y saltéalos durante 1 minuto.",
+        "Agregue los hongos salteados y el ajo a la mezcla de cebada; luego, agregue el perejil, las cebolletas, la pimienta y el queso parmesano. Sirva inmediatamente.",
+        "Si el risotto de cebada queda demasiado espeso, agregue más caldo caliente, revolviendo hasta que quede cremoso."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "4mg",
+        "sodium": "430mg",
+        "total_carbohydrate": "32g",
+        "fiber": "6g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/barley-mushroom-and-herb-risotto"
+}

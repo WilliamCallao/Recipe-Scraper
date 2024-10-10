@@ -1,0 +1,99 @@
+{
+    "title": "Sopa Cremosa de Frijoles Blancos con Albahaca y Aceite de Oliva",
+    "keywords": "Dinner,Sides,Vegetarian,Lunch",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Sides",
+        "Vegetarian",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/CreamyWhiteBeanSoupwithBasilandOliveOil_Recid_203__453284397_04112018%20.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla mediana (picada)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "tomate maduro (picado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Orégano seco (seco)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "frijoles cannellini (frasco de 20 onzas, escurridos y enjuagados)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "caldo de verduras bajo en sodio (bajo en sodio)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "hojas de albahaca fresca (picadas)",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "Jugo de 1 limón fresco",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Sal marina al gusto",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite en una cacerola grande a fuego medio. Saltea la cebolla y el ajo durante 1 minuto, revolviendo con frecuencia.",
+        "Añade el tomate, el orégano y las hojuelas de chile trituradas. Sigue salteando durante un minuto más. Añade los frijoles y el caldo. Lleva a ebullición, reduce el fuego y cocina sin tapar durante 35 minutos hasta que la mezcla quede suave y cremosa.",
+        "Añade la albahaca y el jugo de limón, sazona al gusto con sal."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Comfort Food",
+        "Italian",
+        "Dinner",
+        "Sides",
+        "Vegetarian",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "115",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "18g",
+        "fiber": "6g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/creamy-white-bean-soup-basil-and-olive-oil"
+}

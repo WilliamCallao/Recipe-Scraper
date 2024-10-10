@@ -1,0 +1,106 @@
+{
+    "title": "Huevos Benedict Florentino",
+    "keywords": "Vegetarian,Foodie,Breakfast and Brunch",
+    "prep_time": "PT15M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Vegetarian",
+        "Foodie",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/231-Eggs-Benedict-Florentine-91696231_04112018%20.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "espinaca bebé",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "huevos (escalfados)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "yema",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "caldo de verduras bajo en sodio",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "yogur natural sin grasa",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Una pizca de pimienta negra molida",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Muffins ingleses de trigo integral (partidos y ligeramente tostados)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        }
+    ],
+    "instructions": [
+        "Para escalfar los huevos, ponga a hervir unos 7,5 cm de agua en una sartén grande y poco profunda a fuego alto. Apague el fuego y agregue los huevos de inmediato, rompiéndolos directamente en el agua. Tape inmediatamente la sartén con una tapa hermética. Deje que los huevos se cocinen sin tocarlos hasta que estén listos como desee, aproximadamente 4 minutos. Retire los huevos con una espátula perforada o una cuchara con ranuras grande y escúrralos sobre toallas de papel.",
+        "Agrega el aceite en aerosol y el aceite a una sartén a fuego medio. Saltea la espinaca hasta que se ablande. Agrega el ajo y saltea durante 1 minuto más.",
+        "Prepare una cacerola para baño María con un recipiente resistente al calor. Agregue la yema de huevo, el jugo de limón y el caldo de verduras, batiendo constantemente hasta que esté caliente pero sin cuajar. Retire del fuego y agregue el yogur, la sal (opcional) y la pimienta.",
+        "Cubre cada mitad de panecillo inglés con 1/4 de la mezcla de espinacas, un huevo escalfado y 2 cucharadas de salsa."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "High in Fiber",
+        "French",
+        "Comfort Food",
+        "Vegetarian",
+        "Foodie",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "8g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "230mg",
+        "sodium": "330mg",
+        "total_carbohydrate": "16g",
+        "fiber": "5g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/eggs-benedict-florentine"
+}

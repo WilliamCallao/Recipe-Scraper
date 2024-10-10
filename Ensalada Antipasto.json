@@ -1,0 +1,108 @@
+{
+    "title": "Ensalada Antipasto",
+    "keywords": "Dinner,Gluten-Free,No Cook,Salads,Lunch,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Gluten-Free",
+        "No Cook",
+        "Salads",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_40_Antipasto_Salad_%20PNC_022318_MG_2179-%28ZF-5661-35964-1-110%29.jpg_022318.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "lechuga romana picada",
+            "us_amount": "1 (10-oz) bag",
+            "metric_amount": "1 (10-oz) bag"
+        },
+        {
+            "name": "pavo deli (cortado en tiras)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "queso provolone bajo en grasa (cortado en tiras de 1/2 pulgada)",
+            "us_amount": "2 slice",
+            "metric_amount": "2 slice"
+        },
+        {
+            "name": "Queso parmesano (recién rallado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aceitunas verdes (sin hueso y picadas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "tomates secados al sol",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pimientos rojos asados ​​en frasco (cortados en tiras de 1/2 pulgada)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "vinagre de vino tinto",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "mostaza de dijon",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "chalotes (picados)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "En una ensaladera, mezcle la lechuga, el pavo, los quesos, las aceitunas, los tomates y los pimientos rojos.",
+        "En un bol pequeño, mezcle el vinagre, el aceite, la mostaza, la pimienta y las chalotas. Vierta sobre la ensalada y revuelva para cubrir."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Italian",
+        "Mediterranean",
+        "Dinner",
+        "Gluten-Free",
+        "No Cook",
+        "Salads",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "11g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "390mg",
+        "total_carbohydrate": "9g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/antipasto-salad"
+}

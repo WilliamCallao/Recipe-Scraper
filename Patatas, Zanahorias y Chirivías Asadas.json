@@ -1,0 +1,80 @@
+{
+    "title": "Patatas, Zanahorias y Chirivías Asadas",
+    "keywords": "Sides,Vegetarian,Gluten-Free,Holidays & Entertaining",
+    "prep_time": "PT25M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Sides",
+        "Vegetarian",
+        "Gluten-Free",
+        "Holidays & Entertaining"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/oct13_potato-carrot-parsnips_279x200.jpg",
+        "Carrots and Parsnips\" loading=\"lazy\" />"
+    ],
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "zanahorias grandes (2-3/4 onzas cada una, peladas, con los extremos recortados, cortadas en rodajas diagonales)",
+            "us_amount": "5",
+            "metric_amount": "5"
+        },
+        {
+            "name": "chirivías grandes (de 5 onzas cada una, peladas, con los extremos recortados y cortadas en diagonal)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "batatas (5 onzas cada una, peladas y cortadas en cubos medianos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Sal kosher",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "hierbas frescas (tomillo, orégano, salvia o romero)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Pimienta negra recién molida, al gusto",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Calienta el horno a 450 grados F. En un recipiente grande, combina las verduras con el aceite, la sal y las hierbas. Revuelve para cubrirlas.",
+        "Coloca las verduras en dos bandejas para hornear forradas con papel pergamino. Ásalas hasta que estén tiernas por dentro y doradas por fuera, aproximadamente entre 20 y 30 minutos. Da vuelta las verduras a mitad de la cocción.",
+        "Servir caliente o a temperatura ambiente."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Sides",
+        "Vegetarian",
+        "Gluten-Free",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "3g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "16g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-potatoes-carrots-and-parsnips"
+}

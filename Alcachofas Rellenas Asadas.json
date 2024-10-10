@@ -1,0 +1,90 @@
+{
+    "title": "Alcachofas Rellenas Asadas",
+    "keywords": "Foodie,Vegetarian,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Foodie",
+        "Vegetarian",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_458_Roasted_Stuffed_Artichokes_02282018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "agua",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "alcachofas frescas",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "pan de trigo entero",
+            "us_amount": "2 slice",
+            "metric_amount": "2 slice"
+        },
+        {
+            "name": "ajo",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "Queso parmesano (recién rallado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Perejil fresco (picado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375 grados F.",
+        "Añade agua y jugo de limón a una olla grande y deja hervir.",
+        "Quita la primera capa de las hojas exteriores de la alcachofa y córtala por la mitad a lo largo. Saca los pelos del centro (el nódulo), dejando la pulpa de la alcachofa intacta. Colócala en agua hirviendo durante 5 minutos.",
+        "Retire las alcachofas del agua hirviendo y colóquelas con el lado cortado hacia arriba en una fuente para hornear.",
+        "Añade el pan integral, el ajo, el queso parmesano, el perejil y la pimienta negra molida a un procesador de alimentos y mezcla hasta formar migas. Rocía con el aceite de oliva mientras mezclas para hacer el relleno.",
+        "Divida el relleno uniformemente entre cada mitad de alcachofa, presionándolo contra la misma.",
+        "Colóquelo en la rejilla central del horno y hornee durante 30 minutos o hasta que la cobertura esté dorada."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Foodie",
+        "Vegetarian",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "125",
+        "total_fat": "5g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "185mg",
+        "total_carbohydrate": "16g",
+        "fiber": "8g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-stuffed-artichokes"
+}

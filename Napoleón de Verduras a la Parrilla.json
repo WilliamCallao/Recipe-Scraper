@@ -1,0 +1,114 @@
+{
+    "title": "Napoleón de Verduras a la Parrilla",
+    "keywords": "Sides,Vegetarian,Dinner,Foodie",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Vegetarian",
+        "Dinner",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/295-diabetic-grilled-vegetable-napoleon_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Calabacín mediano (cortado a lo largo en 4 rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Calabaza amarilla mediana (cortada a lo largo en 4 rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Pimiento morrón naranja (cortado en 4 rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "berenjena pequeña (cortada a lo largo en 4 rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "queso de cabra (chevre) (ablandado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Yogur griego natural sin grasa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "ajo (picado o rallado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Orégano fresco picado",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "albahaca fresca picada",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente una parrilla interior o exterior.",
+        "En un tazón grande, mezcle el aceite de oliva, el vinagre balsámico y la pimienta negra molida.",
+        "Agregue rodajas de calabacín, calabaza, pimiento morrón y berenjena a la marinada y deje reposar durante 5 minutos.",
+        "Asa las verduras unos 2-3 minutos por ambos lados.",
+        "Una vez asados, corta el calabacín, la berenjena y la calabaza por la mitad a lo ancho, de modo que tengas 8 trozos de cada uno y déjalos enfriar.",
+        "En un tazón mediano, mezcle el queso de cabra, el yogur, el ajo, el orégano y la pimienta negra molida.",
+        "Coloque 1 trozo de berenjena en un plato, cubra con 1 cucharada colmada de mezcla de queso, cubra con dos rodajas de calabacín, luego cubra con otra cucharada colmada de mezcla de queso. Cubra con 1 rodaja de pimiento morrón y luego otra cucharada colmada de mezcla de queso. Cubra con dos rodajas de calabaza amarilla, luego otra cucharada colmada de mezcla de queso y luego la otra rodaja de berenjena. Espolvoree con 1 cucharada de albahaca fresca picada. Repita el proceso para tres Napoleones más."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "French",
+        "Grilling",
+        "Sides",
+        "Vegetarian",
+        "Dinner",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "7g",
+        "saturated_fat": "2.8g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "80mg",
+        "total_carbohydrate": "19g",
+        "fiber": "4g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-vegetable-napoleon"
+}

@@ -1,0 +1,130 @@
+{
+    "title": "Souvlaki de Bistec a la Parrilla",
+    "keywords": "Lunch,Foodie,Dinner",
+    "prep_time": "PT40M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Lunch",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/291-GrilledSteakSouvlaki_512597388_04112018%20.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "brochetas de bambú",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "filete magro (como un solomillo o un filete de ternera), cortado en cubos de 2 pulgadas)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "Orégano seco (seco)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "vinagre de vino tinto",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Pitas de bolsillo de grano entero (cortadas por la mitad)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Limón (rallado y exprimido (1/4 taza de jugo de limón, 1 cucharada de ralladura))",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "perejil de hoja plana",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Orégano fresco",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "hojas de menta fresca",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Remoje las brochetas de bambú en agua tibia durante al menos 30 minutos.",
+        "En un bol grande, mezcle el orégano, el ajo, la pimienta negra molida, el aceite de oliva, el jugo de limón y el vinagre de vino tinto. Agregue el filete cortado en cubos y revuelva para cubrirlo.",
+        "Deje marinar durante 30 minutos (se puede preparar con anticipación y dejar marinar hasta 24 horas en el refrigerador). Mientras se marina el filete, prepare una parrilla para uso interior o exterior.",
+        "Ensarte el filete marinado en 8 brochetas y áselas por todos los lados (4 minutos de cada lado). Pincele las brochetas con el resto de la marinada mientras las asa, utilizando toda la marinada.",
+        "Asa los panes pita durante 30 segundos de cada lado.",
+        "En una licuadora o procesador de alimentos, mezcle todos los ingredientes de la salsa.",
+        "Saque el filete de las dos brochetas y colóquelo dentro de la mitad de un pan de pita. Repita el procedimiento con las otras tres mitades de pan de pita y cubra con 2 cucharadas de salsa."
+    ],
+    "tags": [
+        "Mediterranean",
+        "Grilling",
+        "Lunch",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "340",
+        "total_fat": "17g",
+        "saturated_fat": "3.5g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "370mg",
+        "total_carbohydrate": "22g",
+        "fiber": "4g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-steak-souvlaki"
+}

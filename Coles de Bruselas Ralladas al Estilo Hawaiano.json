@@ -1,0 +1,79 @@
+{
+    "title": "Coles de Bruselas Ralladas al Estilo Hawaiano",
+    "keywords": "Gluten-Free,Quick & Easy,Sides,Vegan,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Gluten-Free",
+        "Quick & Easy",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/diabeticHawaiian-Shaved-Brussel-Sprouts_MFTK-comfort-favorites_040219.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "coles de Bruselas frescas",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "azúcar morena",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Trozos de piña en jugo (bien escurridos)",
+            "us_amount": "1 (8 oz) can",
+            "metric_amount": "1 (8 oz) can"
+        },
+        {
+            "name": "nueces de macadamia picadas",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Corta la parte inferior de los corazones de las coles de Bruselas, luego córtalas en rodajas muy finas con un cuchillo o en rodajas en un procesador de alimentos.",
+        "En una sartén grande a fuego medio, calienta el aceite hasta que esté caliente. Saltea las coles de Bruselas durante 5 a 7 minutos, o hasta que comiencen a dorarse, revolviendo de vez en cuando. Para que las coles de Bruselas queden más crujientes, saltéalas un par de minutos más.",
+        "Incorpore el azúcar moreno, la sal, la pimienta y la piña. Cocine durante 3 a 5 minutos o hasta que esté bien caliente. Espolvoree con las nueces de macadamia y sirva."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Gluten-Free",
+        "Quick & Easy",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "14g",
+        "fiber": "3g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/hawaiian-shaved-brussels-sprouts"
+}

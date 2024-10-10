@@ -1,0 +1,90 @@
+{
+    "title": "Dedos de Pollo para Niños",
+    "keywords": "Quick & Easy,Dinner,Gluten-Free",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Quick & Easy",
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/332-diabetic-kid-friendly-chicken-fingers_Diabetes-Ckbk_DFMayJun19_040219.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "harina de maíz",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "tomillo seco",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "huevo",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "clara de huevo",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salsa picante",
+            "us_amount": "1 dash",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "filetes de pollo deshuesados ​​y sin piel (cortados en 10 tiras)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F. Rocíe una bandeja para hornear con aceite en aerosol.",
+        "En un plato poco profundo, mezcle la harina de maíz, el ajo en polvo, la pimienta negra y el tomillo.",
+        "En otra fuente para hornear poco profunda, bata el huevo, las claras de huevo y la salsa picante.",
+        "Sumerge una tira de pechuga de pollo en la mezcla de huevo y luego sumérgela en la mezcla de harina de maíz. Cúbrela bien y colócala en una bandeja para hornear. Repite el procedimiento con el resto de las tiras de pollo.",
+        "Hornee durante 30 minutos o hasta que esté listo (temperatura interna de 165 grados F). Dé vuelta los trozos de pollo a la mitad del tiempo de cocción."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Kid Friendly",
+        "Quick & Easy",
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "3.5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "90mg",
+        "sodium": "75mg",
+        "total_carbohydrate": "17g",
+        "fiber": "1g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "23g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/kid-friendly-chicken-fingers"
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Estofado de Tilapia con Pimientos Verdes",
+    "keywords": "Main Dish,Dinner,Lunch",
+    "prep_time": "PT40M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Main Dish",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_878_Tilapia%20stew%20with%20green%20peppers_4IngredientCookbook_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pimiento verde mediano (picado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Tomates guisados ​​en lata con condimentos italianos",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "tilapia (enjuagada y cortada en trozos de 1 pulgada)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "condimento de mariscos",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Coloque una cacerola grande a fuego medio hasta que se caliente. Rocíe la cacerola con aceite en aerosol antiadherente, agregue el pimiento morrón y cocine durante 5 minutos o hasta que comience a dorarse levemente, revolviendo con frecuencia.",
+        "Añade los tomates y el agua, aumenta el fuego y deja que hierva. Reduce el fuego, tapa bien y cocina a fuego lento hasta que los tomates estén tiernos. Con el dorso de una cuchara, desmenuza los trozos más grandes de tomate.",
+        "Añade el pescado y los condimentos y revuelve con mucho cuidado. Aumenta el fuego y deja que hierva. Reduce el fuego, tapa bien y cocina a fuego lento durante 3 minutos o hasta que el pescado esté opaco en el centro. Retira del fuego y deja reposar, tapado, durante 10 minutos para que se desarrollen los sabores."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Comfort Food",
+        "Main Dish",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "2g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "55mg",
+        "sodium": "350mg",
+        "total_carbohydrate": "10g",
+        "fiber": "2g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tilapia-stew-green-peppers"
+}

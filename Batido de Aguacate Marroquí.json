@@ -1,0 +1,63 @@
+{
+    "title": "Batido de Aguacate Marroquí",
+    "keywords": "Vegan,Gluten-Free,Foodie,Beverages,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegan",
+        "Gluten-Free",
+        "Foodie",
+        "Beverages",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Diabetic-moroccan-avocado-smoothie_Med-ckbk_DFMayJun19_040219.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aguacate maduro (sin hueso y pelado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "plátano demasiado maduro",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "leche de almendras sin azúcar o jugo de naranja",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "hielo",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Coloca el aguacate, el plátano, la leche y el hielo en una licuadora. Licúa hasta que no queden trozos de aguacate y la mezcla quede homogénea y espumosa. Divide en vasos fríos y disfruta."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Mediterranean",
+        "Vegan",
+        "Gluten-Free",
+        "Foodie",
+        "Beverages",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "6g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "35mg",
+        "total_carbohydrate": "11g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/moroccan-avocado-smoothie"
+}

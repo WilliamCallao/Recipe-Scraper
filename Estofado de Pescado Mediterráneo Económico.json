@@ -1,0 +1,108 @@
+{
+    "title": "Estofado de Pescado Mediterráneo Económico",
+    "keywords": "Budget Friendly,Dinner,One Pot",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "One Pot"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/novdec13_med_fish_stew_istock11676747_279x200.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla mediana (cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimiento rojo (sin semillas y cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "apio (cortado en cubitos)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "albahaca (seca)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Orégano seco (seco)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "tomate(s) (28 oz, sin sal añadida, triturado)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "caldo de verduras bajo en sodio (bajo en sodio)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "filetes de bacalao (cortados en trozos de 1 pulgada)",
+            "us_amount": "6 oz",
+            "metric_amount": "170 ml"
+        },
+        {
+            "name": "Camarones medianos (pelados, desvenados y picados)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "sal (opcional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Añade aceite de oliva a una olla sopera a fuego medio. Agrega la cebolla, el pimiento morrón, el apio, el ajo, la albahaca y el orégano. Saltea hasta que las cebollas comiencen a volverse transparentes.",
+        "Agregue el tomate triturado y el caldo de verduras. Lleve a ebullición y luego reduzca a fuego lento durante 10 minutos o hasta que las verduras estén tiernas.",
+        "Incorpore suavemente el bacalao y los camarones y cocine durante 5 minutos o hasta que los mariscos estén bien cocidos."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Comfort Food",
+        "Mediterranean",
+        "Seafood",
+        "Budget Friendly",
+        "Dinner",
+        "One Pot"
+    ],
+    "nutrition": {
+        "calories": "215",
+        "total_fat": "5g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "475mg",
+        "total_carbohydrate": "19g",
+        "fiber": "6g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-mediterranean-fish-stew"
+}

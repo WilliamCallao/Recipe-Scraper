@@ -1,0 +1,103 @@
+{
+    "title": "Calabazas Rellenas Saladas",
+    "keywords": "Dinner,Holidays & Entertaining,Main Dish,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT70M",
+    "categories": [
+        "Dinner",
+        "Holidays & Entertaining",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1675-diabetic-savory-stuffed-pumpkins_Diabetes-Cookbook_DF_101818_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Calabazas para pastel de azúcar",
+            "us_amount": "4 small (about 1 lb each)",
+            "metric_amount": "4 small (about 1 lb each)"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla(s) (picadas (1/2 taza))",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "Apio (cortado en cubitos pequeños)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "2 large",
+            "metric_amount": "2 large"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "pan integral (en cubitos)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Salchicha de pollo y manzana completamente cocida (cortada en cubitos)",
+            "us_amount": "2 (3-oz) links",
+            "metric_amount": "2 (3-oz) links"
+        },
+        {
+            "name": "Queso parmesano (rallado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pimienta negra molida",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "tomillo fresco (picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375° F. Corte las puntas de las calabazas (guárdelas) y coloque las calabazas con el lado cortado hacia abajo en una fuente para horno de 9 x 13 pulgadas. Vierta el agua sobre las calabazas y hornee durante 30 minutos. Retire las calabazas de la fuente y déjelas a un lado para que se enfríen un poco. Descarte el agua.",
+        "Mientras se cocinan las calabazas, rocíe una sartén pequeña con aceite en aerosol y colóquela a fuego medio. Agregue la cebolla y el apio y saltee durante aproximadamente 7 minutos, hasta que se ablanden; deje enfriar.",
+        "En un bol mediano, combine los ingredientes restantes y mezcle hasta que el pan esté cubierto y haya comenzado a ablandarse. Agregue la mezcla de cebolla y apio.",
+        "Coloque las calabazas con el lado cortado hacia arriba en la fuente para horno y saque con cuidado las semillas, teniendo cuidado de no quitar demasiada pulpa de la calabaza. Divida la mezcla de relleno uniformemente entre las calabazas y cubra con las tapas de calabaza. Hornee durante 30 minutos. Retire las tapas y hornee durante 10 minutos más. Si lo desea, sirva con las tapas."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "7g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "125mg",
+        "sodium": "450mg",
+        "total_carbohydrate": "30g",
+        "fiber": "5g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/savory-stuffed-pumpkins"
+}

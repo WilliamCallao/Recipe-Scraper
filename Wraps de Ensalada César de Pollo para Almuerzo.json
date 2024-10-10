@@ -1,0 +1,69 @@
+{
+    "title": "Wraps de Ensalada César de Pollo para Almuerzo",
+    "keywords": "Sandwiches,Dinner,Lunch,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sandwiches",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/160-diabetic-chicken-caesar-salad-lunch-wraps_Diabetes-Cookbook_DF_101818_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Pollo cocido (cortado en cubitos)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "Aderezo ligero para ensalada César",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Queso parmesano (recién rallado)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "lechuga romana (picada)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "tortillas (de 10 pulgadas, bajas en carbohidratos)",
+            "us_amount": "4 med",
+            "metric_amount": "4 med"
+        }
+    ],
+    "instructions": [
+        "En un recipiente mediano, mezcle todos los ingredientes, excepto las tortillas. Cubra la ensalada de manera uniforme con el aderezo.",
+        "Unta 1 taza colmada de la mezcla de ensalada de pollo sobre la tortilla. Dobla los lados izquierdo y derecho del wrap hacia adentro hasta que se toquen y enrolla desde abajo para formar un wrap.",
+        "Repita el procedimiento para las 3 envolturas restantes."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Italian",
+        "Sandwiches",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "9g",
+        "saturated_fat": "1.8g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "510mg",
+        "total_carbohydrate": "21g",
+        "fiber": "14g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chicken-caesar-salad-lunch-wraps"
+}

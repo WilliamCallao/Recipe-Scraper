@@ -1,0 +1,100 @@
+{
+    "title": "Ensalada Turca de Zanahoria",
+    "keywords": "Vegetarian,Sides,Salads,Lunch,Holidays & Entertaining,Foodie,Quick & Easy,No Cook",
+    "prep_time": "PT45M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Salads",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Quick & Easy",
+        "No Cook"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/turkish-carrot-salad-May15.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cilantro molido",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "grosellas secas",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Almendras fileteadas (tostadas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "manzana (sin pelar y rallada gruesa)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "zanahoria(s) (peladas y ralladas gruesas o cortadas en tiras)",
+            "us_amount": "5",
+            "metric_amount": "5"
+        }
+    ],
+    "instructions": [
+        "En un recipiente grande, combine todos los ingredientes y cubra. Refrigere durante media hora antes de servir. Deje que la ensalada alcance la temperatura ambiente y sirva."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "Mediterranean",
+        "Vegetarian",
+        "Sides",
+        "Salads",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Quick & Easy",
+        "No Cook"
+    ],
+    "nutrition": {
+        "calories": "105",
+        "total_fat": "5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "35mg",
+        "total_carbohydrate": "15g",
+        "fiber": "3g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/turkish-carrot-salad"
+}

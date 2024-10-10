@@ -1,0 +1,102 @@
+{
+    "title": "Ensalada de Farro, Edamame y Arándanos Secos",
+    "keywords": "Quick & Easy,Salads,Vegan,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Quick & Easy",
+        "Salads",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/RecId_694_2Step_FarroEdamameAndDriedCranberrySalad_022618.jpg",
+        "Edamame",
+        "And Dried Cranberry Salad\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "farro (perlado)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "edamame fresco sin cáscara",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "apio (picado)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cebolla roja (cortada en cubitos)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "nueces (picadas)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "arándanos (secos)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "cilantro (cilantro fresco o perejil, picado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ralladura de limón",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "azúcar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Cocine el farro según las instrucciones del paquete, escúrralo en un colador de malla fina, páselo bajo agua fría para enfriarlo rápidamente y sacuda el exceso de líquido.",
+        "Colóquelo en un bol con el resto de los ingredientes y revuelva bien."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Mediterranean",
+        "Quick & Easy",
+        "Salads",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "375",
+        "total_fat": "19g",
+        "saturated_fat": "1.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "15mg",
+        "total_carbohydrate": "44g",
+        "fiber": "8g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/farro-edamame-and-dried-cranberry-salad"
+}

@@ -1,0 +1,105 @@
+{
+    "title": "Pollo Barbacoa al Horno",
+    "keywords": "Holidays & Entertaining,Budget Friendly,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Holidays & Entertaining",
+        "Budget Friendly",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_89920273.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "vinagre blanco",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "aceite de maíz",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ketchup",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Salsa Worcestershire",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "cebolla(s) (cortadas en cubitos)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "azúcar moreno ((claro u oscuro))",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "polvo de mostaza",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra molida gruesa",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pechugas de pollo (de 6 onzas cada una, sin hueso y sin piel)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350° F. Combine todos los ingredientes de la salsa en una cacerola pequeña y cocine a fuego lento durante 15 minutos a fuego medio-bajo, revolviendo ocasionalmente.",
+        "Coloque el pollo en una fuente para horno de 9 x 13 pulgadas cubierta con aceite en aerosol. Cubra el pollo de manera uniforme con 1 taza de salsa barbacoa.",
+        "Dejar reposar durante 20 a 25 minutos, rociar con la salsa restante y cocinar otros 5 a 10 minutos (o hasta que el pollo esté tierno y ya no esté rosado)."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Holidays & Entertaining",
+        "Budget Friendly",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "4g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "370mg",
+        "total_carbohydrate": "9g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/oven-barbecued-chicken"
+}

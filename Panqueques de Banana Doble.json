@@ -1,0 +1,62 @@
+{
+    "title": "Panqueques de Banana Doble",
+    "keywords": "Quick & Easy,Breakfast and Brunch",
+    "prep_time": "PT7M",
+    "cook_time": "PT6M",
+    "categories": [
+        "Quick & Easy",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_688_Banana%20Pancakes_4IngredientCookbook_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "plátano(s) (en rodajas finas)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "mezcla para panqueques de trigo sarraceno",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "leche desnatada",
+            "us_amount": "2 3/4 cup",
+            "metric_amount": "651 ml"
+        },
+        {
+            "name": "jarabe para panqueques (light)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Tritura la mitad de las rodajas de plátano y colócalas en un recipiente mediano con la mezcla para panqueques y la leche. Revuelve hasta que se integren.",
+        "Coloque una sartén antiadherente grande a fuego medio hasta que esté caliente. (Para probar, rocíe con unas gotas de agua. Si las gotas de agua “bailan” o saltan en la sartén, está lo suficientemente caliente). Rocíe la sartén con aceite en aerosol antiadherente, agregue dos cucharadas escasas de 1/4 de taza de masa y cocine los panqueques hasta que se inflen y se sequen por los bordes, aproximadamente 1 minuto.",
+        "Dale la vuelta a los panqueques y cocínalos hasta que estén dorados por debajo. Colócalos en un plato y tápalos para mantenerlos calientes.",
+        "Rocíe nuevamente la sartén con aceite en aerosol antiadherente, agregue tres cucharadas de masa de 1/4 de taza y cocine según las instrucciones. Repita el procedimiento con la masa restante.",
+        "Coloque 2 panqueques en cada uno de los 4 platos, cubra con cantidades iguales de rodajas de banana y rocíe uniformemente con el almíbar. Si lo desea, coloque los platos en un horno tibio y agregue los panqueques a medida que se cocinan."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Kid Friendly",
+        "Comfort Food",
+        "Quick & Easy",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "0.5g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "140mg",
+        "total_carbohydrate": "23g",
+        "fiber": "2g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/double-duty-banana-pancakes"
+}

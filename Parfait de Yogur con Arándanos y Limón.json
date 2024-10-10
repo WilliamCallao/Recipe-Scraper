@@ -1,0 +1,82 @@
+{
+    "title": "Parfait de Yogur con Arándanos y Limón",
+    "keywords": "Dessert,Gluten-Free,Breakfast and Brunch,Vegetarian,Snacks,No Cook,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dessert",
+        "Gluten-Free",
+        "Breakfast and Brunch",
+        "Vegetarian",
+        "Snacks",
+        "No Cook",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_92_BlueberryLemonYogurtParfait_iStock16784262_021618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Yogur griego natural sin grasa",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "limones pequeños (rallados y exprimidos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Splenda o stevia",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "arándanos frescos",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "almendras en rodajas",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "En un tazón mediano, mezcle el yogur, la ralladura de limón, el jugo de limón y Splenda o stevia.",
+        "Añade 1/2 taza de yogur a un plato para parfait o un bol pequeño. Cubre con 1/2 taza de arándanos y luego con otro 1/4 de taza de yogur. Espolvorea con 1 cucharada de almendras en rodajas.",
+        "Repita el procedimiento con tres copas más para parfait. Sirva inmediatamente o refrigérelo."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kid Friendly",
+        "Comfort Food",
+        "Dessert",
+        "Gluten-Free",
+        "Breakfast and Brunch",
+        "Vegetarian",
+        "Snacks",
+        "No Cook",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "4g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "65mg",
+        "total_carbohydrate": "21g",
+        "fiber": "2g",
+        "sugar": "14g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/blueberry-lemon-yogurt-parfait"
+}

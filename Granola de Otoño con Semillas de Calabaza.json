@@ -1,0 +1,86 @@
+{
+    "title": "Granola de Otoño con Semillas de Calabaza",
+    "keywords": "Quick & Easy,Snacks,Vegetarian,Breakfast and Brunch,Dessert",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Snacks",
+        "Vegetarian",
+        "Breakfast and Brunch",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/oct13-fall-trail-mix-with-pumpkin-seeds_279x200.jpg",
+    "servings": "14 Servings",
+    "ingredients": [
+        {
+            "name": "néctar de agave",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "Sustituto de azúcar moreno bajo en calorías",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "avena laminada a la antigua usanza",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "nuez moscada molida",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "semillas de calabaza tostadas (pepita)",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "arándanos (secos)",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "nueces (picadas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 300 grados F. Cubra una bandeja para hornear con papel pergamino.",
+        "En un tazón pequeño, mezcle el néctar de agave y la mezcla de azúcar morena Splenda.",
+        "En un recipiente mediano, mezcle todos los ingredientes restantes. Vierta el néctar de agave sobre la mezcla y revuelva para cubrirla.",
+        "Coloca la mezcla de avena en una placa para horno y hornea durante 30 minutos. Deja enfriar y guarda en un recipiente hermético."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Kid Friendly",
+        "Quick & Easy",
+        "Snacks",
+        "Vegetarian",
+        "Breakfast and Brunch",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "6g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "23g",
+        "fiber": "2g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fall-granola-pumpkin-seeds"
+}

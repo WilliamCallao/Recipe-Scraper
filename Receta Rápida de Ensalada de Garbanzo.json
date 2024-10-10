@@ -1,0 +1,100 @@
+{
+    "title": "Receta Rápida de Ensalada de Garbanzo",
+    "keywords": "Easy Pantry Recipes,Gluten-Free,Quick & Easy,Salads,Sides,Snacks,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Gluten-Free",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/jun13_chickpea_salad_istock19161887_279x200.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "garbanzos (15,5 onzas, enjuagados y escurridos)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "Pimiento naranja o rojo mediano (cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimiento verde (cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Cebolla roja pequeña (cortada en cubitos)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "cilantro fresco (picado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "limón (jugo)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimiento rojo (triturado, opcional)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "En una ensaladera mediana, mezcle todos los ingredientes de la ensalada.",
+        "En un tazón pequeño, mezcle los ingredientes del aderezo. Vierta sobre la mezcla de frijoles y revuelva para cubrir."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Low Sodium",
+        "Veggie Rich",
+        "Mediterranean",
+        "Easy Pantry Recipes",
+        "Gluten-Free",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "155",
+        "total_fat": "7g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "95mg",
+        "total_carbohydrate": "19g",
+        "fiber": "5g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/garbanzo-bean-salad-quick-recipe"
+}

@@ -1,0 +1,96 @@
+{
+    "title": "Envoltura de Carne para la Caja de Almuerzo",
+    "keywords": "Cooking for 1 or 2,Lunch,No Cook,Quick & Easy,Sandwiches",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Lunch",
+        "No Cook",
+        "Quick & Easy",
+        "Sandwiches"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2030-diabetic-Tortilla-Beef-Rollup-Lunch-Box_DaVita_040821.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "carne de res asada cocida (en rodajas)",
+            "us_amount": "2 1/2 oz",
+            "metric_amount": "71 ml"
+        },
+        {
+            "name": "cebolla roja",
+            "us_amount": "1 slice",
+            "metric_amount": "1 slice"
+        },
+        {
+            "name": "pimiento rojo (cortado en rodajas finas)",
+            "us_amount": "1/4",
+            "metric_amount": "1/4"
+        },
+        {
+            "name": "pepino",
+            "us_amount": "4 slice",
+            "metric_amount": "4 slice"
+        },
+        {
+            "name": "lechuga romana",
+            "us_amount": "1 leaf",
+            "metric_amount": "1 leaf"
+        },
+        {
+            "name": "tortilla de harina de 6 pulgadas",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "queso crema batido",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "condimento de hierbas sin sal, como Ms. Dash",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "uvas",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "almendras sin sal",
+            "us_amount": "10",
+            "metric_amount": "10"
+        }
+    ],
+    "instructions": [
+        "Coloque el rollito, las uvas y las almendras en un plato o en un recipiente para almuerzo con divisiones.",
+        "Para preparar el rollito de carne, unta queso crema sobre la tortilla. Coloca encima las rodajas de carne asada y las verduras. Espolvorea con condimento de hierbas. Enrolla la tortilla como si fuera un rollo de gelatina y córtala en 4 pedazos."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Kid Friendly",
+        "Cooking for 1 or 2",
+        "Lunch",
+        "No Cook",
+        "Quick & Easy",
+        "Sandwiches"
+    ],
+    "nutrition": {
+        "calories": "400",
+        "total_fat": "16g",
+        "saturated_fat": "2g",
+        "trans_fat": "0.1g",
+        "cholesterol": "65mg",
+        "sodium": "285mg",
+        "total_carbohydrate": "37g",
+        "fiber": "4g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/beef-wrap-lunch-box"
+}

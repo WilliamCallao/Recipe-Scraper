@@ -1,0 +1,103 @@
+{
+    "title": "Chili de Verduras",
+    "keywords": "Dinner,Easy Pantry Recipes,Lunch,Quick & Easy,Sides,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Lunch",
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/576-diabetic-vegetarian-chili_AdobeStock126991574_100719.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de canola",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla mediana (picada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zanahoria(s) (en rodajas)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "pimiento verde (picado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "calabacín (picado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "frijoles rojos (16 onzas, enjuagados y escurridos)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "frijoles negros (16 onzas, enjuagados y escurridos)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "salsa de tomate (15 onzas)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "tomate(s) (14,5 onzas, en jugo, sin sal agregada, cortado en cubitos)",
+            "us_amount": "2 can",
+            "metric_amount": "2 can"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite en una olla grande a fuego medio-alto.",
+        "Añade la cebolla y las zanahorias y saltéalas durante 5 minutos. Añade el pimiento verde y el calabacín y saltéalos otros 2 minutos.",
+        "Agregue el ajo y saltee durante 30 segundos. Agregue el chile en polvo y todos los ingredientes restantes; deje hervir.",
+        "Tapar, reducir el fuego y cocinar a fuego lento durante 30-35 minutos o hasta que las verduras estén tiernas."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Lunch",
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "179",
+        "total_fat": "3g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "492mg",
+        "total_carbohydrate": "33g",
+        "fiber": "10g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/veggie-chili"
+}

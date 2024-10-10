@@ -1,0 +1,101 @@
+{
+    "title": "Ensalada de Naranja, Espárragos y Aguacate",
+    "keywords": "Dinner,Lunch,No Cook,Salads,Sides,Vegan,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "No Cook",
+        "Salads",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/1796-diabetic-Orange-Asparagus-Avacado-Salad_MediterraneanCkbk_050119.jpg",
+        "Asparagus",
+        "and Avocado Salad\" loading=\"lazy\" />"
+    ],
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "espárragos frescos (recortados)",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        },
+        {
+            "name": "lechuga romana (cortada en trozos del tamaño de un bocado)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "naranja grande (pelada y cortada en gajos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "tomate grande (cortado en 12 trozos iguales)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aguacate (sin hueso, pelado y cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "vinagre de vino tinto",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Coloque los espárragos en una olla con agua hirviendo a fuego alto. Reduzca el fuego y cocine a fuego lento hasta que los espárragos estén tiernos, aproximadamente 10 minutos. Escurra los espárragos y sumérjalos inmediatamente en un recipiente con agua helada.",
+        "Divida la lechuga de manera uniforme en seis tazones o platos para ensalada.",
+        "Combine la naranja, el tomate y el aguacate en un tazón mediano.",
+        "En un tazón pequeño, bata el aceite de oliva, el vinagre, la sal y la pimienta hasta que se combinen.",
+        "Escurre los espárragos y agrégalos a la mezcla de naranja. Vierte el aderezo sobre la mezcla de naranja y revuelve suavemente para mezclar. Coloca la mezcla con una cuchara sobre la lechuga romana en los platos y sirve."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Veggie Rich",
+        "Mediterranean",
+        "Dinner",
+        "Lunch",
+        "No Cook",
+        "Salads",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "8g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "60mg",
+        "total_carbohydrate": "9g",
+        "fiber": "4g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/orange-asparagus-and-avocado-salad"
+}

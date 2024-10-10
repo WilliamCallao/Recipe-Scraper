@@ -1,0 +1,88 @@
+{
+    "title": "Pizzas de Desayuno de Trigo Integral",
+    "keywords": "Breakfast and Brunch,Cooking for 1 or 2,Quick & Easy,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Breakfast and Brunch",
+        "Cooking for 1 or 2",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/whole-wheat-breakfast-pizza.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "Margarina ligera en tarrina",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cebollas verdes pequeñas (finamente picadas)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Champiñones pequeños (cortados en rodajas)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Pimiento rojo pequeño (cortado en cubitos)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "sustituto de huevo",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "leche (sin grasa)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Muffins ingleses de trigo integral (partidos por la mitad)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Mezcla de quesos Colby y Monterey Jack (bajo en grasa, rallado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "tomate pequeño (sin semillas y picado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375 grados F.",
+        "En una sartén antiadherente pequeña, calienta la margarina a fuego medio hasta que se derrita, revolviéndola para cubrir el fondo. Cocina las cebollas verdes, los hongos y el pimiento morrón a fuego medio-alto durante 3 minutos o hasta que estén tiernos, revolviendo con frecuencia.",
+        "En un bol pequeño, mezcle el sustituto de huevo y la leche. Vierta sobre las verduras. Reduzca el fuego a medio. Cocine sin revolver hasta que la mezcla comience a cuajar en el fondo y alrededor del borde. A medida que se asiente, empuje la mezcla hacia el centro de la sartén e incline la sartén para que la parte cruda fluya hacia el borde y todo el sustituto de huevo esté completamente cocido, de 3 a 4 minutos. (Una espátula de goma funciona bien para esto).",
+        "Coloque las mitades de panecillo inglés con el lado cortado hacia arriba en una bandeja para hornear. Espolvoree cada una con 1 cucharada de la mezcla de Colby y Monterey Jack. Vierta la mezcla de huevo sobre el queso. Cubra con el queso restante. Espolvoree con el tomate.",
+        "Hornee durante 5 a 8 minutos, o hasta que el queso se derrita."
+    ],
+    "tags": [
+        "Breakfast and Brunch",
+        "Cooking for 1 or 2",
+        "Quick & Easy",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "4.5g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "415mg",
+        "total_carbohydrate": "20g",
+        "fiber": "3g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/whole-wheat-breakfast-pizzas"
+}

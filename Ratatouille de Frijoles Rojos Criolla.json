@@ -1,0 +1,120 @@
+{
+    "title": "Ratatouille de Frijoles Rojos Criolla",
+    "keywords": "Main Dish,Vegetarian",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_679_Creole_Red_Bean_Ratatouille_DiabetesHeartHealthy_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pasta penne de trigo integral (seca)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "Aceite de oliva (preferiblemente virgen extra, uso dividido)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla mediana (picada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimiento verde mediano (picado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo mediano (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "tomates medianos (picados)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "okra cortada congelada",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "frijoles rojos sin sal añadida (enjuagados y escurridos)",
+            "us_amount": "1/2 (15-oz) can (about 3/4 cup)",
+            "metric_amount": "1/2 (15-oz) can (about 3/4 cup)"
+        },
+        {
+            "name": "hojas de laurel (secas)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "Orégano seco (seco, desmenuzado)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "tomillo seco (desmenuzado)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Perejil fresco (picado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "queso mozzarella (rallado, bajo en grasa)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "Queso parmesano (rallado o rallado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Prepare la pasta siguiendo las instrucciones del paquete, omitiendo la sal. Escúrrala bien en un colador. Reserve.",
+        "Mientras tanto, en una sartén antiadherente grande, calienta 1 cucharadita de aceite a fuego medio-alto, revolviendo para cubrir el fondo. Cocina la cebolla y el pimiento morrón durante 3 a 4 minutos, o hasta que estén tiernos, revolviendo con frecuencia. Agrega el ajo. Cocina durante 10 segundos, revolviendo constantemente. Agrega los tomates, el quimbombó, los frijoles, las hojas de laurel, el orégano, el tomillo y las hojuelas de pimiento rojo. Deja que hierva a fuego lento. Reduce el fuego y cocina a fuego lento, tapado, durante 20 minutos, o hasta que el quimbombó esté tierno. Retira del fuego. Desecha las hojas de laurel.",
+        "Mezcla el perejil, la sal y las 2 cucharaditas restantes de aceite con el pisto. Sirve sobre la pasta. Espolvorea con la mozzarella y el parmesano."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "French",
+        "Mediterranean",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "280",
+        "total_fat": "7g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "370mg",
+        "total_carbohydrate": "41g",
+        "fiber": "10g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "15g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/creole-red-bean-ratatouille"
+}

@@ -1,0 +1,85 @@
+{
+    "title": "Wrap de Ensalada de Pollo sin Gluten",
+    "keywords": "Lunch,Gluten-Free,Dinner,Sandwiches,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Gluten-Free",
+        "Dinner",
+        "Sandwiches",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/256-Gluten-Free-Chicken-Salad-Wrap_114239215_04112018%20.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pechuga de pollo cocida (desmenuzada)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "mayonesa ligera",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "hummus original",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "apio (cortado en cubitos)",
+            "us_amount": "3 stalks",
+            "metric_amount": "3 stalks"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "tomillo seco",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Wraps de grano integral (sin gluten, como el Wrap sin gluten de LaTortilla Factory)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "campos verdes",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        }
+    ],
+    "instructions": [
+        "En un tazón mediano, mezcle el pollo, la mayonesa, el hummus, el apio, la pimienta y el tomillo.",
+        "Unte 1/2 taza de ensalada de pollo en el medio de un wrap. Cubra con 1 taza de hojas verdes. Doble los lados izquierdo y derecho del wrap hacia adentro hasta que se toquen y enrolle desde abajo para formar un wrap.",
+        "Repita el procedimiento para las 3 envolturas restantes."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner",
+        "Sandwiches",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "360",
+        "total_fat": "12g",
+        "saturated_fat": "1.8g",
+        "trans_fat": "0g",
+        "cholesterol": "60mg",
+        "sodium": "560mg",
+        "total_carbohydrate": "35g",
+        "fiber": "5g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/gluten-free-chicken-salad-wrap"
+}

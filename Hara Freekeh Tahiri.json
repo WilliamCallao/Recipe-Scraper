@@ -1,0 +1,132 @@
+{
+    "title": "Hara Freekeh Tahiri",
+    "keywords": "One Pot",
+    "prep_time": "PT5M",
+    "cook_time": "PT1H",
+    "categories": [
+        "One Pot"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_738_HaraFreekahTahiri_IndianCuisine_050318.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "cilantro (picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "espinacas baby (lavadas y blanqueadas)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "Guisantes pequeños congelados (cocidos en agua hirviendo con sal durante 3 minutos)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "agua (fria)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "aceite de girasol (1 cucharadita / 5 g)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "mantequilla clarificada",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cebollas rojas (cortadas en cubitos)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "jengibre fresco (finamente picado)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "ajo (finamente picado)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "tomate(s) (cortado en cubitos, fresco)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "curry en polvo (suave)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "2 piezas de anís estrellado",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "palitos de canela",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Freekeh de grano integral (remojado durante 30 minutos, enjuagado y escurrido)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Caldo de verduras o de pollo (bajo en sodio)",
+            "us_amount": "3 1/2 cup",
+            "metric_amount": "828 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pimienta negra (molida)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "garam masala",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Coloque el cilantro, las espinacas, los guisantes y el agua fría en una licuadora y licue hasta obtener una mezcla muy homogénea. Deje de lado.",
+        "Combine el aceite de girasol y el ghee en un tazón pequeño, luego agregue la mezcla a una olla holandesa de fondo grueso a fuego medio-alto. Agregue las cebollas y saltee durante 6 minutos o hasta que estén transparentes.",
+        "Añade el jengibre y el ajo y saltéalos durante 1 minuto. Añade los tomates y saltéalos durante 1 minuto.",
+        "Añade curry en polvo, anís estrellado y ramas de canela. Saltea durante 1 minuto.",
+        "Añade el freekeh y tuéstalo, revolviendo ocasionalmente, durante 5 minutos o hasta que se vuelva aromático.",
+        "Añade el caldo y deja que hierva. Luego reduce el fuego a medio-bajo y deja que hierva a fuego lento. Cocina tapado durante 45 minutos.",
+        "Apaga el fuego, retira todas las especias y agrega con cuidado el puré de espinacas y guisantes. Deja reposar, sin tapar, durante 5 minutos.",
+        "Agregue sal, pimienta y garam masala; revuelva bien y sirva caliente."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Indian",
+        "One Pot"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "3g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "420mg",
+        "total_carbohydrate": "44g",
+        "fiber": "12g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/hara-freekeh-tahiri"
+}

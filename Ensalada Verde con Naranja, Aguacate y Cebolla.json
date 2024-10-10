@@ -1,0 +1,109 @@
+{
+    "title": "Ensalada Verde con Naranja, Aguacate y Cebolla",
+    "keywords": "Vegetarian,Vegan,Sides,Salads,Quick & Easy,Lunch,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Salads",
+        "Quick & Easy",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/1906-diabetic-green-salad-orange-avocado-onion_create-your-plate_022020.jpg",
+        "Avocado",
+        "and Onion\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "zumo de lima",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "vinagre de vino tinto",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "edulcorante sin calorías (como Truvia o Splenda)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "naranjas",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "verduras mixtas",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "aguacate (sin hueso y con la pulpa cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla roja (picada)",
+            "us_amount": "1/4 small",
+            "metric_amount": "1/4 small"
+        },
+        {
+            "name": "cilantro fresco picado",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "En un tazón pequeño, mezcle el jugo de limón, el aceite de oliva, el vinagre de vino tinto, el edulcorante, la sal kosher y la pimienta negra.",
+        "Quita la cáscara y la parte blanca de las naranjas. Con un cuchillo para pelar, corta entre las membranas para liberar los gajos de naranja y córtalos en tercios. Coloca los trozos de naranja en un bol mediano.",
+        "Añade las verduras mixtas, los cubos de aguacate y la cebolla morada al bol y rocía con la mezcla de jugo de lima. Mezcla bien. Espolvorea con el cilantro y sirve."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "High in Fiber",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Salads",
+        "Quick & Easy",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "9g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "135mg",
+        "total_carbohydrate": "14g",
+        "fiber": "5g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/green-salad-orange-avocado-and-onion"
+}

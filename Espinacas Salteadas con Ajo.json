@@ -1,0 +1,86 @@
+{
+    "title": "Espinacas Salteadas con Ajo",
+    "keywords": "Gluten-Free,Foodie,Dinner,Sides,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Gluten-Free",
+        "Foodie",
+        "Dinner",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/253-diabetic-roasted-garlic-spinach_AdobeStock234670448_02221.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "cabeza de ajo",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva (dividido)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla picada",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "espinaca",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400°F.",
+        "Dejando la cabeza de ajo entera, corte de 1/4 a 1/2 pulgada de la parte superior de la cabeza, dejando expuestos los dientes de ajo individuales. Deje la cáscara.",
+        "Coloque la cabeza de ajo con el lado cortado hacia arriba sobre una hoja de papel de aluminio. Rocíe una cucharadita de aceite de oliva sobre el lado cortado de la cabeza de ajo. Dobla el papel de aluminio alrededor del ajo y pellizca para sellar y formar un paquete.",
+        "Hornee a 400°F durante 30-35 minutos, o hasta que los dientes se sientan suaves al presionarlos.",
+        "Deje que el ajo se enfríe un poco al tacto. Exprima los dientes de ajo asados ​​para quitarles la piel y colóquelos en un tazón pequeño y triture con un tenedor hasta formar una pasta.",
+        "En una sartén grande, agrega el aceite de oliva restante y una cantidad generosa de aceite en aerosol a fuego medio alto. Agrega las cebollas y saltea hasta que comiencen a caramelizarse.",
+        "Añade la pasta de ajo asado y revuelve hasta que las cebollas estén cubiertas. Añade las espinacas y saltea hasta que las espinacas se ablanden y estén cubiertas con el ajo y las cebollas.",
+        "Condimentar con sal y pimienta."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Gluten-Free",
+        "Foodie",
+        "Dinner",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "110mg",
+        "total_carbohydrate": "6g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/garlicky-sauteed-spinach"
+}

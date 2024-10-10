@@ -1,0 +1,72 @@
+{
+    "title": "Helado de Mantequilla de Cacahuate con Remolino y Rociado de Chocolate",
+    "keywords": "Dessert,Quick & Easy",
+    "prep_time": "PT0M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dessert",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/3457_Peanut%20Butter%20Swirl%20Nice%20Cream.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Endulzante de Stevia Splenda®",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "leche de anacardo sin azúcar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Trozos de plátano congelados",
+            "us_amount": "2 1/4 cup",
+            "metric_amount": "532 ml"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sal kosher",
+            "us_amount": "1/16 tsp",
+            "metric_amount": "1/16 tsp"
+        },
+        {
+            "name": "mantequilla de maní natural",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "chips de chocolate endulzados con stevia o sin azúcar (derretidos)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Mezcle el edulcorante Splenda y la leche de anacardo en un recipiente de vidrio pequeño y caliéntelo en el microondas durante 30 segundos.",
+        "Añade trozos de banana a un procesador de alimentos y procesa hasta que se formen trozos del tamaño de un guisante. Vierte la leche de anacardo mezclada con el edulcorante, la vainilla y la sal kosher y continúa procesando hasta que la mezcla se integre. Rocía con mantequilla de maní y procesa unas cuantas veces más. La mezcla se unirá y formará una consistencia de helado suave congelado.",
+        "Sirva en tazones y espolvoree chips de chocolate derretido por encima. O, después de agregar el chocolate derretido, colóquelo en un recipiente apto para congelador y disfrútelo dentro de los 3 días."
+    ],
+    "tags": [
+        "Dessert",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "6g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "30mg",
+        "total_carbohydrate": "21g",
+        "fiber": "3g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/peanut-butter-swirl-nice-cream-chocolate-drizzle"
+}

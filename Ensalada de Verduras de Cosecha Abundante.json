@@ -1,0 +1,107 @@
+{
+    "title": "Ensalada de Verduras de Cosecha Abundante",
+    "keywords": "Vegetarian,Sides,Salads,Vegan,Budget Friendly,Lunch",
+    "prep_time": "PT10M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Salads",
+        "Vegan",
+        "Budget Friendly",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Bountiful_Harvest_Vegetable_Salad.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "chirivías (picadas)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "nabos (picados)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla pequeña (finamente picada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (finamente picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "azúcar morena",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "vinagre de malta",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "cilantro fresco o perejil",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ensalada verde bebe",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "Trozos de nueces (tostadas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "rábano (en rodajas)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Sal y pimienta al gusto",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        }
+    ],
+    "instructions": [
+        "Ponga a hervir una olla grande con agua salada. Agregue las chirivías y los nabos y cocine a fuego lento hasta que las verduras estén tiernas, durante 8 a 10 minutos. Escurra bien.",
+        "Mientras se cocinan las chirivías y los nabos, prepare el aliño. Caliente el aceite en una sartén grande a fuego medio. Agregue las cebollas y cocine hasta que estén doradas, de 5 a 7 minutos. Agregue el ajo y cocine durante 30 segundos más. Agregue el vinagre y el azúcar y deje hervir a fuego lento. Retire del fuego y mantenga el aliño caliente.",
+        "Acomode el perejil, el cilantro y las hojas verdes para ensalada y cubra con las verduras calientes. Luego, adorne con nueces y rábanos. Rocíe con el aderezo tibio y sirva inmediatamente."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "Vegetarian",
+        "Sides",
+        "Salads",
+        "Vegan",
+        "Budget Friendly",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "145",
+        "total_fat": "9g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "45mg",
+        "total_carbohydrate": "14g",
+        "fiber": "4g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/bountiful-harvest-vegetable-salad"
+}

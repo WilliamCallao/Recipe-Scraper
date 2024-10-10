@@ -1,0 +1,103 @@
+{
+    "title": "Flanes Salados de Espárragos",
+    "keywords": "Vegetarian,Snacks,Breakfast and Brunch,Foodie,Lunch",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Snacks",
+        "Breakfast and Brunch",
+        "Foodie",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_49085539.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "moldes para ramequines (de 4 onzas (o un molde para muffins si no tienes moldes para ramequines))",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "espárragos ((2 tazas picados))",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        },
+        {
+            "name": "Tomates secados al sol (picados, (no envasados ​​en aceite))",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "albahaca fresca (picada)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sustituto de huevo",
+            "us_amount": "16 oz",
+            "metric_amount": "453 ml"
+        },
+        {
+            "name": "leche desnatada",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "harina",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sal ((opcional))",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F. Rocíe los moldes para muffins o las 6 tazas de muffins con aceite en aerosol. Deje a un lado.",
+        "Añade aceite de oliva y aceite de cocina en aerosol a una sartén antiadherente mediana a fuego medio y saltea los espárragos y los tomates secados al sol durante 8 a 10 minutos o hasta que los espárragos comiencen a ablandarse. Si los espárragos están muy espesos, agrega un par de cucharadas de agua a la sartén y cúbrelos durante 5 minutos para que se cocinen al vapor, luego continúa salteando hasta que se absorba todo el líquido. Deja enfriar.",
+        "Bate la albahaca, el sustituto de huevo, la leche descremada, la harina, la sal y la pimienta hasta obtener una mezcla suave y sin grumos.",
+        "Divida la mezcla de espárragos de manera uniforme entre los seis moldes para muffins o ramequines. Los moldes quedarán llenos.",
+        "Vierta con cuidado la mezcla de huevo sobre los espárragos hasta arriba, sin llenar demasiado.",
+        "Hornee durante 30 minutos o hasta que las natillas estén infladas y comenzando a dorarse.",
+        "Retirar del horno y dejar enfriar un poco. Luego desmoldar las natillas de los moldes para muffins y servir."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Vegetarian",
+        "Snacks",
+        "Breakfast and Brunch",
+        "Foodie",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "65",
+        "total_fat": "1g",
+        "saturated_fat": "0.1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/savory-asparagus-custards"
+}

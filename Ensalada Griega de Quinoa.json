@@ -1,0 +1,103 @@
+{
+    "title": "Ensalada Griega de Quinoa",
+    "keywords": "Sides,Quick & Easy,Lunch,Holidays & Entertaining,Salads,Gluten-Free",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Quick & Easy",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Salads",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/june2012_quinoa_salad_istock16299799_279x200.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "quinoa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio (bajo en sodio, reducido en grasa (o caldo sin gluten si cocina sin gluten))",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Pepino grande (pelado, sin semillas y cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Tomates uva (10,5 onzas, cortados por la mitad)",
+            "us_amount": "1 package",
+            "metric_amount": "1 package"
+        },
+        {
+            "name": "cebolla roja (cortada en cubitos)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Perejil fresco (picado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "queso feta (bajo en grasa, desmenuzado)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "vinagre de vino tinto",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "mostaza de dijon",
+            "us_amount": "1/2 tbsp",
+            "metric_amount": "7 ml"
+        },
+        {
+            "name": "sustituto de azúcar bajo en calorías",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Cocine la quinua según las instrucciones del paquete con el caldo de pollo. Deje enfriar por completo.",
+        "En una ensaladera grande, combine la quinua enfriada y el resto de los ingredientes de la ensalada.",
+        "En un bol pequeño, mezcle los ingredientes del aderezo. Vierta sobre la ensalada y mezcle bien. Sirva frío."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Mediterranean",
+        "Sides",
+        "Quick & Easy",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Salads",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "115",
+        "total_fat": "5g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "135mg",
+        "total_carbohydrate": "14g",
+        "fiber": "2g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/greek-quinoa-salad"
+}

@@ -1,0 +1,80 @@
+{
+    "title": "Congee de Arroz Integral con Hierbas Salteadas",
+    "keywords": "Breakfast and Brunch,Lunch,Vegetarian,Dinner,Gluten-Free",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Breakfast and Brunch",
+        "Lunch",
+        "Vegetarian",
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/oct_congee_istock5256573_279x200.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "agua filtrada",
+            "us_amount": "2 quarts",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "arroz de sushi integral",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "aceite de semilla de uva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Jengibre fresco (pelado y cortado en juliana fina)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "cebolla verde (cebolleta) (recortada y cortada en juliana en trozos de 1 pulgada de largo)",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "Chiles tailandeses rojos (sin tallos ni semillas, cortados en rodajas finas)",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "cilantro (tallos recortados y picados en trozos grandes (aproximadamente 1 taza))",
+            "us_amount": "1/2 bunch",
+            "metric_amount": "1/2 bunch"
+        }
+    ],
+    "instructions": [
+        "Llene una olla grande con agua. Agregue el arroz, tápelo y llévelo a hervor a fuego alto. Reduzca el fuego a medio y continúe cocinando hasta que los granos de arroz se deshagan y la sopa espese, aproximadamente 1 hora.",
+        "Mientras tanto, en una sartén pequeña a fuego alto, agrega el aceite y saltea el jengibre, las cebolletas y los chiles hasta que desprendan un aroma fragante y estén ligeramente dorados, durante 30 a 45 segundos. Agrega el cilantro y continúa salteando hasta que se ablande, unos 30 segundos más. Transfiere a un bol.",
+        "Sirva un poco de gachas en 6 tazones individuales y cubra cada uno con aproximadamente 1 cucharada de hierbas salteadas. Mezcle las hierbas con las gachas para distribuir los sabores. Sirva."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Asian",
+        "Breakfast and Brunch",
+        "Lunch",
+        "Vegetarian",
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "20mg",
+        "total_carbohydrate": "27g",
+        "fiber": "2g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/brown-rice-congee-stir-fried-herbs"
+}

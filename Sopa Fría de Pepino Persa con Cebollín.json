@@ -1,0 +1,90 @@
+{
+    "title": "Sopa Fría de Pepino Persa con Cebollín",
+    "keywords": "Quick & Easy,Soup,Vegetarian",
+    "prep_time": "PT30M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Soup",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_653_Chilled%20Persian%20Cucumber%20Soup%20with%20Chives_WithOrWithout_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Pepino persa o 1 pepino inglés (sin pelar y rallado grueso)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Yogur griego (natural, sin grasa)",
+            "us_amount": "1 1/4 cup",
+            "metric_amount": "296 ml"
+        },
+        {
+            "name": "cebollino fresco (picado)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "hojas de menta (finamente picadas y frescas)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "chalotes (picados)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "diente de ajo grande (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "vinagre balsámico blanco o vinagre de champán",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "pimienta negra, o al gusto (recién molida)",
+            "us_amount": "3/4 tsp",
+            "metric_amount": "4 g"
+        },
+        {
+            "name": "Sal marina, o al gusto",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Té verde sin azúcar o té verde jazmín (preparado con 1 bolsita de té) (frío)",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        }
+    ],
+    "instructions": [
+        "Mezcle el pepino, el yogur, 2 cucharadas de cebollino, la menta, la chalota, el ajo, el vinagre, la pimienta, la sal y el té en un recipiente mediano. Rectifique la sazón. Enfríe hasta que esté listo para servir.",
+        "Divida la sopa en tazones o tazas individuales pequeñas. Sirva con la cucharadita restante de cebollino por encima."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mediterranean",
+        "Quick & Easy",
+        "Soup",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "4.5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "410mg",
+        "total_carbohydrate": "14g",
+        "fiber": "1g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chilled-persian-cucumber-soup-chives"
+}

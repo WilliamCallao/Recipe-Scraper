@@ -1,0 +1,108 @@
+{
+    "title": "Sopa Básica de Frijoles Toscana",
+    "keywords": "Dinner,Lunch,Main Dish,One Pot,Quick & Easy,Soup,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "PT28M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "One Pot",
+        "Quick & Easy",
+        "Soup",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/tuscan-bean-soup-Sep16.jpg",
+    "servings": "9 Servings",
+    "ingredients": [
+        {
+            "name": "albahaca fresca (picada)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "garbanzos (enjuagados y escurridos)",
+            "us_amount": "30 oz",
+            "metric_amount": "849 ml"
+        },
+        {
+            "name": "tomates cortados en cubitos enlatados",
+            "us_amount": "14 oz",
+            "metric_amount": "396 ml"
+        },
+        {
+            "name": "caldo de pollo o verduras",
+            "us_amount": "5 cup",
+            "metric_amount": "1 l 183 ml"
+        },
+        {
+            "name": "romero fresco (picado)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "4 diente",
+            "metric_amount": "4 diente"
+        },
+        {
+            "name": "zanahoria(s) (cortadas en cubitos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "apio (cortado en cubitos)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "cebolla(s) (cortadas en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "En una cacerola a fuego medio, calienta el aceite de oliva. Agrega las cebollas, el apio y las zanahorias y saltea durante 5 minutos. Agrega el ajo y el romero y saltea durante 1 minuto. Agrega el resto de los ingredientes, excepto el vinagre y la albahaca. Lleva a ebullición. Reduce el fuego y cocina a fuego lento, parcialmente tapado, durante 20 minutos.",
+        "Añade el vinagre. Espolvorea con albahaca antes de servir."
+    ],
+    "tags": [
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Veggie Rich",
+        "High in Fiber",
+        "Italian",
+        "Comfort Food",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "One Pot",
+        "Quick & Easy",
+        "Soup",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "3g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "22g",
+        "fiber": "6g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/basic-tuscan-bean-soup"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Tilapia Crujiente con Pacanas",
+    "keywords": "Quick & Easy,Dinner,Lunch,Cooking for 1 or 2",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Dinner",
+        "Lunch",
+        "Cooking for 1 or 2"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_204_Crisp_Pecan_Tilapia_PNCImages_02272018.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "harina de maíz amarilla",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "panko o pan rallado seco normal",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Maicena",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pimienta limón (sin sal)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Tilapia (aproximadamente 4 onzas cada una, enjuagadas y secas)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "jugo de limón fresco",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "nueces pecanas (picadas en trozos grandes y tostadas en seco)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Perejil italiano fresco (de hoja plana) (cortado en tiras)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el asador. Rocíe ligeramente con aceite en aerosol una fuente para hornear de 11 x 7 x 2 pulgadas.",
+        "En un plato hondo, mezcle la harina de maíz, el panko, la maicena y la pimienta con limón. Agregue el pescado, dándole vueltas para cubrirlo y sacudiendo el exceso. Transfiera a la fuente para hornear. Rocíe ligeramente ambos lados del pescado con aceite en aerosol.",
+        "Asar durante 3-4 minutos de cada lado, o hasta que el pescado se desmenuce fácilmente al pincharlo con un tenedor. Pasar a los platos. Rociar con el jugo de limón. Espolvorear con las nueces pecanas y el perejil."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Seafood",
+        "Quick & Easy",
+        "Dinner",
+        "Lunch",
+        "Cooking for 1 or 2"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "8g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "75mg",
+        "sodium": "35mg",
+        "total_carbohydrate": "7g",
+        "fiber": "1g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/crisp-pecan-tilapia"
+}

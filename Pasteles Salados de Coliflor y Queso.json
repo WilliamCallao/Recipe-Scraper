@@ -1,0 +1,79 @@
+{
+    "title": "Pasteles Salados de Coliflor y Queso",
+    "keywords": "Gluten-Free,Vegetarian,Sides,Quick & Easy,Snacks,Appetizers",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Gluten-Free",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "Snacks",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/jan2015-cauliflower-cakes.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "cabeza de coliflor ((aproximadamente 2 libras) cortada en floretes)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "queso cheddar extra ligero y fuerte (rallado)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Queso parmesano (recién rallado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sal (opcional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375 grados F. Cubra un molde para muffins con envoltorios de papel.",
+        "Coloque los floretes de coliflor en un procesador de alimentos y presione hasta obtener una textura fina similar al arroz.",
+        "En un tazón mediano, mezcle la coliflor y los ingredientes restantes.",
+        "Coloca aproximadamente 1/4 de taza de la mezcla de coliflor en cada molde para muffins. Hornea durante 30 a 35 minutos hasta que los muffins estén ligeramente dorados en la parte superior."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Gluten-Free",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "Snacks",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "2g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "35mg",
+        "sodium": "120mg",
+        "total_carbohydrate": "3g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/savory-cauliflower-and-cheesy-cakes"
+}

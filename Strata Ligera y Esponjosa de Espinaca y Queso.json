@@ -1,0 +1,101 @@
+{
+    "title": "Strata Ligera y Esponjosa de Espinaca y Queso",
+    "keywords": "Breakfast and Brunch,Dinner,Holidays & Entertaining,Lunch,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT50M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_761_LightAndFluffySpinachAndCheeseStrata_SixOClockScramble_022618.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "espinacas congeladas (picadas)",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "6 large",
+            "metric_amount": "6 large"
+        },
+        {
+            "name": "leche (descremada o baja en grasa)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "queso cheddar (rallado, bajo en grasa)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Queso suizo (rallado)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Mezcla de hierbas italianas",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "tocino (de pavo, cerdo o sin carne), cocido y cortado en cubitos (opcional)",
+            "us_amount": "3 slice",
+            "metric_amount": "3 slice"
+        },
+        {
+            "name": "pan ciabatta (de aproximadamente 1/2 pulgada de grosor, cortado en cubos, o puede usar cualquier pan del día anterior (aproximadamente 4 tazas))",
+            "us_amount": "6 slice",
+            "metric_amount": "6 slice"
+        }
+    ],
+    "instructions": [
+        "HAGA CON ANTICIPACIÓN O DELEGUE: Descongele las espinacas, combine y refrigere los huevos y la leche, ralle el queso, si es necesario, y refrigere, combine los condimentos secos, corte el pan en cubos o ensamble completamente y refrigere los strata.",
+        "Descongele las espinacas en el microondas o en la hornalla. Rocíe una fuente para horno de vidrio o cerámica de 9 × 13 pulgadas con aceite en aerosol antiadherente. Cocine el tocino, si es necesario.",
+        "En un bol grande, bate los huevos y la leche. Incorpora los quesos, las hierbas, el ajo en polvo y la sal. Incorpora la espinaca, el tocino (opcional) y los cubos de pan hasta que el pan esté completamente humedecido. Vierte la mezcla de huevos en la fuente para horno, alisándola con el dorso de una cuchara, si es necesario. Refrigera, tapado, durante al menos 4 horas y hasta 24 horas.",
+        "Cuando esté listo para hornearlo, retire el strata del refrigerador y precaliente el horno a 350 °F. Hornéelo en el centro del horno, sin tapar, durante 45 a 50 minutos hasta que se dore en los bordes y esté bien cocido en el centro. Córtelo en cuadrados para servir.",
+        "INSTRUCCIONES PARA LA COCCIÓN LENTA: En la olla de cocción lenta, mezcle los huevos y la leche, luego agregue los quesos, las hierbas, el ajo en polvo y la sal. Agregue las espinacas, el tocino y los cubos de pan hasta que el pan esté completamente humedecido. Cocine a fuego lento durante 4 a 5 horas o a fuego alto durante 2 a 3 horas. (Los tiempos de cocción en la olla de cocción lenta pueden variar; familiarícese con su olla de cocción lenta y, si es necesario, ajuste los tiempos de cocción según corresponda)."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Veggie Rich",
+        "Comfort Food",
+        "Italian",
+        "Breakfast and Brunch",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "10g",
+        "saturated_fat": "4.3g",
+        "trans_fat": "0.1g",
+        "cholesterol": "155mg",
+        "sodium": "420mg",
+        "total_carbohydrate": "12g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "15g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/light-and-fluffy-spinach-and-cheese-strata"
+}

@@ -1,0 +1,109 @@
+{
+    "title": "Tazón de Burrito de Bibb y Frijol",
+    "keywords": "Dinner,Lunch,Main Dish,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/619-diabetic-vegetarian-bibb-bean-burrito-bowl_With-or-without-meat_101718_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Lechuga bibb o boston",
+            "us_amount": "12 leaves",
+            "metric_amount": "12 leaves"
+        },
+        {
+            "name": "frijoles enlatados, como frijoles negros, pintos y/o rojos (escurridos y enjuagados)",
+            "us_amount": "2 1/2 cup",
+            "metric_amount": "592 ml"
+        },
+        {
+            "name": "Tomates uva (cortados a lo largo en cuartos)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "maíz (congelado, descongelado)",
+            "us_amount": "1 1/4 cup",
+            "metric_amount": "296 ml"
+        },
+        {
+            "name": "cebolla verde (cebolleta) (partes verdes y blancas, cortadas muy finas en diagonal)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "Queso Monterey Jack (cortado en cubitos)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "cilantro (picado fresco)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "comino molido (o al gusto)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "chile en polvo (o al gusto)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Aguacate Hass (pelado, sin hueso y cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salsa de tomatillo mediana o picante (salsa verde)",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        },
+        {
+            "name": "sal marina ((opcional))",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "rodajas de lima",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "Divida las hojas de lechuga en 4 platos o tazones de pasta, formando un “cuenco” con las hojas.",
+        "Mezcle los frijoles, los tomates, el maíz, las cebolletas, el queso, el cilantro, el comino y el chile en polvo en un recipiente mediano. Agregue el aguacate, la salsa y la sal (si usa) y revuelva suavemente hasta que se combinen. Rectifique la sazón.",
+        "Divida uniformemente la mezcla de frijoles entre los 4 “tazones” de lechuga y sirva con las rodajas de lima a un lado."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "360",
+        "total_fat": "11g",
+        "saturated_fat": "3.5g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "580mg",
+        "total_carbohydrate": "44g",
+        "fiber": "11g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/bibb-and-bean-burrito-bowl"
+}

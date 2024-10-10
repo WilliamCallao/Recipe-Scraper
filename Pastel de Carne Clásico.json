@@ -1,0 +1,132 @@
+{
+    "title": "Pastel de Carne Clásico",
+    "keywords": "Holidays & Entertaining,Dinner,Easy Pantry Recipes,Main Dish",
+    "prep_time": "PT20M",
+    "cook_time": "PT55M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_665_ClassicMeatloaf_PerfectComfortCollection_022618.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "cebolla pequeña (picada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimiento morrón verde o rojo (finamente picado)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "champiñones blancos (de botón) (picados)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "condimento italiano",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sal marina",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "carne molida (95% magra)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "huevos (batidos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pan rallado panko de trigo integral",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "leche (sin grasa)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Salsa Worcestershire",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "humo líquido (opcional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ketchup (sin azúcar, como el de Walden Farms)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "mostaza de dijon",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "azúcar morena",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375 °F. Cubra una bandeja para hornear con papel pergamino. Reserve.",
+        "Calienta el aceite en una sartén mediana a fuego medio. Saltea la cebolla durante 3 minutos. Agrega el pimiento verde y los champiñones y saltea durante 3 minutos. Agrega el ajo, el condimento italiano, la sal y la pimienta y saltea durante 1 minuto.",
+        "Añade la mezcla de cebolla a un bol y deja enfriar durante 2 minutos. Añade la carne, el huevo, el pan rallado, la leche, la salsa Worcestershire y el humo líquido, si lo usas. Mezcla con cuidado, no manipules demasiado la carne.",
+        "Coloca la mezcla en la bandeja para hornear preparada y forma un pan rectangular. Combina el kétchup, la mostaza y el azúcar moreno y vierte sobre el pastel de carne.",
+        "Hornee el pastel de carne durante 40 a 45 minutos hasta que esté bien cocido. Retire del horno y deje reposar el pastel de carne durante 5 a 7 minutos antes de cortarlo."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Kid Friendly",
+        "Comfort Food",
+        "Holidays & Entertaining",
+        "Dinner",
+        "Easy Pantry Recipes",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "210",
+        "total_fat": "7g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0.1g",
+        "cholesterol": "75mg",
+        "sodium": "440mg",
+        "total_carbohydrate": "17g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/classic-meatloaf"
+}

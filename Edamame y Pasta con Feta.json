@@ -1,0 +1,94 @@
+{
+    "title": "Edamame y Pasta con Feta",
+    "keywords": "Lunch,Dinner,Vegetarian,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Dinner",
+        "Vegetarian",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_226327975.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pasta penne o rotini de grano entero sin cocer",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "edamame fresco o congelado sin cáscara",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "Tomates uva (cortados en cuartos)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "Aceitunas Kalamata (sin hueso y picadas en trozos grandes)",
+            "us_amount": "16",
+            "metric_amount": "16"
+        },
+        {
+            "name": "hojas de albahaca fresca picadas o 2 cucharaditas de hojas de albahaca secas",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "hojas de romero (desmenuzadas (opcional))",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ajo mediano (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado (opcional)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "limón mediano (cortado por la mitad, opcional)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "queso feta (bajo en grasa, desmenuzado)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        }
+    ],
+    "instructions": [
+        "Cocine la pasta según las instrucciones del paquete, omitiendo la sal o las grasas y agregando el edamame durante los últimos 2 minutos del tiempo de cocción.",
+        "En un bol pequeño, combine los tomates, las aceitunas, la albahaca, el romero (opcional), el ajo y las hojuelas de pimienta. Mezcle bien y reserve.",
+        "Escurre la pasta y el edamame en un colador, colócalos en una fuente para servir o en un tazón de pasta, exprime el limón sobre todo, cubre con queso feta y forma un montoncito con la mezcla de tomate en el centro."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Italian",
+        "Mediterranean",
+        "Lunch",
+        "Dinner",
+        "Vegetarian",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "235",
+        "total_fat": "7g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "340mg",
+        "total_carbohydrate": "32g",
+        "fiber": "7g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/edamame-and-pasta-feta"
+}

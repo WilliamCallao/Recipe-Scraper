@@ -1,0 +1,86 @@
+{
+    "title": "Bocaditos de Salmón Ahumado y Pepino",
+    "keywords": "Sides,Vegetarian,Snacks,No Cook,Gluten-Free,Quick & Easy,Holidays & Entertaining,Appetizers",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Vegetarian",
+        "Snacks",
+        "No Cook",
+        "Gluten-Free",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2079-diabetic-low-carb-salmon-cucumber-bites_low-carb-brissette_050721.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "pepino(s)",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "eneldo fresco (dividido)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "queso crema ligero",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "Ralladura de limón",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Salmón ahumado en frío (cortado en 24 trozos)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        }
+    ],
+    "instructions": [
+        "Cortar los extremos del pepino. Cortarlo en 24 rodajas de aproximadamente ¼ de pulgada de grosor.",
+        "Picar 2 cucharadas de eneldo y agregarlo a un tazón mediano. Quitar los tallos del resto del eneldo y separarlo en ramitas pequeñas. Reservar las ramitas.",
+        "En el tazón mediano con el eneldo picado, agregue el queso crema, la ralladura y el jugo de limón y la pimienta al tazón.",
+        "Unta aproximadamente 1 cucharadita de la mezcla de queso crema sobre cada rodaja de pepino. Cubre cada una con un trozo de salmón y decora con una ramita de eneldo. ¡Dispónlas en una fuente y disfruta!"
+    ],
+    "tags": [
+        "Lower Carb",
+        "Sides",
+        "Vegetarian",
+        "Snacks",
+        "No Cook",
+        "Gluten-Free",
+        "Quick & Easy",
+        "Holidays & Entertaining",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "5g",
+        "saturated_fat": "2.6g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "3g",
+        "fiber": "0g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/smoked-salmon-cucumber-bites"
+}

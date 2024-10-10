@@ -1,0 +1,89 @@
+{
+    "title": "Hummus de Remolacha Asada al Curry",
+    "keywords": "Holidays & Entertaining,Gluten-Free,Foodie,Vegetarian,Snacks,Appetizers",
+    "prep_time": "PT1H",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Appetizers"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_262016402.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Remolachas doradas enteras y frescas (aproximadamente 4 remolachas de tamaño mediano, despalilladas y lavadas)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (pelado)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "tahini",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "polvo de curry dulce molido",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sal (opcional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375 grados F. Coloque las remolachas sin pelar y el ajo sobre una hoja grande de papel de aluminio. Rocíe generosamente con aceite en aerosol y doble el papel de aluminio para formar un paquete hermético. Coloque en el horno y hornee durante 45 minutos o hasta que las remolachas estén tiernas. Deje enfriar y luego pele las remolachas.",
+        "Coloque todos los ingredientes en un procesador de alimentos y mezcle hasta que quede suave.",
+        "Servir a temperatura ambiente o frío."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Mediterranean",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Appetizers"
+    ],
+    "nutrition": {
+        "calories": "40",
+        "total_fat": "2g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "25mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/curried-roasted-beet-hummus"
+}

@@ -1,0 +1,96 @@
+{
+    "title": "Roulades de Lasaña de Berenjena",
+    "keywords": "Vegetarian,Foodie,Quick & Easy,Main Dish,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT37M",
+    "categories": [
+        "Vegetarian",
+        "Foodie",
+        "Quick & Easy",
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/ThinkstockPhotos-136648418.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "Spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "berenjena",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "queso ricotta (sin grasa)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "claras de huevo",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Condimento italiano (seco)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salsa marinara (frasco de 24,5 onzas, bajo contenido de sodio)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Queso parmesano (rallado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375° F. Rocíe con aceite en aerosol una fuente de vidrio para horno de 8x11 pulgadas. Déjela a un lado.",
+        "Pela la berenjena y córtala a lo largo en 10 rodajas. Colócala en un recipiente apto para microondas y añade 1 taza de agua. Calienta la berenjena en el microondas durante 7 minutos. Retírala de la sartén y déjala enfriar.",
+        "En un tazón pequeño, mezcle el queso ricotta, las claras de huevo, el ajo y el condimento italiano seco.",
+        "Vierta 1 taza de salsa marinara en la fuente para horno preparada. Extiéndala para cubrir el fondo.",
+        "Coloque con una cuchara 1/4 de taza de relleno de ricota en un extremo de una rodaja de berenjena. Enrolle suavemente para formar un rollo. Coloque el rollo con la costura hacia abajo en la sartén. Repita el procedimiento con las 9 rodajas de berenjena restantes.",
+        "Vierta la salsa marinara restante sobre la parte superior de la berenjena y extiéndala para cubrirla.",
+        "Espolvorear el queso parmesano rallado por encima y hornear durante 30 minutos."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Italian",
+        "Comfort Food",
+        "Vegetarian",
+        "Foodie",
+        "Quick & Easy",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "6g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "35mg",
+        "sodium": "470mg",
+        "total_carbohydrate": "29g",
+        "fiber": "6g",
+        "sugar": "14g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/eggplant-lasagna-roulades"
+}

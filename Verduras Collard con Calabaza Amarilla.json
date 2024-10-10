@@ -1,0 +1,81 @@
+{
+    "title": "Verduras Collard con Calabaza Amarilla",
+    "keywords": "Dinner,Gluten-Free,One Pot,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Dinner",
+        "Gluten-Free",
+        "One Pot",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1907-diabetic-collard-greens-yellow-squash_create-your-plate_022020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "col rizada (lavada y seca)",
+            "us_amount": "1 bunch (about 8 oz)",
+            "metric_amount": "1 bunch (about 8 oz)"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "tocino de pavo",
+            "us_amount": "2 slices",
+            "metric_amount": "2 slices"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Calabaza amarilla (cortada en medias lunas)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "caldo de verduras bajo en sodio",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Quita los tallos leñosos que recorren el centro de las hojas de berza. Apila cuidadosamente varias hojas y enróllalas bien, luego córtalas en tiras. Repite el procedimiento con las hojas de berza restantes.",
+        "Calienta 1 cucharada de aceite de oliva en una sartén mediana a fuego medio. Cuando el aceite esté titilante, agrega el tocino de pavo y cocínalo hasta que esté dorado, 3 minutos de cada lado. Retira el tocino y déjalo enfriar un poco. Corta el tocino en dados una vez que se enfríe.",
+        "Calienta la cucharada restante de aceite de oliva en la misma sartén a fuego medio. Cuando el aceite esté titilante, añade el ajo y cocina hasta que desprenda un aroma fragante, durante 30 segundos. Añade las hojas de berza y ​​la calabaza y cocina hasta que las hojas de berza se hayan marchitado y la calabaza comience a ablandarse, unos 5 minutos. Añade el caldo de verduras y lleva la mezcla a ebullición. Baja el fuego y cocina a fuego lento, tapado, hasta que las verduras estén bien cocidas, durante 10 minutos.",
+        "Agregue 1/8 de cucharadita de sal (opcional),* la pimienta negra y el tocino de pavo cocido y revuelva para combinar. *La sal opcional no está incluida en el análisis nutricional; 1/8 de cucharadita de sal agrega 75 mg de sodio por porción."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Comfort Food",
+        "Dinner",
+        "Gluten-Free",
+        "One Pot",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "8g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "8mg",
+        "sodium": "130mg",
+        "total_carbohydrate": "5g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/collard-greens-yellow-squash"
+}

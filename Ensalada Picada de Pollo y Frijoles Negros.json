@@ -1,0 +1,84 @@
+{
+    "title": "Ensalada Picada de Pollo y Frijoles Negros",
+    "keywords": "Main Dish,Salads,Lunch,Dinner,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Main Dish",
+        "Salads",
+        "Lunch",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_178_Chopped_Black_Bean_Chicken_Salad_iStock-184939459_02282018.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "lechuga romana (picada)",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "cebollas verdes (picadas)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "maíz congelado (descongelado)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "frijoles negros enlatados (enjuagados y escurridos)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "queso de cabra (chevre) (desmenuzado)",
+            "us_amount": "1 oz",
+            "metric_amount": "28 ml"
+        },
+        {
+            "name": "pechuga de pollo cocida (cortada en cubitos)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "tortillas de frijoles negros (trituradas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Aderezo de naranja y cítricos embotellado (como Litehouse o el aderezo de su elección)",
+            "us_amount": "10 tbsp",
+            "metric_amount": "148 ml"
+        }
+    ],
+    "instructions": [
+        "En una ensaladera grande, agregue todos los ingredientes, excepto el aderezo, y mezcle.",
+        "Agregue el aderezo para ensalada y revuelva para cubrir bien. Divida la mezcla en partes iguales entre 5 tazones."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Main Dish",
+        "Salads",
+        "Lunch",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "235",
+        "total_fat": "4.5g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "310mg",
+        "total_carbohydrate": "27g",
+        "fiber": "4g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "22g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chopped-black-bean-chicken-salad"
+}

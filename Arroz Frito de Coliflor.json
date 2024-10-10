@@ -1,0 +1,87 @@
+{
+    "title": "Arroz Frito de Coliflor",
+    "keywords": "Quick & Easy,Sides,Budget Friendly",
+    "prep_time": "PT15M",
+    "cook_time": "PT13M",
+    "categories": [
+        "Quick & Easy",
+        "Sides",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/012-diabetic-Cauliflower-Fried-Rice-MG-PNCImages_03012018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva (dividido)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aceite de sésamo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cebolla verde (cebolleta) (picada)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "salsa de soja (reducida en sodio)",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "Caldo de pollo bajo en sodio (sin sal añadida, sin grasa)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Jengibre molido",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "zanahorias grandes (cortadas en cubitos finos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "floretes de coliflor",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "pimienta negra (molida)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Corte la coliflor en trozos pequeños y procese en un procesador de alimentos hasta obtener una consistencia de arroz, o ralle la cabeza de coliflor con un rallador; reserve.",
+        "Calienta 1/2 cucharada de aceite de oliva en una sartén antiadherente a fuego medio-alto. Agrega las zanahorias y las cebolletas y saltea durante 5 minutos.",
+        "Añade la 1/2 cucharada restante de aceite de oliva y aceite de sésamo a la sartén. Añade el “arroz” de coliflor y los ingredientes restantes y reduce el fuego a medio-bajo. Cocina la mezcla de coliflor durante 6-8 minutos, revolviendo con frecuencia. La coliflor debe estar tierna, pero no blanda."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Veggie Rich",
+        "Asian",
+        "Quick & Easy",
+        "Sides",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "260mg",
+        "total_carbohydrate": "8g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cauliflower-fried-rice"
+}

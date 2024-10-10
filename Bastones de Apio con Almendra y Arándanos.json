@@ -1,0 +1,69 @@
+{
+    "title": "Bastones de Apio con Almendra y Arándanos",
+    "keywords": "Appetizers,Gluten-Free,No Cook,Quick & Easy,Snacks,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "Gluten-Free",
+        "No Cook",
+        "Quick & Easy",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2025-diabetic-Almond-Cranberry-Celery-Logs_DaVita_040821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "apio (lavado y recortado)",
+            "us_amount": "4 stalks",
+            "metric_amount": "4 stalks"
+        },
+        {
+            "name": "queso crema batido con frutos rojos",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "arándanos secos",
+            "us_amount": "24",
+            "metric_amount": "24"
+        },
+        {
+            "name": "almendras sin sal",
+            "us_amount": "12",
+            "metric_amount": "12"
+        }
+    ],
+    "instructions": [
+        "Rellena cada tallo de apio con 1 cucharada de queso crema y, a continuación, corta cada tallo en 3 trozos iguales. Cubre cada trozo con 1 almendra y 2 arándanos rojos secos. Sirve inmediatamente o cúbrelo y refrigéralo hasta que esté listo para servir."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Lower Carb",
+        "Kid Friendly",
+        "Appetizers",
+        "Gluten-Free",
+        "No Cook",
+        "Quick & Easy",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "4g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "65mg",
+        "total_carbohydrate": "6g",
+        "fiber": "1g",
+        "sugar": "5g",
+        "added_sugar": "2g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/almond-cranberry-celery-logs"
+}

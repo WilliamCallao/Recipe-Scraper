@@ -1,0 +1,97 @@
+{
+    "title": "Tazón de Desayuno con Puré de Batata",
+    "keywords": "Main Dish,Breakfast and Brunch,Dinner,Lunch",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Main Dish",
+        "Breakfast and Brunch",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2165_Mashed%20Sweet%20Potato%20Breakfast%20Bowl%20-%20Original%20Photo.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "batatas",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "avena laminada a la antigua usanza",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Endulzante original Splenda® (dividido)",
+            "us_amount": "6 packet",
+            "metric_amount": "6 packet"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "mantequilla de almendras (sin sal o sin sal añadida)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "extracto puro de vainilla",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "arándanos",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Yogur griego natural sin grasa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "hojuelas de coco tostado sin azúcar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "semillas de lino enteras",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 grados F y cubra una bandeja para hornear con borde con papel de aluminio. Pinche las batatas con un tenedor y colóquelas en la bandeja para hornear preparada. Hornee hasta que las papas estén tiernas, aproximadamente entre 35 y 45 minutos. Deje enfriar durante 10 minutos.",
+        "Reduce la temperatura del horno a 375 grados F y cubre una bandeja para hornear con borde con papel pergamino. En un tazón mediano, mezcla la avena, 2 paquetes de endulzante Splenda, el aceite y la canela hasta que se combinen. Extiende una capa uniforme sobre una bandeja para hornear preparada. Hornea hasta que esté ligeramente tostado, aproximadamente de 10 a 15 minutos. Reserva y deja enfriar por completo.",
+        "Quita la piel de las papas enfriadas y colócalas en un tazón mediano. Tritura las papas, 3 paquetes de endulzante Splenda, la mantequilla de almendras y la vainilla hasta que quede una mezcla homogénea.",
+        "Coloca la mezcla de papas en tazones y cubre con la mezcla de avena, arándanos, yogur, coco, semillas de lino y el paquete restante de endulzante Splenda. Sirve y disfruta."
+    ],
+    "tags": [
+        "Main Dish",
+        "Breakfast and Brunch",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "6g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "6mg",
+        "sodium": "45mg",
+        "total_carbohydrate": "24g",
+        "fiber": "4g",
+        "sugar": "9g",
+        "added_sugar": "1g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mashed-sweet-potato-breakfast-bowl"
+}

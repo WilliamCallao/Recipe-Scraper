@@ -1,0 +1,87 @@
+{
+    "title": "Ensalada Verde con Vinagreta de Frambuesa",
+    "keywords": "Gluten-Free,Holidays & Entertaining,Quick & Easy,Salads,Sides,Vegetarian",
+    "prep_time": "PT25M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/nov_salad_rasp_vin_279x200.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "Frambuesas frescas (en puré)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "vinagre de vino blanco",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "piñones",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Frambuesas frescas",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Campo de verduras mixtas para bebés",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        }
+    ],
+    "instructions": [
+        "En un tazón pequeño, bata los ingredientes del aderezo.",
+        "En una ensaladera mediana, mezcle los ingredientes. Rocíe el aderezo sobre la ensalada y revuelva suavemente para cubrirla."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "72",
+        "total_fat": "5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "122mg",
+        "total_carbohydrate": "6g",
+        "fiber": "3g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/green-salad-raspberry-vinaigrette"
+}

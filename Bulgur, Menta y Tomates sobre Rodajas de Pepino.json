@@ -1,0 +1,98 @@
+{
+    "title": "Bulgur, Menta y Tomates sobre Rodajas de Pepino",
+    "keywords": "Snacks,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Snacks",
+        "Sides"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/RecId_630_CarbControl_CucumberRound__022518.jpg",
+        "Mint",
+        "And Tomatoes On Cucumber Rounds\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "bulgur de cocción rápida (seco)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "menta fresca (finamente picada)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "tomate ciruela mediano (cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "vinagre de sidra",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla roja (finamente picada)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pepino(s) (de aproximadamente 1/4 de pulgada de grosor cada uno, 12 onzas en total)",
+            "us_amount": "32 slice",
+            "metric_amount": "32 slice"
+        }
+    ],
+    "instructions": [
+        "Ponga a hervir el agua y el bulgur en una cacerola mediana a fuego alto. Reduzca el fuego, cubra y cocine a fuego lento durante 12 minutos.",
+        "Mientras tanto, combine los ingredientes restantes, excepto el pepino, en un tazón mediano.",
+        "Escurre el bulgur en un colador de malla fina y pásalo por agua fría para enfriarlo rápidamente. Sacude el exceso de líquido y mézclalo con la mezcla de tomate."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Snacks",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "110mg",
+        "total_carbohydrate": "15g",
+        "fiber": "4g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/bulgur-mint-and-tomatoes-cucumber-rounds"
+}

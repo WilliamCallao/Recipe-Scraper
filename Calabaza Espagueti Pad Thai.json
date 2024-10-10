@@ -1,0 +1,98 @@
+{
+    "title": "Calabaza Espagueti Pad Thai",
+    "keywords": "Main Dish,Lunch,Dinner,Budget Friendly",
+    "prep_time": "PT15M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/023-diabetic-Pad-Thai-Spaghetti-Squash-491621512.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Calabaza espagueti mediana (2,5 libras)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla verde (cebolleta) (picada)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "zanahoria(s) (cortadas en cubitos finos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "calabacín (cortado en cubitos finos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "champiñones blancos (de botón) (picados)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Jengibre molido",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Salsa Pad Thai (preparada)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Camarones (cocidos, pelados y sin cola)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "cilantro (picado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Corte la calabaza espagueti por la mitad a lo largo y retire las semillas. Coloque la calabaza en una fuente para horno apta para microondas, con el lado cortado hacia abajo. Cúbrala sin apretar con una tapa y deje espacio para que se ventile. Cocine en el microondas durante 10 a 15 minutos, girándola cada 5 minutos. La calabaza estará lista cuando esté blanda al tacto. Déjela a un lado.",
+        "Calienta el aceite de oliva en una sartén grande a fuego medio-alto. Agrega las cebolletas, las zanahorias, el calabacín y los champiñones y saltéalos durante 5 a 7 minutos. Agrega el ajo y saltea durante 30 segundos. Agrega el jengibre y la salsa Pad Thai y calienta durante 2 minutos. Mezcla bien.",
+        "Utilice un tenedor para sacar los espaguetis de calabaza. Agregue los “fideos” de espaguetis de calabaza y los camarones a la sartén con las verduras. Caliente durante otros 2 minutos y mezcle bien. Cubra con cilantro picado."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Asian",
+        "Main Dish",
+        "Lunch",
+        "Dinner",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "105mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "19g",
+        "fiber": "4g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "16g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pad-thai-spaghetti-squash"
+}

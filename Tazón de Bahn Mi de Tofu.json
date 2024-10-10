@@ -1,0 +1,149 @@
+{
+    "title": "Tazón de Bahn Mi de Tofu",
+    "keywords": "Cooking for 1 or 2,Dinner,Lunch,Main Dish,Vegetarian",
+    "prep_time": "PT30M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2076-diabetic-low-carb-korean-tofu-bahn-mi-bowl_low-carb-brissette_050721.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "zanahoria rallada",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Rábano daikon rallado (o rábano rojo normal)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "chile jalapeño (cortado en rodajas finas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "vinagre de arroz (uso dividido)",
+            "us_amount": "1/2 cup plus 1/2 tbsp",
+            "metric_amount": "1/2 cup plus 1/2 tbsp"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "tofu extra firme",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "jugo de lima (uso dividido)",
+            "us_amount": "2 tbsp plus 2 tsp",
+            "metric_amount": "2 tbsp plus 2 tsp"
+        },
+        {
+            "name": "Tamari reducido en sodio (uso dividido)",
+            "us_amount": "2 tbsp plus 1 tsp",
+            "metric_amount": "2 tbsp plus 1 tsp"
+        },
+        {
+            "name": "sriracha",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "mayonesa",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "aceite de sésamo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "repollo rojo rallado",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "repollo napa rallado",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "pepino en rodajas finas",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cilantro fresco picado",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "albahaca fresca picada",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "maní picado sin sal",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Prepara los vegetales encurtidos: Agrega la zanahoria, el rábano, el jalapeño, 1/2 taza de vinagre, agua y sal en un tazón pequeño. Tapa y refrigera por 20 minutos.",
+        "Escurre el tofu: cubre un plato con un paño de cocina limpio o con 4 capas de toallas de papel. Coloca el tofu sobre el paño o las toallas y dobla el resto de las toallas sobre el tofu para cubrirlo. Coloca otro plato sobre esos paños y coloca algo pesado en la parte superior de la pila. Deja reposar al menos unos minutos para eliminar parte del agua del tofu.",
+        "Marinar el tofu: después de escurrirlo, cortar el tofu en 8 rodajas y colocarlo en un bol mediano. Agregar el jugo de lima, 2 cucharadas de tamari y salsa sriracha. Tapar y dejar marinar durante 10 minutos.",
+        "Prepare el aderezo: en un tazón pequeño, mezcle la mayonesa, la 1/2 cucharada restante de vinagre de arroz, las 2 cucharaditas restantes de jugo de limón, la cucharadita restante de tamari, el aceite de sésamo, el ajo en polvo y la pimienta.",
+        "Cocina el tofu: calienta el aceite de aguacate en una sartén mediana a fuego medio-alto. Escurre el tofu y desecha el exceso de marinada. Agrega las rodajas de tofu a la sartén en una sola capa (cocínalas en tandas si es necesario). Cocina durante 6 minutos por lado o hasta que estén doradas.",
+        "Prepara los tazones: divide las coles en dos tazones grandes. Cubre cada uno con la mitad de las rodajas de pepino y 4 rodajas de tofu. Escurre la zanahoria y el rábano encurtidos y cubre cada tazón con la mitad de las verduras encurtidas. Rocía la mitad del aderezo sobre cada tazón y luego decora cada uno con cilantro, albahaca y maní."
+    ],
+    "tags": [
+        "Lower Carb",
+        "High in Fiber",
+        "Asian",
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "360",
+        "total_fat": "27g",
+        "saturated_fat": "3.5g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "740mg",
+        "total_carbohydrate": "18g",
+        "fiber": "5g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tofu-bahn-mi-bowl"
+}

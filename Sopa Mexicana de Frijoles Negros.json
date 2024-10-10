@@ -1,0 +1,106 @@
+{
+    "title": "Sopa Mexicana de Frijoles Negros",
+    "keywords": "Sides,Lunch,Dinner,Snacks,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Sides",
+        "Lunch",
+        "Dinner",
+        "Snacks",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_356_Mexican_Black_Bean_Soup_ThinkstockPhotos-170134458_02282018.jpg",
+    "servings": "7 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "cebolla (cortada en cubitos)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "pechuga de pollo deshuesada y sin piel (cortada en cubos de 1/2 pulgada)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "Condimento para adobo (uso dividido)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "tomates asados ​​al fuego",
+            "us_amount": "1 (14.5-oz) can",
+            "metric_amount": "1 (14.5-oz) can"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "comino",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "maíz congelado",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "frijoles negros (enjuagados y escurridos)",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio",
+            "us_amount": "40 oz",
+            "metric_amount": "1 l 132 ml"
+        }
+    ],
+    "instructions": [
+        "Rocíe una olla grande para sopa con aceite en aerosol. Agregue aceite y cebolla y saltee a fuego medio-alto durante 3 minutos o hasta que la mezcla esté transparente.",
+        "Agregue el pollo y sazone con 1/4 cucharadita de condimento para adobo y pimienta. Cocine el pollo hasta que esté ligeramente dorado, aproximadamente de 6 a 7 minutos.",
+        "Agregue los ingredientes restantes (incluido el 1/4 de cucharadita restante de condimento de adobo). Reduzca el fuego y cocine a fuego lento durante 15 minutos."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Sides",
+        "Lunch",
+        "Dinner",
+        "Snacks",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "420mg",
+        "total_carbohydrate": "15g",
+        "fiber": "5g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mexican-black-bean-soup"
+}

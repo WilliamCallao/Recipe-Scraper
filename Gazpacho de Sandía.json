@@ -1,0 +1,109 @@
+{
+    "title": "Gazpacho de Sandía",
+    "keywords": "Appetizers,Foodie,Holidays & Entertaining,No Cook,One Pot,Sides,Soup,Vegan,Vegetarian",
+    "prep_time": "PT1H15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "Foodie",
+        "Holidays & Entertaining",
+        "No Cook",
+        "One Pot",
+        "Sides",
+        "Soup",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/diabetic%20gazpacho.png",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "sandía sin semillas (en cubos)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "pepino(s) (pelados y sin semillas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimiento rojo picado",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "tomate(s) (sin corazón, semillas ni membranas)",
+            "us_amount": "4 med",
+            "metric_amount": "4 med"
+        },
+        {
+            "name": "chalotes (picados)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "chile jalapeño (cortado y sin semillas)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "vinagre de jerez",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "albahaca fresca (cortada en juliana)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Para servir, repartir el gazpacho en tazones y espolvorear con albahaca. Si se desea, añadir un chorrito de aceite de oliva.",
+        "Refrigerar el gazpacho al menos una hora antes de servir.",
+        "Coloque la sandía, el pepino, el pimiento morrón, los tomates, la chalota, el jalapeño, el vinagre, el aceite de oliva, la sal y la pimienta en una licuadora. Licue hasta que quede una mezcla homogénea. Pruebe y ajuste los condimentos si es necesario."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Veggie Rich",
+        "Latin American",
+        "Appetizers",
+        "Foodie",
+        "Holidays & Entertaining",
+        "No Cook",
+        "One Pot",
+        "Sides",
+        "Soup",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "18g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "14g",
+        "fiber": "2g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/watermelon-gazpacho"
+}

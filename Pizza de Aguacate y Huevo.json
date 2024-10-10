@@ -1,0 +1,78 @@
+{
+    "title": "Pizza de Aguacate y Huevo",
+    "keywords": "Breakfast and Brunch,Budget Friendly,Dinner,Gluten-Free,Lunch,Main Dish,Quick & Easy",
+    "prep_time": "PT10M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Avocadi%20Egg%20Pizza%20for%20Diabetics.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "huevos (dorados hacia arriba)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "aguacate (en rodajas)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "espinaca",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "corteza de pizza de coliflor",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425 grados F.",
+        "Saque la masa de pizza CAULIPOWER® de la caja y del envoltorio plástico y colóquela sobre una superficie limpia.",
+        "Calienta la sartén, fríe los huevos y colócalos sobre la base de la pizza.",
+        "Cubra con espinacas, aguacate y aceite de oliva.",
+        "Coloque la pizza en el horno y hornéela durante 13 a 16 minutos.",
+        "Retirar del horno, dejar enfriar y servir."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Italian",
+        "Kid Friendly",
+        "Breakfast and Brunch",
+        "Budget Friendly",
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "300",
+        "total_fat": "20g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "150mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "25g",
+        "fiber": "3g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/avocado-egg-pizza"
+}

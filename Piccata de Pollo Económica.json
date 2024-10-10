@@ -1,0 +1,109 @@
+{
+    "title": "Piccata de Pollo Económica",
+    "keywords": "Dinner,Quick & Easy,Main Dish,Budget Friendly",
+    "prep_time": "PT20M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Dinner",
+        "Quick & Easy",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_90615202.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel",
+            "us_amount": "20 oz",
+            "metric_amount": "566 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "harina de trigo integral",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "jugo de 1 limón",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "migas de pan",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "condimento italiano",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "alcaparras (escurridas y enjuagadas)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Perejil fresco picado",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 475 grados F. Cubra una bandeja para hornear con aceite en aerosol y reserve.",
+        "Corte la pechuga de pollo por la mitad a lo largo y luego golpéela hasta que tenga un grosor de 1/4 de pulgada. Sazone cada pechuga de pollo con sal y pimienta negra molida.",
+        "Prepare tres tazones anchos o recipientes de fondo plano. Llene el primer tazón con la harina integral, el segundo tazón con el huevo y 1 cucharadita de jugo de limón, y el tercer tazón con el pan rallado y el condimento italiano. Bata el huevo y el jugo de limón juntos. Combine el pan rallado y el condimento italiano y mezcle bien.",
+        "Reboza una pechuga de pollo en la harina y sacude el exceso. Luego, pásala por el huevo y luego por la mezcla de pan rallado. Colócala en la bandeja para hornear. Repite este proceso con las tres pechugas de pollo restantes.",
+        "Rocíe la parte superior de cada pechuga de pollo con aceite en aerosol y hornee durante 8 minutos. Dé vuelta las pechugas de pollo y hornee durante 5 minutos más. Asegúrese de que el pollo esté cocido a una temperatura interna de 165 grados F.",
+        "Mientras se hornea el pollo, calienta el aceite y una cantidad generosa de aceite en aerosol a fuego medio en una sartén antiadherente pequeña. Agrega las alcaparras y saltea durante 2 o 3 minutos.",
+        "Añade aproximadamente 1 cucharada de jugo de limón y cocina hasta que el jugo de limón se reduzca por completo. Agrega el caldo de pollo y cocina a fuego lento hasta que se reduzca a la mitad. Incorpora el perejil.",
+        "Retire el pollo del horno y sirva con 1 cucharada de salsa rociada sobre el pollo."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Italian",
+        "Dinner",
+        "Quick & Easy",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "280",
+        "total_fat": "8g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "130mg",
+        "sodium": "470mg",
+        "total_carbohydrate": "17g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "35g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/budget-friendly-chicken-piccata"
+}

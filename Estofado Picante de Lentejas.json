@@ -1,0 +1,109 @@
+{
+    "title": "Estofado Picante de Lentejas",
+    "keywords": "Dinner,Foodie,Lunch",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_359686775.jpg",
+    "servings": "9 Servings",
+    "ingredients": [
+        {
+            "name": "apio (dados medianos)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Salchicha de pollo picante (jalapeño o andouille)",
+            "us_amount": "14 oz",
+            "metric_amount": "396 ml"
+        },
+        {
+            "name": "cebolla mediana (cortada en dados medianos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zanahoria(s) (dados medianos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "pimiento rojo (dados medianos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "agua",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "Caldo de pollo bajo en sodio (14,5 onzas, reducido en sodio, sin grasa)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "lentejas (secas)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "sal (opcional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "hojas de laurel",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Perejil fresco (picado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Rocíe una olla grande con aceite en aerosol y saltee la salchicha a fuego medio-alto hasta que esté ligeramente dorada.",
+        "Agregue el apio, las cebollas, las zanahorias y el pimiento rojo a la olla y saltee a fuego medio-alto durante aproximadamente 4 minutos o hasta que las cebollas comiencen a volverse transparentes.",
+        "Añade el agua, el caldo, las lentejas, la sal, la pimienta y la hoja de laurel. Lleva a ebullición; reduce el fuego y deja cocinar a fuego lento durante 1 hora.",
+        "Retirar la hoja de laurel, añadir el perejil y servir."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mediterranean",
+        "Comfort Food",
+        "Indian",
+        "Dinner",
+        "Foodie",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "155",
+        "total_fat": "4g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "390mg",
+        "total_carbohydrate": "18g",
+        "fiber": "6g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spicy-lentil-stew"
+}

@@ -1,0 +1,112 @@
+{
+    "title": "Congrí Ligero (Frijoles Negros y Arroz Cubano)",
+    "keywords": "Sides,Vegetarian,Vegan,Lunch,Holidays & Entertaining,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Sides",
+        "Vegetarian",
+        "Vegan",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Dinner"
+    ],
+    "image_url": "",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "frijoles negros (secos, seleccionados y enjuagados (1 1/2 tazas))",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "agua (dividida (use más si es necesario))",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "arroz integral crudo",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "sal marina",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "aceite de aguacate (dividido)",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pimiento verde (picado finamente)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "pimiento rojo (picado finamente)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Cebolla española (finamente picada)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "ajo (finamente picado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Orégano seco (seco)",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "hojas de laurel (secas)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        }
+    ],
+    "instructions": [
+        "En una olla a presión, agregue los frijoles enjuagados y 3 tazas de agua y cubra. Coloque la olla a presión en la estufa y enciéndala a fuego alto. Una vez que los frijoles comiencen a hervir, baje el fuego a medio y cocine los frijoles hasta que estén tiernos, aproximadamente 45 minutos. Asegúrese de que los frijoles estén sumergidos en agua mientras se cocinan; agregue más agua si es necesario.",
+        "Una vez que los frijoles estén tiernos, agregue el arroz, 1 taza de agua, sal y 1/2 cucharadita de aceite de aguacate. Revuelva bien y agregue el resto de los ingredientes. Revuelva una vez más con una cuchara y asegúrese de poner un poco de cadera en la mezcla.",
+        "Asegúrate de que haya aproximadamente 3/4 de pulgada de agua por encima de los frijoles. Cubre la mezcla y pon a fuego medio-bajo. Cocina durante 15 minutos o hasta que el arroz esté tierno. Una vez que el congrí esté listo, esponje con un tenedor y sirva. ¡Disfrute!"
+    ],
+    "tags": [
+        "High in Fiber",
+        "Caribbean",
+        "Sides",
+        "Vegetarian",
+        "Vegan",
+        "Lunch",
+        "Holidays & Entertaining",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "2g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "29g",
+        "fiber": "6g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/congri-light-cuban-black-beans-and-rice"
+}

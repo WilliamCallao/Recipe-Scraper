@@ -1,0 +1,70 @@
+{
+    "title": "Wrap Mediterráneo de Pavo",
+    "keywords": "Sandwiches,Quick & Easy,Lunch",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sandwiches",
+        "Quick & Easy",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_355_Mediterranean_Turkey_Wrap_MG_5769-%28ZF-5661-35964-1-018%29_02282018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "humus",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "trigo integral (wraps, calentados)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "pavo deli bajo en sodio",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "pepino grande (pelado y cortado en cubitos (aproximadamente 1 taza))",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "Tomates roma (ciruela) (cortados en cubitos (aproximadamente 1 taza))",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "queso feta desmenuzado bajo en grasa",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Unte 2 cucharadas de hummus sobre el wrap. Cubra con 3 onzas de pavo, 1/4 taza de pepino, 1/4 taza de tomates, 1 cucharada de queso feta y 1 aceituna cortada en cubitos. Doble el wrap para cerrar.",
+        "Repita el procedimiento para las 3 envolturas restantes."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mediterranean",
+        "Sandwiches",
+        "Quick & Easy",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "6g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "490mg",
+        "total_carbohydrate": "30g",
+        "fiber": "10g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "28g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mediterranean-turkey-wrap"
+}

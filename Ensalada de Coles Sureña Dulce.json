@@ -1,0 +1,111 @@
+{
+    "title": "Ensalada de Coles Sureña Dulce",
+    "keywords": "Salads,Vegetarian,Sides,Quick & Easy,No Cook,Holidays & Entertaining",
+    "prep_time": "PT1H",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "No Cook",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/2056_diabetic-southern-ColeSlaw_Splenda_044721.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "mayonesa ligera",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Vinagre de sidra de manzana",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "mostaza de dijon",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Edulcorante granulado Splenda®",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "semillas de hinojo",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        },
+        {
+            "name": "repollo rallado",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "zanahorias ralladas",
+            "us_amount": "1 (6-oz) bag",
+            "metric_amount": "1 (6-oz) bag"
+        },
+        {
+            "name": "cebolla roja cortada en cubitos",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "pimiento amarillo (cortado en rodajas finas)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "pimiento rojo (cortado en rodajas finas)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "rábanos (en rodajas finas)",
+            "us_amount": "5",
+            "metric_amount": "5"
+        }
+    ],
+    "instructions": [
+        "En un recipiente grande para servir, combine la mayonesa, el vinagre, el jugo de limón, la mostaza, la Splenda y las semillas de hinojo; bata hasta que estén bien mezclados. Agregue pimienta negra a gusto.",
+        "Añade el repollo, las zanahorias, la cebolla roja, los pimientos morrones y los rábanos al bol con el aderezo; revuelve suavemente para cubrir con el aderezo. Refrigera durante 1 hora antes de servir para obtener un mejor sabor."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Salads",
+        "Vegetarian",
+        "Sides",
+        "Quick & Easy",
+        "No Cook",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "10g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "1g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-southern-coleslaw"
+}

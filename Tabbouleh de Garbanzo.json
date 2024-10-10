@@ -1,0 +1,108 @@
+{
+    "title": "Tabbouleh de Garbanzo",
+    "keywords": "Holidays & Entertaining,Quick & Easy,Salads,Sides,Snacks,Vegetarian",
+    "prep_time": "PT30M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/mar2015-chickpeatabbouleh.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "trigo bulgur",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "agua caliente (para cubrir y remojar el bulgur)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Perejil fresco (aproximadamente 1/2 libra), sin tallos gruesos)",
+            "us_amount": "2 bunch",
+            "metric_amount": "2 bunch"
+        },
+        {
+            "name": "menta fresca (picada)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pepino(s) (pelados, sin semillas y cortados en cubitos)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cebolla verde (cebolleta) (finamente picada (aproximadamente 1/2 taza))",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "tomates pequeños (aproximadamente 1 libra), cortados en cubitos (aproximadamente 2 1/2 tazas)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "Pimiento rojo mediano (sin semillas y cortado en cubitos (aproximadamente 1/2 taza))",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "garbanzos enlatados (escurridos y enjuagados)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "jugo de limón fresco",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tbsp",
+            "metric_amount": "4 ml"
+        }
+    ],
+    "instructions": [
+        "Enjuague el trigo bulgur y agréguelo a un tazón pequeño. Vierta agua caliente sobre el bulgur, tápelo y déjelo en remojo durante unos 20 minutos, hasta que doble su tamaño. Escurra el exceso de líquido, si lo hubiera, y coloque el bulgur en un tazón grande.",
+        "Picar el perejil hasta que tenga una consistencia medianamente fina. Debe conservar cierta textura y no debe parecer un puré. Agregar el perejil al trigo bulgur y agregar el resto de los ingredientes de la ensalada. Tapar y reservar.",
+        "Para preparar la vinagreta, en un bol pequeño, mezcle los ingredientes. Añádalos a la ensalada; pruebe y ajuste los condimentos. Agregue más jugo de limón si lo desea. Coloque el tabbouleh en una fuente para servir."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Mediterranean",
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Salads",
+        "Sides",
+        "Snacks",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "95",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "110mg",
+        "total_carbohydrate": "12g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chickpea-tabbouleh"
+}

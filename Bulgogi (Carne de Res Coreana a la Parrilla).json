@@ -1,0 +1,89 @@
+{
+    "title": "Bulgogi (Carne de Res Coreana a la Parrilla)",
+    "keywords": "Budget Friendly,Dinner,Main Dish",
+    "prep_time": "PT35M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/137-diabetic-bulgogi-grilled-korean-beef_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Solomillo de ternera magro y deshuesado",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "cebolla verde (cebolleta) ((partes blancas y verdes), picada)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "vinagre de vino de arroz",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "agua",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "salsa de soja baja en sodio",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Miel o 2 paquetes de sustituto de azúcar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "verduras congeladas salteadas",
+            "us_amount": "1 (16-oz) bag",
+            "metric_amount": "1 (16-oz) bag"
+        }
+    ],
+    "instructions": [
+        "Envuelva la carne en film transparente y congélela hasta que esté firme (pero no dura como una piedra). Una vez que esté firme, corte la carne en tiras finas y colóquela en una fuente para horno.",
+        "En un bol pequeño, mezcle las cebolletas, el ajo, el vinagre de vino de arroz, el agua, la salsa de soja, el edulcorante (miel o sustituto del azúcar) y la pimienta. Vierta la mezcla sobre la carne y déjela marinar en el refrigerador durante al menos 30 minutos, hasta 2 horas. Mientras la carne se marina, precaliente una parrilla interior o exterior.",
+        "Saque la carne de la marinada y sacuda el exceso de marinada. Ase la carne durante 2 o 3 minutos de cada lado o hasta que esté cocida a punto medio.",
+        "Cocine al vapor las verduras y sirva la carne sobre las verduras al vapor."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Asian",
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "4.5g",
+        "saturated_fat": "1.6g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "13g",
+        "fiber": "3g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/bulgogi-grilled-korean-beef"
+}

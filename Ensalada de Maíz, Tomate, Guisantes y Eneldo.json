@@ -1,0 +1,89 @@
+{
+    "title": "Ensalada de Maíz, Tomate, Guisantes y Eneldo",
+    "keywords": "Gluten-Free,Salads,Sides,Vegan,Vegetarian",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Gluten-Free",
+        "Salads",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/may13_corn-tomato-pea-salad_279x200.jpg",
+        "Tomato",
+        "Pea and Dill Salad\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Pimienta recién molida, al gusto",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sal al gusto",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "hojas de albahaca fresca (desgarradas)",
+            "us_amount": "10",
+            "metric_amount": "10"
+        },
+        {
+            "name": "Eneldo fresco (finamente picado (aproximadamente 4 cucharadas))",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        },
+        {
+            "name": "Tomates cherry (cortados por la mitad)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "guisantes dulces o guisantes ingleses",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "maíz congelado (descongelado)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque los guisantes en una cacerola y cúbralos con agua. Llévelos a hervir a fuego alto y cocínelos durante 5 minutos o hasta que estén tiernos. Escúrralos. Enjuáguelos con agua fría.",
+        "Combine los guisantes, el maíz, los tomates, el aceite de oliva, el eneldo, la albahaca, la sal y la pimienta en un bol grande. Mezcle bien. Sirva a temperatura ambiente."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Gluten-Free",
+        "Salads",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "105",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "5mg",
+        "total_carbohydrate": "10g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/corn-tomato-pea-and-dill-salad"
+}

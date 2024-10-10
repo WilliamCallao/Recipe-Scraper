@@ -1,0 +1,90 @@
+{
+    "title": "Muslos de Pollo Asados con Especias y Limones",
+    "keywords": "Holidays & Entertaining,Foodie,Dinner,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT40M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/spice-rubbed-roast-chicken-thighs-revised.jpeg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "limón (cortado en cuartos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "muslos de pollo",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "granos de pimienta negra",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "semillas de cilantro",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "semillas de hinojo",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400° F. Agregue las semillas de hinojo, las semillas de cilantro y los granos de pimienta a una sartén pequeña y tuéstelos a fuego medio-alto durante 1 a 2 minutos, hasta que desprendan su aroma. Deje que las especias se enfríen y luego muélelas hasta obtener un polvo fino en un molinillo de especias o café. Agregue la mezcla de especias a un tazón pequeño. Mezcle el chile en polvo, la canela y la sal; reserve.",
+        "Frote los muslos de pollo con la mezcla de especias. Coloque los muslos en una fuente grande para horno. Rocíe el aceite de oliva sobre el pollo. Ase el pollo durante 30 minutos. Agregue los limones y ase durante 10 minutos, hasta que el pollo esté bien cocido y los limones estén ligeramente dorados. Con pinzas, exprima los limones sobre el pollo y sirva."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Comfort Food",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "10g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "105mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "3g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spice-rubbed-roasted-chicken-thighs-lemons"
+}

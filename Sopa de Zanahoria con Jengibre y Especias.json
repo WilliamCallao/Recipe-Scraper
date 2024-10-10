@@ -1,0 +1,109 @@
+{
+    "title": "Sopa de Zanahoria con Jengibre y Especias",
+    "keywords": "Vegetarian,Vegan,Soup,Main Dish,Foodie,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Soup",
+        "Main Dish",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Carrot%20Ginger%20Soup%20Diabetic.png",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "zanahorias (peladas y picadas)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "cebolla(s) (picadas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "jengibre fresco (rallado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cilantro molido",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cúrcuma molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "caldo de verduras bajo en sodio",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "leche de coco sin azúcar",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cilantro fresco (para decorar)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "En una olla grande, calienta el aceite de oliva a fuego medio. Agrega la cebolla picada y saltea hasta que esté transparente, 4 a 5 minutos.",
+        "Añade el ajo picado y el jengibre recién rallado. Saltéalos durante 1 o 2 minutos hasta que desprendan un aroma fragante. Incorpora el cilantro y la cúrcuma. Cocina durante un minuto más para tostar las especias.",
+        "Añade las zanahorias picadas a la olla y saltéalas durante unos minutos, cubriéndolas con las especias aromáticas.",
+        "Verter el caldo de verduras y llevar a ebullición a fuego lento. Tapar la olla y dejar cocinar las zanahorias hasta que estén tiernas.",
+        "Una vez que las zanahorias estén cocidas, use una licuadora de inmersión para hacer un puré con la sopa hasta que quede suave. Otra opción es pasar la sopa con cuidado a una licuadora y procesarla hasta que quede suave, luego regrésela a la olla.",
+        "Agregue la leche de coco y condimente la sopa con sal y pimienta al gusto.",
+        "Deje que la sopa hierva a fuego lento durante unos minutos más para calentarla.",
+        "Sirva la sopa de zanahoria y jengibre especiada caliente, adornada con cilantro fresco picado."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Indian",
+        "Asian",
+        "Vegetarian",
+        "Vegan",
+        "Soup",
+        "Main Dish",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "4g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "9g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spiced-ginger-carrot-soup"
+}

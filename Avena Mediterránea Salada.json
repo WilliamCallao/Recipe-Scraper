@@ -1,0 +1,86 @@
+{
+    "title": "Avena Mediterránea Salada",
+    "keywords": "Quick & Easy,Vegetarian,Breakfast and Brunch",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Vegetarian",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/481-diabetic-breakfast-Savory-Mediterranean-Oats_With-or-without-meat_071019.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "caldo de verduras bajo en sodio (bajo en sodio)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "tomate grande secado al sol (mitades, sin aceite, en rodajas finas (no rehidratar))",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Pizca de sal marina, o al gusto.",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimienta negra recién molida, o al gusto",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "avena laminada a la antigua usanza",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cebollino fresco (picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Yogur griego natural sin grasa (sin grasa)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "albahaca fresca (en rodajas finas)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "queso de cabra blando (desmenuzado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Ponga a hervir el caldo, los tomates secados al sol, la sal y la pimienta en una cacerola pequeña.",
+        "Incorpora la avena y las cebolletas y reduce el fuego a medio. Revuelve hasta que la avena esté completamente cocida, unos 5 minutos. Retira del fuego y añade el yogur. Rectifica la sazón.",
+        "Transfiera a un bol, espolvoree con la albahaca y el queso de cabra y sirva."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mediterranean",
+        "Quick & Easy",
+        "Vegetarian",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "5g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "360mg",
+        "total_carbohydrate": "37g",
+        "fiber": "6g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/savory-mediterranean-oats"
+}

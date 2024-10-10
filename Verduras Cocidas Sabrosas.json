@@ -1,0 +1,81 @@
+{
+    "title": "Verduras Cocidas Sabrosas",
+    "keywords": "Budget Friendly,Sides",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Budget Friendly",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_437462239.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "verduras tiernas (frescas)",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "aceite de maíz",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "cebolla(s) (picadas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1 1/4 cup",
+            "metric_amount": "296 ml"
+        },
+        {
+            "name": "caldo de pollo (cubo, bajo en sodio)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "azúcar",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Salsa Tabasco",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Retire los tallos y las hojas amarillentas de las verduras, luego enjuáguelas bien y escúrralas.",
+        "Calienta el aceite en una olla grande a fuego medio. Agrega la cebolla y saltea hasta que esté tierna.",
+        "Añade las verduras, el agua y el caldo a la olla. Tapa y deja que hierva. Reduce el fuego y cocina a fuego lento durante 30 minutos o hasta que las verduras estén tiernas, revolviendo de vez en cuando.",
+        "Agregue sal, azúcar y salsa Tabasco. Mezcle bien y cocine a fuego lento durante 5 minutos más. Puede servirse con vinagre de sidra para resaltar lo mejor de las verduras."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "Lower Carb",
+        "Budget Friendly",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "30",
+        "total_fat": "1g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "100mg",
+        "total_carbohydrate": "5g",
+        "fiber": "2g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tasty-cooked-greens"
+}

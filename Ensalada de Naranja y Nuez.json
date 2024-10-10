@@ -1,0 +1,99 @@
+{
+    "title": "Ensalada de Naranja y Nuez",
+    "keywords": "Holidays & Entertaining,Salads,Sides,Vegetarian",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Holidays & Entertaining",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/novdec2014-orange-and-walnut.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "naranjas grandes (peladas y cortadas en gajos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "ensalada mixta de hojas verdes",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "Cebolla roja pequeña (cortada en rodajas finas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zanahorias grandes (peladas y cortadas en rodajas finas)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "jugo de naranja fresco",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "jugo de limón fresco",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "mostaza de dijon",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "aceite de nuez",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Sal y pimienta al gusto",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "trozos de nuez",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque las verduras en una fuente. Cúbralas con las zanahorias, la cebolla y las naranjas.",
+        "Para la vinagreta, mezcle los jugos de naranja y limón, la miel y la mostaza. Agregue lentamente el aceite en un hilo fino, batiendo constantemente.",
+        "Rocíe la vinagreta sobre la ensalada. Añada sal y pimienta a gusto y espolvoree con nueces.",
+        "*Nota: Los datos nutricionales anteriores no incluyen sal agregada."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Holidays & Entertaining",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "135",
+        "total_fat": "9g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "55mg",
+        "total_carbohydrate": "13g",
+        "fiber": "3g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/orange-and-walnut-salad"
+}

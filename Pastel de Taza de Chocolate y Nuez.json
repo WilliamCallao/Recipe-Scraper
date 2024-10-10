@@ -1,0 +1,97 @@
+{
+    "title": "Pastel de Taza de Chocolate y Nuez",
+    "keywords": "Dessert,Foodie,Vegetarian,Snacks,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "PT1M",
+    "categories": [
+        "Dessert",
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_177_Chocolate_Walnut_Mug_Cake_ThinkstockPhotos496979402_04112018.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "cacao en polvo sin azúcar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "harina integral blanca",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Levadura en polvo",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pizca de sal",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "polvo de stevia",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "leche desnatada",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "nueces (picadas)",
+            "us_amount": "3/4 tbsp",
+            "metric_amount": "11 ml"
+        }
+    ],
+    "instructions": [
+        "Rocíe una taza de café con aceite en aerosol.",
+        "Agregue la harina, el cacao en polvo, el polvo para hornear, la sal, la stevia, el aceite de canola, la leche y la vainilla y revuelva para combinar.",
+        "Microondas durante 45 segundos.",
+        "Cubrir con las nueces y servir."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Comfort Food",
+        "Kid Friendly",
+        "Dessert",
+        "Foodie",
+        "Vegetarian",
+        "Snacks",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "200",
+        "total_fat": "12g",
+        "saturated_fat": "1.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "22g",
+        "fiber": "5g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chocolate-walnut-mug-cake"
+}

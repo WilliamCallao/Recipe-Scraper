@@ -1,0 +1,109 @@
+{
+    "title": "Filetes de Pescado Sellados con Salsa de Pimiento Rojo",
+    "keywords": "Dinner,Lunch,Main Dish",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/seared-fish-fillets-red-pepper-sauce-Jan16.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "polvo de chile",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "zumo de lima",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        },
+        {
+            "name": "jicama (cortada en cubitos)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "caldo de pollo o verduras",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "limón",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Orégano fresco (picado)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "pimiento rojo (sin corazón, sin semillas y cortado en cubitos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "chalotes (cortados en rodajas finas)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Para la salsa: Calienta 1 cucharada de aceite en una sartén grande a fuego medio-alto. Agrega las chalotas y saltéalas durante 3 minutos. Agrega los pimientos rojos y saltéalos durante 5 minutos, hasta que se ablanden. Agrega el ajo y saltéalos durante 1 minuto.",
+        "Añade el orégano, la ralladura de limón, el chile en polvo, la sal y 1/4 de cucharadita de pimienta negra y saltea durante 2 minutos. Vierte el caldo y deja que hierva. Luego reduce el fuego y cocina a fuego lento durante 10 minutos.",
+        "Mientras tanto, prepara los acompañamientos. Agrega la jícama a un tazón mediano y espolvoréala con el jugo de limón y el chile en polvo; reserva.",
+        "Añade la salsa de chalota y pimienta a una licuadora y haz un puré hasta que quede una mezcla homogénea. Reserva.",
+        "Espolvoree el pescado con sal y 1/4 cucharadita de pimienta negra. Caliente el aceite en una sartén grande. Agregue los filetes de pescado y dore durante unos 5 minutos por lado. Vuelva a calentar la salsa de pimienta en una cacerola pequeña, si es necesario. Sirva el pescado sobre un charco de salsa, con 1 tortilla y 1/2 taza de jícama por porción."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Seafood",
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "305",
+        "total_fat": "10g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "35mg",
+        "sodium": "385mg",
+        "total_carbohydrate": "26g",
+        "fiber": "7g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "28g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/seared-fish-fillets-red-pepper-sauce"
+}

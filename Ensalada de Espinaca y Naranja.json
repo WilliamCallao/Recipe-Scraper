@@ -1,0 +1,115 @@
+{
+    "title": "Ensalada de Espinaca y Naranja",
+    "keywords": "Cooking for 1 or 2,Dinner,Lunch,No Cook,Quick & Easy,Salad Dressings & Condiments,Salads,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Lunch",
+        "No Cook",
+        "Quick & Easy",
+        "Salad Dressings & Condiments",
+        "Salads",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1716-diabetic-spinach-orange-salad_Diab-Heart-Healthy-for-Two_012819.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "espinaca bebé",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "apio en rodajas",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Champiñones pequeños (cortados en rodajas)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Cebolla roja (cortada por la mitad y separada en aros)",
+            "us_amount": "1 slice",
+            "metric_amount": "1 slice"
+        },
+        {
+            "name": "naranja (pelada y cortada en gajos)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "zumo de naranja",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salsa de soja baja en sodio",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Jengibre molido",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pepitas",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "En una ensaladera mediana, mezcle las espinacas, el apio, los champiñones, la cebolla y los gajos de naranja.",
+        "En un bol pequeño, mezcle el resto de los ingredientes, excepto las semillas de calabaza. Rocíe sobre la ensalada. Mezcle bien. Adorne con las semillas de calabaza."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Lunch",
+        "No Cook",
+        "Quick & Easy",
+        "Salad Dressings & Condiments",
+        "Salads",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "105",
+        "total_fat": "5g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "115mg",
+        "total_carbohydrate": "13g",
+        "fiber": "2g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spinach-and-orange-salad"
+}

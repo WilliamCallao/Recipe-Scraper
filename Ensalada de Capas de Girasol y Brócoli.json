@@ -1,0 +1,86 @@
+{
+    "title": "Ensalada de Capas de Girasol y Brócoli",
+    "keywords": "Sides,Vegetarian,Salads",
+    "prep_time": "PT18M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Sides",
+        "Vegetarian",
+        "Salads"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/531-diabetic-sunflower-broccoli-salad_shutterstock1390723187_120919.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "floretes de brócoli del tamaño de un bocado (8 tazas)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "cebolla roja (en rodajas finas)",
+            "us_amount": "1/2 med",
+            "metric_amount": "1/2 med"
+        },
+        {
+            "name": "Pasas (o utilice cerezas ácidas secas)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "queso cheddar (recién rallado, extra fuerte)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "yogur natural (sin grasa)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Vinagre de sidra de manzana",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "mayonesa (orgánica o no transgénica)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "semillas de girasol tostadas y saladas",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "En un recipiente grande de vidrio para servir o para trifle, coloque en capas el brócoli, la cebolla, las pasas (o cerezas ácidas secas) y el queso.",
+        "En un bol pequeño, mezcle el yogur, el vinagre, la miel y la mayonesa. Vierta el aderezo uniformemente sobre la ensalada.",
+        "Tapar y refrigerar hasta el momento de servir. Espolvorear con las semillas de girasol justo antes de servir."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Sides",
+        "Vegetarian",
+        "Salads"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "6g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "100mg",
+        "total_carbohydrate": "19g",
+        "fiber": "3g",
+        "sugar": "12g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sunflower-broccoli-layer-salad"
+}

@@ -1,0 +1,108 @@
+{
+    "title": "Pollo BBQ con Miel a la Parrilla",
+    "keywords": "Main Dish,Dinner,Lunch",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Main Dish",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Splenda_Recipes_JUN_779x590.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Jarabe multiusos Splenda® (para la salsa de barbacoa \"miel\")",
+            "us_amount": "1/4",
+            "metric_amount": "1/4"
+        },
+        {
+            "name": "Ketchup sin azúcar añadido (para la salsa barbacoa \"miel\")",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Vinagre de sidra de manzana crudo (para la salsa de barbacoa con \"miel\")",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Salsa Worcestershire (para la salsa barbacoa \"Miel\")",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Humo líquido (para la salsa barbacoa \"Miel\")",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Pimentón ahumado (para la salsa barbacoa \"Miel\")",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Ajo (rallado, para la salsa barbacoa \"Miel\")",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Cebolla en polvo (para la salsa barbacoa \"Miel\")",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Sal kosher o marina (para la salsa barbacoa \"miel\")",
+            "us_amount": "1/4",
+            "metric_amount": "1/4"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel (5-6 onzas cada una)",
+            "us_amount": "6 whole",
+            "metric_amount": "6 whole"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Sal kosher",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra (al gusto)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Para preparar la salsa barbacoa con miel, agrega todos los ingredientes a una cacerola y revuelve. Lleva a hervor y luego reduce el fuego a mínimo. Cocina a fuego lento durante 10 minutos, hasta que la salsa espese. Vierte la salsa en un bol para usarla para pincelar el pollo mientras se asa. Reserva algunas cucharadas para rociar sobre el pollo después de que se haya cocinado.",
+        "Para el pollo, prepare la parrilla cepillando las rejillas hasta que queden limpias, rociándolas con un aceite en aerosol antiadherente apto para parrilla (o pincelándolas con cuidado con un poco de aceite) y caliente la parrilla a 400-450 °F.",
+        "Coloque el pollo en una fuente y rocíe con aceite de oliva, luego espolvoree sal kosher y pimienta negra recién molida en ambos lados.",
+        "Coloque cada pechuga de pollo en la parrilla caliente, cierre la parte superior y deje cocinar durante unos 5 minutos, hasta que se desprendan fácilmente de las rejillas de la parrilla. Luego, dé vuelta el pollo y cocínelo durante unos 5 minutos más del otro lado. Pincele el pollo generosamente con la salsa de barbacoa cada dos minutos. Dé vuelta el pollo una vez más, pincelando también generosamente el lado opuesto con la salsa.",
+        "Cocine hasta que las pechugas de pollo registren una temperatura interna de 160 °F (alcanzarán los 165 °F apropiados durante el tiempo de cocción restante). Asegúrese de no cocinarlas demasiado para que el pollo quede tierno y jugoso. Retire de la parrilla, agréguelas a una fuente y cúbralas con papel de aluminio. Deje reposar el pollo durante 5 minutos para redistribuir los jugos. Sirva con la salsa de barbacoa reservada y disfrute."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Kid Friendly",
+        "Main Dish",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "7g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "125mg",
+        "sodium": "500mg",
+        "total_carbohydrate": "18g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "38g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-honey-bbq-chicken"
+}

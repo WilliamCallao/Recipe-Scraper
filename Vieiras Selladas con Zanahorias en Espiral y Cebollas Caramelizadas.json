@@ -1,0 +1,100 @@
+{
+    "title": "Vieiras Selladas con Zanahorias en Espiral y Cebollas Caramelizadas",
+    "keywords": "Lunch,Main Dish,Quick & Easy,Dinner,Foodie",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Dinner",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_484_Seared_Sea_Scallops_with_Spiralized_Carrots_and_Caramelized_Onions_PNCImages_03012018.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "vieiras de mar",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "aceite de oliva (dividido)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla grande (cortada en rodajas finas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "zanahorias grandes (en espiral (o peladas con un pelador de verduras o en juliana con una mandolina))",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "vino blanco seco",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "cebollino fresco (picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pasta integral cocida",
+            "us_amount": "2 3/4 cup",
+            "metric_amount": "651 ml"
+        }
+    ],
+    "instructions": [
+        "Quite la lengüeta de cada vieira, si es necesario. La “lengüeta” es un músculo lateral, que puede o no estar adherido a la vieira. Se siente y se ve como una pequeña lengüeta y es más resistente que la vieira misma. Si la lengüeta todavía está adherida, tire suavemente para quitarla.",
+        "Seque las vieiras con una toalla de papel. Sazone ambos lados con sal y pimienta.",
+        "Añade 1 1/2 cucharadita de aceite de oliva a una sartén antiadherente a fuego alto.",
+        "Dorar las vieiras por ambos lados hasta que estén apenas cocidas, aproximadamente dos minutos de cada lado. Retirar de la sartén y reservar.",
+        "Añade el resto del aceite de oliva a la sartén y reduce el fuego a medio. Añade la cebolla y saltea hasta que se caramelice, unos cinco minutos.",
+        "Añade el ajo y las zanahorias y saltéalos durante tres minutos. Añade el vino y cocina hasta que se reduzca todo el líquido.",
+        "Añade las vieiras y los jugos acumulados a las verduras y saltea durante tres minutos para terminar de cocinar las vieiras.",
+        "Incorpore las cebolletas. Sirva 1 taza de la mezcla de vieiras sobre 2/3 de taza de pasta integral."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Seafood",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Dinner",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "4.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "370mg",
+        "total_carbohydrate": "37g",
+        "fiber": "5g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "20g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/seared-sea-scallops-spiralized-carrots-and-caramelized-onions"
+}

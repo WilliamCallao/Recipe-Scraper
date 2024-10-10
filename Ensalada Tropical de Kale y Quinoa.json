@@ -1,0 +1,95 @@
+{
+    "title": "Ensalada Tropical de Kale y Quinoa",
+    "keywords": "Dinner,Gluten-Free,Lunch,Salads,Sides,Vegan,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Salads",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1807-diabetic-tropical-quinoa_Superfoods-Cookbook_DFJulAug19_062019.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "zumo de naranja",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "jengibre fresco picado",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebollas verdes (picadas)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Almendras fileteadas",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "hojuelas de coco sin azúcar",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Trozos de piña enlatados en jugo sin azúcar añadido",
+            "us_amount": "1/2 (20-oz) can",
+            "metric_amount": "1/2 (20-oz) can"
+        },
+        {
+            "name": "col rizada fresca picada",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "quinua tricolor seca",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Combina la quinoa, la mezcla de col rizada, el coco y las almendras, y el resto de los ingredientes. Revuelve bien. Coloca cantidades iguales en tazones y sirve tibio o frío, según tu preferencia.",
+        "Colocar el coco y las almendras en una bandeja para horno y tostar en el horno durante unos 6 minutos. Revolver cada 2 minutos para evitar que se quemen.",
+        "Calienta el aceite en una sartén antiadherente a fuego medio-alto. Saltea la col rizada y los trozos de piña durante unos 4 minutos.",
+        "Cocine la quinua según las instrucciones del paquete, omitiendo la sal agregada.",
+        "Precaliente el horno a 350° F."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Salads",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "11g",
+        "saturated_fat": "2.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "20mg",
+        "total_carbohydrate": "30g",
+        "fiber": "5g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tropical-kale-quinoa-salad"
+}

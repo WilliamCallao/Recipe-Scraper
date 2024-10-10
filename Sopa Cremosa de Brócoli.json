@@ -1,0 +1,80 @@
+{
+    "title": "Sopa Cremosa de Brócoli",
+    "keywords": "Sides,Lunch",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/shutterstock_514630984.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "harina de trigo integral",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "cebollas (picadas pequeñas)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "caldo de pollo",
+            "us_amount": "6 cup",
+            "metric_amount": "1 l 420 ml"
+        },
+        {
+            "name": "brócoli (picado)",
+            "us_amount": "1 1/2 lbs",
+            "metric_amount": "680 ml"
+        },
+        {
+            "name": "mitad y mitad sin grasa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pimienta blanca",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "Lave bien el brócoli. Con un pelador de verduras, retire la capa exterior dura de los tallos. Pique el brócoli y reserve 1 taza de floretes para decorar.",
+        "Ponga a hervir a fuego lento el caldo de pollo y agregue el brócoli picado. Cocine durante unos minutos o hasta que el brócoli esté tierno, asegurándose de que el color no se opaque.",
+        "Haga puré el brócoli cocido y 1 taza de caldo de pollo en un procesador de alimentos. Reserve.",
+        "Añade aceite de oliva y cebollas a una olla y cocina a fuego lento. Espolvorea la harina y revuelve para mezclar. Continúa cocinando a fuego lento, asegurándote de que la harina se absorba y cambie ligeramente de color. Incorpora lentamente el caldo de pollo caliente a la mezcla de harina y deja que hierva a fuego lento. Agrega el puré de brócoli y la crema de leche; deja que hierva a fuego lento, revolviendo para combinar los ingredientes. Sazona con sal y pimienta y decora con floretes. Sirve caliente."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Kid Friendly",
+        "Sides",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "6g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "350mg",
+        "total_carbohydrate": "11g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cream-broccoli-soup"
+}

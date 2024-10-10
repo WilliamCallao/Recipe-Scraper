@@ -1,0 +1,87 @@
+{
+    "title": "Frijoles Negros y Tomates con Lima",
+    "keywords": "Easy Pantry Recipes,Salads,Sides,Appetizers,Lunch,Snacks",
+    "prep_time": "PT5M",
+    "cook_time": "PT7M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Salads",
+        "Sides",
+        "Appetizers",
+        "Lunch",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_620_CarbControl_BlackBeanLime__022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Aceite de Oliva Virgen Extra (uso fraccionada)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cebolla(s) (cortadas en cubitos)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "pimiento verde o chile poblano (cortado en cubitos)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "frijoles negros (sin sal añadida, enjuagados y escurridos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Tomates uva (cortados en cuartos)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "zumo de lima",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta 1 cucharadita de aceite en una sartén mediana a fuego medio-alto. Agrega las cebollas y los pimientos y cocina durante 3 minutos o hasta que las cebollas comiencen a dorarse, revolviendo de vez en cuando.",
+        "Añade los frijoles, los tomates y el comino. Cocina durante 3 minutos o hasta que los tomates estén tiernos, revolviendo de vez en cuando. Retira del fuego.",
+        "Espolvoree con sal y vierta con una cuchara el jugo de limón y el aceite restante uniformemente sobre todo. NO revuelva."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Easy Pantry Recipes",
+        "Salads",
+        "Sides",
+        "Appetizers",
+        "Lunch",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "15g",
+        "fiber": "4g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/black-beans-and-tomatoes-lime"
+}

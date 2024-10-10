@@ -1,0 +1,73 @@
+{
+    "title": "Kale Salteado con Tocino de Pavo",
+    "keywords": "Gluten-Free,Holidays & Entertaining,Quick & Easy,Sides",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/novdec2014-sauteed-kale-tky.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "tocino de pavo (cortado en trozos de 1 pulgada)",
+            "us_amount": "6 slice",
+            "metric_amount": "6 slice"
+        },
+        {
+            "name": "col rizada (picada)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio (sin grasa, reducido en sodio)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "vinagre de vino tinto",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "Calienta una olla grande a fuego medio-alto. Agrega el tocino de pavo y cocina durante 4-5 minutos hasta que esté listo.",
+        "Añade la col rizada y el caldo de pollo a la sartén; mezcla bien. Tapa y cocina durante 5 minutos.",
+        "Retire la tapa de la olla y agregue la pimienta negra y el vinagre de vino tinto."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Veggie Rich",
+        "Gluten-Free",
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "5g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "240mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sauteed-kale-turkey-bacon"
+}

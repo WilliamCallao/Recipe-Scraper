@@ -1,0 +1,104 @@
+{
+    "title": "Sándwich Abierto de Ensalada de Huevo y Espinaca",
+    "keywords": "Dinner,Lunch,Main Dish,Salads,Sandwiches,Vegetarian",
+    "prep_time": "PT30M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Salads",
+        "Sandwiches",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_776_Open%20Face%20Egg%20and%20Spinach%20Salad%20Sandwich_StressFreeKitchen_022618.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "huevo grande (duro)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "tomate(s) (picados (aproximadamente 1 tomate pequeño o 1/2 tomate mediano))",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "granos de maíz (ligeramente cocidos al vapor o utilice una mazorca de maíz fresca sobrante)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Cebolleta, 1–2 cebolletas, dependiendo de su tamaño (en rodajas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Perejil italiano (picado y plano)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "vinagre balsámico blanco",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sal marina (fina)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pimienta negra (recién molida)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pan integral rústico (como ciabatta o pan italiano de molde redondo)",
+            "us_amount": "1 slice",
+            "metric_amount": "1 slice"
+        },
+        {
+            "name": "espinaca bebé",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque el huevo en una cacerola lo suficientemente grande como para que quepa. Agregue suficiente agua fría para cubrir el huevo por 1 pulgada. Lleve a ebullición. Una vez que el agua hierva, observe con atención. Hierva durante 30 segundos a 1 minuto. Apague el fuego y cubra. (Deje reposar durante 18 minutos. Nota: Hervir el huevo demasiado tiempo da como resultado un anillo verde alrededor de la yema; sin embargo, aún es seguro comerlo).",
+        "Mezcle el tomate, el maíz, la cebolleta, el perejil, el aceite de oliva, el vinagre, la sal y la pimienta. Deje reposar para que se mezclen los sabores. Esto se puede hacer con anticipación.",
+        "Tostar el pan y colocarlo en un plato grande. Colocar las espinacas encima del pan.",
+        "Corte el huevo en 5 o 6 rodajas y colóquelas sobre las espinacas. Vierta la mezcla de tomate y maíz sobre el sándwich y sirva."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Comfort Food",
+        "Dinner",
+        "Lunch",
+        "Main Dish",
+        "Salads",
+        "Sandwiches",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "330",
+        "total_fat": "13g",
+        "saturated_fat": "2.8g",
+        "trans_fat": "0g",
+        "cholesterol": "185mg",
+        "sodium": "455mg",
+        "total_carbohydrate": "42g",
+        "fiber": "8g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/open-face-egg-spinach-salad-sandwich"
+}

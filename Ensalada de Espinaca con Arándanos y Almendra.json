@@ -1,0 +1,93 @@
+{
+    "title": "Ensalada de Espinaca con Arándanos y Almendra",
+    "keywords": "Salad Dressings & Condiments,Salads,Sides,No Cook,Lunch",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salad Dressings & Condiments",
+        "Salads",
+        "Sides",
+        "No Cook",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/3461_Cranberry%20Almond%20Spinach%20Salad.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva virgen extra (para el aliño)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "vinagre de vino blanco (para el aderezo)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Endulzante granulado Splenda® Monk Fruit (para el aderezo)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "cebolla seca picada (para el aderezo)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Semillas de amapola (para el aderezo)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "semillas de sésamo (para el aderezo)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Cebolla roja (en rodajas, para la ensalada)",
+            "us_amount": "1/2 small",
+            "metric_amount": "1/2 small"
+        },
+        {
+            "name": "Arándanos secos reducidos en azúcar (para la ensalada)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "espinacas (para la ensalada)",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "Almendras tostadas en rodajas (para la ensalada)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "En un bol grande, añade las espinacas frescas. Rocía la mezcla de aderezo sobre las espinacas y revuelve. Espolvorea con almendras tostadas y sirve.",
+        "En una cacerola, agrega todos los ingredientes para el aderezo. Revuelve y cocina hasta que se caliente y el edulcorante se disuelva. Retira del fuego. Agrega la cebolla roja cortada en rodajas y los arándanos rojos. Deja enfriar un poco."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Salad Dressings & Condiments",
+        "Salads",
+        "Sides",
+        "No Cook",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "10g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "40mg",
+        "total_carbohydrate": "9g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "1g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cranberry-almond-spinach-salad"
+}

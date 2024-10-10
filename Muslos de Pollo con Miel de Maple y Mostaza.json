@@ -1,0 +1,78 @@
+{
+    "title": "Muslos de Pollo con Miel de Maple y Mostaza",
+    "keywords": "Budget Friendly,Dinner,Main Dish",
+    "prep_time": "PT5M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/diabetic-Maple-Mustard-Chicken-Thighs_MFTK-comfort-favorites_040219.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "mostaza Dijon gruesa",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "jarabe de arce",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "muslos de pollo deshuesados ​​y sin piel",
+            "us_amount": "8 (about 1 1/2 lbs total)",
+            "metric_amount": "8 (about 1 1/2 lbs total)"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375° F. Cubra una fuente para hornear de 9 por 13 pulgadas con aceite en aerosol.",
+        "En un bol pequeño, combine la mostaza, el almíbar y el ajo. Mezcle bien y reserve.",
+        "Espolvorea uniformemente ambos lados del pollo con el sustituto de sal y la pimienta.",
+        "Sumerge ligeramente el pollo en la mezcla de mostaza y colócalo en la fuente para horno. Coloca con una cuchara el resto de la mezcla de mostaza sobre cada muslo de pollo.",
+        "Hornee durante 35 a 40 minutos o hasta que los jugos salgan transparentes y no quede nada rosado en el centro del pollo. Sirva caliente."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Comfort Food",
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "7g",
+        "saturated_fat": "1.8g",
+        "trans_fat": "0g",
+        "cholesterol": "160mg",
+        "sodium": "330mg",
+        "total_carbohydrate": "7g",
+        "fiber": "0g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "33g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/maple-mustard-chicken-thighs"
+}

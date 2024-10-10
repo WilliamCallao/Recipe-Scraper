@@ -1,0 +1,94 @@
+{
+    "title": "Tazas de Calabaza Espagueti de Un Bocado",
+    "keywords": "Sides,Holidays & Entertaining,Gluten-Free,Appetizers,Snacks",
+    "prep_time": "PT15M",
+    "cook_time": "PT50M",
+    "categories": [
+        "Sides",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Appetizers",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1664-diabetic-spaghetti-squash-bites_MFTK-comfort-favorites_100418_1021x779.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "Calabaza espagueti",
+            "us_amount": "3 lbs",
+            "metric_amount": "1 l 361 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cebolla finamente picada",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "queso crema (cortado en trozos de 1/2 pulgada, ablandado)",
+            "us_amount": "1/2 (8-ounce) package",
+            "metric_amount": "1/2 (8-ounce) package"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "condimento para aves",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "arándanos secos (para decorar)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Llene una olla sopera con 1 pulgada de agua; coloque la calabaza en el agua. Lleve a ebullición a fuego alto, cubra y cocine durante 25 a 30 minutos o hasta que esté tierna al pincharla con un cuchillo. Retire la calabaza a una tabla de cortar y deje que se enfríe un poco. Corte la calabaza por la mitad, a lo largo. Retire y deseche las semillas con una cuchara. Con un tenedor, raspe el interior de una mitad, desmenuzándola en tiras similares a fideos. Coloque la calabaza rallada en un tazón grande. Reserve la mitad restante para usarla más tarde.",
+        "Mientras tanto, en una sartén pequeña a fuego medio-bajo, calienta el aceite hasta que esté caliente. Cocina la cebolla y el ajo durante 3 a 4 minutos o hasta que se ablanden, revolviendo de vez en cuando; agrégalos a la calabaza.",
+        "Agregue el queso crema a la mezcla de calabaza y revuelva hasta que se integren bien. Agregue el huevo, el condimento para aves y la pimienta.",
+        "Precaliente el horno a 400 grados F. Rocíe con aceite en aerosol un molde para muffins de 24 tazas. Coloque cantidades iguales de la mezcla de calabaza en cada molde para muffins y presione ligeramente 2 o 3 arándanos rojos secos sobre cada uno. Hornee durante 25 a 30 minutos o hasta que estén ligeramente dorados. Deje enfriar un poco, luego retire del molde para muffins y sirva."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Veggie Rich",
+        "Lower Carb",
+        "Sides",
+        "Holidays & Entertaining",
+        "Gluten-Free",
+        "Appetizers",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "6g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "25mg",
+        "sodium": "40mg",
+        "total_carbohydrate": "7g",
+        "fiber": "1g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/one-bite-spaghetti-squash-cups"
+}

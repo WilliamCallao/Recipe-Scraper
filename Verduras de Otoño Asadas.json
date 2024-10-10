@@ -1,0 +1,81 @@
+{
+    "title": "Verduras de Otoño Asadas",
+    "keywords": "Holidays & Entertaining,Quick & Easy,Sides,Vegetarian,Gluten-Free",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/452-diabetic-roasted-fall-vegetables_shutterstock-782689867_111418.jpg",
+    "servings": "11 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "coliflor (cortada en floretes pequeños)",
+            "us_amount": "1 head (about 1 lb)",
+            "metric_amount": "1 head (about 1 lb)"
+        },
+        {
+            "name": "coles de Bruselas frescas (recortadas y cortadas por la mitad)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "zanahorias bebé",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 grados F. Rocíe una bandeja para hornear con aceite en aerosol.",
+        "En un bol grande, mezcla todos los ingredientes. Vierte las verduras en la bandeja para hornear preparada.",
+        "Hornee en la rejilla inferior del horno durante 25 minutos."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Low Sodium",
+        "Holidays & Entertaining",
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "4g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "140mg",
+        "total_carbohydrate": "7g",
+        "fiber": "3g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-fall-vegetables"
+}

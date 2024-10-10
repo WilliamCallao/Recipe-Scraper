@@ -1,0 +1,118 @@
+{
+    "title": "Hot Pockets de Trigo Integral",
+    "keywords": "Vegetarian,Sandwiches,Foodie,Dinner,Lunch",
+    "prep_time": "PT1H30M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Vegetarian",
+        "Sandwiches",
+        "Foodie",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-07/whole_wheat_hot_pocket.png",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "agua tibia (alrededor de 100 grados F)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Sustituto de azúcar moreno bajo en calorías",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "levadura seca activa",
+            "us_amount": "1 packet",
+            "metric_amount": "1 packet"
+        },
+        {
+            "name": "harina de trigo integral",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Champiñones blancos (cortados en cubitos)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "espinacas cocidas",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Sal (opcional, uso dividido)",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "queso mozzarella (bajo en grasa)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "huevos (batidos con 1 cucharada de agua)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Prepare una batidora equipada con el gancho para masa. Si no tiene batidora, prepare un procesador de alimentos.",
+        "Añade agua tibia, azúcar morena Splenda y levadura al bol de la batidora o al bol del procesador de alimentos y deja que la levadura se hinche durante 5 minutos. La levadura debería empezar a formar espuma.",
+        "Añade la harina y la sal (opcional) y mezcla a velocidad baja hasta que se incorpore la harina. Si usas una batidora con el accesorio de gancho para masa, aumenta la velocidad a media y amasa la masa durante 5 minutos. Si usas un procesador de alimentos, coloca la masa sobre una tabla o encimera limpia y enharinada y amásala a mano durante 5 a 7 minutos. Si la masa está demasiado pegajosa, agrega una cucharada de harina a la vez hasta formar una masa suave.",
+        "Añade la masa amasada a un recipiente grande cubierto con aceite en aerosol, tapa y deja en un lugar cálido durante una hora para que suba.",
+        "Mientras la masa sube, precaliente el horno a 400 grados F. Rocíe una bandeja para hornear con aceite en aerosol. Déjela a un lado.",
+        "En una sartén mediana, calienta el aceite de oliva a fuego medio-alto. Agrega los champiñones y saltéalos hasta que se ablanden y se evapore todo el líquido.",
+        "En un recipiente mediano, combine los hongos, la espinaca, el ajo, la sal (opcional), la pimienta y el queso mozzarella. Reserve.",
+        "Dividir la masa en ocho bolas y dejar reposar tapada con film durante unos 15 minutos.",
+        "Estira cada círculo de masa hasta que tenga un grosor de 1/4 de pulgada. Agrega 1/8 del relleno (aproximadamente 1/2 taza) a cada círculo. Dóblalo para formar un calzone y presiona los bordes para sellar. Repite este proceso para los 8 bollitos restantes y colócalos en la bandeja para hornear.",
+        "Pincele cada bolsita caliente con huevo batido y hornéela durante 25 minutos o hasta que esté dorada."
+    ],
+    "tags": [
+        "Low Sodium",
+        "High in Fiber",
+        "Kid Friendly",
+        "Vegetarian",
+        "Sandwiches",
+        "Foodie",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "165",
+        "total_fat": "4g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "100mg",
+        "total_carbohydrate": "26g",
+        "fiber": "5g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/whole-wheat-hot-pockets"
+}

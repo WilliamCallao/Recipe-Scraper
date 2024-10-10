@@ -1,0 +1,85 @@
+{
+    "title": "Pollo a la Parrilla Marinado con Calabacín",
+    "keywords": "Quick & Easy,Gluten-Free,Lunch,Dinner",
+    "prep_time": "PT1H",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Gluten-Free",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/346-Marinated-Grilled-Chicken-Zucchini_466438540_04112018%20.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Jugo de 2 naranjas clementinas",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "filetes de pollo (deshuesados)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "calabacín mediano (cortado en círculos de 1/2 pulgada)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "En un recipiente mediano, mezcle todos los ingredientes de la marinada. Coloque los filetes de pollo en una bolsa de plástico grande. Vierta la marinada sobre los filetes y cúbralos bien. Cierre la bolsa y refrigérela durante 1 hora o toda la noche.",
+        "Rocíe la parrilla con aceite en aerosol y precaliente a temperatura media-alta. Coloque los filetes de pollo en la parrilla y pincele con el adobo restante. Cocine a la parrilla durante 4 a 5 minutos por lado o hasta que estén listos.",
+        "Pincele el calabacín con aceite de oliva. Cocínelo a la parrilla durante 3 a 5 minutos por lado. Sirva los filetes de pollo con rodajas de calabacín.",
+        "Confirme que los ingredientes no contienen gluten y que esta receta se puede preparar sin gluten."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Grilling",
+        "Quick & Easy",
+        "Gluten-Free",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "13g",
+        "saturated_fat": "2.2g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "70mg",
+        "total_carbohydrate": "7g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/marinated-grilled-chicken-zucchini"
+}

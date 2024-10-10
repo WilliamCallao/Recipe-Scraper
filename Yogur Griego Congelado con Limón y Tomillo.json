@@ -1,0 +1,72 @@
+{
+    "title": "Yogur Griego Congelado con Limón y Tomillo",
+    "keywords": "Vegetarian,Foodie,Gluten-Free,Dessert,Snacks",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Foodie",
+        "Gluten-Free",
+        "Dessert",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_336_Lemon_Thyme_Greek_Frozen_Yogurt_iStock-182759182_02282018.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Yogur natural estilo griego (sin grasa)",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "limón (rallado y exprimido)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "tomillo fresco",
+            "us_amount": "1 sprig",
+            "metric_amount": "1 sprig"
+        },
+        {
+            "name": "agua",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sustituto de azúcar bajo en calorías",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Si va a utilizar una máquina para hacer helados, prepare una. Si no la va a utilizar, omita este paso.",
+        "Combine la mezcla de azúcar Splenda, el agua, el tomillo, la ralladura de limón y el jugo de limón en una cacerola pequeña. Caliente hasta que hierva y luego retire del fuego para enfriar. Retire la ramita de tomillo.",
+        "Una vez que la mezcla de limón se haya enfriado, incorpórela al yogur griego. Vierta la mezcla en la máquina para hacer helado y bata hasta que se congele y espese. Sirva inmediatamente y congele las sobras en un recipiente de plástico.",
+        "Si no utiliza una máquina para hacer helado, bata la mezcla con una batidora eléctrica o a mano con un batidor durante 3 minutos. Añada la mezcla a un recipiente de plástico y congélela."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Comfort Food",
+        "Vegetarian",
+        "Foodie",
+        "Gluten-Free",
+        "Dessert",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "45mg",
+        "total_carbohydrate": "6g",
+        "fiber": "0g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "11g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/lemon-thyme-greek-frozen-yogurt"
+}

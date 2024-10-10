@@ -1,0 +1,99 @@
+{
+    "title": "Ensalada de Lentejas",
+    "keywords": "Salads,Quick & Easy,Sides,Vegetarian,Gluten-Free,Lunch",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian",
+        "Gluten-Free",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_338_Lentil_Salad_MG_4799-%28ZF-5661-35964-1-011%2902282018.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "lentejas (clasificadas y enjuagadas)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "ajo (cortado por la mitad)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "cebolla verde (en rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimiento verde (cortado en cubitos)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "tomates uva (cortados por la mitad)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Jugo de 1 limón",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Perejil (seco)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Combine las lentejas, el agua y el ajo en una olla a fuego medio. Cocine a fuego lento durante 15 minutos hasta que las lentejas estén tiernas. Escurra las lentejas y póngalas bajo el chorro de agua fría. Descarte el ajo.",
+        "Mientras se cocinan las lentejas, mezcle los ingredientes del aderezo.",
+        "En una ensaladera, agrega las lentejas, la cebolla verde, el pimiento verde y los tomates. Rocía el aderezo sobre las lentejas y mezcla. Refrigera hasta servir."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "High in Fiber",
+        "Mediterranean",
+        "Salads",
+        "Quick & Easy",
+        "Sides",
+        "Vegetarian",
+        "Gluten-Free",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "5mg",
+        "total_carbohydrate": "21g",
+        "fiber": "8g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/lentil-salad"
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Shakshuka Rápida",
+    "keywords": "Vegetarian,Main Dish,Foodie,Breakfast and Brunch,Dinner,Lunch",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Vegetarian",
+        "Main Dish",
+        "Foodie",
+        "Breakfast and Brunch",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/speedy-shakshuka-recipe-Jan16.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pan integral (tostado)",
+            "us_amount": "4 slice",
+            "metric_amount": "4 slice"
+        },
+        {
+            "name": "albahaca fresca",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "4 whole",
+            "metric_amount": "4 whole"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta de cayena",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "salsa marinara",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "pimiento rojo picado",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "cebolla(s) (picadas)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "En una sartén grande, calienta el aceite a fuego medio. Agrega la cebolla y el pimiento rojo y saltea durante 6 a 7 minutos, hasta que estén tiernos. Agrega el ajo y saltea durante 1 minuto.",
+        "Añade la salsa marinara, la pimienta de cayena y la pimienta negra. Baja el fuego y cocina a fuego lento durante 10 minutos.",
+        "Con el dorso de una cuchara, haz 4 hoyos en la salsa, separados entre sí. Rompe suavemente un huevo en cada hoyo. Cubre la sartén y deja que los huevos se cocinen hasta que estén firmes pero aún blandos, aproximadamente de 10 a 12 minutos. Espolvorea las hojas de albahaca sobre la mezcla en la sartén, tapa y cocina durante 1 minuto. Los huevos deben estar firmes, no líquidos.",
+        "Para servir, coloque con una cuchara 1 huevo y 1/2 taza de salsa sobre cada rebanada de pan tostado."
+    ],
+    "tags": [
+        "Mediterranean",
+        "Vegetarian",
+        "Main Dish",
+        "Foodie",
+        "Breakfast and Brunch",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "9g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "185mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "25g",
+        "fiber": "4g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/speedy-shakshuka"
+}

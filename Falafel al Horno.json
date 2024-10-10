@@ -1,0 +1,156 @@
+{
+    "title": "Falafel al Horno",
+    "keywords": "Dinner,Foodie,Sandwiches,Lunch,Vegetarian",
+    "prep_time": "PT30M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Sandwiches",
+        "Lunch",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_63_baked_falafel_iStock138014477_022118.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla pequeña (picada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "polvo de curry",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimienta de cayena",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cilantro (picado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Perejil (picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "garbanzos (latas de 15 oz, escurridos y enjuagados)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "harina integral o harina común",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "Levadura en polvo",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "sal (opcional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "semillas de sésamo",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Yogur griego natural sin grasa (sin grasa)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "tahini",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Perejil (picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Pan pita de trigo integral (cortado por la mitad)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "tomate(s) (cortados en 8 rodajas cada uno)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "cebolla roja (en rodajas finas)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 450 grados. Cubra una bandeja para hornear grande con una estera de silicona o papel pergamino. Si usa papel pergamino, cúbralo generosamente con aceite en aerosol. Deje a un lado.",
+        "En un procesador de alimentos o licuadora, agregue el ajo, la cebolla, el curry en polvo, la pimienta de cayena, el cilantro, el perejil y el aceite de oliva. Mezcle hasta formar una pasta.",
+        "Agregue los garbanzos y triture los frijoles para mezclarlos con la pasta de cebolla. No licue los frijoles hasta formar una pasta. El faláfel debe quedar ligeramente grumoso.",
+        "Agregue la harina, el polvo para hornear, la sal (opcional) y la pimienta negra molida. Batir hasta que se integren los ingredientes.",
+        "Refrigera la mezcla de falafel durante 15 a 20 minutos. Mientras el falafel se enfría, agrega yogur, tahini, ajo y perejil a un tazón pequeño y bate. Mantén la salsa de yogur en el refrigerador hasta que esté lista para usar.",
+        "Forme bolas de faláfel con una cuchara de aproximadamente 2 cucharadas de mezcla (o 1/8 de taza). Colóquelas en una bandeja para hornear y repita el procedimiento para formar 16 bolas de faláfel.",
+        "Rocíe las bolas de falafel con aceite en aerosol y espolvoree con semillas de sésamo.",
+        "Hornee en la rejilla inferior del horno durante 15 minutos. Baje la temperatura del horno a 350 grados y mueva la bandeja para hornear a la rejilla superior. Hornee durante 15 minutos más.",
+        "Una vez que el falafel esté listo, rellene dos bolas de falafel en la mitad de un pan pita integral, agregue 2 cucharadas de salsa de tahini y yogur, 2 rodajas de tomate y 3-4 rodajas de cebolla roja."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mediterranean",
+        "Dinner",
+        "Foodie",
+        "Sandwiches",
+        "Lunch",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "285",
+        "total_fat": "9g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "370mg",
+        "total_carbohydrate": "42g",
+        "fiber": "9g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/baked-falafel"
+}

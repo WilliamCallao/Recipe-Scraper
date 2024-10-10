@@ -1,0 +1,84 @@
+{
+    "title": "Ensalada de Remolacha y Rúcula con Feta",
+    "keywords": "Cooking for 1 or 2,Dinner,Lunch,Salads,Sides,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Lunch",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/feb13_fillet_rosemary_istock16564190_279x200_1.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "Remolachas medianas (recortadas, peladas, cada una cortada en octavos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "aceite de oliva (uso dividido)",
+            "us_amount": "3 tsp",
+            "metric_amount": "15 g"
+        },
+        {
+            "name": "pimienta",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "vinagre de vino blanco",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "mostaza de dijon",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Rúcula (envasada en una cantidad de aproximadamente 1 taza y media)",
+            "us_amount": "1 1/2 oz",
+            "metric_amount": "42 ml"
+        },
+        {
+            "name": "queso feta (sin grasa, desmenuzado)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 grados F.",
+        "Coloque las remolachas en una sola capa sobre una bandeja para hornear con borde. Rocíe las remolachas con 1 cucharadita de aceite. Espolvoree la pimienta sobre las remolachas.",
+        "Áselo durante 20 a 25 minutos o hasta que esté tierno al pincharlo con un tenedor. Déjelo cocinar en la bandeja para hornear durante 10 minutos.",
+        "Mientras tanto, en un bol grande, mezcle las 2 cucharaditas restantes de aceite, vinagre y mostaza. Agregue la rúcula, removiendo las hojas en el aderezo (las pinzas funcionan bien para esto). Agregue las remolachas enfriadas. Espolvoree con el queso feta. Mezcle para combinar.",
+        "Consejo del cocinero: la mayoría de las recetas recomiendan asar las remolachas enteras y luego pelarlas después de cocinarlas. Para reducir considerablemente el tiempo de cocción, pélelas crudas (un pelador de verduras funciona bien) y córtelas en cuartos u octavos antes de asarlas. Las remolachas pueden manchar la ropa, por lo que es mejor usar un delantal y un par de guantes de plástico desechables antes de manipularlas."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Veggie Rich",
+        "Cooking for 1 or 2",
+        "Dinner",
+        "Lunch",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "105",
+        "total_fat": "7g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "280mg",
+        "total_carbohydrate": "8g",
+        "fiber": "2g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/beet-and-arugula-salad-feta"
+}

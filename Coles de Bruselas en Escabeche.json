@@ -1,0 +1,113 @@
+{
+    "title": "Coles de Bruselas en Escabeche",
+    "keywords": "Snacks,Sides,Vegetarian,Foodie",
+    "prep_time": "PT20M",
+    "cook_time": "PT5M",
+    "categories": [
+        "Snacks",
+        "Sides",
+        "Vegetarian",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/ThinkstockPhotos-187124066.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "agua (dividida)",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "hielo (cuenco)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "coles de Bruselas frescas (cortadas por la mitad)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Frasco de una pinta con tapa (o recipiente de plástico resistente al calor de 1 pinta)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "vinagre blanco destilado",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "azúcar",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "hojas de laurel",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "eneldo fresco",
+            "us_amount": "2 sprig",
+            "metric_amount": "2 sprig"
+        },
+        {
+            "name": "ajo (machacado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "cebolla(s) (picadas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Especia para encurtir",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "En una olla grande a fuego alto, calienta 7 tazas de agua y deja que hierva. Agrega el agua restante al recipiente con hielo.",
+        "Añade las coles de Bruselas al agua hirviendo y cocínalas durante 2 minutos. Utiliza una espumadera para pasar las coles al agua helada y enfriarlas. Escurre las coles enfriadas y colócalas en el frasco.",
+        "Añade el vinagre, 1/2 taza de agua, sal y azúcar a una cacerola a fuego alto. Lleva a ebullición y revuelve hasta que la sal y el azúcar se disuelvan. Hierve durante 2 minutos. Retira la salmuera del fuego.",
+        "Añade la hoja de laurel, el eneldo, el ajo, la cebolla y las especias para encurtir a la salmuera.",
+        "Llene con cuidado el frasco con la salmuera, cubriendo completamente las coles de Bruselas.",
+        "Coloque las tapas en el frasco y agítelo suavemente para distribuir los ingredientes.",
+        "Refrigerar por al menos 2 horas antes de servir. Conservar en el refrigerador por hasta 3 meses. Antes de servir, retirar y desechar la hoja de laurel.",
+        "Consejo del chef: Solo las verduras más duras, como las coles de Bruselas y las zanahorias, deben escaldarse primero. Las verduras más blandas, como los pepinos y los calabacines, pueden colocarse crudas en el frasco antes de agregar la salmuera."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Snacks",
+        "Sides",
+        "Vegetarian",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "20",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "225mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/pickled-brussels-sprouts"
+}

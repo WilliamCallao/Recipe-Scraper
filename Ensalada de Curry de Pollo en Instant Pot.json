@@ -1,0 +1,122 @@
+{
+    "title": "Ensalada de Curry de Pollo en Instant Pot",
+    "keywords": "Salads,One Pot,Main Dish,Lunch,Gluten-Free,Dinner",
+    "prep_time": "PT12M",
+    "cook_time": "PT23M",
+    "categories": [
+        "Salads",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1824-diabetic-instant-pot-chicken-curry-salad-on-asparagus-edamame-greens_Instant-Pot-Diabetes-Ckbk_DFSepOct19_081619.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "agua",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "2% yogur griego natural",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "mayonesa ligera",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "azúcar",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "polvo de curry",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "espárragos cortados en trozos de 1 pulgada",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "edamame fresco o congelado sin cáscara",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "mezcla de col rizada bebé",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "cebolla roja picada",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cilantro picado o cebolla verde",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Espolvoree el pollo con el comino y la pimienta negra. Coloque el agua en la olla multicocina. Coloque el pollo en la cesta de vapor.",
+        "Selle la tapa y cierre la válvula. Seleccione Manual y cocine durante 6 minutos. Utilice una liberación de presión natural durante 5 minutos, seguida de una liberación de presión rápida.",
+        "Cuando la válvula de la olla a presión baje, retire con cuidado la tapa. Retire el pollo y colóquelo sobre una tabla de cortar. Déjelo reposar durante 5 minutos antes de cortarlo en rodajas o en trozos, según sus preferencias.",
+        "En un bol mediano, mezcle el yogur, la mayonesa, el azúcar, el curry y la sal. Reserve.",
+        "Coloque los espárragos y el edamame en la cesta vaporera. Cierre la tapa, cierre la válvula y presione el botón Cancelar. Seleccione Manual y cocine durante 1 minuto. Utilice una liberación rápida de presión.",
+        "Cuando la válvula baje, retire con cuidado la tapa y transfiera la mezcla de espárragos a un colador. Páselo por agua fría para detener el proceso de cocción; escúrralo bien.",
+        "Coloque cantidades iguales de la mezcla de col rizada en cada uno de los 4 platos. Cubra con la mezcla de espárragos.",
+        "Añade el pollo y la cebolla al aderezo de yogur y revuelve hasta que estén bien cubiertos. Coloca cantidades iguales de pollo al curry sobre cada plato de verduras. (Alternativamente, coloca el pollo sobre las verduras, rocía con el aderezo y cubre con la cebolla). Espolvorea con cilantro."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Salads",
+        "One Pot",
+        "Main Dish",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "8g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "470mg",
+        "total_carbohydrate": "17g",
+        "fiber": "5g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/instant-pot-chicken-curry-salad"
+}

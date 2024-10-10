@@ -1,0 +1,89 @@
+{
+    "title": "Succotash de Calabacín y Maíz Fresco",
+    "keywords": "Sides,Vegetarian,Foodie,Gluten-Free",
+    "prep_time": "PT20M",
+    "cook_time": "PT13M",
+    "categories": [
+        "Sides",
+        "Vegetarian",
+        "Foodie",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_598_Zucchini_and_Fresh_Corn_Succotash_PNCImages_03012018.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla mediana (cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "calabacín mediano (cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Mazorcas medianas de maíz fresco en mazorca (cocidas y con los granos cortados de la mazorca)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "frijoles negros (escurridos y enjuagados)",
+            "us_amount": "1 (14.5-ounce) can",
+            "metric_amount": "1 (14.5-ounce) can"
+        },
+        {
+            "name": "Perejil fresco (picado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Añade el aceite de oliva a una sartén grande a fuego medio-alto. Añade la cebolla y saltea durante 5-6 minutos o hasta que la cebolla comience a volverse transparente.",
+        "Añade el ajo y el calabacín y saltea durante 4-5 minutos más hasta que el calabacín comience a ablandarse.",
+        "Añade el maíz y saltéalo durante 2 o 3 minutos. Luego añade el resto de los ingredientes hasta que estén bien calientes."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Low Sodium",
+        "High in Fiber",
+        "Sides",
+        "Vegetarian",
+        "Foodie",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "27g",
+        "fiber": "6g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/zucchini-and-fresh-corn-succotash"
+}

@@ -1,0 +1,80 @@
+{
+    "title": "Pastel Angel Food a la Parrilla con Frutas del Bosque Derretidas",
+    "keywords": "Vegetarian,Dessert",
+    "prep_time": "PT15M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Vegetarian",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_722_GrilledAngelCakewithMeltedBerries_SizzleSmoke_022618.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Bayas mixtas (como fresas, arándanos, moras y frambuesas)",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "sustituto de azúcar bajo en calorías",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "jarabe de arce",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cardamomo (molido)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        },
+        {
+            "name": "Bizcocho de ángel cortado en ocho rebanadas (de 1 pulgada de grosor)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite vegetal",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Cubra un recipiente mediano con un trozo grande de papel de aluminio, presionando bien el papel contra los lados del recipiente.",
+        "Añade las bayas, la Splenda, el jarabe de arce, el cardamomo y el vinagre balsámico sobre todo.",
+        "Envuelva el papel aluminio formando un paquete y gire la parte superior para que el líquido no se escape.",
+        "Precaliente la parrilla a fuego medio-alto y coloque el paquete de bayas sobre la parrilla.",
+        "Asar a la parrilla durante 5 o 6 minutos, dando vuelta y agitando el paquete de vez en cuando. Rocíe las rebanadas de pastel ligeramente con aceite vegetal para evitar que se peguen y agréguelas a la parrilla para marcarlas. Asar a la parrilla suavemente durante 2 o 3 minutos, colocar en una fuente para servir y verter las bayas derretidas sobre el pastel.",
+        "Si lo desea, sirva con crema batida sin azúcar o yogur griego bajo en grasa o sin grasa."
+    ],
+    "tags": [
+        "Low Sodium",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Grilling",
+        "Comfort Food",
+        "Vegetarian",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "145mg",
+        "total_carbohydrate": "26g",
+        "fiber": "2g",
+        "sugar": "15g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/grilled-angel-food-cake-melted-berries"
+}

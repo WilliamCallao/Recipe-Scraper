@@ -1,0 +1,72 @@
+{
+    "title": "Puré de Coliflor con Parmesano",
+    "keywords": "Vegetarian,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Vegetarian",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1834-diabetic-parmesan-mashed-cauliflower_clean-simple-ckbk_DFNovDec19_101019.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "coliflor",
+            "us_amount": "1 medium head",
+            "metric_amount": "1 medium head"
+        },
+        {
+            "name": "Yogur griego natural sin grasa",
+            "us_amount": "6 tbsp",
+            "metric_amount": "89 ml"
+        },
+        {
+            "name": "queso parmesano recién rallado",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "cebollas verdes picadas",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Lavar la coliflor y cortarla en ramilletes.",
+        "Coloque los floretes de coliflor en un recipiente apto para microondas y caliéntelos durante unos 8 minutos, hasta que la coliflor esté tierna. Revuelva a la mitad del tiempo de cocción.",
+        "Coloque la coliflor, el yogur, el queso, el ajo en polvo y la pimienta en un procesador de alimentos o licuadora y mezcle hasta que quede suave.",
+        "Cubrir con las cebollas y servir."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Vegetarian",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "60",
+        "total_fat": "2g",
+        "saturated_fat": "0.9g",
+        "trans_fat": "0g",
+        "cholesterol": "2mg",
+        "sodium": "90mg",
+        "total_carbohydrate": "7g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/parmesan-mashed-cauliflower"
+}

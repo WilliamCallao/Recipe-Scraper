@@ -1,0 +1,94 @@
+{
+    "title": "Salmón con Pesto de Kale",
+    "keywords": "Holidays & Entertaining,Foodie,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/330-Kale-Pesto-Salmon-Diabetic_148314400_04112018%20.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "hojas de col rizada (picadas)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "nueces (tostadas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ajo",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Queso parmesano (rallado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "filetes de salmón (4 onzas cada uno)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375 grados F. Cubra una bandeja para hornear con aceite en aerosol y reserve.",
+        "En una licuadora o procesador de alimentos, licúe la col rizada, las nueces, el ajo, el aceite de oliva, el agua, el jugo de limón, el queso parmesano y la pimienta hasta que quede suave.",
+        "Coloque los filetes de salmón con la piel hacia abajo sobre la bandeja para hornear. Unte la parte superior de cada filete de salmón con 1/4 del pesto.",
+        "Hornee el salmón durante 20 minutos."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Seafood",
+        "Italian",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "300",
+        "total_fat": "19g",
+        "saturated_fat": "2.9g",
+        "trans_fat": "0g",
+        "cholesterol": "80mg",
+        "sodium": "95mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "28g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/kale-pesto-salmon"
+}

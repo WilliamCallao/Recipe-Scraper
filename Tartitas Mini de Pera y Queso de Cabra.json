@@ -1,0 +1,80 @@
+{
+    "title": "Tartitas Mini de Pera y Queso de Cabra",
+    "keywords": "Quick & Easy,Appetizers,Holidays & Entertaining,Foodie,Vegetarian,Snacks",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Vegetarian",
+        "Snacks"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_362_Mini_Pear_and_Goat_Cheese_Tarts_MG_5351-Edit-%28ZF-5661-35964-1-136%29_02282018.jpg",
+    "servings": "7 Servings",
+    "ingredients": [
+        {
+            "name": "mini hijo shells",
+            "us_amount": "14",
+            "metric_amount": "14"
+        },
+        {
+            "name": "Pera (cortada en cubitos, con piel (aproximadamente 2 peras bosc pequeñas))",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "queso de cabra (chevre)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "claras de huevo",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados.",
+        "Coloque los moldes de masa filo descongelados en una bandeja para hornear. Déjelos a un lado.",
+        "En un tazón mediano, mezcle las peras, el queso de cabra, las claras de huevo y la pimienta negra molida.",
+        "Llene cada molde filo con una cucharada colmada de mezcla de pera.",
+        "Rocíe un poco de vinagre balsámico por encima de cada tarta.",
+        "Hornear durante 15 minutos. Servir caliente o a temperatura ambiente."
+    ],
+    "tags": [
+        "Low Sodium",
+        "French",
+        "Quick & Easy",
+        "Appetizers",
+        "Holidays & Entertaining",
+        "Foodie",
+        "Vegetarian",
+        "Snacks"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "4g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "75mg",
+        "total_carbohydrate": "11g",
+        "fiber": "1g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mini-pear-and-goat-cheese-tarts"
+}

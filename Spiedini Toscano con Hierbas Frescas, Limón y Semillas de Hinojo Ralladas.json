@@ -1,0 +1,88 @@
+{
+    "title": "Spiedini Toscano con Hierbas Frescas, Limón y Semillas de Hinojo Ralladas",
+    "keywords": "Dinner,Lunch,Main Dish",
+    "prep_time": "PT25M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/RecId_892_TuscanSpiedini_SizzleSmoke_022618.jpg",
+        "Lemon",
+        "And Cracked Fennel Seeds\" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Jugo de 1 limón",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "semillas de hinojo (trituradas)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado (triturado)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Orégano fresco (picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pechugas de pollo (sin hueso, sin piel, cortadas en cubos de 1 pulgada)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "Combine el aceite, el jugo de limón, el ajo, las semillas de hinojo, las hojuelas de chile rojo, el orégano y el vinagre en un recipiente mediano y colóquelo en una bolsa de plástico grande bien cerrada. Déjelo marinar al menos 15 minutos a temperatura ambiente o durante la noche en el refrigerador para obtener mejores resultados.",
+        "Ensarte los cubos de pollo en brochetas, ya sea solos o con trozos de sus verduras favoritas, como cebolla roja, pimiento morrón o calabacín.",
+        "Precaliente la parrilla a fuego medio-alto y colóquela sobre la rejilla. Cocine según las instrucciones para el método de calor directo (página 3) durante 10 a 12 minutos, dándole vuelta de vez en cuando, hasta que esté bien cocida y forme una costra en el exterior."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Lower Carb",
+        "Italian",
+        "Grilling",
+        "Dinner",
+        "Lunch",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "165",
+        "total_fat": "6g",
+        "saturated_fat": "1.3g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "60mg",
+        "total_carbohydrate": "1g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/tuscan-spiedini-fresh-herbs-lemon-and-cracked-fennel-seeds"
+}

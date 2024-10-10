@@ -1,0 +1,109 @@
+{
+    "title": "Curry de Espinaca y Batata (Saag Aloo)",
+    "keywords": "Quick & Easy,Vegetarian,Foodie,Dinner,Lunch,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Quick & Easy",
+        "Vegetarian",
+        "Foodie",
+        "Dinner",
+        "Lunch",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/033-diabetic-spinach-sweet-potato-curry_AdobeStock241815542_022321.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "batatas medianas (peladas y cortadas en trozos de 1 pulgada)",
+            "us_amount": "2 (about 12 oz total)",
+            "metric_amount": "2 (about 12 oz total)"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla mediana (pelada y cortada en rodajas finas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (rallado o picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "comino (molido)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cúrcuma",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Jengibre molido",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "agua o caldo de verduras",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "espinaca bebé",
+            "us_amount": "5 oz",
+            "metric_amount": "142 ml"
+        }
+    ],
+    "instructions": [
+        "Añade las batatas y 1/2 taza de agua a un recipiente apto para microondas o una vaporera con tapa. Cocina en el microondas durante 7 u 8 minutos o hasta que las batatas estén tiernas. No las cocines demasiado.",
+        "Mientras se cocinan al vapor las batatas, añade aceite de oliva a una sartén grande a fuego medio. Añade las cebollas y saltea durante 3 o 4 minutos o hasta que las cebollas se vuelvan transparentes. Añade el ajo y saltea 2 minutos más.",
+        "Añade la sal, la pimienta, el comino, la cúrcuma, el jengibre, el chile en polvo y el agua o el caldo. Deja hervir a fuego lento.",
+        "Añade las espinacas y cocínalas hasta que se marchiten, aproximadamente 5 minutos.",
+        "Incorpore las batatas para calentarlas."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Indian",
+        "Quick & Easy",
+        "Vegetarian",
+        "Foodie",
+        "Dinner",
+        "Lunch",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "3g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "240mg",
+        "total_carbohydrate": "12g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spinach-and-sweet-potato-curry-saag-aloo"
+}

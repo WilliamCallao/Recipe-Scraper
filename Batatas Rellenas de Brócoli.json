@@ -1,0 +1,64 @@
+{
+    "title": "Batatas Rellenas de Brócoli",
+    "keywords": "Quick & Easy,Gluten-Free,Sides,Vegetarian",
+    "prep_time": "PT5M",
+    "cook_time": "PT15M",
+    "categories": [
+        "Quick & Easy",
+        "Gluten-Free",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/0104-diabetic-broccoli-stuffed-potato_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Patatas dulces medianas",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "floretes de brócoli",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "margarina (sin grasas trans)",
+            "us_amount": "4 tsp",
+            "metric_amount": "20 g"
+        },
+        {
+            "name": "Almendras fileteadas (tostadas)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Perfora cada batata con un tenedor en algunos puntos. Coloca las batatas en un plato apto para microondas y caliéntalas hasta que estén tiernas, aproximadamente 12 minutos.",
+        "Coloca entre 3/4 y 1 pulgada de agua en una cacerola con una vaporera y ponla a hervir. (Si no tienes una vaporera, puedes poner el brócoli directamente en 1 pulgada de agua hirviendo). Agrega el brócoli a la vaporera y tapa; reduce el fuego a medio y déjalo cocinar durante 6 minutos.",
+        "Con un cuchillo, corte cada batata por la mitad y pellizque los lados para abrirla. Rellene cada batata con 1 cucharadita de margarina, 2/3 de taza de brócoli y 1 cucharada de almendras tostadas."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Low Sodium",
+        "Veggie Rich",
+        "Quick & Easy",
+        "Gluten-Free",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "7g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "85mg",
+        "total_carbohydrate": "28g",
+        "fiber": "6g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/broccoli-stuffed-sweet-potatoes"
+}

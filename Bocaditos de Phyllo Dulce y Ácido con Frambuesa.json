@@ -1,0 +1,70 @@
+{
+    "title": "Bocaditos de Phyllo Dulce y Ácido con Frambuesa",
+    "keywords": "Vegetarian,Quick & Easy,Foodie,Dessert",
+    "prep_time": "PT5M",
+    "cook_time": "PT3M",
+    "categories": [
+        "Vegetarian",
+        "Quick & Easy",
+        "Foodie",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/diabetic-dessert-sweet-tart-raspberry-phyllo-bites_designed-for-one_081518_1021x779.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "2% yogur griego natural",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Mini conchas de masa filo (descongeladas)",
+            "us_amount": "5",
+            "metric_amount": "5"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "crema de fresa",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Frambuesas congeladas",
+            "us_amount": "2/3 cup",
+            "metric_amount": "156 ml"
+        }
+    ],
+    "instructions": [
+        "Combine las frambuesas y la mezcla de frutas en una cacerola pequeña, colóquela a fuego medio-alto y cocine durante 3 minutos o hasta que la mezcla se haya reducido a apenas 1/4 de taza.",
+        "Retirar del fuego y agregar el extracto. Dejar enfriar durante unos 5 minutos.",
+        "Coloque cantidades iguales de masa en cada una de las cáscaras de filo y coloque aproximadamente 1 cucharadita de yogur sobre cada cáscara."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Vegetarian",
+        "Quick & Easy",
+        "Foodie",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "6g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "75mg",
+        "total_carbohydrate": "30g",
+        "fiber": "3g",
+        "sugar": "12g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-tart-raspberry-phyllo-bites"
+}

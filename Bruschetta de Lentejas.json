@@ -1,0 +1,123 @@
+{
+    "title": "Bruschetta de Lentejas",
+    "keywords": "Snacks,Vegetarian,Foodie,Appetizers,Holidays & Entertaining",
+    "prep_time": "PT30M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Snacks",
+        "Vegetarian",
+        "Foodie",
+        "Appetizers",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_337_Lentil_Bruschetta_MG_6530-%28ZF-5661-35964-1-025%29_02282018.jpg",
+    "servings": "14 Servings",
+    "ingredients": [
+        {
+            "name": "lentejas marrones (secas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "agua caliente",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Tomates medianos (sin semillas y cortados en cubitos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Pimiento rojo mediano (sin semillas y cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla roja (cortada en cubitos)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Pepino inglés (sin semillas o de invernadero), cortado en cubitos",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "cilantro fresco (picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "vinagre de vino tinto",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "queso feta (bajo en grasa, desmenuzado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "baguette multigrano (cortada en 28 rebanadas de aproximadamente 1/4 de pulgada de grosor)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados.",
+        "En una cacerola mediana, combine las lentejas y el agua caliente. Lleve a ebullición a fuego alto y luego reduzca el fuego a fuego lento, sin tapar, durante 20 minutos.",
+        "Mientras se cocinan las lentejas, combine los tomates, el pimiento rojo, la cebolla roja, el pepino, el ajo, el cilantro, el vinagre de vino tinto, el aceite de oliva, las hojuelas de pimiento rojo triturado, el queso feta y la pimienta negra molida. Revuelva para incorporar y reserve.",
+        "Coloca las rebanadas de baguette en una bandeja para hornear grande. Rocía ligeramente las partes superiores de las rebanadas de pan con aceite en aerosol. Hornea en la rejilla superior del horno durante 10 minutos. Deja enfriar. (Consulta la nota en el paso 6).",
+        "Cuando las lentejas estén cocidas, escúrrelas y enjuágalas con agua fría. Sacude el colador para eliminar toda el agua de las lentejas, luego agrégalas a la mezcla de bruschetta y revuelve para incorporarlas.",
+        "Para servir, agregue la mezcla de bruschetta a un recipiente para servir y coloque la baguette tostada alrededor del recipiente para que pueda servirse la bruschetta usted mismo, o cubra cada rebanada de baguette tostada con 2 cucharadas colmadas de mezcla de bruschetta. Nota: Si planea servir la bruschetta sobre la baguette, es posible que desee tostar el pan un poco más para evitar que se empape."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Italian",
+        "Snacks",
+        "Vegetarian",
+        "Foodie",
+        "Appetizers",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "135",
+        "total_fat": "2.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "23g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/lentil-bruschetta"
+}

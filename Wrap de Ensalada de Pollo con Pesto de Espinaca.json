@@ -1,0 +1,105 @@
+{
+    "title": "Wrap de Ensalada de Pollo con Pesto de Espinaca",
+    "keywords": "Sandwiches,Lunch,Gluten-Free,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Sandwiches",
+        "Lunch",
+        "Gluten-Free",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_517_Spinach_Pesto_Chicken_Salad_Wrap_PNCImages_03012018.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pechuga de pollo deshuesada y sin piel",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "pimienta negra (dividida)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "albahaca (seca)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "espinaca baby (tallos grandes quitados)",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "piñones (tostados)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "jugo de limón fresco",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "mayonesa ligera",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Queso parmesano (recién rallado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "tortillas de maíz de 6 pulgadas",
+            "us_amount": "5",
+            "metric_amount": "5"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F. Rocíe una bandeja para hornear con aceite en aerosol.",
+        "Sazona las pechugas de pollo con 1/4 cucharadita de pimienta negra y albahaca seca. Hornea durante 35 minutos o hasta que estén listas. Pon las pechugas de pollo en el refrigerador para que se enfríen.",
+        "En un procesador de alimentos, combine la espinaca, los piñones, el jugo de limón y la mayonesa. Pulse suavemente. Con la máquina en funcionamiento, agregue el aceite de oliva y mezcle hasta que la mezcla quede cremosa. Agregue el queso parmesano, el ajo en polvo y 1/4 cucharadita de pimienta negra.",
+        "Corte el pollo cocido en trozos de 1/2 pulgada y desmenúcelo. En un recipiente mediano, combine el pollo y la salsa pesto; mezcle bien.",
+        "Sirve 1/2 taza de ensalada de pollo en cada tortilla. Dobla los dos lados de la tortilla hacia adentro y enróllala como un burrito. Puedes servirlas inmediatamente o envolverlas bien en film transparente y refrigerarlas."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Sandwiches",
+        "Lunch",
+        "Gluten-Free",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "11g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "55mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "15g",
+        "fiber": "2g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "23g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spinach-pesto-chicken-salad-wrap"
+}

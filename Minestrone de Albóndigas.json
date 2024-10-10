@@ -1,0 +1,130 @@
+{
+    "title": "Minestrone de Albóndigas",
+    "keywords": "Lunch,Sides,One Pot,Main Dish,Dinner,Cooking for 1 or 2",
+    "prep_time": "PT25M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Sides",
+        "One Pot",
+        "Main Dish",
+        "Dinner",
+        "Cooking for 1 or 2"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_349_Meatball_Minestrone_iStock-470835723_02282018.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "semillas de hinojo",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Orégano seco (seco)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Carne molida magra (95 % libre de grasa)",
+            "us_amount": "1/4 lbs",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla amarilla (en rodajas)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "apio (en rodajas)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Tomates enlatados (bajos en sodio, sin azúcar añadido, cortados en cubitos, escurridos)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Caldo de pollo bajo en sodio (sin grasa, bajo en sodio)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "espaguetis o lingüines de trigo integral (cortados en trozos pequeños (2 onzas))",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Espinacas listas para comer (lavadas, (10 onzas))",
+            "us_amount": "8 cup",
+            "metric_amount": "1 l 893 ml"
+        },
+        {
+            "name": "frijoles blancos pequeños enlatados (enjuagados y escurridos)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Queso parmesano (recién rallado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Mezcle las semillas de hinojo y el orégano con la carne molida. Forme albóndigas de aproximadamente 1 pulgada de diámetro para formar 8 albóndigas.",
+        "Calienta el aceite en una cacerola antiadherente mediana a fuego medio-alto. Dora las albóndigas por todos lados, durante unos 5 minutos. Retíralas a un plato.",
+        "Añade la cebolla y el apio a la cacerola. Saltea durante 3 minutos sin que se doren las verduras, revolviendo una o dos veces. Añade el ajo, los tomates cortados en cubitos, el caldo de pollo y el agua. Lleva a ebullición.",
+        "Añade la pasta y cocínala a fuego lento durante 8-9 minutos, revolviendo una vez para asegurarte de que la pasta se deslice libremente en el líquido. Añade la espinaca y los frijoles.",
+        "Baja el fuego a medio y devuelve las albóndigas a la sopa y cocina hasta que estén bien calientes, aproximadamente 2 minutos. Agrega sal y pimienta.",
+        "Sirva en 2 tazones grandes para sopa con queso parmesano espolvoreado encima."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Italian",
+        "Lunch",
+        "Sides",
+        "One Pot",
+        "Main Dish",
+        "Dinner",
+        "Cooking for 1 or 2"
+    ],
+    "nutrition": {
+        "calories": "460",
+        "total_fat": "13g",
+        "saturated_fat": "3g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "490mg",
+        "total_carbohydrate": "60g",
+        "fiber": "14g",
+        "sugar": "11g",
+        "added_sugar": "0g",
+        "protein": "32g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/meatball-minestrone"
+}

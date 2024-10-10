@@ -1,0 +1,91 @@
+{
+    "title": "Paquete de Mahi-Mahi con Cítricos y Brócoli",
+    "keywords": "Cooking for 1 or 2,Lunch,Main Dish,Quick & Easy,Dinner,Gluten-Free",
+    "prep_time": "PT5M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_186_Citrus_Mahi-Mahi%20Packet_with_Broccoli_PNCImages_02272018.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "limón (jugo)",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "eneldo fresco picado",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "limón (en rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "naranja (en rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "filetes de bricolaje",
+            "us_amount": "2 (5-oz) fillets",
+            "metric_amount": "2 (5-oz) fillets"
+        },
+        {
+            "name": "brócoli (cortado en floretes)",
+            "us_amount": "1 crown",
+            "metric_amount": "1 crown"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425° F. Coloque dos trozos de papel pergamino en una bandeja para hornear.",
+        "En un tazón pequeño, mezcle el jugo de limón, el aceite de oliva, la pimienta y el eneldo.",
+        "Coloque unas rodajas de limón y naranja en el centro de los papeles para hornear. Coloque los filetes de pescado sobre las rodajas de naranja y limón. Rocíe la salsa de limón uniformemente sobre los filetes de pescado. Cubra el pescado con las rodajas de naranja y limón restantes. Doble la parte superior del papel para hornear y luego enrolle los lados para formar una bolsa sellada.",
+        "Coloque los paquetes en una bandeja para hornear y hornee durante 25 minutos o hasta que estén listos.",
+        "Mientras se hornea el pescado, cocine el brócoli al vapor durante 5 a 6 minutos.",
+        "Sirva el paquete de pescado con brócoli al vapor. Tenga cuidado al abrir el paquete de pescado, ya que el vapor puede estar caliente."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Seafood",
+        "Cooking for 1 or 2",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy",
+        "Dinner",
+        "Gluten-Free"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "9g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "110mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "18g",
+        "fiber": "5g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "32g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/citrus-mahi-mahi-packet-broccoli"
+}

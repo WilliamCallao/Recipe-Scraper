@@ -1,0 +1,85 @@
+{
+    "title": "Coles de Bruselas con Naranjas",
+    "keywords": "Dinner,Foodie,Holidays & Entertaining,Lunch,Sides,Vegan,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/brussels-sprouts-oranges-Nov16.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "coles de Bruselas (recortadas y cortadas por la mitad)",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "chalotes (pelados y cortados en rodajas finas)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "aceite de oliva (dividido)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "nueces (picadas en trozos grandes)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "naranja",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Ralla la naranja y agrégala a un ramequín pequeño. Pela y corta la naranja en gajos, cortando cada gajo por la mitad; reserva. Agrega las nueces a una sartén pequeña y tuéstalas a fuego medio durante 3 a 4 minutos o hasta que estén ligeramente doradas.",
+        "En una sartén grande a fuego medio-alto, calienta 1 cucharada de aceite. Agrega las chalotas y saltéalas durante 4 a 5 minutos, hasta que estén ligeramente doradas. Retira las chalotas con una espumadera; reserva. Agrega el aceite restante a la sartén y luego agrega los brotes. Saltea los brotes durante 10 a 15 minutos, hasta que estén dorados y bien cocidos. Agrega los gajos de naranja, la ralladura de naranja y las chalotas salteadas y cocina durante 2 minutos.",
+        "Sazona los brotes con sal y pimienta y colócalos en un recipiente grande para servir. Cúbrelos con las nueces y sírvelos."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Veggie Rich",
+        "Dinner",
+        "Foodie",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "4g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "65mg",
+        "total_carbohydrate": "8g",
+        "fiber": "3g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/brussels-sprouts-oranges"
+}

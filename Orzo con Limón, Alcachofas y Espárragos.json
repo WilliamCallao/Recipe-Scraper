@@ -1,0 +1,92 @@
+{
+    "title": "Orzo con Limón, Alcachofas y Espárragos",
+    "keywords": "Vegetarian,Sides,Lunch",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Vegetarian",
+        "Sides",
+        "Lunch"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/1795-diabetic-Orzo-Lemon-Artichokes-Asparagus_MediterraneanCkbk_050119.jpg",
+        "Artichokes",
+        "and Asparagus\" loading=\"lazy\" />"
+    ],
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Pasta orzo seca o pasta pequeña sin gluten",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "espárragos frescos o congelados (cortados en trozos de 1 pulgada)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "Corazones de alcachofa congelados (descongelados)",
+            "us_amount": "1 (14-oz) package",
+            "metric_amount": "1 (14-oz) package"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "ralladura de 1 limón",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Queso Pecorino Romano (rallado)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Ponga a hervir a fuego alto una olla grande con agua. Agregue 1/4 cucharadita de sal y reduzca el fuego a medio.",
+        "Agregue el orzo y revuelva. Cocine el orzo hasta que esté tierno, pero aún al dente. Escurra el orzo cuando esté listo y devuélvalo a la olla.",
+        "Mientras tanto, pon a hervir agua en una olla mediana a fuego alto. Agrega los espárragos y cocínalos hasta que estén tiernos (aproximadamente 5 minutos), luego escúrrelos.",
+        "Agregue los espárragos, los corazones de alcachofa, el jugo de limón, la ralladura de limón, 1/4 cucharadita adicional de sal (si lo desea), pimienta recién molida y aceite de oliva en la olla con el orzo y revuelva.",
+        "Pruebe y ajuste la sazón, si es necesario. Adorne con queso y sirva caliente."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mediterranean",
+        "Vegetarian",
+        "Sides",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "170",
+        "total_fat": "5g",
+        "saturated_fat": "1.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "140mg",
+        "total_carbohydrate": "26g",
+        "fiber": "5g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/orzo-lemon-artichokes-and-asparagus"
+}

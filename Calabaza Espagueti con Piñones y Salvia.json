@@ -1,0 +1,102 @@
+{
+    "title": "Calabaza Espagueti con Piñones y Salvia",
+    "keywords": "Dinner,Lunch,Gluten-Free,Vegetarian,Sides",
+    "prep_time": "PT10M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Dinner",
+        "Lunch",
+        "Gluten-Free",
+        "Vegetarian",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/oct2014-spaghetti-squash-w.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Calabaza espagueti mediana (cortada por la mitad y sin semillas)",
+            "us_amount": "1 (about 2 lbs)",
+            "metric_amount": "1 (about 2 lbs)"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "cebolla(s) (picadas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "chalota grande (picada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "piñones",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Queso Pecorino Romano (recién rallado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "salvia fresca picada",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado (triturado)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal marina",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 °F. Coloque las mitades de calabaza con el lado cortado hacia abajo sobre una bandeja para hornear cubierta con papel pergamino y áselas durante aproximadamente 50 minutos o hasta que estén tiernas.",
+        "Mientras tanto, calienta el aceite de oliva en una sartén a fuego medio. Añade la cebolla, la chalota y el ajo y saltéalos durante 4 minutos. Añade los piñones y cocina durante 2 minutos hasta que los piñones estén ligeramente dorados. Reserva.",
+        "Cuando la calabaza esté cocida, dale la vuelta para que el lado cortado quede hacia arriba. Con un rastrillo para pasta o una cuchara grande, saca la pulpa de la cáscara de la calabaza. La pulpa saldrá como hebras de espagueti. Coloca la calabaza en un bol grande para servir y rastrilla las hebras para mantenerlas separadas. Agrega la mezcla de piñones, el queso, la salvia, las hojuelas de pimiento rojo triturado, la sal y la pimienta. Mezcla bien y sirve."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Comfort Food",
+        "Italian",
+        "Dinner",
+        "Lunch",
+        "Gluten-Free",
+        "Vegetarian",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "95",
+        "total_fat": "6g",
+        "saturated_fat": "0.8g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "35mg",
+        "total_carbohydrate": "9g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spaghetti-squash-pine-nuts-and-sage"
+}

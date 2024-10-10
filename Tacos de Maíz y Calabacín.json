@@ -1,0 +1,104 @@
+{
+    "title": "Tacos de Maíz y Calabacín",
+    "keywords": "Vegetarian,Sandwiches,Main Dish,Dinner,Lunch,Quick & Easy",
+    "prep_time": "PT20M",
+    "cook_time": "PT16M",
+    "categories": [
+        "Vegetarian",
+        "Sandwiches",
+        "Main Dish",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/corn-and-zucchini-tacos-May15.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Salsa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Yogur griego natural sin grasa",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "tortillas de maiz",
+            "us_amount": "6",
+            "metric_amount": "6"
+        },
+        {
+            "name": "Orégano fresco (picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "tomate(s) (sin semillas y cortado en cubitos de 1/2 pulgada)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "calabacín (sin pelar y cortado en cubos de 1/2 pulgada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla dulce (finamente picada)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "mazorcas de maíz (desgranadas y con los granos cortados; desechar las mazorcas)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "aceite de oliva (dividido)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "En una sartén grande, calienta 2 cucharaditas de aceite a fuego medio. Agrega el maíz y saltea durante 3 minutos. Agrega el comino y el chile en polvo y saltea durante 2 minutos. Retira la mezcla de maíz de la sartén.",
+        "Añade el resto del aceite de oliva a la sartén y añade la cebolla. Saltea la cebolla durante 5 minutos, hasta que esté blanda. Añade el calabacín y saltea durante 3 minutos. Añade los tomates y saltea durante 2 minutos. Añade el orégano y saltea durante 1 minuto; incorpora la mezcla de maíz reservada.",
+        "Divida la mezcla de maíz entre las tortillas calientes y cubra cada taco con 2 cucharaditas de yogur y 2 cucharaditas de salsa cruda.",
+        "Consejo del cocinero: ¡Utilice el microondas para preparar maíz fresco! Corte aproximadamente 2,5 cm del extremo del tallo de cada mazorca. Coloque hasta 3 mazorcas de maíz a la vez en un recipiente apto para microondas y caliéntelas en el microondas a temperatura alta durante 6 minutos. Retire el maíz del microondas y déjelo enfriar lo suficiente para poder manipularlo. Sostenga la hoja, apriétela y sacúdala suavemente y el maíz saldrá de un solo golpe. Si quedan sedas, frote la mazorca de arriba a abajo con una toalla de papel para quitar las hebras."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Vegetarian",
+        "Sandwiches",
+        "Main Dish",
+        "Dinner",
+        "Lunch",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "155",
+        "total_fat": "4g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "20mg",
+        "total_carbohydrate": "27g",
+        "fiber": "4g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "5g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/corn-and-zucchini-tacos"
+}

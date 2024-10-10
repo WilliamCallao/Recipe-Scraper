@@ -1,0 +1,90 @@
+{
+    "title": "Kabobs de Pescadores (Spiede Alla Marinara)",
+    "keywords": "Dinner,Foodie,Lunch,Main Dish,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_697_FishermensKabobs_ItalianDiabetesCookbook_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "Pez espada sin piel, cortado en cubos de 1 pulgada",
+            "us_amount": "1 1/4 lbs",
+            "metric_amount": "567 ml"
+        },
+        {
+            "name": "tomates uva",
+            "us_amount": "24",
+            "metric_amount": "24"
+        },
+        {
+            "name": "albahaca fresca ligeramente compacta",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "1/2 tbsp",
+            "metric_amount": "7 ml"
+        },
+        {
+            "name": "ajo",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "sal marina sin refinar",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Hojuelas de chile rojo triturado, al gusto",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Calienta la parrilla a fuego alto. Ensarte el pescado en 4 brochetas, alternándolo con los tomates.",
+        "Coloque la albahaca, el aceite y el ajo en una licuadora y haga un puré hasta que quede una mezcla homogénea. Sazone con sal, pimienta y hojuelas de chile rojo trituradas. Reserve la mitad de la mezcla de aceite en un recipiente aparte.",
+        "Pincele las brochetas con la mitad del aceite de albahaca. Ase el pescado hasta que esté opaco, de 6 a 10 minutos, dándole vuelta de vez en cuando.",
+        "Con un pincel limpio, cubra las brochetas cocidas con el aceite de albahaca reservado. Sirva inmediatamente."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Lower Carb",
+        "Grilling",
+        "Italian",
+        "Mediterranean",
+        "Seafood",
+        "Dinner",
+        "Foodie",
+        "Lunch",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "11g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "95mg",
+        "sodium": "220mg",
+        "total_carbohydrate": "5g",
+        "fiber": "1g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "29g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/fishermen-kabobs-spiede-alla-marinara"
+}

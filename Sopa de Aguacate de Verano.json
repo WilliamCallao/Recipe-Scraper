@@ -1,0 +1,102 @@
+{
+    "title": "Sopa de Aguacate de Verano",
+    "keywords": "Appetizers,Budget Friendly,Lunch,Sides,Soup",
+    "prep_time": "PT2H",
+    "cook_time": "PT10M",
+    "categories": [
+        "Appetizers",
+        "Budget Friendly",
+        "Lunch",
+        "Sides",
+        "Soup"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_610_Budget-Friendly%20Avocado_Summer_Soup_BudgetFriendlyCookbook_022518.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "cebolla pequeña (finamente picada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Aguacates Haas (grandes y maduros)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "zumo de lima",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "jerez seco",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "¿Puedes caldo de pollo bajo en sodio (o 1½ taza de caldo de pollo casero)?",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "salsa de pimienta picante",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "cilantro (picado fresco)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "leche (baja en grasa)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Una pizca de sal kosher",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Saltee la cebolla y el ajo en el aceite hasta que estén tiernos y fragantes. Reserve.",
+        "Pelar y trocear el aguacate. Hacer un puré en la licuadora o procesador de alimentos junto con la mezcla de cebolla y ajo, el jugo de limón y el jerez.",
+        "Agregue el caldo de pollo y la salsa picante. Procese hasta que se mezclen. Vierta en un recipiente grande para servir y agregue el cilantro picado y la leche. (Use más o menos para lograr la consistencia deseada).",
+        "Añade sal al gusto y deja enfriar durante 2 o 3 horas antes de servir.",
+        "Decorar con más cilantro picado."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Caribbean",
+        "Appetizers",
+        "Budget Friendly",
+        "Lunch",
+        "Sides",
+        "Soup"
+    ],
+    "nutrition": {
+        "calories": "125",
+        "total_fat": "9g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "50mg",
+        "total_carbohydrate": "9g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/avocado-summer-soup"
+}

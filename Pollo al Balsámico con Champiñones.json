@@ -1,0 +1,85 @@
+{
+    "title": "Pollo al Balsámico con Champiñones",
+    "keywords": "Dinner,Main Dish,Holidays & Entertaining,Budget Friendly",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Main Dish",
+        "Holidays & Entertaining",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/068-diabetic-blasamic-chicken-mushrooms_AdobeStock191988897_021921.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pechuga de pollo deshuesada y sin piel (dividida en 4 porciones (4 oz))",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "harina para todo uso",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "margarina sin grasas trans",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "champiñones en rodajas",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque la pechuga de pollo en una bolsa de plástico y golpéela hasta que quede fina con un mazo.",
+        "Calienta el aceite de oliva a fuego medio-alto en una sartén.",
+        "Reboza el pollo en harina y cúbrelo por ambos lados. Añade el pollo a la sartén y saltéalo durante 5 minutos por cada lado. Retira el pollo de la sartén y reserva.",
+        "Derretir la margarina en la sartén. Añadir los champiñones y la pimienta y cocinar durante 5 minutos. Añadir el vinagre balsámico a la sartén y llevar a ebullición para reducir el líquido.",
+        "Añade el caldo de pollo a la sartén y deja hervir a fuego lento durante 2 minutos más. Vuelve a añadir la pechuga de pollo a la sartén y deja hervir a fuego lento durante 5 minutos."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Dinner",
+        "Main Dish",
+        "Holidays & Entertaining",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "9g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "65mg",
+        "sodium": "160mg",
+        "total_carbohydrate": "12g",
+        "fiber": "1g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/balsamic-chicken-mushrooms"
+}

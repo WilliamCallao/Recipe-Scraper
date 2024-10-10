@@ -1,0 +1,82 @@
+{
+    "title": "Hash de Nabo y Zanahoria",
+    "keywords": "Sides,Holidays & Entertaining",
+    "prep_time": "PT30M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Sides",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2016-11-rutabaga-and-carrot-hash.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "colinabo (pelado, cortado en cuartos y en rodajas finas)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "patatas para hornear (peladas y cortadas en rodajas finas)",
+            "us_amount": "1/2 lbs",
+            "metric_amount": "227 ml"
+        },
+        {
+            "name": "zanahoria(s) (peladas y cortadas en rodajas finas)",
+            "us_amount": "1 1/2",
+            "metric_amount": "1 1/2"
+        },
+        {
+            "name": "ajo (pelado)",
+            "us_amount": "5 diente",
+            "metric_amount": "5 diente"
+        },
+        {
+            "name": "hojas de laurel",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Sal y pimienta al gusto",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "caldo de pollo bajo en sodio (bajo en sodio y en grasas)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "En una cacerola grande, combine el colinabo, las papas, las zanahorias, el ajo, la hoja de laurel, la sal y la pimienta al gusto, el caldo y el agua. Lleve a ebullición a fuego medio, reduzca el fuego a fuego lento, cubra y cocine durante 30 minutos hasta que estén tiernos. Escurra las verduras y reserve 1/2 taza de líquido. Retire y deseche la hoja de laurel.",
+        "Con un machacador de papas, tritura las verduras con el líquido de cocción reservado y el aceite de oliva. Rectifica los condimentos si es necesario y sirve."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Sides",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "65",
+        "total_fat": "1.5g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "90mg",
+        "total_carbohydrate": "12g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/rutabaga-and-carrot-hash"
+}

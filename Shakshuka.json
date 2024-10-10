@@ -1,0 +1,115 @@
+{
+    "title": "Shakshuka",
+    "keywords": "Quick & Easy,Lunch,Dinner,Vegetarian,Breakfast and Brunch",
+    "prep_time": "Desconocido",
+    "cook_time": "PT30M",
+    "categories": [
+        "Quick & Easy",
+        "Lunch",
+        "Dinner",
+        "Vegetarian",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/379-Shakshuka-Diabetic_532255108_060118.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cebolla amarilla grande (cortada por la mitad y en rodajas finas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Calabacín mediano (cortado por la mitad y en rodajas finas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (cortado en rodajas finas)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "paprika",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pimienta de cayena, al gusto (1/8 a 1/4 cucharadita, al gusto)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Tomates ciruela enteros con su jugo (picados en trozos grandes)",
+            "us_amount": "28 oz",
+            "metric_amount": "792 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "queso feta (desmenuzado (aproximadamente 1 taza))",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "cilantro fresco o albahaca (picada, para servir)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 375°F.",
+        "Calienta el aceite en una sartén grande y pesada, preferiblemente de hierro fundido, a fuego medio. Agrega las cebollas y el calabacín y saltéalos durante 8 a 10 minutos hasta que estén tiernos. Agrega el ajo y cocina durante 1 minuto, luego agrega el comino, el pimentón y la pimienta de cayena y cocina durante 1 minuto más.",
+        "Añade los tomates, sal y pimienta y cocina a fuego lento hasta que los tomates se espesen, unos 10 minutos. Incorpora el queso.",
+        "Casca suavemente los huevos en la sartén y espárcelos uniformemente sobre los tomates. Sazona con una pizca de sal gruesa, si lo deseas. Lleva la sartén al horno y hornea hasta que los huevos estén listos, de 7 a 8 minutos (continuarán cocinándose durante un par de minutos después de que los saques del horno). Espolvorea con las hierbas frescas y sirve de inmediato.",
+        "Hazlo con anticipación o delega: corta por la mitad y en rodajas la cebolla y el calabacín, corta el ajo en rodajas, combina las especias secas, pica los tomates o prepara la receta completamente sin los huevos y refrigérala o congélala.",
+        "Potenciador de sabor: utilice pimentón ahumado en lugar de pimentón común. Sirva con salsa picante como Tabasco, sriracha o harissa, si tiene."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Veggie Rich",
+        "Mediterranean",
+        "Comfort Food",
+        "Quick & Easy",
+        "Lunch",
+        "Dinner",
+        "Vegetarian",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "10g",
+        "saturated_fat": "3.2g",
+        "trans_fat": "0g",
+        "cholesterol": "190mg",
+        "sodium": "315mg",
+        "total_carbohydrate": "10g",
+        "fiber": "3g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/shakshuka"
+}

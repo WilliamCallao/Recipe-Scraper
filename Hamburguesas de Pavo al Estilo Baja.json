@@ -1,0 +1,74 @@
+{
+    "title": "Hamburguesas de Pavo al Estilo Baja",
+    "keywords": "Quick & Easy,Main Dish,Easy Pantry Recipes,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Easy Pantry Recipes",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1945-baja-turkey-burger-DFH-MJ20.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pavo molido magro",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "salsa verde (uso dividido)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "bollos de trigo integral germinados o muffins ingleses de trigo integral",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "aguacate (pelado y cortado en rodajas finas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "mezcla de ensalada de col envasada",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente una parrilla a fuego medio alto.",
+        "En un recipiente grande, mezcle suavemente el pavo y ¼ de taza de salsa hasta que se integren. Forme con la mezcla cuatro hamburguesas de aproximadamente 4 pulgadas de diámetro.",
+        "Asa las hamburguesas hasta que estén bien cocidas (una temperatura interna de al menos 165 °F), aproximadamente 5 minutos por lado. Si lo deseas, también puedes asar ligeramente los panecillos.",
+        "Sobre la base de cada pan, coloca ¼ de las rodajas de aguacate y espolvorea con sal. Cubre cada una con una hamburguesa de pavo, ½ taza de la mezcla para ensalada de col y 1 cucharada de la salsa restante. Si lo deseas, agrega una rodaja de tomate y una hoja de lechuga a cada una. Cubre las hamburguesas con la parte superior del pan y sirve."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Grilling",
+        "Quick & Easy",
+        "Main Dish",
+        "Easy Pantry Recipes",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "370",
+        "total_fat": "13g",
+        "saturated_fat": "2.6g",
+        "trans_fat": "0.1g",
+        "cholesterol": "65mg",
+        "sodium": "420mg",
+        "total_carbohydrate": "37g",
+        "fiber": "10g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "25g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/baja-turkey-burgers"
+}

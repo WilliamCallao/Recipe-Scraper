@@ -1,0 +1,99 @@
+{
+    "title": "Calabaza Espagueti Primavera",
+    "keywords": "Dinner,Gluten-Free,Main Dish,Quick & Easy",
+    "prep_time": "PT5M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Dinner",
+        "Gluten-Free",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1689-diabetic-spaghetti-squash-primavera_Diabetes-Cookbook_DFJanFeb2019_121018.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "Calabaza espagueti",
+            "us_amount": "1 (about 4 lb)",
+            "metric_amount": "1 (about 4 lb)"
+        },
+        {
+            "name": "Aceite de Oliva Virgen Extra (dividido)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel (cortadas en cubos de 1 pulgada)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "Orégano seco",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "brócoli (cortado en floretes, aproximadamente 3 1/2 tazas en total)",
+            "us_amount": "2 heads",
+            "metric_amount": "2 heads"
+        },
+        {
+            "name": "pimiento rojo (cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "espinaca bebé",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "caldo de pollo sin grasa y bajo en sodio",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "queso parmesano recién rallado",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        }
+    ],
+    "instructions": [
+        "Corte la calabaza espagueti por la mitad a lo largo y retire las semillas. Coloque la calabaza en una fuente para horno apta para microondas, con el lado cortado hacia abajo. Cubra la fuente sin apretar, dejando espacio para que se ventile. Caliente la calabaza en el microondas durante 10 a 15 minutos. La calabaza estará lista cuando esté blanda al tacto. Déjela a un lado.",
+        "Mientras se cocina la calabaza, agrega 1½ cucharada de aceite de oliva a una sartén grande a fuego medio-alto. Sazona el pollo con el orégano y la pimienta negra. Agrega el pollo a la sartén y cocina durante unos 10 minutos, revolviendo con frecuencia, hasta que el pollo esté cocido a una temperatura interna de al menos 165 °F. Retíralo de la sartén y reserva.",
+        "En la misma sartén, calienta la cucharada y media restante de aceite de oliva a fuego medio-alto. Agrega el brócoli y el pimiento rojo y saltea durante 5 a 7 minutos. Agrega el ajo y saltea durante 30 segundos. Agrega la espinaca y el caldo de pollo y cocina 4 minutos más.",
+        "Utilice un tenedor para sacar la pulpa de la calabaza. Agregue los fideos de calabaza y el pollo a la sartén. Caliente durante 2 minutos, mezclando bien. Cubra con el queso parmesano. Divida en 5 tazones y sirva."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Dinner",
+        "Gluten-Free",
+        "Main Dish",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "270",
+        "total_fat": "12g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "55mg",
+        "sodium": "260mg",
+        "total_carbohydrate": "18g",
+        "fiber": "5g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/spaghetti-squash-primavera"
+}

@@ -1,0 +1,86 @@
+{
+    "title": "Salmón Relleno de Espinaca y Feta",
+    "keywords": "Dinner,Foodie,Main Dish",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Foodie",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/salmon-and-spinach_recipe.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "queso feta (bajo en grasa, desmenuzado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "espinacas congeladas (16 onzas, descongeladas y bien escurridas)",
+            "us_amount": "1 package",
+            "metric_amount": "1 package"
+        },
+        {
+            "name": "Aceite de Oliva Virgen Extra (dividido)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sal al gusto",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Pimienta al gusto",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "menta seca",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "filetes de salmón (3,5 onzas cada uno, sin piel)",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Caldo de verduras (sin grasa, bajo en sodio)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Jugo de 1 limón",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados Fahrenheit. Caliente 1 cucharada de aceite de oliva en una sartén a fuego medio. Agregue las espinacas y revuelva para cubrirlas. Agregue el queso feta, la sal, la pimienta y la menta. Revuelva para combinar y retire del fuego.",
+        "Engrase el fondo de una fuente para hornear con la cucharada restante de aceite.",
+        "Coloque los filetes sobre una superficie de trabajo y cubra cada uno con 1/2 taza de la mezcla de espinacas. Enrolle los filetes y párelos sobre un extremo. Colóquelos en una fuente para horno y déles la vuelta para cubrirlos con aceite de oliva. Sazone con sal y pimienta. Vierta el caldo en el fondo de la fuente para horno. Vierta el jugo de limón sobre los filetes. Cubra con papel de aluminio. Hornee durante 20 minutos o hasta que el salmón esté bien cocido."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Seafood",
+        "Dinner",
+        "Foodie",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "285",
+        "total_fat": "17g",
+        "saturated_fat": "2.9g",
+        "trans_fat": "0g",
+        "cholesterol": "70mg",
+        "sodium": "275mg",
+        "total_carbohydrate": "7g",
+        "fiber": "4g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/salmon-stuffed-spinach-and-feta"
+}

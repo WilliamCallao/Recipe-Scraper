@@ -1,0 +1,101 @@
+{
+    "title": "Frijoles Blancos Ahumados y Espinacas",
+    "keywords": "Sides,Vegetarian,Dinner,Holidays & Entertaining,Lunch,Main Dish,One Pot,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "PT20M",
+    "categories": [
+        "Sides",
+        "Vegetarian",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "One Pot",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/smoky-white-beans-spinach-May16.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "espinaca (tallos quitados)",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "frijoles cannellini (escurridos y enjuagados)",
+            "us_amount": "15 oz",
+            "metric_amount": "425 ml"
+        },
+        {
+            "name": "tomates asados ​​al fuego",
+            "us_amount": "15 oz",
+            "metric_amount": "425 ml"
+        },
+        {
+            "name": "vino blanco",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "pimentón ahumado",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "cebolla(s) (cortadas en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite en una cacerola grande a fuego medio. Agrega la cebolla y saltea durante 5 a 6 minutos. Agrega el ajo y el pimentón ahumado y saltea durante 1 minuto.",
+        "Añade el vino blanco y cocina durante 2 minutos. Añade los tomates y cocina durante 5 a 6 minutos. Añade los frijoles y cocina durante 5 minutos. Añade las espinacas y cocina hasta que se ablanden. Incorpora el vinagre balsámico y la pimienta y sirve."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Sides",
+        "Vegetarian",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Main Dish",
+        "One Pot",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "2g",
+        "saturated_fat": "0.3g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "19g",
+        "fiber": "5g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/smoky-white-beans-and-spinach"
+}

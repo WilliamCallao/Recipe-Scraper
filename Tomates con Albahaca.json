@@ -1,0 +1,68 @@
+{
+    "title": "Tomates con Albahaca",
+    "keywords": "No Cook,Gluten-Free,Vegetarian,Sides",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "No Cook",
+        "Gluten-Free",
+        "Vegetarian",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_74_basil_tomatoes_iStock183815810_022118.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "albahaca (seca)",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "tomates medianos (cortados en cubitos o en rodajas (aproximadamente 2 tazas))",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "sal (opcional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Mezclar los ingredientes y dejar reposar a temperatura ambiente durante al menos 1 hora.",
+        "Sirva solo o sobre una hoja de lechuga."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Low Sodium",
+        "No Cook",
+        "Gluten-Free",
+        "Vegetarian",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "18",
+        "total_fat": "0g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "5mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/basil-tomatoes"
+}

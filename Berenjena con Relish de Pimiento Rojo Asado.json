@@ -1,0 +1,85 @@
+{
+    "title": "Berenjena con Relish de Pimiento Rojo Asado",
+    "keywords": "Dinner,Sides,Vegan,Vegetarian",
+    "prep_time": "PT8M",
+    "cook_time": "PT28M",
+    "categories": [
+        "Dinner",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_689_Eggplant_Roasted_Red_Bell_Pepper_Relish_DiabetesHeartHealthy_022518.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "berenjena (sin pelar, cortada en 12 rodajas de 1/2 pulgada cada una)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva (uso dividido)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimientos rojos asados ​​(escurridos si son embotellados, picados)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "perejil fresco picado o 1/4 cucharadita de orégano seco, tomillo o albahaca (desmenuzada)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "vinagre de vino tinto",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "ajo pequeño (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "Pizca de pimienta",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425 °F. Rocíe ligeramente una fuente grande para hornear con aceite en aerosol.",
+        "Pincele ligeramente ambos lados de las rodajas de berenjena con 2 cucharaditas de aceite. Espolvoree la sal sobre la parte superior de las rodajas. Acomode en una sola capa en la fuente para horno.",
+        "Ásala durante 18 a 20 minutos o hasta que la berenjena esté ligeramente dorada en la parte inferior. Dale la vuelta. Ásala durante 8 minutos o hasta que esté dorada en la parte inferior. Pasa la berenjena a platos.",
+        "Mientras tanto, en un bol pequeño, mezcle los ingredientes restantes, incluida la cucharadita de aceite restante. Vierta la mezcla sobre la berenjena."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Indian",
+        "Mediterranean",
+        "Dinner",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "50",
+        "total_fat": "3g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "7g",
+        "fiber": "3g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/eggplant-roasted-red-bell-pepper-relish"
+}

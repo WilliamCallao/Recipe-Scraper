@@ -1,0 +1,114 @@
+{
+    "title": "Cazuela Mexicana de Quinoa",
+    "keywords": "Lunch,Dinner,Quick & Easy,Holidays & Entertaining",
+    "prep_time": "PT25M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Dinner",
+        "Quick & Easy",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_357_Mexican_Quinoa_Casserole_MG_0760-%28ZF-5661-35964-1-082%29_02282018.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "3 tsp",
+            "metric_amount": "15 g"
+        },
+        {
+            "name": "cebolla(s) (cortadas en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimiento verde grande (cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "quinoa",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Caldo de pollo bajo en sodio (bajo en sodio, reducido en grasas)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "2 1/2 cup",
+            "metric_amount": "592 ml"
+        },
+        {
+            "name": "frijoles negros (15,5 onzas, sin sal agregada, enjuagados y escurridos)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "tomate(s) (14,5 onzas, cortado en cubitos)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "chile en polvo (1)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "comino",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "queso cheddar (rallado bajo en grasa)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F. Rocíe una fuente para hornear de 9x14 pulgadas con aceite en aerosol.",
+        "Calienta el aceite de oliva en una olla a fuego medio-alto. Agrega las cebollas y el pimiento verde y saltea hasta que las cebollas se vuelvan transparentes. Agrega el ajo y saltea durante otros 30 segundos.",
+        "Añade el resto de los ingredientes, excepto el queso cheddar. Lleva a ebullición. Reduce el fuego y cocina a fuego lento durante 20 minutos.",
+        "Vierta la mezcla de quinoa en la fuente para horno y extiéndala de manera uniforme. Cubra con queso cheddar y hornee durante 10 minutos hasta que el queso se derrita y esté ligeramente dorado."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Lunch",
+        "Dinner",
+        "Quick & Easy",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "240",
+        "total_fat": "6g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "185mg",
+        "total_carbohydrate": "35g",
+        "fiber": "5g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "13g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mexican-quinoa-casserole"
+}

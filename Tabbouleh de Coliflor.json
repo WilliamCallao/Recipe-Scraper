@@ -1,0 +1,89 @@
+{
+    "title": "Tabbouleh de Coliflor",
+    "keywords": "Salads,Gluten-Free,Foodie,Vegetarian,Sides",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Salads",
+        "Gluten-Free",
+        "Foodie",
+        "Vegetarian",
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/149-diabetic-cauliflower-tabbouleh_AdobeStock213578031_012121.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "hojas de perejil empaquetadas",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "hojas de menta empaquetadas",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Coliflor de cabeza pequeña (o arroz de coliflor congelado de 16 oz) (sin hojas ni tallo)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Tomates roma (ciruela) (sin semillas y cortados en cubitos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "jugo de limón (recién exprimido)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Picar el perejil y las hojas de menta (o molerlos en un procesador de alimentos) y agregarlos a un tazón grande.",
+        "Rallar la coliflor con un rallador y mezclar con el perejil y la menta.",
+        "Añade el tomate cortado en cubitos y mézclalo con la ensalada.",
+        "Rocíe la ensalada con el aceite de oliva y el jugo de limón, y espolvoree con sal (opcional) y pimienta negra. Revuelva para cubrir.",
+        "Tapar y dejar marinar el tabulé durante 30 minutos antes de servir."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Lower Carb",
+        "Low Sodium",
+        "Mediterranean",
+        "Salads",
+        "Gluten-Free",
+        "Foodie",
+        "Vegetarian",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "130mg",
+        "total_carbohydrate": "6g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cauliflower-tabbouleh"
+}

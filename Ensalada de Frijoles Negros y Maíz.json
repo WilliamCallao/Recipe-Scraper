@@ -1,0 +1,109 @@
+{
+    "title": "Ensalada de Frijoles Negros y Maíz",
+    "keywords": "No Cook,Holidays & Entertaining,Lunch,Gluten-Free,Vegetarian,Easy Pantry Recipes,Sides,Quick & Easy",
+    "prep_time": "PT12M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "No Cook",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Gluten-Free",
+        "Vegetarian",
+        "Easy Pantry Recipes",
+        "Sides",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/0086-diabetic-black-bean-corn-salad_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "frijoles negros (enjuagados y escurridos)",
+            "us_amount": "2 (14.5-oz) cans",
+            "metric_amount": "2 (14.5-oz) cans"
+        },
+        {
+            "name": "maíz congelado (descongelado)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "pimiento rojo (cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla roja finamente picada",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cilantro fresco picado",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Limas pequeñas (jugo)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "comino",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta de cayena (opcional)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "En un tazón mediano, combine los frijoles, el maíz, el pimiento rojo, la cebolla roja y el cilantro.",
+        "En un bol pequeño, mezcle los ingredientes restantes y vierta sobre la ensalada de frijoles. Mezcle bien."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "No Cook",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Gluten-Free",
+        "Vegetarian",
+        "Easy Pantry Recipes",
+        "Sides",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "110",
+        "total_fat": "4g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "50mg",
+        "total_carbohydrate": "16g",
+        "fiber": "4g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/black-bean-and-corn-salad"
+}

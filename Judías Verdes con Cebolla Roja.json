@@ -1,0 +1,96 @@
+{
+    "title": "Judías Verdes con Cebolla Roja",
+    "keywords": "Foodie,Lunch,Dinner,Sides,Vegetarian,Holidays & Entertaining",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Foodie",
+        "Lunch",
+        "Dinner",
+        "Sides",
+        "Vegetarian",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/red-onion-green-beans-Nov14.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "limón",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "almendras en rodajas",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "tomillo fresco (finamente picado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla roja (cortada por la mitad, pelada y cortada en rodajas de 1/2 pulgada de grosor)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "crema de mantequilla para untar",
+            "us_amount": "5 tsp",
+            "metric_amount": "25 g"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "judías verdes frescas (recortadas)",
+            "us_amount": "2 lbs",
+            "metric_amount": "907 ml"
+        },
+        {
+            "name": "sal marina",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Ponga a hervir una olla de 6 cuartos de galón con agua, llena hasta 2/3 de su capacidad. Agregue la sal. Agregue las judías verdes y apague el fuego. Deje reposar las judías verdes en el agua durante 3 a 4 minutos. Escurra. Sumerja las judías verdes en un recipiente con agua helada. Escurra las judías y déjelas a un lado.",
+        "En una sartén grande, calienta la mantequilla y el aceite a fuego medio. Agrega las cebollas y cocina, revolviendo de vez en cuando, durante 20 a 25 minutos, hasta que estén muy blandas. Baja el fuego si las cebollas comienzan a dorarse demasiado rápido.",
+        "Añade el tomillo y las judías verdes a las cebollas y caliéntalas, usando pinzas para dar vuelta suavemente las verduras. Para servir, coloca la mezcla de cebolla y judías verdes en una fuente y cubre con las almendras y la ralladura de limón."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Low Sodium",
+        "Veggie Rich",
+        "Mediterranean",
+        "Foodie",
+        "Lunch",
+        "Dinner",
+        "Sides",
+        "Vegetarian",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "115",
+        "total_fat": "8g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "90mg",
+        "total_carbohydrate": "11g",
+        "fiber": "4g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/red-onion-green-beans"
+}

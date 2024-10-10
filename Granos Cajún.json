@@ -1,0 +1,90 @@
+{
+    "title": "Granos Cajún",
+    "keywords": "Sides",
+    "prep_time": "PT15M",
+    "cook_time": "PT45M",
+    "categories": [
+        "Sides"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_635_Cajun%20Grains_AllNaturalCookbook_022518.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "farro entero (enjuagado y escurrido)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "caldo de pollo o verduras (bajo en sodio)",
+            "us_amount": "1 3/4 cup",
+            "metric_amount": "414 ml"
+        },
+        {
+            "name": "Tomates cortados en cubitos con chiles verdes (asados)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        },
+        {
+            "name": "sal marina",
+            "us_amount": "1 1/4 tsp",
+            "metric_amount": "6 g"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pavo molido (aproximadamente 93 % magro)",
+            "us_amount": "8 oz",
+            "metric_amount": "226 ml"
+        },
+        {
+            "name": "pimiento verde (cortado en cubitos)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "cebolla blanca (picada finamente)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        },
+        {
+            "name": "condimento cajún sin sal",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "frijoles rojos sin sal añadida (escurridos)",
+            "us_amount": "1 can",
+            "metric_amount": "1 can"
+        }
+    ],
+    "instructions": [
+        "Añade el farro, el caldo, los tomates cortados en cubitos con el líquido y la sal a una cacerola mediana. Lleva a hervor a fuego alto. Reduce el fuego a medio bajo, tapa y cocina a fuego lento durante 20 minutos. (El farro estará medio cocido).",
+        "Mientras tanto, calienta el aceite en una sartén antiadherente grande a fuego medio-alto. Agrega el pavo, el pimiento morrón, la cebolla y el condimento cajún y saltea hasta que el pavo esté desmenuzado y bien cocido y la cebolla se ablande, aproximadamente 5 minutos.",
+        "Incorpora la mezcla de pavo y frijoles a la mezcla de farro, tapa y continúa cocinando a fuego lento hasta que el farro esté tierno, aproximadamente 20 minutos. Retira del fuego y deja reposar, tapado, durante 5 minutos para completar el proceso de cocción. Luego sirve."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Kidney-Friendly",
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Comfort Food",
+        "Sides"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "5g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "20mg",
+        "sodium": "430mg",
+        "total_carbohydrate": "32g",
+        "fiber": "7g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "15g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/cajun-grains"
+}

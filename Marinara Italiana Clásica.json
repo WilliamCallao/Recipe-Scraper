@@ -1,0 +1,83 @@
+{
+    "title": "Marinara Italiana Clásica",
+    "keywords": "Sauces",
+    "prep_time": "PT7M",
+    "cook_time": "PT33M",
+    "categories": [
+        "Sauces"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_662_ClassicItalianMarinara_PerfectComfortCollection_022618.jpg",
+    "servings": "10 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "5 diente",
+            "metric_amount": "5 diente"
+        },
+        {
+            "name": "Tomates enlatados (de buena calidad, preferiblemente envasados ​​en su propio jugo, escurridos, reservar el líquido)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "hojas de albahaca fresca con tallos (cortadas en rodajas o puedes dejarlas enteras)",
+            "us_amount": "5",
+            "metric_amount": "5"
+        },
+        {
+            "name": "Pastas de trigo integral en forma de formas (penne, conchas, fusilli)",
+            "us_amount": "10 oz",
+            "metric_amount": "283 ml"
+        },
+        {
+            "name": "Sal kosher",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "hojuelas de pimiento rojo molido (opcional)",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Queso parmesano o romano (recién rallado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite de oliva y el ajo en una sartén grande con tapa a fuego lento (no uses una olla profunda, ya que quieres que el agua se evapore rápidamente y que la salsa se espese). Cocina el ajo durante unos 6-7 minutos, pero sin que se dore, revolviendo de vez en cuando.",
+        "Mientras tanto, añade los tomates escurridos a un recipiente hondo. Tritúralos con las manos hasta que queden gruesos. Añade los tomates y la albahaca a la sartén y cocina a fuego lento durante 20-25 minutos hasta que espese. Si la salsa queda demasiado espesa, añade un poco del líquido reservado de la lata de tomates.",
+        "Mientras tanto, pon a hervir una olla de 3 a 5 cuartos de galón con agua ligeramente salada (llena la olla hasta 2/3 de su capacidad). Agrega la pasta y revuelve durante el primer minuto. Continúa cocinando la pasta aproximadamente 7 a 8 minutos hasta que esté al dente. Escurre, no enjuagues.",
+        "Añade sal, pimienta y ají rojo triturado (si lo usas) a la salsa de tomate. Añade la pasta a la salsa, tapa y deja reposar la pasta en la salsa durante 1 o 2 minutos. Añade la pasta a un bol calentado y espolvorea con queso. (La salsa también se puede congelar. Congélala en un recipiente de un cuarto de galón y guárdala durante 3 o 4 meses)."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Italian",
+        "Sauces"
+    ],
+    "nutrition": {
+        "calories": "150",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "25g",
+        "fiber": "3g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/classic-italian-marinara"
+}

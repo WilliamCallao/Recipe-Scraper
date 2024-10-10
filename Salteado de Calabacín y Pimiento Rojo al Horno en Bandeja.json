@@ -1,0 +1,85 @@
+{
+    "title": "Salteado de Calabacín y Pimiento Rojo al Horno en Bandeja",
+    "keywords": "Vegetarian,Vegan,One Pot,Main Dish,Budget Friendly,Dinner,Quick & Easy",
+    "prep_time": "PT15M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "One Pot",
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1871-diabetic-Sheet-Pan-Zucchini-Red-Pepper-Tofu-Stir-Fry_Clean-and-Simple_121319.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pimiento rojo (cortado en tiras de 1 pulgada)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "calabacín (cortado en rodajas de 1/2 pulgada de grosor)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        },
+        {
+            "name": "aceite de sésamo tostado",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "vinagre de arroz",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "salsa de soja baja en sodio",
+            "us_amount": "2 tbsp plus 2 tsp",
+            "metric_amount": "2 tbsp plus 2 tsp"
+        },
+        {
+            "name": "jengibre fresco (rallado)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "tofu extra firme",
+            "us_amount": "1 (14-oz) package",
+            "metric_amount": "1 (14-oz) package"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 450 °F. Cubra una bandeja para hornear grande con borde con papel pergamino sin blanquear.",
+        "Si es necesario, seque o exprima el exceso de líquido del tofu. Corte el tofu en cubos de 3/4 de pulgada.",
+        "En un bol grande, mezcle el jengibre, el tamari, el vinagre y el aceite. Agregue los trozos de calabacín y pimiento morrón a la mezcla de salsa; revuelva con la mano para cubrirlos.",
+        "Coloca los calabacines y los pimientos en una sola capa en la bandeja para hornear (llena 2/3 de la bandeja), dejando que el exceso de salsa gotee nuevamente en el recipiente.",
+        "Añade el tofu al bol con la mezcla de salsa restante; revuelve para cubrirlo. Coloca el tofu en una sola capa sobre la bandeja para hornear (rellena el resto de la bandeja). Rocía el tofu con la salsa restante.",
+        "Asar hasta que el tofu y las verduras estén dorados, durante unos 30 minutos; no es necesario revolver. Servir."
+    ],
+    "tags": [
+        "Vegetarian",
+        "Vegan",
+        "One Pot",
+        "Main Dish",
+        "Budget Friendly",
+        "Dinner",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "11g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "350mg",
+        "total_carbohydrate": "10g",
+        "fiber": "3g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "12g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sheet-pan-zucchini-and-red-pepper-stir-fry"
+}

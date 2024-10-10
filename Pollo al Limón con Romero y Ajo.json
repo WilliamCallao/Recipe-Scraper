@@ -1,0 +1,91 @@
+{
+    "title": "Pollo al Limón con Romero y Ajo",
+    "keywords": "Easy Pantry Recipes,Quick & Easy,Main Dish,Lunch,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT13M",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1908-diabetic-lemon-chicken-rosemary-garlic_create-your-plate_022020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "jugo y ralladura de 1 limón",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "vino blanco",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Maicena",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "filetes de pollo",
+            "us_amount": "1 1/4 lbs",
+            "metric_amount": "567 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "romero fresco",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "En un bol pequeño, mezcle el jugo de limón, el vino y la maicena. Reserve.",
+        "Espolvorea ambos lados del pollo con sal, pimienta negra y ralladura de limón.",
+        "Calienta el aceite de oliva en una sartén mediana a fuego medio. Agrega el romero y el ajo y cocina hasta que desprendan un aroma fragante, durante 30 segundos. Agrega el pollo y cocina hasta que un termómetro insertado en un trozo de pollo alcance los 165 °F, 5 minutos de cada lado. Agrega la mezcla de jugo de limón y revuelve para cubrir. Continúa cocinando durante 3 minutos; el líquido se espesará levemente. Sirve tibio."
+    ],
+    "tags": [
+        "Lower Carb",
+        "Kidney-Friendly",
+        "CKD Dialysis",
+        "Easy Pantry Recipes",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "230",
+        "total_fat": "10g",
+        "saturated_fat": "1.9g",
+        "trans_fat": "0g",
+        "cholesterol": "80mg",
+        "sodium": "190mg",
+        "total_carbohydrate": "3g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "30g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/lemon-chicken-rosemary-and-garlic"
+}

@@ -1,0 +1,59 @@
+{
+    "title": "Tiras de Pollo con Panko y Ranch con Salsa para Mojar",
+    "keywords": "Main Dish,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Main Dish",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_781_Panko%20Ranch%20Chicken%20Strips%20with%20Grilley%20Soy%20Pepper%20petites_4IngredientCookbook_022518.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "filetes de pollo (aproximadamente 1 libra en total)",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "Aderezo ranch de yogur (uso dividido)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "pan rallado panko",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque el pollo en un recipiente mediano con 1/4 de taza del aderezo ranchero; revuelva hasta que esté bien cubierto. Coloque el pan rallado en una sartén poco profunda, como una fuente para tarta. Cubra los trozos de pollo, uno a la vez, con el pan rallado y reserve.",
+        "Calienta el aceite en una sartén grande a fuego medio-alto. Agrega el pollo y reduce inmediatamente el fuego a medio-bajo. Cocina durante 12 minutos o hasta que esté dorado y ya no esté rosado en el centro, dándole vuelta con cuidado de vez en cuando.",
+        "Retirar de la sartén, espolvorear con 1/8 de cucharadita de sal. Servir con la 1/2 taza restante de salsa ranch para mojar."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Comfort Food",
+        "Main Dish",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "340",
+        "total_fat": "16g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "85mg",
+        "sodium": "390mg",
+        "total_carbohydrate": "17g",
+        "fiber": "1g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "30g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/panko-ranch-chicken-strips-dipping-sauce"
+}

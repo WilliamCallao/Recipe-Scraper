@@ -1,0 +1,74 @@
+{
+    "title": "Salsa de Tomate y Pimiento Rojo Asado",
+    "keywords": "Easy Pantry Recipes,Gluten-Free,No Cook,Quick & Easy,Salad Dressings & Condiments,Vegan,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Easy Pantry Recipes",
+        "Gluten-Free",
+        "No Cook",
+        "Quick & Easy",
+        "Salad Dressings & Condiments",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2035-diabetic-Red-Pepper-Tomato-Sauce_DaVita_040821.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1/4 tsp, or to taste",
+            "metric_amount": "1/4 tsp, or to taste"
+        },
+        {
+            "name": "condimento italiano",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "salsa de tomate baja en sodio",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "ajo",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "pimientos rojos asados ​​(escurridos)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque los pimientos y el ajo en un procesador de alimentos o licuadora y procese hasta que quede una mezcla homogénea. Agregue la salsa de tomate, el aceite de oliva y los condimentos italianos. Procese hasta que quede bien mezclado. Listo para usar en pizza, pasta o como reemplazo de la salsa de tomate en las recetas. Puede refrigerarse hasta por 3 días o congelarse hasta que esté listo para usar."
+    ],
+    "tags": [
+        "CKD Non-Dialysis",
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Comfort Food",
+        "Easy Pantry Recipes",
+        "Gluten-Free",
+        "No Cook",
+        "Quick & Easy",
+        "Salad Dressings & Condiments",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "75",
+        "total_fat": "7g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "82mg",
+        "total_carbohydrate": "3g",
+        "fiber": "0.8g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-red-pepper-tomato-sauce"
+}

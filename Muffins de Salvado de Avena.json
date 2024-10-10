@@ -1,0 +1,94 @@
+{
+    "title": "Muffins de Salvado de Avena",
+    "keywords": "Breakfast and Brunch,Holidays & Entertaining,Sides,Vegetarian",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Breakfast and Brunch",
+        "Holidays & Entertaining",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/sept_oat_muffin_istock16243992_279x200.jpg",
+    "servings": "12 Servings",
+    "ingredients": [
+        {
+            "name": "salvado de avena",
+            "us_amount": "2 1/4 cup",
+            "metric_amount": "532 ml"
+        },
+        {
+            "name": "azúcar moreno bien compactado",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "Levadura en polvo",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "leche (sin grasa)",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "sustituto de huevo ((igual a 1 huevo))",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Puré de manzana sin azúcar",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "plátano mediano (machacado)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "frutas secas como pasas, dátiles, albaricoques (opcional) (opcional)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 425 grados.",
+        "Mezclar los cuatro primeros ingredientes en un bol grande y reservar.",
+        "Combine la leche, el huevo y el aceite. Mezcle el puré de manzana con el plátano machacado y mezcle con los ingredientes líquidos. Agregue a los ingredientes secos y mezcle hasta que se humedezcan.",
+        "Vierta la mezcla en moldes para muffins rociados con aceite en aerosol antiadherente. No utilice envoltorios de papel, ya que los muffins tienden a pegarse al papel. Hornee durante 15 a 17 minutos.",
+        "CONSEJO: La parte superior de estos muffins no se dora bien debido al bajo contenido de azúcar, ¡pero aún quedan húmedos y llenos de sabor!"
+    ],
+    "tags": [
+        "Low Sodium",
+        "Breakfast and Brunch",
+        "Holidays & Entertaining",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "121",
+        "total_fat": "4g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "140mg",
+        "total_carbohydrate": "20g",
+        "fiber": "3g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/oat-bran-muffins"
+}

@@ -1,0 +1,91 @@
+{
+    "title": "Huevos Benedict con Salsa Holandesa Sedosa",
+    "keywords": "Sauces,Foodie,Breakfast and Brunch",
+    "prep_time": "PT20M",
+    "cook_time": "PT10M",
+    "categories": [
+        "Sauces",
+        "Foodie",
+        "Breakfast and Brunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1671-diabetic-Eggs-Benedict-silken-hollandaise_all-natural-diebetes-cookbook_101518_1021x779.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "Tofu sedoso orgánico (aproximadamente 1/2 taza, sin escurrir)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "zumo de limón",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "leche descremada evaporada",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "mantequilla sin sal",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "mostaza de dijon",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "Salsa Worcestershire",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pimienta de cayena",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "Muffins ingleses de trigo integral (partidos por la mitad y tostados)",
+            "us_amount": "3",
+            "metric_amount": "3"
+        },
+        {
+            "name": "Jamón ahumado estilo delicatessen (a la plancha o calentado al horno)",
+            "us_amount": "6 (3/4 oz) slices",
+            "metric_amount": "6 (3/4 oz) slices"
+        },
+        {
+            "name": "Huevos (escalfados, ver Fresh Fact)",
+            "us_amount": "6",
+            "metric_amount": "6"
+        }
+    ],
+    "instructions": [
+        "Haga un puré con el tofu, el jugo de limón, la leche evaporada, la mantequilla, la mostaza, la salsa Worcestershire y la pimienta de cayena en una licuadora a velocidad baja hasta que quede suave, aproximadamente 30 segundos.",
+        "Coloque la mezcla en una cacerola pequeña a fuego medio-bajo. Cocine a fuego lento hasta que esté caliente, aproximadamente 5 minutos.",
+        "Mientras tanto, cubra cada mitad de panecillo tostado con una loncha de jamón y luego con un huevo escalfado. Cubra cada una con aproximadamente 3 cucharadas de la salsa holandesa sedosa caliente y sirva.",
+        "Dato curioso: para escalfar huevos, ponga a hervir unos 7,5 cm de agua en una sartén grande y poco profunda a fuego alto. Apague el fuego y agregue los huevos de inmediato, rompiéndolos directamente en el agua. Tape inmediatamente la sartén con una tapa hermética. Deje que los huevos se cocinen sin tocarlos hasta que estén listos como desee, aproximadamente 4 minutos. Retire los huevos con una espátula perforada o una cuchara con ranuras grande y escúrralos sobre toallas de papel."
+    ],
+    "tags": [
+        "French",
+        "Sauces",
+        "Foodie",
+        "Breakfast and Brunch"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "7g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "175mg",
+        "sodium": "530mg",
+        "total_carbohydrate": "17g",
+        "fiber": "2g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "14g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/eggs-benedict-silken-hollandaise-sauce"
+}

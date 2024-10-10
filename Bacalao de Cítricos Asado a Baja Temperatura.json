@@ -1,0 +1,89 @@
+{
+    "title": "Bacalao de Cítricos Asado a Baja Temperatura",
+    "keywords": "Main Dish,Lunch,Foodie,Dinner",
+    "prep_time": "PT20M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Main Dish",
+        "Lunch",
+        "Foodie",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/slow-roasted-citrus-cod-May16.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "tomillo fresco",
+            "us_amount": "4 sprig",
+            "metric_amount": "4 sprig"
+        },
+        {
+            "name": "Pescado blanco (cortado en 4 porciones)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "chile jalapeño (cortado por la mitad, sin semillas y en rodajas finas)",
+            "us_amount": "1/2 small",
+            "metric_amount": "1/2 small"
+        },
+        {
+            "name": "limón (sin pelar, cortado en rodajas finas, sin semillas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "naranja (sin pelar, cortada en rodajas finas, sin semillas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "bulbo de hinojo (cortado en rodajas finas)",
+            "us_amount": "1 small",
+            "metric_amount": "1 small"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 300 F. Mezcle el hinojo, las rodajas de naranja y limón y el chile jalapeño en un molde para hornear de 9 por 13 pulgadas.",
+        "Colocar los trozos de bacalao junto a la mezcla de cítricos. Esparcir las ramitas de tomillo sobre el pescado. Rociar con el aceite de oliva y espolvorear con sal y pimienta.",
+        "Asar el pescado durante 25 a 30 minutos o hasta que esté opaco y bien cocido. Servir el pescado con el hinojo asado y los cítricos."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "Kidney-Friendly",
+        "Seafood",
+        "Main Dish",
+        "Lunch",
+        "Foodie",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "190",
+        "total_fat": "8g",
+        "saturated_fat": "1.1g",
+        "trans_fat": "0g",
+        "cholesterol": "50mg",
+        "sodium": "310mg",
+        "total_carbohydrate": "11g",
+        "fiber": "4g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "21g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/slow-roasted-citrus-cod"
+}

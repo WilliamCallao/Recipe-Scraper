@@ -1,0 +1,112 @@
+{
+    "title": "Salsa para Barra de Ensaladas con Bistec de Falda a la Parrilla",
+    "keywords": "Dinner,Main Dish,Sauces",
+    "prep_time": "PT15M",
+    "cook_time": "PT8M",
+    "categories": [
+        "Dinner",
+        "Main Dish",
+        "Sauces"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_822_Salad%20Bar%20Salsa%20with%20Grilled%20Flank%20Steak_SmartShopperCkbk_022618.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "maíz amarillo",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "tomates cherry (cortados en cuartos)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "cebolla roja (cortada en cubitos)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "cebolla verde (cebolleta) (picada)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "jugo de lima fresco",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1/2 tbsp",
+            "metric_amount": "7 ml"
+        },
+        {
+            "name": "pimienta de cayena",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "azúcar",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "filete de flanco",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "paprika",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Sal kosher",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "En un recipiente mediano, combine todos los ingredientes para la salsa. Reserve.",
+        "Quita el exceso de grasa del filete de falda. Con un cuchillo afilado, haz tres cortes diagonales en la superficie superior del filete, cortando aproximadamente 1/3 de su longitud. Esto evitará que se enrosque en la parrilla.",
+        "Precaliente la parrilla a fuego medio-alto. Rocíe la rejilla de la parrilla con aceite en aerosol o prepare una parrilla para horno. Cubra una asadera con papel de aluminio. Rocíe el papel de aluminio con aceite en aerosol. Combine el pimentón, el chile en polvo, la sal y la pimienta. Pincele ambos lados del filete con el aceite de oliva. Espolvoree ambos lados con la mezcla de especias. Ase el filete a unas 4-6 pulgadas de la fuente de calor, durante unos 5 minutos por lado o hasta que alcance el punto de cocción deseado.",
+        "Saque el filete del horno y colóquelo sobre una tabla para cortar. Déjelo reposar durante 5 minutos antes de cortarlo. Corte el filete en rodajas finas en diagonal a lo largo de la fibra. Sirva con la salsa."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Grilling",
+        "Dinner",
+        "Main Dish",
+        "Sauces"
+    ],
+    "nutrition": {
+        "calories": "245",
+        "total_fat": "12g",
+        "saturated_fat": "3.3g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "180mg",
+        "total_carbohydrate": "12g",
+        "fiber": "2g",
+        "sugar": "3g",
+        "added_sugar": "0g",
+        "protein": "24g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/salad-bar-salsa-grilled-flank-steak"
+}

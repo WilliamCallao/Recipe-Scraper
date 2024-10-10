@@ -1,0 +1,117 @@
+{
+    "title": "Pan Plano de Espelta Mediterráneo",
+    "keywords": "Foodie,Dinner,Vegetarian,Snacks,Lunch,Appetizers,Holidays & Entertaining",
+    "prep_time": "PT15M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Foodie",
+        "Dinner",
+        "Vegetarian",
+        "Snacks",
+        "Lunch",
+        "Appetizers",
+        "Holidays & Entertaining"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/353-MediterraneanSpeltFlatbread_467332041_050318.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "agua tibia",
+            "us_amount": "3/4 cup",
+            "metric_amount": "177 ml"
+        },
+        {
+            "name": "levadura seca activa",
+            "us_amount": "1 package",
+            "metric_amount": "1 package"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sal (opcional)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "harina de espelta (más un poco extra para espolvorear)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "pimiento amarillo (cortado en rodajas finas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "tomates uva (cortados por la mitad)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Rúcula",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "queso feta (bajo en grasa)",
+            "us_amount": "3 oz",
+            "metric_amount": "85 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "vinagre balsámico",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 400 grados F. Rocíe una bandeja para hornear grande con aceite en aerosol. Déjela a un lado.",
+        "Añade la levadura al agua tibia y deja reposar durante 5 minutos. La levadura debe estar espumosa. Incorpora el huevo y la sal y, luego, la harina hasta formar una bola. La masa quedará pegajosa. Reserva, tapada.",
+        "Mezcle el pimiento amarillo, los tomates uva, la rúcula y el queso feta con aceite de oliva, vinagre balsámico y pimienta negra.",
+        "Espolvorea tus manos con más harina de espelta y extiende la masa en una bandeja para hornear hasta formar un rectángulo de aproximadamente 23 x 33 cm o más grande. La masa debe ser relativamente fina.",
+        "Vierta la mezcla de verduras uniformemente sobre la masa, dejando aproximadamente 1/2 pulgada alrededor del borde.",
+        "Hornear durante 20 minutos, luego cortar en 8 trozos."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mediterranean",
+        "Foodie",
+        "Dinner",
+        "Vegetarian",
+        "Snacks",
+        "Lunch",
+        "Appetizers",
+        "Holidays & Entertaining"
+    ],
+    "nutrition": {
+        "calories": "185",
+        "total_fat": "6g",
+        "saturated_fat": "1.5g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "145mg",
+        "total_carbohydrate": "26g",
+        "fiber": "5g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "8g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mediterranean-spelt-flatbread"
+}

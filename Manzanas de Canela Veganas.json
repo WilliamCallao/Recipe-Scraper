@@ -1,0 +1,85 @@
+{
+    "title": "Manzanas de Canela Veganas",
+    "keywords": "Vegetarian,Vegan,Sides,Holidays & Entertaining,Dessert",
+    "prep_time": "PT10M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Holidays & Entertaining",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2024-08/Splenda_VeganCinnamonApples-logo.jpg",
+    "servings": "7 Servings",
+    "ingredients": [
+        {
+            "name": "manzana",
+            "us_amount": "5 med",
+            "metric_amount": "5 med"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "sal marina",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Crema de mantequilla vegana",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Endulzante con Stevia Splenda® en frasco",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        },
+        {
+            "name": "clavo molido",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "extracto de vainilla",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        }
+    ],
+    "instructions": [
+        "Corte las manzanas en gajos, quitando el corazón. Corte los gajos de modo que tengan ¼ de pulgada de grosor. Agregue las manzanas a una sartén grande con ½ taza de agua. Cubra y cocine a fuego medio a medio alto durante 10 minutos, hasta que las manzanas se ablanden ligeramente. Revuelva de vez en cuando.",
+        "Añade sal y la mitad de la mantequilla vegana a la sartén. Revuelve hasta que todos los trozos de manzana estén cubiertos. Continúa cocinando hasta que se doren ligeramente y alcancen el nivel de suavidad deseado.",
+        "Incorpore el resto de la mezcla, el edulcorante, la canela, el clavo de olor y la vainilla.",
+        "Revuelve para cubrir las manzanas con todas las especias. ¡Retira del fuego y sirve!"
+    ],
+    "tags": [
+        "Comfort Food",
+        "Vegetarian",
+        "Vegan",
+        "Sides",
+        "Holidays & Entertaining",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "2g",
+        "saturated_fat": "0g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "70mg",
+        "total_carbohydrate": "20g",
+        "fiber": "3g",
+        "sugar": "14g",
+        "added_sugar": "0g",
+        "protein": "0g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/vegan-cinnamon-apples"
+}

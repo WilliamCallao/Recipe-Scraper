@@ -1,0 +1,105 @@
+{
+    "title": "Crema de Maíz y Pollo con Jalapeño",
+    "keywords": "Budget Friendly,Dinner,Main Dish,Lunch",
+    "prep_time": "PT25M",
+    "cook_time": "PT30M",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/325-diabetic-jalapeno-chicken-corn-chowder_Diabetes-Cookbook_DFJulAug19_062019.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "cebolla amarilla mediana (pelada y picada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "zanahorias medianas (peladas y picadas)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "apio (picado)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "chiles jalapeños medianos (sin semillas y picados)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "ajo (pelado y machacado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "mazorcas de maíz dulce (granos cortados de la mazorca (o 4 tazas de granos congelados, descongelados y escurridos))",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "condimento sin sal (como Mrs. Dash)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "caldo de pollo sin grasa y bajo en sodio",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "pechuga de pollo cocida (picada)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "Yogur griego natural sin grasa (sin grasa)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite en una olla grande a fuego medio. Agrega la cebolla, la zanahoria, el apio, el jalapeño, el ajo y el maíz y saltea durante 5 a 7 minutos.",
+        "Añade el condimento sin sal, la pimienta negra y el caldo de pollo. Lleva a ebullición, luego reduce el fuego y cocina a fuego lento, tapado, durante 20 minutos.",
+        "Retire la olla del fuego y haga puré aproximadamente la mitad de la sopa, usando una licuadora de inmersión o una licuadora vertical. Si usa una licuadora vertical, haga puré en tandas y asegúrese de no llenar demasiado la licuadora. Devuelva el puré a la olla.",
+        "Añade el pollo y caliéntalo. Retira la olla del fuego.",
+        "Incorpora el yogur y sirve. No hiervas la sopa una vez que hayas añadido el yogur."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Mexican/Southwestern",
+        "Budget Friendly",
+        "Dinner",
+        "Main Dish",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "3.5g",
+        "saturated_fat": "0.7g",
+        "trans_fat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "130mg",
+        "total_carbohydrate": "21g",
+        "fiber": "3g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/jalapeno-chicken-and-corn-chowder"
+}

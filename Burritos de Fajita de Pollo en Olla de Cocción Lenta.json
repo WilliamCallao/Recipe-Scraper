@@ -1,0 +1,105 @@
+{
+    "title": "Burritos de Fajita de Pollo en Olla de Cocción Lenta",
+    "keywords": "Quick & Easy,Dinner,Lunch,Slow Cooker,Main Dish",
+    "prep_time": "PT10M",
+    "cook_time": "PT6H",
+    "categories": [
+        "Quick & Easy",
+        "Dinner",
+        "Lunch",
+        "Slow Cooker",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/497-diabetic-slow-cooker-chicken-burrito_AdobeStock_270329086_022621.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "pechuga de pollo deshuesada y sin piel (cortada en tiras)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "pimiento verde (en rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimiento rojo (en rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "cebolla mediana (en rodajas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "comino",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "Salsa",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "frijoles negros (enjuagados y escurridos)",
+            "us_amount": "1 (15-oz) can",
+            "metric_amount": "1 (15-oz) can"
+        },
+        {
+            "name": "tortillas grandes de trigo integral bajas en carbohidratos",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "queso cheddar rallado bajo en grasa",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque las tiras de pechuga de pollo en una olla de cocción lenta. Cúbralas con el resto de los ingredientes, excepto las tortillas y el queso.",
+        "Tapar y cocinar a fuego lento durante 6 horas o hasta que esté listo. Desmenuzar el pollo con un tenedor, si es necesario.",
+        "Coloque 1/2 taza de la mezcla de pollo y frijoles sobre cada tortilla y cubra con 2 cucharadas de queso. Doble hasta formar un burrito."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mexican/Southwestern",
+        "Quick & Easy",
+        "Dinner",
+        "Lunch",
+        "Slow Cooker",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "260",
+        "total_fat": "7g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "40mg",
+        "sodium": "500mg",
+        "total_carbohydrate": "33g",
+        "fiber": "16g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "29g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/slow-cooker-chicken-fajita-burritos"
+}

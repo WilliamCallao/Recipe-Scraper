@@ -1,0 +1,77 @@
+{
+    "title": "Parfait de Pudín de Calabaza con Galletas de Jengibre",
+    "keywords": "Dessert,No Cook,Quick & Easy",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dessert",
+        "No Cook",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/420-diabetic-pumpkin-pudding-parfait-with-gingersnaps_diabetes-ckbk_DFNovDec19_101020.jpg",
+    "servings": "7 Servings",
+    "ingredients": [
+        {
+            "name": "Mezcla instantánea para pudín de tarta de queso sin grasa ni azúcar",
+            "us_amount": "1 (1-oz) package",
+            "metric_amount": "1 (1-oz) package"
+        },
+        {
+            "name": "nuez moscada molida",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "calabaza pura enlatada",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "galletas de jengibre (desmenuzadas)",
+            "us_amount": "7",
+            "metric_amount": "7"
+        },
+        {
+            "name": "yogur griego de vainilla sin grasa (dividido)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "leche desnatada",
+            "us_amount": "1 2/3 cup",
+            "metric_amount": "393 ml"
+        }
+    ],
+    "instructions": [
+        "En un tazón mediano, bate la mezcla de pudín y la leche durante 2 minutos. Déjala reposar por 5 minutos.",
+        "Incorpora la calabaza, la canela y la nuez moscada. Añadir 1/2 taza de yogur y refrigera durante 10 minutos.",
+        "Vierte 1/2 taza de la mezcla de pudín en cada vaso de parfait. Cubre cada uno con 1 cucharada colmada del yogur restante y 1 galleta de jengibre desmenuzada. Repite el procedimiento para los 6 parfaits restantes."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Kid Friendly",
+        "Recetas en español",
+        "Dessert",
+        "No Cook",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "100",
+        "total_fat": "1.5g",
+        "saturated_fat": "0.5g",
+        "trans_fat": "0g",
+        "cholesterol": "2mg",
+        "sodium": "250mg",
+        "total_carbohydrate": "16g",
+        "fiber": "1g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "0.01g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/parfait-de-pudin-de-calabaza-con-galletas-de-jengibre"
+}

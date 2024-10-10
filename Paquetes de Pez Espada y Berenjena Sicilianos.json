@@ -1,0 +1,99 @@
+{
+    "title": "Paquetes de Pez Espada y Berenjena Sicilianos",
+    "keywords": "Lunch,Dinner,Main Dish",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Lunch",
+        "Dinner",
+        "Main Dish"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/491-diabetic-mediterranean-swordfish-eggplant-bundles_mediterranean-diabetes-cookbook_101718_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "berenjena mediana (cortada a lo largo en rodajas muy finas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Aceite de Oliva Virgen Extra (dividido)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "2 diente",
+            "metric_amount": "2 diente"
+        },
+        {
+            "name": "Tomates en caja (picados)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Tomates en caja (colados)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "albahaca (recién picada)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "piñones",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "sal marina (dividida)",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta (recién rallada)",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "hojuelas de pimiento rojo triturado",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "Filetes de pez espada (sin espinas, divididos en 2 filetes)",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        }
+    ],
+    "instructions": [
+        "Precaliente el asador. Coloque las rodajas de berenjena en una bandeja para hornear. Pincele con 1 cucharada de aceite de oliva y hornee durante unos minutos hasta que estén tiernas y bien cocidas. Retire del horno y reserve.",
+        "Calienta la cucharada restante de aceite de oliva en una sartén grande a fuego medio. Agrega el ajo y cocina hasta que suelte su aroma. No dejes que el ajo se dore. Agrega los tomates picados y colados, la albahaca, los piñones, 1/4 cucharadita de sal, la pimienta y las hojuelas de pimienta. Revuelve y tapa. Reduce el fuego a bajo. Cocina a fuego lento durante 5 minutos.",
+        "Mientras tanto, coloque un trozo grande de papel encerado sobre una superficie de trabajo. Coloque los filetes de pescado sobre el papel encerado y cúbralos con otro trozo. Utilice un martillo de carne de borde plano para golpear el pescado hasta que quede muy fino, aproximadamente de 1/4 de pulgada. Revise debajo del papel encerado de vez en cuando para asegurarse de que el pescado no se esté rompiendo. Corte cada trozo por la mitad para hacer 4 trozos.",
+        "Cubre cada trozo de pescado con capas finas de rodajas de berenjena. (Si tienes rodajas de berenjena adicionales, resérvalas como guarnición). Comenzando por el extremo ancho, enrolla el pescado, envolviendo completamente la berenjena. Usa palillos o brochetas para asegurar los rollos. Retira lentamente la tapa de la salsa de tomate y agrega los rollos a la salsa hirviendo a fuego lento. Cubre y cocina durante 10 a 15 minutos, volteándolos una vez, o hasta que el pescado esté bien cocido.",
+        "Transfiera el pescado a una fuente para servir, retire las brochetas y cubra con la salsa restante. Sazone con el 1/4 de cucharadita de sal restante, si lo desea. Sirva las rodajas de berenjena restantes a lo largo de los costados de la fuente."
+    ],
+    "tags": [
+        "Seafood",
+        "Italian",
+        "Mediterranean",
+        "Lunch",
+        "Dinner",
+        "Main Dish"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "13g",
+        "saturated_fat": "2.1g",
+        "trans_fat": "0g",
+        "cholesterol": "35mg",
+        "sodium": "405mg",
+        "total_carbohydrate": "14g",
+        "fiber": "4g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "19g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sicilian-swordfish-and-eggplant-bundles"
+}

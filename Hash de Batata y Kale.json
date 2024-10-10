@@ -1,0 +1,89 @@
+{
+    "title": "Hash de Batata y Kale",
+    "keywords": "Sides,Quick & Easy",
+    "prep_time": "PT0M",
+    "cook_time": "PT0M",
+    "categories": [
+        "Sides",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Sweet%20Potato%20Kale%20Hash-1.jpg%20word.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "queso cotija",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "tomates cherry (cortados por la mitad)",
+            "us_amount": "1/2 pints",
+            "metric_amount": "240 ml"
+        },
+        {
+            "name": "col rizada ((aproximadamente 1 libra despalillada y cortada en trozos del tamaño de un bocado))",
+            "us_amount": "1 bunch",
+            "metric_amount": "1 bunch"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "polvo de ajo",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "polvo de chile",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "cebolla roja ((aproximadamente 6 oz pequeñas))",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "batatas",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta el aceite en una sartén grande a fuego medio.",
+        "Agregue las batatas, la cebolla, el chile en polvo, el comino, el ajo en polvo y la pimienta a la sartén. Cocine, revolviendo ocasionalmente, hasta que las batatas estén tiernas, durante 10 a 15 minutos.",
+        "Añade la col rizada a la sartén y revuelve hasta que se marchite, 3-4 minutos.",
+        "Retirar del fuego e incorporar los tomates cherry. Repartir en platos para servir y decorar con queso."
+    ],
+    "tags": [
+        "Comfort Food",
+        "Sides",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "180",
+        "total_fat": "7g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "10mg",
+        "sodium": "230mg",
+        "total_carbohydrate": "24g",
+        "fiber": "6g",
+        "sugar": "8g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-potato-kale-hash"
+}

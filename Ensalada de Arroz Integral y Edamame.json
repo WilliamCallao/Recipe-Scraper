@@ -1,0 +1,106 @@
+{
+    "title": "Ensalada de Arroz Integral y Edamame",
+    "keywords": "Salads,Sides,Vegetarian",
+    "prep_time": "PT10M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/RecId_627_Brown%20Rice%20and%20Edamame%20Salad_SmartShopperCkbk_022618.jpg",
+    "servings": "5 Servings",
+    "ingredients": [
+        {
+            "name": "edamame congelado (descongelado)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "pasas o grosellas",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "jugo de lima fresco",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "azúcar",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "aceite vegetal",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "cebolla(s) (cortadas en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "1 diente",
+            "metric_amount": "1 diente"
+        },
+        {
+            "name": "jengibre fresco rallado",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "polvo de curry",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Sal kosher",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra recién molida",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "Arroz integral de grano largo congelado (cocido y enfriado)",
+            "us_amount": "2 cup",
+            "metric_amount": "473 ml"
+        },
+        {
+            "name": "cilantro fresco (picado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Añade el edamame descongelado a un colador y deja que escurra bien toda la humedad. Sécalo y reserva.",
+        "En un tazón pequeño, combine las pasas, el jugo de limón y el azúcar y reserve.",
+        "Calienta el aceite vegetal en una sartén mediana a fuego medio-alto. Agrega la cebolla y saltea durante unos 6 minutos. Agrega el ajo y saltea durante 2 minutos. Agrega el jengibre, el curry, la sal y la pimienta y saltea durante 2 minutos. Retira la sartén del fuego y agrega la mezcla de pasas y mezcla.",
+        "Añade el arroz cocido y el edamame reservado a un bol para servir. Añade la mezcla de cebolla y cilantro. Mezcla suavemente. Sirve la ensalada a temperatura ambiente."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Salads",
+        "Sides",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "185",
+        "total_fat": "5g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "200mg",
+        "total_carbohydrate": "30g",
+        "fiber": "5g",
+        "sugar": "7g",
+        "added_sugar": "0g",
+        "protein": "7g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/brown-rice-and-edamame-salad"
+}

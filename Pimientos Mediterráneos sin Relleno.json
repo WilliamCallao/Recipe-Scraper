@@ -1,0 +1,100 @@
+{
+    "title": "Pimientos Mediterráneos sin Relleno",
+    "keywords": "Quick & Easy,Main Dish,Lunch,Gluten-Free,Dinner",
+    "prep_time": "PT10M",
+    "cook_time": "PT12M",
+    "categories": [
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/med%20unstuffed%20peppers.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "Carne molida magra al 93 %",
+            "us_amount": "3 oz",
+            "metric_amount": "85 ml"
+        },
+        {
+            "name": "cebolla(s) (picadas)",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "semillas de calabaza tostadas, saladas y peladas",
+            "us_amount": "1 1/2 tbsp",
+            "metric_amount": "22 ml"
+        },
+        {
+            "name": "agua",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "arroz integral cocido",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "salsa de tomate sin sal añadida",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "pasas",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "canela molida",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "Pimiento morrón verde o rojo mediano (cortado a lo largo por la mitad y sin semillas)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "yogur griego natural bajo en grasa",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Calienta una sartén antiadherente mediana a fuego medio-alto. Cocina la carne y la cebolla durante 3 minutos, revolviendo con frecuencia. Agrega las semillas de calabaza; cocina 2 minutos. Agrega el agua, el arroz, la salsa de tomate, las pasas y la canela. Reduce el fuego a bajo, tapa y cocina 4 minutos para mezclar los sabores y espesar un poco.",
+        "Mientras tanto, coloque las mitades de pimiento en un plato apto para microondas, tápelo y cocínelo en el microondas a temperatura alta durante 2 o 3 minutos o hasta que los pimientos estén tiernos.",
+        "Dale la vuelta a los pimientos. Mezcla la sal con la carne y vierte la mezcla en las mitades de los pimientos. Cúbrelos con yogur."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Mediterranean",
+        "Quick & Easy",
+        "Main Dish",
+        "Lunch",
+        "Gluten-Free",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "390",
+        "total_fat": "13g",
+        "saturated_fat": "4.5g",
+        "trans_fat": "0g",
+        "cholesterol": "55mg",
+        "sodium": "410mg",
+        "total_carbohydrate": "45g",
+        "fiber": "6g",
+        "sugar": "23g",
+        "added_sugar": "0g",
+        "protein": "27g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mediterranean-unstuffed-peppers"
+}

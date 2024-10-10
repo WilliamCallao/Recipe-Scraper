@@ -1,0 +1,84 @@
+{
+    "title": "Wraps de Salmón y Rúcula",
+    "keywords": "Appetizers,Holidays & Entertaining,No Cook,Quick & Easy,Snacks,Foodie",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Appetizers",
+        "Holidays & Entertaining",
+        "No Cook",
+        "Quick & Easy",
+        "Snacks",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/jan2015-salmon-and-arugula.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "queso crema (sin grasa, ablandado)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        },
+        {
+            "name": "limón (rallado y exprimido)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Rúcula",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "wraps de pan plano de grano integral",
+            "us_amount": "4",
+            "metric_amount": "4"
+        },
+        {
+            "name": "Salmón ahumado en frío (cortado en 4 porciones iguales)",
+            "us_amount": "4 oz",
+            "metric_amount": "113 ml"
+        }
+    ],
+    "instructions": [
+        "Combine el queso crema y la ralladura de limón en un tazón pequeño.",
+        "Añade la rúcula a un bol mediano. Rocía 1 cucharada de jugo de limón y el aceite de oliva sobre la rúcula. Espolvorea la pimienta negra sobre la rúcula y revuelve suavemente para cubrirla.",
+        "Coloque una rebanada de pan plano. Unte 1 onza de la mezcla de queso crema en el centro de la rebanada de pan plano. Cubra con 1 porción de salmón y 1 taza de rúcula aliñada. Envuelva bien y corte por la mitad. Luego, corte cada mitad en cuatro rodajas iguales.",
+        "Repita el procedimiento para las tres envolturas restantes."
+    ],
+    "tags": [
+        "Lower Carb",
+        "High in Fiber",
+        "Seafood",
+        "Appetizers",
+        "Holidays & Entertaining",
+        "No Cook",
+        "Quick & Easy",
+        "Snacks",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "90",
+        "total_fat": "3g",
+        "saturated_fat": "0.4g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "310mg",
+        "total_carbohydrate": "10g",
+        "fiber": "5g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "9g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/salmon-and-arugula-wraps"
+}

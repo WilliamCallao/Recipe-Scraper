@@ -1,0 +1,73 @@
+{
+    "title": "Pollo con Limón y Hierbas",
+    "keywords": "Main Dish,Budget Friendly",
+    "prep_time": "PT30M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/61main_lemonherbedchicken.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "tomillo fresco",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "aceite de oliva (uso dividido)",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "Jugo de limón (exprimido y rallado)",
+            "us_amount": "2 whole",
+            "metric_amount": "2 whole"
+        },
+        {
+            "name": "limón (en rodajas)",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "pechugas de pollo deshuesadas y sin piel",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        }
+    ],
+    "instructions": [
+        "Prepara la marinada: En una olla pequeña, calienta la ralladura de limón, el jugo de limón, 2 cucharadas de aceite de oliva, el ajo picado, el tomillo picado, la sal kosher y la pimienta negra para crear la salsa.",
+        "Calienta la cucharada restante de aceite en una sartén a fuego medio-alto. Agrega el pollo y las rodajas de limón a la sartén. Cocina el pollo hasta que esté dorado y alcance una temperatura interna de 165 °F (74 °C), aproximadamente 5 minutos por lado.",
+        "Sirve el pollo y las rodajas de limón con la salsa tibia y decora con hierbas frescas adicionales."
+    ],
+    "tags": [
+        "Mediterranean",
+        "Main Dish",
+        "Budget Friendly"
+    ],
+    "nutrition": {
+        "calories": "220",
+        "total_fat": "12g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "80mg",
+        "sodium": "270mg",
+        "total_carbohydrate": "4g",
+        "fiber": "1g",
+        "sugar": "1g",
+        "added_sugar": "0g",
+        "protein": "26g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/lemon-herbed-chicken"
+}

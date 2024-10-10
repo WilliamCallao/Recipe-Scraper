@@ -1,0 +1,92 @@
+{
+    "title": "Remolachas Asadas con Limón y Eneldo",
+    "keywords": "Dinner,Gluten-Free,Lunch,Sides,Vegan,Vegetarian",
+    "prep_time": "PT15M",
+    "cook_time": "PT1H",
+    "categories": [
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/1893-diabetic-roasted-beets-with-lemon-and-dill_CYP_DFMarApr20_021020.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "pimienta negra",
+            "us_amount": "to taste",
+            "metric_amount": "to taste"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1/8 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "eneldo fresco",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "cebolla roja (finamente picada)",
+            "us_amount": "1/4 med",
+            "metric_amount": "1/4 med"
+        },
+        {
+            "name": "comino molido",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "aceite de canola",
+            "us_amount": "1/2 tbsp",
+            "metric_amount": "7 ml"
+        },
+        {
+            "name": "limón",
+            "us_amount": "1/2",
+            "metric_amount": "1/2"
+        },
+        {
+            "name": "Remolachas frescas (sin hojas verdes)",
+            "us_amount": "1 lbs",
+            "metric_amount": "454 ml"
+        },
+        {
+            "name": "spray antiadherente para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 450° F. Cubra una fuente para hornear con aceite en aerosol antiadherente.",
+        "Lave las remolachas, luego perfore cada una de ellas varias veces con un tenedor y colóquelas en la fuente para horno preparada. Cúbralas con papel aluminio y hornéelas hasta que un tenedor pueda perforarlas con facilidad, aproximadamente 1 hora. Retire la fuente para horno del horno y deje que las remolachas se enfríen durante 15 minutos. Retire la piel y corte las remolachas en rodajas de ¼ de pulgada.",
+        "Ralle la mitad del limón (deje la cáscara a un lado) y, luego, use un cuchillo para pelar para quitar la piel y la médula (parte blanca) restantes del limón cortado por la mitad. Corte entre las membranas para liberar los gajos de limón y luego pique.",
+        "En un bol mediano, combine el aceite de canola y el comino. Agregue las remolachas, la ralladura de limón, el limón picado, la cebolla, el eneldo, la sal y la pimienta y mezcle suavemente. Transfiera a una fuente para servir y sirva tibio."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Dinner",
+        "Gluten-Free",
+        "Lunch",
+        "Sides",
+        "Vegan",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "70",
+        "total_fat": "2g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "12g",
+        "fiber": "2g",
+        "sugar": "9g",
+        "added_sugar": "0g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/roasted-beets-lemon-and-dill"
+}

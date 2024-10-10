@@ -1,0 +1,74 @@
+{
+    "title": "Salmón Glaseado con Miel y Soja",
+    "keywords": "Cooking for 1 or 2,Lunch,Quick & Easy,Dinner",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Cooking for 1 or 2",
+        "Lunch",
+        "Quick & Easy",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/july_glazed_salmon_istock197509_279x200.jpg",
+    "servings": "2 Servings",
+    "ingredients": [
+        {
+            "name": "filete de salmón salvaje",
+            "us_amount": "3/4 lbs",
+            "metric_amount": "340 ml"
+        },
+        {
+            "name": "Aceite de oliva en aerosol para cocinar",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1 pinch",
+            "metric_amount": "1 ml"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "salsa de soja (reducida en sodio)",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        }
+    ],
+    "instructions": [
+        "Enjuague el salmón y séquelo con una toalla de papel.",
+        "Calienta una sartén antiadherente a fuego medio-alto y rocíala con aceite de oliva en aerosol.",
+        "Dorar el salmón durante 2 minutos, dar la vuelta y dorar durante 1 minuto. Sazonar los lados cocidos con sal y pimienta. Bajar el fuego al mínimo, tapar y dejar cocinar durante 7-8 minutos. Retirar del fuego.",
+        "Mezcla la miel y la salsa de soja. Vierte sobre el salmón, tapa y deja reposar durante 1 minuto. Sirve."
+    ],
+    "tags": [
+        "Asian",
+        "Seafood",
+        "Cooking for 1 or 2",
+        "Lunch",
+        "Quick & Easy",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "303",
+        "total_fat": "12g",
+        "saturated_fat": "2g",
+        "trans_fat": "0g",
+        "cholesterol": "96mg",
+        "sodium": "366mg",
+        "total_carbohydrate": "12g",
+        "fiber": "0g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "39g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/honey-soy-glazed-salmon"
+}

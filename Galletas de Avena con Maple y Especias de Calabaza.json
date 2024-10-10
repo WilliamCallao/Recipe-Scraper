@@ -1,0 +1,104 @@
+{
+    "title": "Galletas de Avena con Maple y Especias de Calabaza",
+    "keywords": "Vegetarian,Snacks,Gluten-Free,Dessert",
+    "prep_time": "PT10M",
+    "cook_time": "PT25M",
+    "categories": [
+        "Vegetarian",
+        "Snacks",
+        "Gluten-Free",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Maple%20Pumpkin%20Diabetic%20Cookies.png",
+    "servings": "14 Servings",
+    "ingredients": [
+        {
+            "name": "avena laminada a la antigua usanza",
+            "us_amount": "1 1/4 cup",
+            "metric_amount": "296 ml"
+        },
+        {
+            "name": "harina para todo uso o harina integral para repostería",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "Levadura en polvo",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "sal marina",
+            "us_amount": "3/4 tsp",
+            "metric_amount": "4 g"
+        },
+        {
+            "name": "Especias para pastel de calabaza o canela molida",
+            "us_amount": "3/4 tsp",
+            "metric_amount": "4 g"
+        },
+        {
+            "name": "Puré de manzana sin azúcar",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "albaricoques secos (unas 7 u 8 piezas)",
+            "us_amount": "2 oz",
+            "metric_amount": "57 ml"
+        },
+        {
+            "name": "jarabe de arce puro",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "mantequilla sin sal (temperatura ambiente)",
+            "us_amount": "4 tbsp",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "aceite de girasol o de aguacate",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "huevos",
+            "us_amount": "1 large",
+            "metric_amount": "1 large"
+        },
+        {
+            "name": "extracto puro de vainilla",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        }
+    ],
+    "instructions": [
+        "Precaliente el horno a 350 grados F. Cubra dos bandejas para hornear con papel pergamino o use tapetes de silicona para hornear.",
+        "En un tazón mediano, mezcle la avena, la harina, el polvo para hornear, la sal y las especias para pastel de calabaza.",
+        "Añade el puré de manzana, los albaricoques secos, el jarabe de arce, la mantequilla y el aceite a una licuadora. Tapa y mezcla hasta que se integren bien. Añade el huevo y el extracto de vainilla y mezcla hasta que se forme un puré como un batido. Vierte la masa en la mezcla seca en el recipiente mediano y revuelve hasta que se integren bien. Nota: La masa parecerá un poco suelta (líquida).",
+        "Coloque 7 galletas en cada bandeja para hornear, aproximadamente 2 cucharadas medidoras bien colmadas en cada una. Hornee hasta que se doren por abajo, aproximadamente 25 minutos.",
+        "Saque las galletas del horno y déjelas enfriar por completo sobre las rejillas de las bandejas para hornear. Guarde las galletas blandas en un recipiente hermético a temperatura ambiente durante un máximo de 3 días o congélelas durante un máximo de 1 mes."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Vegetarian",
+        "Snacks",
+        "Gluten-Free",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "6g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0.1g",
+        "cholesterol": "20mg",
+        "sodium": "150mg",
+        "total_carbohydrate": "16g",
+        "fiber": "2g",
+        "sugar": "7g",
+        "added_sugar": "3g",
+        "protein": "2g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/maple-pumpkin-spice-oatmeal-cookies"
+}

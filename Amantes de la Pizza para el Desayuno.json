@@ -1,0 +1,62 @@
+{
+    "title": "Amantes de la Pizza para el Desayuno",
+    "keywords": "Breakfast and Brunch,Vegetarian,Quick & Easy",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Breakfast and Brunch",
+        "Vegetarian",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_380_Nuts_about_Pizza_for_Breakfast_MG_4752-%28ZF-5661-35964-1-122%29_02282018.jpg",
+    "servings": "1 Serving",
+    "ingredients": [
+        {
+            "name": "Muffins ingleses de trigo integral",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "mantequilla de almendras",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "fresas (en rodajas)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "hojuelas de coco sin azúcar (ralladas)",
+            "us_amount": "1 1/2 tsp",
+            "metric_amount": "7 g"
+        }
+    ],
+    "instructions": [
+        "Panecillo inglés partido y tostado.",
+        "Unta cada mitad con mantequilla de almendras.",
+        "Cubrir con fresas en rodajas.",
+        "Espolvorear con coco."
+    ],
+    "tags": [
+        "High in Fiber",
+        "Kid Friendly",
+        "Breakfast and Brunch",
+        "Vegetarian",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "280",
+        "total_fat": "12g",
+        "saturated_fat": "2.5g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "315mg",
+        "total_carbohydrate": "37g",
+        "fiber": "8g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/nuts-about-pizza-breakfast"
+}

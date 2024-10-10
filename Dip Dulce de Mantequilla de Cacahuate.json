@@ -1,0 +1,60 @@
+{
+    "title": "Dip Dulce de Mantequilla de Cacahuate",
+    "keywords": "Quick & Easy,Snacks,Dessert",
+    "prep_time": "PT5M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Quick & Easy",
+        "Snacks",
+        "Dessert"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/ThinkstockPhotos-538685684.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "yogur sabor vainilla (sin grasa)",
+            "us_amount": "1/3 cup",
+            "metric_amount": "78 ml"
+        },
+        {
+            "name": "mantequilla de maní baja en grasa",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "azúcar moreno oscuro envasado",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "plátano(s) (en rodajas)",
+            "us_amount": "2 med",
+            "metric_amount": "2 med"
+        }
+    ],
+    "instructions": [
+        "Usando un tenedor o batidor, revuelva el yogur, la mantequilla de maní y el azúcar moreno juntos en un tazón pequeño hasta que estén completamente mezclados.",
+        "Sirva con rodajas de plátano y palillos de madera, si lo desea.",
+        "Consejo del cocinero: Puedes cubrir esta salsa con film transparente y refrigerarla hasta por 1 semana."
+    ],
+    "tags": [
+        "Low Sodium",
+        "Quick & Easy",
+        "Snacks",
+        "Dessert"
+    ],
+    "nutrition": {
+        "calories": "120",
+        "total_fat": "1g",
+        "saturated_fat": "1g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "51mg",
+        "total_carbohydrate": "22g",
+        "fiber": "2g",
+        "sugar": "12g",
+        "added_sugar": "0g",
+        "protein": "3g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/sweet-peanut-buttery-dip"
+}

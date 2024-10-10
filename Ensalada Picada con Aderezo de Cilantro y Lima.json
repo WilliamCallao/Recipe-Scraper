@@ -1,0 +1,115 @@
+{
+    "title": "Ensalada Picada con Aderezo de Cilantro y Lima",
+    "keywords": "Dinner,Holidays & Entertaining,Lunch,Salads,Vegetarian",
+    "prep_time": "PT25M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Salads",
+        "Vegetarian"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/oct2014-chopped-salad-w.jpg",
+    "servings": "8 Servings",
+    "ingredients": [
+        {
+            "name": "lechuga romana (en rodajas finas)",
+            "us_amount": "4 cup",
+            "metric_amount": "946 ml"
+        },
+        {
+            "name": "zanahoria(s) (peladas y cortadas en cubitos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "tallos de apio (cortados en cubitos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Tomates roma (ciruela) (sin semillas y cortados en cubitos)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "pepino(s) (pelado y cortado en cubitos)",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "frijoles negros enlatados (escurridos)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "vinagre de sidra",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "jugo de lima (fresco)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cilantro (picado)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "Miel",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "sal marina",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "semillas de calabaza o girasol (tostadas)",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Coloque la lechuga en una fuente poco profunda. En hileras, disponga las zanahorias, el apio, los tomates ciruela, el pepino y los frijoles negros.",
+        "Prepara el aderezo para ensaladas. Mezcla el vinagre de sidra, el jugo de lima, el cilantro, la miel, la sal y la pimienta. Agrega lentamente el aceite mientras bates para incorporar los ingredientes.",
+        "Rocíe con el aderezo. Cubra con semillas de calabaza o girasol tostadas."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Mexican/Southwestern",
+        "Dinner",
+        "Holidays & Entertaining",
+        "Lunch",
+        "Salads",
+        "Vegetarian"
+    ],
+    "nutrition": {
+        "calories": "140",
+        "total_fat": "9g",
+        "saturated_fat": "1.4g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "210mg",
+        "total_carbohydrate": "11g",
+        "fiber": "4g",
+        "sugar": "4g",
+        "added_sugar": "0g",
+        "protein": "4g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/chopped-salad-cilantro-lime-dressing"
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Helado de Fresa y Banana",
+    "keywords": "Vegetarian,Vegan,Gluten-Free,Budget Friendly,Dessert,Quick & Easy",
+    "prep_time": "PT2H",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free",
+        "Budget Friendly",
+        "Dessert",
+        "Quick & Easy"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/2021-diabetic-dessert-strawberry-banana-ice-cream_diabetes-cookbook_081618_1021x779.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "plátano(s)",
+            "us_amount": "2",
+            "metric_amount": "2"
+        },
+        {
+            "name": "Fresas en rodajas",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "leche de coco",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        }
+    ],
+    "instructions": [
+        "Pele los plátanos y córtelos en rodajas de 1/4 de pulgada. Colóquelos en un bol y congélelos durante al menos 2 horas.",
+        "Una vez que los plátanos estén congelados, agréguelos a una licuadora o procesador de alimentos junto con las fresas y la leche de coco. Licue a velocidad alta durante 30 segundos.",
+        "Raspe los bordes de la licuadora y licue a velocidad alta durante 30 segundos más. Repita este proceso hasta que la mezcla quede homogénea y tenga la textura de un helado cremoso.",
+        "Se puede servir inmediatamente o congelar durante 30 minutos para obtener una textura más firme."
+    ],
+    "tags": [
+        "Kid Friendly",
+        "Comfort Food",
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free",
+        "Budget Friendly",
+        "Dessert",
+        "Quick & Easy"
+    ],
+    "nutrition": {
+        "calories": "80",
+        "total_fat": "0g",
+        "saturated_fat": "0.2g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "0mg",
+        "total_carbohydrate": "19g",
+        "fiber": "3g",
+        "sugar": "10g",
+        "added_sugar": "0g",
+        "protein": "1g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/strawberry-banana-ice-cream"
+}

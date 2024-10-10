@@ -1,0 +1,82 @@
+{
+    "title": "Ensalada de Mozzarella, Tomate y Garbanzo",
+    "keywords": "Dinner,Salads,Quick & Easy,Sides,Lunch",
+    "prep_time": "Desconocido",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Salads",
+        "Quick & Easy",
+        "Sides",
+        "Lunch"
+    ],
+    "image_url": [
+        "https://diabetesfoodhub.org/sites/foodhub/files/Recid_374_Mozzarella_Tomato_and_Chickpea_Salad%20_02282018.jpg",
+        "Tomato and Chickpea Salad \" loading=\"lazy\" />"
+    ],
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "bolas de mozzarella fresca (escurridas)",
+            "us_amount": "2 1/2 oz",
+            "metric_amount": "71 ml"
+        },
+        {
+            "name": "Tomates cherry",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "garbanzos enlatados (sin sal añadida)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Aceite de oliva virgen extra",
+            "us_amount": "2 tsp",
+            "metric_amount": "10 g"
+        },
+        {
+            "name": "sal kosher, al gusto",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Pimienta negra recién molida, al gusto",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "espinaca bebé",
+            "us_amount": "12 oz",
+            "metric_amount": "340 ml"
+        }
+    ],
+    "instructions": [
+        "Combine las bolitas de mozzarella, los tomates y los garbanzos en un bol mediano. Agregue el aceite de oliva. Revuelva, pruebe y agregue sal y pimienta a gusto.",
+        "Lave las espinacas y colóquelas en capas en el fondo de un recipiente para servir. Coloque 1/2 taza de la mezcla de mozzarella, tomate y garbanzos sobre las espinacas. Sirva a temperatura ambiente."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Dinner",
+        "Salads",
+        "Quick & Easy",
+        "Sides",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "155",
+        "total_fat": "7g",
+        "saturated_fat": "2.3g",
+        "trans_fat": "0g",
+        "cholesterol": "5mg",
+        "sodium": "165mg",
+        "total_carbohydrate": "16g",
+        "fiber": "5g",
+        "sugar": "0g",
+        "added_sugar": "0g",
+        "protein": "10g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/mozzarella-tomato-and-chickpea-salad"
+}

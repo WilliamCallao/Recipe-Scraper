@@ -1,0 +1,112 @@
+{
+    "title": "Gumbo de Verduras",
+    "keywords": "Dinner,Vegetarian,Main Dish,Foodie",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Dinner",
+        "Vegetarian",
+        "Main Dish",
+        "Foodie"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Recid_578_Veggie_Gumbo_PNCImages_03012018.jpg",
+    "servings": "6 Servings",
+    "ingredients": [
+        {
+            "name": "aceite vegetal",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "harina para todo uso",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cebolla pequeña (cortada en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimiento verde (sin semillas y cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "pimiento rojo (sin semillas y cortado en cubitos)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "apio (cortado en cubitos)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "ajo (picado)",
+            "us_amount": "3 diente",
+            "metric_amount": "3 diente"
+        },
+        {
+            "name": "sal",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/2 tsp",
+            "metric_amount": "2 g"
+        },
+        {
+            "name": "condimento cajún sin sal",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "caldo de verduras bajo en sodio",
+            "us_amount": "3 cup",
+            "metric_amount": "710 ml"
+        },
+        {
+            "name": "espinaca bebé",
+            "us_amount": "9 oz",
+            "metric_amount": "255 ml"
+        },
+        {
+            "name": "guisantes de ojo negro (escurridos y enjuagados)",
+            "us_amount": "1 (14.5-oz) can",
+            "metric_amount": "1 (14.5-oz) can"
+        }
+    ],
+    "instructions": [
+        "Añade el aceite vegetal a una olla grande a fuego medio-alto. Añade la harina y cocina, revolviendo, hasta que se dore, aproximadamente 3 minutos.",
+        "Añade la cebolla, los pimientos morrones, el apio y el ajo. Reduce el fuego a medio y cocina, revolviendo con frecuencia, hasta que las verduras se ablanden, aproximadamente de 5 a 7 minutos.",
+        "Añade la sal (opcional), la pimienta negra molida y el condimento cajún. Cocina durante un minuto más.",
+        "Vierta el caldo de verduras, raspando los restos dorados del fondo de la olla. Lleve a ebullición, luego reduzca el fuego a fuego lento y cubra.",
+        "Cocine a fuego lento, tapado, durante 40 minutos, revolviendo de vez en cuando.",
+        "Añade las espinacas y los frijoles carita negra. Sigue cocinando a fuego lento hasta que las espinacas se ablanden."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "High in Fiber",
+        "Comfort Food",
+        "Dinner",
+        "Vegetarian",
+        "Main Dish",
+        "Foodie"
+    ],
+    "nutrition": {
+        "calories": "160",
+        "total_fat": "6g",
+        "saturated_fat": "0.6g",
+        "trans_fat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "440mg",
+        "total_carbohydrate": "22g",
+        "fiber": "6g",
+        "sugar": "5g",
+        "added_sugar": "0g",
+        "protein": "6g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/veggie-gumbo"
+}

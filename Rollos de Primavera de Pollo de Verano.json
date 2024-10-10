@@ -1,0 +1,109 @@
+{
+    "title": "Rollos de Primavera de Pollo de Verano",
+    "keywords": "Budget Friendly,Dinner,Lunch",
+    "prep_time": "PT20M",
+    "cook_time": "Desconocido",
+    "categories": [
+        "Budget Friendly",
+        "Dinner",
+        "Lunch"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/528-diabetic-summer-chicken-spring-rolls_AdobeStock210424061_022421.jpg",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "repollo (rallado)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "Pollo cocido (desmenuzado)",
+            "us_amount": "1 1/2 cup",
+            "metric_amount": "355 ml"
+        },
+        {
+            "name": "zanahoria rallada",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "pepino cortado en cubitos",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cilantro fresco picado",
+            "us_amount": "1/4 cup",
+            "metric_amount": "59 ml"
+        },
+        {
+            "name": "hongos shiitake en rodajas finas",
+            "us_amount": "1/2 cup",
+            "metric_amount": "118 ml"
+        },
+        {
+            "name": "cebolla verde (picada)",
+            "us_amount": "1",
+            "metric_amount": "1"
+        },
+        {
+            "name": "Envoltorios de papel de arroz para rollitos de primavera",
+            "us_amount": "8",
+            "metric_amount": "8"
+        },
+        {
+            "name": "salsa de soja baja en sodio",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "vinagre de vino de arroz",
+            "us_amount": "3 tbsp",
+            "metric_amount": "44 ml"
+        },
+        {
+            "name": "agua caliente",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "1 tbsp",
+            "metric_amount": "15 ml"
+        },
+        {
+            "name": "Jengibre molido",
+            "us_amount": "1 tsp",
+            "metric_amount": "5 g"
+        }
+    ],
+    "instructions": [
+        "En un tazón mediano combine el repollo, el pollo, las zanahorias, los pepinos, el cilantro, los champiñones y la cebolla verde.",
+        "En un tazón pequeño, mezcle la salsa de soja, el vinagre, el agua caliente, el aceite de oliva y el jengibre.",
+        "Antes de usar, remoje la piel del rollito de primavera en agua durante 10 a 15 segundos y sacuda el exceso de agua. Coloque aproximadamente 1/3 de taza de la mezcla de pollo y vegetales en el fondo del rollito de primavera. Tome el borde del rollito de primavera más cercano a usted y dóblelo para cubrir el relleno. Tome los bordes laterales y dóblelos firmemente. Enrolle hacia afuera para sellar. Repita el procedimiento para los rollitos de primavera restantes.",
+        "Sirva los rollitos de primavera con salsa para mojar."
+    ],
+    "tags": [
+        "CKD Dialysis",
+        "CKD Non-Dialysis",
+        "Kidney-Friendly",
+        "Asian",
+        "Budget Friendly",
+        "Dinner",
+        "Lunch"
+    ],
+    "nutrition": {
+        "calories": "250",
+        "total_fat": "8g",
+        "saturated_fat": "1.7g",
+        "trans_fat": "0g",
+        "cholesterol": "45mg",
+        "sodium": "420mg",
+        "total_carbohydrate": "26g",
+        "fiber": "2g",
+        "sugar": "2g",
+        "added_sugar": "0g",
+        "protein": "18g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/summer-chicken-spring-rolls"
+}

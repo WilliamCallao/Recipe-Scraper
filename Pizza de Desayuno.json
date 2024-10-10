@@ -1,0 +1,104 @@
+{
+    "title": "Pizza de Desayuno",
+    "keywords": "Breakfast and Brunch,Dinner",
+    "prep_time": "PT15M",
+    "cook_time": "PT35M",
+    "categories": [
+        "Breakfast and Brunch",
+        "Dinner"
+    ],
+    "image_url": "https://diabetesfoodhub.org/sites/foodhub/files/Breakfast%20Pizza%20Diabetes.png",
+    "servings": "4 Servings",
+    "ingredients": [
+        {
+            "name": "corteza de pizza de coliflor",
+            "us_amount": "1 whole",
+            "metric_amount": "1 whole"
+        },
+        {
+            "name": "Tocino de pavo, bajo en sodio",
+            "us_amount": "3 slice",
+            "metric_amount": "3 slice"
+        },
+        {
+            "name": "aceite de oliva",
+            "us_amount": "2 tbsp",
+            "metric_amount": "30 ml"
+        },
+        {
+            "name": "cebolla(s) (picadas)",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "pimiento rojo picado",
+            "us_amount": "1 med",
+            "metric_amount": "1 med"
+        },
+        {
+            "name": "pimienta negra",
+            "us_amount": "1/4 tsp",
+            "metric_amount": "1 g"
+        },
+        {
+            "name": "col rizada (sin tallos, picada y limpia)",
+            "us_amount": "large bunch",
+            "metric_amount": "large bunch"
+        },
+        {
+            "name": "espinaca (picada)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        },
+        {
+            "name": "huevos (batidos)",
+            "us_amount": "2 large",
+            "metric_amount": "2 large"
+        },
+        {
+            "name": "claras de huevo (batidas)",
+            "us_amount": "3 large",
+            "metric_amount": "3 large"
+        },
+        {
+            "name": "cebolla verde (cebolleta)",
+            "us_amount": "2 stalks",
+            "metric_amount": "2 stalks"
+        },
+        {
+            "name": "requesón (dividido)",
+            "us_amount": "1 cup",
+            "metric_amount": "237 ml"
+        }
+    ],
+    "instructions": [
+        "Cocine el tocino de pavo según las instrucciones del paquete. Déjelo enfriar y luego desmenúcelo o córtelo en trozos. Reserve.",
+        "Precaliente el horno a 425 grados F.",
+        "Mientras tanto, saltee las cebollas, los pimientos y la col rizada en aceite de oliva a fuego medio alto hasta que se ablanden, durante 10 minutos. Agregue la espinaca picada. Revuelva para incorporar y cocine hasta que se ablande.",
+        "En un bol, bate los huevos y las claras. En la misma sartén donde sofreíste las cebollas y los pimientos, añade los huevos y mézclalos con las verduras. Cocina hasta que estén ligeramente revueltos, es decir, no completamente cocidos. Terminarán de cocinarse en el horno.",
+        "Retirar del fuego y agregar los trozos de tocino de pavo y ½ taza de requesón. Mezclar bien.",
+        "Saque la masa de pizza CAULIPOWER del congelador y esparza el requesón como si fuera una salsa para pizza. Esparza el requesón hasta los bordes para obtener un mejor sabor.",
+        "Extiende la mezcla de huevo sobre el requesón. Espolvorea las cebolletas uniformemente sobre la pizza.",
+        "Hornee directamente sobre la rejilla del horno durante 15 minutos o hasta que la corteza esté crujiente."
+    ],
+    "tags": [
+        "Veggie Rich",
+        "Comfort Food",
+        "Breakfast and Brunch",
+        "Dinner"
+    ],
+    "nutrition": {
+        "calories": "340",
+        "total_fat": "140g",
+        "saturated_fat": "3.3g",
+        "trans_fat": "0g",
+        "cholesterol": "120mg",
+        "sodium": "480mg",
+        "total_carbohydrate": "31g",
+        "fiber": "3g",
+        "sugar": "6g",
+        "added_sugar": "0g",
+        "protein": "17g"
+    },
+    "url": "https://diabetesfoodhub.org/recipes/breakfast-pizza"
+}
